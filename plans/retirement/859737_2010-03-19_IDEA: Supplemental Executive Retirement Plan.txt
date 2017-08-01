@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+<XBRL>
+<?xml version="1.0" encoding="utf-8"?>
+<InstanceReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Version>2.0.0.10</Version>
+<hasSegments>false</hasSegments>
+<ReportName>Supplemental Executive Retirement Plan</ReportName>
+<ReportLongName>116 - Disclosure - Supplemental Executive Retirement Plan</ReportLongName>
+<DisplayLabelColumn>true</DisplayLabelColumn>
+<ShowElementNames>false</ShowElementNames>
+<RoundingOption />
+<HasEmbeddedReports>false</HasEmbeddedReports>
+<Columns>
+<Column>
+<LabelColumn>false</LabelColumn>
+<Id>1</Id>
+<Labels>
+<Label Id="1" Label="12 Months Ended" />
+<Label Id="2" Label="Sep. 26, 2009" />
+</Labels>
+<CurrencyCode>usd</CurrencyCode>
+<CurrencySymbol>$</CurrencySymbol>
+<FootnoteIndexer />
+<hasSegments>false</hasSegments>
+<hasScenarios>false</hasScenarios>
+<Segments />
+<Scenarios />
+<Units>
+<Unit>
+<UnitID>iso4217_USD</UnitID>
+<UnitType>Standard</UnitType>
+<StandardMeasure>
+<MeasureSchema>http://www.xbrl.org/2003/iso4217</MeasureSchema>
+<MeasureValue>USD</MeasureValue>
+<MeasureNamespace>iso4217</MeasureNamespace>
+</StandardMeasure>
+<Scale>0</Scale>
+</Unit>
+<Unit>
+<UnitID>iso4217_USD_per_shares</UnitID>
+<UnitType>Divide</UnitType>
+<NumeratorMeasure>
+<MeasureSchema>http://www.xbrl.org/2003/iso4217</MeasureSchema>
+<MeasureValue>USD</MeasureValue>
+<MeasureNamespace>iso4217</MeasureNamespace>
+</NumeratorMeasure>
+<DenominatorMeasure>
+<MeasureSchema>http://www.xbrl.org/2003/instance</MeasureSchema>
+<MeasureValue>shares</MeasureValue>
+<MeasureNamespace />
+</DenominatorMeasure>
+<Scale>0</Scale>
+</Unit>
+<Unit>
+<UnitID>shares</UnitID>
+<UnitType>Standard</UnitType>
+<StandardMeasure>
+<MeasureSchema>http://www.xbrl.org/2003/instance</MeasureSchema>
+<MeasureValue>shares</MeasureValue>
+<MeasureNamespace />
+</StandardMeasure>
+<Scale>0</Scale>
+</Unit>
+</Units>
+</Column>
+</Columns>
+<Rows>
+<Row>
+<Id>5</Id>
+<Label>Supplemental Executive Retirement Plan</Label>
+<Level>3</Level>
+<ElementName>holx_SupplementalExecutiveRetirementPlanDisclosureTextBlock</ElementName>
+<ElementPrefix>holx</ElementPrefix>
+<IsBaseElement>false</IsBaseElement>
+<BalanceType>na</BalanceType>
+<PeriodType>duration</PeriodType>
+<ElementDataType>string</ElementDataType>
+<ShortDefinition>Description of retirement plan for executives that also provides for the deferral of compensation. This plan can include...</ShortDefinition>
+<IsReportTitle>false</IsReportTitle>
+<IsSegmentTitle>false</IsSegmentTitle>
+<IsSubReportEnd>false</IsSubReportEnd>
+<IsCalendarTitle>false</IsCalendarTitle>
+<IsTuple>false</IsTuple>
+<IsAbstractGroupTitle>false</IsAbstractGroupTitle>
+<IsEquityPrevioslyReportedAsRow>false</IsEquityPrevioslyReportedAsRow>
+<IsEquityAdjustmentRow>false</IsEquityAdjustmentRow>
+<IsBeginningBalance>false</IsBeginningBalance>
+<IsEndingBalance>false</IsEndingBalance>
+<IsReverseSign>false</IsReverseSign>
+<PreferredLabelRole />
+<IsEPS>false</IsEPS>
+<FootnoteIndexer />
+<Cells>
+<Cell>
+<Id>1</Id>
+<ShowCurrencySymbol>false</ShowCurrencySymbol>
+<IsNumeric>false</IsNumeric>
+<IsRatio>false</IsRatio>
+<DisplayZeroAsNone>false</DisplayZeroAsNone>
+<NumericAmount>0</NumericAmount>
+<RoundedNumericAmount>0</RoundedNumericAmount>
+<NonNumbericText>&lt;div&gt;
+&lt;table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0"&gt;
+&lt;tr&gt;
+&lt;td valign="top" align="left" width="4%"&gt;&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;&lt;b&gt;11.&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;
+&lt;td valign="top" align="left"&gt;&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;&lt;b&gt;Supplemental Executive
+Retirement Plan&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="MARGIN-TOP: 6px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 4%"&gt;
+&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;Effective
+March&amp;#xA0;15, 2006, the Company adopted a SERP to provide
+non-qualified retirement benefits to a select group of executive
+officers, senior management and highly compensated employees of the
+Company. Eligible employees may elect to contribute up to 75% of
+their annual base salary and 100% of their annual bonus to the SERP
+and such employee contributions are 100% vested. In addition, the
+Company may elect to make annual discretionary contributions on
+behalf of participants in the SERP. Each Company contribution is
+subject to a three year vesting schedule, such that each
+contribution vests one third annually. Employee contributions are
+recorded within accrued expenses in the Consolidated Balance
+Sheets.&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN-TOP: 12px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 4%"&gt;
+&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;Upon enrollment
+into the SERP, employees make investment elections for both their
+voluntary contributions and discretionary contributions, if any,
+made by the Company. Earnings and losses on contributions based on
+these investment elections are recorded as a component of
+compensation expense in the period earned.&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN-TOP: 12px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 4%"&gt;
+&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;On
+October&amp;#xA0;30, 2006 and October&amp;#xA0;22, 2007, the Compensation
+Committee of the Board of Directors approved a $1,500 discretionary
+cash contribution to the SERP for each year. In November 2008, the
+Compensation Committee of the Board of Directors approved a $2,825
+discretionary contribution to the SERP for fiscal 2008.
+Discretionary contributions by the Company to the SERP are held in
+a Rabbi Trust. The Company is recording compensation expense for
+the SERP discretionary contribution ratably over the three-year
+vesting period, which totaled $1,815, $876 and $442 in fiscal years
+2009, 2008 and 2007, respectively. The full amount of the
+discretionary contribution, net of forfeitures, is recorded within
+accrued expenses in the Consolidated Balance Sheets.&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN-TOP: 12px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 4%"&gt;
+&lt;font style="FONT-FAMILY: Times New Roman" size="2"&gt;The Company has
+purchased Company-owned group life insurance contracts, in which
+both voluntary and discretionary Company SERP contributions are
+invested, to fund payment of the Company&amp;#x2019;s obligation to the
+SERP participants. The total amount invested at September&amp;#xA0;26,
+2009 and September&amp;#xA0;27, 2008 was $11,602 and $5,575,
+respectively, which approximated the total of employee voluntary
+contributions into the plan and the Company&amp;#x2019;s cash portion of
+its discretionary contribution. The values of these life insurance
+contracts are recorded with other long-term assets in the
+Consolidated Balance Sheets. Changes in the cash surrender value of
+life insurance contracts, which were immaterial in fiscal 2009,
+2008 and 2007, are recorded as a component of (expense) other
+income, net in the Consolidated Statement of Operations.&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;font size="1"&gt;&amp;#xA0;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;</NonNumbericText>
+<NonNumericTextHeader>11.
+Supplemental Executive
+Retirement Plan
+
+
+
+Effective
+March&amp;#xA0;15, 2006, the Company adopted a SERP to provide
+non-qualified retirement benefits to a</NonNumericTextHeader>
+<FootnoteIndexer />
+<hasSegments>false</hasSegments>
+<hasScenarios>false</hasScenarios>
+<DisplayDateInUSFormat>false</DisplayDateInUSFormat>
+</Cell>
+</Cells>
+<OriginalInstanceReportColumns />
+<ElementDefenition>Description of retirement plan for executives that also provides for the deferral of compensation. This plan can include currently earned compensation and/or discretionary contributions approved by the Board of Directors, that are under a rabbi trust, and are paid at a later date, generally at retirement or termination from the Company.</ElementDefenition>
+<ElementReferences>No authoritative reference available.</ElementReferences>
+<IsTotalLabel>false</IsTotalLabel>
+</Row>
+</Rows>
+<Footnotes />
+<ComparabilityReport>false</ComparabilityReport>
+<NumberOfCols>1</NumberOfCols>
+<NumberOfRows>1</NumberOfRows>
+<HasScenarios>false</HasScenarios>
+<MonetaryRoundingLevel>UnKnown</MonetaryRoundingLevel>
+<SharesRoundingLevel>UnKnown</SharesRoundingLevel>
+<PerShareRoundingLevel>UnKnown</PerShareRoundingLevel>
+<HasPureData>false</HasPureData>
+<SharesShouldBeRounded>true</SharesShouldBeRounded>
+</InstanceReport>
+</XBRL>
+

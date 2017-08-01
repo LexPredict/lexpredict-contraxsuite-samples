@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+<XBRL>
+<?xml version="1.0" encoding="us-ascii"?><InstanceReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Version>2.2.0.25</Version><hasSegments>false</hasSegments><hasScenarios>false</hasScenarios><ReportLongName>10801 - Disclosure - RETIREMENT AND CONSULTING AGREEMENT</ReportLongName><DisplayLabelColumn>true</DisplayLabelColumn><ShowElementNames>false</ShowElementNames><RoundingOption /><HasEmbeddedReports>false</HasEmbeddedReports><Columns><Column><Id>1</Id><IsAbstractGroupTitle>false</IsAbstractGroupTitle><LabelColumn>false</LabelColumn><CurrencyCode>USD</CurrencyCode><FootnoteIndexer /><hasSegments>false</hasSegments><hasScenarios>false</hasScenarios><MCU><KeyName>2/1/2010 - 10/31/2010
+USD ($)
+
+USD ($) / shares
+
+</KeyName><CurrencySymbol>$</CurrencySymbol><contextRef><ContextID>Duration_2_1_2010_To_10_31_2010</ContextID><EntitySchema>http://www.sec.gov/CIK</EntitySchema><EntityValue>0000719955</EntityValue><PeriodDisplayName /><PeriodType>duration</PeriodType><PeriodStartDate>2010-02-01T00:00:00</PeriodStartDate><PeriodEndDate>2010-10-31T00:00:00</PeriodEndDate><Segments /><Scenarios /></contextRef><UPS><UnitProperty><UnitID>Unit12</UnitID><UnitType>Standard</UnitType><StandardMeasure><MeasureSchema>http://www.xbrl.org/2003/iso4217</MeasureSchema><MeasureValue>USD</MeasureValue><MeasureNamespace>iso4217</MeasureNamespace></StandardMeasure><Scale>0</Scale></UnitProperty><UnitProperty><UnitID>Unit13</UnitID><UnitType>Divide</UnitType><NumeratorMeasure><MeasureSchema>http://www.xbrl.org/2003/iso4217</MeasureSchema><MeasureValue>USD</MeasureValue><MeasureNamespace>iso4217</MeasureNamespace></NumeratorMeasure><DenominatorMeasure><MeasureSchema>http://www.xbrl.org/2003/instance</MeasureSchema><MeasureValue>shares</Measure
+Value><MeasureNamespace>xbrli</MeasureNamespace></DenominatorMeasure><Scale>0</Scale></UnitProperty><UnitProperty><UnitID>Unit1</UnitID><UnitType>Standard</UnitType><StandardMeasure><MeasureSchema>http://www.xbrl.org/2003/instance</MeasureSchema><MeasureValue>shares</MeasureValue><MeasureNamespace>xbrli</MeasureNamespace></StandardMeasure><Scale>0</Scale></UnitProperty></UPS><CurrencyCode>USD</CurrencyCode><OriginalCurrencyCode>USD</OriginalCurrencyCode></MCU><CurrencySymbol>$</CurrencySymbol><Labels><Label Id="1" Label="9 Months Ended" /><Label Id="2" Label="Oct. 31, 2010" /></Labels></Column></Columns><Rows><Row><Id>2</Id><IsAbstractGroupTitle>true</IsAbstractGroupTitle><Level>0</Level><ElementName>wsm_RetirementAndConsultingAgreementAbstract</ElementName><ElementPrefix>wsm</ElementPrefix><IsBaseElement>false</IsBaseElement><BalanceType>na</BalanceType><PeriodType>duration</PeriodType><ShortDefinition>Retirement and Consulting Agreement</ShortDefinition><IsReportTitle>false</IsReportTitle><IsSegmentTitle>f
+alse</IsSegmentTitle><IsSubReportEnd>false</IsSubReportEnd><IsCalendarTitle>false</IsCalendarTitle><IsTuple>false</IsTuple><IsEquityPrevioslyReportedAsRow>false</IsEquityPrevioslyReportedAsRow><IsEquityAdjustmentRow>false</IsEquityAdjustmentRow><IsBeginningBalance>false</IsBeginningBalance><IsEndingBalance>false</IsEndingBalance><IsReverseSign>false</IsReverseSign><PreferredLabelRole /><FootnoteIndexer /><Cells><Cell><Id>1</Id><IsNumeric>false</IsNumeric><IsRatio>false</IsRatio><DisplayZeroAsNone>false</DisplayZeroAsNone><NumericAmount>0</NumericAmount><RoundedNumericAmount>0</RoundedNumericAmount><NonNumbericText /><NonNumericTextHeader /><FootnoteIndexer /><CurrencyCode /><CurrencySymbol /><IsIndependantCurrency>false</IsIndependantCurrency><ShowCurrencySymbol>false</ShowCurrencySymbol><DisplayDateInUSFormat>false</DisplayDateInUSFormat><hasSegments>false</hasSegments><hasScenarios>false</hasScenarios></Cell></Cells><OriginalInstanceReportColumns /><Unit>Other</Unit><ElementDataType>xbrli:stringItemType</E
+lementDataType><SimpleDataType>string</SimpleDataType><ElementDefenition>Retirement and Consulting Agreement</ElementDefenition><IsTotalLabel>false</IsTotalLabel><IsEPS>false</IsEPS><Label>Retirement and Consulting Agreement</Label></Row><Row><Id>3</Id><IsAbstractGroupTitle>false</IsAbstractGroupTitle><Level>0</Level><ElementName>us-gaap_RelatedPartyTransactionsDisclosureTextBlock</ElementName><ElementPrefix>us-gaap</ElementPrefix><IsBaseElement>true</IsBaseElement><BalanceType>na</BalanceType><PeriodType>duration</PeriodType><ShortDefinition>No definition available.</ShortDefinition><IsReportTitle>false</IsReportTitle><IsSegmentTitle>false</IsSegmentTitle><IsSubReportEnd>false</IsSubReportEnd><IsCalendarTitle>false</IsCalendarTitle><IsTuple>false</IsTuple><IsEquityPrevioslyReportedAsRow>false</IsEquityPrevioslyReportedAsRow><IsEquityAdjustmentRow>false</IsEquityAdjustmentRow><IsBeginningBalance>false</IsBeginningBalance><IsEndingBalance>false</IsEndingBalance><IsReverseSign>false</IsReverseSign><PreferredLa
+belRole>terselabel</PreferredLabelRole><FootnoteIndexer /><Cells><Cell><Id>1</Id><IsNumeric>false</IsNumeric><IsRatio>false</IsRatio><DisplayZeroAsNone>false</DisplayZeroAsNone><NumericAmount>0</NumericAmount><RoundedNumericAmount>0</RoundedNumericAmount><NonNumbericText>&lt;div&gt;
+&lt;p style="margin-top: 12px; margin-bottom: 0px;"&gt;&lt;font style="font-family: Times New Roman;" class="_mt" size="2"&gt;&lt;b&gt;NOTE H:&amp;nbsp;RETIREMENT AND CONSULTING AGREEMENT &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p style="margin-top: 12px; margin-bottom: 0px;"&gt;&lt;font style="font-family: Times New Roman;" class="_mt" size="2"&gt;On January&amp;nbsp;25, 2010, the independent members of the Board of Directors (the "Board") of Williams-Sonoma, Inc. (the "Company") approved the Company's entry into a Retirement and Consulting Agreement (the "Agreement") with W. Howard Lester, the Company's former Chairman and Chief Executive Officer.&amp;nbsp;Pursuant to the terms of the Agreement, Mr.&amp;nbsp;Lester retired as Chairman and Chief Executive Officer and as a member of the Board on May&amp;nbsp;26, 2010. Upon his retirement and in recognition of his contributions to the Company, Mr.&amp;nbsp;Lester received, among other things, accelerated vesting of his outstanding stock options, stock-settled stock appreciation rights and restricted stock units. The total expense recorded in the thirty-nine weeks ended October&amp;nbsp;31, 2010 associated with Mr.&amp;nbsp;Lester's retirement, consisting primarily of stock-based
+compensation expense, was approximately $4,319,000. As a result of Mr.&amp;nbsp;Lester's death on November&amp;nbsp;15, 2010, the Agreement terminated and all unvested stock units and cash payments granted under the Agreement were forfeited.&lt;/font&gt;&lt;/p&gt; &lt;/div&gt;</NonNumbericText><NonNumericTextHeader>NOTE H:&amp;nbsp;RETIREMENT AND CONSULTING AGREEMENT
+On January&amp;nbsp;25, 2010, the independent members of the Board of Directors (the "Board") of Williams-Sonoma,</NonNumericTextHeader><FootnoteIndexer /><CurrencyCode /><CurrencySymbol /><IsIndependantCurrency>false</IsIndependantCurrency><ShowCurrencySymbol>false</ShowCurrencySymbol><DisplayDateInUSFormat>false</DisplayDateInUSFormat><hasSegments>false</hasSegments><hasScenarios>false</hasScenarios></Cell></Cells><OriginalInstanceReportColumns /><Unit>Other</Unit><ElementDataType>us-types:textBlockItemType</ElementDataType><SimpleDataType>string</SimpleDataType><ElementDefenition>This element may be used for the entire related party transactions disclosure as a single block of text. Disclosure may include:  the nature of the relationship(s), a description of the transactions, the amount of the transactions, the effects of any change in the method of establishing the terms of the transaction from the previous period, stated interest rate, expiration date, terms and manner of settlement per the agreement wi
+th the related party, and amounts due to or from related parties. If the entity and one or more other entities are under common ownership or management control and this control affects the operating results or financial position, disclosure includes the nature of the control relationship even if there are no transactions between the entities. Disclosure may also include the aggregate amount of current and deferred tax expense for each statement of earnings presented where the entity is a member of a group that files a consolidated tax return, the amount of any tax related balances due to or from affiliates as of the date of each statement of financial position presented, the principal provisions of the method by which the consolidated amount of current and deferred tax expense is allocated to the members of the group and the nature and effect of any changes in that method. Examples of related party transactions include transactions between (a) a parent company and its subsidiary; (b) subsidiaries of a common
+parent; (c) and entity and its principal owners; and (d) affiliates.</ElementDefenition><ElementReferences>Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Regulation S-X (SX)
+-Number 210
+-Section 04
+-Paragraph b
+-Article 3A
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Regulation S-X (SX)
+-Number 210
+-Section 08
+-Paragraph k
+-Article 4
+
+Reference 3: http://www.xbrl.org/2003/role/presentationRef
+-Publisher FASB
+-Name Statement of Financial Accounting Standard (FAS)
+-Number 57
+-Paragraph 1-4
+
+</ElementReferences><IsTotalLabel>false</IsTotalLabel><IsEPS>false</IsEPS><Label>RETIREMENT AND CONSULTING AGREEMENT</Label></Row></Rows><Footnotes /><NumberOfCols>1</NumberOfCols><NumberOfRows>2</NumberOfRows><ReportName>RETIREMENT AND CONSULTING AGREEMENT</ReportName><MonetaryRoundingLevel>UnKnown</MonetaryRoundingLevel><SharesRoundingLevel>UnKnown</SharesRoundingLevel><PerShareRoundingLevel>UnKnown</PerShareRoundingLevel><ExchangeRateRoundingLevel>UnKnown</ExchangeRateRoundingLevel><HasCustomUnits>false</HasCustomUnits><SharesShouldBeRounded>true</SharesShouldBeRounded></InstanceReport>
+</XBRL>
+
