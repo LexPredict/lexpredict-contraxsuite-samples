@@ -1,0 +1,1032 @@
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.38
+
+
+
+SOFTWARE LICENSE
+AND MAINTENANCE
+AGREEMENT
+
+
+
+
+This is a standard WINS Software License Agreement prepared
+by The Wheatly Group, Ltd. This contract may not
+be altered in part or in whole.
+
+
+
+<PAGE>
+
+
+
+SOFTWARE LICENSE AGREEMENT
+FOR
+Home State Insurance Company
+
+This Agreement is entered into and effective this day of August 12,
+1994 by and between The Wheatly Group, Ltd., a New York corporation with offices
+at One Huntington Quadrangle, Melville, New York 11747 (hereinafter called
+"Licensor") and Home State Insurance Management, Inc. with offices at
+
+One Harding Road
+Red Bank, NJ 07701
+
+(hereinafter called "Licensee").
+
+WHEREAS, Licensor has developed certain software and related documentation known
+as the WINS insurance information processing system (hereinafter referred to as
+WINS), including object code and source code, and will provide a copy for
+Licensee's internal use only for the lines of business as described in the
+attached Product Description/Price Schedule;
+
+WHEREAS, Licensor is willing to grant such rights as hereinafter defined in
+consideration of payment as hereinafter set forth;
+
+NOW THEREFORE, in consideration of the mutual convenants and conditions set
+forth herein it is agreed as follows:
+
+Section 1
+
+LICENSE
+
+1.1 Licensor grants to Licensee a 5 year, non-exclusive,
+non-transferable license for products described in the attached WINS Product
+Description/Price Schedule to use WINS only for its own internal use in a single
+AS/400 machine. Such license may not be assigned, sub-licensed, or otherwise
+transferred by License without prior written consent of Licensor, except as
+provided in Section 5.2. No right to copy WINS, in whole or in part, is granted
+except as hereinafter expressly provided. The serial number(s) of the single
+computer system on which WINS will be used is ______________.
+
+1.2 At the conclusion of this license term, will have the option to
+extend this Software License Agreement, at no additional cost, by signing a new
+5 year Maintenance Agreement, and thereby automatically extend the software
+license for as long as a Maintenance Agreement is in effect, or, forego
+maintenance and opt for a separate extension of this Software License Agreement
+for multiple 5 year consecutive terms at a cost of 25 percent of the total
+software license fees listed in this Agreement.
+
+Section 2
+
+PAYMENT
+
+Payment is in compliance with the payment schedule listed in the
+Product Description/Price Schedule.
+
+Software License Agreement                                                Page 1
+
+
+<PAGE>
+
+
+Section 3
+
+RIGHT TO COPY
+
+WINS may be copied, in whole or in part, in print or machine-readable
+form solely for on-site and off-site backup and disaster recovery purposes.
+
+Section 4
+
+WINS REMAINS LICENSOR'S PROPERTY
+
+Title to WINS licensed hereunder and all rights therein, including all
+rights in patents, copyrights, trademarks and trade secrets applicable thereto,
+or to any modifications or derivatives of WINS, shall remain vested in Licensor,
+unless otherwise specifically agreed to in writing in advance of any such
+modifications or derivatives. Any type or manner of copies made by Licensee, in
+whole or in part, shall remain Licensor's property.
+
+Section 5
+
+PROTECTION AND SECURITY
+
+5.1 With reference to any copyright notice or other proprietary legend
+of Licensor associated with WINS, Licensee agrees to include the same on all
+copies it makes, in whole or in part, and to include the same on any updated
+work. Licensor's copyright notice may appear in any of several forms, including
+machine-readable form within WINS.
+
+5.2 Licensee agrees to hold WINS in confidence and not to provide or
+otherwise make available in any form the system or any portion thereof, to any
+person other than employees of Licensee or Licensor without prior written
+consent thereof by Licensor. Licensee agrees to obtain the written agreement of
+each such employee of Licensee to abide by the applicable terms of this
+Agreement.
+
+5.3 Each party acknowledges that all information concerning the
+business of the other party is "Confidential and Proprietary Information." Each
+party agrees that it will not permit the duplication, use or disclosure of any
+such Confidential and Proprietary Information to any person (other than its own
+employees who must have such information for the performance of its obligations
+under this Agreement), unless authorized in writing by the other party.
+"Confidential and Proprietary Information" is not meant to include any
+information which, at the time of disclosure, is generally known by the public
+or in the trade.
+
+
+Software License Agreement                                                Page 2
+
+
+<PAGE>
+
+
+Section 6
+
+TERMINATION
+
+Licensor may terminate this Agreement if Licensee is in default of any
+of the terms and conditions of this Agreement and termination is effective if
+Licensee fails to correct such default within 30 days after written notice
+thereof by Licensor. In the event of termination, Licensee shall immediately
+cease using WINS and, at the option of Licensor, either return to Licensor or
+destroy any and all copies of WINS, giving Licensor a written statement
+certifying such return or destruction.
+
+Section 7
+
+MAINTENANCE
+
+Wheatly requires a maintenance program for the term of this License
+Agreement as stated in the attached Maintenance Agreement.
+
+Section 8
+
+WARRANTY
+
+8.1 Licensor warrants that WINS upon original delivery shall conform to
+the product specifications, descriptions and user documentation delivered by
+Licensor. In case of failure of WINS to perform as warranted, Licensor shall
+replace or correct WINS as soon as possible so that it will perform in
+substantial conformance with the product specifications, descriptions and
+applicable user documentation at no charge to Licensee. If such programs are
+altered from their delivered basis by the Licensee, then this warranty is null
+and void. All reasonable out-of-pocket expenses are additional and billed at
+cost at the time they are incurred, unless it is demonstrably clear that the
+out-of-pocket expenses are as a result of a "bug" in the Licensor's software and
+are of no fault of the Licensee.
+
+8.2 The foregoing states the Licensor's sole liability for warranty
+claims. This warranty is exclusive of WINS maintenance as described in
+Section 7.
+
+Section 9
+
+DISCLAIMER OF WARRANTY
+
+Except as provided in Section 8, no other warranty is provided with
+respect to WINS, whether express, implied, or statutory, including implied
+warranties of merchantability or fitness for a particular purpose.
+
+
+Software License Agreement                                                Page 3
+
+
+<PAGE>
+
+
+Section 10
+
+PATENT AND COPYRIGHT INDEMNITY
+
+
+10.1 Licensor agrees to defend at its expense any suits against
+Licensee based upon a claim that WINS directly infringes a U.S. patent or
+copyright, trademark or other proprietary right, and to pay costs and damages
+finally awarded in any suit, provided that Licensor is given control of said
+suit by Licensee and all reasonably requested assistance for defense of same.
+
+10.2 Licensor shall have no liability for any claim of copyright or
+patent infringement if the infringement arises out of compliance with Licensee's
+specification, or from the use of other than a current unaltered release of WINS
+available from Licensor if such infringement would have been avoided by the use
+of a current unaltered release of WINS, or from the use or combination of WINS
+with programs not supplied by Licensor.
+
+10.3 The foregoing states the entire liability of Licensor with respect
+to infringement of any proprietary rights, including patents, copyrights, or any
+other rights. In no event shall Licensor be liable for incidental or
+consequential damages arising from infringement or alleged infringement of
+patents or copyrights.
+
+Section 11
+
+LIMITATION OF LIABILITY
+
+Licensee agrees that Licensor's total liability under this Agreement
+above shall not exceed the fees paid by Licensee for WINS, except in Section 10.
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR INCIDENTAL, SPECIAL, INDIRECT, COVER OR
+CONSEQUENTIAL DAMAGES FOR THE USE OF WINS.
+
+Section 12
+
+APPLICABLE LAW
+
+This Agreement shall be governed by the laws of the state of New York.
+
+Section 13
+
+TAXES
+
+Licensee shall be responsible for the payment of all taxes in
+connection with this Agreement, except for any tax based on Licensor's net
+income.
+
+
+
+Software License Agreement                                                Page 4
+
+
+<PAGE>
+
+Section 14
+
+NOTICES
+
+All notices in connection with this Agreement shall be in writing via
+certified mail, return receipt requested, to the following address:
+
+If to Licensor:
+
+The Wheatley Group, Ltd.
+One Huntington Quadrangle
+Melville, New York 11747
+Attention: C.E.O. and President
+
+If to Licensee:
+
+(To address listed above, unless stated herein).
+
+For purposes of this Agreement, a notice shall be deemed effective upon
+receipt by the noticed party.
+
+Section 15
+
+ASSIGNMENT
+
+This Agreement may not be assigned by either party without the prior
+written consent of the other.
+
+Section 16
+
+PRECEDENCE
+
+This Agreement sets forth the entire understanding between the parties
+with respect to the subject matter herein, and shall not be replaced by any
+other facsimile thereof. This Agreement supercedes all prior written agreements,
+discussions and understandings, expressed or implied, concerning such matters,
+and shall take precedence over any conflicting terms which may be contained in
+Licensee's purchase order or any other form submitted by Licensee.
+
+
+
+Software License Agreement                                                Page 5
+
+<PAGE>
+
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed as of
+the day and year first written above.
+
+
+Home State                                    The Wheatley Group, Ltd.
+Licensee                                      Licensor
+
+
+/s/ Bob Abidor                                /s/ John Reeves
+Authorized Signature                          Authorized Signature
+
+
+CEO                                           Exec. Vice Pres.
+Title                                         Title
+
+8/12/94                                       8/12/94
+Date                                          Date
+
+
+Software License Agreement                                                Page 6
+
+<PAGE>
+
+
+
+PRODUCT DESCRIPTION/PRICE SCHEDULE
+FOR
+HOME STATE INSURANCE COMPANY
+
+
+I.   The standard WINS base system, including personal and commercial recording,
+consisting of:
+
+-- Policy Management
+-- Premium Accounting
+-- Claim Management
+-- Reinsurance Processing
+-- File Maintenance
+-- Management/Insurance Information
+-- Statistical Reporting
+
+Base License Fee:                                                      $195,000
+
+II.  Selected product processors for the specific lines of business required by
+Home State Insurance Company as listed below.
+
+(Each product processor includes standard WINS forms and is integrated with
+the standard WINS base system. Automatic rating for particular product
+processors, where applicable, is listed separately.)
+
+1.   Standard WINS Personal Automobile, including automatic rating for the
+states of Connecticut, Delaware, Maryland, New Jersey, New York,
+Pennsylvania, West Virginia, Georgia, Florida, South Carolina and
+Alabama
+
+Product License Fee:                                                   $125,000
+
+Additional standard ISO automatically rated states for Personal Auto (except
+Massachusetts) will be provided at $2,500 per state.
+
+2.   Standard WINS Commercial Auto
+
+Product License Fee:                                                   $ 50,000
+
+<PAGE>
+
+III. Additional Products and Services:
+
+1.   Eighty (80) WINS Standard Reports.
+
+2.   Up to twenty-five (25) days of implementation and training assistance
+provided by Wheatley.
+
+3.   WINS Documentation
+
+-- User Guides
+-- Operation Guides
+
+Based on the total WINS software package listed above, including the lines of
+business selected, the additional products and services listed in this section
+are included without additional charge, with the exception of out of pocket
+expenses, which are additional and are billed separately. Additional reports and
+additional implementation and training assistance may be purchased at Wheatley's
+prevailing rates. Unused implementation and training assistance days included in
+this section expire ninety (90) days after going live. Prices listed in this
+proposal are valid for ninety days from proposal date.
+
+IV.  Maintenance
+
+1.   WINS Maintenance Service provides ongoing support to the WINS
+operational system. This support is based on the total WINS software
+package, including the lines of business selected, and is required
+initially for a term of sixty (60) months commencing thirty days after
+initial delivery of WINS. It consists of:
+
+-- WINS Software Version Upgrades
+-- On-Line Trouble-Shooting
+-- Dial-Up communication from our Melville office
+-- Hot line service to Wheatley customer service
+-- Bureau & Regulatory Support
+
+Maintenance Fees, per month:                                            $ 5,250
+
+<PAGE>
+
+V.   Commercial Rating Interface
+
+The Wheatley Group and ISI, Inc. are in the process of developing an interface
+from The Insurance Writer commercial rating system to WINS. Phase one (new
+business and renewals) is completed and is currently being tested at an
+insurance company; phase two (endorsements and subsequent activity) is scheduled
+to be completed by October 1, 1994. If the interface is delivered by Wheatley to
+Home State before January 1, 1995, the cost for this interface will be as
+follows:
+
+Interface License Fee:                                                  $25,000
+
+Interface Maintenance Fee, per month:                                   $ 1,500
+
+If the interface is not delivered by January 1, 1995, the interface license fee
+will be reduced by $5,000 for each calendar month that it is not delivered
+(e.g. delivery in January: $20,000 interface license fee; delivery in February:
+$15,000; delivery in March: $10,000; etc.) until there is no charge for it.
+
+VI.  Payment Schedule
+
+The payment schedule for WINS will be as follows:
+
+1) Twenty percent (20%) of the total software license fee upon execution of
+this contract.
+
+2) Seventy percent (70%) of the total software license fee upon completion
+of successful installation of the standard WINS software described above.
+(Successful installation means that the software has been loaded on Home
+State's AS/400 and it is operational.)
+
+3) Ten Percent (10%) of the total software license fee thirty (30) days
+after Home State has gone into production with WINS, or on January 15,
+1995, whichever is earlier.
+
+The payment schedule for the commercial rating interface from The Insurance
+Writer to WINS will be as follows:
+
+1) Ninety percent (90%) of the interface license fee upon delivery of phase
+one and phase two of the interface, as described in section V. Commercial
+Rating Interface, above.
+
+2) Ten percent (10%) of the interface license fee thirty (30) days after
+delivery of the interface.
+
+Maintenance fees for the interface will begin thirty (30) days after delivery of
+the interface.
+
+
+<PAGE>
+
+
+MAINTENANCE AGREEMENT
+FOR
+Home State Insurance Company
+
+This Maintenance Agreement is entered into as of August 12, 1994 by and
+between The Wheatley Group, Ltd. (hereinafter called "Vendor"), and Home State
+Insurance Management, Inc. (hereinafter called "Customer").
+
+WHEREAS, Customer has acquired a license to use the Software owned by Vendor and
+identified below;
+
+WHEREAS, Customer wishes Vendor to perform certain maintenance services with
+respect to the Software, in accordance with the terms set forth herein;
+
+NOW THEREFORE, the parties agree as follows:
+
+Section 1
+
+DEFINITIONS
+
+1.1 "Software" shall mean the source and/or object code for Vendor's WINS
+standard software product, in whatsoever form, format and medium, related
+documentation or information and any corrections, modifications, updates and
+enhancements supplied from time to time by Vendor and which are licensed by
+Customer.
+
+1.2 "Maintenance Services" shall mean the maintenance services of Vendor
+described in Section 3 herein.
+
+Section 2
+
+PROVISION OF MAINTENANCE SERVICES
+
+In consideration of the payments to be made to the Vendor, the Vendor
+agrees to provide the Maintenance Services described in this Agreement with
+respect to the Software. The location(s) at which the Services shall be
+performed, and the term of this Agreement, shall be as set forth in Section 5
+herein and any schedule attached hereto.
+
+
+Maintenance Agreement                                                     Page 1
+
+
+<PAGE>
+
+
+Section 3
+
+MAINTENANCE RESPONSIBILITIES OF THE VENDOR
+
+3.1 Defects and Nonconformities. Vendor shall maintain the Software so that
+it operates in conformity with descriptions in the applicable Software License
+Agreement. Vendor shall correct defects and nonconformities discovered by the
+Customer, and in connection therewith shall furnish off-site telephone support,
+in the form of consultations, assistance and advice on the use and maintenance
+of the Software. In the event that such problem in the Software is not
+identified within 48 hours of the initiation of such off-site telephone support,
+Customer shall submit to Vendor a listing of output and all such other data
+which Vendor reasonably may request in order to reproduce operating conditions
+similar to those present when the defect or nonconformity was discovered. In the
+event that such problem is not corrected within a reasonable time after Vendor
+receives from Customer a listing of output and other data, Vendor shall make
+available on-site consulting in order to remedy the problem, but Customer shall
+be responsible for Vendor's actual travel and other out-of-pocket expenses,
+unless it is demonstrably clear that the out-of-pocket expenses are as a result
+of a "bug" in the Vendor's Software and are of no fault of the Customer.
+
+3.2   Inclusive Maintenance Services. During the term of this Maintenance
+Agreement, Vendor shall provide Customer with the following Maintenance
+Services:
+
+3.2.1 NAIC and ISO statistical bureau reporting changes for the lines of
+business listed in the attached Product Description/Price Schedule.
+
+3.2.2 Version upgrades of WINS to Wheatley's clients who are participants
+in the Maintenance Agreement.
+
+3.2.3 On-line troubleshooting, in the form of a hotline service to Wheatley
+customer service personnel, during regular business hours (8:00-8:00 EST) and a
+remote dial-up communication from the Melville, New York office of Wheatley.
+
+3.3 Additional Services. Any Customer-initiated requirements, ratings, new
+lines of business, new states, or special state requirements may be developed by
+Vendor for Customer for reasonable per diem rates and may be maintained by
+Vendor for an additional monthly maintenance fee. If any customer initiated
+requirements developed by vendor need to be retrofitted (because of a new
+software version upgrade or other enhancement), customer may contract with
+vendor to retrofit these requirements for reasonable per diem rates.
+
+3.4 Exclusions. Vendor shall not be responsible for the provisions of any
+Maintenance Services in the event that Customer fails to upgrade its IBM AS/400
+operating system software (OS/400) to its latest version within 60 days of the
+availability of any such upgrade to IBM's customers, and shall not be
+responsible for the provision of Maintenance Services to any portion of the
+Software which has been altered by Customer from its original state as delivered
+to Customer and subsequently modified by Vendor.
+
+
+Maintenance Agreement                                                     Page 2
+
+
+<PAGE>
+
+
+Section 4
+
+CHARGES
+
+4.1 Computation. Monthly charges shall be as stated in the attached Product
+Description/Price Schedule. These monthly charges shall be paid in advance of
+each month and shall cover all Maintenance Services provided under this
+Agreement, with the exception of out-of-pocket expenses, and all charges shall
+be paid within 10 days of receipt of the invoice.
+
+4.2 Price Protection and Changes. The charges as stated shall not be
+increased for a period of 1 year after commencement of services hereunder, and
+not to exceed annual increases in the Consumer Price Index in years two through
+five. Thereafter, such prices may be increased to Vendor's prevailing prices to
+its customers generally for similar services.
+
+Section 5
+
+TERM AND TERMINATION
+
+5.1 Term. This Agreement shall have an initial term of 5 years, and shall
+thereafter have optional renewal. Written notification of an election not to so
+renew is required to be forwarded by one party to the other at least 45 days
+prior to the expiration of the initial term or a renewal term, or unless
+terminated sooner in accordance herewith.
+
+5.2 Termination of Maintenance Agreement. If either the Vendor or the
+Customer terminates the License Agreement between the parties for any reason
+provided therein, Customer shall have the right without penalty to terminate
+this Agreement.
+
+5.3 Default. Each party has the right to terminate this Agreement if the
+other party breaches or is in default of any obligation hereunder which default
+is incapable of cure or which, being capable of cure, has not been cured within
+30 days after receipt of notice of such default (or such additional cure period
+as the nondefaulting party may authorize).
+
+5.4 Acts of Insolvency. Either party may immediately terminate this
+Agreement by written notice to the other and may regard the other party as in
+default of this Agreement, if the other party becomes insolvent, makes a general
+assignment for the benefit of creditors, files a voluntary petition of
+bankruptcy, suffers or permits the appointment of a receiver for its business or
+assets, or becomes subject to any proceeding under any bankruptcy or insolvency
+law, whether domestic or foreign, or has wound up or liquidated, voluntarily or
+otherwise. In the event that any of the above events occurs, the affected party
+shall immediately notify the other party of its occurrence.
+
+
+Maintenance Agreement                                                     Page 3
+
+
+<PAGE>
+
+
+5.5 Force Majeure; Suspension and Termination. In the event that either
+party is unable to perform any of its obligations under this Agreement or to
+enjoy any of its benefits because of (or if loss of the services is caused by)
+natural disaster, action or decrees of governmental bodies or communication line
+failure not the fault of the affected party (hereinafter referred to as a "Force
+Majeure Event") the party who has been so affected immediately shall give notice
+to the other party and shall do everything possible to resume performance. Upon
+receipt of such notice, all obligations under this Agreement shall be
+immediately suspended. If the period of nonperformance exceeds 15 days from the
+receipt of notice of the Force Majeure Event, the party whose performance has
+not been so affected may, by giving written notice, terminate this Agreement.
+
+5.6 Rights and Obligations of the Parties on Termination. In the event that
+this Agreement is terminated as a result of the occurrence of a Force Majeure
+Event, or other cause as provided herein, each party shall return to the other
+all data, materials, and other properties of the other party then in its
+possession.
+
+5.7 Continuing Obligations. The obligations of the parties under Sections
+5, 6 and 8 shall survive the termination of any services hereunder.
+
+Section 6
+
+PROPRIETARY INFORMATION
+
+Each party acknowledges that all information concerning the business of the
+other party is "Confidential and Proprietary Information." Each party agrees
+that it will not permit the duplication, use or disclosure of any such
+Confidential and Proprietary Information to any person (other than its own
+employees who must have such information for the performance of its obligations
+under this Agreement), unless authorized in writing by the other party.
+Confidential and Proprietary Information is not meant to include any information
+which, at the time of disclosure, is generally known by the public or in the
+trade.
+
+Section 7
+
+DISCLAIMER OF LIABILITY
+
+VENDOR DISCLAIMS ANY AND ALL REPRESENTATIONS OR WARRANTIES WITH RESPECT TO
+THE MAINTENANCE SERVICES PROVIDED HEREUNDER, EXPRESS OR IMPLIED, INCLUDING
+WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. IN NO EVENT SHALL VENDOR BE LIABLE FOR DAMAGES, INCLUDING BUT NOT
+LIMITED TO SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, COVER DAMAGES OR DAMAGES
+FOR LOSS OF USE, DATA OR PROFITS, IN CONNECTION WITH OR ARISING OUT OF THIS
+AGREEMENT OR CUSTOMER'S USE OF THE SOFTWARE, EVEN IF VENDOR SHALL HAVE BEEN
+INFORMED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Maintenance Agreement                                                     Page 4
+
+
+<PAGE>
+
+
+Section 8
+
+TAXES
+
+Customer shall be responsible for the payment of all taxes in connection
+with this Agreement, except for any tax based on Vendor's net income.
+
+Section 9
+
+MISCELLANEOUS
+
+9.1 Applicable Law. This Agreement shall be governed by the laws of the
+State of New York.
+
+9.2 Severability. Any invalidity, in whole or in part, of any provision of
+this Agreement shall not affect the validity of any other of its provisions.
+
+9.3 Notices. Any notice or other communication hereunder shall be in
+writing and shall be either personally served or mailed, registered or
+certified, return receipt requested.
+
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+as of the day and year first written above.
+
+Home State                                  The Wheatley Group, Ltd.
+Customer                                    Vendor
+
+
+/s/ Bob Abidor                              /s/ John Reeves
+Authorized Signature                        Authorized Signature
+
+
+President                                   Exec. Vice Pres.
+Title                                       Title
+
+
+8/12/94                                     8/15/94
+Date                                        Date
+
+
+Maintenance Agreement                                                     Page 5
+
+
+<PAGE>
+
+
+
+HARDWARE
+PURCHASE
+AGREEMENT
+
+
+This is a standard WINS Hardware Purchase Agreement prepared
+by The Wheatley Group, Ltd. This contract may not
+be altered in part or in whole.
+
+
+<PAGE>
+
+
+Agreement Number: 9405
+Agreement Date:
+
+
+HARDWARE PURCHASE AGREEMENT
+FOR
+Home State Insurance Company
+
+This Agreement of Sale is entered into and effective this day of August 12,
+1994 by and between The Wheatley Group, Ltd., a New York corporation with
+offices at One Huntington Quadrangle, Melville, New York 11747 (hereinafter
+called "Seller"), and HSIM having its principal offices at
+
+One Harding Road
+Red Bank, NJ 07701
+
+(hereinafter called "Buyer") is the complete Agreement between the parties,
+replacing any prior oral or written communications between us, regarding the
+sale of certain Equipment, described below, by Seller to Buyer.
+
+Section 1
+
+DEFINITIONS
+(Shown in bold type in this Agreement)
+
+1.1 "Equipment." shall mean the IBM AS/400 machine, its features,
+conversions, upgrades, elements, or accessories, or any combination of them
+described in Section 2.
+
+1.2 "Date of Installation." shall mean the business day Buyer's Equipment
+is installed or, if Buyer defers installation, when Seller makes it available to
+Buyer for installation.
+
+Section 2
+
+EQUIPMENT
+
+Seller agrees to sell, Buyer agrees to purchase from Seller the following
+Equipment detailed on the Hardware Purchase Agreement Supplement.
+
+Section 3
+
+PURCHASE PRICE
+
+3.1 The purchase price of the Equipment is detailed on the Hardware
+Purchase Agreement Supplement. The Buyer agrees to pay the Seller as follows:
+
+a.   20 percent of purchase price upon execution of this Agreement;
+
+b.   the balance (80 percent of purchase price) is due on the Date of
+Installation or if boxes are opened.
+
+c.   A 2% late-payment fee will be billed for any balance not paid within
+30 days from the invoice date and compounded each subsequent 30 days.
+
+d.   This price does not include applicable sales taxes.
+
+
+Hardware Purchase Agreement                                               Page 1
+
+
+<PAGE>
+
+
+3.2 Maintenance option. Initial here if this Equipment should be placed
+under IBM Hardware Maintenance. ________ (Price not included above.)
+
+Section 4
+
+DELIVERY
+
+Seller will deliver Equipment to Buyer at buyer's location on a date to be
+mutually agreed upon. Seller will pay normal transportation charges for
+Equipment shipped.
+
+Seller will use its best efforts to deliver Equipment as agreed but shall
+not be liable for delays in delivery beyond its control including, but not
+limited to, delays resulting from inventory shortages, acts of God, strikes, or
+weather.
+
+Section 5
+
+TITLE
+
+Seller will transfer title to Buyer on the Date of Installation and upon
+receipt of the purchase price shown in Section 3.
+
+Seller reserves a purchase money security interest in Equipment and Buyer
+grants Seller a purchase money security interest (and agrees to sign appropriate
+documents to permit Seller to perfect its purchase money security interest) from
+the date of sale until Seller receives the amounts due under this Agreement for
+the purchase of the hardware hereunder.
+
+Section 6
+
+RISK OF LOSS
+
+Seller bears the risk of loss for Equipment until the Date of Installation.
+
+Section 7
+
+TAXES
+
+Buyer will be responsible for and shall pay all applicable taxes imposed by
+taxing authorities on the sale and delivery of the Equipment described in
+Section 2.
+
+Section 8
+
+CANCELLATION
+
+Buyer may cancel an order for Equipment prior to shipment. Seller may
+charge Buyer a cancellation charge not to exceed 10 percent of the purchase
+price for cancellations within 2 weeks of confirmed delivery, and shall deduct
+such charge from the monies paid by Buyer at the execution of this Agreement.
+
+
+Hardware Purchase Agreement                                               Page 2
+
+
+<PAGE>
+
+
+Section 9
+
+WARRANTY PROVISIONS
+
+Seller assigns to Buyer all IBM Warranties currently in effect on the
+Equipment to the fullest extent such IBM Warranties are assignable by an
+authorized IBM reseller that is in good standing with IBM, and agrees to execute
+all documents and take all other action reasonably necessary to effect such
+assignment, provided, however, that such assignment shall not impose any
+additional responsibilities on Seller or create any additional warranties,
+express or implied, with respect to the Equipment.
+
+Limitation of Liability: (a) Except as specifically set forth in this
+Agreement, Seller makes no representations or warranties, express or implied,
+including without limitation, the warranties of merchantability and fitness for
+a particular purpose with respect to the Equipment. (b) Seller's liability to
+Buyer for damages, from any cause whatsoever, and regardless of the form of
+action, including Seller's liability for its own negligence, shall be limited to
+the purchase price. (c) Seller shall not be liable to Buyer or any other person
+for any claim arising, directly or indirectly, from or in connection with the
+furnishing of services or Equipment pursuant to this Agreement, or the
+interruption, use or loss of use or performance thereof. (d) Under no
+circumstances shall Seller be liable to any person not a party to this Agreement
+and Buyer shall indemnify Seller and hold Seller harmless against any claim or
+action brought by such a party. Such indemnification shall include all costs and
+attorneys fees.
+
+Section 10
+
+NOTICES
+
+Any notice provided for herein shall be in writing and sent by registered
+or certified mail, postage prepaid, addressed to the party for which it is
+intended at the address set forth in the first paragraph of this Agreement or to
+such other address as either party shall from time to time indicate in writing.
+Any such notice to be deemed to be effective upon receipt or 5 days from the
+date of mailing, whichever occurs first.
+
+Section 11
+
+GOVERNING LAW: AMENDMENTS
+
+This Agreement shall be construed in accordance with and governed by the
+laws of the state of New York (without regard to choice of law principles). This
+Agreement may not be amended except by written agreement signed by both the
+parties hereto.
+
+Section 12
+
+TERMS
+
+All prices listed on this Agreement are subject to change after 10 days.
+This offer shall be valid for a period of 10 days.
+
+
+Hardware Purchase Agreement                                               Page 3
+
+
+<PAGE>
+
+
+IN WITNESS WHEREOF, the parties have cause this Agreement to be executed as of
+the day and year first written above.
+
+
+Home State Insurance Company                The Wheatley Group, Ltd.
+Buyer                                       Seller
+
+
+/s/ Bob Abidor                              /s/ John Reeves
+Authorized Signature                        Authorized Signature
+
+
+President                                   Exec. Vice Pres.
+Title                                       Title
+
+
+8/12/94                                     9/1/94
+Date                                        Date
+
+
+Hardware Purchase Agreement                                               Page 4
+
+
+<PAGE>
+
+
+Reference Agreement Number: 9405
+
+
+HARDWARE PURCHASE AGREEMENT SUPPLEMENT
+
+
+EQUIPMENT
+
+<TABLE>
+<CAPTION>
+
+HARDWARE:
+
+Machine                                                               Purchase       Warranty
+Qty      Type       Model           Description                                Price         Period
+<S>      <C>         <C>        <C>                                           <C>              <C>
+1        9406        300        Advanced Series AS/400 Model 300              $152,235         1 Yr
+(As proposed and fax'd on 8/11/94)
+
+1        9348        001        1/2" Reel Tape Drive                          $ 18,500         1 Yr
+
+1        9309        002        Rack Enclosure                                $  3,820         1 Yr
+
+1        7855        010        Modem                                         $  1,455         1 Yr
+
+1        3490        E11        1/2" Cartridge Tape Drive -- Rack mounted     $ 27,275         1 Yr
+
+1        2386        BG3        Infowindow Display Station                    $  1,000         3 Yr
+
+
+HARDWARE TOTAL                                                                                     $204,285.00
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+IBM SOFTWARE:
+
+Program                                                               One-time       Warranty
+Qty      Type       Model           Description                                Charge        Period
+<S>      <C>         <C>        <C>                                           <C>              <C>
+
+1        5763        SS1        OS/400 Version (Unltd Users)                  $ 33,600         N/A
+
+1        5763        XA1        Client Access (Unltd Users)                   $ 51,145         N/A
+
+1        5763        PW1        Application Development Tools (ADS & ADM)     $ 13,200         N/A
+
+1        5763        DB1        AS/400 System/38 Utilities                    $  5,625         N/A
+
+1        5763        DCT        Dictionaries                                  $    495         N/A
+
+1        5763        WP1        Officevision (Unltd Users)                    $ 30,995         N/A
+
+1        5763        QU1        Query/400 (4 Users)                           $  3,000         N/A
+
+1        5763        CB1        Cobol/400                                     $  6,000         N/A
+
+1        5763        PT1        Performance Tools/400                         $  4,190         N/A
+
+
+IBM SOFTWARE TOTAL                                                                                 $148,250.00
+
+EQUIPMENT TOTAL                                                                                    $352,535.00
+
+WHEATLEY VALUE-ADD ALLOWANCE                                                                       $ 67,113.00
+
+NET EQUIPMENT TOTAL PRICE                                                                          $285,422.00
+
+</TABLE>
+
+
+Home State Insurance Company                8/12/94
+Customer Name                               Date
+
+
+/s/ Bob Abidor                              President
+Name                                        Title
+
+
+Bob Abidor
+Authorized Signature
+
+
+Hardware Purchase Agreement Supplement                                    Page 1
+
+
+<PAGE>
+
+

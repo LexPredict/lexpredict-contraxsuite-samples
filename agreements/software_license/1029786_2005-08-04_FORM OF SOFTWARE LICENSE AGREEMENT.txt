@@ -1,0 +1,406 @@
+
+
+
+
+
+
+
+Form of Software License Agreement
+
+
+
+Exhibit 10.4
+
+FORM
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (Agreement) is entered into this      day of
+, 2005 between Nationwide Services Company, LLC, an Ohio limited liability company (Nationwide), with offices at One Nationwide Plaza, Columbus, Ohio 43215 (Licensor),
+and Nationwide Financial Services, Inc. and its Subsidiaries, an Ohio corporation, with offices at One Nationwide Plaza, Columbus, Ohio 43215 (Licensee).
+
+WHEREAS, Licensor owns the DCDirect software core platform (Software); and
+
+WHEREAS, Licensee is desirous of Licensor developing Software for Licensee’s exclusive use; to utilize
+such Software, and to make customizations, updates and/or corrections; and
+
+WHEREAS, for the good and valuable consideration, the receipt of which is hereby acknowledged, Licensor is willing to license the Software to Licensee; and
+
+WHEREAS, Licensee is willing to accept the Software license under the conditions set forth set forth above.
+
+
+NOW, THEREFORE the parties agree as follows:
+
+
+1. LICENSE GRANTED
+
+Subject to the terms and conditions of this Agreement and in
+consideration of Licensee’s obligation to pay monetary fees as outlined in Schedule A, such fees which may be adjusted from time to time by mutual written consent of the parties, Licensor hereby grants, and Licensee hereby accepts, a perpetual,
+nontransferable license to use the Software in object code form within the United States. Except for a current license with Nationwide Global Holdings, Inc., Licensor agrees this agreement would be exclusive to Licensee and agrees not to enter into
+any future Software license obligations or licenses with any third-parties without the prior written consent of Licensee.
+
+Licensor also grants permission to Licensee to make and create customizations, updates or corrections to the Software. The parties agree
+that Licensor shall continue to own all right, title and interest in and to the Software and all intellectual property rights embodied therein or related thereto including, but not limited to, the source and object codes and any customizations,
+updates and corrections to the Software. Except as expressly provided herein, no intellectual property rights are granted to Licensee by implication, estoppel, or otherwise.
+
+
+1
+
+
+
+
+
+
+
+
+Licensee will safeguard the Software and its related materials with that degree of normal
+due care commensurate with reasonable standards of industrial security for the protection of trade secrets and proprietary information so that no unauthorized use is made of them and no disclosure of any part of their contents is made to anyone
+other than Licensee’s employees, agents or consultants whose duties reasonably require such disclosure, or as necessary in the ordinary course of business. Licensee shall make all such persons fully aware of their responsibility to fulfill the
+obligations of Licensee under this Agreement.
+
+2. SOFTWARE PROVIDED “AS IS”
+
+Licensor warrants that it has the right to provide the Software to Licensee hereunder. Otherwise, Licensor provides the Software to Licensee “as is.” Licensor makes no warranties or representations that the Software is free of
+errors or defects, or that it adequately performs the functions it is intended to perform. Licensee shall test the Software to insure its acceptability for Licensee’s purpose prior to putting the Software in productive use.
+
+Licensor is under no obligation to update or correct defects
+or errors in the Software. If Licensor does provide Licensee with updates or corrections, the terms and conditions of this Agreement shall apply.
+
+THE SOFTWARE IS PROVIDED “AS IS” AND LICENSOR MAKES NO OTHER WARRANTIES WITH RESPECT TO THE SOFTWARE, INCLUDING BUT NOT
+LIMITED TO THOSE OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+3. WARRANTIES OF LICENSEE
+
+Related to customizations, updates and/or corrections of Licensee to the Software, Licensee represents and warrants that:
+
+
+(i)
+Licensee has all intellectual property rights necessary to produce customizations, updates and/or corrections to the Software;
+
+
+
+
+(ii)
+Licensee does not infringe the intellectual property rights of any third party;
+
+
+
+
+(iii)
+Licensee will make any customizations or enhancements to the Software under this Agreement in accordance with industry standards and in a professional and
+workman-like fashion;
+
+
+
+
+(iv)
+Following completion of any customizations or enhancements to the Software, such will remain free from material programming errors and defects in workmanship and
+materials, and will substantially conform to the specifications and any related documentation for ninety (90) days (“Warranty Period”). If material programming errors are discovered during the Warranty Period, Licensee shall promptly
+remedy such errors at no additional expense to Licensor.
+
+
+
+
+2
+
+
+
+
+
+
+
+
+4. PROPERTY RIGHTS AND RESTRICTIONS ON USE
+
+Licensee recognizes that the Software, and customizations,
+updates or corrections, if any, are the property of, and all rights thereto, are owned by Licensor. Licensee also acknowledges that such are a trade secret of Licensor, are valuable and confidential to Licensor, and that its use and disclosure must
+be carefully and continuously controlled.
+
+Title to the Software, and customizations, updates or corrections, if any, shall at all times remain with Licensor.
+
+Licensee shall keep the Software, and customizations, updates and/or corrections, if any, free and clear of any claims, liens and
+encumbrances attributable to the use or possession of the Software by Licensee. Any act of Licensee, whether voluntarily or involuntarily, purporting to create a claim of encumbrance shall be void.
+
+The Software is for the sole use of Licensee and shall be
+used only for the purpose set forth in this Agreement.
+
+Licensee shall treat the Software, and customizations, updates and/or corrections, if any, as confidential and proprietary, and shall protect it in the same manner that it protects the confidentiality of its own information. While this
+Agreement is in effect, or while Licensee has custody and possession of the Software, Licensee will not:
+
+
+(i)
+provide or make available the Software to any person or entity other than employees of Licensee who have a need to know consistent with Licensee’s use
+thereof under this Agreement; or
+
+
+
+
+(ii)
+create or attempt to create, or permit others to create or attempt to create, by disassembling, reverse engineering or otherwise, the source program or any part
+thereof from the object program or other information made available to Licensee pursuant to this Agreement.
+
+
+
+Licensee agrees to promptly notify Licensor if it obtains information as to any unauthorized possession, use or disclosure of the Software
+by any person or entity, and further agrees to cooperate with Licensor in protecting Licensor’s proprietary rights.
+
+If Licensee, its officers, agents, or employees, breach any provision of this Agreement, such breach must be cured within thirty (30) days
+of receipt of Licensor’s written notice describing such breach. If such breach is not cured within the thirty (30) days after receipt of the notice, Licensee shall pay Licensor reasonable monetary payments for loss and/or damages related to
+such breach.
+
+
+3
+
+
+
+
+
+
+
+
+5. TERM
+
+
+a)
+The license subject to this Agreement shall continue until Licensee is acquired by a third party or survives any merger.
+
+
+
+
+b)
+Non-performance of the contract terms.
+
+
+
+In the event of termination of this Agreement pursuant to the above, Licensor shall have the right to take possession of the Software.
+
+
+Termination of this Agreement shall not
+relieve either party of its obligations pursuant to Sections 2, 3, 4, 5 and 6 hereof.
+
+6. INDEMNIFICATION AND LIMITATION OF LIABILITY
+
+Licensee agrees to indemnify and hold Licensor harmless from and against all loss, cost, expense or liability (including reasonable
+attorney’s fees) arising out of a claim by a third party against Licensor based upon Licensee’s use of the Software.
+
+Licensee agrees to indemnify and hold Licensor harmless from any loss or damages to Licensor related to, or associated with
+Licensee’s customizations, updates and/or corrections to the Software.
+
+Licensee agrees to indemnify and hold Licensee harmless, and defend at its expense, any action brought against Nationwide, its officers, directors, employees, shareholders, legal representatives, agents, successors
+and assigns (“Nationwide Indemnified Parties”) to the extent that it is based on a claim that the customizations, updates and/or corrections developed by Licensee infringe any intellectual property rights of any third parties.
+
+
+Licensor shall have no liability to Licensee for any
+damage sustained by Licensee as a result of Licensee’s use of the Software, whether such damages would arise as a result of breach of contract, tort or otherwise. Licensee has tested the Software and relies on its own judgment in utilizing it.
+
+
+Licensor warrants that the use of the
+initially provided Software will not infringe any patent, copyright, or trademark in the United States or elsewhere, and Licensor shall indemnify and hold Licensee harmless against any and all losses, damages and expenses, (including attorney’s
+fees and other costs of defending any infringement action) which Licensee may sustain or incur as a result of a breach of this warranty.
+
+Obligations set forth herein are contingent upon the other party:
+
+
+a)
+Providing the indemnifying party with prompt written notice of any action brought against the other party; and
+
+
+
+
+b)
+The other party cooperating with the indemnifying party in the defense of any such action, and allowing the indemnifying party to control the defense and
+settlement of any such action at its expense;
+
+
+
+
+4
+
+
+
+
+
+
+
+
+Licensor shall have no obligation to defend any action or indemnify Licensee from damage
+if:
+
+
+(i)
+Licensee, in providing customizations, updates and/or corrections to the Software, infringes upon the intellectual property of any third party.
+
+
+
+
+
+(ii)
+Licensee is not using the most current version of the Software and the action would have been avoided without such combined use.
+
+
+
+
+(iii)
+Licensee has modified the Software in combination with other Software and the action would have been avoided without such combined use.
+
+
+
+
+
+(iv)
+Licensee is using the Software in combination with other Software and the action would have been avoided without such combined use
+
+
+
+
+7. FORCE MAJUERE
+
+Either party shall be excused from failures or delays in
+delivery or performance hereunder if such failure or delay is attributable to causes beyond the reasonable control of the party, which makes such performance or delivery commercially impractical. In the event of any such delay, the time of delivery
+or performance and time of payment shall be extended for a period of time equal to the time lost by reason of such delay (unless otherwise specified in writing between the parties hereto).
+
+8. NOTICES
+
+All notices shall be in writing and shall be deemed to be
+delivered when deposited in the United States Postal Services, postage prepaid, return receipt requested, or when sent by telegram, telex, or facsimile. All notices shall be directed to Licensee or to Licensor, its successors or assigns, at the
+respective addresses set forth on the signature page of this Agreement or to such other address as one party may, from time to time, designate by notice to the other party.
+
+9. RELATIONSHIP OF THE PARTIES
+
+The parties to this Agreement are affiliated companies and this Agreement will not establish any
+relationship of partnership, joint venture, employment, franchise, or agency between the Parties. Neither Party will have the power to bind the other or incur obligations on the other’s behalf without the other’s prior written consent.
+
+
+10. PUBLICITY
+
+A public press announcement related this Agreement may be
+made, but only if mutually agreed to in writing by the Parties.
+
+
+5
+
+
+
+
+
+
+
+
+11. WAIVER
+
+No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior,
+concurrent or subsequent breach of the same or any other provision hereof, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving Party.
+
+12. COMPLETE AGREEMENT
+
+This Agreement constitutes the complete and exclusive
+statement of this agreement between the parties hereto and supersedes any and all prior express implied agreements or understandings between the parties hereto concerning the subject matter hereof. No amendment, waiver or other alteration of this
+Agreement may be made except by mutual agreement in writing.
+
+If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not be affected thereby and the
+parties shall negotiate replacement provisions for those provisions which are held invalid, illegal or unenforceable which as closely as possible express the intent of those provisions.
+
+13. RESTRICTIONS OF TRANSFER
+
+This Agreement and the rights and obligations under this Agreement shall not be transferable, sublicensable
+or assignable to any other person, firm or corporation by Licensee, without the express prior written consent of the Licensor. The rights and obligations of this Agreement shall insure to the benefit of and be binding upon the parties hereto, their
+successors and permitted assigns.
+
+14.
+GOVERNING LAW
+
+This Agreement shall be
+construed in accordance with the laws of the State of Ohio.
+
+15. NO CONSTRUCTION AGAINST THE DRAFTER
+
+The parties agree that this Agreement is the result of careful negotiations between sophisticated parties and thus any principle of construction or rule of law that provides that an agreement shall be construed
+against the drafter of the agreement in the event of any inconsistency or ambiguity in such agreement shall not apply to the terms and conditions of this Agreement.
+
+16. HEADINGS
+
+The various headings in this Agreement are inserted for convenience only, and shall not affect the meaning or interpretation of this
+Agreement or any paragraph or provision hereof.
+
+
+6
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have set their hands as of the day and year first
+above written.
+
+
+
+Nationwide Services Company, LLC
+Nationwide Financial Services, Inc.
+
+
+Name:
+
+
+Name:
+
+
+
+Title:
+
+
+Title:
+
+
+
+Date:
+
+
+Date:
+
+
+
+By:
+
+
+By:
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+SCHEDULE A: Schedule of License Fees:
+
+2005 - $ 3.0 million dollars
+
+2006 - $ 8.0 million dollars
+
+2007 - $10.0 million dollars
+
+2008 - $10.0 million dollars
+
+2009 - $10.0 million dollars
+
+2010 - $ 10.0 million dollars
+
+2011 - $ 8.0 million dollars
+
+The payments are to be made in full before by Licensee
+before the end of each respective year.
+
+
+8
+
+

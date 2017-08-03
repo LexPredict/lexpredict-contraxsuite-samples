@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+Proprietary Software License Agreement
+
+
+
+Exhibit 10.4
+EXECUTION COPY
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+This PROPRIETARY SOFTWARE LICENSE AGREEMENT (this “Agreement”) is dated as of October 10, 2008, between Misys Open Source Solutions LLC, a Delaware
+limited liability company, having a principal place of business at 103 Foulk Road, Suite 202, Wilmington, Delaware 19803 (“Licensor”) and Misys Healthcare Systems, LLC, a North Carolina limited liability company, having its
+principal place of business at 8529 Six Forks Road, Raleigh, North Carolina 27615 (“Licensee”). Licensor and Licensee are referred to herein collectively as “Parties” and each individually as a
+“Party”.
+W I T N E S S E T H :
+WHEREAS, Licensee is an Affiliate of Licensor, and both Licensor and Licensee are wholly-owned indirect subsidiaries of Misys plc, a public limited
+company organized under the laws of England, having a principal place of business at One Kingdom Street, London W26BL, United Kingdom (“Misys”);
+WHEREAS, at the Closing (as defined in the Agreement and Plan of Merger, dated as of March 17, 2008, by and among Misys, Licensee, Allscripts Healthcare Solutions Inc., a Delaware corporation, having its
+principal place of business at 222 Merchandise Mart, Suite 2024, Chicago, IL 60654 (“Allscripts”) and Patriot Merger Company, LLC, a North Carolina limited liability company (the “Merger Agreement”)), Misys will
+(i) cause Licensee to merge with a wholly-owned subsidiary of Allscripts, with Licensee as the surviving company and (ii) acquire, directly or indirectly, 54.5% of the equity interests in Allscripts on a fully-diluted basis
+(as determined pursuant to the Merger Agreement);
+WHEREAS, Section 5.2(e) of the Merger Agreement provides that no later than the
+Closing Date (as defined in the Merger Agreement), Licensee shall transfer assets related to the products known as the Misys Connect products to Misys or its designee, and that Misys or its designee will, in consideration of such transfer, enter
+into arrangements to provide Licensee with continued access to such assets;
+WHEREAS, Misys has selected Licensor as its designee for
+purposes of Section 5.2(e) of the Merger Agreement;
+WHEREAS, pursuant to a Software Assignment Agreement of even date herewith,
+Licensee transferred, assigned and delivered to Licensor all of Licensee’s right, title and interest in, to and under the software commonly referred to as Misys Connect and all intellectual property developed and owned by Licensee and used
+solely in connection with Misys Connect, including software, copyrights, patents, trade secrets and non-software items relating thereto (the “Misys Connect Software”);
+WHEREAS, the Misys Connect Software is comprised of both proprietary and open-source components, certain open-source components of which are being
+
+
+
+
+
+
+
+
+
+
+licensed to Licensee by Licensor pursuant to the Apache License V2.0 (the “Open Source Software License Agreement”), and the proprietary
+components of which and non-software items relating thereto are being licensed to Licensee by Licensor pursuant to this Agreement; and
+WHEREAS, subject to the terms and conditions contained herein, Licensee desires to use, and Licensor is willing to license Licensee to use, the Licensed Works (as defined below) on the terms and conditions set forth herein.
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I
+DEFINITIONS
+
+1.1. “Affiliate” means, with respect to any Person, another Person that, at the time of determination, directly or
+indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, the first Person, whether by contract, possession (directly or indirectly) of power to direct or cause the direction of the management or
+policies of such entity or the ownership (directly or indirectly) of securities or other interests in such Person.
+1.2. “Affiliate
+Sublicensee” has the meaning set forth in Section 2.2.
+1.3. “Agreement” has the meaning set forth in the
+preamble.
+1.4. “Allscripts” has the meaning set forth in the second WHEREAS clause.
+1.5. “Confidential Information” means all written or oral information disclosed by either Party to the other relating to the business of
+either Party that has been identified as confidential or that by the nature of the circumstances surrounding disclosure ought to be treated as confidential. Without limiting the foregoing, Confidential Information shall include, but not be limited
+to, information regarding either Party (or information of an Affiliate or third party which the disclosing party is required to maintain as confidential) that pertains to the financial condition of such Party (or Affiliate or third Person), other
+financial information, business plans and processes, trade secrets, proprietary technical information, know-how, inventions, techniques, software (including, but not limited to, the Proprietary Misys Connect Software and Improvements, Maintenance
+Releases and Upgrades), documentation (including, but not limited to, the Proprietary Misys Connect Software Documentation), personnel records, sales data and contractual arrangements between such Party or an Affiliate and a third Person.
+Notwithstanding the definition set forth herein, Confidential Information shall not include information that: (i) is publicly available or in the public domain at the time disclosed; (ii) is or becomes publicly available or
+enters the public domain through no fault of the recipient; (iii) is rightfully communicated to the recipient by Persons not bound by confidentiality obligations with respect thereto; (iv) is already in the recipient’s
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+possession free of any confidentiality obligations with respect thereto at the time of disclosure; (v) is independently developed by the
+recipient; (vi) is approved for release or disclosure by the disclosing Party without restriction; (vii) is disclosed in response to an order of a court or other governmental body, provided that the Party making
+the disclosure pursuant to the order shall first have given notice to the other Party and made a reasonable effort to obtain a protective order; (viii) is otherwise required by law or regulation to be disclosed; (ix) is
+commingled with other third Person information for statistical purposes; or (x) is disclosed to establish a Party’s rights under this Agreement, including to make such court filings as may be required to do so.
+1.6. “End User License Agreement” has the meaning set forth in Section 2.3.
+1.7. “Existing Customers” has the meaning set forth in Section 2.4.
+1.8. “Field of Use” means healthcare information technology products and services.
+1.9. “Improvements” has the meaning set forth in Section 3.1(a).
+1.10. “Licensed Software” means the object code form of Licensed Works and written documentation related thereto that is licensed by
+Licensee or its Affiliate Sublicensees to their respective customers.
+1.11. “Licensed Works” means the Proprietary Misys
+Connect Software and the Proprietary Misys Connect Software Documentation.
+1.12. “Licensee” has the meaning set forth in
+the preamble.
+1.13. “Licensee Improvements” has the meaning set forth in Section 9.3(c).
+1.14. “Licensor” has the meaning set forth in the preamble.
+1.15. “Maintenance Releases” means releases of the Proprietary Misys Connect Software or part thereof in source code and object code
+versions designed to correct errors and otherwise cause the Proprietary Misys Connect Software to substantially conform to the operational features detailed in the Proprietary Misys Connect Software Documentation.
+1.16. “Merger Agreement” has the meaning set forth in the second WHEREAS clause.
+1.17. “Misys” has the meaning set forth in the first WHEREAS clause.
+1.18. “Misys Connect Software” has the meaning set forth in the fifth WHEREAS clause.
+
+
+3
+
+
+
+
+
+
+
+
+1.19. “Open Source Software License Agreement” has the meaning set forth in the sixth
+WHEREAS clause.
+1.20. “Open-Sourced Works” has the meaning set forth in Section 2.8.
+1.21. “Parties” and “Party” each have the meaning set forth in the preamble.
+1.22. “Person” means an individual, corporation, partnership, joint venture, association, trust, limited liability company, Governmental
+Entity (as such term is defined in the Merger Agreement), unincorporated organization or other entity.
+1.23. “Proprietary Misys
+Connect Software” means the proprietary components of the Misys Connect Software set forth on Exhibit A attached hereto and made a part hereof, in both source code and object code forms, in such forms and media as they shall exist from time
+to time.
+1.24. “Proprietary Misys Connect Software Documentation” means all non-software items identified on Exhibit A
+hereto.
+1.25. “Shared Services Agreement” means that certain Shared Services Agreement to be executed following the
+Closing Date (as defined in the Merger Agreement) between Misys and Allscripts.
+1.26. “Territory” means worldwide.
+
+1.27. “Upgrades” means software in source code and object code versions that accomplishes performance, structural or
+functional improvements or changes, or adds features to, whether by modification, adaptation, replacement, supplement or revision, or that is a derivative work of, the Proprietary Misys Connect Software.
+1.28. “Virus” means malicious code, whether or not capable of replication or attachment to disks or other files, that is capable of
+performing an illicit activity or replicating itself on a computer or network of computers and thereby of damaging other computer programs or data located on such computer or network or otherwise causing a defect in the operation of such computer or
+network, including by causing any computer data, memory, or related hardware to become, without specific user instructions, erased, altered or unusable. The term “Virus” includes, but is not limited to, viruses, Trojan horses, time bombs,
+worms or similar malicious software, programs or files.
+
+
+4
+
+
+
+
+
+
+
+
+ARTICLE II
+LICENSE
+2.1. Grant of License. Subject to the terms and conditions contained herein, Licensor
+hereby grants to Licensee:
+(a) a nonexclusive, royalty-free right and license to use, access, reproduce, store, perform, sublicense to
+certain of its Affiliates as contemplated in Section 2.2 herein, transmit, display, modify, customize, translate and create derivative works from the Licensed Works in the Territory within the Field of Use; provided that, in the event
+that Misys no longer commercially licenses products and services within the Field of Use, the license granted to Licensee under this Section 2.1(a) shall become exclusive;
+(b) the nonexclusive, royalty-free right and license to grant sublicenses of the Licensed Software, either alone, or bundled with Licensee’s, its
+Affiliates’ or third-party software, for use by Licensee’s and its Affiliate Sublicensees’ (as defined below) customers within the Field of Use.
+2.2. Affiliate Sublicensees. Licensee may sublicense any of its rights or delegate any of its obligations under this Agreement with respect to the Licensed Works to either (a) Allscripts or
+(b) an entity which is directly or indirectly wholly-owned by Allscripts (each such entity described in clauses (a) and (b) of this sentence, an “Affiliate Sublicensee”), including, but not limited to, the
+right to grant further sublicenses of the Licensed Software to the customers of such Affiliate Sublicensees within the Field of Use in the Territory, provided that (i) any such Affiliate Sublicensee’s use of the
+Licensed Works remains subject to the terms and conditions of this Agreement, and (ii) Licensee shall be responsible for ensuring that each Affiliate Sublicensee performs in accordance with the terms and conditions of this Agreement. Any
+sublicense granted to an Affiliate Sublicensee hereunder shall contain provisions that (x) Licensor shall be a third-party beneficiary of such sublicense and (y) the sublicense will, at Licensor’s option, be deemed
+automatically assigned by Licensee to Licensor upon any termination of this Agreement. Any End User License Agreement (as defined below) granted to a customer of any Affiliate Sublicensee pursuant to Section 2.3 herein shall survive any
+termination of this Agreement and Licensor may, at its option, assume such End User License Agreement in the event that this Agreement terminates. Except for the right to enter into sublicenses with customers pursuant to Section 2.3 herein, no
+Affiliate Sublicensee shall be permitted to sublicense to any other Person the rights granted to it with respect to the Licensed Works.
+2.3. Customer Licenses. The Licensed Software that Licensee or its Affiliate Sublicensees license to customers shall be licensed in object code form (i.e., non-printed, machine readable form) only, for customers’
+use, including for the making of backup copies and for disaster recovery purposes. Licensee further agrees to cause its customers to reproduce and incorporate all copyright, trademark and other proprietary notices contained in any copies of the
+Licensed Software it licenses to customers. Any
+
+
+
+5
+
+
+
+
+
+
+
+
+
+end user license agreement between Licensee or any of its Affiliate Sublicensees and any of their respective customers covering the Licensed Software (each,
+an “End User License Agreement”) must be consistent with the terms of this Agreement and contain provisions stating that the End User License Agreement (i) will survive any termination of this Agreement and that Licensor
+may, at its option, assume such End User License Agreement in the event that this Agreement terminates and (ii) cannot be assigned, sublicensed or otherwise transferred by the customer without the prior written consent of Licensee or its
+Affiliate Sublicensee (as applicable), except in the event of the assignment or sale of all or substantially all of the customer’s assets, or any merger, consolidation or other business consolidation to which the customer is a party.
+
+2.4. Existing Customers. Licensor acknowledges that as of the date of this Agreement, Licensee licenses the Misys Connect Software
+to certain of its customers (“Existing Customers”) and agrees that Licensee may continue to license the Misys Connect Software to such Existing Customers under the terms and conditions of their current agreements; provided
+that Licensee shall use reasonable efforts to transition all Existing Customers to End User License Agreements consistent with the terms and conditions hereof as soon as possible and shall use reasonable efforts to do so prior to the first
+anniversary of the date hereof.
+2.5. Delivery. Licensor and Licensee acknowledge and agree that Licensee is in possession of the
+Proprietary Misys Connect Software and Proprietary Misys Connect Software Documentation as it exists on the date hereof in source code and object code form and that no delivery thereof is required; provided, however, in the event
+Licensee is not in the possession of the aforementioned Proprietary Misys Connect Software or Proprietary Misys Connect Documentation, Licensor shall provide a copy to Licensee upon Licensee’s written request. Promptly after completion thereof,
+Licensor shall deliver to Licensee any Proprietary Misys Connect Software that Licensor creates after the date hereof.
+2.6. Compliance
+with Laws. Licensee shall at all times comply with all laws, decrees and regulations applicable to this Agreement and the Licensed Works. Except as otherwise expressly stated herein, the Parties specifically waive and disclaim the applicability
+of the Uniform Commercial Code, Uniform Electronic Transactions Act and Uniform Computer Information Transactions Act to this Agreement.
+2.7. Restriction on Licenses. Neither Party shall license the use of any proprietary adapter that is part of the Licensed Works or any Improvements thereto if such license would make available to a competitor of the other Party the
+confidential proprietary intellectual property of such other Party, without the prior consent of the other Party.
+2.8. Conversion to
+Open-Source License. Licensor may at any time license, or make available for license, any of the Licensed Works or any component thereof pursuant to any open-source license (such works, “Open-Sourced Works”); provided
+that (i) Licensor provides Licensee with thirty (30) days advance notice of its intent to do so and (ii) the source code for any such Open-Sourced Works does not,
+
+
+
+6
+
+
+
+
+
+
+
+
+
+without Licensee’s prior consent thereto, disclose the proprietary intellectual property of Licensee in the data structures of the Meditech, MyWay or
+Allscripts proprietary adapters; provided further that Licensor shall, promptly following the reasonable request of Licensee, discuss with Licensee any questions or concerns Licensee may have with respect to the disclosure of
+the proprietary data structures of such proprietary adapters that are or may become Open-Sourced Works. At Licensee’s option, such Open-Sourced Works shall become subject to the Open Source Software License Agreement or another form of software
+license approved by the Open Source Initiative that has substantially similar terms and shall thereupon cease to be licensed hereunder. For the avoidance of doubt, all Licensed Works or components thereof that remain proprietary shall continue to be
+licensed hereunder.
+2.9. Works Under Development. The Parties agree that, notwithstanding any provision of this Agreement or the
+Shared Services Agreement to the contrary, neither Party shall be subject to a double recovery for a single claim with respect to the Works Under Development (as defined in Schedule F to the Shared Services Agreement) that arises under both this
+Agreement and the Shared Services Agreement and the Parties shall negotiate in good faith under which agreement such claim will be resolved.
+ARTICLE III
+INTELLECTUAL PROPERTY RIGHTS
+3.1. Ownership of Licensed Works and Improvements.
+(a) Licensor shall have sole and exclusive
+ownership of all right, title and interest in and to the Proprietary Misys Connect Software. Licensor shall also have sole and exclusive ownership of all right, title and interest in and to all other Licensed Works, and all copies and portions
+thereof, existing as of the date hereof, and all modifications, enhancements and updates to and derivative works (collectively, “Improvements”) made by Licensor, or on Licensor’s behalf, based upon the Licensed Works. Licensee
+shall have sole and exclusive ownership of all Improvements made by Licensee, or on Licensee’s behalf, based upon the Licensed Works.
+(b) Licensee acknowledges the validity of the Licensed Works and that the Licensed Works are and will remain the exclusive property of Licensor, and Licensee agrees that it will not, directly or indirectly, challenge the validity of the
+Licensed Works, or any copyright or other intellectual property registrations or applications thereof in any jurisdiction, or the right, title and interest of Licensor therein and thereto, nor will it claim any ownership or other interest in the
+Licensed Works in any jurisdiction, other than the rights expressly granted hereunder. Licensee agrees that it shall not at any time knowingly do or suffer to be done any act or thing that will in any way impair the rights of Licensor in and to the
+Licensed Works. Nothing in this Agreement grants, nor shall Licensee acquire hereby, any right, title or interest in or to the Licensed Works other than those rights expressly granted hereunder.
+
+
+7
+
+
+
+
+
+
+
+
+3.2. Proprietary Notices. Licensee shall ensure that all copyright, trademark and other
+proprietary notices contained in any copies of the Licensed Works it distributes internally or to third parties are attributed to Licensor, as appropriate.
+ARTICLE IV
+MAINTENANCE; UPGRADES
+4.1. Maintenance and Support Services. Licensee shall have sole responsibility for providing maintenance and support services to its or its
+Affiliate Sublicensees’ customers who are or who will be using the Licensed Software.
+4.2. Maintenance Releases and Upgrades.
+Licensee and its Affiliate Sublicensees may, in connection with providing maintenance and support services to their respective customers, produce Maintenance Releases and Upgrades in object code form for distribution to customers who are or who will
+be using the Licensed Software.
+ARTICLE V
+CONFIDENTIALITY
+5.1. Confidential Information. The Parties acknowledge that during the performance
+of this Agreement, each Party will have access to certain of the other Party’s Confidential Information or Confidential Information of its Affiliates or third Persons that the disclosing Party is required to maintain as confidential, and each
+Party hereby agrees that it will protect such Confidential Information of the other Party, its Affiliates or third Persons with the same degree of care that it uses to protect its own Confidential Information of like nature, but no less than a
+reasonable degree of care. Licensor and Licensee agree not to disclose Confidential Information of the disclosing Party, its Affiliates or such third Person, as applicable, to any third Person without the prior written consent of the disclosing
+Party or any such Affiliate or third Person. The receiving Party may disclose Confidential Information of the disclosing Party, its Affiliates or such third Person, as applicable, on a need-to-know basis only, to the receiving Party’s employees
+and/or authorized agents who are bound by obligations of confidentiality as least as restrictive as those contained herein, and each Party shall be responsible for ensuring compliance with the terms hereof by Persons to whom it discloses the
+Confidential Information of the other. Both Parties agree that all items of Confidential Information are proprietary to the disclosing Party or such Affiliate or third Person, as applicable, and shall remain the sole property of the disclosing Party
+or such Affiliate or third Person. Each Party shall only be entitled to use Confidential Information for the purpose intended hereunder. Each Party shall promptly notify the other Party immediately upon its becoming aware of a breach of the
+obligations set forth in this Section 5, and each Party shall assist the other Party in investigating and pursuing such breach.
+5.2.
+Confidentiality of Source Code. Notwithstanding the terms of Section 5.1, Licensee agrees and shall cause its Affiliates (i) to maintain in confidence the source code of the Proprietary Misys Connect Software and any
+Improvements,
+
+
+
+8
+
+
+
+
+
+
+
+
+
+Maintenance Releases and Upgrades thereto by using at least the same physical and other security measures as Licensee uses for its own confidential technical
+information and documentation, and no less than a reasonable degree of care; and (ii) not to disclose the source code of the Proprietary Misys Connect Software and any Improvements, Maintenance Releases and Upgrades thereto, or any
+aspect thereof, to anyone other than employees, contractors or agents who (a) have a need to know or obtain access to such information in order to support Licensee’s or its Affiliate Sublicensees’ authorized use of the Licensed
+Works and (b) are bound to protect such information against any other use or disclosure. Licensee’s obligations under this Section 5.2 shall not apply to any information (w) generally available to the public,
+(x) ascertainable based on the operation of the object code of the Licensed Works, (y) independently developed or obtained without reliance on Licensor’s information or (z) approved for release by Licensor
+without restriction.
+ARTICLE VI
+INFRINGEMENT
+6.1. Licensee shall promptly notify Licensor upon becoming aware of any infringement or misappropriation of the
+Licensed Works or any infringement or misappropriation of any other intellectual property pertaining to the Licensed Works but not embodied in the Licensed Works, including, but not limited to, Licensor’s copyrights, trade secrets, inventions,
+know-how, technology, processes, product specifications and methodologies. Licensor has the exclusive right to take, and shall take, such steps to stop such infringement as may be reasonably necessary in its reasonable determination to protect the
+Licensed Works and Licensor’s other intellectual property related thereto. Licensee shall, and shall cause its Affiliates to, cooperate fully with Licensor to stop such infringement. Licensor shall have full control over any such action,
+including, without limitation, the right to select counsel, to settle on any terms it deems advisable in its discretion, to appeal any adverse decision rendered in any court, to discontinue any action taken by it, and otherwise to make any decision
+in respect thereto as it deems advisable in its discretion. Licensor shall bear all expenses connected with the foregoing, including for Licensee’s or its Affiliates’ cooperation. To the extent Licensee or any of its Affiliates has proven
+damages resulting from such infringement, Licensee or such Affiliate shall share in the amount recovered, if any, net of Licensor’s expenses in connection with such action, pro-rata with Licensor’s damages in such action.
+ARTICLE VII
+LIMITATION OF LIABILITY
+
+7.1. NEITHER PARTY OR ITS AFFILIATES SHALL HAVE LIABILITY FOR SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES
+OR FOR ANY DAMAGES WHATSOEVER RESULTING FROM UNAUTHORIZED ACCESS TO THE LICENSED WORKS, LOSS OF USE, LOSS OF DATA, LOSS OF PROFITS, LOSS OF GOODWILL, ADDITIONAL EMPLOYEE HOURS OR LOSS OF ANTICIPATED
+
+
+
+9
+
+
+
+
+
+
+
+
+
+SAVINGS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR IN THE PERFORMANCE THEREOF, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES
+OR DAMAGES AND REGARDLESS OF WHETHER SUCH LIABILITY ARISES IN TORT, CONTRACT, BREACH OF WARRANTY, OR OTHERWISE. THE FOREGOING LIMITATION OF LIABILITY SHALL REMAIN IN FULL FORCE AND EFFECT REGARDLESS OF THE SUCCESS OR EFFECTIVENESS OF OTHER REMEDIES.
+
+7.2. THE CUMULATIVE LIABILITY OF EITHER PARTY OR ITS AFFILIATES FOR ALL LOSS AND DAMAGE WHATSOEVER AND HOWSOEVER ARISING RELATED TO THIS
+AGREEMENT SHALL NOT EXCEED ONE MILLION UNITED STATES DOLLARS ($1,000,000). THE FOREGOING LIMITATION OF LIABIILTY SHALL REMAIN IN FULL FORCE AND EFFECT REGARDLESS WHETHER A PARTY’S REMEDIES HEREUNDER HAVE FAILED THEIR ESSENTIAL PURPOSE.
+
+ARTICLE VIII
+REPRESENTATIONS
+AND WARRANTIES
+8.1. Representations and Warranties of the Parties. Each Party represents and warrants that it has executed this
+Agreement freely, fully intending to be bound by the terms and provisions contained herein; that it has full corporate power and authority to execute, deliver and perform this Agreement; that the Person signing this Agreement on behalf of such Party
+has properly been authorized and empowered to enter into this Agreement by and on behalf of such Party; that prior to the date of this Agreement, all corporate or company action of such Party necessary for the execution, delivery and performance of
+this Agreement by such Party has been duly taken; and that this Agreement has been duly authorized and executed by such Party, is the legal, valid and binding obligation of such Party, and is enforceable against such Party in accordance with its
+terms.
+8.2. DISCLAIMER. THE LICENSED WORKS ARE LICENSED “AS IS, WHERE IS” AND WITH ALL FAULTS AND, WITH THE EXCEPTION OF
+THE WARRANTIES EXPRESSLY MADE BY LICENSOR UNDER THIS AGREEMENT, LICENSOR MAKES AND LICENSEE RECEIVES NO OTHER WARRANTY, EXPRESS OR IMPLIED, AND ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT OR
+COMPLIANCE WITH LAW ARE EXPRESSLY EXCLUDED. LICENSOR DOES NOT REPRESENT THAT THE LICENSED WORKS WILL MEET LICENSEE’S REQUIREMENTS, OR THAT THE OPERATION OF THE LICENSED WORKS WILL BE UNINTERRPUTED OR ERROR FREE.
+
+
+10
+
+
+
+
+
+
+
+
+ARTICLE IX
+TERM; TERMINATION
+9.1. Term. The term of this Agreement shall become effective as of the date
+hereof, and shall continue in effect until terminated in accordance with the provisions of Section 9.2.
+9.2. Termination.
+
+(a) Licensor may terminate this Agreement upon written notice to Licensee, if:
+(i) Licensee breaches any provision of this Agreement and fails to cure such breach within sixty (60) days after the date of
+Licensor’s written notice thereof (or, if not curable within such period, within ninety (90) days; provided such Party has commenced and continues diligently to pursue such cure).
+(ii) Licensee files, or consents to the filing against it of, a petition for relief under any bankruptcy or insolvency laws, makes an
+assignment for the benefit of creditors or consents to the appointment of a receiver, liquidator, assignee, custodian, trustee, sequestrator or other official with similar powers over a substantial part of its property; or a court having
+jurisdiction over Licensee or any of the property of Licensee shall enter a decree or order for relief in respect thereof in an involuntary case under any bankruptcy or insolvency law, or shall appoint a receiver, liquidator, assignee, custodian,
+trustee, sequestrator or official with similar powers over a substantial part of the property of Licensee, or shall order the winding-up, liquidation or rehabilitation of the affairs of Licensee, and such order or decree shall continue in effect for
+a period of sixty (60) consecutive days.
+(b) Licensor may terminate a sublicense with an Affiliate Sublicensee upon written notice to
+Licensee, if:
+(i) Licensee fails to cause such Affiliate Sublicensee to cure such breach within sixty (60) days after
+the date of Licensor’s written notice to Licensee thereof (or, if not curable within such period, within ninety (90) days; provided such Affiliate Sublicensee has commenced and continues diligently to pursue such cure).
+
+(ii) The Affiliate Sublicensee files, or consents to the filing against it of, a petition for relief under any bankruptcy or insolvency
+laws, makes an assignment for the benefit of creditors or consents to the appointment of a receiver, liquidator, assignee, custodian, trustee, sequestrator or other official with similar powers over a substantial part of its property; or a court
+having jurisdiction over such Affiliate Sublicensee or any of the property of such Affiliate Sublicensee shall enter a decree or order for relief in respect thereof in an
+
+
+
+11
+
+
+
+
+
+
+
+
+
+involuntary case under any bankruptcy or insolvency law, or shall appoint a receiver, liquidator, assignee, custodian, trustee, sequestrator or official with
+similar powers over a substantial part of the property of such Affiliate Sublicensee, or shall order the winding-up, liquidation or rehabilitation of the affairs of such Affiliate Sublicensee, and such order or decree shall continue in effect for a
+period of sixty (60) consecutive days.
+(c) Licensee may terminate this Agreement at any time, at its option, by providing written
+notice of termination to Licensor thirty (30) days in advance of the date of termination.
+(d) Notwithstanding anything to the
+contrary contained herein, termination of this Agreement by either Party in whole or in part shall be without prejudice to any other remedy otherwise available hereunder, under law or at equity, to such Party or the other Party.
+(e) Notwithstanding anything to the contrary contained in this Agreement, the rights and obligations of Licensor and Licensee pursuant to the third
+sentence of Section 2.2, clause (i) of the third sentence of Section 2.3, Sections 3.1, 8.2, 9.2(d) and 9.3, Articles 5, 6, 7 and 10 and this Section 9.2(e) shall survive indefinitely regardless of any cancellation, expiration or
+termination of this Agreement.
+9.3. Effects of Termination. Any termination of this Agreement or a sublicense with an Affiliate
+Sublicensee in accordance with the terms hereof shall be final. Upon the termination of this Agreement:
+(a) All rights in the Licensed
+Works granted to Licensee or such Affiliate Sublicensee hereunder shall automatically revert to Licensor, and Licensee or such Affiliate Sublicensee shall have no further rights in, and shall immediately cease all use of, the Licensed Works and
+Licensed Software, except that Licensee or such Affiliate Sublicensee shall have a 90-day period after termination to transition away from use of the Licensed Software; and
+(b) Licensee or such Affiliate Sublicensee shall immediately (i) at the request of Licensor, provide Licensor with a copy of the then-current
+version of the Licensed Works as modified by Licensee or any Affiliate Sublicensee (in both source code and object code versions) and (ii) return or destroy, as requested by Licensor, all copies of the Licensed Works or Licensed Software in its
+possession (whether modified or unmodified) not provided to Licensor. Within thirty (30) days after such returns and/or destruction have taken place, Licensee or such Affiliate Sublicensee shall provide Licensor with an affidavit executed by an
+officer of Licensee or such Affiliate Sublicensee attesting thereto.
+(c) At the request of Licensor, Licensee shall promptly provide
+Licensor with copies of the then-current form of the Improvements made by Licensee or any Affiliate Sublicensees or on their behalf, in both source code and object code forms (the “Licensee Improvements”) and hereby grants to
+Licensor, effective as of Licensor’s
+
+
+
+12
+
+
+
+
+
+
+
+
+
+request for such copies, a nonexclusive, royalty-free right and license to use, access, reproduce, store, perform, sublicense to its Affiliates, transmit,
+display, modify, customize, translate and create derivative works from the Licensee Improvements in the Territory within the Field of Use solely in order to provide maintenance and support services to those customers of Licensee and its Affiliate
+Sublicensees who have End User License Agreements in effect as of the date of termination of this Agreement.
+ARTICLE X
+MISCELLANEOUS
+10.1. Assignment.
+Neither Party shall assign or attempt to assign its rights or obligations hereunder without the other Party’s prior written consent; provided, however, that no such consent shall be required for an assignment in connection
+with (i) any assignment to an Affiliate of the assigning Party; (ii) any assignment or sale of all or substantially all of the equity or similar interests of Allscripts that are owned by Misys; (iii) any
+assignment or sale of all or substantially all of the business comprising Misys Open Source Solutions, a division of Misys; or (iv) any assignment or sale of all or substantially all of Licensor’s, Misys’s or Licensee’s
+assets, or any merger, consolidation or other business combination to which Licensor, Misys or Licensee is a party. Any assignment or attempt to do so in violation of this Agreement shall be null and void. This Agreement shall be binding upon and
+inure to the benefit of the Parties and their respective heirs, successors and permitted assigns.
+10.2. Entire Agreement. This
+Agreement constitutes the entire agreement between Licensor and Licensee with respect to the subject matter hereof and supersedes and cancels all prior agreements and understandings between Licensor and Licensee, whether written and oral, with
+respect thereto.
+10.3. Amendment; Waivers. This Agreement shall not be amended, supplemented or modified except in a writing
+executed by authorized representatives of the Parties. Waiver by a Party of any breach of any provision of this Agreement by the other Party shall not operate, or be construed, as a waiver of any subsequent or other breach.
+10.4. No Agency. Licensor and Licensee are independent contractors with respect to each other, and nothing herein shall create any association,
+partnership, joint venture or agency relationship between them.
+10.5. Further Assurances. Each of the Parties hereto agrees to
+execute all such further instruments and documents and to take all such further action as the other Party may reasonably require in order to effectuate the terms and purposes of this Agreement. The Parties shall act in good faith in the performance
+of their obligations under this Agreement.
+10.6. Severability. If any provision of this Agreement is inoperative or unenforceable
+for any reason in any jurisdiction, such circumstances shall not have the
+
+
+
+13
+
+
+
+
+
+
+
+
+
+effect of rendering the provision in question inoperative or unenforceable in any other case, circumstance or jurisdiction, or of rendering any other
+provision or provisions herein contained invalid, inoperative, or unenforceable to any extent whatsoever. The invalidity of any one or more phrases, sentences, clauses, Sections or subsections of this Agreement in any jurisdiction shall not affect
+the remaining portions of this Agreement in such jurisdiction or in any other jurisdiction.
+10.7. Waiver of Jury Trial. EACH PARTY
+HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR THE BREACH, TERMINATION OR VALIDITY OF THIS AGREEMENT, OR THE
+TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT (A) NO REPRESENTATIVE, AGENT OR ATTORNEY OF THE OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF
+LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER, (B) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (C) IT MAKES THIS WAIVER VOLUNTARILY, AND (D) IT HAS BEEN INDUCED TO ENTER INTO THIS
+AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 10.7.
+10.8. Governing Law. This
+agreement shall be governed by and construed in accordance with the laws of the State of New York without giving effect to its principles or rules of conflict of laws to the extent such principles or rules are not mandatorily applicable by statute
+and would require or permit the application of the laws of another jurisdiction. For purposes of any claim, suit, action or proceedings arising out of or in connection with this Agreement, each of the parties hereby irrevocably submits to the
+exclusive jurisdiction of the federal and state courts located in the County of New York in the State of New York.
+10.9. Equitable
+Relief. Each Party hereto acknowledges that the other Party will suffer irreparable harm as a result of the material breach by such Party of any covenant or agreement to be performed or observed by such Party under this Agreement, and
+acknowledges that the other Party shall be entitled to apply for and, if granted, receive from any court or administrative body of competent jurisdiction a temporary restraining order, preliminary injunction and/or permanent injunction, without any
+necessity of proving damages, enjoining the breaching Party from further breach of this Agreement or further infringement or impairment of the rights of the non-breaching Party.
+10.10. Force Majeure. Any delay in or failure of performance by a Party under this Agreement shall not be considered a breach of this Agreement if
+and solely to the extent such breach is caused by events beyond the reasonable control of such Party, including, but not limited to, Acts of God, embargoes, governmental restrictions, strikes, riots, terrorist attacks, wars, or other military
+action, civil disorders, rebellion, fires, floods, vandalism, power outages or sabotage. The Party whose performance is affected
+
+
+
+14
+
+
+
+
+
+
+
+
+
+by such events shall promptly give notice to the other, specifying the force majeure circumstances, and the obligations of such Party giving notice shall be
+suspended solely to the extent caused by the force majeure and so long as the force majeure continues, and the time for performance of the affected obligation shall be extended by the time of the delay caused by such force majeure.
+10.11. Notices. All notices, requests, demands and other communications made in connection with this Agreement shall be in writing and shall be
+deemed to have been duly given (a) if sent by first-class registered or certified mail, return receipt requested, postage prepaid, on the fifth day following the date of deposit in the mail, (b) if delivered personally, when
+received, or (c) if transmitted by facsimile or other telegraphic communications equipment, when confirmed, in each case addressed as follows:
+If to Licensor, to:
+Misys Open Source Solutions LLC
+c/o Misys plc
+One Kingdom Street
+
+London W2 6BL
+United
+Kingdom
+Telecopy:      + 44 (0)20 3320 5000
+Telephone:    +44 (0)20 3320 1771
+Attention:      Group General Counsel & Company Secretary
+If to
+Licensee, to:
+Misys Healthcare Systems, LLC
+8529 Six Forks Road
+Raleigh, North Carolina 27615
+Telecopy:      (919) 457-4982
+Telephone:    (919) 329-1982
+Attention:      Corporate
+Counsel
+or, in each case, to such other address or facsimile number or to the attention of such other Person as may be specified in writing by such Party
+to the other Party.
+10.12. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed
+an original and all of which when taken together shall be one and the same instrument.
+10.13. Headings. The headings contained in
+this Agreement are for purposes of convenience only and shall not affect the meaning or interpretation of this Agreement.
+
+
+15
+
+
+
+
+
+
+
+
+10.14. Construction of this Agreement. In any construction of this Agreement, the Agreement shall
+not be construed against any Party based upon the identity of the drafter of the Agreement or any provision of it.
+
+
+16
+
+
+
+
+
+
+
+
+EXECUTION COPY
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+
+
+MISYS OPEN SOURCE SOLUTIONS LLC
+
+By:	 	 /s/ Darryl E. Smith
+
+Name:	 	Darryl E. Smith
+Title:
+
+MISYS HEALTHCARE SYSTEMS, LLC
+
+By:	 	 /s/ Kathy F. Twiddy
+
+Name:	 	Kathy F. Twiddy
+Title:	 	SVP, General Counsel
+
+
+
+
+17
+
+

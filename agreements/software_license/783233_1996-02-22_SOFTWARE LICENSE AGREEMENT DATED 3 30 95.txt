@@ -1,0 +1,622 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 99.5
+
+AMBIX SYSTEMS CORP.
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+FOR
+
+Implementation of Components of the Ambix
+Global Vista Telemanagement Framework
+
+
+
+AMBIX SYSTEMS CORP.
+400 West Ave.
+Rochester, New York 14611
+
+
+
+Version 10.006
+A. McIntosh
+March 22, 1995
+<PAGE>
+
+SOFTWARE LICENSE AGREEMENT
+
+
+AGREEMENT between Ambix Systems Corp. of 400 West Ave, Rochester, New
+York ("Ambix") and ACC Corp., its current majority-owned subsidiaries, ACC
+TelEnterprises Ltd., and each of its current majority-owned subsidiaries, and
+the successors and assigns of each of the foregoing "Customer"), with its
+principal office and place of business at 400 West Ave., Rochester, New York
+14611.
+
+
+RECITALS
+
+I.           Ambix has developed certain computer and systems software in which
+it possesses copyrights and/or rights in the nature of trade secrets and
+confidential know-how.
+
+
+II.          Ambix and Customer desire to enter into a License Agreement for
+such computer and systems software.
+
+NOW, THEREFORE the parties agree as follows:
+
+1.   Ambix hereby licenses and Customer agrees to license from
+Ambix under the terms and conditions contained herein the Software, as defined
+in Schedules I and II attached hereto.
+
+2.   Customer agrees to abide by the terms and conditions contained
+in this Agreement.
+
+
+3.   The following schedules are part of the Agreement:
+SCHEDULE I:    License Agreement Definitions, Terms and
+Conditions.
+SCHEDULE II:   "The Software":  Statement of Intent,
+Overview of Components and Look and Feel,
+Data Model Descriptions, and Milestones.
+SCHEDULE III:  Locations and entities of installation
+and use.
+SCHEDULE IV:   Delivery
+SCHEDULE V:    Fees and Payments
+SCHEDULE VI:   Escrow Agreement and Agency
+
+4.   Customer acknowledges that it has read and agrees to all terms
+and conditions set forth in this Agreement and the attached Schedules.
+
+IN WITNESS WHEREOF the parties have executed this Software License
+Agreement as of the dates below:
+<PAGE>
+
+AMBIX SYSTEMS CORP                     CUSTOMER:
+Authorized Officer                     Authorized Officer
+
+By: /s/ Andrew P. McIntosh              BY:  /s/ Arunas A. Chesonis
+TITLE: President                         TITLE: President
+DATE: March 30, 1995                     DATE:March 30, 1995
+<PAGE>
+
+SCHEDULE 1
+
+GENERAL TERMS
+
+1.0  DEFINITIONS.  When used in this Agreement, the capitalized terms listed
+below shall have the following meanings:
+
+1.1  "CODE" shall mean computer programming code.  If not otherwise
+specified, Code shall include only object code and not source code.
+
+(a) "Object Code" shall mean code which is directly machine readable
+and executable by a computer after suitable processing and is in a form that is
+not generally understandable by humans.
+
+(b) "Source Code" shall mean code other than Object Code and related
+system documentation, comments, and procedural code which may be printed out or
+displayed in a form readable and understandable by a human programmer of
+ordinary or pertinent skill.
+
+1.2  "DOCUMENTATION" shall mean user manuals and other written
+materials that relate to particular Code, including materials useful for design
+(for example, logic descriptions, flow charts, class definitions, principles of
+operation, and the like), and machine readable text or graphic files subject to
+display or printout.
+
+1.3  "ENHANCEMENTS" shall mean changes or additions to Code and
+related Documentation available in all new releases that improve
+functions/classes/objects, add new functions/classes/objects or improve
+performance by changes in system coding without changes to current overall
+system architecture.  Further, ENHANCEMENTS as defined under this Agreement
+shall pertain solely to those components of the Global Vista system herein
+licensed by Customer, regardless of any availability of new features,
+components, classes or objects to other Ambix customers, and do not pertain to
+any components or features not licensed by Customer.
+
+1.4  "SOFTWARE" shall mean the computer software, including Code as
+defined above, set forth in Schedule II and licensed hereunder, including any
+Enhancements as may be provided under this Agreement and any supplements or
+addendums hereto.
+
+2.0  LICENSE OF SOFTWARE.  Ambix grants and Customer accepts a personal,
+perpetual, non-exclusive, non-transferable and non-sublicensable license to use
+the computer software programs described in Schedule II attached hereto ("the
+SOFTWARE").  The Software is licensed solely for Customer's own use for the
+purposes as set forth in Schedule II at the locations and by the business
+entities set forth in Schedule III.  Except as set forth in Schedule II and
+Schedule III, use of the Software in any manner other than as set forth herein
+and use of the Software by third parties for any purpose whatsoever, are
+expressly prohibited.  This license shall be for an indefinite duration, subject
+to termination as provided herein.  Customer acknowledges, understands and
+agrees that the Software is not hereby sold to Customer; and Customer does not
+by virtue of this Agreement acquire any
+<PAGE>
+
+ownership rights in the Software or the intellectual property (including
+copyrights, trademarks, trade secrets and know-how) embodied in the Software or
+in any accompanying Documentation.
+
+3.0  DELIVERY.  Pursuant to Schedule IV, Ambix shall deliver the Software on, or
+as soon thereafter is practical, to Customer's requested delivery date, at the
+location designated by Customer.  Customer shall be responsible for assisting
+Ambix in the installation of the Software and shall provide all equipment,
+supplies, personnel and computer resource necessary to complete such
+installation.  Ambix shall not be responsible for delays or failure of
+installation resulting directly or indirectly from causes beyond the reasonable
+control of Ambix.
+
+4.0  LICENSE FEE.  Customer shall pay and Ambix shall accept the amount(s) set
+forth in Schedule V in full payment for this license to use the Software.  In
+addition, Customer shall pay or reimburse Ambix for all shipping and handling
+charges and all taxes or assessments of any government in the nature of taxes,
+however designated, relating to this license of the Software; including, but not
+limited to, sales, use, privilege, excise, withholding, value-added, or property
+taxes; excluding, however, taxes based upon the net income of Ambix.
+
+5.0  TERMS OF PAYMENT.  Ambix shall bill Customer for the amount(s) as set forth
+in Schedule V and Customer shall pay such amount(s) as billed.  Ambix shall
+assess and the Customer shall pay a late payment fee of one and one-half percent
+(1.5%) per month on all past due amounts together with all costs of collection,
+including reasonable attorney's fees with respect to any collection efforts by
+Ambix for amounts due to it hereunder.  This provision excludes however any late
+payment fee for the final installment payment withheld by Customer until
+Acceptance of the Software in accordance with the provisions of Section 13.
+
+6.0  RIGHT TO AUDIT.  Ambix may, at Ambix's cost, from time to time during
+Customer's normal business hours, have one of its employees or representatives
+confIRM at Customer's offices that Customer is in compliance with the terms and
+conditions of this Agreement.  In addition, Ambix may from time to time perform
+an on-line audit of the Global Vista system to assess Customer's compliance with
+Intellectual Property, copyright and trade secret provisions of this Agreement.
+
+Customer may, at Customer's cost, from time to time during Ambix's
+normal business hours, have one of its employees or representatives confirm at
+Ambix's offices, from Ambix's records, the amounts due Customer as Royalty Fees
+from Ambix.  After each such audit, Customer shall promptly provide Ambix with a
+detailed calculation of any amounts due Customer if the amount claimed by
+Customer shall differ from that previously calculated and paid by Ambix.
+
+7.0  DOCUMENTATION. Ambix shall provide Customer with Documentation for the
+Software.  Customer may copy all or any part of the Documentation provided that
+such copies shall be solely for Customer's own use at Customer's own facilities
+at the locations permitted in Schedule III.  Customer shall reproduce on all
+such copies all copyright,
+<PAGE>
+
+trademark, trade secret, and/or proprietary rights notices or legends which were
+on the copies delivered to Customer by Ambix.
+
+8.0  SOFTWARE SUPPORT.  For so long as this License Agreement shall remain in
+effect and so long as Customer has complied with all of its terms and
+conditions, Ambix shall provide Customer with any Enhancements (defined in
+Section 1.3 of this Agreement) to the Software and related Documentation
+necessary to use the software with these enhancements.  Such enhancements when
+made to the software (as defined in Schedule II, "the Software") will not
+include significant re-writes of the Software.  Upon request, Ambix will provide
+additional support by telephone and/or on-site consultation at Customer's
+expense (as defined in any Support Services Agreement between the parties).
+Customer shall pay Ambix's then prevailing charges for the time spent in
+servicing such Software, including portal to portal travel time and reasonable
+transportation, food, and lodging expenses.
+
+9.0  TRAINING.  If requested by Customer, Ambix shall provide training in the
+use of the Software for Customer's personnel.  Ambix will provide such training
+at mutually agreeable times and at mutually agreeable locations, subject to the
+availability of Ambix personnel.  Customer shall pay Ambix's then-current
+standard charges for training and shall reimburse Ambix for reasonable travel,
+lodging, and food expenses incurred in providing such training at locations
+other than those used by Ambix for such purposes.  Ambix shall submit a separate
+invoice to Customer for training services which invoice shall be paid in
+accordance with the payment terms contained in Schedule I (above) Section 5.
+
+10.0  CONFIDENTIALITY AND NON-DISCLOSURE OF INTELLECTUAL PROPERTY.  Customer
+acknowledges that Ambix has expended substantial effort and incurred great
+expense in designing and developing the Software and Documentation.  Customer
+further acknowledges that the Software and Documentation incorporates
+information, concepts, ideas, know-how, techniques, and functional
+characteristics which are confidential and constitute proprietary information
+and trade secrets of Ambix.  Customer agrees and covenants the following:
+(10.1) it will hold the Software and Documentation in the strictest confidence
+and will not assign, license, sublicense, market, transfer, or otherwise
+disclose all or any portion of the Software or Documentation to any person or
+entity without the prior written consent of Ambix, which may be withheld in
+Ambix's sole discretion, except in accordance with Section 18.b; (10.2) it will
+take all reasonable steps to prevent inadvertent or unauthorized disclosure,
+transfer, or reproduction in any form of the Software or Documentation; (10.3)
+it will notify its employees and agents of the confidentiality of the Software
+and Documentation as well as notify its employees of the prohibitions on
+disclosure, transfer, and reproduction contained herein; (10.4) it will make its
+best effort short of litigation, to identify those employees or agents who may
+become cognizant of intellectual property of Ambix and request those employees
+or agents to sign an employee-employer Confidentiality Agreement (10.5) it will
+make Source Code, if Source Code is provided by Ambix, of the Software available
+only to those of its employees who are required to use such Source Code in order
+to perform the duties of their employment with Customer; and (10.6) it will not
+remove or alter any copyright, trademark, trade secret and/or proprietary rights
+notice and/or legend placed on the Software and/or Documentation by Ambix, and
+will reproduce all such notices and/or legends on all copies (including partial
+copies) of the Software or Documentation.  Customer shall immediately notify
+Ambix of any
+<PAGE>
+
+breach of the confidentiality of the Software or Documentation and shall assist
+Ambix in any efforts to control or prosecute any such breach.
+
+11.0  MODIFICATION OF SOFTWARE.  Customer may request modifications to the
+Software for reasonable purposes consistent with Schedule II of this Agreement
+including modifications to merge the Software with other software programs or
+systems which incorporate the Software into an overall business or information
+systems process.  Customer shall pay Ambix its then-current fees for any
+modification.  Customer may not modify or cause to be modified the Software
+except as assisted by Ambix.  Any modifications made in violation of this
+Agreement shall belong to Ambix.  Any modified version of the Software, or any
+system which incorporates the Software in modified form, just as in its original
+form as defined under this Agreement, shall be for Customer's own use as
+specified under this Agreement in Schedules II and III.  The modified version or
+newly merged version of the Software shall remain subject to all of the terms
+and conditions of this Agreement.  In addition to the notices required by
+Section 10 of Schedule I (above), Customer shall include the following notice in
+both machine readable form and on all Documentation for the modified version of
+the Software or merged system comprising any part or all of the Software:
+
+"This program or system includes information, concepts, ideas, know-
+how, and techniques which are confidential and constitute proprietary
+information and trade secrets of Ambix Systems Corp. of Rochester, New
+York and are protected by copyright or pending copyright;
+
+@ 1995 Ambix Systems Corp."
+
+In the event this Agreement is terminated, the Software shall be completely
+removed from any system containing the software and from any information systems
+process using the Software, whether as a modified program or modified system
+integrating Ambix programs in modified or unmodified form. and treated as if
+permission to modify had never been granted and all copies of all Documentation
+shall be returned to Ambix.
+
+12.0  WARRANTY.  Ambix warrants that it is the rightful owner of the Software
+and that it has the right to license the Software to Customer.  After completion
+of the Acceptance test outlined in Section 13, and while Customer continues to
+license the Software, Ambix warrants that the Software will be free of
+programming errors which significantly affect the performance of the Software
+from the standards and specifications contained in Schedule II.  Further, upon
+Customer signing a Software Support Agreement, and as part of this Support
+Agreement and at no additional charge to Customer, Ambix will immediately
+correct any programming errors reported to Ambix.  Ambix's only obligation under
+this Warranty shall be to amend, revise, modify, or replace the Software at
+Ambix's then-current rates for programming and support services.  The warranty
+contained in this Section 12 shall apply to unmodified versions of the Software,
+and Ambix makes no warranty as to any version of the Software modified by anyone
+other than Ambix.  Amendment, revision, modification, or replacement of the
+Software will be performed at Customer's request at Ambix's then-current rates
+for such services, subject to availability of Ambix personnel.  AMBIX MAKES NO
+OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, AS TO
+<PAGE>
+
+ANY MATTER WHATSOEVER, AND DISCLAIMS ALL SUCH WARRANTIES INCLUDING, WITHOUT
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+13.0  ACCEPTANCE.  Customer will use the software during the thirty (30)
+business days immediately following installation (the "Acceptance Period") of
+the Software to determine whether or not it conforms to the functional and
+performance specifications attached as Schedule II (the "Specifications").  Any
+failures of the Software to conform to the Specifications discovered by
+Customer, during the Acceptance Period, will be reported promptly to Ambix.
+Ambix will immediately make any corrections necessary to make the Software
+conform with the Specifications.  Upon satisfactory completion of the Acceptance
+Testing process, Customer shall provide Ambix with written notification of
+acceptance and shall pay to Ambix the final $44,000 monthly installment payment.
+
+14.0  LIMITATION OF LIABILITY.  Ambix's liability under this Agreement for
+damages, regardless of the form of action, shall be limited to money damages
+which shall not exceed the total amount paid by Customer for the License granted
+hereunder.  This shall be Customer's exclusive remedy.  In no event shall either
+party be liable for any loss of product, loss of profit, loss of use or any
+other actual, special, incidental, consequential damages, or other damages of
+any kind whether foreseeable or unforeseeable, resulting from or arising out of
+the license or use of the Software, even if such party shall have been advised
+of possibility of such loss or damages.
+
+15.0  INTELLECTUAL PROPERTY INFRINGEMENT.  If notified promptly in writing of
+any action (and all prior claims relating to such action) brought against
+Customer, based on a claim that the Customer's use of the Software infringes a
+United States patent, copyright, trademark or a trade secret (hereafter
+collectively "intellectual property rights") of a third party, Ambix will defend
+such action at its expense and pay the costs and damages awarded in any such
+action.  Ambix will have the sole control of the defense of any such action and
+all negotiations for its settlement or compromise.  At any time during the
+course of any litigation arising out of a claim of infringement of an
+intellectual property right, or if, in Ambix's opinion, the intellectual
+property or any part thereof is likely to become the subject of a claim of
+infringement, Ambix will, at its sole option and at its expense, either procure
+for Customer the right to continue using the Software, replace or modify the
+same with a compatible, functionally equivalent, non-infringing product, or
+grant Customer a full refund of the License Fees specified in Schedule V, and
+accept its return.  The depreciation will be an equal amount per year over the
+lifetime of the Software as established by Ambix.  Ambix will not have any
+liability to Customer under any provision of this paragraph if the infringement,
+or claim thereof, is based upon (a) the use of the Software in combination with
+other software not furnished by Ambix; or (b) the use of other than the latest
+supportable version of the Software made available to Customer.
+
+Customer will hold Ambix harmless from and against any expense, cost,
+damage, judgment, or loss or other liability of any kind, for infringement of
+any intellectual property right which result from Ambix's compliance with
+Customer's designs, specifications, instructions or from the use of the Software
+as altered or modified by anyone other than Ambix.
+<PAGE>
+
+Customer is obligated hereby to promptly notify Ambix of any instance
+of infringement or attempted infringement upon the intellectual property rights
+of Ambix which comes to Customer's attention.
+
+The foregoing states the entire liability of Ambix with respect to
+infringement of an intellectual property right by the Software or any part
+thereof or by its operation.
+
+16.0  TERMINATION OF LICENSE.  The license granted to Customer hereunder may be
+terminated by Ambix upon not less than two months (2 months) notice if Customer
+fails to perform any of its material obligations or duties under this Agreement,
+unless within such period Customer cures such failure.  If however, Customer
+cannot in good faith cure such failure within the two month period, then
+Customer must commence cure immediately and continue to diligently pursue such
+cure of any such failure(s).  Upon termination of this Agreement, Customer shall
+immediately cease using the Software and, at the option of Ambix, Customer shall
+destroy or return to Ambix all tangible forms of the Software and the
+Documentation and Customer shall erase the Software from all storage media in
+which it has been installed or copied.  Within (30) thirty days after
+termination of this Agreement, Customer shall certify to Ambix in writing that
+it has destroyed or delivered to Ambix all tangible forms of the Software and
+that it has erased the Software from all storage media.
+
+17.0  EXPORT REGULATIONS.  Customer agrees, regardless of permissions granted by
+Ambix, not to export, either directly or indirectly, any Ambix Software or
+systems incorporating such Software without first obtaining any required license
+to export or re-export from the United States Government or appropriate foreign
+government as may be required and to comply with all United States and
+international export regulations as applicable.
+
+18.0  MISCELLANEOUS.
+
+18.A  Binding Effect.  This Agreement shall be binding upon and inure
+to the benefit of the parties hereto, their personal representatives, and
+permitted successors and assigns.
+
+18.B  No Assignment.  Customer may not assign nor sublicense this
+Agreement, in whole or in part, without the prior written consent of Ambix,
+which may be withheld in Ambix's sole discretion.  Customer may without the
+prior written consent of Ambix assign its fights under this Agreement so far as
+those rights constitute part of the sale, merger, consolidation, reorganization
+or transfer of any part of Customer's business or assets in which the Software
+is used.  Any assignee of Customer shall have all of the rights and obligations
+set forth in this Agreement.
+
+18.C  Entire Agreement.  This Agreement contains the entire
+understanding between or among the parties hereto and supersedes any prior
+understanding, memoranda or other written or oral agreements between or among
+any of them with respect to the Agreement's subject matter.  There are no
+representations, agreements, arrangements or understandings, oral or written,
+between or among any of the parties relating to the subject matter of this
+Agreement which are not fully expressed herein.
+<PAGE>
+
+18.D  Modifications or Waiver.  No modification or waiver of this
+Agreement or any part of this Agreement shall be effective unless in writing and
+signed by the party or parties sought to be charged therewith.  No waiver of any
+breach of condition of this Agreement shall be deemed to be a waiver of any
+other or subsequent breach or condition, whether of like or different nature.
+No waiver of any breach or condition of this Agreement by or with respect to any
+party hereto shall be deemed to be a waiver of the same breach or condition with
+respect to any other party hereto.  No course of dealing between or among any of
+the parties hereto will be deemed effective to modify, amend, or discharge any
+part of this Agreement or the rights or obligations of any party hereunder.
+
+18.E  No Third Party Beneficiary.  None of the provisions of this
+Agreement shall be for the benefit of, or enforceable by, any person or entity
+not a party hereto.
+
+18.F  Partial Invalidity.  If any provision of this Agreement shall be
+held invalid or unenforceable by competent authority, such provision shall be
+construed so as to be limited or reduced to be enforceable to the maximum extent
+compatible with the law as it shall then appear.  The total invalidity or
+unenforceability of any particular provision of this Agreement shall not affect
+the other provisions hereof and this Agreement shall be construed in all
+respects as if such invalid or unenforceable provision were omitted.
+
+18.G  Notices.  Any notice or other communication required or
+permitted under this Agreement shall be in writing and shall be deemed to have
+been duly given (a) upon hand delivery, or (b) on the third day following
+delivery to the U.S. Postal Service as certified or registered mail, return
+receipt requested and postage prepaid, or (c) on the first day following
+delivery to a nationally recognized U.S. or foreign overnight courier service,
+fee prepaid, return receipt requested or other confirmation of delivery
+requested, or (d) when telecopied or sent by facsimile transmission if an
+additional notice is also given under (a), (b), and (c) above within three days
+thereafter.  Any such notice or communication shall be delivered or directed to
+a party at its address set forth below or at other address as may be designated
+by a party in a notice given to all other parties hereto in accordance with the
+provisions of this section.
+
+Notice to Ambix shall be sent to...
+
+Ambix System Corp.
+400 West Ave,
+Rochester, New York  14611
+Attn:  Andrew McIntosh, President
+
+Notice to ACC CORP shall be sent to...
+
+ACC Corp.
+400 West Ave.
+Rochester, New York 14611
+Attn:  Arunas Chesonis, Chief Operating Officer
+<PAGE>
+
+18.H  Governing Law.  This Agreement shall be governed by, and
+construed in accordance with, the laws of the United States and the State of New
+York without reference to any New York conflict or choice of law principle.
+
+18.I  Jurisdiction and Venue.  In the event that any legal proceedings
+are commenced in any court with respect to any matter arising under this
+Agreement, the parties hereto specifically consent and agree that:
+
+18.1.a  the courts of the State of New York and/or the United States
+Federal Courts located in the State of New York shall have exclusive
+jurisdiction over each of the parties hereto and over the subject matter of any
+such proceedings; and
+
+18.1.b  the venue of any such action shall be in Monroe County, New
+York and/or the United States District Court for the Western District of New
+York.
+
+18.J  Injunctive Relief.  In the event of a breach or threatened
+breach of any of the terms of Sections 10, 11 or 15 of this Agreement, Ambix
+shall be entitled to an injunction restraining Customer from committing any
+breach of this Agreement without showing or proving any actual damages and
+without diminishing any other right or remedy which Ambix may have at law or in
+equity to enforce the provisions of this Agreement.  Customer waives any right
+it may have to require Ambix to post a bond or other security with respect to
+obtaining or continuing any injunction or temporary restraining order, and
+releases Ambix and its officers, directors, and shareholders from, and waives
+any claim to, damages against them which Customer may have with respect to Ambix
+obtaining any injunction or restraining order pursuant to this Agreement.
+
+18.K  Effect of Termination.  Unless otherwise specifically agreed in
+writing, the terms of Sections 10, 11, 14, 15, and 18(all) shall survive any
+termination, cancellation, repudiation or rescission of this Agreement by either
+party for a period of three years after termination, whether or not for cause,
+and under such circumstances either party may continue to enforce such terms as
+if this Agreement were otherwise in full force and effect.  In addition, the
+terms of SECTION 6.0 shall remain in effect for a period of one (1) year after
+termination.
+
+18.L  Confidentiality.  Except as contemplated by this Agreement or as
+necessary to carry out the transactions contemplated by this Agreement, the
+terms of this Agreement, and all information or documents furnished by any party
+to the other, shall be kept confidential by the party to whom furnished and
+shall not be otherwise used or disclosed by the recipient except to recipient's
+accountants or attorneys, or as may be required by law, without the prior
+written consent of the other party.  If this transaction is not consummated,
+each party shall return to the other all such documents furnished hereunder,
+including all copies, and shall continue to keep confidential, and neither use
+nor disclose, any such information.
+
+18.M  Expenses of Parties.  All expenses involved in the preparation,
+authorization, execution and delivery of this Agreement, including, without
+limitation, all
+<PAGE>
+
+fees and expenses of agents, representatives, counsel, and accountants, shall be
+borne solely by the party that incurred same.
+
+18.N  Headings.  The headings contained in this Agreement are inserted
+for convenience only and do not constitute a part of this Agreement.
+
+18.O  Fair Meanings.  This Agreement shall be construed according to
+its fair meaning.  The language used shall be deemed the language chosen by the
+parties hereto to express their mutual intent, and no presumption or rule of
+strict construction will be applied against any party hereto.
+
+18.P  Gender.  Whenever the context may require, any pronoun used
+herein shall include the corresponding masculine, feminine or neuter forms and
+the singular of nouns, pronouns and verbs shall include the plural and vice
+versa.
+
+18.Q  Counterparts.  This Agreement may be executed in several
+counterparts, each of which shall be deemed an original, and all of said
+counterparts together shall constitute but one and the same instrument.
+
+18.R  Further Assurances.  The parties hereto shall execute and
+deliver any and all additional writings, instruments and other documents and
+shall take all such further actions as shall be reasonably required to effect
+the terms and conditions of this Agreement.
+
+19.0  SOURCE CODE DEPOSIT.  Concurrently with each delivery of software to
+Customer, Ambix shall deposit a copy of the Source Code to the version of the
+Software then being delivered to Customer with the Escrow Agent named in
+Schedule VI.  Such Source Code shall be held and delivered by the Escrow Agent
+in accordance with the terms and conditions of the Escrow Agreement which forms
+Schedule VI of this Agreement.  Ambix shall pay all industry comparable fees of
+the Escrow Agent.  Upon request, Customer may compare and verify each deposit of
+Source Code to ensure that it corresponds to the Object Code version of the
+Software then being delivered to Customer.  Such comparison and verification
+shall take place upon not less than two business days notice, and shall be
+performed at such place and by such persons as Customer shall reasonably
+designate according to all terms and conditions of this Agreement.  Customer may
+elect at its option to retain a third party consultant to perform comparison and
+verification of the Software, upon first having such consultant execute a
+confidentiality agreement with Customer regarding the Software.
+
+20.0  RIGHT OF DEMONSTRATION ON CUSTOMER PREMISES:  Ambix, upon reasonable
+notice to Customer, may have access to Customer's operations facilities for
+purposes of demonstrating the use of the Software to prospective customers of
+Ambix.  During the term of this Agreement, such visits will be limited to once
+per month unless otherwise agreed by the parties.  During such visits, Customer
+at its sole option may withhold information it deems proprietary from any
+visitors.  Ambix will take precautions not to disturb or incumber the operations
+during such visits.  Customer agrees to make an employee available to answer
+questions should questions arise during a site visit.
+<PAGE>
+
+SCHEDULE V
+
+
+LICENSE FEES AND PAYMENTS
+
+
+1.0  License Fees for NetOps Application Components and Data Models
+
+1.1     A total of $328,540.00 to be paid in monthly installments
+through the implementation of NetOps Phase II.  The final monthly installment
+payment of $44,000 will be withheld until acceptance of the Software in
+accordance with the provisions contained in Schedule I, Section 13.
+
+2.0  Royalty return payments to ACC from Ambix.
+
+2.1  For a period of five years after the Acceptance of the Software,
+Customer shall be entitled to receive royalty payments from Ambix based upon all
+revenues derived from parties other than Customer from the sale of the Software
+(NetOps components) licensed in this Agreement ("Ambix Revenue").  During this
+period, Ambix shall pay to Customer a royalty in the amount equal to fifteen
+percent (15%) of all such Ambix Revenue within thirty days of receipt by Ambix.
+This royalty shall be paid at the rate of 15% of sales until such time at which
+Ambix has paid to ACC a total equal to the sum paid to Ambix by ACC in
+implementation and license fees for NetOps programs licensed under this
+Agreement.  At the conclusion of Phase II, this sum will be $328,540.00 (U.S.).
+
+If within the five year royalty period Ambix should pay to ACC an
+amount in royalty payments equal to the amount that Ambix has received from ACC
+in implementation and license fees of NetOps programs, then at that time Ambix
+shall continue to pay to ACC royalty fees in amounts equal to seven percent (7%)
+of Ambix Revenue until such time as Ambix has paid to ACC a total aggregate sum
+of one million dollars ($1,000,000.00 U.S.) in royalty fees.  Except for accrued
+but unpaid royalty fees, Ambix's obligation to pay royalty fees to ACC
+terminates five years from the acceptance date of the Software, or at such time
+is Ambix has paid to ACC a total aggregate sum of one million dollars in royalty
+fees.
+
+Ambix Systems Corp.                    Customer
+
+
+Signed: /s/ Andrew P. McIntosh               Signed:  /s/ Arunas A. Chesonis
+
+Date: March 30, 1995                     Date: March 30, 1995
+
+
+

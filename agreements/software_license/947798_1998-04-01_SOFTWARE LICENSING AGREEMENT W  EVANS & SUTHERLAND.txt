@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+Exhibit 10.18
+
+
+
+EVANS & SUTHERLAND COMPUTER CORPORATION
+
+SOFTWARE LICENSING AGREEMENT
+
+(SOURCE CODE)
+
+THIS SOFTWARE LICENSING AGREEMENT (the "AGREEMENT") made and entered into as of
+May 8, 1997 (the "EFFECTIVE DATE") by and between EVANS & SUTHERLAND COMPUTER
+CORPORATION ("E&S"), a Utah corporation, and the party executing below
+("LICENSEE"), each having an office for the conduct of business at the
+addresses indicated below (E&S and Licensee are hereinafter referred to
+individually as a "PARTY" and collectively as the "PARTIES").
+
+The Parties agree that the terms and conditions herein shall govern the license
+of the Licensed Product described in the attachments hereto and incorporated
+herein.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+EVANS & SUTHERLAND COMPUTER              ACCELGRAPHICS, INC.
+
+CORPORATION
+
+BY: /S/CR Maule____________________      BY: /S/ Keith Uhlin___________________
+
+NAME: Charles R. Maule_____________      NAME: Keith Uhlin_____________________
+
+TITLE: VP/GM, Desktop Graphics_____      TITLE:  VP Engineering________________
+
+DATE: _5-8-97______________________      DATE:_4-6-97__________________________
+
+ADDRESS:                                 ADDRESS:
+
+600 Komas Drive                          1942 Zanker Road
+Salt Lake City, Utah 84158               San Jose, CA  95112
+
+TERMS AND CONDITIONS
+
+1.0  DEFINITIONS
+
+1.1  "Attachments" means attachments, schedules, exhibits and addenda
+to this Agreement  describing the Licensed Product, Documentation, license
+fees, royalties, and any special terms and conditions pertaining hereto.
+
+1.2  "Confidential Information" means that information which E&S or
+Licensee desire to protect against unauthorized disclosure or use and which is
+(i) disclosed in tangible form clearly marked or identified as confidential or
+proprietary at the time of disclosure or (ii) disclosed in non-tangible form,
+identified as confidential or proprietary at the time of disclosure, and
+summarized sufficiently for identification and designated as confidential or
+proprietary in a written memorandum sent to the receiving Party within thirty
+(30) days after disclosure.  Confidential Information may include information
+of third parties.  The terms and conditions of this Agreement shall be
+considered Confidential Information.
+
+1.3  "Derivative Work(s)" means a work which is based upon the
+Licensed Product, or any portion thereof, such as a revision, modification,
+port, translation, abridgment, condensation, expansion, collection,
+compilation, or any other form in which the Licensed Product or portion thereof
+may be recast, transformed or adapted, and which, in the absence of this
+Agreement or other authorization by E&S, would constitute a copyright
+infringement.
+
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 1
+
+<PAGE>   2
+
+1.4  "Documentation" means the manuals, guides, or other documentation
+provided for use with the Licensed Product, if any, as are more fully described
+in Attachment 1 hereto.
+
+1.5  "Error" means any reproducible failure of the Licensed Product to
+perform its intended functions as stated in the Documentation.
+
+1.6  "Licensed Product" means (a) the programs and databases more
+particularly described in Attachment 1 hereto, and (b) all programs and
+databases subsequently licensed to Licensee by E&S, whether or not identified
+to this Agreement in writing, unless specifically covered by a separate license
+agreement, including, in both cases, modifications to such programs and
+databases permitted by Section 2.1 hereof.
+
+1.7  "REALimage(TM) Technology" means the REALimage(TM) 1000 rendering
+controller chip technology described in the Documentation, and enhancements and
+improvements to that technology.
+
+1.8  "Source Code" means a series of  instructions or program
+statements written in a high-level computer language.  Source Code is normally
+readable by persons trained in the particular computer language in question,
+and is normally translated into machine-executable binary or object code by
+means of a compiler, assembler, or interpreter.
+
+1.9  "Source Licensed Product" means Source Code for the Licensed
+Product.
+
+2.0  LICENSE GRANT AND RESTRICTIONS
+
+2.1  License Grant.  Subject to the terms and conditions of this
+Agreement, including the payment by Licensee of the license fee or royalty
+specified in Attachment 2, E&S hereby grants to Licensee a non-exclusive,
+nontransferable, worldwide license (a) to copy, use, modify and prepare
+Derivative Works of the Source Licensed Product for the sole purpose of
+developing applications, including driver software, to operate only on or with
+hardware that utilizes the E&S REALimage(TM) technology, (b) to copy,
+distribute, perform and sublicense to end users, in executable or binary code
+form only, the applications so  developed from Licensed Product through all its
+channels of distribution, including resellers, OEMs, and VARs and (c) to copy,
+modify, prepare Derivative Works of and redistribute Documentation provided with
+the Licensed Product. The license granted herein is only for the purposes
+expressly set forth in this Section 2.1.
+
+2.2  Use by Licensee's End Users. Licensee agrees to indemnify,
+defend, and hold E&S harmless for, from, and against any claims, damages, or
+litigation costs resulting from or relating to the distribution or use of
+Licensed Product or applications developed from Licensed Product by third
+parties claiming through Licensee, regardless of the form of the action, except
+those claims, damages and costs fro which E&S is responsible pursuant to
+Section 10 hereof.
+
+2.3 Error Notification.  Licensee agrees to promptly inform E&S of all
+Errors, and any modification, addition, procedure or routine intended to
+correct the practical adverse effect of any such Error.  Notwithstanding the
+foregoing, E&S shall not have, and expressly disclaims, any duty or obligation
+to correct, attempt the correction of, or provide a work-around or avoidance
+procedure for, any Error, or to provide Licensee with updates, upgrade, or
+revisions to the Licensed Product.
+
+2.4 Periodic Updates.  So long as this Agreement is in effect, E&S
+shall provide Licensee with the source code for the general release of the
+reference source software for the Licensed Product corresponding to the version
+of the chipset embodying the REALimageTM Technology which is then being
+purchased by Licensee, provided that: (a) Licensee is then purchasing such
+chipset in quantities of 800 units per month, based on a rolling three-month
+average, (b) Licensee's last order was placed no later than 60 days previously,
+and (c) no event of default on the part of Licensee has occurred and is then
+continuing under this Agreement.  Such software will be provided to Licensee
+when generally released if the conditions to release stated in the preceding
+sentence are then satisfied, or when such conditions are satisfied, if later
+than the time of general release.
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 2
+
+<PAGE>   3
+
+3.0  OWNERSHIP
+
+3.1  Ownership of the Licensed Product.  E&S or its licensors own and
+will retain all rights, title, and interests, including but not limited to
+trademarks, copyrights, patents, patent rights, trade names, trade secrets, and
+other intellectual property rights, in and to the Licensed Product (in both
+source and executable or binary code form) and Documentation, and in
+algorithms, know-how, ideas, techniques, procedures and concepts embodied
+therein.  Licensee does not obtain any rights, title, or interests, including
+but not limited to such intellectual property rights, in the Licensed Product
+by this Agreement, other than the license rights expressly conferred in Section
+2.1.
+
+3.2  Ownership of Modifications.  Licensee does not obtain by this
+Agreement any rights, title, or interests, including but not limited to
+intellectual property rights, in Derivative Works, other than the license
+conferred in Section 2.1 and as expressly stated in this Section 3.2. Licensee
+shall own all rights, title, and interests, including but not limited to
+trademarks, copyrights, patents, patent rights, trade names, trade secrets, and
+other intellectual property rights, in and to any Derivative Work solely to the
+extent of material contributed by or developed for Licensee and modifications
+of the Licensed Product made by or for Licensee as permitted by Section 2.1
+hereof, together with algorithms, know-how, ideas, techniques, procedures, and
+concepts embodied therein.
+
+3.3 License Back of Modifications.
+
+(a) Licensee grants to E&S a nonexclusive, worldwide,
+royalty-free license in perpetuity (i) to copy, use, modify, and prepare
+derivative works of all Licensee Derivative Works as described in 3.3(b)
+(including modifications of the Licensed Product made by or for Licensee), in
+both source and executable or binary form, and (ii) to copy, distribute,
+perform, and sublicense such Licensee Derivative Works and derivative works of
+and any modifications to Licensee Derivative Works, in source form and in
+executable or binary form, through all its channels of distribution, including
+resellers, OEMs, and VARs.
+
+(b) Licensee shall deliver to E&S source code (in annotated
+form if available) and executable or binary code, including compile or build
+instructions, for Derivative Works containing fixes to modifications of the
+Licensed Product made by or for Licensee), within sixty (60) days of release of
+the executable binary code form of such Derivative Works.
+
+4.0  COPYRIGHTS AND OTHER NOTICES
+
+Licensed Product and applications developed from Licensed Product distributed
+by Licensee shall contain an appropriate notice indicating that E&S is the
+licensing source for the Licensed Product.  Derivative Works distributed by
+Licensee as permitted hereunder shall contain appropriate notices indicating
+that such works are based, in part, on Licensed Product.  Documentation and
+portions of Documentation used or distributed by Licensee shall contain a
+sufficent notice of E&S' copyright therein.  Licensee agrees to show any
+proprietary legends, identifications, or notices which are embodied in or
+affixed to the Licensed Product, or which are affixed to the Documentation
+wherever licensee copyright or patent notifications are shown..
+
+5.0  TERMINATION
+
+This Agreement is effective until terminated. If Licensee fails to comply with
+any of the material terms and conditions of this Agreement, either party may
+terminate this Agreement upon sixty (60) days' written notice to Licensee
+specifying any such breach, unless within the period of such notice, all
+breaches specified in such notice shall have been remedied, or unless the
+breach is one which, by its nature, cannot be fully remedied in sixty (60)
+days, but Licensee has undertaken reasonable, good faith efforts toward
+remedying the breach within such sixty (60) days, and continues to use
+reasonable, good faith and diligent efforts to promptly remedy the breach.
+Termination of this Agreement shall not terminate Licensee's obligation to pay
+any amounts due E&S hereunder and not then paid, or suclicenses to end users
+mnade prior to termination.
+
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 3
+
+<PAGE>   4
+
+
+6.0  PAYMENTS
+
+All fees, royalties, and other amounts required to be paid by this Agreement as
+specified in Attachment 2 are payable when due, in cash or cash equivalents,
+without deduction or offset.
+
+7.0  CONFIDENTIAL INFORMATION
+
+7.1  Restrictions.  Each Party shall hold in confidence, and shall use
+solely for purposes of or as provided in this Agreement,  any Confidential
+Information received by it from the other or derived from Confidential
+Information and shall protect the confidentiality of such with the same degree
+of care that it exercises with respect to its own information of like import,
+but in no event less than reasonable care, for a period of five (5) years from
+the date of disclosure.
+
+7.2  Exceptions.  Notwithstanding any provisions herein concerning
+non-disclosure and non-use of the Confidential Information, the obligations of
+Section 7.1 shall not apply to any portion of the Confidential information
+which:
+
+(a)  is now or which hereafter through no act or
+failure to act on the part of the receiving Party becomes generally known in
+the computer systems industry;
+
+(b)  is hereafter furnished to the receiving Party by
+a third party without obligation to keep such information confidential;
+
+(c)  is independently developed by the receiving
+Party without the use of the Confidential Information;
+
+(d)  is disclosed to others by the disclosing Party
+without restriction;
+
+(e)  is required to be disclosed pursuant to a legal,
+judicial, or administrative procedure or otherwise required by law; providing
+the disclosing Party gives the other Party notice of the proposed disclosure
+with sufficient time to seek relief;
+
+(f)  is already in the possession of, or known to,
+the receiving Party prior to its receipt; or
+
+(g)  is approved for release or use without
+restriction by written authorization of an officer of the disclosing Party.
+
+Subject to the requirements of Section 7.1 hereof, a receiving Party may
+disclose appropriate portions of Confidential Information to its employees who
+have a substantial need to know the specific information in question, and to
+subsidiaries, affiliates, representatives, agents, auditors, lenders, and
+regulators having a legitimate need or right to know, in which event the
+receiving Party will make a reasonable effort to minimize the amount of
+information disclosed and to cause such persons to maintain the confidentiality
+of the information disclosed.
+
+7.3  Injunction.  Confidential Information has been and will continue
+to be of central importance to the business of a disclosing Party, and its
+disclosure to or use by others will cause immediate and irreparable injury to
+the disclosing Party, which may not be adequately compensated by damages and
+for which there is no adequate remedy at law.  In the event of any actual or
+threatened misappropriation or disclosure of Confidential Information, the
+receiving Party agrees that the disclosing Party will be entitled to an
+injunction prohibiting such misappropriation or disclosure, and to specific
+enforcement of the receiving Party's obligations hereunder. The foregoing
+rights to an injunction and specific performance will be cumulative and in
+addition to every other remedy now or hereafter available to disclosing Party
+in law or equity or by statute.
+
+7.4  Returning Confidential Information. All materials containing
+Confidential Information of the other Party shall be returned to that Party
+within thirty (30) days after termination of this Agreement.
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 4
+
+<PAGE>   5
+
+8.0  LIMITED WARRANTY AND DISCLAIMER
+
+8.1  Warranty. The Licensed Product is provided "AS IS," WITHOUT
+WARRANTY OF ANY KIND.
+
+8.2  DISCLAIMER. E&S DOES NOT MAKE AND EXPRESSLY DISCLAIMS ANY EXPRESS
+OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF DESIGN,
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, OR
+ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE. E&S DOES NOT
+WARRANT THAT THE LICENSED PRODUCT OR ANY OF ITS PARTS WILL BE ERROR FREE, WILL
+OPERATE WITHOUT INTERRUPTION, OR WILL BE COMPATIBLE WITH ANY PARTICULAR
+SOFTWARE OR HARDWARE.
+
+9.0  LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY LOST REVENUES OR PROFITS OR
+OTHER SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF THIS
+AGREEMENT, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES, AND REGARDLESS WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS
+ESSENTIAL PURPOSE.
+
+10.0 INDEMNITY
+
+If notified promptly of any action brought against Licensee based on a claim
+that the Licensed Product, or any portion thereof, directly infringes any
+registered patent, or any copyright or trademark, or is a misappropriation or
+theft of a trade secret, E&S will defend such action at its own expense and
+will pay all costs and damages (including without limitation, reasonable
+attorney's fees) finally awarded in, or in settlement of, any such action,
+provided that E&S shall have no liability for any settlement or compromise made
+without its consent. To qualify for such defense and payment, Licensee must
+allow E&S to control fully, and reasonably cooperate with E&S, in the defense
+of such action and all related settlement negotiations.  In the event that a
+final injunction is obtained against Licensee's use of the Licensed Product or
+any portion thereof by reason of such infringement, or if in E&S' reasonable
+opinion, the Licensed Product or any portion thereof is likely to become the
+subject of a claim, E&S will, at its own expense and in its soles discretion,
+either procure for Licensee the right to continue to use the Licensed Product,
+replace or modify the Licensed Product so that it becomes non-infringing, or
+direct Licensee to cease use of the Licensed Product and refund the aggregate
+amount paid therefor by Licensee, less a reasonable sum for use.
+
+11.0  GENERAL
+
+11.1  Choice of Law.  This Agreement is made under and shall be
+governed by and construed in accordance with the laws of the State of Utah,
+United States of America (except that the body of law controlling conflict of
+laws) and specifically excluding from application to this Agreement that law
+known as the United Nations Conventions on the International Sale of Goods.
+
+11.2  Counterparts.  This agreement may be executed in one or more
+counterparts, each of which will be deemed an original, but all of which
+constitute but one and the same instrument.
+
+11.3  Entire Agreement.  This Agreement, including all Attachments
+hereto, constitutes the entire agreement between the Parties with respect to
+the subject matter hereof, and supersedes and replaces all prior or
+contemporaneous understandings or agreements, written or oral, regarding such
+subject matter. This Agreement will be fairly interpreted in accordance with
+its terms and without any strict construction in favor or against either Party.
+Unless otherwise provided herein, this Agreement may not be modified, amended,
+rescinded, or waived, in whole or in part, except by a written instrument
+signed by the duly authorized representatives of both Parties.
+
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 5
+
+<PAGE>   6
+
+
+11.4  Headings. The headings and captions in this Agreement are used
+for convenience only and are not to be considered in construing or interpreting
+this Agreement.
+
+11.5  Import and Export Laws.  Licensed Product, including without
+limitation, technical data, are subject to US export control laws and may be
+subject to export or import regulation in other countries. Licensee agrees to
+comply with all such laws and regulations, and certifies that neither the
+Licensed Product nor any direct product thereof is being or will be exported or
+re-exported, directly or indirectly, to any country for which a validated
+license is required under US export laws (including but not limited to any
+country determined by US export regulatory authorities to be a prohibited
+destination) without first obtaining such a validated license. Licensee agrees
+to indemnify, defend, and hold E&S harmless for, from, and against any claims,
+damages, or litigation costs resulting from or relating to Licensee's failure
+to comply with this Section 11.5, regardless of the form of the action.
+Licensee's obligations and certification under this Section 11.5 shall survive
+termination of this Agreement.
+
+11.6  Notices.  All notices required hereunder must be in writing and
+delivered either in person or by a means evidenced by a delivery receipt, to
+the address first set forth above or as otherwise notified in writing.  Such
+notice will be effective upon receipt.
+
+11.7  No Rights in Third Parties.  This Agreement is made for the
+benefit of the Parties, and not for the benefit of any third parties unless
+otherwise agreed to by the Parties.
+
+11.8  Relationship of the Parities.  No employees, consultants,
+contractors, or agents of one Party are agents, employees, franchisees, or
+joint ventures of the other Party, nor do they have any authority to bind the
+other Party by contract or otherwise to any obligation.  No Party will
+represent to the contrary, either expressly, implicitly, or otherwise.
+
+11.9  Severability.  In the event that any part of this Agreement is
+found to be unenforceable, the remainder shall continue in effect, to the
+extent consistent with the intent of the Parties as of the Effective Date.
+
+11.10  Successors and Assigns.  All the terms and provisions of this
+Agreement shall be binding upon and inure tot he benefit of the Aprties hereto,
+and their successors and assigns, provided, however, that this Agreement may
+not be assigned, in whole or in part, without the non-assigning Party's prior
+written consent, which shall not be unreasonably withheld, except in connection
+with a reorganization, merger or sales of substantially all the assigning
+Party's business or assets to a third party.
+
+11.11  US Government Restricted Rights. If Licensee is acquiring
+Software on behalf of the US Government, Software is provided with "Restricted
+Rights," as that term is defined in the Federal Acquisition Regulations (FARs)
+in 48 C.F.R 52.227-19(c)(2), or its equivalent in the DOD Supplement to the
+FARs (DFARs), and use, duplication or disclosure of Software is subject to
+restrictions set forth in FARs and DFARs.  Contractor/Manufacturer is: Evans &
+Sutherland Corporation, 600 Komas Drive, Salt Lake City, Utah 84108.
+
+
+
+
+
+Evans & Sutherland Software Licensing Agreement (Source Code)           Page 6
+
+<PAGE>   7
+
+ATTACHMENT 1
+
+LICENSED PRODUCT
+
+
+
+1.       Description of Licensed Product: Evans & Sutherland OpenGL 2D and 3D
+driver sources and binary for th REALimage Technology, including the
+following modules:
+
+
+
+Miniport Driver
+
+2D/DDI
+
+2D Frame Buffer Object
+
+State Handler
+
+Software Frame Buffer
+
+3D Frame Buffer Object
+
+OpenGL Lib
+
+URP Rendering Pipeline
+
+SLURP Software Rendering Pipeline
+
+
+
+2.       Description of Licensed Product:
+
+REALimage 1000 Hardware Reference Manual
+
+
+
+REALimage 1000 Programmers Reference Manual
+
+
+
+
+
+

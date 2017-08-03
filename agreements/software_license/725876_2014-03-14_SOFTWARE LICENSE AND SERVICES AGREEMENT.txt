@@ -1,0 +1,1147 @@
+
+
+
+
+
+
+
+vggl_ex103.htm
+
+
+Exhibit 10.3
+
+
+
+
+
+
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+
+
+
+
+This Software License and Services Agreement (the “Agreement”) is entered into as of March 10, 2014 (the “Effective Date”) by and between Viggle Inc. (F/K/A Function(x) Inc.), with its principal place of business at 902 Broadway, 11th Floor, New York, NY 10010 (“Viggle”), and SFX Entertainment, Inc., with its principal place of business at 430 Park Avenue, 6th Floor, New York, NY 10022 (“SFX”).
+
+
+
+
+
+In consideration of the mutual covenants and Agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the parties hereto agree as follows:
+
+
+
+
+
+1. DEFINITIONS. Capitalized terms shall have the meanings ascribed to them in this Section 1.  All other capitalized terms used in this Agreement not otherwise defined in Section 1 shall have the meanings assigned in the part of this Agreement in which they are defined.
+
+
+
+
+
+1.1 “Affiliate” means any entity which Controls, is Controlled by, or is under common Control with a party, at any time during the term of this Agreement, or which is a wholly owned subsidiary of a party.
+
+
+
+
+
+1.2 “Blended Hourly Rate” shall mean an hourly rate that, as of the Effective Date, shall be One Hundred Fifty Dollars ($150) per hour and may be increased following the one (1) year anniversary of the Agreement to Viggle’s average hourly rate for the applicable services (subject to Section 3.3 if applicable).
+
+
+
+
+
+1.3  “Blue Spike Litigation” means the patent infringement litigation filed by Blue Spike, LLC (Blue Spike v. Viggle Inc. (E.D. Tx., Civ. Action No. 6:12-CV-00526)).
+
+
+
+
+
+1.4 “Confidential Information” means, but shall not be limited to, all information relating to a party’s, its Affiliate(s), or its supplier(s) business, products, or services, which is furnished or disclosed to Receiving Party by Disclosing Party or its Affiliate(s), or is acquired by Receiving Party directly or indirectly from the Disclosing Party, either orally or in writing, and which a reasonable person would assume to be of a confidential or proprietary nature. Such term shall also include all memoranda, notes, reports, documents and other media containing Confidential Information, as well as any copies and extracts of Confidential Information and any computer-generated studies and data containing Confidential Information prepared by or for the benefit of Receiving Party in connection with carrying out the relationship contemplated by this Agreement.  Viggle Confidential Information shall include, without limitation, the Software and all Documentation and Enhancements thereof and any associated know-how relating to search technology.
+
+
+
+
+
+1.5 Contractor” means a third party that performs technical or development services on behalf of SFX or its Affiliates in accordance with the terms of this Agreement, provided that a “Contractor” may not include an entity that, directly or indirectly, competes with Viggle in the Viggle Field of Use.
+
+
+
+
+
+1.6 “Control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity through record or beneficial ownership of voting securities, by contract or otherwise.
+
+
+
+
+
+1.7 “Disclosing Party” means any party that provides or otherwise discloses its or any third party Confidential Information to the other party.
+
+
+
+
+
+1.8 “Documentation” means the standard user and technical manuals that describe the functionality of the Software and are distributed with the Software.
+
+
+
+
+
+1.9 “Enhancement” means a customization or enhancement of the Software, whether created solely by or on behalf of either of the parties or jointly by the parties.
+
+
+
+
+
+1.10 “Executable Code” means a form of computer program or portion thereof which can be executed by a computer without further translation or modification.  Examples include binary code and code which can be directly executed by an interpreter.
+
+
+
+
+
+1.11 “Net Third Party Revenue” means licensee fees actually received by Viggle from the licensing of any Software to third parties, less sales, export and/or use taxes, commissions, marketing and sales expenses, overhead, shipping, and amounts allowed or credited due to returns or refunds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.12 “Initial Term” shall have the meaning set forth in Section 6.1.
+
+
+
+
+
+1.13 “Patents” means any patents and applications (including provisional applications and utility models), patents issuing from such applications, certificates of invention or any other grants by any governmental entity for the protection of inventions, and all reissues, renewals, continuations, continuations-in-part, re-examinations and extensions of any of the foregoing, in the United States and all jurisdictions of the world, including all foreign and international patents and applications.
+
+
+
+
+
+
+1.14 “Patents” means any patents and applications (including provisional applications and utility models), patents issuing from such applications, certificates of invention or any other grants by any governmental entity for the protection of inventions, and all reissues, renewals, continuations, continuations-in-part, re-examinations and extensions of any of the foregoing, in the United States and all jurisdictions of the world, including all foreign and international patents and applications.
+
+
+
+
+
+1.15 “Professional Services” mean any development, consulting, training, technical or other services provided by Viggle pursuant to a Statement of Work.
+
+
+
+
+
+1.16 “Receiving Party” means any party receiving any Confidential Information.
+
+
+
+
+
+1.17 “Renewal Term” shall have the meaning set forth in Section 6.1.
+
+
+
+
+
+1.18 “Services” means Support Services and Professional Services that are provided by Viggle pursuant to this Agreement or any SOW entered by the parties.
+
+
+
+
+
+1.19 “SFX Enhancement” means an Enhancement that is developed by Viggle at SFX’s request pursuant to an SOW.
+
+
+
+
+
+1.20 “SFX Field of Use” means the field of promotion of dance music, including, for the avoidance of doubt, dance music promotions by LiveNation.
+
+
+
+
+
+1.21 “Software” means the Viggle software programs described on Schedule 1 and which shall be in Executable Code and Source Code formats, including Updates or Enhancements created by either of the parties, except as otherwise expressly provided hereunder.  The Software shall include all modules and functionality that exist as of the Effective Date or are created by either party for audio recognition or loyalty programs.
+
+
+
+
+
+1.22 “Source Code” means a form of computer program or portion thereof written in a programming language employed by computer programmers that must be translated into Executable Code before it can be executed.
+
+
+
+
+
+1.23 “Source Code Handling Requirements” shall mean procedures mutually agreed to by the parties to ensure that all access to Source Code follows reasonable security protocols designed to ensure secure access and accountability for use of the Source Code.  The Source Code Handling Requirements may include, for example, the use of source code repository that may only be accessed by named individuals that must use unique identifiers and access credentials.
+
+
+
+
+
+1.24 “Statement of Work” or “SOW” means a document which incorporates the terms of this Agreement by reference, and pursuant to which SFX orders certain Services from Viggle.
+
+
+
+
+
+1.25 “Support Services” means technical support and maintenance services further described in Schedule 2 to this Agreement.
+
+
+
+
+
+1.26 “Technical Requirements” mean the minimum technical requirements for the Software as provided in the Documentation.
+
+
+
+
+
+1.27 “Term” shall have the meaning set forth in Section 6.1.
+
+
+
+
+
+1.28 “Third Party Software” means software owned or licensed by a third party and which may be incorporated within or necessary for the use of the Software.
+
+
+
+
+
+1.29 “Updates” means any subsequent releases of the Software that Viggle makes generally available to its customers that receive Support Services at no additional license fee from time to time and that is intended to replace a prior Software release.  Updates shall not include any future products which Viggle licenses separately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.30 “Viggle Field of Use” means the field of entertainment rewards.
+
+
+
+
+
+1.31 “Viggle Materials” means any materials provided to SFX by Viggle in the course of performing Services.
+
+
+
+
+
+2. LICENSE.
+
+
+
+
+
+2.1 License Grant.  Subject to the terms and conditions of this Agreement, Viggle grants to SFX a non-exclusive, non-transferable (except as provided herein), paid-up, world-wide, right during the Term to install, use, modify, reproduce, and create derivative works of the Software for SFX’s and its Affiliates’ internal business purposes. For the avoidance of doubt, the foregoing license shall permit SFX to create versions of the Software that enable usage in different languages.
+
+
+
+
+
+2.2 License Restrictions. SFX’s use of the Software (or any Viggle Materials licensed pursuant to Section 5.2) is subject to the following:
+
+
+
+
+
+2.2.1 SFX may not, nor allow any third party to (a) decompile, disassemble, or reverse engineer the Software except to the extent expressly permitted by applicable law without Viggle’s prior written consent; (b) remove any product identification or proprietary rights notices; (c) lease, lend, sublicense (except as expressly permitted) or use the Software for timesharing or service bureau purposes; or (d) otherwise use or copy the Software or Viggle Materials except as expressly provided herein;
+
+
+
+
+
+2.2.2 SFX may sublicense the use of the Software or Viggle Materials licensed hereunder in accordance with the terms of this Agreement to (a) an Affiliate (only for so long as such person or entity remains an Affiliate of SFX) and (b) co-promoters, joint venture partners or non-wholly owned subsidiaries of SFX and its Affiliates, provided that any such joint venture partners shall be subject to Viggle's approval, not to be unreasonably withheld (collectively, "Partners"), and (c) Contractor that is performing development services on behalf of SFX or its Affiliates, provided that   (i) SFX and each Affiliate, Partner or Contractor that has access to or uses the Software or Viggle Materials shall be jointly and severally liable for such parties’ compliance with the terms of this Agreement, (ii) SFX shall cause each such party to agree in writing that Viggle is a third party beneficiary of the license agreement between SFX and such party, (iii) only Affiliates and Contractors may have access to Source Code and, as a pre-requisite for such access, must agree in writing to adhere and shall adhere to the Source Code Handling Requirements.  For the avoidance of doubt, any Contractors, Affiliates, or Partners may only use the Software for Viggle’s or its Affiliates’ internal business purposes (which, with respect to co-promoters, shall include co-promotion of events that are co-promoted by SFX or an SFX Affiliate and the co-promoter but shall not include an event promoted solely by such co-promoter).
+
+
+
+
+
+2.3 Retention of Rights.  Viggle reserves all rights not expressly granted to SFX in this Agreement.  Except as specified in Section 5.3 (Restrictions on Competitive Use), nothing in this Agreement shall limit in any way Viggle’s right to develop, use, license, create derivative works of, or otherwise exploit the Software, or to permit third parties to do so.
+
+
+
+
+
+3. SERVICES
+
+
+
+
+
+3.1 Support Services.  Viggle shall provide SFX and its Affiliates with Support Services as described more fully in Schedule 2.
+
+
+
+
+
+3.2 Professional Services.  Subject to SFX providing Viggle with a written request for Professional Services specifying the scope of work, schedule for performance and technical requirements to enable Viggle to secure necessary resources and provided that the parties execute a Statement of Work, Viggle will provide Professional Services to SFX.  Professional Services may include development services (e.g., creation of SFX Enhancements), technical, design, consulting, or other similar services, and shall be subject to the following additional terms:
+
+
+
+
+
+3.2.1 For on-site work, SFX will be billed for a minimum duration of one (1) workday, which may include travel time to/from the SFX’s site if it is necessary to travel during typical workday hours (Monday-Friday, 8:30am-6pm).
+
+
+
+
+
+3.2.2 SFX shall reimburse Viggle for all reasonable travel and lodging expenses incurred while performing Professional Services.  Hotel accommodations are business class and airline tickets are refundable coach class.
+
+
+
+
+
+3.2.3 Professional Services performed (a) in excess of eight (8) hours on a business day are billed at one-and-a-half times standard rates, and (b) on weekends and Viggle holidays are billed at twice standard rates. Travel on weekends and Viggle holidays and international travel are billed at standard rates using the official airline guide for travel time.
+
+
+
+
+
+3.2.4 Should SFX cancel a Professional Services engagement less than two (2) business days prior to the date that such engagement was scheduled to commence, SFX shall pay Viggle fifty percent (50%) of the estimated Professional Service fees for up to two (2) cancelled days plus non-recoverable expenses. Such fees shall be waived if Viggle is able to reassign resources to another Professional Services engagement prior to the scheduled commencement date.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3 Most Favored Terms. During the Term, to the extent that terms and conditions are offered by Viggle to a third-party licensing the Software that are, when taken as a whole, more favorable than the terms and conditions provided in Section 3.2 and Section 4.1.2, Viggle shall provide SFX with the same terms and conditions on a prospective basis.
+
+
+
+
+
+4. FEES.
+
+
+
+
+
+4.1 One Time Fees For Initial Term and Any Renewal Terms. SFX shall pay to Viggle the following fees:
+
+
+
+
+
+4.1.1 License Fees.
+
+
+
+
+
+4.1.1.1 Initial Term.  For the Initial Term, SFX shall pay Five Million Dollars ($5,000,000) on the Effective Date, which shall constitute an upfront royalty for the license to use the Software hereunder.
+
+
+
+
+
+4.1.1.2 Renewal Term(s).  For each Renewal Term, if any, SFX shall pay Five Million Dollars ($5,000,000) on or prior to the commencement of the applicable Renewal Terms, which payment shall constitute an upfront royalty for the license to use the Software hereunder.
+
+
+
+
+
+4.1.2 Services Fees. Unless otherwise agreed to by the parties, all Professional Services or Support Services (other than the provision of Updates that are made available to other Viggle customers) shall be chargeable at the Blended Hourly Rate, provided that Viggle has personnel with the requisite skills and experience to perform the requested Professional Services.  In the event that Viggle does not have personnel with the skills required for the requested Professional Services, Viggle reserves the right to charge SFX for Professional Services at Viggle’s current applicable professional services rates.
+
+
+
+
+
+4.2 Royalties.  During the Term, Viggle shall calculate its Net Third Party License Revenue arising from its third party licensing of the Software and shall, within forty five (45) days following each calendar quarter, remit to SFX 50% of such Net Third Party License Revenue.  Viggle will provide with such payments a written report to SFX a report summarizing in reasonable detail the calculation of its Net Third Party License Revenue. Viggle will keep accurate, full, and complete records that support such reports and related calculation of the payments due under the Agreement. SFX shall have the right to nominate an independent certified public accountant satisfactory to it who shall have access during reasonable business hours to such of Viggle’s records as are necessary to verify the accuracy of the royalty reports and the royalty payments made under this Agreement. The parties shall split the costs of any such accountant review.
+
+
+
+
+
+4.3 Payment Terms.  Unless otherwise provided herein, all fees are due and payable within thirty (30) days of the date of invoice. Late payments will bear interest at the rate of 1.5% per month, or, if lower, the maximum rate allowed by law.
+
+
+
+
+
+4.4 Taxes.  SFX is responsible for payment of all applicable sales, use, consumption, VAT, GST and other taxes and all applicable export and import fees, customs duties and similar charges (other than taxes based on Viggle’s net income) arising from the payment of license or maintenance fees or the delivery or license of the Software or maintenance services. SFX will make all payments without reduction for any withholding taxes, which taxes shall be SFX’s sole responsibility, and SFX will provide Viggle with such evidence as Viggle may reasonably request to establish that such taxes have been paid.
+
+
+
+
+
+5. INTELLECTUAL PROPERTY RIGHTS; RESTRICTIONS ON COMPETIVE USE OF SOFTWARE OR VIGGLE MATERIALS
+
+
+
+
+
+5.1 Ownership of Software and Viggle Materials.  Except for the licenses granted herein and subject to the restrictions specified in Section 5.3, Viggle and its suppliers shall own all right, title and interest (including any copyrights, patents, trade secrets or other intellectual property rights) in and to the Software (including, for the avoidance of doubt, Enhancements) or any Viggle Materials delivered to SFX pursuant to this Agreement.
+
+
+
+
+
+5.2 License to Viggle Materials.  Subject to full payment to Viggle of all sums due for any Professional Services provided hereunder and the terms and conditions of this Agreement (including the restrictions specified in Section 2.2 above), Viggle hereby grants to SFX a non-exclusive, non-transferable (except as provided herein) license during the Term to use, modify, reproduce, and create derivative works of the Viggle Materials for SFX’s and its Affiliates’ internal business purposes.
+
+
+
+
+
+5.3 Restrictions on Competitive Use.
+
+
+
+
+
+5.3.1 Restrictions on Viggle Use of Software.  Notwithstanding anything to the contrary in this Agreement, Viggle agrees that during the term of this Agreement it may not license the Software (or any Viggle Materials) to any third party that directly competes with SFX within the SFX Field of Use.
+
+
+
+
+
+5.3.2 Restriction on SFX Use of Software. Notwithstanding anything to the contrary in this Agreement, SFX agrees that during the term of this Agreement it may not use the Software (or any Viggle Materials) for any business that directly competes with Viggle within the Viggle Field of Use. Viggle acknowledges that the business of SFX does not currently compete with the business of Viggle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4 Prosecution of Viggle Patents.  Viggle agrees to shall have the exclusive right to conduct prosecution and maintenance of Patents relating to the Software and/or any Enhancements (collectively, the “Viggle Patents”), at Viggle’s discretion and by internal or external counsel of Viggle’s choosing. The phrase “prosecution and maintenance” of Patents shall be deemed to include, without limitation, the conduct of interferences or oppositions, and/or requests for re-examinations, reissues or extensions of patent terms.  Viggle shall use commercially reasonable efforts to obtain broad patent coverage with respect to the Viggle Patents.  The Viggle Patents are specified on Schedule 3.
+
+
+
+
+
+6. TERM AND TERMINATION
+
+
+
+
+
+6.1 Term.  The term of this Agreement shall commence on the effective date and continue for a period of ten (10) years (the “Initial Term”), unless terminated in accordance with its term.  Following the Initial Term, SFX may renew this Agreement by providing at least ninety (90) days notice prior to the expiration of the then current term, whereupon the term shall be extended for am additional ten (10) year period (each, a “Renewal Term”).  The “Term” shall mean, collectively, the Initial Term and any Renewal Term(s).
+
+
+
+
+
+6.2 Termination.  Either party may terminate this Agreement if the breaching party fails to cure any material breach of this Agreement within thirty (30) days of receiving notice of such breach from the non-breaching party.  Upon such termination, all of SFX’s right to use the Software shall immediately cease and SFX shall promptly return to Viggle or destroy all copies of the Software and Documentation.
+
+
+
+
+
+6.3 Suspension.  Notwithstanding anything to the contrary contained in the Agreement, Viggle may temporarily suspend any Services immediately, without notice, if (a) interruption of service is necessary to prevent or protect against fraud or otherwise protect Viggle’s or its subcontractors or Affiliates’ personnel, facilities or services, (b) SFX breaches or otherwise fails to comply in any material respect with the license restrictions; or (c) the suspension is in accordance with an order, instruction or request of a government, an emergency service organization or other administrative agency having appropriate jurisdiction.  The suspension shall be without prejudice to any other right or remedy Viggle may have arising out of SFX’s breach or non-compliance.
+
+
+
+
+
+6.4 Effect of Termination.  Any obligations to pay fees incurred under Section 4 prior to termination and the provisions of Sections 5, and 7-11 shall survive termination of the Agreement for any reason. Termination is not an exclusive remedy.
+
+
+
+
+
+7. LIMITED WARRANTY AND DISCLAIMER
+
+
+
+
+
+7.1 Software Warranty.  Viggle warrants that, when delivered, and for a period of ninety (90) days thereafter (the “Warranty Period”), the Software licensed hereunder (excluding Updates, Enhancements for purposes of this Section 7.1) will conform in all material respects to Viggle’s current Documentation for such Software.  The preceding warranty will not apply if:  (a) any Software is modified without Viggle’s written consent, (b) Software is used other than in accordance with the Agreement or the Documentation, or (c) Software is installed on any computer hardware or used with any software not specified in the Documentation or in accordance with the Technical Requirements.
+
+
+
+
+
+7.2 Services Warranty.  Viggle warrants for a period of ninety (90) days from the performance of any Services provided by Viggle pursuant to this Agreement, including Support Services, that such Services shall be performed in a professional and workmanlike manner consistent with generally accepted industry standards.
+
+
+
+
+
+7.3 Additional Warranties.  Viggle further warrants that (a) has all requisite corporate authority to enter into this Agreement and its performance hereunder does not and shall not conflict with any third party contracts or agreements to which it is a party; (b) it has taken all necessary actions to authorize the execution and performance of this Agreement; (c) to its knowledge, there are no intellectual property rights owned by a third party that will be infringed or misused by the exercise or exploitation of the Software as set forth herein in a manner that will have a material adverse impact on the business of Viggle, provided that the parties each acknowledge that Viggle has disclosed to SFX the Blue Spike Litigation, which Viggle does not believe will have a material impact on either Viggle’s or SFX’s business.
+
+
+
+
+
+7.4 Warranty Limitations.  SFX must report in writing any breach of the warranties contained in this Section 7.1 and 7.2 to Viggle during the applicable warranty periods, and SFX’s exclusive remedy and Viggle’s entire liability for any breach of such warranties shall be as follows:
+
+
+
+
+
+7.4.1 Software Warranty Remedy.  In the event of a breach of Section 7.1, Viggle shall use its commercially reasonable efforts to correct or provide a workaround for reproducible Software errors that cause a breach of such warranty, or if Viggle is unable to make the Software operate as warranted within a reasonable time considering the severity of the error, SFX shall be entitled to return the Software to Viggle and recover the fees paid for the Software.
+
+
+
+
+
+7.4.2 Services Warranty Remedy.  In the event of a breach of Section 7.2, Viggle shall reperform the Services, or if Viggle is unable to perform the Services as warranted, SFX shall be entitled to a services credit equal to the fees paid to Viggle for the nonconforming Services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.5 Warranty Disclaimers.  Viggle does not warrant that (a) the Software will meet SFX’s requirements, (b) the Software will operate in combination with other hardware, software, systems or data not provided by which SFX may select for use, (c) the operation of the Software will be uninterrupted or error-free, or (d) all Software errors will be corrected.  THE SOFTWARE IS PROVIDED “AS IS.”  THE WARRANTIES ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, AND VIGGLE AND ITS LICENSORS HEREBY DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, AND QUALITY OF SERVICE.
+
+
+
+
+
+8. LIMITATION OF REMEDIES AND DAMAGES
+
+
+
+
+
+8.1 EXCEPT FOR BREACHES OF SECTION 2 (LICENSE) OR SECTION 10 (CONFIDENTIALITY), IN NO EVENT SHALL VIGGLE, VIGGLE’S SUPPLIERS OR SFX BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, DATA OR USE, INCURRED BY EITHER PARTY OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+
+
+8.2 Except for Viggle’s liability for IP Claims pursuant to Section 9.1, any breach of Section 2 (License), Section 10 (Confidentiality), or any amounts to be paid hereunder, the aggregate and cumulative liability of each party and its suppliers for damages hereunder shall in no event exceed the amount of fees paid or owed by SFX under this Agreement, and if such damages relate to particular Software or Services, such liability shall be limited to fees paid for the Software or Services giving rise to the liability.
+
+
+
+
+
+9. INTELLECTUAL PROPERTY INDEMNITY
+
+
+
+
+
+9.1 If a third party makes a claim against SFX that the Software infringes any U.S. patent, copyright, or trademark or misappropriates any trade secret (“IP Claim”); Viggle will (a) defend SFX against the IP Claim at Viggle’s cost and expense, and (b) indemnify and hold SFX harmless against any and all costs, damages and expenses (including reasonable legal fees) finally awarded against SFX by a court of competent jurisdiction or agreed to in a written settlement agreement signed by Viggle arising out of such IP Claim; provided that: (i) SFX promptly notifies Viggle in writing no later than ninety (90) days after SFX’s receipt of notification of a potential claim, provided that any failure to provide such notice Viggle shall limit Viggle’s foregoing obligations only to the extent that Viggle is prejudiced by such delay; (ii) Viggle may assume sole control of the defense of such claim and all related settlement negotiations, provided that SFX may in its sole discretion and cost, participate in its defense through its counsel; and (iii) SFX provides Viggle, at Viggle’s request and expense, with the assistance, information and authority necessary to perform Viggle’s obligations under this Section.  Notwithstanding the foregoing, Viggle shall have no liability for any claim of infringement based on (w) the use of a superseded or altered release of Software if the infringement would have been avoided by the use of a current unaltered release of the Software, (x) the modification of Software by anyone other than Viggle, (y) the use of the Software other than in accordance with the Documentation and this Agreement and Technical Requirements, or (z) use of the Software in combination with any other software, hardware or data where in the absence of such combination the Software would not have been infringing.
+
+
+
+
+
+9.2 If the Software is held to infringe or is believed by Viggle to infringe, Viggle shall have the option, at its expense, to (a) replace or modify the Software to be non-infringing, or (b) obtain for SFX a license to continue using the Software.  If it is not commercially reasonable to perform either of the foregoing options, then Viggle may terminate the Software license for the infringing Software and refund the license fees paid for those Software and fees for any Services that directly relate to such Software upon return of the Software by SFX.  Except in the case of Viggle’s breach of Section 7.3(b), this Section 9.2 states Viggle’s entire liability and SFX’s exclusive remedy for any claim of infringement provided that Viggle covers the out of pocket costs incurred by SFX in any such action.
+
+
+
+
+
+10. CONFIDENTIALITY.
+
+
+
+
+
+10.1 Disclosure of Confidential Information.  The Receiving Party may not disclose the Disclosing Party’s Confidential Information to any third party except the Receiving Party’s representative and advisors, and only to the extent that such disclosure is necessary for the performance of the Receiving Party’s obligations and exercise of Receiving Party’s rights under this Agreement, provided, however, that before disclosing any Confidential Information of the Disclosing Party, the Receiving Party shall ensure that all such persons receiving Confidential Information shall (a) be subject to a written confidentiality Agreement with the Receiving Party that is at least as protective of the Disclosing Party’s Confidential Information as this Agreement, and (b) have been informed of the confidential nature of the Confidential Information. Additionally, if a Receiving Party is ordered by a court, administrative agency, regulatory agency, or other governmental body of competent jurisdiction to disclose Confidential Information, or if it is served with or otherwise becomes aware of a motion or similar request that such an order be issued, then the Receiving Party will not be liable to the Disclosing Party for disclosure of Confidential Information required by such order, provided that the Receiving party first notifies the Disclosing Party of the motion or order by the most expeditious possible means and permits the Disclosing Party an opportunity to seek a protective order or injunction prohibiting or restricting such disclosure
+
+
+
+
+
+10.2 Restrictions on Use of Confidential Information.  Receiving Party agrees to use reasonable care, but in all events at least the same degree of care that it uses to protect its own confidential and proprietary information of similar importance, to prevent the unauthorized use, disclosure, or availability of Confidential Information of the Disclosing Party. SFX acknowledges and agrees that the Source Code provided hereunder constitute valuable Viggle trade secrets.  Accordingly, SFX will and shall cause its Contractors and employees to (a) comply with the Source Code Handling Requirements and (b) monitor, maintain and implement prevailing industry standard security controls that are designed to prevent unauthorized access to the Viggle Source Code.  Except as otherwise expressly permitted by this Agreement, the Receiving Party shall not
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10.2.1 disclose, duplicate, copy, transmit or otherwise disseminate in any manner whatsoever any Confidential Information of the Receiving Party;
+
+
+
+
+
+10.2.2 use the Confidential Information of the Disclosing Party for the Receiving Party’s own benefit or that of any third party or for any purpose other than performance of this Agreement;
+
+
+
+
+
+10.2.3 commercially exploit any Confidential Information of the Disclosing Party; or
+
+
+
+
+
+10.2.4 acquire any right in, or assert any lien against, the Confidential Information of the Disclosing Party.
+
+
+
+
+
+10.3 Exceptions to Confidential Treatment.  Confidential Information shall not include, and the obligations herein shall not apply to, information that
+
+
+
+
+
+10.3.1 is now or subsequently becomes generally available to the public through no fault of Receiving Party;
+
+
+
+
+
+10.3.2 Receiving Party can demonstrate was rightfully in its possession prior to disclosure to Receiving Party by Disclosing Party;
+
+
+
+
+
+10.3.3 is independently developed by Receiving Party without the use of any Confidential Information provided by Disclosing Party; or
+
+
+
+
+
+10.3.4 Receiving Party rightfully obtains from a third party (without restriction and without breach of any agreement) who has the right, without obligation to Disclosing Party, to transfer or disclose such information.
+
+
+
+
+
+10.4 Return of Confidential Information. Except as otherwise provided in this Agreement, upon termination of this Agreement, or upon the Disclosing Party’s earlier request, the Receiving Party shall promptly return to the Disclosing Party, or destroy, all of the Disclosing Party’s Confidential Information then in the Receiving Party’s possession, except for any data retained by SFX pursuant to its automatic back-up/retention policy. The Receiving Party shall, if requested in writing, certify its respective compliance with the foregoing provision.
+
+
+
+
+
+10.5 Injunctive Relief.  It is agreed that the unauthorized use or disclosure of any Confidential Information by Receiving Party in violation of this Agreement may cause severe and irreparable damage to Disclosing Party, for which monetary damages may be insufficient.  In the event of any violation of this Agreement, Receiving Party agrees that Disclosing Party may, without posting a bond, seek from any court of competent jurisdiction preliminary and/or permanent injunctive relief to prevent disclosure and/or to prohibit further disclosure.
+
+
+
+
+
+11. MISCELLANEOUS
+
+
+
+
+
+11.1 Assignment.  Except as otherwise provided in this Section 11.1, neither party may assign this Agreement, and SFX may not transfer Software, to another legal entity, without the other party's written consent, such consent not to be unreasonably withheld or delayed; provided, however, that no consent shall be required if (a) either party assigns this Agreement to an Affiliate or in connection with a merger, acquisition, or sale of all or substantially all of its assets, unless the Affiliate or surviving entity is a direct competitor of the other party, and so long as: (i) such Affiliate or surviving entity agrees to be bound in writing by the terms of this Agreement, and (ii) the assigning or transferring entity provides the other party with notice of the assignment or transfer and the Affiliate or surviving entity’s written assent to the terms of this Agreement within thirty days of the assignment or transfer, or (b) Viggle assigns its right to receive and collect payments hereunder. This Agreement and all of its terms, conditions and covenants are intended to be fully effective and binding, to the extent permitted by law, on the successors and permitted assigns of the parties hereto.
+
+
+
+
+
+11.2 Governing Law; Jurisdiction. The Agreement shall be governed by and construed under the laws of the State of New York without regard to the conflicts of law provisions thereof. The United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement.  There parties hereby consent to the exclusive jurisdiction of the federal and state courts located in New York County, New York.
+
+
+
+
+
+11.3 Notices.  All notices delivered under the Agreement shall be in writing and deemed given upon receipt when delivered personally or upon confirmation of receipt following delivery of (i) nationally recognized overnight courier service or (ii) registered or certified mail, return receipt requested, postage prepaid, in each case addressed to the Legal Department at the address indicated above, or at such other address of which one party is notified by the other in writing.
+
+
+
+
+
+11.4 Severability.  If a provision of the Agreement or portion thereof is found to be invalid or unenforceable under applicable law, it shall be omitted from the Agreement without invalidating the remainder of such provision or the remaining provisions of the Agreement. The waiver by either party of any default or breach of any provision of this Agreement shall not constitute a waiver of any other or subsequent default or breach.
+
+
+
+
+
+11.5 Force Majeure.  Each party will be excused from performance for any period during which, and to the extent that, it or its subcontractor(s) is prevented from performing any obligation or service, in whole or in part, as a result of causes beyond its reasonable control, and without its fault or negligence, including without limitation, acts of God, strikes, lockouts, riots, acts of war, epidemics, communication line failures, and power failures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.6 Export Laws.  SFX agrees to comply fully with all relevant export laws and regulations, including but not limited to the U.S. Export Administration Regulations (collectively, “Export Controls”).  Without limiting the generality of the foregoing, SFX expressly agrees that it shall not, and shall cause its representatives to agree not to, export, directly or indirectly, re-export, divert, or transfer the Software, Documentation, Enhancements or any code or work product provided hereunder to any destination, company or person restricted or prohibited by Export Controls.
+
+
+
+
+
+11.7 Nonsolicitation.  Except if agreed to in writing by Viggle, SFX shall not contract or employ any current or former Viggle employee(s), either directly or through a third party, to work with products or services developed, provided, sold or licensed by Viggle.  Contracting or employing a current or former Viggle employee to perform any implementation, customization, configuration or support on Viggle products or services is expressly prohibited by this clause. Such prohibition shall be binding until one (1) year after the date of the applicable current or former employee’s termination of employment with Viggle.
+
+
+
+
+
+11.8 Independent Contractor.  Viggle is an independent contractor; nothing in this Agreement shall be construed to create a partnership, joint venture or agency relationship between the parties
+
+
+
+
+
+11.9 Entire Agreement.  The Agreement, including the attached Schedules and any Statement(s) of Work, represents the entire Agreement between the parties, and expressly supersedes and cancels any other agreements, whether oral or written, on the subjects herein.  Each party acknowledges that it is not entering into the Agreement on the basis of any representations not expressly contained herein.  Other than as specified herein, this Agreement may only be supplemented or modified by an amendment in a writing executed by the parties.  No additional or conflicting term in a purchase order or other document shall have any effect.
+
+
+
+
+
+11.10 Counterparts.  This Agreement may be executed simultaneously in two (2) or more counterparts, each of which will be considered an original, but all of which together will constitute one and the same instrument.  The exchange of digital copies of a fully executed Agreement (in counterparts or otherwise) shall be sufficient to bind the parties to the terms and conditions of this Agreement.
+
+
+
+
+
+
+
+SFX ENTERTAINMENT, INC.
+
+
+VIGGLE INC.
+
+
+
+By: /s/ Sheldon Finkel
+
+
+
+
+
+By: /s/ John C. Small
+
+
+
+
+
+
+Name: Sheldon Finkel
+
+
+Name: John C. Small
+
+
+
+
+
+
+Title: Vice Chairman
+
+
+Title: Chief Financial Officer
+
+
+
+
+
+
+Date: March 10, 2014
+
+
+Date: March 10, 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 1 – SOFTWARE DESCRIPTION1
+
+
+
+
+
+
+Viggle’s Audio Content Recognition (“ACR”) software, which includes functionality to convert an audio sample into a digital fingerprint and match that digital fingerprint against a database of stored digital fingerprints and any associated loyalty programs of such audio recognition platform.   For the avoidance of doubt, the license granted hereby does not include a database of audio fingerprints.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 2 –SUPPORT AND MAINTENANCE SERVICES
+
+
+
+
+
+1. SUPPORT AND MAINTENANCE SERVICES. In consideration SFX’s payment of the applicable fees set forth in the Agreement, Viggle shall provide the support and maintenance services set forth in this Schedule 2 (collectively, “Support Services”) for a term of  10 years from the original delivery date of the Software.  Support Services are renewed and invoiced on an annual basis unless terminated as provided herein.
+
+
+
+
+
+1.1 Standard Telephone Support.  During normal Viggle business hours (i.e., 9:00 a.m. to 5:00 p.m. U.S. Eastern Time, Monday through Friday, holidays excepted), Viggle shall provide SFX technical assistance by telephone with the installation and use of the Software, the identification of Software and/or Documentation problems and the reporting of Bugs (as defined below).
+
+
+
+
+
+1.2 Software Updates.  Viggle shall make available to SFX each minor and major functional release of the Software, that Viggle makes generally available without additional charge to its customers that receive support services for such Software to replace a prior Software release.  A major functional release is indicated by a change in the first digit of a version number, e.g. from 4.0.0 to 5.0.0; a minor functional release is indicated by a change in the second digit, e.g. from 4.0.0 to 4.1.0. Maintenance releases, which are indicated by a change in the third digit of a version number, e.g. from 5.0.1 to 5.0.2, are provided as needed in response to SFX inquiry.
+
+
+
+
+
+1.3 Bug Fixes.  Viggle shall exercise commercially reasonable efforts to correct any reproducible malfunction of the Software reported to Viggle by SFX that prevents the Software from performing in accordance with the operating specifications described in the then current Documentation (a “Bug”).
+
+
+
+
+
+1.4 Retirement of Releases.  Support Services are provided for a Software product version from the date the version becomes generally available until such version is retired.  Prior commercial releases of the Software are retired as follows: (a) one month after the commercial release of a subsequent maintenance release; (b) two (2) months after the commercial release of a new minor functional release; (c) six (6) months after the commercial release of a new major functional release. In all events, however, telephone support services are provided with respect to “how-to” use questions for a retired version of the Software for six (6) months following its retirement.
+
+
+
+
+
+1.5 Termination.  SFX may terminate Support Service at the end of the term by giving written notice to Viggle at least thirty (30) days prior to the end of any such term.  Viggle may suspend or cancel Maintenance Service if SFX fails to make any required payments or if SFX is in material breach of the Agreement.  The
+
+
+
+
+
+1.6 Exclusions.  Viggle shall have no obligation to support or maintain: (a) any Software modified without Viggle’s written consent, (b) use of the Software other than in accordance with the Agreement or the Documentation, (c) SFX Enhancements, (d) Software installed on any computer hardware or used with any software, not specified in the Documentation or in accordance with the Technical Requirements, or (e) Third Party Software.  In the event that SFX requests Support Services and Viggle performs services and any of the exclusions in this Section 1.6 applies, Viggle may charge SFX for such services as specified in Section 4 of the Agreement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 3 –VIGGLE PATENTS
+
+
+
+
+
+
+
+Non-Provisional Patent Application No. 13/345,942
+
+
+January 9, 2012
+
+
+METHOD AND SYSTEM FOR IDENTIFYING A MEDIA PROGRAM FROM AN AUDIO SIGNAL ASSOCIATED
+
+
+WITH THE MEDIA PROGRAM
+
+
+
+Non-Provisional Patent Application No. 13/405,851
+
+
+February 27, 2012
+
+
+SYSTEM AND METHOD FOR PLAYING AN ADJUNCT
+
+
+GAME DURING A LIVE SPORTING EVENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+
+
+
+

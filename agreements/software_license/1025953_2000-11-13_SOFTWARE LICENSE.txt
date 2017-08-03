@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 10.29
+
+SOFTWARE LICENSE
+
+
+BUSINESS TERMS
+
+NovaStar Financial, Inc., a Maryland corporation ("Supplier"), licenses
+NovaStar Mortgage, Inc., a Virginia corporation ("Licensee") to copy, market and
+use the computer programs and related documentation identified below (the
+"Software") in the territory specified below (the "Territory"). This License is
+subject to all the attached terms and conditions (the "Terms and Conditions").
+
+1.   The Software.
+
+The Software consists of the loan submission software used and developed
+under the mark Internet Underwriter and related user documentation in the form
+available for distribution on the Effective Date.
+
+2.   License Fees and Payments due Supplier.
+
+Annual License Fee:                     $50,000
+
+Per Loan Submission License Fee:         $15.00
+
+The Annual License Fee is due on the Effective Date and annually
+thereafter.
+
+Licensee will report and pay Per Loan Submission License Fees monthly as
+provided in the Terms and Conditions.
+
+4.   Delivery.
+
+Subject to the Terms and Conditions, Supplier will deliver the Software in
+object code form.
+
+5.   Effective Date of this License: July 1, 2000
+
+6.   Supplier's Address for Notice:
+
+NovaStar Financial, Inc.
+1901 West 47/th/ Place, Suite 105
+Westwood, Kansas 66205
+
+1
+<PAGE>
+
+7.   Licensee's Address for Notice:
+
+NovaStar Mortgage, Inc.
+1901 West 47/th/ Place, Suite 105
+Westwood, Kansas 66205
+
+
+TERMS AND CONDITIONS OF SOFTWARE LICENSE
+
+1.   Term; Termination. This Agreement shall remain in force until the
+second anniversary of the Effective Date, and thereafter, it shall be
+automatically renewed for a term of one (1) year unless a written notice is
+delivered by either party within 30 days prior to the end of the term or any
+renewal term of this Agreement.
+
+2.   Software. The term "the Software" includes, and this License governs,
+the object code for all computer programs and any related documentation and
+information provided by Supplier.
+
+3.   License. Supplier grants Licensee a nonexclusive, nontransferable
+license throughout the Territory to copy, market and distribute the Software in
+object code form only, and to sublicense the Software for that use, subject to
+the following:
+
+(a)  Reports and Payment. Licensee will make all reports and
+payments to Supplier as provided in this License.
+
+(b)  Sublicensing and End-Users. Copies of the Software may be
+distributed to other end-users only if they have executed written end-user
+sublicense agreements with Licensee. Each written sublicense agreement will
+provide substantially the same protection of Supplier's interests as this
+Software License Agreement.
+
+(c)  User Documentation. Licensee may copy for distribution the
+user documentation for the Software. Unless otherwise agreed in writing,
+Licensee will have no right to prepare, use, copy, market or distribute any
+translation of the User Documentation for any part of the Software into a
+language other than the English language.
+
+(d)  Notices. Licensee will include copies of a notice regarding
+proprietary rights approved in writing by Supplier in all copies of the Software
+that Licensee distributes. Licensee's performance of this obligation is a
+condition of Supplier's authorization of Licensee's distribution of copies of
+the Software. Object code will have an appropriate notice embedded in it.
+
+(e)  No Modification or Reverse Engineering. Licensee will not
+attempt to modify, reverse compile, disassemble or otherwise reverse engineer
+the object code for the Software.
+
+2
+<PAGE>
+
+4.   Warranty. For a period of ninety (90) days after the Effective Date:
+
+(a)  Limited Warranty. Supplier warrants only that the latest release
+of the Software delivered to Licensee by Supplier will meet and comply in all
+material respects with Supplier's most current user documentation for the
+Software as of the Effective Date.
+
+(b)  Remedy. During the warranty period, Supplier will use its best
+efforts to supply an avoidance procedure within fifteen (15) days and to supply
+a correction within ninety (90) days for any defect or error in the Software
+following receipt of notice thereof from Licensee, as long as the notice is
+accompanied by documentary evidence in a mutually agreeable form that permits
+the defect or error to be demonstrated on Supplier's premises.
+
+(c)  Notification of Defects or Errors. Supplier agrees to inform
+Licensee of defects or errors in the Software discovered by Supplier or reported
+by others within a reasonable time after their discovery by or reporting to
+Supplier, and, at Licensee's request, to perform the obligations set forth in
+subparagraph (b) above with respect to those defects or errors.
+
+(d)  Limitation. Under the warranty set out above, Supplier accepts no
+responsibility for all or any part of the Software that has been modified since
+delivery unless Supplier has reviewed the modifications, has determined that
+they constitute valid corrections of the Software and has approved them in
+writing. Supplier will in any event be free to use and copy any modifications of
+the Software so approved for Supplier's normal business purposes in all versions
+of the Software, without payment or obligation to Licensee.
+
+5.   Maintenance.
+
+(a)  Notification or Defects or Errors. After the expiration of the
+warranty period provided above, Supplier agrees to notify Licensee of defects or
+errors in the then most current version of the Software used by Licensee within
+a reasonable time after their discovery by or reporting to Supplier. If so
+requested, Supplier agrees to use diligent efforts to supply an avoidance
+procedure and a correction for those defects or errors at a reasonable price to
+be mutually agreed upon in each individual case.
+
+(b)  Updates. After the expiration of the warranty period provided
+above, Supplier will make available to Licensee, at Supplier's then-standard
+prices and upon Supplier's then-standard terms and conditions, Supplier's
+standard updates for the Software that Supplier makes available to its customers
+generally.
+
+6.   LIMITATIONS AND DISCLAIMERS OF WARRANTY. THE FOREGOING WARRANTIES ARE
+FOR LICENSEE'S EXCLUSIVE BENEFIT AND ARE NONTRANSFERABLE. THE FOREGOING WILL BE
+LICENSEE'S EXCLUSIVE REMEDIES FOR BREACH OF WARRANTY BY SUPPLIER. SUPPLIER
+DISCLAIMS ALL OTHER WARRANTIES, EXPRESS AND IMPLIED, INCLUDING IMPLIED
+WARRANTIES OR MERCHANTABILITY AND FITNESS FOR ANY PARTICULAR PURPOSE. SUPPLIER
+DOES NOT PROMISE THAT THE SOFTWARE WILL BE ERROR FREE OR WILL OPERATE WITHOUT
+INTERRUPTION.
+
+3
+<PAGE>
+
+7.   Additional Services. Supplier will consider Licensee's requests for
+additional services not required by this License, such as installation,
+consulting, modification and training. If Supplier agrees to provide these
+services, it will do so at its standard rates and under its standard terms and
+conditions then in effect. Supplier may change its standard rates and/or terms
+and conditions on thirty (30) days' prior notice to Licensee, but changes will
+not apply to any project undertaken by Supplier before the changes become
+effective.
+
+8.   New Releases. From time to time Supplier may provide new releases of
+the Software containing corrections of errors then available, but Supplier will
+have no obligation to do so.
+
+(a)  During Warranty Period. If provided during the warranty period,
+new releases containing only corrections of errors will be provided without
+additional charge, but Supplier may impose a charge for new releases that in
+Supplier's opinion contain other modifications, improvements or new material.
+
+(b)  Service. After the expiration of the warranty period described
+above, Supplier agrees to make available to Licensee an annual maintenance
+service for the then-current release of the Software, to the extent and on terms
+and conditions Supplier makes such a service available to its customers
+generally.
+
+(c)  Licensee's Duties. Licensee agrees to use diligent efforts to
+provide all its sublicensees with all new releases and corrections that Supplier
+may provide without additional charge.
+
+9.   Delivery and Acceptance. The Software will be deemed accepted thirty
+(30) days after delivery unless Licensee first gives Supplier notice of a
+material noncompliance under Paragraph 4(a), specifying the nature of the
+noncompliance. If Licensee gives that notice, the Software product will be
+deemed accepted on the seventh (7th) day after Supplier has delivered a revised
+version of it unless Licensee gives Supplier notice before then that all
+material noncompliances reported by Licensee have not been cured. Nonmaterial
+errors will not affect acceptance, but Supplier will provide warranty or
+maintenance service for them as provided above.
+
+10.  Payment and Reports. Licensee agrees to pay Supplier the Annual
+License Fee as shown on the face page of this License. Licensee also agrees to
+report and pay Per Loan Submission License Fees, as follows:
+
+(a)  Reporting. Within thirty (30) days after the end of each calendar
+quarter, Licensee will send Supplier a written report on the Loan Submissions
+during the quarter.
+
+(b)  Contents of Report; Payments. Each report will specify the number
+of loan submissions and Per Loan Submission License Fees.  Licensee agrees to
+pay those fees by the time the report is due.
+
+4
+<PAGE>
+
+(c)  Form of Payment. Unless otherwise specified on the face page, all
+payments will be in United States dollars and will be made by check or by wire
+transfer to a bank account specified by Supplier.
+
+(d)  Taxes and Similar Charges. Licensee on demand will pay or
+reimburse Supplier for all taxes, other taxes and other charges relating to the
+Software, this License or payments hereunder imposed by the United States and
+their political subdivisions, with the sole exception of taxes on Supplier's
+income.
+
+11.  Proprietary Rights Indemnification. Supplier will indemnify Licensee
+against any claim that the Software as delivered by Supplier infringes any third
+party's patent, copyright or trade secret under the laws of the United States.
+
+12.  Supplier's and its Suppliers' Proprietary Rights. Licensee
+acknowledges and agrees that Supplier and its suppliers have and will retain all
+ownership rights in the Software, including all patent rights, copyrights,
+copyright registrations, trade secrets, trademarks, service marks, trademark and
+service mark registrations, related goodwill and confidential and proprietary
+information. Licensee will have no rights in the Software except as explicitly
+stated in this License.
+
+13.  Confidential Information. Each party agrees to use reasonable effort,
+and at least the same care that is uses to protect its own confidential
+information of like importance, to prevent unauthorized dissemination or
+disclosure of the other party's confidential information during and after the
+term of this License.
+
+14.  LIMITATIONS OF LIABILITY. SUPPLIER WILL NOT BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF INFORMED OF THE POSSIBILITY THEREOF
+IN ADVANCE. IN NO EVENT WILL SUPPLIER'S LIABILITY IN CONNECTION WITH THE
+SOFTWARE OR THIS LICENSE EXCEED AMOUNTS PAID TO SUPPLIER BY LICENSEE HEREUNDER.
+THESE LIMITATIONS APPLY TO ALL CAUSES OF ACTION IN THE AGGREGATE, INCLUDING
+WITHOUT LIMITATION BREACH OF CONTRACT, BREACH OF WARRANTY, SUPPLIER'S
+NEGLIGENCE, STRICT LIABILITY, MISREPRESENTATION AND OTHER TORTS.
+
+15.  Termination. This License will terminate:
+
+(a)  End of Term. As provided in Paragraph 1;
+
+(b)  Breach. On the thirtieth (30th) day after either party gives the
+other notice of a material breach by the other of any term or condition of this
+License, unless the breach is cured before that day; or
+
+(c)  Bankruptcy or Insolvency. When either party at its discretion
+gives the other notice of termination after the other has been for more than
+sixty (60) days the subject of any voluntary or involuntary proceeding relating
+to bankruptcy, insolvency, liquidation, receivership, composition of or
+assignment for the benefit of creditors.
+
+5
+<PAGE>
+
+16.  Effect of Termination. After termination:
+
+(a)  End of Licenses. Licensee will have no right to copy, market or
+distribute the Software and will promptly destroy or return to Supplier all
+copies of the Software in its possession or under its control.
+
+(b)  Other End-Users' Rights. Other end-users properly sublicensed
+prior to termination may continue to use the Software under the terms of their
+written sublicense agreements, but all sublicense agreements will inure to
+Supplier's benefit, and Licensee will execute documents and provide assistance
+as reasonably requested by Supplier to enable Supplier to enforce them.
+
+(c)  No Damages for Termination; No Effect on other Rights and
+Remedies. Neither party will be liable for damages of any kind as a result of
+exercising its right to terminate this License according to these Terms and
+Conditions, and termination will not affect any other right or remedy of either
+party.
+
+(d)  Continuing Obligations. Payment and indemnification obligations
+arising prior to termination and the obligations of each party to keep the
+other's confidential information confidential will remain in force.
+
+17.  Assignment. Either party may assign this License to the surviving
+entity in a merger or consolidation in which it participates or to a purchaser
+of all or substantially all of its assets or capital stock. In addition,
+Supplier may assign this license to any person to whom Supplier transfers all or
+substantially all of its rights in the Software. Otherwise, neither party may
+assign any rights or delegate any duties under this License without the other's
+prior written consent, and any attempt to do so without that consent will be
+void. This License will bind and inure to the benefit of the parties and their
+respective successors and permitted assigns.
+
+18.  Miscellaneous.
+
+(a)  Choice of Law. This License will be governed by and construed
+according to the laws of Kansas, without regard to principles of conflicts of
+law.
+
+(b)  Amendment. This License may be amended or supplemented only by a
+writing signed on behalf of both parties. No purchase order, invoice, or similar
+form will amend this License even if accepted by the receiving party in writing.
+
+(c)  Waiver. No waiver will be implied from conduct or failure to
+enforce rights. No waiver will be effective unless in a writing signed on behalf
+of the party claimed to have waived.
+
+(d)  Contingencies. Neither party will have the right to claim damages
+or to terminate this License as a result of the other's failure or delay in
+performance due to circumstances beyond its reasonable control, such as labor
+disputes, strikes, lockouts, shortages
+
+6
+<PAGE>
+
+of or inability to obtain labor, fuel, raw materials or supplies, war, riot,
+insurrection, epidemic, act of God, or governmental action not the fault of the
+nonperforming party.
+
+(e)  Severability. If any part of this License is found invalid or
+unenforceable, it will be enforced to the maximum extent permitted by law, and
+other parts of this License will remain in force.
+
+(f)  Equitable Relief. Either party may have injunctive, preliminary
+or other equitable relief to remedy any actual or threatened unauthorized
+disclosure of confidential information or unauthorized use, copying, marketing,
+distribution or sublicensing of the Software.
+
+(g)  Entire Agreement. This License represents the entire agreement
+between the parties relating to the Software and supersedes all prior
+representations, discussions, negotiations and agreements, whether written or
+oral.
+
+(h)  Notices. All notices, reports, requests and other communications
+required or permitted hereunder must be in writing.
+
+(i)  Attorneys' Fees. In any suit to enforce this agreement, the
+prevailing party will have the right to recover its costs and reasonable
+attorneys' fees and expenses, including costs, fees and expenses on appeal.
+
+(j)  Relationship of Parties. The parties to this License are
+independent contractors. There is no relationship of partnership, agency,
+employment, franchise or joint venture between the parties. Neither party has
+the authority to bind the other or incur any obligation on its behalf.
+
+
+
+NOVASTAR FINANCIAL, INC.                NOVASTAR MORTGAGE, INC.
+("Supplier")                            ("Licensee")
+
+
+By:_______________________________      By:_____________________________________
+
+Name:   Scott F. Hartman                Name:   W. Lance Anderson
+
+Title:  Chief Executive Officer         Title:  President
+
+7
+

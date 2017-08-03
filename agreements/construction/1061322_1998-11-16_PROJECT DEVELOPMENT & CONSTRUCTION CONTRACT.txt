@@ -1,0 +1,3541 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.5
+EXECUTION COPY
+
+
+
+_____________________________________
+
+PAC
+
+_____________________________________
+
+
+
+
+PROJECT DEVELOPMENT
+
+AND
+
+CONSTRUCTION CONTRACT
+
+BETWEEN
+
+TYCO SUBMARINE SYSTEMS LTD.
+
+AND
+
+PAN AMERICAN CROSSING LTD.
+
+
+
+_____________________________________
+
+DATED AS OF JULY 21, 1998
+
+_____________________________________
+<PAGE>
+
+TABLE OF CONTENTS
+
+GENERAL TERMS AND CONDITIONS
+
+<TABLE>
+<CAPTION>
+
+Article                                                                                     PAGE
+<S>                  <C>                                                                    <C>
+1                    Provision of System..................................................     1
+
+2                    Documents Forming the Entire Contract................................     2
+
+3                    Definitions..........................................................     2
+
+4                    Contract Price.......................................................    15
+
+5                    Terms of Payment by Purchaser........................................    18
+
+6                    Contract Variations..................................................    22
+
+6A.                  Optional Upgrades....................................................    23
+
+6B                   Optional System......................................................    29
+
+6C                   Optional Branching Unit..............................................    30
+
+6D                   Cook's Crossing......................................................    30
+
+6E                   Alternate Mexico Configuration; Alternate Mexico Configuration Option    31
+
+7                    Responsibilities for Permits.........................................    32
+
+8                    Route Survey.........................................................    34
+
+9                    Acceptance...........................................................    34
+
+10                   Warranty.............................................................    37
+
+11                   Contractor Support...................................................    41
+
+12                   Purchaser's Obligations..............................................    41
+
+13                   Termination for Default..............................................    42
+
+14                   Termination for Convenience..........................................    44
+
+15                   Suspension...........................................................    46
+</TABLE>
+
+i
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+Article                                                                                     PAGE
+<S>                  <C>                                                                    <C>
+
+16                   Title and Risk of Loss...............................................    47
+
+17                   Force Majeure........................................................    47
+
+18                   Intellectual Property................................................    48
+
+19                   Infringement.........................................................    53
+
+20                   Safeguarding of Information and Technology...........................    55
+
+21                   Export Control.......................................................    55
+
+22                   Liquidated Damages...................................................    56
+
+23                   Limitation of Liability/Indemnification..............................    56
+
+24                   Counterparts.........................................................    58
+
+25                   Design and Performance Responsibility................................    58
+
+26                   Product Changes......................................................    58
+
+27                   Risk and Insurance...................................................    58
+
+28                   Plant and Work Rules.................................................    61
+
+29                   Right of Access......................................................    61
+
+30                   Quality Assurance....................................................    63
+
+31                   Documentation........................................................    63
+
+32                   Training.............................................................    63
+
+33                   Settlement of Disputes/Arbitration/Litigation........................    63
+
+34                   Applicable Law.......................................................    65
+
+35                   Notices..............................................................    65
+
+36                   Publicity and Confidentiality........................................    66
+
+37                   Assignment; Subcontractors...........................................    67
+
+38                   Relationship of the Parties..........................................    68
+
+39                   Successors Bound.....................................................    68
+</TABLE>
+
+ii
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+Article                                                                                     PAGE
+<S>                  <C>                                                                    <C>
+40                   Article Captions.....................................................    68
+
+41                   Severability.........................................................    68
+
+42                   *....................................................................    68
+
+43                   Survival of Obligations..............................................    69
+
+44                   Non-Waiver...........................................................    69
+
+45                   Language.............................................................    69
+
+46                   Entire Agreement.....................................................    69
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+EXHIBITS
+
+<S>                                                                     <C>
+Exhibit A.................................................................  *
+Exhibit B...........................................................  Consent and Agreement
+Exhibit C..............................................................  Opinion of Counsel
+Exhibit D................................................................  Escrow Agreement
+Exhibit E.........................................................  Approved Subcontractors
+Exhibit F...........................................................  Intellectual Property
+</TABLE>
+
+* Material omitted and separately filed with the Commission under an application
+for confidential treatment.
+
+iii
+<PAGE>
+
+PROJECT DEVELOPMENT AND
+CONSTRUCTION CONTRACT
+BETWEEN
+TYCO SUBMARINE SYSTEMS LTD. AND
+PAN AMERICAN CROSSING LTD.
+
+
+This Project Development and Construction Contract ("Contract") is
+made as of this 21st day of July 1998 between Tyco Submarine Systems Ltd., a
+corporation organized and existing under the laws of the State of Delaware,
+United States, ("TSSL" or "Contractor") and Pan American Crossing Ltd., a
+company organized and existing under the laws of Bermuda (hereinafter referred
+to as "Purchaser").
+
+WHEREAS, Purchaser desires to establish a fiber optic submarine cable
+system, to be known as the Pan American Crossing Submarine Cable System
+(hereinafter, and as more fully defined herein, the "System"), which will be
+used to provide service between the United States, Mexico and Panama; and
+
+WHEREAS, subject to the provisions of Article 6B (Optional System),
+Article 6C (Optional Branching Unit), Article 6D (Cook's Crossing), and Article
+6E (Alternate Mexico Configuration; Alternate Mexico Configuration Option), the
+System will consist of (a) one fiber pair providing a direct connection from
+Grover Beach, California, United States to Fort Amador, Panama and (b) one fiber
+pair providing a connection linking (i) Grover Beach, California, United States,
+(ii) Puerto Vallarta, Mexico, (iii) Acapulco, Mexico and (iv) Fort Amador,
+Panama;
+
+WHEREAS, Contractor is in the business of designing, constructing,
+installing, supplying, delivering and manufacturing fiber optic submarine cable
+systems and is familiar with the general business of the fiber optic submarine
+cable system industry;
+
+WHEREAS, Purchaser may elect to extend the System from Fort Amador,
+Panama, through Ambush Range, Panama, to St. Croix, United States Virgin
+Islands, by including Cook's Crossing (as hereinafter defined);
+
+WHEREAS, Purchaser seeks to purchase and own the System and wishes to
+engage Contractor to perform the Work and Upgrade Work; and
+
+WHEREAS, Contractor is willing to perform the Work and the Upgrade
+Work on a turn-key, fixed-price basis in accordance with and subject to the
+terms hereof.
+
+NOW THEREFORE, IT HAS BEEN AGREED AS FOLLOWS
+
+ARTICLE 1  PROVISION OF SYSTEM
+
+In consideration of the Contract Price and the Upgrade Prices, the
+Contractor agrees to undertake the Work and the Upgrade Work and to provide the
+Purchaser with the
+<PAGE>
+
+2
+
+
+System meeting the System Performance Requirements on or before the Scheduled
+System RFS Date and the System Upgrades meeting the requirements of Article 6A,
+all in accordance with the terms hereof.
+
+ARTICLE 2  DOCUMENTS FORMING THE ENTIRE CONTRACT
+
+This Contract consists of these commercial terms and conditions
+("Terms and Conditions"), Exhibits E (Approved Subcontractors) and F
+(Intellectual Property) hereto, and the following documents (in the form of
+attachments, including appendices, attached hereto), which shall be read and
+construed as part of the Contract:
+
+.      Provisioning Schedule, Appendix 1, Upgrade Provisioning Schedule,
+Appendix 1A
+.      Billing Schedule, Appendix 2, Upgrade Billing Schedule, Appendix 2A
+.      Plan of Work, Appendix 3, Upgrade Plan of Work, Appendix 3A
+.      Invoice Format, Appendix 4, Form of Contractor's Certificate,
+Appendix 4A
+.      Progress Schedule, Appendix 5
+.      Technical Volume (includes Route Information), Appendix 6
+.      Cook's Crossing Appendix, Appendix 7
+
+In the event of any inconsistency between the Terms and Conditions and
+the above listed documents, the Terms and Conditions shall prevail. The
+Appendices listed above have no order of precedence.
+
+ARTICLE 3  DEFINITIONS
+
+Definitions are as described in the specific Articles. Except as
+otherwise defined the following definitions shall apply throughout the Contract:
+
+AAA has the meaning set forth in Sub-Article 33(B).
+
+ACCEPTANCE TESTING means (i) with respect to a DLS or the System
+(which shall include testing of the Point to Point Pairs), the tests
+described in the Commissioning and Acceptance section of the Technical
+Volume or developed pursuant to such section by mutual agreement of the
+Parties (with 15 days prior notice to the Independent Engineer) and
+reasonably designed to verify that such DLS or the System meets the
+applicable Performance Requirements and (ii) with respect to any System
+Upgrade, the tests described in the Commissioning and Acceptance section of
+the Technical Volume or developed pursuant to such section by mutual
+agreement of the Parties (with 15 days notice to the Independent Engineer)
+and reasonably designed to verify that the System Upgrade meets the
+applicable Performance Requirements.
+
+ACCESS RIGHTS means all ownership, easement and/or other property
+rights, from both private and governmental entities, both on land and below
+the surface of the water (including, without limitation, agreements to use
+conduits, install manholes and to lease
+<PAGE>
+
+3
+
+space in cable stations) necessary to access, use and occupy cable stations
+and the sites for cable stations (including, without limitation, to land
+and install the submarine cable and related equipment and to bring such
+cable from the ocean to the cable stations) in order for the Purchaser to
+own, operate and maintain the System.
+
+ACTUAL KNOWLEDGE means the actual knowledge of any executives with
+management responsibility for the Contract.
+
+ALTERNATE MEXICO CONFIGURATION means the Base System, reconfigured to
+land a two fiber pair cable in each of Tijuana, Mexico and Mazatlan,
+Mexico, instead of Puerto Vallarta, Mexico and Acapulco, Mexico,
+respectively.
+
+ALTERNATE MEXICO CONFIGURATION OPTION means the Alternate Mexico
+Configuration, modified such that an additional fiber pair shall be added
+to DLS 1 and DLS 2 making such DLSs upgradeable to 160 Gb/s of capacity at
+the Date of Provisional Acceptance.
+
+ASSIGNMENT has the meaning set forth in Sub-Article 37(A).
+
+BANKRUPTCY EVENT means an event specified in Sub-Article 13(A)(3) or
+13(A)(4) with Contractor as the "other Party".
+
+BASE SYSTEM means the two fiber pair submarine cable system, including
+the cable stations, described in the second WHEREAS clause hereof,
+consisting of DLS 1, 2, 3 and 4 (at a per fiber pair capacity of * at
+the Date of Commercial Acceptance or the Date of Provisional Acceptance, as
+the case may be, of the System, with each DLS having the capability of
+being upgraded to * per fiber pair at the Date of Provisional
+Acceptance), as more fully described in the System Description section of
+the Technical Volume.
+
+BILLING SCHEDULE means, with respect to the System, exclusive of
+Cook's Crossing and related options, a billing schedule attached hereto as
+Appendix 2 and, with respect to Cook's Crossing and related options, the
+billing schedule attached hereto as Appendix 7-2.
+
+CERTIFICATE OF COMMERCIAL ACCEPTANCE means a certificate issued by
+Purchaser in accordance with Sub-Article 9(D) to Contractor certifying that
+a DLS, the System or a System Upgrade is Ready for Commercial Acceptance.
+
+CERTIFICATE OF FINAL ACCEPTANCE means a certificate issued by
+Purchaser in accordance with Sub-Article 9(E) to Contractor certifying that
+the System or a System Upgrade is Ready for Final Acceptance.
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+
+<PAGE>
+
+4
+
+CERTIFICATE OF PROVISIONAL ACCEPTANCE means a certificate issued by
+Purchaser in accordance with Sub-Article 9(C) to Contractor certifying that
+a DLS, the System or a System Upgrade is Ready for Provisional Acceptance.
+
+CIF means cost, insurance and freight as defined in the International
+Chamber of Commerce, Guide to Incoterms (1990).
+
+COMMISSIONING REPORT has the meaning set forth in the Commissioning
+and Acceptance section of the Technical Volume.
+
+CONFIDENTIAL INFORMATION has the meaning set forth in Sub-Article
+36(B).
+
+CONSENT means a Consent and Agreement to be entered into among
+Contractor, Purchaser and the financing parties described in Sub-Article
+37(C) and substantially in the form of Exhibit B hereto, with such changes
+therein as made pursuant to Sub-Article 37(C) hereto.
+
+CONTRACT means this agreement, specifically consisting of the
+documents described in Article 2, and shall be deemed to include any
+amendments thereto or Contract Variations pursuant to Article 6 (Contract
+Variations).
+
+CONTRACTOR means the entity that has executed this Contract as
+Contractor (TSSL) and that will be responsible for the performance of the
+Work (and if applicable, Upgrade Work) under this Contract and shall
+include its permitted successors and/or assigns.
+
+CONTRACT PRICE means the Initial Contract Price, plus any variations
+pursuant to Article 6 (Contract Variations), Article 6B (Optional System),
+Article 6C (Optional Branching Unit), Article 6D (Cook's Crossing), Taxes
+as set forth in Sub-Article 4(B) and other adjustments to the Contract
+Price provided for in this Contract.
+
+CONTRACT TAXES has the meaning set forth in Sub-Article 4(B)(1).
+
+CONTRACT VARIATION has the meaning set forth in Sub-Article 6(A).
+
+COOK'S CROSSING shall mean two diverse one fiber pair cables linking
+Fort Amador, Panama to a cable station in Ambush Range, Panama then linked
+by a two fiber pair submarine cable to St. Croix (at a per fiber pair
+capacity of 10 Gb/s at the Date of Commercial Acceptance or the Date of
+Provisional Acceptance, as the case may be, of the System, having the
+capability of being upgraded to 160 Gb/s per fiber pair at the Date of
+Provisional Acceptance), as more specifically described in Appendix 7
+(wherein Cook's Crossing is referred to as the "Optional Extension") and
+the Technical Volume.
+
+COOK'S CROSSING-OPTION has the meaning set forth in Article 6D.
+
+COOK'S CROSSING OPTION PRICE has the meaning set forth in Article 6D.
+<PAGE>
+
+5
+
+COOK'S CROSSING BRANCHING UNIT shall mean a branching unit with a
+cable stub attached to Cook's Crossing off the coast of South America or an
+island in the Caribbean Sea, which would allow the System to be connected
+to an additional cable station to be located in South America or an island
+in the Caribbean Sea, as more specifically described in Appendix 7 and the
+Technical Volume.
+
+COOK'S CROSSING BRANCHING UNIT PRICE has the meaning set forth in
+Article 6D.
+
+COOK'S CROSSING DLS means the STM-1 to STM-1 connectivity between Fort
+Amador, Panama and St. Croix.
+
+COOK'S CROSSING PRICE has the meaning set forth in Article 6D.
+
+DATE OF COMMERCIAL ACCEPTANCE, PROVISIONAL ACCEPTANCE OR FINAL
+ACCEPTANCE means the date that Purchaser receives a Commissioning Report or
+an Upgrade Commissioning Report, as the case may be, demonstrating that a
+DLS or the System or a System Upgrade, as the case may be, is Ready for
+Commercial Acceptance, Ready for Provisional Acceptance or Ready for Final
+Acceptance in accordance with Article 9 (Acceptance).
+
+DDP means delivered duty paid as defined in the International Chamber
+of Commerce, Guide to Incoterms (1990).
+
+DEFAULT means an Event of Default or any event, condition or
+occurrence which with the giving of notice or passage of time or both would
+be an Event of Default.
+
+DELIVERABLE SOFTWARE has the meaning set forth in Sub-Article 18(C).
+
+DELIVERABLE TECHNICAL MATERIAL has the meaning set forth in Sub-
+Article 18(B).
+
+DISPUTE ACCOUNT means the Dispute Account to be created under the
+Escrow Agreement.
+
+DLS means a Digital Line Section and includes DLS 1, DLS 2, DLS 3, DLS
+4 or the Cook's Crossing DLS, as the case may be.
+
+DLS 1 means the STM-1 to STM-1 connectivity of the System between
+Grover Beach, California, United States and Puerto Vallarta, Mexico, as
+such DLS may be modified by Article 6E (Alternate Mexico Configuration;
+Alternate Mexico Configuration Option).
+
+DLS 2 means the STM-1 to STM-1 connectivity of the System between
+Puerto Vallarta, Mexico to Acapulco, Mexico, as such DLS may be modified by
+Article 6E (Alternate Mexico Configuration; Alternate Mexico Configuration
+Option).
+<PAGE>
+
+6
+
+DLS 3 means the STM-1 to STM-1 connectivity of the System between
+Acapulco, Mexico to Fort Amador, Panama, as such DLS may be modified by
+Article 6E (Alternate Mexico Configuration; Alternate Mexico Configuration
+Option).
+
+DLS 4 means the STM-1 to STM-1 connectivity of the System between Fort
+Amador, Panama, to Grover Beach, California, United States.
+
+ESCROW AGENT means The Chase Manhattan Bank, N.A., in its capacity as
+escrow agent under the Escrow Agreement, and its successors in such
+capacity.
+
+ESCROW AGREEMENT means that Escrow Agreement to be entered into, in
+the event of a dispute as described in Sub-Article 5(C)(5), by and among
+the Contractor, the Purchaser and the Escrow Agent, substantially in the
+form of Exhibit D hereto, with such changes therein as are reasonably
+requested by the Escrow Agent, as amended modified or supplemented from
+time to time.
+
+EVENT OF DEFAULT has the meaning set forth in Sub-Article 13(A).
+
+EXCLUDED TAX means (i) any franchise, excess profits, net worth,
+capital or capital gains Tax, as well as any Tax on doing business or
+imposed on net or gross income or receipts (including minimum and
+alternative minimum Taxes measured by any items of Tax preference), but in
+each case excluding Taxes that are or are in the nature of sales, use,
+excise, license, stamp, rental, ad valorem, value added or property Taxes;
+(ii) any Taxes imposed by a jurisdiction other than one in which (a) the
+Contractor is or is treated as engaged in activities contemplated by or in
+fulfillment of the Contract or (b) the Purchaser or its affiliates has a
+nexus to such jurisdiction and the Tax imposed is attributable to that
+nexus, (iii) Taxes imposed on the Contractor as a result of Contractor's
+gross negligence or willful misconduct and (iv) any import duty, other
+import related charges, sales or use tax, VAT or property tax imposed by
+the United States or any political subdivision thereof or Taxing authority
+therein in respect of Supplies brought into the United States for testing,
+modification or other similar purposes prior to being installed or used
+outside the United States.
+
+EXPEDITED UPGRADE has the meaning set forth in Sub-Article 6A(L).
+
+FINAL COMMISSIONING REPORT has the meaning set forth in Section 7,
+Commissioning and Acceptance section of the Technical Volume.
+
+FINAL SURVEY REPORT means the final survey report described in Section
+5 of the Marine Installation section of the Technical Volume.
+
+FOB means free on board as defined in the International Chamber of
+Commerce, Guide to Incoterms (1990).
+
+FORCE MAJEURE has the meaning set forth in Sub-Article 17(A).
+<PAGE>
+
+7
+
+*
+
+*
+
+INDEPENDENT ENGINEER means Conexart Technologies, Inc. or a similarly
+qualified successor in the capacity as the engineer to the financing
+sources specified in Sub-Article 37(C) who has agreed to be bound by the
+confidentiality provisions of this Contract and who is not affiliated with
+a competitor of Contractor.
+
+INFORMATION has the meaning set forth in Sub-Article 20(A).
+
+INITIAL CONTRACT PRICE has the meaning set forth in Sub-Article
+4(A)(1).
+
+INITIAL UPGRADE PRICE has the meaning set forth in Sub-Article
+4(A)(2).
+
+INTELLECTUAL PROPERTY has the meaning set forth in Sub-Article 18(A).
+
+LANDING LICENSES means, in the United States (including St. Croix), a
+License to land and operate a Submarine Cable System pursuant to the
+Submarine Cable Landing Act, 47 U.S.C. 34-39 and, in Mexico and Panama, the
+comparable license which is required under Mexican and Panamanian law,
+respectively.
+
+LAWS means any laws, ordinances, regulations, rules, orders,
+proclamations, requirements of governmental authorities or treaties.
+
+MANUFACTURING MATERIALS has the meaning set forth in Sub-Article
+13(B).
+
+MILESTONES means, with respect to the System, exclusive of Cook's
+Crossing and related options, the milestones set forth in the Progress
+Schedule attached as Appendix 5 hereto and, with respect to Cook's Crossing
+and related options, the milestones set forth in the Progress Schedule
+attached as Appendix 7-4 hereto.
+
+NEXUS TAX means any Tax imposed by way of withholding in respect of or
+in lieu of an Excluded Tax, but only to the extent such Tax would not have
+been imposed but for the nexus (other than as a consequence of the
+activities of the Contractor) of the Purchaser or its affiliate to the
+jurisdiction imposing the Tax.
+
+NON-SHIP COSTS has the meaning set forth in Sub-Article 10(A)(2).
+
+NOTICE OF TERMINATION has the meaning set forth in Sub-Article 14(A).
+
+OPTIONAL BRANCHING UNIT shall mean a branching unit with a cable stub
+attached to the System off the coast of Central America, which would allow
+the System to be
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+8
+
+connected to a cable station to be located in Central America or the
+northwest coast of South America, as more specifically described in Section
+1.8 of the Technical Volume.
+
+OPTIONAL BRANCHING UNIT PRICE has the meaning set forth in Article 6C.
+
+OPTIONAL SYSTEM means the * additional fiber pairs placed in the
+same cables as the initial fiber pairs of the Base System; provided, that
+there will be no additional terminal station equipment for the additional
+* fiber pairs (which will not initially be equipped with terminal station
+equipment) all of which is more particularly described in Section 1.8 of
+the Technical Volume.
+
+OPTIONAL SYSTEM PRICE has the meaning set forth in Sub-Article 6B.
+
+PARTY(IES) means either of the Purchaser and/or the Contractor, as
+appropriate.
+
+PERFORMANCE REQUIREMENTS means (i) with respect to a DLS or the
+System, the applicable System Performance Requirements set forth or to be
+developed by mutual agreement pursuant to the System Performance and
+Availability section of the Technical Volume, (ii) with respect to any
+System Upgrade, the applicable System Performance Requirements set forth in
+or to be developed by mutual agreement pursuant to the Technical Volume or
+(iii) in each case, such other DLS, System or System Upgrade performance
+levels as mutually agreed by the Parties.
+
+PERMITS means all Access Rights, permits, pipeline and cable crossing
+agreements, approvals, "no objections", permissions-in-principle,
+authorizations, consents, customs clearances, registrations, certificates,
+rights-of-way, certificates of occupancy, licenses, including without
+limitation, landing licenses, orders, vessel and crew authorizations/visas,
+permission for the operation of navigational aids and radio systems and
+similar authorizations necessary to complete the Work and operate and
+maintain the System (other than any of the foregoing (i) relating to the
+ownership, operation and maintenance of the System and not necessary until
+after the System is Ready for Final Acceptance, (ii) which is or would be
+needed by Purchaser to engage in any business outside the business of
+developing, owning and operating a submarine cable system, (iii) which is
+or would be needed at any time by any purchaser or lessee of capacity on
+the System, or (iv) the Landing Licenses provided for in Sub-Article 7(C)).
+
+POINT TO POINT PAIRS means the STM-1 to STM-1 connectivity between any
+one cable station to any other cable station in the System.
+
+PROVISIONING SCHEDULE means, with respect to the System, exclusive of
+Cook's Crossing and related options, the price schedule attached hereto in
+Appendix 1 and, with respect to Cook's Crossing and related options, the
+price schedule attached hereto in Appendix 7-1.
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+
+<PAGE>
+
+9
+
+PURCHASER means Pan American Crossing Ltd. and shall include its
+permitted successors and assigns.
+
+READY FOR COMMERCIAL ACCEPTANCE means
+
+(i)  for any DLS, that
+
+(a) if the System is not at the same time also Ready for
+Commercial Acceptance, the Purchaser has consented, in its sole
+discretion, to accept such DLS as Ready for Commercial
+Acceptance,
+
+(b) such DLS has the ability to carry commercial traffic
+between the two landing points of such DLS meeting performance
+criteria equal to twice that of ITU-T G.826 as defined in the
+System Performance section of the Technical Volume and has line
+monitoring and protection switching capability,
+
+(c) Contractor has tested and provided for STM-1
+interconnectivity capability (or such other interconnectivity
+capability as may be mutually agreed) to the DLS terminal
+equipment according to ITU-T G.826,
+
+(d) Contractor has substantially performed its obligations
+under Article 18 (Intellectual Property) then required to be
+performed by it, and
+
+(e) all Permits are obtained for such DLS, and
+
+(ii)  for the System,
+
+(a) that the System has the ability to carry commercial
+traffic throughout the System, and for each Point to Point Pair,
+(operating at 10 Gb/s per fiber pair) meeting performance
+criteria equal to twice that of ITU-T G.826 as defined in the
+System Performance section of the Technical Volume with self
+healing ring protection capability and per DLS protection
+capability, has line monitoring and per DLS protection switching
+capability and has network management capability (all as
+described in the System Description section of the Technical
+Volume and in Appendix 7),
+
+(b) Contractor has tested and provided for STM-1
+interconnectivity capability (or such other interconnectivity
+capability as may be mutually agreed) to the System terminal
+equipment according to ITU-T G.826,
+<PAGE>
+
+10
+
+(c) Contractor has substantially performed its obligations
+under Article 18 (Intellectual Property) then required to be
+performed by it and
+
+(d) all Permits are obtained for the System and
+
+(iii)  for any System Upgrade, the System is Ready for Commercial
+Acceptance at the capacity specified for such System Upgrade.
+
+READY FOR FINAL ACCEPTANCE means
+
+(i)  for the System, that
+
+(a)  (I)  the System has successfully and continuously
+(other than by reason of Force Majeure in which case the test
+period shall be extended for a time period equal to the time
+period of such Force Majeure) functioned in compliance with the
+System Performance Requirements during the period of ninety (90)
+consecutive days after the Date of Provisional Acceptance or
+
+(II) if the System shall have failed to meet the System
+Performance Requirements at any time during such period (other
+than by reason of Force Majeure), the Contractor has corrected
+such failure and the System has successfully and continuously
+(other than by reason of Force Majeure in which case the test
+period shall be extended for a time period equal to the time
+period of such Force Majeure) functioned in compliance with the
+System Performance Requirements for such additional period of
+time not to exceed ninety (90) days (and not to end prior to the
+date 90 days after the Date of Provisional Acceptance) as
+reasonably determined by the Independent Engineer as being
+sufficient to confirm that such failure has been corrected and
+that no other failures are likely to appear and
+
+(b) all deficiencies noted in the Certificate of Provisional
+Acceptance have been corrected (other than minor deficiencies
+which will not affect the operation of the System, in respect of
+which an equitable adjustment to the Contract Price will be made)
+and
+
+(c) Contractor has complied in all material respects with
+Article 18 (Intellectual Property) and
+
+(ii)  for any System Upgrade, that
+
+(a)  (I)  the System Upgrade has successfully functioned in
+compliance with the System Performance Requirements during the
+period of ninety (90) days after the Date of Provisional
+Acceptance of the System
+<PAGE>
+
+11
+
+Upgrade or (II) if the System Upgrade shall have failed to meet
+the System Performance Requirements during such period, the
+Contractor has corrected such failure and the System Upgrade has
+successfully functioned in compliance with the System Performance
+Requirements for such additional period of time not to exceed
+ninety (90) days as reasonably determined by the Independent
+Engineer as sufficient to confirm that such failure has been
+corrected and
+
+(b) all deficiencies noted in the Certificate of Provisional
+Acceptance have been corrected (other than minor deficiencies
+which will not affect the operation of the System, in respect of
+which an equitable adjustment of the Contract Price will be made)
+and
+
+(c) Contractor has complied in all material respects with
+Article 18 (Intellectual Property).
+
+READY FOR PROVISIONAL ACCEPTANCE means
+
+(i)  with respect to any DLS,
+
+(a) in the case of all DLSs, if the System is not, at the
+same time, also Ready for Provisional Acceptance, the Purchaser
+has consented, in its sole discretion, to accept such DLS as
+Ready for Provisional Acceptance,
+
+(b) such DLS is complete in all material respects (and in
+any event is Ready for Commercial Acceptance),
+
+(c) the results of Acceptance Testing of such DLS
+demonstrate that such DLS has satisfied the System Performance
+Requirements,
+
+(d) Contractor has substantially performed its obligations
+under Article 18 (Intellectual Property) then required to be
+performed by it,
+
+(e) all Permits are obtained for such DLS, and
+
+(ii) with respect to the System, the System is complete in all
+material respects (and in any event is Ready for Commercial
+Acceptance), all DLSs are Ready for Provisional Acceptance with self-
+healing ring protection capability and per DLS protection capability
+and line monitoring and network management capability (all as
+described in the System Description section of the Technical Volume
+and Appendix 7) and
+
+(iii)  with respect to any System Upgrade, the results of
+Acceptance Testing of such System Upgrade demonstrate that such System
+Upgrade is
+<PAGE>
+
+12
+
+complete in all material respects and is sufficient to realize the
+Performance Requirements.
+
+REPRESENTATIVES has the meaning set forth in Article 36(B).
+
+RETAINAGE means an amount equal to * of the Initial Contract Price.
+
+RETESTING has the meaning set forth in Sub-Article 9(B)(3).
+
+ROUTE SURVEY means the route survey described in the Marine section of
+the Technical Volume.
+
+SCHEDULED SYSTEM RFS DATE has the meaning set forth in Sub-Article
+9(A).
+
+SCHEDULED UPGRADE DATE means for any System Upgrade, the date by which
+the Contractor agrees such System Upgrade will be Ready for Provisional
+Acceptance pursuant to Sub-Article 6A(K) hereof.
+
+SEGMENT means Segment 1, Segment 2, Segment 3, Segment 4 or Segment 5,
+as the case may be.
+
+SEGMENT 1 means the Segment of the System from Grover Beach,
+California, United States to Branching Unit 1 and landing in Grover Beach
+in locations capable of interconnecting with major telecommunications
+carriers.
+
+SEGMENT 2 means the Segment of the System from Branching Unit 1 to
+Puerto Vallarta, Mexico and landing in Puerto Vallarta in locations capable
+of interconnecting with major telecommunications carriers, as such Segment
+may be modified by Article 6E (Alternate Mexico Configuration; Alternate
+Mexico Configuration Option).
+
+SEGMENT 3 means the Segment of the System from Branching Unit 1 to
+Branching Unit 2.
+
+SEGMENT 4 means the Segment of the System from Branching Unit 2 to
+Acapulco, Mexico and landing in Acapulco in locations capable of
+interconnecting with major telecommunications carriers, as such Segment may
+be modified by Article 6E (Alternate Mexico Configuration; Alternate Mexico
+Configuration Option).
+
+SEGMENT 5 means the Segment of the System from Branching Unit 2 to
+Fort Amador, Panama and landing in Fort Amador in locations capable of
+interconnecting with major telecommunications carriers.
+
+SHIP COSTS has the meaning set forth in Sub-Article 10(A)(2).
+
+SHIP PERIOD has the meaning set forth in Sub-Article 10(A).
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+13
+
+SUPPLIES means any and all materials, plant, machinery, equipment,
+hardware and items supplied by the Contractor under this Contract.
+
+SUSPENSION means a suspension in Work pursuant to Sub-Article 15(A) or
+15(B).
+
+SYSTEM means the Base System; provided, that the term "System" shall
+for all purposes of this Contract, including without limitation, Sub-
+Article 9(A)(7) and Article 22, include each option listed in Articles 6B
+through 6D, to the extent elected by Purchaser, except to the extent
+expressly herein stated otherwise.
+
+SYSTEM PERFORMANCE REQUIREMENTS has the meaning set forth in the
+System Description section of the Technical Volume.
+
+SYSTEM UPGRADE has the meaning set forth in Sub-Article 6A(A).
+
+TAX means any tax, duty, levy, charge or custom (including, without
+limitation, any sales or use tax, VAT or octroi duty relating to the
+Contract items and fiscal stamps connected with Contract legalization)
+imposed or collected by any taxing authority or agency (domestic or
+foreign).
+
+TECHNICAL VOLUME means, with respect to the System, the Technical
+Volume attached hereto as Appendix 6 and, with respect to Cook's Crossing
+and related options, includes Appendix 7-5.
+
+TRANSFEREE means any entity to which purchaser assigns rights
+hereunder pursuant to Sub-Article 37(D) hereof.
+
+UPGRADE BILLING SCHEDULE means, with respect to the System, exclusive
+of Cook's Crossing and related options, the billing schedule attached
+hereto as Appendix 2A and, with respect to Cook's Crossing and related
+options, the billing schedule attached hereto as Appendix 7-2A.
+
+UPGRADE COMMISSIONING REPORT has the meaning set forth in the
+Commissioning and Acceptance section of the Technical Volume.
+
+UPGRADE OPTION PERIOD has the meaning set forth in Sub-Article 6A(B).
+
+UPGRADE PLAN OF WORK means, with respect to the System, exclusive of
+Cook's Crossing and related options, the plan of work attached hereto as
+Appendix 3A and, with respect to Cook's Crossing and related options, the
+plan of work attached hereto as Appendix 7-3A.
+
+UPGRADE PRICE means, for any System Upgrade, the Initial Upgrade Price
+for such System Upgrade, plus any variations pursuant to Article 6
+(Contract Variations),
+<PAGE>
+
+14
+
+Taxes as set forth in Sub-Article 4(B) and other adjustments to such
+Upgrade Price provided for in this Contract.
+
+UPGRADE PROVISIONING SCHEDULE means, with respect to the System,
+exclusive of Cook's Crossing and related options, the provisioning schedule
+attached hereto as Appendix 1A and, with respect to Cook's Crossing and
+related options, the provisioning schedule attached hereto as Appendix 7-
+1A.
+
+UPGRADE WARRANTY PERIOD has the meaning set forth in Sub-Article
+10(A).
+
+UPGRADE WORK means the activities and services to be performed or
+provided by Contractor under Article 6A (Optional Upgrades).
+
+*
+
+WARRANTY PERIOD has the meaning set forth in Sub-Article 10(A).
+
+WORK means all activities and services (other than the activities and
+services specified in this Contract to be provided by Purchaser) necessary
+to be performed or provided in developing, planning, designing,
+manufacturing, constructing, delivering, installing and testing the System,
+until the System is Ready for Final Acceptance, including without
+limitation, designating, coordinating, obtaining and paying for on behalf
+of Purchaser the Access Rights and obtaining all Permits except Landing
+Licenses.  Whether or not used in conjunction with the term "Supplies", the
+term "Work" shall always be deemed to include the provision of the relevant
+Supplies, unless the context requires otherwise.
+
+YEAR 2000 COMPLIANT means, when used with respect to any software or
+materials, that such software or materials will operate accurately and,
+without
+
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+15
+
+interruption, accept, possess and in all manner retain full functionality
+when referring to, or involving, any year or date in the twentieth or
+twenty-first centuries.
+
+ARTICLE 4  CONTRACT PRICE
+
+A.  Contract Price
+
+1.   The initial Contract Price for the Work, in United States Dollars
+(US$) is a fee of * (the "Initial Contract Price"). The Initial
+Contract Price does not include the cost of optional upgrades
+which are described in Article 6A (Optional Upgrades), any
+contract variations as provided for in Article 6 (Contract
+Variations), Article 6B (Optional System), Article 6C (Optional
+Branching Unit), Article 6D (Cook's Crossing), or any Taxes. The
+Initial Contract Price includes, with respect to the Base System,
+all charges for CIF, and all costs and expenses incurred in
+obtaining all Permits (including Access Rights) and includes all
+the Work.
+
+2.   The Initial Upgrade Price for any Upgrade Work, in United States
+Dollars (US$) is the fixed fee set forth in (with respect to the
+System, exclusive of Cook's Crossing and related options),
+Appendix 2A and (with respect to Cook's Crossing and related
+options), Appendix 7-2A (the "Initial Upgrade Price"). No Initial
+Upgrade Price includes the cost of any contract variations as
+provided for in Article 6 (Contract Variations) or any Taxes.
+
+3.   The Provisioning Schedule sets forth the Contractor's estimate of
+the breakdown of the Initial Contract Price among various aspects
+of the Work.  If the actual cost of any aspect of the Work is
+greater or less than that set forth in the Provisioning Schedule,
+such fact shall not cause any change in the Initial Contract
+Price, except as set forth in Sub-Article 6(D).
+
+4.   Without the prior written consent of the Purchaser, which consent
+shall not be unreasonably withheld or delayed, the Contractor
+shall not arrange for any
+
+(a)  Access Right which requires payments to be made by the
+Purchaser or made after the System is Ready for Provisional
+Acceptance or
+
+(b)  Permit which requires aggregate payments in excess of
+* to be made by Purchaser or made after the System
+is Ready for Provisional Acceptance.
+
+B.  Taxes, Levies and Duties
+
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+16
+
+1.   The Initial Contract Price and each Initial Upgrade Price, as
+stated in Sub-Article 4(A) above, excludes any Tax. The Contract
+Price and each Upgrade Price shall without duplication be
+adjusted for any Tax imposed on or in connection with this
+Contract (including, without limitation, the execution and
+delivery of this Contract, the Work, the Upgrade Work and the
+Supplies, but excluding any Excluded Taxes) (any such Taxes,
+other than Excluded Taxes, are hereinafter referred to as
+"Contract Taxes"). Contractor has provided a good faith estimate
+of the Contract Taxes payable by the Purchaser; it being
+understood that the Contractor shall have no liability under this
+Contract or otherwise to the Purchaser for any errors or
+omissions in such estimate or any losses arising therefrom. The
+Contractor shall be responsible for any Excluded Tax that might
+be incurred by the Contractor as well as any Tax described in
+clause (iv) of the definition of Excluded Tax.
+
+2.   The Purchaser will be ultimately responsible for the payment of
+all Contract Taxes (including, without limitation, Contract Taxes
+that are VAT, octroi duties relating to Contract items and fiscal
+stamps, etc. connected with Contract legalizations to the
+authorities in their countries). In the case of any Contract
+Taxes paid by the Contractor, the Contractor shall submit payment
+on the Purchaser's behalf and Contractor will be reimbursed by
+the Purchaser in accordance with Article 5 (Terms of Payment by
+Purchaser).
+
+3.   The Contractor agrees to use reasonable efforts including,
+without limitation, by registering for VAT and any applicable
+sales Taxes in any country, state or other jurisdiction where
+legally required, to cooperate with and assist Purchaser in its
+efforts (i) to have Supplies which are the subject of this
+Contract made exempt from Contract Taxes, whether in the
+manufacture of the Supplies or related to the importation or
+location or installation of the Supplies, (ii) to request
+revisions, drawbacks, remissions, reclassifications or the like
+to the jurisdictions identified by the Purchaser; or (iii) to
+reduce or eliminate Contract Taxes (including the provision of
+applicable certifications and forms) and to obtain any available
+refunds of Contract Taxes, provided that the Contractor shall not
+be required to act other than in accordance with the relevant
+Laws then in force. The Purchaser shall reimburse the Contractor,
+in accordance with Article 5, for any reasonable costs (including
+the reasonable fees and expenses of legal counsel, accountants
+and other advisors) incurred by the Contractor under this Sub-
+Article 4(B)(3) provided that Purchaser was notified and has
+consented to the incurrence of such costs, fees and expenses.
+Contractor shall not be required to cooperate with and assist
+Purchaser in its efforts under this Sub-Article 4(B)(3) or to
+take any action hereunder which in the Contractor's good faith
+judgment would incur any costs or if in Contractor's good faith
+judgment it would be advisable to obtain the advice of counsel,
+accountants or other advisors prior to
+<PAGE>
+
+17
+
+cooperating with or assisting purchaser or taking any action,
+unless in each case, Purchaser has agreed to reimburse Contractor
+under the foregoing proviso.
+
+4.   Prior to the Date of Provisional Acceptance with respect to the
+System or any System Upgrade, the Contractor shall provide
+evidence of having made all payments for Taxes included in the
+Contract Price or Upgrade Price or described in clause (iv) of
+the definition of Excluded Taxes, other than VAT due on payments
+of the Contract Price or Upgrade Price made on or after the Date
+of Provisional Acceptance of the System or System Upgrade, which
+evidence shall be provided within sixty (60) days of the date of
+each such payment.
+
+5.   As part of Work or any Upgrade Work, the Contractor shall obtain
+at its expense, on Purchaser's behalf, any import license or
+other official authorization and carry out all customs
+formalities necessary for the importation or exportation of goods
+in connection with such Work or Upgrade Work. The Purchaser
+agrees to be the Importer or Exporter of Record or designate an
+Importer or Exporter of Record/Consignee on its behalf. Purchaser
+must provide a Letter of Authorization from any third party
+designate stating it agrees to be the Importer or Exporter of
+Record on Purchaser's behalf and identify the name and address of
+the designated  Importer or Exporter of Record.
+
+6.   The Supplies to be installed or held on land shall be delivered
+to the agreed point at the named place of destination and shall
+be consigned to the Purchaser.
+
+C.  Withholding Tax
+
+1.   If withholding for any Tax is required in respect of any payment
+to the Contractor, the Purchaser shall (i) withhold the
+appropriate amount from such payment, (ii) pay such amount to the
+relevant authorities in accordance with the applicable Laws and
+(iii) in the case of any such withholding in respect of a
+Contract Tax or a Nexus Tax and subject to the Contractor's
+satisfying the obligations set forth in the last sentence of this
+Sub-Article 4(C)(1), pay the Contractor an additional amount such
+that the net amount received by the Contractor is the amount the
+Contractor would have received in the absence of such
+withholding. In such a case, the Purchaser shall provide to the
+Contractor, as soon as reasonably practicable, a certified copy
+of an official tax receipt for any Tax which is retained from any
+payment due to the Contractor or for any Tax which is paid on
+behalf of the Contractor. All such receipts shall be in the name
+of the Contractor. The Contractor agrees to complete accurately
+and timely provide to the Purchaser or, if required, to the
+applicable taxing authority, such forms, certifications or other
+documents as may be requested in
+<PAGE>
+
+18
+
+timely manner by Purchaser, in order to allow it to make payments
+to the Contractor without any deduction or withholding on account
+of withholding Taxes (or at a reduced rate thereof) or to receive
+a refund of any amounts deducted or withheld on account of
+withholding Taxes.
+
+2.   If the Contractor shall become aware that it is entitled to
+receive a refund or credit from a relevant taxing or governmental
+authority in respect of a Contract Tax or Nexus Tax as to which
+the Purchaser has paid an additional amount pursuant to Sub-
+Article 4(C)(1) above, the Contractor shall promptly notify the
+Purchaser of the availability of such refund or credit and shall,
+within 30 days after receipt of a request by the Purchaser
+(whether as a result of notification that it has made to the
+Purchaser or otherwise), make a claim to such taxing or
+governmental authority for such refund or credit at the
+Purchaser's expense. If the Contractor receives a refund or
+credit in respect of a Contract or Nexus Tax as to which the
+Purchaser has paid an additional amount pursuant to Sub-Article
+4(C)(1) above, or if, as a result of the Purchaser's payment of
+such additional amounts, the Contractor or any other member of an
+affiliated group, as defined in section 1504(a) of the Code, of
+which the Contractor is a member, receives a credit against Taxes
+imposed on its income or franchise taxes imposed on it by the
+country under the laws of which it is organized or any political
+subdivision thereof, the Contractor shall promptly notify the
+Purchaser of such refund or credit and shall within 30 days from
+the date of  receipt of such refund or benefit of such credit pay
+over the amount of such refund or benefit of such credit
+(including any interest paid or credited by the relevant taxing
+or governmental authority with respect to such refund or credit)
+to the Purchaser (but only to the extent of the additional
+payments made by the Purchaser under Sub-Article 4(C)(1) above
+with respect to the Contract or Nexus Tax giving rise to such
+refund or credit), net of all out-of-pocket expenses of the
+Contractor; provided, however, that the Purchaser, upon the
+request of the Contractor, agrees to repay the amount paid over
+to the Purchaser (plus penalties, interest or other charges due
+to the appropriate authorities in connection therewith) to the
+Contractor in the event the Contractor is required to repay such
+refund or credit to such relevant authority.
+
+ARTICLE 5  TERMS OF PAYMENT BY PURCHASER
+
+A.  General Conditions of Payment
+
+1.   All payments shall be made and all invoices shall be rendered in
+US Dollars (US$). The Purchaser shall be responsible for and
+shall pay all costs and fees for payment, as well as the banking
+and wiring costs. All banking documents and correspondence must
+be in English.
+<PAGE>
+
+19
+
+B.  Invoice Procedures
+
+1.   All invoices for Work shall be submitted according to the Billing
+Schedule, provided, that at the time of any such Invoice the
+relevant Milestones have been achieved. All invoices for Work
+shall have a certificate addressed to Purchaser in the form of
+Appendix 4A attached.
+
+2.   Any Contract Variations shall be invoiced and paid in accordance
+with the terms of the Contract Variation as specified in Article
+6 (Contract Variations).
+
+3.   Invoices for Upgrade Work shall be submitted according to the
+Upgrade Billing Schedule and shall be paid in accordance with
+this Article 5.
+
+4.   Invoices for amounts not described in Sub-Sections 1-3 above,
+which may become payable hereunder shall be submitted after
+applicable costs have been incurred or such other time as may be
+specified in this Contract. Such invoices shall be accompanied by
+a certificate of the Contractor explaining such amount and
+certifying that it is payable.
+
+5.   The Contractor shall render all invoices to the following address
+or facsimile number:
+
+Pan American Crossing Ltd.
+Wessex House
+45 Reid Street
+Hamilton HM12
+Bermuda
+Facsimile:  441-296-6749/8606
+Attn:  Robert Klug
+
+with a copy to
+
+Conexart Technologies, Inc.
+124 de Charante
+Saint Lambert
+Quebec, Canada
+J4S 1K3
+Facsimile: 514-466-1093
+Attn: Mr. Martin Fournier
+
+C.  Payment Procedures
+
+1.   The Purchaser shall pay the Contractor, and the Contractor shall
+accept payment, in accordance with this Article 5 (Terms of
+Payment by Purchaser).
+<PAGE>
+
+20
+
+2.   Purchaser agrees to pay an initial payment to Contractor in the
+amount of *. Within three business days of the time this Contract
+is executed and delivered by both Parties, the first portion of
+the initial payment, in the amount of *, shall be paid by
+Purchaser to Contractor. The second portion of the initial
+payment, in the amount of *, shall be paid by Purchaser to
+Contractor within 56 days of the execution and delivery of this
+Contract by both Parties. Failure to receive these payments shall
+entitle Contractor, upon 2 business days' notice to Purchaser of
+intent to suspend, to immediately suspend Work hereunder and, in
+the case of such suspension, to an equitable extension in the
+Scheduled System RFS Date.
+
+2a.  In the event the Optional System is elected, Purchaser agrees to
+pay an initial payment to Contractor in the amount of * of the
+Optional System Price.  Within three business days after such
+election, the first portion of such initial payment, in the
+amount of * of the Optional System Price, shall be paid by
+Purchaser to Contractor. The second portion of such initial
+payment, in the amount of * of the Optional System Price, shall
+be paid by Purchaser to Contractor within 56 days of the date of
+such election.  Failure to receive these payments shall entitle
+Contractor, upon 2 business days' notice to Purchaser of intent
+to suspend, to immediately suspend Work relating to the Optional
+System, and, in the case of such suspension, to an equitable
+extension in the Scheduled System RFS Date.
+
+2b.  In the event Cook's Crossing, and any related options as are set
+forth in Article 6D, is elected, Purchaser agrees to pay an
+initial payment to Contractor in the amount of *. Within three
+business days after such election, the first portion of such
+initial payment, in the amount of *, shall be paid by Purchaser
+to Contractor. The second portion of such initial payment, in the
+amount of *, shall be paid by Purchaser to Contractor within 56
+days of the date of such election. Failure to receive these
+payments shall entitle Contractor, upon 2 business days' notice
+to Purchaser of intent to suspend, to immediately suspend Work
+relating to the Cook's Crossing, and, in the case of such
+suspension, to an equitable extension in the Scheduled System RFS
+Date.
+
+3.   Invoices given to the Purchaser (and the Independent Engineer) on
+or before the last day of any month shall, subject to Sub-Article
+5(C)(5) below, be due and payable on the last day of the next
+month or such other time as may be specified in this Contract;
+provided that invoices given to Purchaser on or before June 30,
+1998 shall be due and payable no earlier than August 31, 1998.
+
+4.   Invoices not paid when due shall accrue late payment charges from
+the day, following the day, on which payment was due until the
+day on which it is paid. Invoices for such extended payment
+charges shall not be issued
+
+
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+21
+
+for an amount less than U.S. $1,000. Extended payment charges
+shall be computed at the rate of one percent (1%) per month.
+
+5.   In the event that the Purchaser has an objection to any invoice
+or other payment obligation or any amount owing by Contractor to
+Purchaser shall not have been paid when due, the Purchaser shall
+promptly notify the Contractor of such objection and such amount,
+and the Purchaser and Contractor shall make every reasonable
+effort to settle promptly the dispute concerning the payment(s)
+in question.  In the event such dispute cannot be settled, the
+Purchaser will have the right to withhold payment of the disputed
+amount(s) (or withhold from the invoice amount a sum equal to the
+amount purportedly owing by Contractor) so long as it deposits,
+in full, such disputed amount(s) into the Dispute Account.
+
+(a)  Provided such disputed amount is placed into the Dispute
+Account in a timely manner, the Purchaser shall not be
+deemed to be in breach of or in default for failing to pay
+Contractor.
+
+(b)  The Escrow Agent will distribute the disputed amount in
+accordance with the terms of the Escrow Agreement.
+
+(c)  In addition, the prevailing Party shall be entitled to
+receive from the Dispute Account an amount equal to the
+interest earned by the Escrow Agent on the distributed,
+disputed amount, which shall be distributed by the Escrow
+Agent under clause (b) above.
+
+The Contractor and the Purchaser will share equally the costs and
+expenses of the Escrow Agent.
+
+The Contractor and the Purchaser will execute and deliver an
+Escrow Agreement substantially in the form of Exhibit D hereto,
+with such changes therein as the Escrow Agreement may reasonably
+request.
+
+6.   The Purchaser shall make timely payments for that portion of the
+invoice not in dispute in accordance with Sub-Article 5(C) or
+such payments will be assessed extended payment charges as set
+forth in Sub-Article 5(C)(4). Pending resolution of the dispute,
+the Purchaser may not withhold payment (unless also subject to
+dispute) on any other invoice concerning different goods and/or
+services submitted by Contractor.
+
+ARTICLE 6  CONTRACT VARIATIONS
+
+A.  Either Party may request, during construction of the System or any
+System Upgrade, by written order, a contract variation requiring additions or
+alterations to, deviations or deductions from the System or System Upgrade
+("Contract Variation"). If the other Party
+<PAGE>
+
+22
+
+consents, in its sole discretion, this change will be formalized as an amendment
+to this Contract by a Contract Variation; provided, that the Contractor will not
+unreasonably withhold its consent to a Contract Variation requested by the
+Purchaser; and provided further, that Purchaser will not unreasonably withhold
+its consent to a Contract Variation requested by the Contractor so long as such
+Contract Variation does not affect the Contract Price, any Upgrade Price, the
+Scheduled System RFS Date, any Scheduled Upgrade Date, any warranties or the
+Performance Standards.
+
+B.  A Contract Variation shall not become effective unless and until the
+price adjustment, the terms and schedule of payment and the extension of time
+and all other terms have been mutually agreed upon by the Parties (and the
+Parties shall act reasonably and in good faith in connection with all such
+terms) and such Contract Variation is signed by an authorized representative of
+each Party. Each Contract Variation shall be incorporated as an amendment to the
+Contract.
+
+C.  Contractor may seek a Contract Variation for any change, after the date
+of execution and delivery of this Contract by both Parties, of any Law (except,
+and to the extent, affecting Taxes or wages) which requires a change in the Work
+or the Upgrade Work or affects the costs (other than wages) incurred or to be
+incurred by the Contractor or any combination of the foregoing and Purchaser
+shall agree to any such change in Work or Upgrade Work as may be required and to
+an equitable adjustment to the Contract Price or the applicable Upgrade Price.
+As of the date hereof, neither Party has Actual Knowledge of any proposed change
+in any Law that would require a change in the Work or the Upgrade Work.
+
+D.  The Initial Contract Price is based on the assumptions that (i)
+Contractor will acquire ownership of land and build, on such land, two cable
+stations in Mexico and one cable station on the Pacific coast of Panama and will
+acquire additional land and will enlarge an existing cable station in the United
+States and (ii) the beach manhole to cable station distance with respect to the
+two cable stations in Mexico will be no more than four (4) miles in total.  To
+the extent that such assumptions are incorrect (if, for example, the Contractor
+or the Purchaser shall lease space in one or more existing cable stations) both
+Parties will agree to an equitable adjustment, up or down, to the Contract Price
+and the terms and schedule of payments.  The Contractor will consult with, and
+obtain the consent of the Purchaser (not to be unreasonably withheld or delayed)
+regarding the location of cable stations and whether to acquire, build, or lease
+such cable stations.  Any lease for space in a cable station shall be reasonably
+satisfactory in form and substance to the Purchaser.  The Initial Contract Price
+is also based on the assumption that the SDH low speed interconnect
+configuration shall be as set forth in the System Description section of the
+Technical Volume.  Purchaser may elect to change such configuration by
+eliminating, replacing or adding STM-1 optical interfaces, SDH equipment, DS-3s
+and/or E1s, each with respect to one or more DLSs.  If Purchaser makes such
+election, both Parties shall agree to an equitable adjustment, up or down, based
+on the prices set forth in the Provisioning Schedule, to the Contract Price
+and/or the Scheduled System RFS Date, as necessary.  The equitable adjustment
+shall take into account the actual costs incurred by Contractor, such as costs
+associated with cancelling firm commitments.
+
+ARTICLE 6A.  OPTIONAL UPGRADES
+<PAGE>
+
+23
+
+A.  This Article includes the terms and conditions governing an option for
+future upgrades to the System (each a "System Upgrade") that may be exercised by
+Purchaser during the Upgrade Option Period.
+
+B.  *
+
+C.  *
+
+D.  *
+
+E.  *
+
+
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+24
+
+F.  *
+
+G.  *
+
+
+
+
+
+
+
+*    Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+25
+
+H.  *
+
+I.  *
+
+J.  *
+
+K.  *
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+
+<PAGE>
+
+26
+
+L.  *
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+27
+
+M.  *
+
+ARTICLE 6B  OPTIONAL SYSTEM
+
+A.  *
+
+B.  *
+
+ARTICLE 6C  OPTIONAL BRANCHING UNIT
+
+*
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+
+<PAGE>
+
+28
+
+ARTICLE 6D  COOK'S CROSSING
+
+A.  *
+
+B.  *
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+29
+
+C.  *
+
+ARTICLE 6E  ALTERNATE MEXICO CONFIGURATION; ALTERNATE MEXICO CONFIGURATION
+OPTION
+
+A.  *
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+30
+
+B.    *
+
+C.    *
+
+D.    *
+
+ARTICLE 7  RESPONSIBILITIES FOR PERMITS  ; COMPLIANCE WITH LAWS
+
+A.  The Purchaser shall reasonably cooperate with and assist the Contractor to
+obtain all Permits, including Access Rights (except those specified in paragraph
+C below), to the extent that Purchaser's cooperation and assistance are
+necessary for Contractor to expeditiously and cost-efficiently obtain such
+Permits. The Purchaser agrees to respond promptly to any such request from
+Contractor. Further, the Purchaser agrees that it will not impede or interfere
+with Contractor's activities or Contractor's abilities to perform its
+obligations.  Upon notice from Contractor with respect to a Permit or receipt by
+Purchaser of a copy of a Permit, Purchaser shall fulfill all conditions of such
+Permit and perform all responsibilities thereunder, except to the extent that
+such conditions or responsibilities are those of the Contractor under Work.
+Contractor will inform Purchaser as to any such conditions or responsibilities
+that, in the Contractor's reasonable judgment, are not ordinary and routine and
+obtain Purchaser's consent, which consent shall not be unreasonably withheld,
+thereto prior to arranging for any such Permit.
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+31
+
+B.  Subject to paragraph C below, the Contractor shall have the responsibility
+for obtaining, at Contractor's sole cost and expense (subject to Sub-Articles
+6D(A) and 6D(B)), all Permits on Purchaser's behalf.  The Contractor will cause
+all Permits not issued in the name of Purchaser to be assignable to Purchaser,
+and to be assigned to Purchaser at the time title to the System is transferred
+to Purchaser pursuant to this Contract.  Subject to Sub-Article 4(A)(4),
+Purchaser shall be responsible for payment of all Permit fees and other costs
+and expenses due with respect to any Permit after the Date of Provisional
+Acceptance of the System.
+
+C.  The Purchaser shall be responsible for obtaining, at its expense, all
+Landing Licenses that the System requires (which shall include all Landing
+Licenses that Cook's Crossing requires).  The Contractor will cooperate with the
+Purchaser in connection therewith.  Purchaser shall reimburse reasonable outside
+counsel fees, reasonable independent consultant fees and other reasonable out-
+of-pocket expenses incurred by Contractor in connection with such cooperation.
+
+D.  Any delay in obtaining or failure to obtain any Permit shall constitute a
+Force Majeure and be treated as described in Article 17 (Force Majeure), except
+to the extent such delay is a result of Contractor's negligence or willful
+misconduct.
+
+E.  Except with respect to variations necessitated by complying with any
+changes, enacted after the date hereof, in any Laws (the costs with respect to
+which shall be borne by the Purchaser), the Contractor shall be responsible for
+the payment of any and all costs incurred as a result of the need to vary
+design, drawings, plans or procedures to comply with any of the circumstances
+set forth in this Article.  The Contractor shall, before making any variations
+from the designs, drawings, plans or procedures that may be necessitated by so
+complying with any Laws and that would represent a material change to the
+overall design of the System, give to the Purchaser written notice, specifying
+the variations proposed to be made, and the reasons for making them.  As of the
+date hereof, neither Party has Actual Knowledge of any proposed changes in the
+Laws which would necessitate any such variation.
+
+F.  The Contractor shall (i) give all notices required by any Laws to be given
+to any authority and (ii) perform or permit the performance by authorized
+persons of any inspection required by the said Laws, subject to Sub-Article
+6(C).
+
+G.  Within 30 days after the date of execution of this Contract, the Contractor
+will prepare and deliver to the Purchaser a detailed list of Permits that to its
+knowledge are required to be obtained under current law in order to complete the
+Work and shall update such list from time to time if it becomes aware of changes
+in Permit requirements. Such list, as updated from time to time, shall set forth
+the projected dates of filing for such Permits and an estimate of when such
+Permits are expected to be obtained. Without limiting Contractor's liabilities
+in respect of Sub-Articles 7(B), Contractor shall have no liability in respect
+of the accuracy of the information furnished under this Sub-Article, except in
+the case of gross negligence or willful misconduct.
+
+ARTICLE 8  ROUTE SURVEY
+<PAGE>
+
+32
+
+A.  The Contractor shall conduct the Route Survey and select the cable route for
+the System in accordance with the information in the Final Survey Report.
+Contractor shall be permitted to make changes, at its discretion, to the route
+selection, if necessary for operational reasons without additional cost to
+Purchaser.
+
+B.  Any changes to the route selection requested by Purchaser (such as a change
+of location for, or an addition of, a cable station) shall be treated as a
+Contract Variation in accordance with Article 6 (Contract Variations).
+
+ARTICLE 9  ACCEPTANCE
+
+A.  General
+
+1.  The Acceptance Testing shall be performed by the Contractor. The Purchaser
+and its designated representatives (including the Independent Engineer) may
+observe, at their own expense, the Contractor's tests and review the test
+results. Purchaser may request and conduct any additional tests, at its own
+expense, but any delay caused by such process shall be a Force Majeure event.
+
+2.  Until the Date of Final Acceptance of the System or if a System Upgrade is
+requested by Purchaser, the Date of Final Acceptance of such System Upgrade, the
+Purchaser agrees to allow Contractor necessary access to all DLSs of the System.
+
+3.  The Purchaser shall issue a Certificate of Commercial Acceptance in
+accordance with the provisions of Sub-Article 9(D)(1).
+
+4.  Once a DLS of the System, the System, or a System Upgrade is Ready for
+Provisional Acceptance, the Purchaser shall issue a Certificate of Provisional
+Acceptance; provided, that it is within the Purchaser's sole discretion as to
+whether to accept a DLS instead of the System.
+
+5.  Once the System or a System Upgrade is Ready for Final Acceptance, the
+Purchaser shall issue a Certificate of Final Acceptance.
+
+6.  The Purchaser shall not unreasonably withhold or delay issuance of a
+Certificate of Commercial Acceptance, a Certificate of Provisional Acceptance or
+a Certificate of Final Acceptance.
+
+7.  The Contractor agrees that the Date of Provisional Acceptance or Commercial
+Acceptance of the System will occur by February 29, 2000 (as such date may be
+extended under Article 6 (Contract Variations), Article 17 (Force Majeure) or
+otherwise under this Contract or by agreement of the Parties, the "Scheduled
+System RFS Date").
+
+8.  The Date of Commercial Acceptance, Provisional Acceptance and Final
+Acceptance, as the case may be, shall be deemed to have occurred with respect to
+a DLS, the System, or a
+<PAGE>
+
+33
+
+System Upgrade if a Certificate of Commercial Acceptance, a Certificate of
+Provisional Acceptance or a Certificate of Final Acceptance is issued with
+respect thereto.
+
+B.  Notice of Acceptance or Rejection
+
+1.  Within thirty (30) days of receipt by Purchaser and Independent Engineer of
+the Commissioning Report or Upgrade Commissioning Report, as the case may be,
+the Purchaser must issue notification to the Contractor of the following:
+
+(a)  issuance of a Certificate of Provisional Acceptance in accordance with Sub-
+Article 9(C); or
+
+(b)  rejection of a Certificate of Provisional Acceptance, but instead issuance
+of a Certificate of Commercial Acceptance in accordance with Sub-Article
+9(D) below; or
+
+(c)  rejection of the DLS, the System or System Upgrade in its existing
+condition and issuance of neither a Certificate of Provisional Acceptance
+nor a Certificate of Commercial Acceptance, with in the case of the System
+or System Upgrade a written explanation of reasons for rejection (it being
+understood that acceptance of a DLS instead of the System is at the sole
+discretion of the Purchaser).
+
+If the Purchaser (or the Independent Engineer on its behalf) fails to respond
+with such notification within thirty (30) days, then the Date of Provisional
+Acceptance of the DLS (subject to Purchaser's consent), the System or System
+Upgrade shall be deemed to be the date such Commissioning Report or Upgrade
+Commissioning Report, as the case may be, was received by the Purchaser.
+
+2.  On receipt of a notice from the Purchaser pursuant to Sub-Articles
+9(B)(1)(b) or (c) above, the Contractor shall be entitled to address any
+disputes and explain any discrepancies to the Purchaser regarding the results of
+the Acceptance Testing. Unless Purchaser, for good cause, rejects such
+explanation, it shall issue a new notice pursuant to Sub-Article 9(B)(1) above,
+which shall be deemed to have been issued on the date of the original notice.
+
+3.  In case of rejection, and if the explanation by the Contractor as in Sub-
+Article 9(B)(2) above is not accepted, for good cause, by the Purchaser, the
+Contractor shall carry out the necessary corrective actions and will effect a
+new series of Acceptance Testing ("Retesting"). After receipt by Purchaser and
+Independent Engineer of the new Commissioning Report or Upgrade Commissioning
+Report, as the case may be, describing the results of Retesting, the Purchaser
+will be granted a new period of thirty (30) days to analyze the new Report
+according to the provisions of Sub-Article 9(B)(1) and any new notice of the
+Purchaser shall apply from the date the Purchaser receives such new
+Commissioning Report or Upgrade Commissioning Report, as the case may be.
+
+C.  Provisional Acceptance
+<PAGE>
+
+34
+
+1.  The Certificate of Provisional Acceptance may have annexed to it a list of
+any outstanding deficiencies to be corrected by the Contractor.
+
+2.  The Contractor shall, as soon as reasonably practicable, correct such
+deficiencies and complete the Work or Upgrade Work indicated on all such listed
+items so as to comply in all material respects with the requirements of this
+Contract, provided that the Purchaser allows Contractor the necessary access to
+the DLS(s) as the Contractor needs to correct such deficiencies and complete the
+Work or Upgrade Work. The Contractor shall give the Purchaser reasonable notice
+of its requirement for such access.
+
+D.  Commercial Acceptance
+
+1.  A Certificate of Commercial Acceptance shall be issued by Purchaser with
+respect to a DLS, the System or System Upgrade if the results of the Acceptance
+Testing demonstrate that such DLS, the System or such System Upgrade does not
+justify the issuance of a Certificate of Provisional Acceptance, but
+nevertheless, such DLS, the System or such System Upgrade is Ready for
+Commercial Acceptance; provided, that such acceptance of a DLS instead of the
+System shall be in the sole discretion of the Purchaser.
+
+2.  Each Certificate of Commercial Acceptance shall have annexed to it a
+mutually agreed list of all outstanding items to be completed by the Contractor.
+
+3.  The Contractor shall, as soon as reasonably practicable, remedy the
+outstanding items, provided that the Purchaser allows Contractor the necessary
+access to the DLS(s) as the Contractor needs to remedy such outstanding items.
+The Contractor shall give the Purchaser reasonable notice of its requirement for
+such access. Notwithstanding the above, provided that Contractor has been
+allowed access to the DLS(s) as required in Sub-Article 9(A)(2), the Contractor
+shall continue to carry the risk of loss for any outstanding item until such
+item is no longer outstanding.
+
+4.  When the outstanding items referenced in Sub-Article 9(D)(3) above have been
+remedied, and the DLS(s) or System Upgrade is otherwise Ready for Provisional
+Acceptance, the Purchaser will promptly issue a Certificate of Provisional
+Acceptance; provided, that acceptance of a DLS instead of the System shall be in
+the sole discretion of the Purchaser.
+
+5.  The issuance of a Certificate of Commercial Acceptance with respect to a DLS
+or System Upgrade shall in no way relieve the Contractor from its obligation to
+provide a DLS or System Upgrade conforming with the Performance Requirements at
+the time of the issuance of a Certificate of Commercial Acceptance.
+
+E.  Final Acceptance
+
+1.  Within thirty (30) days of the date of receipt by Purchaser and Independent
+Engineer of the Final Commissioning Report, the Purchaser shall issue a
+Certificate of Final Acceptance or reject such Report. If the Purchaser neither
+issues a Certificate of Final Acceptance nor rejects
+<PAGE>
+
+35
+
+such Report within such thirty (30) day period, then the Date of Final
+Acceptance of the System shall be deemed to be the date such Final Commissioning
+Report was received by the Purchaser.
+
+F.  Title and Risk of Loss
+
+1.  If the Purchaser, in its sole discretion, chooses to accept a DLS prior to
+accepting the System, then upon payment of all amounts listed in the Billing
+Schedule with respect to a DLS (other than the Retainage with respect thereto)
+and the issuance of a Certificate of Commercial Acceptance or a Certificate of
+Provisional Acceptance with respect to such DLS by the Purchaser in accordance
+with this Contract, title (free and clear of all liens other than those deriving
+through or from the Purchaser) to such DLS shall vest in the Purchaser.
+
+2.  Upon (i) payment of all amounts listed in the Billing Schedule with respect
+to the System (other than the Retainage) and (ii) the issuance of a Certificate
+of Commercial Acceptance or a Certificate of Provisional Acceptance with
+respect to the System by the Purchaser in accordance with this Contract, title
+(free and clear of all liens other than those deriving through or from the
+Purchaser) to the System shall vest in the Purchaser.
+
+3.  Upon payment of the Upgrade Price with respect to a System Upgrade and the
+issuance of a Certificate of Commercial Acceptance or a Certificate of
+Provisional Acceptance with respect to such System Upgrade by the  Purchaser in
+accordance with this Contract, title to such System Upgrade shall vest in the
+Purchaser.
+
+4.  As from the date of vesting of title in a DLS, the System or a System
+Upgrade, the Purchaser shall, except as set forth in the following sentence,
+assume the risk of loss in respect of all parts of such DLS, the System or
+System Upgrade and responsibility for its maintenance. As stated in Sub-Article
+9(A)(2), the Contractor will be allowed access to such DLS, and, so long as the
+Contractor has been allowed access to such DLS as may be required, the
+Contractor shall continue to carry the risk of loss with respect of each item
+outstanding under Sub-Article 9(C)(1) and 9(D)(2) until such item is no longer
+outstanding.
+
+ARTICLE 10  WARRANTY
+
+A.  The Contractor warrants that the System and each System Upgrade, including
+its spares, shall be free from defects in supplies, workmanship and design for a
+period of * commencing from the Date of Provisional Acceptance of the System or
+such System Upgrade, as the case may be, (hereinafter "Warranty Period" and
+"Upgrade Warranty Period"), with Ship Costs being covered for the first * of the
+Warranty Period (the "Ship Period") and the Purchaser being responsible for all
+Ship Costs thereafter.
+
+1.  During the Warranty Period for the System or the Upgrade Warranty Period for
+a System Upgrade, the Contractor shall make good, by repair or replacement, at
+its sole option, any defects in the System or such System Upgrade, as the case
+may be, including any spares, which may become apparent or be discovered due to
+imperfect workmanship, faulty design or faulty material supplied by the
+Contractor, or any act, neglect or omission on the Contractors part.
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+36
+
+(a)  If at any time within the Warranty Period or the Upgrade Warranty Period
+for a System Upgrade any defect occurs which causes the System or such
+System Upgrade, as the case may be, to fail to meet its overall Performance
+Requirements, the Contractor shall repair or replace such part or parts. In
+making such repairs, Contractor may make changes to the System or such
+System Upgrade, as the case may be, or substitute equipment of later or
+comparable design, provided the changes, modifications, or substitutions
+under normal and proper use do not cause the System or such System Upgrade
+as the case may be to fail to meet the Performance Requirements.
+
+(b)  The Contractor shall use reasonable efforts to minimize the period of time
+that any DLS or the System is out of service for testing and repair. The
+Purchaser agrees to cooperate with the Contractor to facilitate the
+Contractor's repair activity.
+
+(c)  It is understood that if there is a problem on the System, the Purchaser
+may immediately dispatch the maintenance authority to effect repairs.  If
+and to the extent that such problem is determined to be caused by a defect
+in the System covered by this warranty, the Contractor shall reimburse the
+Purchaser for its actual Non-Ship Costs incurred and, with respect to any
+such repair relating to a defect identified in good faith by Purchaser in
+writing prior to the end of the Ship Period, actual Ship Costs incurred.
+
+(i)  The Contractor shall be given advance notice and be entitled to have a
+representative on board ship to observe at sea repairs and shall be given
+the earliest possible notice of any such repair.
+
+(ii) Subject to the foregoing and to Sub-Article 10(D), any repair by the
+Purchaser shall not in any way diminish the Contractor's obligation under
+the warranty.  Any equipment discovered to be defective or faulty and
+recovered during a warranty repair shall be returned to the Contractor at
+its request.
+
+(d)  In the event that the Contractor fails to make the repair or to make
+reasonable efforts to minimize the period of time that the System is out of
+service for repair, the Purchaser may repair the System or the System
+Upgrade and the Contractor shall reimburse the Purchaser for Non-Ship Costs
+and, with respect to any such repair relating to a defect identified in
+good faith by Purchaser in writing prior to the end of the Ship Period,
+Ship Costs.
+
+(i)  The Contractor shall be given advance notice and be entitled to have a
+representative on board ship to observe at sea repairs and shall be given
+the earliest possible notice of any such repair.
+
+(ii) Subject to the foregoing, any repair by the Purchaser shall not in any way
+diminish the Contractor's obligation under the warranty.  Any equipment
+discovered to be defective or faulty and recovered during a warranty repair
+shall be returned to the Contractor at its request.
+
+2.  Contractor shall bear the Ship Costs of only those repairs of the defects
+identified in good faith by Purchaser in writing prior to the end of the Ship
+Period. However, the Contractor shall
+<PAGE>
+
+37
+
+bear the Non-Ship Costs of each repair, replacement or improvement required
+during the Warranty Period.
+
+As used herein, "Ship Cost" means the costs of operating a vessel, including but
+not limited to running and standing charges for the vessel (including but not
+limited to labor charges for the vessel's crew, at sea insurance, port charges,
+fuel and lube oils, consumables, cable loading, cable unloading, navigation and
+maritime communications) as well as the costs associated with the use and
+operation of a remotely operated vehicle and the tracked self-propelled burial
+tool, and "Non-Ship Costs" means the costs of making a repair, including the
+cost of components, equipment or materials requiring replacement, the cost of
+any additional equipment necessary to effect the repair, the cost of making the
+repair, including the cost of reburying any previously buried portion, the cost
+of labor and engineering assistance or development required to make the repair
+and all necessary associated costs, such as, but not limited to, shipping and
+customs and services that may be required to make the repair, but excluding any
+of the foregoing which are Ship Costs.
+
+3.  The Contractor shall effect all warranty repairs of the System and shall
+supply all necessary repair materials. However, the Contractor may use, with the
+consent of the Purchaser, which shall not be unreasonably withheld, the
+materials needed to effect a repair from the Purchaser's available spare
+materials. The Contractor shall promptly replace in kind such materials supplied
+from the Purchaser's spare materials, or at the option of the Purchaser,
+reimburse the Purchaser for such materials at its original purchase price. The
+replacement of or reimbursement for such materials shall be made at a time
+mutually agreed to by the Purchaser and the Contractor.
+
+4.  The Contractor warrants that services furnished hereunder will be performed
+in a workmanlike manner using materials free from defects except when such
+materials are provided by the Purchaser (it being understood that all materials
+arranged for directly by Contractor, whether or not purchased in the name of
+Purchaser, are not materials provided by the Purchaser). If such services prove
+to be not so performed and Purchaser notifies the Contractor within six (6)
+months from the completion of the service, the Contractor will promptly correct
+the defect.
+
+5.  Any part which replaces a defective part during the applicable Warranty
+Period or Upgrade Warranty Period, shall be subject to the remaining Warranty
+Period and Ship Period, if any, or Upgrade Warranty Period, as the case may be,
+of the part which was replaced. However, the Warranty Period shall never exceed
+* from the Date of Provisional Acceptance of the System and the Upgrade Warranty
+Period for any System Upgrade shall never exceed * from the Date of Provisional
+Acceptance of such System Upgrade. Further, Ship Costs shall be included only
+with respect to defects identified in good faith by Purchaser in writing during
+the first * from the Date of Provisional Acceptance of the System.
+
+B.  *
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+38
+
+C.  The Contractor warrants that all Deliverable Software and Deliverable
+Technical Materials are Year 2000 Compliant.
+
+D.  The warranties provided above in Sub-Articles 10(A) and (B) by the
+Contractor shall not apply to defects or failures of performance, which result
+from damage caused by acts or omissions of the Purchaser or its agents,
+employees or representatives or third parties (other than the Contractor), or
+which result from modifications, misuse, neglect, accident or abuse, repair,
+storage or maintenance by other than the Contractor or its agents or use in a
+manner not in accordance with the System Description or other causes set forth
+in Article 12 (Purchaser's Obligations) or Article 17 (Force Majeure).
+
+E.  THE FOREGOING WARRANTY IS EXCLUSIVE AND IS IN LIEU OF ALL OTHER EXPRESS AND
+IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE WHICH ARE SPECIFICALLY DISCLAIMED.  THE
+PURCHASER'S SOLE AND EXCLUSIVE REMEDY WITH RESPECT TO DEFECTS COVERED BY THE
+FOREGOING WARRANTY SHALL (EXCEPT AS SET FORTH IN SUB-ARTICLE B ABOVE) BE THE
+CONTRACTOR'S OBLIGATION TO MAKE REPAIRS OR REPLACEMENTS AS SET FORTH IN THIS
+ARTICLE; PROVIDED, THAT CONTRACTOR'S FAILURE TO SO PERFORM SHALL BE SUBJECT TO
+ARTICLE 13 HEREOF.
+
+F.  The Contractor shall, in accordance with its normal operating practices,
+investigate any defective part or parts repaired or replaced pursuant to this
+Article 10 to determine the type of defect and the cause of failure of the part
+or parts. The Contractor shall provide a written report to the Purchaser on the
+results of the investigation, if any.
+
+G.  Contractor warrants that the System and the Optional Branching Unit and/or
+the Cook's Crossing Branching Unit, as applicable, shall be designed in a manner
+(i) adequate to support, without modification to the System, any extension
+constructed by Contractor from the applicable branching unit and (ii) such that
+any extension will have performance equal to or better than the System; provided
+that (i) and (ii) are contingent upon each such extension falling within the
+applicable distance parameters set forth in Appendix 6 (Technical Volume) and
+Appendix 7 (Cook's Crossing Appendix).
+<PAGE>
+
+39
+
+ARTICLE 11  CONTRACTOR SUPPORT
+
+A.  For a period of ten (10) years from the applicable Date of Provisional
+Acceptance or Date of Commercial Acceptance of the System whichever is earlier,
+the Contractor will make available to the Purchaser replacement parts and repair
+service for the System as may be reasonably necessary for its operation,
+maintenance or repair. Where identical parts cannot be supplied, the Contractor
+shall provide fully compatible parts with characteristics equal or superior to
+those originally provided by the Contractor. Such parts and services shall be
+provided under commercially reasonable conditions of price and delivery.
+
+B.  Notwithstanding Sub-Article 11(A), if for any reason the Contractor or
+Contractor's suppliers intend to cease or ceases manufacturing or having
+manufactured identical or fully compatible replacement parts, the Contractor
+shall use reasonable efforts to give one year's prior written notice to the
+Purchaser to allow the Purchaser to order from the Contractor any required
+replacement parts and shall provide full details of the arrangements to provide
+equivalents.
+
+ARTICLE 12  PURCHASER'S OBLIGATIONS
+
+A.  Purchaser agrees to pay all amounts payable by it when due under this
+Contract and to perform all of its other obligations under this Contract.
+
+B.  In the event the Purchaser establishes a branch office in any of the
+relevant jurisdictions, the Purchaser shall be solely responsible to perform all
+activities necessary to establish such branch office.
+
+C.  If any loss, damage, delay or failure of performance of the System or a
+System Upgrade results from the Purchaser's failure to perform its obligations
+under this Contract and results in an increase in the costs of performance or
+the time required for performance of any of the Contractor's duties or
+obligations under this Contract, the Contractor shall be entitled, as
+appropriate, to (i) an equitable adjustment in the Contract Price or applicable
+Upgrade Price, (ii) an equitable extension of time for completion of its Work or
+the Upgrade Work, (iii) reimbursement for all such additional costs incurred,
+and (iv) to the extent necessary in light of Purchaser's failure and the
+adjustments made in accordance with clauses (i), (ii) and (iii) above, an
+equitable adjustment of the Work and/or Upgrade Work.
+
+1.  The Contractor shall inform the Purchaser promptly of any occurrence covered
+under this Sub-Article 12(C), and shall use reasonable efforts to minimize any
+such additional costs or delay.
+
+2.  The Contractor shall promptly provide to the Purchaser an estimate of the
+anticipated additional costs and time required to complete the Work or Upgrade
+Work and request relief from contractual obligations or duties, as appropriate.
+Purchaser shall, upon notification, make advance payment to Contractor for the
+estimated amount of anticipated additional costs; provided that Purchaser may
+deposit such amount into the Dispute Account and Sub-Article 5(C)(5) shall
+<PAGE>
+
+40
+
+apply. Contractor shall without limiting Purchaser's obligations in the
+foregoing sentence, discuss such costs with Purchaser upon Purchaser's request.
+
+3.  As soon as reasonably practicable after the actual costs become known to the
+Contractor, the Contractor shall provide a statement of such actual costs to the
+Purchaser.
+
+4.  If the estimated amount is greater than the amount of actual costs, then the
+Contractor shall reimburse the Purchaser. If the amount of actual costs incurred
+is greater than the estimated amount, then the Purchaser shall reimburse the
+Contractor for any shortfall in accordance with Article 5 (Terms of Payment of
+Purchaser).
+
+ARTICLE 13  TERMINATION FOR DEFAULT
+
+A.  Either Party may, by written Notice of Termination for Default, immediately
+upon receipt or such later date as specified in the notice, terminate the whole
+or any part of this Contract in any one of the following circumstances (each an
+"Event of Default"):
+
+1.  In the case of the Purchaser, (a) if Contractor materially fails to comply
+with the terms and conditions of this Contract and, if such failure occurs prior
+to the Date of Commercial Acceptance or the Date of Provisional Acceptance, it
+would not be reasonable to believe that the Contractor will be able to provide
+the System which is Ready for Provisional Acceptance, within 200 days after the
+Scheduled System RFS Date or (b) the Contractor fails to cause the System to be
+Ready for Commercial Acceptance or Provisional Acceptance within 200 days after
+the Scheduled System RFS Date;
+
+2.  If the other Party defaults on any of its payment obligations and does not
+cure such default within a period of thirty (30) days (or such longer period as
+the non-breaching Party may authorize in writing) after receipt of written
+notice demanding cure (subject to dispute provisions);
+
+3.  If the other Party shall commence a voluntary case or other proceeding
+seeking liquidation, reorganization or other relief with respect to itself or
+its debts under any bankruptcy, insolvency or other similar law now or hereafter
+in effect or seeking the appointment of a trustee, receiver, liquidator,
+custodian or other similar official of it or any substantial part of its
+property, or shall consent to any such relief or to the appointment of or taking
+possession by any such official in an involuntary case or other proceeding
+commenced against it, or shall make a general assignment for the benefit of
+creditors, or shall fail generally to pay its debts as they become due, or shall
+take any corporate action to authorize any of the foregoing;
+
+4.  If an involuntary case or other proceeding shall be commenced against the
+other Party seeking liquidation, reorganization or other relief with respect to
+it or its debts under any bankruptcy, insolvency or other similar law now or
+hereafter in effect or seeking the appointment of a trustee, receiver,
+liquidator, custodian or other similar official of it or any substantial part of
+its property, and such involuntary case or other proceeding shall remain
+undismissed and unstayed for a period of 60 days; or an order for relief shall
+be entered against the other Party.
+<PAGE>
+
+41
+
+B.  If this Contract is terminated by the Purchaser as provided in Sub-Article
+13(A), the Purchaser, in addition to any other rights provided in this Article
+and upon payment to Contractor of all monies due and owing as set forth in
+clauses 1 and 2 of Sub-Article 13(C) below, may require the Contractor to
+transfer title and deliver to the Purchaser in the manner and to the extent
+directed by the Purchaser any completed equipment, material or supplies, and
+such partially completed cable and materials, parts, tools, dies, jigs,
+fixtures, plans, drawings, information, and contract rights (hereinafter
+collectively "Manufacturing Materials") as the Contractor has had specifically
+produced or specifically acquired for the performance of such part of this
+Contract as has been terminated and which, if this Contract had been completed,
+would have been required to be furnished to the Purchaser; and the Contractor
+shall, upon the direction of the Purchaser, protect and preserve property in the
+Contractor's possession in which the Purchaser has an interest.
+
+C.  If the Contract is terminated by Contractor as provided in Sub-Article
+13(A), the Purchaser shall pay, in addition to any other damages payable
+pursuant to Sub-Article 13(E) below, the total of:
+
+1.  the cost of settling and paying claims rising out of the termination of Work
+under the contracts in orders, as provided in Sub-Article 13(C)(2) below which
+are properly chargeable to the terminated portion of this Contract; and
+
+2.  the reasonable costs of settlement including accounting, legal, clerical and
+other expenses necessary for the preparation of settlement claims and supporting
+data with respect to the terminated portion of this Contract and for termination
+and settlement of contracts thereunder, together with reasonable storage,
+transportation and other costs incurred in connection with the protection,
+preservation and disposition of property proper to this Contract.
+
+D.  Force Majeure events pursuant to Article 17 (Force Majeure) shall not
+constitute a default or provide a basis for termination under this Article.
+
+E.  Regardless of any termination of this Contract as provided in Sub-Article
+13(A), neither Party shall be relieved from any liability for damages or
+otherwise which may have been incurred by reason of any breach of this Contract.
+
+F.  Without limitation to the foregoing, in the event that Purchaser terminates
+this Contract pursuant to Sub-Article 13(A), the Contractor shall be liable to
+Purchaser (without duplication) for the total of all costs and expenses
+reasonably incurred by Purchaser in completing the Work or in correcting
+deficiencies in the Work to the extent that the payments made to Contractor
+pursuant to this Contract, together with such costs and expenses, exceed the
+Contract Price.
+
+ARTICLE 14  TERMINATION FOR CONVENIENCE
+
+A.  The performance of Work under this Contract may be terminated by the
+Purchaser in whole, or in part, at its discretion. The Purchaser shall deliver
+to the Contractor a written notice specifying the extent to which performance of
+Work under this Contract is terminated, and the
+<PAGE>
+
+42
+
+date upon which such termination becomes effective (a "Notice of Termination").
+Upon termination, the Purchaser will make payment to Contractor of all monies
+due and owing as set forth in Sub-Article 14(D) below.
+
+B.  After receipt of such Notice of Termination, and except as otherwise
+directed by the Purchaser, the Contractor shall:
+
+1.  Stop Work under this Contract on the date and to the extent specified in the
+Notice of Termination;
+
+2.  Place no further orders or contracts for materials, services or facilities
+except as may be necessary for completion of such portion of Work under this
+Contract as is not terminated;
+
+3.  Use reasonable efforts to terminate all orders and contracts to the extent
+that they relate to the performance of Work terminated by the Notice of
+Termination;
+
+4.  Assign to the Purchaser, in the manner, at the time, and to the extent
+directed by the Purchaser, all of the Contractor's rights, title and interest
+under the orders and contracts so terminated;
+
+5.  Use reasonable efforts to settle all outstanding liabilities and all claims
+arising out of such termination of orders and contracts, with the Purchaser's
+approval or ratification to the extent required;
+
+6.  Transfer title and deliver to the Purchaser in the manner, at the time and
+to the extent (if any) directed for the fabricated or unfabricated parts, work
+in process, completed work, supplies and other material produced as a part of,
+or acquired in connection with, the performance of the Work terminated by the
+Notice of Termination;
+
+7.  Use reasonable efforts to sell, in the manner, at the time, to the extent
+and at the price or prices directed or authorized by the Purchaser, any property
+of the types referred to in Sub-Article 13(B)(6) above provided, however, that
+the Contractor:
+
+(a)  shall not be required to extend credit to any buyer; and
+
+(b)  may acquire any such property under the conditions prescribed by and at a
+price approved by the Purchaser;
+
+and provided further that the net proceeds of any such transfer or disposition
+shall be applied in reduction of any payments to be made by the Purchaser to the
+Contractor under this Contract or, if no such payments are due, paid in such
+other manner as the Purchaser may direct;
+
+8.  Complete performance of such part of the Work which was not terminated by
+the Notice of Termination; and
+<PAGE>
+
+43
+
+9.  Take such action as may be necessary, or as the Purchaser may reasonably
+direct, for the protection and preservation of the property related to this
+Contract which is in the Contractor's possession and in which the Purchaser has
+acquired or may acquire an interest.
+
+C.  After such Notice of Termination, the Contractor shall submit to the
+Purchaser a written termination claim. Such claim shall be submitted promptly,
+but, unless otherwise extended, in no event later than six months from the
+effective date of termination.
+
+D.  In the settlement of any such partial or total termination claim, the
+Purchaser shall pay to the Contractor the total of:
+
+1.  all amounts invoiced in accordance with the Contract plus, for Work or
+Supplies which have been done or provided but which have not been invoiced, an
+amount calculated by reference to the prices set forth in the Provisioning
+Schedule and to the amount of such Work or Supplies done or provided;
+
+2.  the cost of settling and paying claims arising out of the termination of
+Work under the contracts in orders, as provided in Sub-Article 14(D)(4) below
+which are properly chargeable to the terminated portion of this Contract; and
+
+3.  the reasonable costs of settlement including accounting, legal, clerical and
+other expenses necessary for the preparation of settlement claims and supporting
+data with respect to the terminated portion of this Contract and for termination
+and settlement of contracts thereunder, together with reasonable storage,
+transportation and other costs incurred in connection with the protection and
+disposition of property proper to this Contract.
+
+E.  In arriving at the amount due to the Contractor under this Article 14, all
+unliquidated payments made to the Contractor, any liability which the Contractor
+may have to the Purchaser, and the agreed price for, or the proceeds of sale of
+any materials, supplies or other things acquired by the Contractor or sold,
+pursuant to the provisions of this Article 14, and not otherwise recovered by or
+credited to the Purchaser shall be deducted.
+
+F.  The Purchaser may, from time to time, under such terms and conditions as
+they prescribe approve partial payments and payments on account against costs
+incurred by the Contractor in connection with the terminated portion of this
+Contract. If such payments total in excess of the amount finally agreed or
+determined to be due under this Article 14, such excess shall be refunded, upon
+demand, by the Contractor to the Purchaser.
+
+G.  For a period of one year after final settlement under this Contract, the
+Contractor shall preserve and make available to the Purchaser at reasonable
+times at the Contractor's office, but without direct charge to the Purchaser,
+all supporting books, records and documents required to be kept relating to the
+terminated Work.
+
+ARTICLE 15  SUSPENSION
+<PAGE>
+
+44
+
+A.  The Purchaser may, at its convenience, order the Contractor to suspend all
+or part of the Work for such period of time as the Purchaser determines to be
+appropriate. If, as a result of such Suspension, the Contractor incurs
+additional costs or losses in the discharge of its responsibilities under this
+Contract, and where such suspension, losses or costs are not caused by the
+Contractor's act or omission and could not have been reasonably prevented by the
+Contractor, the Contractor shall be allowed an equitable adjustment to the
+Contract Price or the Provisioning Schedule in Appendix 1 and an equitable
+extension in the time required for performance.
+
+B.  Upon the occurrence of:
+
+(i)   an Event of Default by the Purchaser;
+
+(ii)  any transfer prior to the Date of Final Acceptance of any portion of the
+System except in accordance with Article 37; or
+
+(iii) any supplement executed by a Transferee shall not be in full force and
+effect;
+
+the Contractor, in addition to any other rights provided in Article 13, may
+suspend performance of its obligations and all Work and (in the case of clause
+(i)) Upgrade Work.
+
+C.  Every thirty (30) days, or such shorter period as the Parties shall mutually
+agree, during the period of Suspension, the Parties shall meet formally and
+review the circumstances surrounding the Suspension including without
+limitation, the anticipated date of re-commencing Work.
+
+D.  Thereafter, if the Suspension continues for a total of one hundred and
+eighty (180) days, the Contractor may terminate the Contract by notice to the
+Purchaser and the Contract shall be deemed to have been terminated by Purchaser,
+effective on the date of Contractor's notice, in accordance with Sub-Article
+13(A) and the remaining provisions of Article 13 shall apply.
+
+ARTICLE 16  TITLE AND RISK OF LOSS
+
+A.  Except as provided in Article 18 (Intellectual Property), Article 20
+(Safeguarding of Information and Technology) and Article 21 (Export Control),
+title to all Supplies provided by the Contractor hereunder for incorporation in
+or attachment to a DLS shall pass to and vest in the Purchaser in accordance
+with Article 9 (Acceptance). Risk of loss or damage to all Supplies provided by
+the Contractor for incorporation in or attachment to such DLS shall pass to and
+vest in the Purchaser in accordance with Article 9. Upon termination of this
+Contract pursuant to Article 13 (Termination for Default) or 14 (Termination for
+Convenience), the Purchaser may require, upon full payment of all amounts due
+thereunder (provided that, without limiting Purchaser's obligation to make any
+such payment, if this Contract is terminated by Purchaser because of a
+Bankruptcy Event full payment shall not be required prior to the transfer of
+title), that title to the equipment, materials and supplies, which has not
+previously passed to the Purchaser, pass to the Purchaser, free and clear of all
+liens, claims, charges and other encumbrances other than those deriving through
+Purchaser.
+<PAGE>
+
+45
+
+B.  Upon the passage of title in accordance with the terms of Article 13 (except
+a transfer described in the proviso of the last sentence of Sub-Article 16(A)),
+the Contractor warrants that all parts, materials, and equipment to which title
+has passed will be free and clear of all liens, claims, charges and other
+encumbrances other than those deriving through the Purchaser.
+
+ARTICLE 17  FORCE MAJEURE
+
+A.  The Contractor shall not be responsible for any loss, damage, delay or
+failure of performance resulting directly or indirectly from any cause which is
+beyond its reasonable control ("Force Majeure"), including but not limited to:
+delay in obtaining or failure to obtain any Permits (subject to the provisions
+of Sub-Article 7(D)); acts of God or of the public enemy; acts or failure to act
+of any governmental authority; war or warlike operations, civil war or
+commotion, mobilizations or military call-up, and acts of similar nature;
+revolution, rebellions, sabotage, and insurrections or riots; fires, floods,
+epidemics, quarantine restrictions; strikes, and other labor actions; freight
+embargoes; unworkable weather; trawler or anchor damage; damage caused by other
+marine activity such as fishing, marine research and marine development; acts or
+omissions of transporters; or the acts or failure to act of any of the
+Purchaser, of its representatives or agents, provided that (i) a loss by
+Contractor of employees (other than by reasons of Force Majeure), (ii) strikes
+and other labor actions involving the Contractor's own work force, (iii) the
+first 5 days of unworkable weather (unless any such day occurs during the 30
+days immediately preceding the then Scheduled System RFS Date), (iv) the failure
+(other than by reason of force majeure) of any subcontractor, supplier or
+transporter to perform its obligations to Contractor (including on account of
+insolvency) unless such supplies or transportation or other services are
+generally unavailable in the marketplace, (v) the unavailability of any raw
+materials or components, unless such raw materials or components are generally
+unavailable in the marketplace or are unavailable by reason of force majeure or
+(vi) any increase in Contractor's costs, shall not in and of itself constitute
+Force Majeure.
+
+B.  If any such Force Majeure causes an increase in the time required for
+performance of any of its duties or obligations, the Contractor shall be
+entitled to an equitable extension of time for completion of the Work or the
+Upgrade Work, as the case may be.
+
+C.  Increase in cost due to Purchaser will be as provided for in Article 12,
+Purchaser's Obligations.
+
+D.  The Contractor shall inform the Purchaser promptly with written
+notification, and in all cases within fourteen (14) days of discovery and
+knowledge, of any occurrence covered under this Article and shall use its
+reasonable efforts to minimize such additional delays. The Contractor shall
+promptly provide an estimate of the anticipated time required to complete the
+Work or the Upgrade Work.  Contractor shall be entitled to an extension of time
+equal to at least one day for each day of delay resulting from the Force Majeure
+condition.
+
+E.  Within thirty (30) days of receipt of such a notice from Contractor, the
+Purchaser and the Independent Engineer may provide a written response. The
+absence of a response shall be deemed as acceptance of Contractor's notice and
+request for additional time.
+<PAGE>
+
+46
+
+F.  If a Force Majeure continues for a total of two hundred (200) days, either
+Party may terminate the Contract by notice to the other and the Contract shall
+be deemed to have been terminated by Purchaser, effective on the date of the
+terminating Party's notice, in accordance with Sub-Article 14(A) and the
+remaining provisions of Article 14 shall apply to such termination.
+
+ARTICLE 18  INTELLECTUAL PROPERTY
+
+A.  Ownership
+
+All right, title, and interest in and to all Intellectual Property (excluding
+Project Patent Rights) created or developed by Contractor in the course of its
+performance under this Contract that is (a) specifically and exclusively
+applicable to the System or a System Upgrade; and (b) either (i) embodied in
+Deliverable Technical Material (as that term is defined in Sub-Article 18(B)
+below) or (ii) embodied in the System or a System Upgrade (the "Project
+Intellectual Property"), is and shall remain the sole property of Purchaser.
+All right, title and interest in and to all Intellectual Property created or
+developed by Contractor before commencing its performance under this Contract,
+or created or developed by Contractor exclusively in connection with activities
+other than its performance under this Contract, or created or developed by
+Contractor in the course of its performance under this Contract that is not
+Project Intellectual Property, and all Project Patent Rights (collectively, the
+"Contractor Intellectual Property"), is and shall remain the sole property of
+Contractor.  Unless otherwise expressed in this Contract, no license is implied
+or granted herein to Purchaser to any Contractor Intellectual Property by virtue
+of this Contract, nor by the transmittal or disclosure of any such Contractor
+Intellectual Property to Purchaser.  Any Contractor Intellectual Property
+disclosed, furnished, or conveyed to Purchaser that is marked as "Proprietary"
+or "Confidential" (or if transmitted orally is identified as being proprietary
+or confidential in a subsequent writing) shall be treated in accordance with the
+provisions of Article 20 (Safeguarding of Information and Technology).  As used
+herein, "Intellectual Property" means any information, computer or other
+apparatus programs, software, specifications, drawings, designs, sketches,
+tools, market research or operating data, prototypes, records, documentation,
+works of authorship or other creative works, ideas, concepts, methods,
+inventions, discoveries, improvements, or other business, financial and/or
+technical information (whether or not protectable or registrable under any
+applicable intellectual property law).  As used herein, "Project Patent Rights"
+means all inventions, discoveries, methods and improvements of a patentable
+nature created or developed by Contractor in the course of its performance under
+this Contract.  Project Intellectual Property will include the materials to be
+listed in a Schedule to be created mutually by the Parties within thirty (30)
+days of execution of this Contract, as it may be amended from time to time by
+mutual agreement of the Parties.
+
+B.  Licenses
+
+Contractor shall furnish to Purchaser, upon the transfer of title to any portion
+of the System or a System Upgrade pursuant to Article 9, copies of all technical
+information, specifications, drawings, designs, sketches, tools, operating data,
+records, documentation and/or other types of engineering or technical data or
+information reasonably relating to the operation, maintenance or
+<PAGE>
+
+47
+
+repair of each component of such portion of the System or System Upgrade as
+delivered by Contractor (the "Deliverable Technical Material"). Contractor
+grants to Purchaser a perpetual, royalty-free, non-transferable (except under
+the circumstances specified in Sub-Article 18(F) below) license to use and
+reproduce those Deliverable Technical Materials owned, controlled, or developed
+by Contractor and all Contractor Intellectual Property included in or necessary
+to use all the Deliverable Technical Materials for purposes of fulfilling
+Purchaser's obligations under this Contract and using and operating the System
+(as upgraded by any System Upgrades) supplied by Contractor with the right to
+employ third parties (under appropriate written obligations respecting
+confidentiality) to assist Purchaser in fulfilling its obligations under this
+Contract and in using and operating the System (as upgraded by any System
+Upgrades), but with no right to sublicense. Contractor grants to Purchaser a
+perpetual, royalty-free, non-transferable (except under the circumstances
+specified in Sub-Article 18(F) below) license to use and reproduce those
+portions of Deliverable Technical Materials owned or controlled by third parties
+(but only to the extent of any rights which may have been granted to Contractor
+by such third parties) for the purpose of fulfilling Purchaser's obligations
+under this Contract and using and operating the System supplied by Contractor
+with the right to employ third parties (under appropriate written obligations
+respecting confidentiality) to assist Purchaser in fulfilling its obligations
+under this Contract and in using and operating the System (as upgraded by any
+System Upgrades), but with no right to sublicense. Except as set forth in this
+provision, no license under Contractor's patents, copyrights, trade or service
+marks, trade secrets or other intellectual property rights protectable under law
+in the United States or any foreign country is granted to Purchaser. It is
+expressly understood that it shall not be a violation of this license for
+Purchaser, on its own behalf or through third parties (under appropriate written
+obligations respecting confidentiality) specifically employed for the purpose,
+to use and reproduce Deliverable Technical Material that is not Project
+Intellectual Property to modify the System (as upgraded by any System Upgrades)
+or connect the System (as upgraded by any System Upgrades) to other systems,
+provided that Purchaser may not use the Deliverable Technical Materials that is
+not Project Intellectual Property in achieving such modification or
+interconnection for any purpose other than determining the technical
+configuration, systems interface and/or interoperability requirements of the
+System (as upgraded by any System Upgrades) as delivered by Contractor (subject
+to the rights of third parties therein and thereto), and subject to the
+limitations on Contractor's obligations as set forth in Articles 10(D) and 19(A)
+concerning any such modification or interconnection.
+
+C.  Deliverable Software
+
+Contractor shall furnish to the Purchaser, upon transfer of title to any portion
+of the System or System Upgrade pursuant to Article 9, copies of all computer or
+other apparatus programs and software, in executable form, and related
+documentation relating to the operation, maintenance, or repair of the computer
+systems of such portion of the System or System Upgrade, as the case may be, as
+delivered by Contractor (the "Deliverable Software").  In the case of Contractor
+Intellectual Property, such copies of programs and software shall consist solely
+of executable code provided in offline media (e.g., tapes, or diskettes) for
+restoration purposes, sufficient to operate, maintain or repair the computer
+systems of such portion of the System or System Upgrade, as the case may be, as
+delivered by Contractor, and in the case of Project Intellectual Property, such
+programs and software shall be delivered in both source and object code forms.
+<PAGE>
+
+48
+
+Contractor shall furnish to Purchaser, from time to time during the Warranty
+Period or any Upgrade Warranty Period, copies of all computer or other apparatus
+programs and software, in executable form (and in the case of Project
+Intellectual Property, in source code form), and related documentation that
+Contractor may develop to correct errors or to maintain Deliverable Software
+previously furnished to Purchaser, which shall also be treated as Deliverable
+Software for purposes of this Contract upon delivery thereof to Purchaser.
+Contractor grants to Purchaser a perpetual, royalty-free, non-transferable
+(except under the circumstances specified in Sub-Article 18(F) below) license to
+use and reproduce the Deliverable Software Materials owned, controlled, or
+developed by Contractor for the purpose of fulfilling Purchaser's obligations
+under this Contract and using and operating the System (as upgraded by any
+System Upgrades) supplied by Contractor with the right to employ third parties
+(under appropriate written obligations respecting confidentiality) to assist
+Purchaser in fulfilling its obligations under this Contract and in using and
+operating the System (as upgraded by any System Upgrades), but with no right to
+sublicense. Contractor grants to Purchaser a perpetual, royalty-free, non-
+transferable (except under the circumstances specified in Sub-Article 18(F)
+below) license to use and reproduce those portions of Deliverable Software owned
+or controlled by third parties (but only to the extent of any rights which may
+have been granted to Contractor by such third parties) for the purpose of
+fulfilling Purchaser's obligations under this Contract and using and operating
+the System (as upgraded by any System Upgrades) supplied by Contractor with the
+right to employ third parties (under appropriate written obligations respecting
+confidentiality) to assist Purchaser in fulfilling its obligations under this
+Contract and in using and operating the System (as upgraded by any System
+Upgrades), but with no right to sublicense. These licenses shall be limited to
+the right to use Deliverable Software that is not Project Intellectual Property
+only with the particular type of computer equipment or substantially similar
+replacement equipment for which such Deliverable Software was provided in the
+System (as upgraded by any System Upgrades) as supplied by Contractor.
+
+1.  Confidentiality
+
+Purchaser shall keep the Deliverable Software that is not Project Intellectual
+Property confidential in accordance with Article 20 (Safeguarding of Information
+and Technology) and Article 21 (Export Control) to the extent that such
+Deliverable Software is designated as Confidential Information by its owner and
+agrees to use its best efforts to see that its employees, consultants, and
+agents, and other users of such software, comply with the provisions of this
+Contract. Purchaser also agrees to refrain from taking any steps, such as
+reverse assembly or decompilation, to derive a source code equivalent of any
+object code that is furnished by Contractor, provided that Contractor continues
+to maintain the Deliverable Software that is not Project Intellectual Property
+in accordance with the terms of a support and maintenance agreement to be
+entered into on such terms to be agreed upon by the Parties, which terms shall
+in all events contain assurances of support and maintenance at least as
+favorable to Purchaser as those contained in the Operating, Administration and
+Maintenance Agreement concerning AC-1 or is willing and able to enter into an
+agreement to maintain the Deliverable Software upon terms reasonably comparable
+to the pertinent terms of the initial agreement to be entered into by the
+Parties with regard to support and maintenance after the expiration or
+termination thereof or does not go insolvent or bankrupt to thereby *. In the
+case of insolvency or bankruptcy of Contractor, Purchaser shall limit any
+derivation of a source code equivalent to that portion of the Deliverable
+Software that is
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+
+<PAGE>
+
+49
+
+Contractor Intellectual Property. Purchaser shall not under any circumstances
+take any steps to derive a source code equivalent from that portion of the
+Deliverable Software comprising commercial, off-the-shelf software developed or
+provided by third parties.
+
+2.  Backup Copies
+
+Purchaser may make and retain two archive copies in executable form of the
+Deliverable Software that is not Project Intellectual Property. Any copy will
+contain the same copyright notice and proprietary markings as are on the
+original software and shall be subject to the same restrictions as the
+originals.
+
+3.  Termination of Software Licenses
+
+In the event of (i) use by the Purchaser of Deliverable Software that is not
+Project Intellectual Property in a manner other than that permitted in Sub-
+Article 18(C) or (ii) any other material breach of this Article 18 by Purchaser
+that in either event is not cured within sixty (60) days from receipt by
+Purchaser of written notice of such impermissible use or breach, Contractor, at
+its option, may terminate the rights granted to Purchaser pursuant to this
+Article, upon written notice to Purchaser, which termination shall take effect
+no sooner than sixty (60) days following receipt by Purchaser of a subsequent
+written notice of termination. Upon termination, Purchaser shall either return
+or destroy, at Contractor's option, all copies of Deliverable Software that is
+not Project Intellectual Property furnished under this Contract.
+
+4.  Indemnification
+
+In the event of (i) use by Purchaser of Deliverable Software that is not Project
+Intellectual Property furnished hereunder other than that permitted in Sub-
+Article 18(C) or (ii) any other material breach of this Article 18 by Purchaser,
+the Purchaser shall indemnify and hold Contractor harmless from any and all
+third party claims resulting therefrom whether arising from a defect in the
+software or otherwise.
+
+D.  Trademarks, Tradenames, etc.
+
+No rights are granted herein to either Party to use any identification (such as,
+but not limited to tradenames, trademarks, service marks or symbols, and
+abbreviations, contractions, or simulations thereof) owned or used by the other
+Party or its parent company or its affiliates to identify itself or its
+affiliates or any of its products or services. Each Party agrees that it will
+not, without the prior written permission of the other Party, use such
+identification in advertising, publicity, packaging, labeling, or in any other
+manner to identify itself or any of its products, services, or organizations, or
+represent directly or indirectly that any product, service, or organization of
+it is a product, service, or organization of the other Party or its affiliates,
+or that any product or service of a Party is made in accordance with or utilizes
+any intellectual property of the other Party or its affiliates.
+
+E.  DISCLAIMER, LIMITATION OF LIABILITY
+
+CONTRACTOR REPRESENTS THAT ANY INFORMATION OR INTELLECTUAL PROPERTY FURNISHED IN
+CONNECTION WITH THIS CONTRACT SHALL BE TRUE AND ACCURATE TO THE BEST OF ITS
+KNOWLEDGE AND BELIEF, BUT
+<PAGE>
+
+50
+
+CONTRACTOR SHALL NOT BE HELD TO ANY LIABILITY FOR UNINTENTIONAL ERRORS OR
+OMISSIONS THEREIN. EXCEPT AS EXPRESSLY PROVIDED, CONTRACTOR MAKES NO
+REPRESENTATIONS OR WARRANTIES, EXPRESSLY OR IMPLIEDLY. BY WAY OF EXAMPLE, BUT
+NOT OF LIMITATION, CONTRACTOR AND ITS PARENT COMPANY AND AFFILIATES MAKES NO
+REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE, OR THAT THE USE OF INFORMATION OR INTELLECTUAL PROPERTY DISCLOSED OR
+PROVIDED HEREUNDER WILL NOT INFRINGE ANY PATENT OR OTHER INTELLECTUAL PROPERTY
+RIGHT OF A THIRD PARTY. EXCEPT AS OTHERWISE PROVIDED IN THIS CONTRACT,
+CONTRACTOR AND ITS PARENT AND AFFILIATES SHALL NOT BE HELD TO ANY LIABILITY WITH
+RESPECT TO ANY CLAIM BY PURCHASER OR ANY THIRD PARTY CLAIM AGAINST PURCHASER ON
+ACCOUNT OF, OR ARISING FROM, PURCHASER'S USE OF INFORMATION OR INTELLECTUAL
+PROPERTY DISCLOSED OR PROVIDED BY CONTRACTOR.
+
+F.  Transferability
+
+The licenses granted to Purchaser by Contractor in the Deliverable Technical
+Materials and Deliverable Software are personal and non-transferable, except
+that Purchaser may assign or transfer such licenses to an affiliated entity
+under common control with the Purchaser or to any entity succeeding to
+Purchaser's entire interest in the System (as upgraded by any System Upgrades)
+as a result of reorganization or restructuring of the Purchaser or in the event
+of a change of control of the Purchaser.
+
+G.  *
+
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+51
+
+ARTICLE 19  INFRINGEMENT
+
+A.  The Contractor agrees to defend or settle at its own expense all suits for
+infringement of any patent, copyright, trademark or other form of intellectual
+property right in any country of the world, for the use and operation of the
+System (as upgraded by any System Upgrades) as supplied by Contractor and for
+any component part thereof or material or equipment used therein (or the
+manufacture of any material or the normal use thereof) provided by the
+Contractor or on its behalf pursuant to this Contract and will hold the
+Purchaser harmless from all expense of defending any such suit and all payments
+for final judgment assessed on account of such infringement, except such
+infringement or claim arising from:
+
+1.  The Contractor's adherence to the Purchaser's directions in the design and
+configuration of the System (as upgraded by any System Upgrades) or to use
+materials, parts or equipment of the Purchaser's selection; or
+
+2.  Such material, parts or equipment furnished to the Contractor by the
+Purchaser, other than in each case, items of the Contractor's design or
+selection or the same as any of the Contractor's commercial merchandise or in
+processes or machines of the Contractor's design or selection used in the
+manufacture of such standard products or parts; or
+
+3.  Use of the System (as upgraded by any System Upgrades) or the materials,
+parts or equipment furnished by Contractor other than for the purposes indicated
+in, or reasonably to be inferred from, this Contract or in conjunction with
+other products; or
+
+4.  Modification of the System (as upgraded by any System Upgrades) or the
+materials, parts or equipment furnished by the Contractor, or connection of the
+System to another system by any person or entity other than Contractor, without
+prior expressed written approval by Contractor.
+
+B.  The Purchaser will, at its own expense, defend all suits against the
+Contractor for such excepted infringement and hold the Contractor harmless from
+all expense of defending any such suit and from all payments by final judgment
+assessed against the Contractor on account of such excepted infringement.
+
+C.  The Contractor and the Purchaser agree to give each other prompt written
+notice of claims and suits for infringement, full opportunity and authority to
+assume the sole defense, including appeals and, upon request and at its own
+expense, the other agrees to furnish all information and assistance available to
+it for such defense.
+<PAGE>
+
+52
+
+D.  If all or any portion of the System (as upgraded by any System Upgrades) or
+any material, part or equipment provided by the Contractor or on its behalf is
+held to constitute an infringement (excluding such excepted infringements
+specified in Sub-Article 19(A)) and is subject to an injunction restraining its
+use or any order providing for its delivery up to or destruction, or if in
+respect of any such claim of infringement the Contractor deems it advisable to
+do so, the Contractor shall at its own expense either:
+
+1.  Procure for the Purchaser the right to retain and continue to use the
+System, the affected portion thereof, or any such material, part or equipment
+without interruption for the Purchaser;
+
+2.  Replace or modify the System, the affected portion thereof, or any material,
+part or equipment so that it becomes noninfringing while continuing to meet the
+Performance Requirements or
+
+3.  If the remedies specified in Sub-Articles 19(D)(1) an 19(D)(2) are not
+feasible, refund to the Purchaser the full purchase price paid for the System,
+the affected portion thereof, or any material, part or equipment found to be
+infringing.
+
+E.  In no event shall the Purchaser make any admission or settle any claim in
+relation with any claim for infringement without Contractor's consent.
+
+ARTICLE 20  SAFEGUARDING OF INFORMATION AND TECHNOLOGY
+
+A.  In performance of this Contract, it may be mutually advantageous to the
+Parties hereto to share certain specifications, designs, plans, drawings,
+software, market research or operating data, prototypes, or other business,
+financial, and or/technical information related to products, services, or
+systems which are proprietary to the disclosing Party or its affiliates (and in
+the case of Contractor, Contractor's parent company) (together with this
+Contract and related documents, "Information"). The Parties recognize and agree
+that Information includes information that was supplied in contemplation hereof
+prior to execution of this Contract, and further agree that Information includes
+information in both tangible and intangible form.
+
+B.  Unless such Information was previously known to the Party receiving such
+Information free of any obligation to keep it confidential, or such Information
+has been or is subsequently made public through other than unauthorized
+disclosure by the receiving Party or is independently developed by the receiving
+Party (as documented by the records of the receiving Party), it shall be kept
+confidential by the Party receiving such Information, shall be used only in the
+performance of this Contract, and may not be used for any other purposes except
+upon such terms as may be agreed upon in writing by the Party owning such
+Information. The receiving Party may disclose such Information to other persons,
+upon the furnishing Party's prior written authorization, but solely to perform
+acts which this Article expressly authorizes the receiving Party to perform
+itself and further provided such other person agrees in writing (a copy of which
+writing will be provided to the furnishing Party at its request) to the same
+conditions respecting disclosure and use of Information contained in this
+Article and to any other reasonable conditions requested by the furnishing
+Party. Nothing herein shall prevent a Party from disclosing
+<PAGE>
+
+53
+
+Information (a) upon the order of any court or administrative agency, (b) upon
+the request or demand of, or pursuant to any regulation of, any regulatory
+agency or authority, (c) to the extent reasonably required in connection with
+the exercise of any remedy hereunder and (d) to a Party's legal counsel or
+independent auditors.
+
+C.  The Purchaser may disclose Information to its lenders and their
+representatives in connection with obtaining financing for the System, provided
+that each such lender or third party enters into a confidentiality agreement
+containing terms and conditions similar to those in this Contract. Any such
+disclosure of Information shall be subject to the restrictions in Sub-Article
+20(B).
+
+ARTICLE 21  EXPORT CONTROL
+
+The Parties acknowledge that any products, software, and technical information
+(including, but not limited to, services and training) provided by either Party
+under this Contract are or may be subject to export laws and regulations of the
+United States and destination countries and any use or transfer of such
+products, software and technical information must be authorized under those
+Laws. The Parties agree that they will not use, distribute, transfer or transmit
+the products, software or technical information (even if incorporated into other
+products) except in compliance with export Laws. If requested by either Party,
+the other Party agrees to sign all necessary export-related documents as may be
+required to comply with export Laws.
+
+ARTICLE 22  LIQUIDATED DAMAGES
+
+A.  If the System is not Ready for Commercial Acceptance or Provisional
+Acceptance by the Scheduled System RFS Date, as it may have been extended under:
+
+1.  Article 6 (Contract Variations);
+
+2.  Article 17 (Force Majeure); or
+
+3.  Other arrangements as agreed between the Purchaser and the Contractor;
+then Contractor shall pay to Purchaser for each day of delay, for up to 200
+days, by way of pre-estimated and liquidated damages for the delay and not as a
+penalty, an amount equal to * of the Contract Price (less Taxes) for the
+System; provided, that, if Purchaser, in its sole discretion, elects to accept a
+DLS prior to acceptance of the System, the Contract Price (less Taxes), for
+purposes of this Sub-Article 22(A), shall be reduced by that portion of the
+Contract Price (less Taxes) allocable (which allocation shall be determined in
+good faith by mutual agreement of the Parties) to such DLS.
+
+
+B.  If a System Upgrade is not Ready for Commercial Acceptance or Provisional
+Acceptance by the Scheduled Upgrade Date, as it may have been extended under:
+
+1.  Article 6 (Contract Variations);
+
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+54
+
+2.  Article 17 (Force Majeure); or
+
+3.  Other arrangements as agreed between the Purchaser and the Contractor;
+
+then Contractor shall pay to Purchaser for each day of delay, for up to 90 days,
+by way of pre-estimated and liquidated damages for the delay and not as a
+penalty, an amount equal to * of the Initial Upgrade Price for such System
+Upgrade.
+
+ARTICLE 23  LIMITATION OF LIABILITY/INDEMNIFICATION
+
+A.  NOTWITHSTANDING ANY OTHER PROVISION IN THIS CONTRACT, AND IRRESPECTIVE OF
+ANY FAULT, NEGLIGENCE OR GROSS NEGLIGENCE OF ANY KIND, IN NO EVENT SHALL EITHER
+PARTY OR ANY OF ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY
+CONSEQUENTIAL, INCIDENTAL, INDIRECT, RELIANCE OR SPECIAL (INCLUDING PUNITIVE)
+DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUE, LOSS OF BUSINESS
+OPPORTUNITY OR THE COSTS ASSOCIATED WITH THE USE OF RESTORATION FACILITIES
+RESULTING FROM ITS FAILURE TO PERFORM PURSUANT TO THE TERMS AND CONDITIONS OF
+THIS CONTRACT.
+
+B.  EXCEPT AS SET FORTH BELOW IN THE LAST TWO SENTENCES OF THIS SUB-ARTICLE
+23(B), THE CONTRACTOR'S MAXIMUM AGGREGATE LIABILITY, WHETHER IN TORT, CONTRACT
+OR OTHERWISE, EXCEPT FOR CLAIMS RELATING TO SYSTEM UPGRADES, SHALL NOT EXCEED *
+OF THE CONTRACT PRICE. THE CONTRACTOR'S MAXIMUM AGGREGATE LIABILITY FOR CLAIMS
+RELATING TO SYSTEM UPGRADES (IF CONTRACTOR CAN PROVE THAT THE SYSTEM WAS
+DESIGNED WITH SUFFICIENT TRANSMISSION MARGIN AND THUS SUCH CLAIMS DO NOT ARISE
+UNDER CLAUSE (ii) OF SUB-ARTICLE 10(B)) SHALL NOT EXCEED * OF THE APPLICABLE
+UPGRADE PRICE. THE FOREGOING LIMITATION SHALL NOT APPLY TO CLAIMS UNDER SUB-
+ARTICLES 19(A) AND 23(C). IF CONTRACTOR CANNOT PROVE THAT THE SYSTEM WAS
+DESIGNED WITH SUFFICIENT TRANSMISSION MARGIN FOR A SYSTEM UPGRADE, THE
+CONTRACTOR'S MAXIMUM AGGREGATE LIABILITY FOR CLAIMS ARISING UNDER CLAUSE (ii) OF
+SUB-ARTICLE 10(B) SHALL NOT EXCEED *.
+
+C.  Contractor, at its expense, shall defend, indemnify and hold harmless
+Purchaser, its agents, subcontractors and employees against any and all claims,
+demands, and judgments for losses due to any act or omission, arising out of, or
+in connection with this Contract or, prior to risk of loss passing to Purchaser,
+the operation and maintenance of the System, to the extent such losses were
+caused by the negligence or willful misconduct of the Contractor, its
+subcontractors, employees or agents. The defense, indemnification and save
+harmless obligation is specifically conditioned on the following: (i) Purchaser
+providing prompt notification in writing of any such claim or demand when it
+obtains Actual Knowledge thereof, unless such failure shall not have materially
+impaired Contractor's ability to defend against such claim; (ii) Contractor
+having
+
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+55
+
+control of the defense of any such action, claim or demand and of all
+negotiations for its settlement or compromise; and (iii) Purchaser cooperating,
+at Contractor's expense, in a reasonable way to facilitate the defense of such
+claim or demand or the negotiations for its settlement.
+
+D.  Purchaser, at its expense, shall defend, indemnify and hold harmless
+Contractor, its agents, subcontractors and employees against any and all claims,
+demands, and judgments for losses due to any act or omission, arising out of, or
+in connection with this Contract or, after risk of loss passes to Purchaser, the
+operation or maintenance of the System, to the extent such losses were caused by
+the negligence or willful misconduct of the Purchaser, its subcontractors,
+employees or agents (other than Contractor). The defense, indemnification and
+save harmless obligation is specifically conditioned on the following (i)
+Contractor providing prompt notification in writing of any such claim or demand
+when it obtains Actual Knowledge thereof, unless such failure shall not have
+materially impaired Purchaser's ability to defend against such claim; (ii)
+Purchaser having control of the defense of any such action, claim or demand and
+of all negotiations for its settlement or compromise; and (iii) Contractor
+cooperating, at Purchaser's expense, in a reasonable way to facilitate the
+defense of such claim or demand or the negotiations for its settlement.
+
+ARTICLE 24  COUNTERPARTS
+
+This Contract may be signed in any number of counterparts, each of which shall
+be an original, with the same effect as if the signatures thereto and hereto
+were upon the same instrument.
+
+ARTICLE 25  DESIGN AND PERFORMANCE RESPONSIBILITY
+
+A.  The Contractor shall be solely responsible for the design of and for all
+details of the System and the System Upgrades and for the adequacy thereof.
+
+B.  The Contractor's responsibility for design of the System and the System
+Upgrades shall not in any way be diminished nor shall the Contractor's design
+approach be restricted or limited by the Purchaser's acceptance of the
+Contractor's guidance or recommendations as to engineering standards and design
+specifications, or by the Purchaser's suggestions or recommendations on any
+aspect of the design.
+
+C.  Purchaser shall use reasonable efforts in assisting the Contractor to obtain
+in a timely manner accurate information required for the Contractor to perform
+the Work and the Upgrade Work, which Contractor cannot expeditiously and cost-
+effectively obtain from any source other than the Purchaser.
+
+ARTICLE 26  PRODUCT CHANGES
+
+The Contractor may at any time make changes to the System or System Upgrades
+furnished pursuant to this Contract, or modify the drawings and published
+specifications relating thereto, or substitute equipment of later design,
+provided the changes, modifications, or substitutions under
+<PAGE>
+
+56
+
+normal and proper use do not impact upon the form, fit, expected life or
+function of the System as provided in the System Performance Requirements.
+
+ARTICLE 27  RISK AND INSURANCE
+
+A.  The Contractor shall at all times maintain, after the date which is 30 days
+from the date hereof, and upon request, the Contractor shall furnish the
+Purchaser with certificates, or other reasonable evidence, that Contractor
+maintains, the following insurance or has adequate self-insurance (other than as
+required to comply with any statutory insurance requirements); provided, that
+the following insurance coverages may be combined or in different form so long
+as Contractor maintains insurance consistent with the following requirements:
+
+1.  Workmen's Compensation and Employers Liability Insurance (with a limit of
+not less than * for any one incident or series of incidents arising from
+one event or such higher limit as may be required by the laws of any
+jurisdiction) covering the officers and employees of the Contractor for all
+compensation or other benefits required of the Contractor by the laws of any
+nation or political sub-division thereof to which the Contractor and its
+operations under this Contract are subject in respect of injury of death of any
+such employee.
+
+2.  Comprehensive General Public Liability Insurance, covering personal injury
+and/or property damage, with combined single limits of not less than *
+for claims of injury or death of any persons or loss of or damage to property
+resulting from any one accident. This insurance to be extended to provide Marine
+Comprehensive General Liability including liabilities arising out of the
+operation of subsea equipment.
+
+3.  Comprehensive Automobile Liability insurance covering all vehicles and
+automotive equipment owned, hired, or in the custody and control of Contractor
+and complying with all applicable legislation with limits not less than *
+combined single limit for the death or injury of any person per accident and not
+less than * for the loss or damage to property resulting from any one accident.
+
+4.  All Risk Insurance in respect of all property of Contractor, its respective
+officers, agents and employees connected with the performance of the Work
+against all loss or damage from whatever cause.
+
+5.  Conventional Marine Hull and Machinery Insurance including War Risks or any
+vessel(s) owned, operated or chartered by the Contractor, in an amount equal to
+the full value thereof. In the event of damage to or loss of such vessel(s), the
+Contractor agrees to look to its insurance carrier for payment of such loss or
+damage and hereby releases the Purchaser and waives any claims against the
+Purchaser for the loss of such vessel(s) unless due to the negligence of
+Purchaser, its agent or representatives (other than Contractor).
+
+6.  All vessels are to be entered in a Mutual Protection and Indemnity
+Association with a full and unlimited entry or to have Marine Protection and
+Indemnity Insurance with a limit of not less than * including coverage far
+illness, injury or death of crew members (unless
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+57
+
+covered under Workmen's Compensation Insurance), Contractual Liability Coverage,
+Collision and Tower's Liability, Removal of Wreck and Debris and Third Party
+Liability.
+
+7.  Excess Liability Coverage over that required in Sub-Articles 27(A)(1), (2)
+and (3) with minimum limits of * for any one accident or occurrence.
+
+8.  Specialist Operations Insurance with a limit of not less than * as per
+London Wording 1993 or equivalent.
+
+9.  Transit Insurance including inland, air, and Marine Cargo coverage including
+War (other than on land) in an amount sufficient to cover the expected highest
+value of any one shipment. Coverage to include Institute Cargo Clauses, all
+risks 1.1.63, Institute War Clauses, London Malicious Damage Clause, and
+Institute Strikes Riots and Civil Commotion Clauses or their equivalent.
+
+10.  Marine Cargo or equivalent is required to protect, for full cost, against
+all risks of physical loss or damage to the plant, equipment and supplies to be
+included in the System  (other than War Risks) beginning with when each such
+item is ready for shipping and ending when the submersible plant and equipment
+are placed overside the cable laying vessel and when the equipment and supplies
+are delivered to the cable stations, central offices, or network operation
+center.  The coverage continues to cover cable lying on the seabed.
+
+11.  Sea Bed or equivalent coverage (including an Old Mines and Torpedoes
+Clause, including other derelict weapons of War) is required to protect, for
+full cost, against all risks of physical loss or damage to the submersible plant
+and equipment described in Sub-Article 27(A)(10) above. See last paragraph.
+
+12.  War Risks or equivalent coverage is required to protect against damage to,
+seizure by and/or destruction of the System by means of war, piracy, takings at
+sea and other warlike operations until discharge of the submersible plant and
+equipment. For the purposes of this Article "discharge of the submersible plant
+and equipment" shall be deemed to take place when the plant and equipment
+reaches the sea bottom, as far as the submersible plant and equipment is
+concerned, and when the plant is off-loaded in the respective terminal country,
+as far as non-submersible plant is concerned.
+
+13.  Pollution Liability (EIL) insurance for installation operations and as
+arising from the use of vessels in an amount not less than * or such higher sum
+as may be required to meet any legal requirement in area of operations.
+
+The Comprehensive General Liability Insurance required pursuant to Sub-Article
+27(A)(2) above, shall include Contractual Liability Coverage which shall
+specifically apply to the obligations assumed by the Contractor under the Terms
+and Conditions of this Contract.
+
+B.  1.  All the foregoing insurances shall be effected with a creditworthy
+insurer and shall be endorsed to provide Purchaser with at least thirty (30)
+days prior written notice of cancellation or material change.
+
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+58
+
+2.  All the foregoing insurances shall name Purchaser as an additional insured
+as to operations hereunder, in which event the Contractor's insurance shall be
+primary to any insurance carried by Purchaser.
+
+3.  The limits specified herein are minimum requirements and shall not be
+construed in any way as limits of liability or as constituting acceptance by
+Purchaser of such responsibility for financial liabilities in excess of such
+limits. The Contractor shall bear all deductibles applicable to any insurance.
+
+4.  If it is judicially determined that the monetary limits of insurance
+required hereunder or of any indemnity voluntarily assumed under the Terms and
+Conditions of this Contact which the Contractor agrees will be supported either
+by available liability insurance or voluntarily self-insured, in part or whole,
+exceeds the maximum limits permitted under applicable law, it is agreed that
+said insurance requirements or indemnity shall automatically be amended to
+conform to the maximum monetary limits permitted under such law.
+
+5.  Contractor shall take reasonable steps to provide that any sub-contractor
+engaged by it has in effect or will effect Employer's Liability, Workmen's
+Compensation, Hull and Machinery and Protection and Indemnity insurances and any
+other insurances required by law, together with such other insurances as the
+Contractor may consider necessary.
+
+6.  If the Contractor fails to effect or keep in force any of the insurances
+required under this Contract, Purchaser may effect and keep in force any such
+insurances and pay such premiums as may be necessary for that purpose and from
+time to time deduct the amount so paid by Purchaser from any money due or which
+may become due to the Contractor hereunder or recover the same as a debt due
+from the Contractor, provided that Purchaser is not in Default.
+
+7.  Each Party shall give the other prompt notification of any claim with
+respect to any of the insurances to be provided hereunder, accompanied by full
+details giving rise to such claim. Each Party shall afford the other all such
+assistance as may be required for the preparation and negotiation of insurance
+claims.
+
+8.  Contractor shall report to Purchaser as soon as practicable all accidents or
+occurrences resulting in injuries to Contractor's employees or third parties, or
+damage to property of third parties, arising out of our during the course of
+services for Purchaser by Contractor.
+
+C.  The Contractor may organize such levels of deductibles, excesses and self-
+insurance as it considers appropriate and which are within prudent industry
+standards.
+
+D.  The insurance requirements of this Article 27 will remain in place with
+respect to each DLS, the System or System Upgrade, as the case may be, and will
+not in any way be diminished or reduced until the transfer of title and risk of
+loss shall have passed to Purchaser of such DLS, System or System Upgrade, as
+the case may be, even in the event of the sale of substantially all the assets
+of the Contractor by way of a merger, consolidation or sale of assets.
+<PAGE>
+
+59
+
+ARTICLE 28  PLANT AND WORK RULES
+
+Employees and agents of each Party shall, while on the premises of the other or
+its subcontractors, comply with all plant rules and governmental regulations.
+
+ARTICLE 29  RIGHT OF ACCESS
+
+A.  The Contractor shall, upon reasonable notice of not less than ten (10)
+working days, during normal business hours and in a manner to avoid any
+disruption of the work on the premises including performance of other contracts,
+permit access by the Purchaser or its Quality Assurance (QA) Representative
+(other than a competitor of the Contractor or any affiliate of a competitor) to
+the Contractor's premises where the work will be performed, and will use its
+best endeavors to secure rights of access to premises of its subcontractors
+where the work will be performed, having subcontracts or orders in the amount
+of, or equivalent to U.S. $125,000 or more, in accordance with the Contractor's
+contractual arrangements with its subcontractors, and allow the Purchaser or its
+QA Representative to:
+
+1.  audit the Contractor's quality assurance system and its application to the
+Work and Upgrade Work, including manufacture, development and raw materials and
+components provision;
+
+2.  inspect all parts of the Work and Upgrade Work to the extent reasonably
+practicable to ensure that their quality meets the Technical Specification.
+
+This right of access shall allow for the Purchaser and/or its QA representative
+(up to a total of three (3) persons). The Purchaser shall provide the name(s),
+nationality and title of each such visitor prior to the visit.  The Contractor
+shall not be responsible for any costs, including travel and accommodation
+costs, of the Purchaser or its representatives.
+
+B.  The right of access shall also allow for the Purchaser and/or
+representatives (up to a total of three (3) persons) to be aboard the vessel(s)
+during installation and the route survey, provided accommodations are available.
+The Contractor shall not be responsible for any costs of the Purchaser or its
+representatives, except for living expenses on board the vessel which includes
+one (1) daily telex or fax, all other travel and accommodation costs for the
+Purchaser or its QA Representatives shall be for the account of the Purchaser.
+
+C.  Any right of access shall not be construed as creating any obligation
+requiring the Contractor or its subcontractors to disclose trade secrets or
+proprietary information. Further, such right of access may be conditioned on the
+execution of a confidentiality and non-disclosure agreement and/or subject to
+routine building or security rules, regulations or procedures.
+
+D.  Any exercise of any right of the Purchaser hereunder to inspect, audit,
+visit or to serve any part of the Work or System Upgrades shall not be construed
+as limiting any obligation of Contractor hereunder, including without
+limitation, under Articles 1 and 10 hereof.
+<PAGE>
+
+60
+
+E.  Contractor will have access to the System as necessary to accomplish its
+responsibilities under this Contract and in order to make repairs and to make
+System Upgrades. Contractor will provide reasonable notice of its need for
+access and will take reasonable steps to minimize disruptions to the operation
+of the System.
+
+F.  Contractor shall give the Purchaser reasonable prior written notice of each
+monthly project management review meeting with respect to the status of the
+construction and/or installation of the System, and Purchaser's representatives
+(up to three such representatives) and the Independent Engineer shall at their
+cost be permitted to attend and participate in such meetings.
+
+ARTICLE 30  QUALITY ASSURANCE
+
+All equipment, material and supplies provided under this Contract shall be
+inspected and tested by representatives designated by the Contractor to the
+extent reasonably practical to assure that the quality of the equipment,
+materials and supplies being incorporated is sufficient to realize the System
+Performance Requirements. The inspection and test program established for such
+equipment, materials and supplies shall be consistent with commercial practices
+normally employed by the Contractor in the construction of submarine cable
+systems. The foregoing shall not be construed as limiting any of the
+Contractor's obligations under this Contract.
+
+ARTICLE 31  DOCUMENTATION
+
+The Contractor shall furnish to the Purchaser five copies of the standard
+documentation in the English language for the System provided hereunder. Such
+documentation shall be provided prior to the Acceptance testing. Additional
+copies of the documentation are available at additional cost.
+
+ARTICLE 32  TRAINING
+
+The Contractor will provide, as part of the Initial Contract Price, until the
+Date of Final Acceptance, any and all training, as more particularly described
+in the training section of Appendix 6, necessary for the operation and
+maintenance of the System.
+
+ARTICLE 33  SETTLEMENT OF DISPUTES/ARBITRATION/LITIGATION
+
+A.  The Parties shall endeavor to settle amicably by mutual discussions any
+disputes, differences, or claims whatsoever related to this Contract.
+
+B.  Failing such amicable settlement, any controversy, claim or dispute arising
+under or relating to this Contract, including the existence, validity,
+interpretation, performance, termination or breach thereof, shall, if both
+Parties agree in writing thereto, finally be settled by arbitration in
+accordance with the International Arbitration Rules of the American Arbitration
+Association ("AAA"). Unless the Parties agree to a sole arbitrator, there shall
+be three (3) arbitrators, with each Party appointing one arbitrator, who
+collectively will select a third. The
+<PAGE>
+
+61
+
+language of the arbitration shall be English. The Arbitrator will not have
+authority to award punitive damages to either Party. Each Party shall bear its
+own expenses, but the Parties shall share equally the fees and expenses of the
+Arbitration Tribunal and the AAA. This Contract shall be enforceable, and any
+arbitration award shall be final, and judgment thereon may be entered in any
+court of competent jurisdiction. In any such arbitration, the decision in any
+prior arbitration under this Contract shall not be deemed conclusive of the
+rights as among themselves of the Parties hereunder. The arbitration shall be
+held in New York, New York, U.S.A.
+
+C.  1.If both Parties do not agree to arbitration pursuant to paragraph (B)
+above, then either Party may institute suit in the Supreme Court of the State of
+New York sitting in New York County or the United States District Court of the
+Southern District of New York, or any appellate court from any thereof.
+
+2.Each Party hereby irrevocably and unconditionally submits to the non-exclusive
+jurisdiction of any New York State or Federal court sitting in The City of New
+York, and any appellate court from any thereof, in any action or proceeding
+arising out of or relating to this Contract, and each Party hereby irrevocably
+and unconditionally agrees that all claims in respect of such action or
+proceeding may be heard and determined in such New York State court or, to the
+extent permitted by law, in such Federal court. Each Party hereby irrevocably
+and unconditionally waives, to the fullest extent it may effectively do so, any
+defense of an inconvenient forum to the maintenance of such action or proceeding
+in any such court and any right of jurisdiction on account of the place of
+residence or domicile of either Party. The Contractor hereby irrevocably and
+unconditionally appoints CT Corporation System (the "New York Process Agent"),
+with an office on the date hereof at 1633 Broadway, New York, New York, as its
+agent to receive on behalf of the Contractor and its respective property service
+of copies of the summons and complaint and any other process which may be served
+in any such action or proceeding in any such New York State or Federal court and
+agrees promptly to appoint a successor New York Process Agent in The City of New
+York (which successor Process Agent shall accept such appointment in a writing
+prior to the termination for any reason of the appointment of the initial New
+York Process Agent).  In any such action or proceeding in such New York State or
+Federal court sitting in The City of New York, such service may be made on the
+Contractor by delivering a copy of such process to the Contractor in care of the
+appropriate Process Agent at such Process Agent's above address and by
+depositing a copy of such process in the mails by certified or registered air
+mail, addressed to the Contractor at its address referred to in Article 35 of
+this Contract (such service to be effective upon such receipt by the appropriate
+Process Agent and the depositing of such process in the mails as aforesaid). The
+Contractor hereby irrevocably and unconditionally authorizes and directs such
+Process Agent to accept such service on its behalf. As an alternate method of
+service, the Contractor also irrevocably and unconditionally consents to the
+service of any and all process in any such action or proceeding in such New York
+State or Federal court sitting in The City of New York by mailing of copies of
+such process to the Contractor, as the case may be, by certified or registered
+air mail at its address referred to in Article 35 of this Contract. The
+Contractor agrees that, to the fullest extent permitted by applicable law, a
+final judgment in any such action or proceeding shall be conclusive and may be
+enforced in other jurisdictions by suit on the judgment or in any other manner
+provided by law.
+<PAGE>
+
+62
+
+3.  WAIVER OF JURY TRIAL.  EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST
+EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN
+ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS
+AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER BASED ON CONTRACT,
+TORT OR ANY OTHER THEORY).  EACH PARTY HERETO (A) CERTIFIES THAT NO
+REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY
+OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK
+TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER
+PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER
+THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS PARAGRAPH.
+
+D.  THE OBLIGATIONS OF EACH PARTY IN RESPECT OF THIS CONTRACT DUE TO ANY PARTY
+SHALL, NOTWITHSTANDING ANY JUDGMENT IN A CURRENCY (THE "JUDGMENT CURRENCY")
+OTHER THAN DOLLARS, BE DISCHARGED ONLY TO THE EXTENT THAT ON THE BUSINESS DAY
+FOLLOWING RECEIPT BY SUCH PARTY OF ANY SUM ADJUDGED TO BE SO DUE IN THE JUDGMENT
+CURRENCY SUCH PARTY MAY IN ACCORDANCE WITH NORMAL BANKING PROCEDURES PURCHASE
+DOLLARS WITH THE JUDGMENT CURRENCY; IF THE AMOUNT OF DOLLARS SO PURCHASED IS
+LESS THAN THE SUM ORIGINALLY DUE TO SUCH PARTY IN DOLLARS, EACH PARTY AGREES, AS
+A SEPARATE OBLIGATION AND NOTWITHSTANDING ANY SUCH JUDGMENT, TO INDEMNIFY SUCH
+PARTY AGAINST SUCH LOSS, AND IF THE AMOUNT OF DOLLARS SO PURCHASED EXCEEDS THE
+SUM ORIGINALLY DUE TO ANY PARTY TO THIS CONTRACT, EACH PARTY AGREES TO REMIT TO
+SUCH PARTY, SUCH EXCESS.
+
+ARTICLE 34  APPLICABLE LAW
+
+THIS CONTRACT SHALL BE CONSTRUED AND GOVERNED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK, UNITED STATES, EXCLUDING ITS CONFLICTS OF LAW PROVISIONS AND
+EXCLUDING THE CONVENTION FOR THE INTERNATIONAL SALE OF GOODS.
+
+
+ARTICLE 35  NOTICES
+
+A.  Any notices, consent, approval, or other communication pursuant to this
+Contract shall be in writing, in the English language, and shall be deemed to be
+duly given or served on a Party if sent to the Party at the address stipulated
+in Sub-Article 35(B) and if sent by any one of the following means only:
+
+1.  Sent by hand: Such communication shall be deemed to have been received on
+the day of delivery provided receipt of delivery is obtained.
+<PAGE>
+
+63
+
+2.  Sent by facsimile: Such communication shall be deemed to have been received,
+under normal service conditions, twenty-four (24) hours following the time of
+dispatch or on confirmation by the receiving Party, whichever is earlier.
+
+3.  Sent by registered or certified mail: Such communication shall be deemed to
+have been received, under normal service conditions, on the day it was received
+or on the tenth day after it was dispatched, whichever is earlier.
+
+B.  For purposes of this Article, the names, addresses and fax numbers of the
+Parties are as detailed below. Any change to the name, address, and facsimile
+numbers may be made at any time by giving thirty (30) days prior written notice.
+
+Tyco Submarine Systems Ltd.
+340 Mt. Kemble Avenue
+Morristown, New Jersey 07960
+Tel: 973-326-2600
+Fax: 973-326-2711
+
+Pan American Crossing Ltd.
+Wessex House
+45 Reid Street
+Hamilton HM12
+Bermuda
+Fax:  441-296-6749/8606
+Attn:  Cameron Adderley
+
+C.  All provisions in this Contract regarding notices, consents, approvals and
+other communications to and from, and other actions taken on behalf of, the
+Contractor are subject to the provisions of Article 42 hereof.
+
+ARTICLE 36  PUBLICITY AND CONFIDENTIALITY
+
+A.  No information relating to this Contract shall be released by either Party
+to any newspaper, magazine, journal or other written, oral or visual medium
+without the prior written approval of an authorized representative of the other
+Party; provided that, subject to Article 20 (Safeguarding of Information and
+Technology) and the following Sub-Article, this Article shall not restrict
+either Party from (i) responding to customary press inquiries or otherwise
+making public or private statements in the normal course of business, so long as
+consistent with a mutually agreed press-release and (ii) assisting in the
+obtaining of financing in accordance with Sub-Article 37(C), including the
+publication of a financial tombstone.
+
+B.  This Contract and any non-public information, written or oral, with respect
+to this Contract, "Confidential Information", will be kept confidential and
+shall not be disclosed, in whole or in part, to any person other than
+affiliates, officers, directors, employees, agents or representatives of a Party
+(collectively, "Representatives") who need to know such Confidential
+<PAGE>
+
+64
+
+Information for the purpose of negotiating and executing this Contract. Each
+Party agrees to inform each of its Representatives of the non-public nature of
+the Confidential Information and to direct such persons to treat such
+Confidential Information in accordance with the terms of this Article. Nothing
+herein shall prevent a Party from disclosing Confidential Information (a) upon
+the order of any court or administrative agency, (b) upon the request or demand
+of, or pursuant to any regulation of, any regulatory agency or authority, (c) to
+the extent reasonably required in connection with the exercise of any remedy
+hereunder, (d) to a Party's legal counsel or independent auditors, (e)
+prospective lenders to the Purchaser or Purchaser's parent companies, and (f) to
+any actual or proposed assignee of all or part of its rights hereunder provided
+that such actual or proposed assignee agrees in writing to be bound by the
+provisions of this Article.
+
+ARTICLE 37  ASSIGNMENT; SUBCONTRACTORS
+
+A.  Except as provided in this Article, neither Party shall assign this Contract
+or any right or interest under this Contract, nor delegate any work or
+obligation to be performed under this Contract ("Assignment"), without the other
+Party's prior written consent which shall not be unreasonably withheld (it being
+understood that it shall be deemed to be reasonable to withhold consent to the
+assignment of this Contract or any rights, interest or obligations hereunder to
+a competitor of Contractor or an affiliate of a competitor or uncreditworthy
+party). Nothing herein shall preclude a Party from employing a subcontractor in
+carrying out its obligations under this Contract. A Party's use of such
+subcontractor shall not release the Party from its obligations or liability
+(including warranties) under this Contract. If a proposed subcontractor of major
+equipment (i.e., equipment listed on Exhibit E) is not listed on Exhibit E
+hereto, Contractor shall obtain approval thereof from Purchaser, which approval
+shall not be unreasonably withheld.
+
+B.  The Contractor has the right to assign all of its rights under this Contract
+or to delegate all of its duties hereunder at any time without the Purchaser's
+consent to any successor to substantially all the assets of the Contractor by
+way of a merger, consolidation or sale of assets provided that in the case of
+any assignment or delegation pursuant to this Sub-Article 37(B) such assignee
+shall assume in writing all warranties, representations and obligations of
+Contractor under this Contract. The Contractor shall give the Purchaser written
+notice 30 days prior to the assignment.
+
+C.  The Parties acknowledge that Purchaser may finance construction of the
+System on a "project finance" basis and that in connection therewith the
+financing parties will require that such financing be secured by certain assets
+of Purchaser (including but not limited to this Contract). The Purchaser may, in
+connection with any such project financing grant a collateral assignment of the
+System and/or its rights and obligations under this Contract to any such
+financing parties, and in connection therewith, the Contractor will execute and
+deliver a Consent, substantially in the form of Exhibit B hereto; provided that
+Contractor agrees to make such changes or additions to such form as may be
+reasonably requested by such financing parties, and Purchaser, and such
+financing parties, may transfer in accordance with such Consent.  Contractor
+will also deliver an Opinion in the form of Exhibit C hereto, and a similar
+opinion of * with respect to the * to Purchaser and such financing parties and
+such other documents as are reasonably requested by such financing parties.
+
+* Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+65
+
+D.  The Purchaser has the right to assign all of its rights and delegate all of
+its duties under this Contract to any other entity to whom all of Purchaser's
+rights and interests in the System have been transferred.  Purchaser also has
+the right (i) to assign all of its rights hereunder with respect to any
+particular Landing Assets to any Transferee, (ii) to assign Permits with respect
+to such Landing Assets, or have Permits with respect to such Landing Assets
+issued in the name of, such Transferee and (iii) to transfer such Landing Assets
+or have such Landing Assets transferred directly to, such Transferee; provided
+that such Transferee shall execute a supplement to this Contract whereby it
+becomes jointly and severally liable, together with Purchaser, for all of
+Purchaser's obligations under this Contract. "Landing Assets" means, with
+respect to each jurisdiction where a portion of the System is located, all or
+part of such portion of the System located therein. It is understood that the
+Purchaser, at its option, may assign and transfer rights with respect to Landing
+Assets in different jurisdictions to different Transferees. Purchaser shall not
+transfer any of its rights under this Contract or the System except in
+accordance with the foregoing. Any assignment or transfer not expressly
+permitted by Sub-Article 37(D) shall be of no force and effect. Any assignment
+or transfer which results in any increase in costs or any loss, damage, delay or
+failure of performance shall constitute a Force Majeure, and, without limiting
+the applicability of Article 17 (Force Majeure), Purchaser shall be responsible
+for any increase in costs resulting therefrom.
+
+ARTICLE 38  RELATIONSHIP OF THE PARTIES
+
+All work performed by a Party under this Contract shall be performed as an
+independent contractor and not as an agent of the other and no persons furnished
+by a Party shall be considered the employees or agents of the other. Each Party
+shall be responsible for its employees' compliance with all Laws while
+performing under this Contract. This Contract shall not form a joint venture or
+partnership between the Parties.
+
+ARTICLE 39  SUCCESSORS BOUND
+
+This Contract shall be binding on the Contractor and the Purchaser and their
+respective successors and permitted assigns.
+
+ARTICLE 40  ARTICLE CAPTIONS
+
+The captions of the Articles do not form part of this Contract and shall not
+have any effect on the interpretation thereof.
+
+ARTICLE 41  SEVERABILITY
+
+If any of the provisions of this Contract shall be invalid or unenforceable,
+such invalidity or unenforceability shall not invalidate or render unenforceable
+the entire Contract, but rather the entire Contract shall be construed as if not
+containing the particular invalid or unenforceable provision or provisions and
+the rights and obligations of the Contractor and the Purchaser shall be
+construed and enforced accordingly. In the event such invalid or unenforceable
+provision is an
+<PAGE>
+
+66
+
+essential and material element of this Contract, the Parties shall promptly
+negotiate a replacement provision.
+
+ARTICLE 42   *
+
+*
+
+ARTICLE 43  SURVIVAL OF OBLIGATIONS
+
+The Parties' rights and obligations, which, by their nature would continue
+beyond the termination, cancellation or expiration of this Contract, including,
+but not limited to, those contained in Sub-Article 4(B) (Taxes, Levies and
+Duties) and Sub-Article 4(C) (Withholding Tax), Article 18 (Intellectual
+Property), Article 20 (Safeguarding of Information and Technology), Article 21
+(Export Control) and Article 23 (Limitation of Liability/Indemnification) shall
+survive termination, cancellation or expiration hereof. Article 10 (Warranty)
+and Article 11 (Contractor Support), shall survive termination, cancellation or
+expiration hereof, if and only if, this Contract is terminated by Purchaser
+pursuant to Sub-Article 13(A).
+
+ARTICLE 44  NON-WAIVER  -
+
+A waiver of any of the terms and conditions of this Contract, or the failure of
+either Party strictly to enforce any such term or condition, on one or more
+occasions shall not be construed as a waiver of the same or of any other term or
+condition of this Contract on any other occasion.
+
+ARTICLE 45  LANGUAGE
+
+This Contract has been executed in the English language and English will be the
+controlling language for interpretation of this Contract.
+
+ARTICLE 46  ENTIRE AGREEMENT
+
+This Contract supersedes all prior oral or written understanding between the
+Parties and constitutes the entire agreement with respect to the subject matter
+herein. Any modification, amendment, waiver, approval or consent given hereunder
+must be evidenced by a writing signed by authorized representatives of all
+Parties.
+
+
+
+*  Material omitted and separately filed with the Commission under an
+application for confidential treatment.
+<PAGE>
+
+67
+
+This Contract is executed in Bermuda by a duly authorized representative of the
+Purchaser, and in Nassau, the Bahamas, by a duly authorized representative of
+Contractor, as set forth below.
+
+TYCO SUBMARINE SYSTEMS LTD.
+
+By:/s/ Adam C. Morton
+Name: Adam C. Morton
+Title: Director, American Region
+
+
+
+PAN AMERICAN CROSSING LTD.
+
+By:/s/ K. Eugene Shutler
+Name: K. Eugene Shutler
+Title: President
+

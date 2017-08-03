@@ -1,0 +1,641 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+
+
+STANDARD HARDWARE PURCHASE AND SOFTWARE LICENSE AGREEMENT
+
+
+This Agreement is made and entered into as of the 21st day of September,
+1998, by and between Monitoring Automation Systems ("MAS") and Security
+Associates International, Inc. ("Customer").
+
+W I T N E S S E T H:
+
+WHEREAS, MAS is a provider of certain computer hardware and software;
+
+WHEREAS, Customer has requested MAS to provide Customer with certain
+hardware and software; and
+
+WHEREAS, MAS is agreeable to selling and licensing such hardware and
+software, respectively, to Customer on the terms and conditions set forth
+herein.
+
+NOW, THEREFORE, In consideration of the representations, warranties,
+covenants and agreements herein contained, the sufficiency of which is hereby
+acknowledged, the parties hereto agree as follows:
+
+1. THE EQUIPMENT
+
+1.1 SALE OF EQUIPMENT. MAS agrees to sell to Customer and Customer agrees
+to buy, on the terms and conditions set forth herein, the computer equipment
+listed in the System Purchase Form(s) (the "Equipment").
+
+1.2 PRICE AND PAYMENT. The purchase price for the Equipment (excluding
+freight, taxes, and insurance which Customer shall pay) to be paid by Customer
+and payment terms for the Equipment are set forth in the System Purchase
+Form(s).
+
+1.3 DELIVERY, INSTALLATION AND ACCEPTANCE.
+
+(a) MAS shall deliver the Equipment in accordance with its delivery
+schedule as set forth in the System Purchase Form.
+
+(b) Customer has elected MAS Installation Services. MAS shall install
+the Equipment at Customer's site, which site shall be readied by Customer in
+accordance with applicable specifications provided by MAS. Installation shall
+include successful operation of the Equipment using MAS's standard test
+procedures reasonably acceptable to Customer. Acceptance of the Equipment at
+each location hereunder shall be deemed to have occurred upon the earlier of:
+(i) the first live productive use of the Equipment, or (ii) thirty (30) days
+after installation of the Equipment at Customer's location provided that within
+said thirty (30) days Customer does not notify MAS, in writing, of a specific
+claimed defect of the Equipment to conform in all material respects to the
+
+
+<PAGE>   2
+
+
+published specifications thereof which are determined by MAS to be bona fide.
+Should Customer notify MAS within the time period set forth above of a defect
+which is determined by MAS to be bona fide, acceptance shall occur upon MAS
+remedying said defect. If a claimed defect is determined by MAS not to be bona
+fide, the time for acceptance of the Equipment shall not be affected and
+Customer shall reimburse MAS on a time and materials basis, including all
+expenses incurred by MAS for all services performed in connection therewith.
+
+1.4 EQUIPMENT WARRANTY. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, MAS DOES
+NOT MAKE, AND EXPRESSLY DISCLAIMS, ANY AND ALL WARRANTIES WITH RESPECT TO THE
+EQUIPMENT PROVIDED HEREUNDER INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. MAS WILL ASSIGN TO
+CUSTOMER ANY WARRANTY OFFERED BY THE MANUFACTURER OF SAID EQUIPMENT TO THE
+EXTENT SAID WARRANTIES MAY BE ASSIGNED.
+
+1.5 STANDARD MANUFACTURER AGREEMENTS. To receive the Equipment Warranty and
+Licensed Software (defined below) Warranties as hereinafter provided, Customer
+must execute applicable agreements for either MAS's Equipment maintenance
+services or other MAS approved maintenance service for the Equipment.
+
+1.6 CONFIDENTIALITY.
+
+(a) MAS acknowledges that in fulfilling its obligations under this
+Agreement, it may have access to Customer information which is private,
+confidential and proprietary in nature ("Customer Confidential Information").
+MAS represents and warrants that it will restrict access to Customer
+Confidential Information solely to its employees who require access to such
+information in order to fulfill MAS's obligations under this Agreement. Neither
+MAS, its officers, employees or agents shall disseminate or further copy,
+duplicate or otherwise communicate any Customer Confidential Information to any
+third party whatsoever without the written consent of an executive officer of
+Customer. MAS acknowledges that a breach of the confidentiality provisions of
+this Agreement may result in serious and irreparable harm to Customer for which
+there is no adequate remedy at law. In the event of such a breach, Customer
+shall be entitled to seek any temporary or permanent injunctive or other
+equitable relief in addition to any monetary damages hereunder. MAS acknowledges
+that Customer's disclosure of information regarding MAS, the Equipment or MAS's
+business to Customer's State or Federal regulatory agencies as required by
+applicable laws and regulations or as a result of judicial process shall not be
+deemed a violation of the confidentiality provisions of this Agreement.
+
+(b) Customer acknowledges that in fulfilling its obligations under this
+Agreement, it may have access to MAS information which is private, confidential
+and proprietary in nature ("MAS Confidential Information"). Customer represents
+and warrants that it will restrict access to MAS Confidential Information solely
+to its employees who require access to such information in order to fulfill
+Customer's obligations under this Agreement. Neither Customer, its officers,
+
+
+
+2
+
+<PAGE>   3
+
+
+
+employees or agents shall disseminate or further copy, duplicate or otherwise
+communicate any MAS Confidential Information to any third party whatsoever
+without the written consent of an executive officer of MAS. Customer
+acknowledges that a breach of the confidentiality provisions of this Agreement
+may result in serious and irreparable harm to MAS for which there is no adequate
+remedy at law. In the event of such a breach, MAS shall be entitled to seek any
+temporary or permanent injunctive or other equitable relief in addition to any
+monetary damages hereunder. Customer acknowledges that MAS's disclosure of
+information regarding Customer, the Equipment or Customer's business to MAS's
+State or Federal regulatory agencies as required by applicable laws and
+regulations or as a result of judicial process shall not be deemed a violation
+of the confidentiality provisions of this Agreement.
+
+(c) Customer Confidential Information and MAS Confidential Information
+for purposes hereof shall include any and all software, agreements, policies,
+customer lists, customer data and any other information which relates to
+Customer's or MAS's (as appropriate) (or a third party's) data processing,
+research and development, trade secrets or business affairs, but does not
+include: (i) written information legally acquired prior to negotiations leading
+to this Agreement, (ii) information which is or becomes a matter of public
+knowledge, and (iii) information which is or becomes available from third
+parties who in making such disclosure breach no confidentiality obligation.
+
+1.7 TITLE TO EQUIPMENT. MAS warrants that it shall have good title to any
+Equipment purchased by Customer under this Agreement, free and clear of all
+liens and encumbrances. Title to the Equipment shall vest in and risk of loss or
+damage shall pass to Customer upon delivery of the Equipment to the common
+carrier for shipping ("Delivery Date"). Until Customer pays in full the total
+price due for each piece of Equipment as specified in the System Purchase
+Form(s), MAS shall have a security interest in such piece of Equipment. Customer
+agrees to execute, promptly upon demand by MAS, any financing statement,
+security agreement and like documents and to take any other action reasonably
+requested by MAS in order to perfect MAS's security interest hereunder.
+
+2. THE LICENSED SOFTWARE
+
+2.1 THE LICENSE. Subject to the following terms, MAS hereby grants to
+Customer, and Customer hereby accepts from MAS, a perpetual, non-exclusive, and
+non-transferable license (the "License") to use the computer software and
+documentation specified in the System Purchase Form(s) (hereinafter "Licensed
+Software") terminable as provided herein. The Licensed Software and Equipment
+are together referred to as the "System."
+
+2.2 USE OF LICENSED SOFTWARE. (a) The Licensed Software shall be used only
+with the Equipment and at the Customer site identified in the System Purchase
+Form(s). Licensed Software may be utilized for the benefit of Customer, its
+subsidiaries, affiliates and any direct or indirect parent or any subsidiary of
+such parent ("Affiliate"). The Customer may not copy the Licensed Software or
+permit the same to be copied, except to create three copies of the Licensed
+Software in machine-readable form for bona fide back-up or archival purposes and
+only in support of the use of
+
+
+3
+
+<PAGE>   4
+
+
+the Licensed Software on the Equipment. Each copy shall include all copyright
+and trade secret notices existing on the Licensed Software displayed in the
+manner originally displayed on the Licensed Software. Customer shall not adapt
+the Licensed Software in any way or use it to create a derivative work.
+
+(b) MAS shall supply to Client the standard MAS documentation necessary
+for Customer to use the System.
+
+(c) Any updates, replacements, revisions, enhancements, additions or
+conversions to the Licensed Software or any associated documentation supplied to
+Customer by MAS shall become a part of the Licensed Software and be subject to
+this Agreement.
+
+2.3 TERM. The License shall commence on the Delivery Date and will remain
+in effect unless terminated pursuant to this Agreement.
+
+2.4 LICENSE FEE AND PAYMENT. The license fee and payment terms for the
+Licensed Software are as set forth in the System Purchase Form(s).
+
+2.5 LICENSED SOFTWARE OWNERSHIP; NON-INFRINGEMENT. MAS represents and
+warrants that it is the owner of the Licensed Software or an authorized licensee
+thereof with full right to license such Licensed Software to Customer as
+provided in this Agreement, and that neither the Licensed Software or any part
+thereof, nor Customer's use thereof in the manner provided for herein, infringes
+or misappropriates any copyright, patent, trade secret, mask work or other
+proprietary right of any third party. Subject to the terms of this Agreement,
+MAS agrees to indemnify and hold Customer harmless from any damages resulting
+from any infringement claim. In the event any such infringing Licensed Software
+is embedded in another MAS product or in the operating system of a third party,
+and the operation of such product (hardware or software) is materially affected
+by the inability to use the infringing Licensed Software, Customer shall be
+entitled to a full refund with respect to such product. In the event a third
+party claims that the Licensed Software infringes its patent, copyright or trade
+secret, or any other proprietary right, MAS will (i) procure for Customer the
+right to continue using the Licensed Software, (ii) replace or modify for
+Customer the Licensed Software or such infringing portion thereof so that it no
+longer infringes such patent, copyright, trade secret or other proprietary
+right, or (iii) refund the total amount of the fees paid by Customer if the
+utility or performance of the Licensed Software is materially adversely affected
+by such replacement or modification or the Licensed Software does not materially
+conform with the Specifications. As long as Customer is not in default
+hereunder, MAS, its agents or employees shall not deactivate the System provided
+under the Agreement fully, in part, or in any other manner; further, MAS, its
+agents or employees shall not introduce or install at any time deactivation
+device(s) or similar program(s); provided, however, that in the event that MAS
+properly takes such action hereunder, MAS shall first notify Customer at least
+thirty (30) calendar days prior to taking such action. In no event shall MAS,
+its agents or employees or anyone acting on its behalf, disable any other
+software or hardware used by Customer.
+
+
+4
+
+<PAGE>   5
+
+
+2.6 DELIVERY OF LICENSED SOFTWARE AND ACCEPTANCE/RISK OF LOSS.
+
+(a) Each Licensed Software product, as designated on the System
+Purchase Form(s) ("Licensed Software Product"), shall be delivered in accordance
+with MAS's delivery schedule as set forth on the System Purchase Form.
+
+(b) Each Licensed Software product at each of Customer's locations
+hereunder, as designated on the System Purchase Form(s) ("Licensed Software
+Product"), shall be delivered in substantial accordance with MAS' delivery
+schedule, and deemed accepted upon the earlier of: (i) the first live productive
+use of the Licensed Software Product; or (ii) thirty (30) days after the
+installation of the Licensed Software Product at Customer's location provided
+that within said thirty (30) days Customer does not notify MAS, in writing, of a
+specific claimed defect of the Licensed Software Product to conform in all
+material respects to the published specifications thereof which is determined by
+MAS to be bona fide. Should Customer notify MAS within the time period set forth
+above of a defect which is determined by MAS to be bona fide, acceptance shall
+occur upon MAS' remedying said defect. If a claimed defect is determined by MAS
+not to be bona fide, the time for acceptance of the Licensed Software shall not
+be affected and Customer shall reimburse MAS on a time and materials basis,
+including all expenses incurred by MAS for all services performed in connection
+therewith. No payment made hereunder shall constitute acceptance by Customer of
+the System or any part thereof.
+
+2.7 LICENSED SOFTWARE WARRANTY. (a) Subject to Paragraph 4.3 herein, MAS
+warrants that for a period of six (6) months from the Acceptance Date, the
+Licensed Software Product shall perform in accordance with the Specifications
+for the Licensed Software Product. In the event that the Licensed Software does
+not perform in accordance with the Specifications, MAS shall, at no cost to
+Customer, make such modifications, adjustments or additions necessary to make
+the Licensed Software conform to the Specifications or (if hardware or Licensed
+Software cannot be made to conform to the Specifications within a reasonable
+time) provide Customer with a full refund of any fees paid.
+
+(b) MAS represents and warrants that the System licensed or purchased
+under this Agreement is capable of supporting Year 2000 functionality and will
+function in a multi-century environment. For purposes hereof, "supporting Year
+2000 functionality" shall mean that the System must provide fault free
+performance in the processing of dates and date related data, including, but not
+limited to calculating, comparing and sorting. "Fault free performance" means
+the correct manipulation of data containing dates prior to, through and beyond
+January 1, 2000 (including leap year computations) without human intervention.
+MAS agrees that it shall be liable for any damages resulting from any breach of
+this provision. Any modifications required to conform the products to Year 2000
+functionality will be made by MAS free of charge.
+
+(c) MAS warrants that the Licensed Software as delivered by MAS to
+Customer or as modified by MAS hereunder is free from computer viruses
+introduced into the Licensed Software as a result of the acts of MAS, its agents
+and employees and that the Licensed Software will
+
+
+5
+<PAGE>   6
+
+
+be free of software traps, time-bombs, technically limiting devices and/or
+viruses, worms, or code (including any disabling device or code whatsoever)
+which would interfere with the intended use of the Software in accordance with
+the Specifications or which destroy or alter Customer's data.
+
+2.8 MODIFICATIONS AND CUSTOMIZATIONS. Modifications and/or customization
+services relating to the Licensed Software are available solely through MAS on a
+special quotation or time and material basis subject to a separate agreement to
+be entered between Customer and MAS for such services. Any and all such
+modifications and/or customizations ("Custom Modifications") shall be the
+property of MAS and shall be subject to the terms and conditions hereof.
+
+3. TRAINING
+
+3.1 TRAINING. MAS shall make available to Customer reasonable training,
+pursuant to MAS's standard training procedures and fees. In providing the
+training and the other services hereunder, MAS agrees to cause its employees,
+contractors, and agents to obey all rules and regulations of Customer in effect
+at Customer's premises, including any security requirements and any reasonable
+instructions and directions issued by Customer.
+
+4. LIMITATION OF WARRANTY AND LIABILITY
+
+4.1 DISCLAIMER OF WARRANTY. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, MAS
+MAKES NO WARRANTIES, EXPRESS OR IMPLIED INCLUDING, BUT NOT LIMITED TO, IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+4.2 LIMITATION OF LIABILITY. EXCEPT FOR DAMAGES RESULTING FROM YEAR 2000
+FUNCTIONALITY, INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD
+PARTY OR VIOLATIONS OF THE CONFIDENTIALITY PROVISIONS OF THIS AGREEMENT, NEITHER
+PARTY SHALL HAVE ANY LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS
+AGREEMENT OR OTHERWISE FOR SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR
+EXEMPLARY DAMAGES EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. IN NO EVENT SHALL EITHER PARTY'S LIABILITY TO THE OTHER PARTY FOR ANY
+REASON AND UPON ANY CAUSE OF ACTION WHATSOEVER EXCEED THE AMOUNTS PAID
+HEREUNDER.
+
+5. INDEMNITY
+
+5.1 Subject to the limitation of liability of MAS set forth herein, MAS
+agrees to indemnify and hold Customer harmless from any liability, loss or
+damage whatsoever for any injury or damage to persons or damage to physical
+property caused by the acts of MAS or its agents, employees or representatives.
+MAS agrees to maintain comprehensive general liability and property damage
+insurance coverage for bodily injuries to persons and damage to physical
+property with
+
+
+6
+
+
+<PAGE>   7
+
+
+limits of at least $1,000,000 for bodily injury to persons and $1,000,000 for
+damage to physical property.
+
+6. SOFTWARE SUPPORT AND MAINTENANCE
+
+6.1 SYSTEM SUPPORT OBLIGATIONS. If Customer has elected to receive system
+support services, then commencing upon acceptance of both the Equipment and
+Licensed Software, MAS agrees to provide the support services described in this
+Section 6 ("System Support Services") for the System on an annual basis upon
+payment of MAS's then standard annual support fee which shall be due and payable
+as set forth in Section 7 below. System Support Services shall be automatically
+renewed for successive one year terms. MAS shall invoice Customer thirty (30)
+days in advance for the System Support Services fee. MAS reserves the right to
+change the annual System Support Services fee at the annual renewal date,
+provided that no increase in the fee will be in excess of the sum of the
+Consumer Price Index plus 5%.
+
+6.2 SYSTEM SUPPORT SERVICES. MAS will provide System Support Services as
+follows:
+
+6.2.1 Reasonable telephone consulting ("Hotline" support) for an
+individual employed by Customer who shall be the MAS trained contact and an
+alternate regarding Licensed Software features and procedures.
+
+6.2.2 Maintenance of each Licensed Software Product so that each
+Licensed Software Product shall conform in all material respects to the
+Specifications thereof.
+
+6.2.3 Product and user information such as newsletters.
+
+6.3 LICENSED SOFTWARE UPDATES. For as long as Customer is subscribing to
+System Support Services, MAS shall make available to Customer at no additional
+charge (other than maintenance fees provided for hereunder or charges relating
+to additional system requirements) all Licensed Software product updates and
+documentation updates as said updates are released to MAS's general customer
+base. MAS agrees to provide maintenance and support of the Licensed Software in
+its then-current version as well as the two immediately prior versions.
+
+6.4 SUPPORT AND MAINTENANCE REQUIREMENTS.
+
+6.4.1 The Customer contact and alternate for the Licensed Software must
+have both received the applicable MAS training.
+
+6.4.2 An MAS approved modem must be available on the System to permit
+MAS to diagnose and correct problems.
+
+6.4.3 If the Licensed Software has been modified pursuant to Paragraph
+2.8 above, or otherwise, Customer is responsible for incorporating those
+modifications in any updated
+
+
+
+7
+<PAGE>   8
+
+
+version of the Licensed Software provided by MAS hereunder. MAS will use
+its reasonable best efforts to incorporate modifications in a new release
+on a time and material basis upon request and subject to personnel
+availability.
+
+6.4.4 All services described in this Agreement are intended to be
+performed at MAS's facility. On-site support will be made available, upon
+request, MAS's then prevailing published rates plus reasonable travel
+costs.
+
+6.4.5 Ongoing support for Custom Modifications pursuant to Paragraph
+2.8 herein is only available on a time and material basis and subject to
+personnel availability.
+
+6.5 [INTENTIONALLY OMITTED.]
+
+6.6 TERMINATION OF SYSTEM SUPPORT SERVICES. Either party may terminate
+System Support Services by giving ninety (90) days written notice to the other
+party prior to the commencement of an annual renewal period; provided, however,
+that as long as Customer is not in default hereunder, MAS shall not terminate
+System Support Services prior to the fifth anniversary of the effective date of
+this Agreement.
+
+6.7 SOURCE CODE ESCROW. MAS agrees to maintain at Customer's expense the
+source code for any Licensed Software licensed under the Agreement, in both
+human and machine readable form in escrow for the benefit of Customer. In the
+event that MAS becomes subject to any bankruptcy proceedings, whether voluntary
+or involuntary, ceases its business operations or refuses or provide or allow
+maintenance service as agreed by the parties (assuming no default hereunder by
+Customer), Customer shall be entitled to access to the source code for the
+purposes of maintaining and updating the Licensed Software.
+
+7. RIGHTS AND OBLIGATIONS
+
+7.1 STANDARDS OF WORK. Throughout the term of the Agreement, MAS agrees to:
+(i) ensure that all work and materials furnished under this Agreement will be
+strictly in accordance with all applicable Federal, state, municipal and other
+laws, ordinances and regulations; (ii) comply with all installation, operation
+and maintenance instructions for the System; (iii) remove and repair (at MAS's
+own expense) any and all portions of the System and other work performed by MAS
+not in accordance with the requirements of subsections (i) and (ii) above and
+will, at its own expense, reinstall such portions of the System and perform
+other work in accordance herewith; (iv) use its best efforts to notify Customer
+of any observed conditions within the System's environment which seem to be
+inconsistent with the Specifications.
+
+7.2 PRICES. Prices are based on list price at the time of order as
+indicated on the System Purchase Form(s) or on quoted price prior to expiration
+of quotation. Any prices not set forth herein or in a System Purchase Form or
+similar document are subject to change by MAS without notice. Unless otherwise
+stated, all prices are exclusive of state and local sales, use, and similar
+taxes. Such
+
+
+8
+
+
+<PAGE>   9
+
+
+present or future taxes, when applicable, will appear as separate additional
+items on invoices unless Customer provided MAS with a tax exemption or resale
+certificate acceptable to the taxing authorities.
+
+7.3 CANCELLATION OR RESCHEDULING. In the event Customer issues a change
+order causing a delivery delay or cancels purchased products prior to the
+scheduled ship date, Customer will be subject to charges shown below which are
+based on the list price at the time of order of the affected products. In
+addition, any change in delivery date by Customer which establishes a delivery
+date greater than one hundred eighty (180) days from Customer's original order
+date shall constitute a new order for the affected products and the prices shall
+be adjusted to reflect the price on the latter of receipt of the change order or
+six (6) months prior to the new delivery date.
+
+<TABLE>
+<CAPTION>
+DAYS PRIOR TO DELIVERY SCHEDULE                    % OF LIST PRICE
+<S>                                                         <C>
+90-60 DAYS                                                  10%
+59-45 DAYS                                                  15%
+44-31 DAYS                                                  25%
+30 DAYS OR LESS                                             35%
+</TABLE>
+
+
+7.4 SITE. The Customer shall be responsible for providing and maintaining
+an environment for the Equipment in accordance with applicable MAS
+specifications.
+
+7.5 DELAY. Any dates or times when MAS is required to perform under this
+Agreement shall be automatically postponed to the extent that MAS is prevented
+from meeting such dates or times by Customer or by causes beyond MAS's
+reasonable control, and provided further that the sole effect of any delay by
+MAS excluding those caused by Customer shall be a delay in Customer's
+obligations to make payment for the same length.
+
+7.6 TAXES. Customer shall, in addition to the payments required hereunder,
+pay all sales, use, transfer, or other duties or taxes, whether international,
+national, state or local, however designated, which are levied or imposed by
+reason of the transactions completed hereby excluding any taxes on the income or
+employees of MAS. Customer shall reimburse MAS for the amount of any such taxes
+paid or accrued by MAS as a result of the transactions contemplated hereby,
+provided MAS provides prompt notice to Customer of such taxes. In the event MAS
+fails to promptly notify Customer of taxes to be paid by Customer hereunder, MAS
+shall reimburse Customer for fifty percent (50%) of any penalties or interest
+assessed against Customer to the extent caused by such failure.
+
+7.7 PAYMENT. All invoices are due within thirty (30) days of the invoice
+date. All payments shall be made in United States Dollars. If Customer fails to
+pay any undisputed amount due within thirty (30) days of the invoice date, late
+charges of one and one half percent (1 2%) per month shall also become payable
+by Customer to MAS.
+
+
+9
+<PAGE>   10
+
+
+7.8 DEFAULT. In the event of a material breach of the terms of the
+Agreement, the non-breaching party shall be entitled to terminate this Agreement
+if the breaching party does not remedy such breach within 30 days (or 10 days if
+such breach is based on Customer's failure to pay amounts properly due and owing
+hereunder) after receiving written notice from the non-breaching party. In the
+event that either party commences legal action to enforce the terms of this
+Agreement, the prevailing party shall be entitled to recover from the
+non-prevailing party, reasonable attorney's fees and costs, in addition to any
+monetary damages hereunder, at both trial and appellate levels. If MAS fails to
+provide the services contracted for under this Agreement when due, or otherwise
+breaches this Agreement, and MAS does not cure such breach as provided in this
+Agreement, Customer may, in addition to any other remedies available at law or
+in equity, (i) immediately cancel or suspend this Agreement receiving a full
+refund for any prepaid amounts covering products or services not received,
+and/or (ii) contract with a third party to provide the required services with
+MAS reimbursing Customer the commercially reasonable price of such services in
+excess of the contract amount for such services hereunder (subject to the
+limitation of liability of MAS hereunder).
+
+8. GENERAL
+
+8.1 ENTIRE AGREEMENT. This Agreement together with the System Purchase
+Form(s) are the complete understanding and agreement of the parties with respect
+to the subject matter hereof and supersedes and merges any prior understanding
+or agreements.
+
+8.2 ASSIGNMENT. This Agreement shall be binding upon the parties and their
+respective successors and assigns. Neither party may assign this Agreement or
+any of its rights, duties, or obligations hereunder, in whole or in part, to any
+person or entity without the prior written consent of the other party. This
+Agreement may be utilized for the benefit of Customer or any of Customer's
+Affiliates. This Agreement may be assigned among any Affiliate without the
+consent of MAS. The parties further agree that the transfer of control of
+Customer to an Affiliate shall not require the consent of MAS.
+
+8.3 SURVIVAL. All provisions of this Agreement relating to Year 2000,
+confidentiality or non-disclosure shall survive the termination of this
+Agreement.
+
+8.4 NO WAIVER. The failure of either party to exercise any right in any
+respect provided for herein shall not be deemed a waiver of such right or of any
+other or future right hereunder.
+
+8.5 SEVERABILITY. In the event that any provision of the Agreement shall be
+held to be void or unenforceable by a court of law, such provision shall be
+eliminated and shall not effect the validity of any remaining provision.
+
+8.6 MODIFICATION. This Agreement may not be modified except by a writing
+subscribed to by both parties.
+
+8.7 [INTENTIONALLY OMITTED.]
+
+
+
+10
+
+
+<PAGE>   11
+
+
+8.8 USE OF CUSTOMER'S NAME. MAS shall not be entitled to use Customer's
+name or the name of any subsidiary, parent or affiliated entity or Customer or
+any trade name, trademark or service mark belonging to the entities described
+above in printed brochures, press releases, or in any form of advertising for
+any product, service or technology without the prior written consent of an
+executive officer of Customer.
+
+8.9 PURCHASE ORDERS. If either party uses a purchase order or similar
+document to order Licensed Software or Equipment, or portions thereof, the other
+party's acceptance of such order will be conditioned upon the document's
+referencing the Agreement; in addition, the terms of this Agreement, and not
+those contained in such purchase order or similar document, shall apply unless
+otherwise agreed in writing by both parties.
+
+8.10 [INTENTIONALLY OMITTED.]
+
+8.11 NOTICES. All notices and other communications hereunder shall be in
+writing and shall be deemed duly given if delivered in person or by courier or
+if sent by certified or registered mail, postage prepaid, to the following:
+
+If to MAS:
+
+Monitoring Automation Systems
+101 Academy, Suite 100
+Irvine, CA 92612
+Attention:  Steven W. Keefer, President
+
+
+
+11
+
+
+<PAGE>   12
+
+
+
+If to Customer:
+
+Security Associates International, Inc.
+2101 South Arlington Heights Road
+Arlington Heights, IL 60605
+Attention:  Ron Carr, Vice President, C.O.O.
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Standard Hardware
+Purchase and Software License Agreement to be executed by their authorized
+representatives on the day and year first above written.
+
+
+Security Associates International, Inc.     Monitoring Automation Systems
+
+
+By:                                         By:
+Title:                                      Title:
+Date:                                       Date:
+
+
+12
+
+
+

@@ -1,0 +1,3490 @@
+
+
+
+
+
+
+
+Cost Plus Incentive Construction Contract
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Exhibit 10.52
+COST PLUS INCENTIVE CONSTRUCTION CONTRACT
+THIS COST PLUS INCENTIVE CONSTRUCTION CONTRACT (this “Agreement”) is entered into as of August 8, 2007 (“Effective Date”), by
+and between HOKU MATERIALS, INC., a Delaware corporation with its principal office located at 1 Hoku Way, Pocatello, Idaho 83204 (“Owner”), and JH KELLY LLC, a Washington limited liability company with its principal office located at 821
+3rd Avenue, Longview, WA 98632 (“Contractor”). Owner and Contractor are each referred to herein as a “Party” or together as the “Parties”.
+RECITALS
+WHEREAS, Owner is seeking a general contractor to provide construction services for
+Owner’s polysilicon production and processing plant to be located in Pocatello, Idaho as more fully described on the Statement of Work attached hereto as Exhibit A (the “Project”);
+WHEREAS, Contractor is a licensed general contractor and is able and desires to provide to Owner those services to construct the Project as set forth
+herein; and
+WHEREAS, in connection with the provision of those services, Owner and Contractor desire to enter into this Agreement to
+provide for the mutual benefits to be realized by the parties as a result of this Agreement and the specific considerations, terms and conditions set forth herein:
+NOW, THEREFORE, for and in consideration of the premises and the mutual promises and covenants contained herein, the parties hereto agree as follows:
+AGREEMENT
+
+
+1	DEFINITIONS
+
+For purposes of this Agreement, the following capitalized
+terms shall have the meanings set forth below.
+1.1 “Budget Incentive” means a fee earned by Contractor for meeting or exceeding
+a predetermined Budget goal.
+1.2 “Change” means an addition to, modification of, substitution for, or deletion of any work,
+manner of performance, or other obligation required by the Contract Documents and estimated by Owner and Contractor to affect the time required for performance of the Work under the Statement of Work or to increase or decrease the cost of performing
+the Work.
+1.3 “Claim” means a demand or assertion by a party to this Agreement seeking, as a matter of right, adjustment to,
+interpretation of, or relief from the terms and conditions of the Contract Documents; payment of money; extension of time; or other relief with respect to the Contract Documents. The term “Claim” also includes other disputes and matters
+between Owner and Contractor arising out of or relating to the Agreement. Claims must be initiated by written notice. The responsibility to substantiate a Claim shall rest with the party making the Claim. Pending final resolution of a Claim,
+Contractor shall proceed diligently with performance of the Work under this Agreement and Owner shall continue to make undisputed payments in accordance with the Contract Documents.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 1 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+1.4 “Construction Documents” mean the documents required by Contractor to construct the facility including but not limited to; scope of work, technical specifications, engineered drawings and Project
+Schedule.
+1.5 “Contract Documents” means of this Agreement and all conditions of the contract (general, supplementary and other
+conditions), modifications, exhibits, drawings, specifications, addenda or other documents listed in this Agreement. Unless specifically enumerated in the Agreement, the Contract Documents do not include other documents such as bidding requirements
+(advertisement or invitation to bid, instructions to bidders, sample forms, Contractor’s bid or portions of addenda relating to bidding requirements). The intent of the Contract Documents is to include all items necessary for the proper
+execution and completion of the Work by Contractor. The Contract Documents are complementary, and what is required by one shall be as binding as if required by all.
+1.6 “Contract Time” means the number of consecutive calendar Days, including authorized adjustments, calculated starting from the Effective Date to the agreed upon dates set forth in the Project Schedule.
+
+1.7 “Cost of the Work” means the reimbursable costs specified in Exhibit C incurred by Contractor in the proper
+performance of Work to complete the Project under this Agreement.
+1.8 “Day” means a calendar Day unless otherwise specifically
+noted in the Agreement.
+1.9 “Drawings” means the graphic and pictorial portions of the Contract Documents showing the design,
+location and dimensions of the Work, generally including plans, elevations, sections, details, schedules and diagrams, including the drawings attached as Appendix 1 to Exhibit A of this Agreement.
+1.10 “Extra Work” means an item of work or a manner of performance that results from a Change, that is outside the scope of the Work as
+described in the Statement of Work and which is estimated by Owner and Contractor to affect the time required for performance of the Work or to increase or decrease the cost of performing the Work.
+1.11 “Final Invoice” is the invoice submitted by Contractor to Owner for all final cost items including but not limited to; subcontractor
+invoices, demobilization of site, completion of punch list items and all other cost items and/or invoice reconciliations.
+1.12
+“Fee” means the fee charged by Contractor for constructing the facility for Owner, which is calculated as a percentage of Contractor’s Cost of the Work as set forth on Exhibit C to this Agreement.
+1.13 “Hazardous Substance” means any and all chemicals, constituents, contaminants, pollutants, materials, and wastes and any other
+carcinogenic, corrosive, ignitable, radioactive, reactive, toxic or otherwise hazardous substances or mixtures (whether solids, liquids, gases), or any substances now or at any time subject to regulation, control, remediation or otherwise addressed
+as a hazardous substance under the applicable laws of the Site, including those laws, regulations and policies relating to the discharge, emission, spill, release, or threatened release into the environment or relating to the disposal, distribution,
+manufacture, processing, storage, transport, treatment, transport, or other use of such substances.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 2 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+1.14 “Incentive Fee” means the Budget Incentive, the Schedule Incentive and/or the Safety Incentive, as applicable.
+1.15 “Mechanical Completion” means, except for non-critical and punch list items, (i) all production equipment is substantially installed and checked for alignment, calibration, lubrication, rotation,
+and hydrostatic and/or pneumatic pressure integrity; (ii) the appropriate systems have been flushed and cleaned; and (iii) the Work is substantially ready to commence commissioning and start-up activities.
+1.16 “Mechanical Completion Date” is defined in Section 11.2 of this Agreement.
+1.17 “Modification” means (1) a written amendment to the Contract signed by both parties, (2) a Change order, (3) a construction
+change directive or (4) a written order for a minor change in the Work issued by or on behalf of Owner; any of which may result in the submittal of a Target Price Revision requesting additional monies and/or time.
+1.18 “Person” means any natural or juridical Person, including, but not limited to, corporations, partnerships, joint ventures, and any other
+business association or organization.
+1.19 “Preliminary Reactor Test Demonstration” means that two or more polysilicon
+deposition reactors at the Site are set-up such that they may be put into short term testing and operation to produce polysilicon (permanent connections, automatic controls, etc. are not required for this milestone) independent of the full facility.
+
+1.20 “Safety Incentive” means a fee that may be earned by Contractor if it meets or exceeds the predetermined Safety goal as set
+forth in Section 9.2.2.3 of this Agreement.
+1.21 “Schedule Incentive” means a fee that may be earned by Contractor if it
+meets or exceeds the predetermined Schedule goals as set forth in Section 9.2.2.2 of this Agreement.
+1.22 “Site” means the
+property or premises of Owner where Work is to be performed by Contractor pursuant to this Agreement as described on Appendix 1 to Exhibit A of this Agreement.
+1.23 “Specifications” means that portion of the Contract Documents consisting of the written requirements for materials, equipment, systems,
+standards and workmanship for the Work, and performance of related services.
+1.24 “Statement of Work” means the statement
+describing the scope of the Work to be performed by Contractor to complete the Project, and is set forth on Exhibit A to this Agreement.
+1.25 “Subcontractor” means any Person that has a contract with Contractor, regardless of tier, to perform any portion of the Work or to supply equipment, materials, supplies, labor and/or other goods and
+services in connection with the performance of the Work required of Contractor under this Agreement.
+1.26 “Substantial
+Completion” shall be achieved when: (i) Mechanical Completion of the Work has been acknowledged by the Owner and engineer in writing; (ii) final lien waivers and releases and other documents or inspections reasonably required by
+Owner’s engineer or lender have been delivered; (iii) the Contractor has delivered the job books and as-built drawings; (iv) all the Contractor’s
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 3 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+supplies, personnel and rubbish have been removed from the Site; and (v) all punch list items have been completed (or otherwise resolved by agreement of
+the Owner and the Contractor.
+1.27 “Target Price Revision” means a written instrument signed by Owner and Contractor stating
+their agreement upon all of the following: (a) a change in the Work or authorizing Extra Work; (b) the amount of the adjustment, if any, in the Contract Price; and, (c) the extent of the adjustment, if any, in the Contract Time.
+
+1.28 “Work” means the consulting, material procurement, inspection, maintenance, and construction services required by the
+Contract Documents; and includes all labor, equipment machinery, tools, materials, supplies, services, and testing necessary to fulfill Contractor’s obligations under the Contract Documents to complete the Project as set forth in the Statement
+of Work.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 4 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+2	SCOPE OF WORK AND PERFORMANCE OF SERVICES
+
+2.1 The terms
+of this Agreement shall apply to Contractor’s performance of Work and/or presence on Owner’s property, unless expressly modified by a Change Order. Any modification of the terms of this Agreement by a Change Order shall only apply to
+Contractor’s performance of Work and/or presence on Owner’s property under that Change Order.
+2.2 The basis of the Work is the
+construction by Contractor of the Project.
+2.3 It is expressly agreed and understood by Contractor that any materials, supplies, or items
+of machinery, equipment, or tools provided by Contractor in the performance of the Work shall be so provided, pursuant only to the terms and conditions set forth in this Agreement. Any preprinted or handwritten terms and conditions or similar
+provisions attached to or appearing on the face or reverse side of, or attached to, Contractor’s order acknowledgments, delivery tickets, invoices, price lists, or other similar documents, are null and void and the terms and conditions of this
+Agreement (and the other applicable Contract Documents) shall control.
+2.4 Owner and Contractor acknowledge that Work under this Agreement
+shall not include the handling, transportation, or removal of any Hazardous Substance from Owner’s property. Should the Work performed by Contractor require the handling, transportation, or removal of any such Hazardous Substance, Contractor
+shall immediately notify Owner’s Representative and Owner shall provide further instructions on how the Hazardous Substance shall be handled.
+
+
+3	CERTAIN OBLIGATIONS OF CONTRACTOR
+
+3.1 Project Manager.
+Contractor designates Pat Wilson as its representative (“Project Manager”) who is fully authorized to act on behalf of Contractor for the purpose of receiving instructions from Owner, receiving communications from Owner, requesting
+approvals required or permitted under this Agreement and otherwise representing Contractor. All notices, requests, approvals and other communications provided to Owner by the Project Manager shall be deemed to have been provided by Contractor and
+all notices, instructions, requests, approvals and other communications provided to the Project Manager by Owner shall be deemed to have been received by Contractor. Contractor may designate one or more successor Project Manager(s) by written notice
+to Owner from time to time.
+3.2 Review and Execution.
+3.2.1 Contractor represents that Contractor has visited the Site, and has correlated personal observations with requirements of the Contract Documents.
+3.2.2 Before starting each portion of the Work, Contractor shall carefully study the Contract Documents relative to that portion of the Work, and may
+take field measurements of any existing conditions related to that portion of the Work, and observe any conditions at the Site affecting that portion of the Work if reasonable with regard to the scope of the Work.
+3.2.3 Any design errors, omissions, or inconsistencies noted by Contractor shall be reported promptly to Owner.
+3.2.4 If Contractor believes that additional cost or time is involved because of any design errors, omissions, or inconsistencies, Contractor shall
+submit a Target Price Revision requesting an
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 5 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+adjustment to the Target Price and/or the Project Schedule. All Target Price Revisions will be submitted to Owner for review and approval.
+3.3 Contractor shall provide supervision of all phases of the Work in accordance with sound construction practices and in compliance with all federal,
+state or local rules, regulations and ordinances applicable to the Work.
+3.4 Contractor shall be solely responsible for all construction
+means, methods, techniques, sequences and procedures and for coordinating all portions of the Work.
+3.5 Contractor shall be responsible to
+Owner for the acts and omissions of its employees, Subcontractors and their agents and employees. Except as otherwise provided herein, all Subcontractors will be bound to comply with the same standards, care, skill and diligence as Contractor in the
+performance of the Work. Owner shall have the right to request removal of any Contractor employee, Subcontractor, Subcontractor employee, or their agents who in Owner’s sole opinion, has engaged in improper conduct, is not performing in a
+satisfactory manner or is not qualified to perform assigned work, including, as applicable, the Project Manager. Contractor shall, within ten (10) business days take corrective action to address Owner’s request (through disciplinary
+action, reassignment, training or other commercially reasonable means) to Owner’s reasonable satisfaction, which may include removal of such person, provided that such removal complies with state and federal laws and regulations, including but
+not limited to, labor and employment laws.
+3.6 Ownership of Drawings and Other Items. All drawings, reports, designs, sketches, working
+drawings, shop drawings, documents, certificates, plans, specifications, estimates, memoranda, analyses, calculations, models and other tangible evidence of Contractor’s work product prepared in connection with the Work shall become and remain
+the sole property of Owner. Contractor may retain copies of its work product for its records, provided that any use thereof (other than with respect to the Work) without the written consent of Owner is prohibited. Any devices (other than equipment
+or devices which constitute part of the Work) or methods now being used in the marketplace, and incorporated into the Project, are not considered to be property of Owner. Innovative construction methods or mechanical devices developed by Contractor
+or its Subcontractors used in connection with the Work are not considered property of Owner unless such methods or devices were developed by Owner or Owner’s separate contractors.
+3.7 Books, Records and Invoices. Contractor shall keep and maintain complete and accurate books, records and invoices relating to the costs and
+performance of the Work in accordance with industry standards for cost-plus work, or in such form, substance and details as Owner may prescribe from time to time. Owner shall have the right to inspect, examine, copy and audit such records, books and
+invoices at any reasonable time or times during the term of this Agreement, during the period of two (2) years after Final Acceptance by Owner of the Work, or within one (1) years after the termination hereof or the termination of the
+Work, whichever is later. Contractor shall make such books, records and invoices available for inspection, examination, copying and auditing as may be prescribed by Owner. Owner shall remit payment to Contractor for all costs Contractor incurs,
+including but not limited to, employee time, copies, office space, etc. needed to facilitate the requests of Owner in accordance with this section. Contractor shall maintain at the Site for Owner one record copy of the final plans, drawings and
+specifications for the Work, in good order and marked currently to record all changes made during construction. Contractor acknowledges that Owner may hire one or more third party representatives, including, without limitation, an engineering,
+procurement and construction management firm to review such records, books and invoices on behalf of Owner. Contractor acknowledges and agrees that Owner’s
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 6 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+third party representative may be an engineering, procurement and construction firm that is a competitor of Contractor; provided, however, that Contractor
+may require such third party to sign a commercially reasonable confidentiality agreement prior to disclosing Contractor’s confidential information that is included in such information and documents.
+3.8 Taxes. Except as otherwise expressly provided below in this paragraph, the Target Price as set forth in Section 9 includes all taxes, including,
+without limitation, (a) state and federal payroll taxes, including, without limitation, contributions of taxes assessed against employees on wages earned, in connection with Contractor’s performance of the Work under this Agreement,
+(b) taxes levied or assessed upon Contractor’s equipment or other property or operations, and (c) all sales taxes levied on the equipment, supplies, facilities and other materials to be utilized as components of the Work. Contractor
+shall pay all such taxes incurred in connection with the performance of the Work. Contractor shall provide Owner with an accurate accounting of all sales and use taxes paid on construction materials, supplies and facilities incorporated in the Work
+(as opposed to those which are used or consumed in the performance of the Work, but which are not physically incorporated into the Work to include, but not limited to, labor, rents and royalties whether incurred by Contractor or any of its
+Subcontractors).
+3.9 Confidential Information. All data and information acquired by Contractor in connection with the Work to be performed
+by Contractor hereunder shall be for the sole and exclusive benefit of Owner. The provisions of this Section 3.9 shall not apply to data and information within either of the following categories: (a) information which was in the public
+domain prior to receipt thereof from Owner or which subsequently becomes part of the public domain by publication or otherwise except by Contractor’s wrongful or negligent act; (b) information received by Contractor from a third party
+which did not have a confidentiality obligation with respect thereto; or (c) data and information used in Contractors or Contractors suppliers and subcontractors normal course of business.
+3.10 Patent Rights, Copyrights and Title to Work. All royalties or other charges for the use of patents or copyrights to be used in the performance of
+the Work and Owner’s ownership of the Work shall be deemed to be included in the Target Price. Title to all Work completed, all Work in the course of construction, and all materials furnished or developed by Owner or by Contractor, irrespective
+of location thereof, shall be in Owner’s name once Contractor receives payment, but the ownership thereof by Owner shall not absolve Contractor from liability for loss or damage to same, nor from any other duty or responsibility for the same,
+as provided in this Agreement. Notwithstanding the foregoing, Contractor is not and cannot provide title or licenses with respect to engineering or processes provided by third parties other than Subcontractors in connection with the Project.
+
+3.11 Schedule.
+3.11.1
+Attached as Exhibit B to this Agreement is a project schedule (the “Project Schedule”) that includes target dates for achieving the Preliminary Reactor Test Demonstration, Mechanical Completion and Substantial Completion.
+
+3.11.2 Subject to Sections 8 and 10 below and to any adjustments authorized pursuant to the other provisions of this Agreement, Contractor
+shall diligently perform the Work and strive to achieve the Preliminary Reactor Test Demonstration, the Mechanical Completion and the Substantial Completion on or before the applicable date set forth in the Project Schedule, as may be modified
+through mutually approved Target Price Revisions or Change Orders through the course of the Project.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 7 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+3.11.3 The dates for completing the Preliminary Reactor Test Demonstration, the Mechanical Completion and the Substantial Completion shall be extended for any period of delay caused by reasons not within the sole
+control of Contractor, its suppliers or subcontractors, or Owner failing to provide timely payment or approvals in accordance with the provisions of this Agreement when such failure was not due to action or inaction of Contractor or its
+Subcontractors and provided that Contractor provides Owner with prompt written notice of any such delay by Owner. If the Work is delayed due to the fault of Contractor such that Contractor does not achieve the Preliminary Reactor Test Demonstration,
+Mechanical Completion or Substantial Completion on or before the applicable date set forth in the Project Schedule, then the Project Schedule shall not be adjusted, and Contractor shall pay Owner liquidated damages in the amount of [*] of delay in
+achieving the applicable milestone up to a combined aggregate limit of one million dollars ($1,000,000).
+3.11.4 Contractor shall promptly
+notify Owner upon completion of each major item or portion of the Work.
+3.11.5 No rights of Owner shall be waived by permitting Contractor
+to work after the time for completion has expired.
+3.12 Permits, Licenses and Authorizations. Contractor shall obtain, on a timely basis,
+all permits and authorizations which Contractor is required to obtain directly in its own name in order to perform the Work, and Contractor shall either furnish to Owner copies of all such permits and authorizations or maintain copies of the same at
+the Site or at the appropriate offices of Contractor. Contractor shall also, on a timely basis, supply all technical documentation required in support of such permits, licenses and authorizations as are required to be issued in Owner’s name in
+connection with the Work, and Contractor shall otherwise assist Owner in securing such permits, licenses and authorizations. If mutually agreed upon by Owner and Contractor, permits to be obtained by Contractor may include city, county and state
+building permits, electrical permits and plumbing permits. Owner shall be responsible for county, state and federal environmental permits to operate the Project after completion of the Work.
+3.13 Clean Site. Contractor shall confine operations at the Site to areas permitted by law, ordinances, permits and the Statement of Work. Contractor at
+all times shall keep the Site free from accumulation of waste materials or rubbish caused by its operations. Upon completion of the Work, Contractor shall remove all waste materials and rubbish from and about the Site, as well as its tools,
+construction equipment, machinery and surplus materials, and shall clean all surfaces and shall leave the Site “broom clean” or its equivalent.
+3.14 Safety. Contractor shall be responsible for initiating, maintaining and supervising all safety precautions and programs in connection with the Work. Contractor shall take all reasonable precautions for the safety
+of, and shall provide all reasonable protection to prevent damage, injury or loss to (a) all personnel performing any portion of the Work and all other Persons who may be affected thereby, (b) the Work, the Site, and all materials and
+equipment to be incorporated therein, whether in storage on or off the Site, under the care, custody or control of Contractor or any of its Subcontractors or anyone for whose acts any of them may be liable, and (c) other property at the Site or
+adjacent thereto, including soil, water, trees, shrubs, lawns, walks, pavements, roadways, structures and utilities not designated for removal, relocation or replacement in the course of the Work. Contractor shall give all notices required by and
+comply with all applicable laws, ordinances, rules, regulations and lawful orders of any public authority bearing on the safety of Persons or property or their protection from damage, injury or loss. Contractor shall erect and maintain, as required
+by existing conditions and progress of the Work, all reasonable safeguards for safety and protection, including installing fences and posting danger
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 8 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+signs and other warnings against hazards, promulgating safety regulations and notifying owners and users of adjacent sites and utilities. Contractor shall be
+solely responsible for any loss or expense incurred by Owner arising from injury or death to Persons or damage to property in anyway incident to or in connection with the placement, storage, spill, discharge or release on or about the Site of
+Hazardous Substances brought onto or about the Site by Contractor or any of its Subcontractors in connection with the performance of the Work or otherwise. When the use or storage of Hazardous Substances is necessary for the performance of the Work,
+Contractor shall exercise the utmost care and shall carry on such activities under the supervision of properly qualified personnel. Contractor shall promptly remedy all damage or loss to any property referred to in this paragraph caused in whole or
+in part by Contractor, its Subcontractor or anyone for whose acts either of them may be liable. The foregoing obligations of Contractor are in addition to Contractor’s obligations under Section 7.5 hereof.
+
+
+4	CERTAIN OBLIGATIONS OF OWNER
+
+4.1 Owner’s
+Representative. Owner designates Karl Taft as its representative (“Owner’s Representative”) who shall be fully authorized to act on behalf of Owner for the purpose of giving notices, instructions and other communications to
+Contractor, receiving communications from Contractor, granting approvals required or permitted under this Agreement and otherwise representing Owner in connection with all activities conducted pursuant to this Agreement. All notices, instructions,
+approvals and other communications provided to Contractor by Owner’s Representative shall be deemed to have been provided by Owner and all notices, requests, approvals and other communications provided to Owner’s Representative by
+Contractor shall be deemed to have been received by Owner. Owner may designate one or more successor representatives of Owner by written notice to Contractor from time to time. Notwithstanding the foregoing provisions of this paragraph, Owner may,
+at Owner’s election, by notice in such written designation or by subsequent written notice to Contractor from time to time, limit the authority of Owner’s Representative to approve Changes and Extra Work under Section 8 below. Such
+limitation shall not affect previously approved Changes and shall not be effective until notice is received by Contractor.
+4.2 Property
+Rights and Access to Site. Owner warrants that it has a valid long-term leasehold interest in the Site and possesses the legal right to construct Work on the Site. Owner agrees to provide Contractor full access to the Site for purposes of performing
+the Work and an adequate area or areas at such Site for Contractor’s office, warehouse, craft change rooms, shop buildings, welding facilities, materials storage and employee parking, and all temporary water and power necessary (including
+necessary standby or alternate power in the event of a power interruption) to support all construction. Owner, its agents and employees, shall have access to the Site to perform any and all work on the Site which Owner may undertake either through
+its own work forces or through contractors or subcontractors, independently hired by Owner, and to inspect Contractor’s work. Owner shall use commercially reasonable efforts to schedule such other work in a manner which will not delay
+Contractor’s work. If such delay is caused by Owner, Owner agrees to extend the Preliminary Reactor Test Demonstration, Mechanical Completion, and/or Substantial Completion Date, as applicable, for the length of the delay and to keep Contractor
+whole for any additional labor costs caused by the delay unless such delay was due to action or inaction of Contractor or its subcontractors and provided that Contractor provides notice immediately to Owner’s Representative when Contractor
+believes such delay has occurred or is likely to occur. The provisions in this paragraph and in Section 3.12 regarding delays in construction shall not apply to time needed for normal inspections or for remedial work required following such
+inspections.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 9 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+4.3 Pre-existing Hazardous Substances. Anything herein to the contrary notwithstanding, responsibility for any pre-existing Hazardous Substances shall remain with Owner. Subject to Contractor’s compliance with
+its duty to identify Hazardous Substances, Owner shall indemnify and hold Contractor harmless from and against any and all liability which may in any manner arise as a result of exposure to Persons and property to such pre-existing Hazardous
+Substances unless such liability arises from Contractor’s or its Subcontractor’s negligence or willful misconduct. Contractor shall identify to Owner any pre-existing Hazardous Substances immediately upon discovery. Upon discovery of any
+such pre-existing Hazardous Substances, Owner shall have the right to postpone the Work, in whole or in part, pursuant to the provisions of Section 10.5 hereof, except that such postponement shall become effective immediately upon receipt by
+Contractor of notice thereof. Owner shall have the right, at its own discretion, to determine whether to (i) request by a Change or Extra Work that Contractor undertake remedial action, (ii) take such remedial action itself, or
+(iii) take no action.
+4.4 Other Data and Materials. Owner shall supply, at its own expense and on a timely basis, all geotechnical
+data required in connection with performance of the Work, a topographic survey of the Site, access to hydrostatic test water, and all crude oil or the products required for commissioning of the Work.
+4.5 Payment. Owner shall remit payment in accordance with the terms of Section 9 contained herein.
+4.6 In addition to the foregoing, Owner shall:
+4.6.1 Provide all drawings, engineering, specifications (including completion of any drawings and specifications identified by the Parties as incomplete as provided herein, engineering assistance for Change Orders,
+and responses to requests for information), and the materials and equipment listed on Exhibit D (the “Owner-furnished Equipment”), as necessary for Contractor to perform the Work in accordance with the Project Schedule as
+adjusted by any modifications to this Agreement. Contractor shall make any request for reconciliation or clarifications of, or for further preparation or completion of, Drawings through a request for information delivered jointly to Owner’s
+Representative and to Owner’s engineer (“RFI”). Owner shall have up to five (5) business days after delivery of the RFI to provide Contractor with responses that do not require preparation or revision of engineered Drawings or
+Specifications, and up to ten (10) business days after delivery of the RFI to provide Contractor with responses that require preparation or revision of engineered Drawings or Specifications. RFI’s shall be sequentially numbered, shall
+identify the date for response pursuant to the previous sentence and shall, in the event of cost or schedule effect (other than response time to the RFI if timely made pursuant to the preceding provisions) , be processed in accordance with
+Section 8 and the other applicable provisions of this Agreement.
+4.6.2 Provide the start-up, commissioning and
+operating personnel necessary for initial operation, performance testing and maintenance of the Project, and review and approval of any proposed substitutions, except as is required to be provided by Contractor under this Agreement.
+4.6.3 Provide all training of start-up, commissioning and operating personnel, except as is required to be provided by Contractor in this
+Agreement;
+4.6.4 Provide all start-up and operating consumables, including, but not limited to, gas feedstocks, reagents,
+raw materials, lubricants, water and power, in the quantities and of the quality reasonably specified by Contractor for the safe and efficient operation and maintenance of the Project;
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 10 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+4.6.5 Provide all spare parts necessary for the safe and efficient start-up, operation and maintenance of the Project, provided that if
+Contractor uses any spare parts for the Work or any warranty work, Contractor will replace such spare part at Contractor’s expense;
+4.6.6 Perform its obligations, responsibilities and duties described in this Agreement;
+4.6.7 Accept and dispose of any product and associated by-products and/or waste generated through commissioning, start-up, testing and/or operation of the Project;
+4.6.8 Provide the Owner-furnished Equipment as required to support the Project Schedule; and
+4.6.9 Provide the Site and gas fuel supply for the Project as required to support the Project Schedule.
+4.6.10 Obtain and maintain throughout the performance of the Work insurance in accordance with Section 7.3, and all permits,
+qualifications and licenses required to be taken out in the name of Owner, as the case may be, which are necessary for the performance of the Work.
+4.6.11 Obtain third party vendor support, (i) as necessary to assist in the startup and testing of Equipment which has reached Mechanical Completion, (ii) as needed for technical support, and (iii) as
+required for startup, initial operation and performance testing of the and its associated controls.
+
+
+5	SUBMITTALS, INSPECTIONS AND APPROVALS
+
+5.1 Submittals.
+
+5.1.1 Shop Drawings are drawings or diagrams specially prepared for the Work by Contractor or a Subcontractor to
+illustrate some portion of the Work.
+5.1.2 Product Data is information furnished by Contractor to illustrate materials or
+equipment for some portion of the Work.
+5.1.3 Samples are physical specimens of materials, equipment or workmanship that
+establish standards by which the Work will be judged.
+5.1.4 Shop Drawings, Product Data, Samples and similar submittals
+(collectively “Submittals”) are not Contract Documents. The purpose of their submittal is to demonstrate for those portions of the Work for which submittals are required by the Contract Documents the manner and method by which Contractor
+proposes to achieve the requirements of the Contract Documents.
+5.1.5 Contractor shall review for compliance with the
+Contract Documents, approve and submit to the Owner Submittals required by the Contract Documents with reasonable promptness and in such sequence as to cause no delay in the Work or in the activities of Owner or of Owner’s separate contractors.
+
+5.1.6 By approving and submitting to Owner Submittals, Contractor represents that Contractor has determined and verified
+materials, field measurements and field construction criteria related thereto, or will do so, and has checked and coordinated the information contained within such submittals with the requirements of the Work and of the Contract Documents.
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 11 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+5.1.7 Unless approved by Owner in writing or by e-mail, Contractor shall perform no portion of the Work for which the Contract Documents
+require Submittals until the respective Submittal has been approved by Owner.
+5.2 All fabricated material may be inspected (at
+Owner’s discretion) at Contractor’s facility before shipment to the Site. If an inspection is desired by Owner, Owner shall list those items to be inspected in the Work. Owner reserves the right to inspect all fabricated material at
+Contractor’s facility or at the Site. Contractor shall notify Owner’s representative at least five (5) working days before shipment that fabricated material is available for inspection.
+5.3 All Work performed by Contractor hereunder shall be subject to inspection, testing and approval by Owner. Owner may, at its discretion, employ the
+services of specialist inspection and testing agencies for this purpose. Unless otherwise specified in this Agreement, or as may be agreed to by Owner in writing or by e-mail, all Drawings will be approved by Owner, in writing, prior to commencement
+of any Work based on the Drawings.
+5.4 Any inspection or approval of the Work given under this Agreement by Owner shall not relieve
+Contractor of its responsibility for compliance with this Agreement, nor from its responsibility for the quality of the Work, nor from any warranty, guarantee or liability under law, either expressed or implied, in this Agreement.
+5.5 When the Work has been completed in accordance with the Contract Documents, Contractor shall so notify Owner in writing. Owner shall then inspect the
+Work and if it is found not to be in compliance with the Contract Documents, Owner shall so notify Contractor in writing specifying the details of such non compliance. At Contractor’s expense, Contractor shall promptly correct all Work noted to
+be in noncompliance and notify Owner once corrections have been made. Owner shall then reinspect the Work to determine compliance with the Contract Documents. If Owner rejects the Work or any part thereof which is reinspected, then the procedure set
+forth above shall be repeated until Work not in compliance is corrected and the Work is accepted by Owner.
+
+
+6	WARRANTIES
+
+6.1 Warranties. Contractor warrants and
+represents to Owner that:
+6.1.1 Contractor and Owner each warrant that they are financially solvent, able to pay their
+respective debts as they mature, and possessed of sufficient working capital to perform and complete their respective obligations under this Agreement;
+6.1.2 Contractor is able to furnish any of the plant, tools, materials, supplies, equipment and labor required to perform and complete its obligations under this Agreement, and has sufficient experience and competence
+to do so;
+6.1.3 Contractor is authorized to do business in the State of Idaho and any other state where any part of the
+Work is to be performed, and is properly licensed by all necessary governmental and public and quasi-public authorities having jurisdiction over it, the services required by the Contract Documents, and the Work;
+6.1.4 The applicable Construction Documents, if and to the extent provided by Contractor, are adequate for the construction of the Work,
+in accordance with the provisions of this
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 12 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Agreement and all applicable laws, rules, codes and regulations affecting the Work covered by this Agreement;
+6.1.5 Contractor’s construction responsibility shall be carried out in accordance with sound construction practice;
+6.1.6 The Work shall be performed in a good and workmanlike manner and the Work shall be free from defects in materials, equipment and
+workmanship provided or performed by Contractor and if defects are found in any of the above, Contractor will rectify as described in Section 5.5;
+6.1.7 All materials and equipment incorporated in the Work shall be new, free from liens, security interests and other claims, merchantable and free from defects in design, materials and workmanship;
+6.1.8 The Work and all materials and equipment therein shall conform to the Construction Documents and other descriptions prepared by
+Contractor and approved by Owner under this Agreement;
+6.1.9 The Work shall comply with all applicable laws, rules, codes,
+statutes, ordinances and regulations affecting the Work;
+6.1.10 Contractor shall require from its Subcontractors the same
+standards of construction practice, and the construction warranties, required of Contractor hereunder, which warranties of said Subcontractors shall extend to and for the benefit of and shall be enforceable by both Contractor and Owner or by either
+of them individually;
+6.1.11 Contractor shall secure or cause its Subcontractors to secure warranties from third party
+vendors and suppliers with respect to equipment manufactured or furnished by them, and Contractor shall provide that all manufacturer’s or other warranties on all products furnished by Contractor shall either run directly to Owner or shall be
+assignable to Owner.
+6.1.12 The installation of all such products referred to in Section 6.1.11 above shall be such
+as will not invalidate manufacturer and other warranties on such products;
+6.1.13 Contractor shall use its best efforts,
+including litigation, if necessary, to enforce such warranties on all products furnished by Contractor; and,
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 13 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Payment by Owner of any sums to become owing to Contractor hereunder shall not constitute a waiver by Owner of any liability of Contractor for breach of any of the warranties contained in this paragraph or elsewhere in this Agreement, nor
+shall Contractor be exonerated from liability by reason of the fact that Owner has approved any plans or other documents prepared by Contractor.
+6.2 Enforcement of Warranties. The warranties set forth in Section 6.1 hereof shall apply to any defect, non-conformance or failure in the Work which appears during a period of one (1) year from the date of acceptance by Owner of
+the Work for specific facilities or items of equipment (herein referred to as the “Warranty Period”), which Warranty Period with respect to any component of the Work replaced or repaired during said period shall be extended, as to such
+component only, for a period equivalent to such applicable Warranty Period from the date of such replacement. Owner shall notify Contractor in writing within five (5) Days of any defect, non-conformance or failure discovered by Owner once the
+warranty period has commenced. Contractor agrees promptly to remedy any such breach, at Contractor’s sole expense by either replacing or repairing any defective or nonconforming portion of the Work, including repair or replacement of other
+property furnished by Contractor or its Subcontractors or by the vendors of equipment damaged as a result of such deficiencies. Contractor shall not be obligated to repair or replace any materials, operating equipment or work which becomes defective
+as a result of improper operation or maintenance of equipment or facilities by Owner or its designated operators or agents. It is expressly understood that the warranties contained herein shall not limit or waive Contractor’s other obligations
+under this Agreement.
+6.3 Exclusion of Warranties. THE WARRANTIES SET FORTH IN THIS SECTION 6 ARE EXCLUSIVE AND ARE IN LIEU OF ANY OTHER
+WARRANTIES BY CONTRACTOR, EXPRESS AND IMPLIED (EXCEPT AS TO OTHERS, INCLUDING TITLE WARRANTIES, ELSEWHERE SPECIFICALLY SET FORTH IN THIS AGREEMENT).
+6.4 Third Party Warranty Protection. Contractor shall pass on all third party warranties to Owner, and act in good faith to assist in enforcement of such warranties if required. In no case shall Contractor be
+obligated to replace or repair third party materials or equipment beyond the warranty provided by such third parties.
+
+
+7	INSURANCE AND INDEMNITY
+
+7.1 Without limiting in any way
+the scope of any obligations or liabilities assumed hereunder by Contractor, Contractor shall procure or cause to be procured and maintained at its expense, for the duration of this Agreement, and with insurance companies reasonably acceptable to
+Owner, the insurance policies described below. Contractor acknowledges that the endorsements and the type of insurance coverage and the limits thereof, are minimum limits which shall not be reduced without the prior written consent of Owner, which
+consent is solely in the discretion of Owner.
+7.1.1 Workers’ Compensation and Employer’s Liability Insurance
+covering the employees of Contractor for all compensation and other benefits required of Contractor by the Worker’s Compensation or other statutory insurance laws in the state having jurisdiction over such employees, and over the location where
+the Work is being performed, including Alternate Employer. Employer’s Liability Insurance with limits of not less than One Million Dollars ($1,000,000) per occurrence.
+7.1.2 General Liability Insurance including contractual liability and completed operations to cover liability for bodily injury and
+property damage with a combined single limit of not less than Three Million Dollars ($3,000,000) per occurrence.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 14 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+7.1.3 Business Automobile Liability Insurance, if owned, hired or non owned automotive equipment is used in the performance of this
+Agreement, to cover liability for bodily injury and property damage with a combined single limit of not less than One Million Dollars ($1,000,000) per occurrence.
+7.1.4 Excess Liability with limits of coverage of $10,000,000 each occurrence and $10,000,000 in the aggregate.
+7.2 Special Provisions Concerning Policies Placed by Contractor.
+7.2.1 All policies (except Worker’s Compensation) shall include Owner and its affiliates as additional insured for liabilities
+arising out of the performance under this Agreement and shall be primary to any other insurance of Owner. Such insurance shall specifically provide that it applies separately to each insured against which claim is made or suit is brought, except
+with respect to the limits of the insurer’s liability. All policies, excepting Worker’s Compensation, shall provide that all rights of subrogation against Owner and its affiliates are waived when permitted by law. Such insurance shall be
+primary over any coverage’s maintained by Owner. All policies must include thirty (30) Days written notice of cancellation to Owner.
+7.2.1.1 The policy limits specified above are minimum requirements and not limits of liability and shall not be construed in any way as Owner’s acceptance of responsibility for financial liabilities in excess of
+such limits. Contractor shall pay all deductibles and self insured retentions, including defense costs, applicable to the insurance, except for coverage triggered by the acts or omissions of Owner.
+7.2.1.2 Prior to commencement of the Work, Contractor shall furnish Owner with Certificates of Insurance which document that all
+coverages and endorsements required by this Section have been obtained for the Work. Contractor shall obtain renewal certificates as and when necessary and copies thereof shall be forwarded to Owner as soon as same are available and in any event
+prior to the expiration of the policy so renewed. These certificates shall provide that the insurer shall give thirty (30) Days written notice to Owner prior to change or cancellation of any policy. In no event shall Owner’s acceptance of
+an insurance certificate that does not comply with this paragraph constitute a waiver of any requirement of this Section.
+7.2.1.3 All insurance certificates and other routine insurance related correspondence shall be sent to Owner by registered or certified mail, postage prepaid, return receipt requested, or delivered in Person or by commercial courier or sent
+by facsimile to:
+HOKU MATERIALS, INC.
+1 Hoku Way
+
+Pocatello, Idaho 83204
+Attn: Karl M. Taft III
+Facsimile: 808-682-7807
+7.2.2
+Subcontractors. Contractor shall require all its Subcontractors to provide statutory Workers’ Compensation insurance coverage.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 15 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+7.3 Builder’s Risk. During the term of this Contract, Owner shall maintain in full force and, at Owner’s expense, Builders’ risk insurance on all risks of any physical loss, including without
+limitation, earthquake, flood or fire, for an amount equal to the full completed value of the facility and Owner shall be liable for any deductible amount as required by the policy.
+7.4 Indemnity. CONTRACTOR SHALL INDEMNIFY, DEFEND AND HOLD HARMLESS OWNER, ITS LENDERS, PARENT COMPANIES AND AFFILIATES, AND THE DIRECTORS, OFFICERS,
+SHAREHOLDERS, AGENTS, EMPLOYEES AND REPRESENTATIVES OF EACH OF THEM (INDIVIDUALLY, “INDEMNITEE” AND COLLECTIVELY, THE “INDEMNITEES”) FROM AND AGAINST ANY AND ALL THIRD-PARTY (INCLUDING, WITHOUT LIMITATION, THOSE BY EMPLOYEES AND
+AGENTS OF CONTRACTOR AND/OR SUBCONTRACTORS OF CONTRACTOR) SUITS, ACTIONS, LEGAL OR ADMINISTRATIVE PROCEEDINGS, CLAIMS, DEMANDS, COSTS AND EXPENSES (INCLUDING, WITHOUT LIMITATION, COURT COSTS AND ATTORNEYS’ FEES) OF ANY NATURE FOR BODILY INJURY
+OR DEATH OR PHYSICAL DAMAGE TO PROPERTY OF ANY OF THE INDEMNITEES OR THIRD PARTIES ARISING OUT OF OR IN CONNECTION WITH THE PERFORMANCE OF THE WORK. THE INDEMNITY PROVIDED FOR IN THIS PARAGRAPH SHALL HAVE NO APPLICATION, HOWEVER, TO ANY SUIT,
+ACTION, PROCEEDING, CLAIM, DEMAND, COST OR EXPENSE WHERE SUCH INJURY, DEATH, OR DAMAGE RESULTS FROM THE NEGLIGENCE, EITHER ACTIVE OR PASSIVE, AND/OR SOLE OR CONTRIBUTORY, OR THE WILLFUL MISCONDUCT OF OWNER.
+7.5 CONTRACTOR SHALL DEFEND, INDEMNIFY AND HOLD HARMLESS OWNER FROM AND AGAINST ALL CLAIMS, DEMANDS AND LIABILITIES ARISING FROM HAZARDOUS SUBSTANCES,
+INCLUDING CONTROL AND REMOVAL THEREOF, CAUSED BY CONTRACTOR’S DIRECT NEGLIGENT ACT IN PERFORMING CONTRACTOR’S OBLIGATIONS HEREUNDER.
+7.6 CONTRACTOR SHALL NOT BE LIABLE TO OWNER FOR SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF USE.
+7.7 Limitation. In any and all claims against an Owner by any party for property and/or property damage the indemnification obligation under this Section shall be limited to the extent of Contractor’s collectible and valid insurance.
+In any and all claims for bodily injury or death the indemnification obligation under this Section shall be limited to the extent of Contractor’s collectible and valid insurance and all Incentive Fees paid to Contractor pursuant to this
+Agreement.
+
+
+8	CHANGES AND EXTRA WORK
+
+8.1 Owner’s Instructions.
+Owner reserves the right to require Contractor to undertake Changes or Extra Work. Contractor shall not undertake any Changes or Extra Work without prior written instructions by Owner.
+8.2 Adjustment of Compensation. If Owner requests a Change or Extra Work, Contractor shall furnish Owner with a Change Order, or “Target Price
+Revision” indicating the increase or decrease in the Target Price and any adjustment in the Project Schedule for Owner’s approval. Contractor shall not be liable to perform any Change or Extra Work unless the parties have mutually agreed
+to either (A) a lump sum amount or (B) to perform the work on a cost plus basis as may be necessary for the Change or
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 16 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Extra Work and any appropriate adjustment of the Project Schedule, prior to the time the Change or Extra Work is to begin.
+
+
+9	COMPENSATION
+
+9.1 Contract Price. Owner shall pay to
+Contractor, as full and complete compensation for performance of the Work, the amount of compensation described in Exhibit C to this Agreement, subject to the provisions of Section 9.2 of this Agreement.
+9.2 Basis of Compensation.
+9.2.1 Cost of the Work
+9.2.1.1 Reimbursable costs shall be actual Cost of the Work incurred by Contractor, less
+all discounts, rebates, refunds, salvages, and amounts received from sales of surplus materials upon completion of the Work under this Agreement. Contractor represents that all rates applied to determine the Cost of the Work, including all labor,
+materials, overhead and fee rates, shall be consistent with the then-current market rates applicable to projects of the same general scope in the region where the Site is located.
+9.2.1.2 At no time shall Owner be billed more than once for the same cost.
+9.2.1.3 Contractor shall maintain all records and documentation necessary for Owner to apply to any federal, state, or local governmental
+entity for rebate payments or similar incentive programs for sales taxes, use taxes, and other taxes, fees, levies or assessments by such governmental entities. Contractor shall assist Owner in the preparation and submission of forms, schedules,
+worksheets, and other documents required to make a claim for such payments.
+9.2.2 Incentive Fees
+9.2.2.1 Budget Incentive. Following Final Acceptance of the Work, if the actual Cost of the Work plus Fee is less than or equal to the
+estimated Cost of the Work plus Fee stated in Exhibit C, then Owner shall pay to Contractor a sum equal to [*] of the difference between the estimated Cost of the Work plus Fee and the actual Cost of the Work plus Fee, with Owner retaining the [*]
+balance of the underun; provided, however that the maximum Budget Incentive shall be [*].
+9.2.2.2 Schedule Incentive. In
+the event the Preliminary Reactor Test Demonstration, the Mechanical Completion or the Substantial Completion shall occur on or before the respective dates set forth on the Project Schedule, Contractor shall be entitled to a “Schedule
+Incentive” equal to [*] for each such milestone (up to an aggregate of [*] if all milestones are achieved on schedule). However, after the date of each such completion date, the applicable Schedule Incentive shall be reduced by [*] per day for
+every day the Preliminary Reactor Test Demonstration, the Mechanical Completion or the Substantial Completion, as applicable, is not achieved. However, in no event shall the Schedule Incentive be reduced below [*].
+9.2.2.3 Safety Incentive. Following Final Acceptance of the Work, Owner shall pay to Contractor a Safety Incentive based on the OSHA
+Recordable Incident Rate (ORIR) for the Work performed based on the following schedule:
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 17 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+
+ORIR
+Safety Incentive
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+
+9.3 Payment Terms
+9.3.1 The Parties acknowledge and agree that they intend to pre-fund Contractor’s estimated Cost of the Work and Fee on a monthly
+basis. To that end, once each month, Contractor shall submit to Owner an application for payment (the “Application for Payment”). The period covered by each Application for Payment shall be one calendar month ending on the last day of the
+following month or as otherwise mutually agreed to accommodate Contractor’s cost system as it is understood that Contractor’s labor costs are accumulated such that a pay period must end on a Sunday. Contractor will provide with each
+Application for Payment a projection estimate for the anticipated costs of the Work during the upcoming month. This projected estimate of costs plus the Contractor’s Fee on all estimated costs, less the retainage stipulated in
+Section 9.3.4.2, shall serve as the basis of Contractor’s payment for that month. Within thirty (30) days after the end of each month during which any Work is performed, Contractor shall provide the Owner a summary of the actual Cost
+of the Work incurred during such period accompanied by the supporting documentation for such Cost of the Work as required herein. Contractor will then prepare, contemporaneous with the next month’s Application for Payment, a monthly
+reconciliation of the reimbursable costs that compares the advance funding received from Owner against the actual summary of the Cost of the Work for the applicable period. Should the reconciliation show a deficiency in funding, the then current
+monthly Application for Payment will include the amount necessary to fully reimburse Contractor for any such deficiency plus any applicable Fee deficiency. If the reconciliation shows an excess funding, the excess will be deducted from the then
+current monthly Application for Payment. Invoices paid and reconciled are not considered to be accepted by Owner and Owner shall retain its right to audit Contractor’s Cost of the Work and Applications for Payment.
+9.3.2 Reimbursements of the Cost of the Work shall not be construed as Owner’s approval or acceptance of the Work. If Owner disputes
+any portion of Contractor’s application for payment, Owner shall inform Contractor in writing within five (5) days upon receipt of Contractor’s Application for Payment. Owner shall remit payment of the undisputed portion of each
+Application for Payment within ten (10) Days after receipt thereof. If Owner fails to notify Contractor in writing within five (5) business days then all portions of the Application for Payment shall be deemed accepted. The Parties shall
+meet within ten (10) Days to try to resolve the disputed portion. If the Parties are unable to resolve the disputed portion, Contractor at its sole option may stop work in accordance with Section 10.3 contained herein. Contractor will not
+stop work if (A) cumulative disputed value is less than one hundred thousand dollars ($100,000.00); or (B) Contractor has not submitted the support documentation as required by Section 9.3.4.1 above.
+9.3.3 With each Application for Payment, the Contractor shall submit partial release of liens, payroll information documenting actual
+hours worked with applicable rates, petty cash accounts, receipted invoices or invoices with check vouchers attached and any other evidence reasonably required by the Owner to support Contractor’s previous Applications for Payment and to
+demonstrate the cash disbursements already made by the Contractor on account of the Cost of the Work.
+9.3.4 Applications
+for Payment shall show the Cost of the Work that Contractor estimates that it will expend or incur through the end of the period covered by the Application for Payment and for which the Contractor has made or intends to make actual payment prior to
+the next
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 18 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Application for Payment plus the Fee on all such estimated costs, less the retainage stipulated in Section 9.3.4.2.
+9.3.4.1 No retainage on permits, fees, soil tests, construction testing, dumpsters, and miscellaneous direct third party costs;
+
+9.3.4.2 [*] retainage on all other Work. Owner shall release and pay Contractor [*] of all amounts retained from the
+Applications for Payment within thirty (30) days of Contractor’s achievement of Mechanical Completion, and shall release and pay Contractor the balance of all amounts retained within thirty (30) days of Contractor’s achievement
+of Substantial Completion.
+9.3.5 All Cost of the Work shall be included in each month’s application for payment.
+Owner shall withhold all potential Incentive Fee. Actual Incentives earned will be calculated, and invoiced after Owner’s Final Acceptance of all Work and all costs have come in and been invoiced. For Incentive Fee earned, Contractor shall
+invoice Owner for the same following Owner’s Final Acceptance of the Work and Owner shall pay the same within thirty (30) Days from receipt of said invoice.
+9.3.6 Owner may withhold payment for a disputed portion of an Application for Payment, without interest, until such dispute is resolved,
+however all undisputed portions are to be paid in accordance with this agreement.
+9.3.7 No payment made under this
+Agreement shall constitute a waiver by Owner of the performance by Contractor of any of Contractor’s obligations hereunder and any payment withheld shall be without prejudice to any other rights and remedies available to Owner. Partial payments
+on the Contract Price shall not be considered as an acceptance of any part of the materials, equipment or work, and Contractor shall be and remain fully and solely responsible for their protection from loss or damage of any nature until Final
+Acceptance of the Work by Owner and for the prior performance and completion of the Work under this Agreement.
+9.3.8
+Contractor shall promptly pay or cause to be paid each Subcontractor, upon receipt of payment from Owner, out of the amount paid to Contractor on account of such Subcontractor’s work, the amount to which said Subcontractor is entitled.
+Contractor shall provide to Owner’s Representative lien waivers from said Subcontractors evidencing such payment as may be requested on an audit basis. Owner shall have no obligation to pay or to see to the payment of any moneys to any
+Subcontractor except as may otherwise be required by law. Upon Substantial Completion of all the Work under this Agreement, Contractor shall have provided full Unconditional Lien Releases from all Subcontractors.
+9.3.9 Sums due Contractor shall be adjusted by deducting any amounts paid by Owner to prevent or remove liens, claims, debts and
+encumbrances which are the responsibility of Contractor, or its Subcontractors, or to satisfy other obligations of Contractor or its Subcontractors hereunder; provided, however, that Owner shall provide Contractor with fifteen (15) Days’
+prior notice and an opportunity to cure such encumbrance before Owner makes any such payment to a third party.
+9.3.10
+Final payment, constituting the entire unpaid balance of the Contract Price, including Incentives, shall be paid by Owner to Contractor thirty (30) Days after Final Invoice for all Costs and any Incentives earned, provided that Contractor shall
+have furnished to Owner, in form and substance satisfactory to Owner, (a) an affidavit executed by an officer of Contractor stating that all bills
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 19 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+for labor and materials have been paid, (b) consent of surety (if any) to final payment, and (c) full releases of any and all liens arising out of
+the Work which have not been previously provided.
+
+
+10	POSTPONEMENT, TERMINATION AND DEFAULT
+
+10.1 Termination by
+Owner.
+10.1.1 Termination for Cause: If Contractor files a voluntary petition in bankruptcy or for reorganization or
+rearrangement of debts under any provision of the bankruptcy laws, or if Contractor admits insolvency or bankruptcy or is adjudged to be bankrupt or insolvent in involuntary proceedings, or if an involuntary petition in bankruptcy or for
+reorganization or rearrangement of debts under the bankruptcy laws is filed against Contractor and is not dismissed within thirty (30) Days following the date of filing, or if Contractor makes a general assignment for the benefit of its
+creditors, or if a receiver is appointed on account of its insolvency, or if Contractor fails to make prompt payment to Subcontractors, or for materials or labor, or allows a lien to be filed for material or labor, or disregards laws, ordinances,
+rules, regulations or orders of any public authority having jurisdiction, or otherwise is guilty of a violation of the provisions of this Agreement, then Owner shall provide Contractor written notice of the material breach and Contractor shall have
+thirty (30) Days from receipt of the notice to remedy the material breach. To the extent the material breach cannot reasonably be cured within thirty (30) days following Contractor’s receipt of written notice, then Contractor shall
+have such longer period as is reasonably required to cure the breach provided that Contractor shall have commenced curative efforts within the thirty (30) Day period and diligently pursues same to completion. If Contractor does not remedy the
+default within reasonable time thereafter, then Owner may, without prejudice to any right it might have at law or in equity, immediately terminate this Agreement and take possession of the Site(s) and of all materials, equipment, tools, construction
+equipment and machinery thereon other than tools and equipment owned by Contractor and/or Subcontractors and may complete the Work by whatever method Owner may deem expedient. In such case Contractor shall not be entitled to receive any Incentive
+Fee until the Work is completed, at which time Incentive Fees earned by Contractor prior to Owner’s termination of this Agreement will be calculated and invoiced.
+10.1.2 Termination for Convenience: In addition to the rights of termination prescribed in Section 10.1.1 above, and those rights of
+termination that may exist at law or in equity, Owner may, at any time, in its sole and absolute discretion and with or without cause, by written notice to Contractor, instruct Contractor to postpone, suspend, or abandon the Work, in whole or in
+part, or terminate this Agreement. Such postponement, suspension, abandonment or termination shall become effective thirty (30) calendar Days after the receipt of such notice by Contractor, unless a different period is mutually agreed. Upon the
+receipt of such notice, Contractor shall strictly comply with the instructions set forth therein, and shall exert due diligence and best efforts to keep any further Work-related expenditures to a minimum. In the case of partial postponement,
+suspension, or abandonment unrelated to the fault of Contractor or its Subcontractors, Owner will authorize a Change, making appropriate adjustments to the Contract Price and Contract Time, as applicable. In the case of a termination of this
+Agreement by Owner under this paragraph, Owner and Contractor shall be released from any further liability hereunder, subject, however, to the provisions of Sections 10.3 and 10.1.1 hereof. If Owner terminates for convenience, Contractor will be due
+all Cost of the Work plus applicable Fee incurred as of the date of Termination, plus all reasonable and documented direct expenses related to the termination of this Agreement.
+10.1.3 In the event that Contractor fails to complete performance of the Work in accordance with the Project Schedule, and the schedule
+is not extended as provided herein; Owner shall
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 20 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+have the option, in its sole judgment, to terminate the Agreement and proceed to complete the Work pursuant to Section 10.1.1; or to require Contractor
+to continue performing the Work.
+10.2 Termination by Contractor. This Agreement is subject to termination by Contractor upon written
+notice to Owner upon the occurrence of (a) breach of this Agreement by Owner and (b) the failure by Owner to cure such breach within a period of thirty (30) Days following the receipt by Owner of written notice from Contractor setting
+forth in reasonable detail the nature of such breach unless such breach is related to payment to Contractor. If such breach is for payment the terms of Section 10.3 shall apply. To the extent the breach cannot reasonably be cured within thirty
+(30) Days following Owner’s receipt of written notice, then Owner shall have such longer period as is reasonably required to cure the breach provided that Owner shall have commenced curative efforts within the thirty (30) Day period
+and diligently pursues same to completion. Upon the occurrence of such events (and the expiration of the applicable curative period), Contractor may terminate this Agreement by delivery to Owner of written notice of such termination. Payment to
+Contractor shall be per Section 10.1.2 above.
+10.3 Failure of Owner to remit payment in accordance with this section shall give
+Contractor right to immediately stop work with forty-eight (48) hour written notice to Owner. If payment is not received within the forty-eight (48) hour notice Contractor shall have the right to stop work. If payment is not received
+Contractor shall not be liable for any damages incurred whatsoever, including but not limited to schedule delays, by Owner. Owner shall be liable to Contractor for all demobilization costs and remobilization costs should Contractor later proceed
+with the Work.
+10.4 Preservation of Rights and Liabilities. The termination of this Agreement, for whatever reason, shall not prejudice
+any of the accrued rights, claims or liabilities of either Owner or Contractor hereunder.
+10.5 Postponement. Owner may postpone the Work
+for up to 4 months. All reasonable, direct and documented Contractor costs associated with such postponement (inclusive of Fee) shall be included as Cost of the Work, and an adjustment of equal value and time extension commensurate with the
+postponement period shall be made to this Agreement to allow for fair opportunity to earn the Schedule Incentive and the Budget Incentive for the Project. Should postponement be requested beyond 4 months, Contractor at its option may agree to extend
+such suspension, or deem the Project terminated for convenience per Section 10.1.2 above.
+10.6 Force Majeure. Neither Owner nor
+Contractor shall be required to perform any term, condition or covenant in this Agreement so long as such performance is delayed or prevented by Force Majeure. The term “Force Majeure” as used herein shall mean any cause not reasonably
+within the control of Owner or Contractor, as the case may be (other than inability to make monetary payments) and which by the exercise of due diligence Owner or Contractor (as the case may be) is unable, wholly or in part, to prevent or overcome,
+including without limitation, acts of God; strikes, lockouts, or boycotts of regional or national origin not directed solely at Contractor; nationwide material or labor shortages; restrictions imposed by any governmental authority; and, civil riot.
+Owner and Contractor shall give prompt written notice to the other, as the case may be, of any such event or circumstance of Force Majeure, and each party shall cooperate in good faith with the other to minimize and mitigate the impact of any such
+event or occurrence and do all things commercially reasonable under the circumstances to achieve such goal. Long term and/or unknown impacts of prior Force Majeure events, such as Hurricanes or other events where the full and true impacts of such
+events aren’t fully determinable until realized, are subject to claim under this paragraph, in lieu of including contingency cost and time allowances in Target Price estimates for undeterminable future impacts that may result from previous
+Force Majeure events.
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 21 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Reasonable adjustment to Contract Price and Mechanical Completion Date shall be made in the event of Force Majeure events and/or impacts.
+
+
+11	COMPLETION, ACCEPTANCE AND OCCUPANCY
+
+11.1 Notice of
+Mechanical Completion. When Contractor has achieved Mechanical Completion of the Work, or a portion thereof, it shall notify Owner, in writing, and request acceptance by Owner of the Work.
+11.2 Acceptance by Owner. As soon as reasonably practicable, and in any event within ten (10) Days after receipt of a notice from Contractor
+pursuant to Section 11.1 above, Owner shall issue written acknowledgement of the Mechanical Completion of the Work, or a portion thereof, in writing to Contractor, specifying any obligations under this Agreement which are Contractor’s
+responsibility and have not been fulfilled. In such event, Contractor shall promptly fulfill any unfilled obligations under this Agreement which are its responsibility and submit a further notice to Owner pursuant to Section 11.1. The
+“Mechanical Completion Date” shall occur on the date that Owner signs and accepts Contractor’s notice of Mechanical Completion under Section 11.1.
+11.3 Notice of Substantial Completion. When Contractor has achieved Substantial Completion , it shall notify Owner in writing, and request Final Acceptance by Owner of the Work (“Notice of Substantial
+Completion”).
+11.4 Final Acceptance by Owner. As soon as reasonably practicable, and in any event within ten (10) Days after
+receipt of the Notice of Substantial Completion from Contractor pursuant to Section 11.3 above, Owner shall issue written acceptance of Substantial Completion of the Work, or, if Contractor’s obligations remain not fulfilled, written
+notice to Contractor of Contractor’s obligations that have not been fulfilled. In such event, Contractor shall promptly fulfill any unfilled obligations under this Agreement which are its responsibility and submit a further notice to Owner
+pursuant to Section 11.3 above. “Final Acceptance” shall occur on the date that Owner signs and accepts without conditions, Contractor’s Notice of Substantial Completion.
+11.5 Partial Occupancy Or Use
+11.5.1 Owner may occupy or use any completed or partially completed portion of the Work, with Contractor’s approval, at any stage when such portion is designated by separate agreement with Contractor, including, without limitation, for
+purposes of completing the Preliminary Reactor Test Demonstration; provided such occupancy or use is consented to by insurers providing property coverage and authorized by public authorities having jurisdiction over the Work. Such partial occupancy
+or use may commence whether or not the portion is mechanically complete, provided Owner and Contractor have accepted in writing the responsibilities assigned to each of them for payments, retainage, if any, security, maintenance, utilities, damage
+to the Work and insurance, and have agreed in writing concerning the period for correction of the Work and commencement of warranties required by the Contract Documents.
+11.5.2 Immediately prior to such partial occupancy or use, Owner and Contractor shall jointly inspect the area to be occupied or portion
+of the Work to be used in order to determine and record the condition of the Work.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 22 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+11.5.3 Partial occupancy or use of a portion or portions of the Work shall not constitute acceptance of the Work; provided, however, that
+the successful completion of the Preliminary Reactor Test Demonstration may entitle Contractor to the applicable portion of the Schedule Incentive.
+
+
+12	CONTROLLED SUBSTANCE ABUSE POLICY
+
+12.1 Owner maintains a
+drug and alcohol free workplace. Contractor acknowledges that it has been advised and agrees to advise all its employees, subcontractors, agents and business invitees of any subcontractor, agent, or business invitee, of the following safety
+regulations or policies concerning controlled substances (alcohol, misuse of prescription drugs and illegal drugs):
+12.1.1
+It is the policy of Owner that the use, possession, sale, transfer, purchase, or the presence in one’s system of a controlled substance on Owner’s property is prohibited;
+12.1.2 Contractor and its Subcontractors are to have in place a drug and alcohol free workplace policy;
+12.1.3 Entry onto Owner’s property constitutes consent to an inspection of the Person (including, but not limited to, the taking of
+a urine sample) and personal effects, as well as any vehicle(s) when entering or leaving Owner’s property, and;
+12.1.4 Any Person who is found in violation of the policy or who refuses to permit an inspection may be removed and barred from Owner’s property, at the sole discretion of Owner.
+
+
+13	ACCIDENT REPORTS
+
+13.1 All accidents must be reported to
+Owner by Contractor. In the event an accident involving the property, equipment, or personnel of Contractor, Owner, or any third party occurs on Owner’s property, or which arises out of, results from or is in any way connected with the Work or
+any presence upon Owner’s property or other activities pursuant to this Agreement, Contractor shall immediately report such accident to Owner’s Representative. In addition, a written report of such accident must be prepared by Contractor
+and delivered to Owner’s Representative within 24 hours after Contractor becomes aware of each such accident. This report should contain factual information only and should not contain opinion, speculation, or supposition as to fault,
+liability, or prevention. Contractor shall also provide Owner with a copy of each and every report of each such accident, including statements or other investigative material or documents which Contractor completes, or is required to submit, or does
+submit, to any entity other than Owner, including without limitation, any governmental agency or body, Contractor’s or Owner’s insurers, or others.
+
+
+14	LIENS
+
+14.1 Where required by Owner, the final payment
+shall be substantiated by notarized lien affidavits and lien waivers evidencing that all suppliers, subcontractors and laborers have been paid in full for Work performed and materials furnished, up to and including the date(s) of such affidavits.
+Owner may at any time audit Contractor’s status of payment to any or all subcontractors and/or suppliers.
+14.2 If Owner has remitted
+payment in accordance with the terms of this Agreement, Contractor shall keep the Work free and clear of all liens. Contractor shall promptly and satisfactorily settle all claims, including lien claims of its Subcontractors, for labor performed and
+supplies or materials
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 23 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+furnished in connection with such Work. In the event Contractor fails or refuses to promptly and satisfactorily settle all such claims, Owner shall, after so
+notifying Contractor in writing, have the right to settle such claims on behalf of and for the account of Contractor, and deduct the amount from the Contract Price and/or any Application for Payment. Alternatively, Owner shall have the right to hold
+all sums due or to become due to Contractor, without interest, until satisfactory evidence is furnished to Owner that all such claims and liens have been settled and released.
+
+
+15	COMPLIANCE WITH LAWS, ENVIRONMENTAL LAWS AND REGULATIONS
+
+15.1 Contractor will fully comply with all applicable laws and regulations pertaining to working conditions including, but not limited to, workers’ compensation, social security, federal, state and local income tax withholding,
+unemployment insurance, the Occupational Safety and Health Act, the Immigration Reform and Control Act of 1986, the Americans with Disabilities Act, and all applicable federal, state and local laws including without limitation those laws affecting
+employment, business opportunities, and the environment, applicable at the Site. Contractor is responsible for the timely payment of any and all employment related taxes with respect to Work performed by Contractor or its Subcontractors. In the
+event that Contractor’s employees or its Subcontractors’ employees are deemed to be Owner employees by any government authority, Contractor shall reimburse Owner for any corresponding taxes or fees paid by Owner.
+15.2 Contractor expressly guarantees that for all tools, materials and equipment to be furnished and used, and for all work and labor to be performed
+under the terms of this Agreement and in every activity connected therewith, Contractor shall comply fully with all applicable federal, state and local laws, statutes, codes, ordinances, rules and regulations, and shall furnish Owner evidence of
+such compliance as Owner may require at any time. If the services rendered under this Agreement are licensed by the state in which the Work is to be performed, Contractor must obtain and maintain the state license and must submit a copy to Owner
+prior to the performance of Work covered by this Agreement.
+15.3 Contractor agrees that all products furnished or Work performed shall be
+in compliance with all applicable federal, state and local laws and regulations respecting the environment, including, but not limited to, the Clean Air Act, the Toxic Substance Control Act, the Safe Drinking Water Act, the Comprehensive
+Environmental Response, Compensation and the Liability Act, the Superfund Amendments and Reauthorization Act, the Environmental Planning and Community Right-To-Know Act, the Oil Pollution Act of 1990, the Clean Air Act Amendments of 1990, the
+Migratory Bird Treaty Act, the Endangered Species Act, and the Resource Conservation and Recovery Act. The handling of any solid or hazardous waste subject to the Resource Conservation and Recovery Act shall be in compliance with EPA Regulations at
+Parts 260 through 265, and Parts 122 through 125 of Title 40, Code of Federal Regulations, and any other applicable regulation under the Resource Conservation and Recovery Act. Contractor agrees at all times in performance of the Work hereunder, to
+abide by all the federal, state, and local laws listed above as said laws or regulations may be amended from time-to-time subsequent to the Effective Date of this Agreement and all other laws, orders, rules and regulations, prescribed by any
+governmental body having jurisdiction.
+
+
+16	CONSENT TO RIGHTS OF SECURED PARTIES
+
+16.1 Contractor
+acknowledges that Owner will be financing the Project, through a combination of debt, equity and prepayments from Owner’s customers. In connection with any debt financing, the lenders and the collateral agent may request Contractor to execute
+consents and provide a legal opinion. As such, Contractor agrees that on or prior to the date of financial closing on Owner’s
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 24 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+senior credit agreement providing for the financing of the Project, Contractor shall (and hereby agrees to) enter into a consent and agreement for the
+benefit of the collateral agent and secured parties substantially identical to the form of consent and agreement attached as Exhibit E hereto (the “Consent”), and Contractor shall (and hereby agrees, and instructs its
+counsel, to) provide an opinion of legal counsel substantially in the form and scope of the form of legal opinion attached to the Consent as Exhibit A. Unless the Consent or Legal Opinion are substantially different than Exhibit E,
+Contractor’s refusal to sign the Consent or provide the Legal Opinion for any reason shall constitute a material breach of this Agreement entitling Owner to immediately terminate the Agreement.
+
+
+17	GENERAL PROVISIONS
+
+17.1 DISPUTE RESOLUTION. If any
+controversy or Claim arises out of or relates to this Agreement, or breach thereof, the parties agree to the following procedure:
+17.1.1 DIRECT NEGOTIATION. The Parties shall initially attempt to resolve the dispute by direct negotiation in an amicable manner.
+17.1.2 MEDIATION. If the Parties fail to reach agreement by direct negotiation within thirty (30) days from the commencement of negotiation, the parties will submit the dispute to non-binding mediation under the
+Construction Industry Mediation Rules of the American Arbitration Association. The mediation shall be held in the county and state where the Project is located, unless otherwise agreed to by the parties in writing.
+17.1.3 ARBITRATION. If the Parties cannot settle the dispute by non-binding mediation within 60 days from the commencement of mediation,
+the dispute shall be settled by arbitration in accordance with the Construction Industry Arbitration Rules of the American Arbitration Association then in effect unless the parties mutually agree otherwise. In any such arbitration proceeding, either
+party may join any third party who participated in the Project who is or may be necessary to resolution of the dispute. Such arbitration proceeding shall be held in the county and state where the Project is located, unless otherwise agreed to by the
+parties in writing.
+17.1.4 DEMAND FOR ARBITRATION. Notice of the demand for arbitration shall be filed in writing with the
+other Party to this Agreement and with the American Arbitration Association within 60 days after the Parties fail to reach agreement by non-binding mediation.
+17.1.5 DISCOVERY BEFORE ARBITRATION. Prior to any arbitration hearing, discovery shall be limited to: interrogatories; requests for
+production of documents; exchange of written reports prepared by expert witnesses retained by any party to the proceeding; depositions of such expert witnesses; and depositions of no more than ten (10) witnesses by each party, unless otherwise
+agreed to by the parties in writing. The Parties shall be entitled to take such discovery from third parties as agreed to or as ordered or approved by the arbitrator(s).
+17.1.6 JUDGMENT. Judgment upon the award rendered by the arbitrators shall be final and may be entered in any court having lawful
+jurisdiction thereof.
+17.1.7 PERFORMANCE PENDING RESOLUTION OF DISPUTE. Unless otherwise agreed in writing, Contractor
+shall continue its services and maintain its progress during any dispute resolution proceedings, and Owner shall continue to make payments to Contractor in accord with this Agreement.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 25 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+17.2 Assignments; Subcontracting. For subcontracts greater than 5% of the estimated Contract Price, Contractor shall not in any way
+assign, transfer or otherwise transfer the obligations or the benefits of this Agreement, in whole or in part, without the prior written consent of Owner which shall not be unreasonably withheld, and any attempt by Contractor to do any of the
+foregoing without Owner’s prior written consent shall be void and of no effect. If Contractor does, with the prior written consent of Owner assign this Agreement, in whole or in part, it shall require its assignee to be bound by the terms of
+this Agreement and to assume all of the obligations and responsibilities of Contractor. Each first-tier subcontract to which Owner consents in writing pursuant to the provisions of this paragraph is hereby assigned by Contractor to Owner provided
+that such assignment shall be effective only after termination of this Agreement and only if Owner or another contractor appointed by Owner is prepared to perform Contractor’s obligations under such subcontract, as the case may be, whereupon
+such subcontract shall continue in full force and effect in favor of such successor to Contractor. Any such assignment or subcontracting shall not operate to release Contractor from any of its obligations and liabilities hereunder unless
+specifically provided in Owner’s written consent. In such cases where Owner may request a specific Subcontractor, Contractor may request an increase in Contract Price if use of said Subcontractor causes an increase in total cost.
+17.3 Governing Law. This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the state in which
+the Work is performed, excluding its conflicts of law rules.
+17.4 Amendments and Integration. This Agreement shall
+constitute the complete and entire agreement between the parties hereto with respect to the subject matter hereof. No prior or contemporaneous statement or agreement, oral or written, shall vary or modify the written terms of this Agreement. In the
+event of any conflict among the Statement of Work and any Drawings or Specifications, Contractor shall furnish the better quality or greater quantity of work or materials. This Agreement may be amended only by a written document signed by both
+Parties, stating that it is intended to amend this Agreement.
+17.5 Notices. All notices, requests, demands, replies and
+other communications required or permitted to be given by either Owner or Contractor hereunder shall be in writing and shall be deemed to have been given if delivered in Person or by facsimile, e-mail, overnight delivery service or by first class
+certified mail, with return receipt requested, postage and fees prepaid, to the address of the intended recipient as set forth below. Notice delivered in Person shall be acknowledged in writing at the time of receipt. Notice delivered by facsimile
+or e-mail shall be acknowledged by return facsimile or e-mail within twenty-four (24) hours, excluding Saturdays, Sundays and public holidays. All such notices, requests, demands, replies and other communications shall be deemed to have been
+received by the addressee, if by mail, five (5) Days following deposit with the United States Postal Service, if by facsimile or e-mail, twenty-four (24) hours following transmission and electronic confirmation of receipt; if by national
+overnight delivery service, 12:00 noon the Day following deposit with such service under a request for 10:00 a.m. delivery; or if by personal delivery, upon such delivery. All such notices, requests, demands, replies and other communications shall
+be sent to the following addresses:
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 26 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+To Owner:
+HOKU MATERIALS, INC.
+1 Hoku Way
+
+Pocatello, Idaho 83204
+Attn: Karl M. Taft III
+Phone: 808-682-7800
+Facsimile: 808-682-7807
+E-mail: [*]
+With a copy to:
+HOKU SCIENTIFIC, INC.
+1075 Opakapaka Street
+Kapolei, Hawaii 96707
+Attn: Dustin Shindo
+Phone: 808-682-7800
+Facsimile: 808-682-7807
+E-mail: [*]
+To Contractor:
+JH Kelly LLC
+821 3rd Avenue,
+Longview, WA 98632
+Attention: Mason Evans, President
+Phone: 360-423-5510
+Fax: 360-423-9170
+E-mail: [*]
+With a copy to:
+JH Kelly LLC
+2311 East First Street
+Vancouver, WA 98661
+Attention: Mark Fleischauer
+Phone: [*]
+Facsimile: [*]
+E-mail: [*]
+The foregoing addresses may be changed by either party by
+giving notice to the other as provided above.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 27 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+17.6 Rights and Remedies. The failure of either party to exercise any right under this Agreement shall not, unless otherwise provided or agreed in writing, be deemed a wavier thereof. No waiver by either party of any
+provision hereof shall be deemed a waiver of any future compliance therewith, and such provision shall remain in full force and effect.
+17.7 Relation of the Parties. In connection with the provision of the Work, Contractor shall operate as and shall have the status of an independent contractor. Nothing in this Agreement shall be construed as establishing or creating the
+relationship of principal and agent, partners, or joint venturers between Owner and Contractor, or the employees, agents and representatives of Contractor.
+17.8 Severability. In the event that any clause or provision in this Agreement shall, for any reason, be deemed illegal, invalid or unenforceable, the remaining provisions and clauses shall not be affected, impaired
+or invalidated and shall remain in full force and effect. In lieu of such illegal, invalid or unenforceable provision, there shall be added automatically as a part of this Agreement a provision as similar in terms to such illegal, invalid or
+unenforceable provision as may be possible and be legal, valid and enforceable.
+17.9 Headings. The headings contained in this Agreement
+are for ease of reference only and shall not limit or otherwise affect the meaning hereof.
+17.10 Time. All time limits provided for herein
+are of the essence of this Agreement.
+17.10.1 See Sections 10.1.1 and 10.1.3 for Contractor default.
+17.10.2 A verbal or written notification by Contractor for potential extension of time shall be made by Contractor to Owner, not more
+than thirty (30) Days after the commencement of the delay; otherwise the right to request an extension shall be waived. In the case of a continuing delay only one claim is necessary. Contractor shall then within 30 additional Days or as soon as
+reasonably possible thereafter provide a written estimate of the probable effect of such delay on the progress of the Work.
+17.11 Approvals. Each party represents and warrants to the other that its Board of Directors has adopted resolutions and taken all requisite action required to approve this Agreement and authorize its execution.
+17.12 Survival. Except as otherwise provided herein, warranties, covenants and obligations under this Agreement (including, without
+limitation, those set forth in Section 3.9 and in Sections 7.4 through 7.7), shall survive the termination or cancellation of this Agreement for services provided prior to termination or cancellation, regardless of the reason for such
+termination or cancellation, and shall continue in full force and effect.
+17.13 Contractor Bonds. Contractor shall not be
+obligated to provide any bonds, including payment and performance, to perform this Work.
+[Signature page follows.]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 28 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives on the respective dates set forth below each of their signatures, to be effective, however, as
+of the date first written above.
+
+
+
+HOKU MATERIALS, INC.	 		 	JH KELLY LLC
+
+By:	 	/s/ Dustin M. Shindo	 		 	By:	 	/s/ Mason M Evans
+
+Name:	 	Dustin M. Shindo	 		 	Name:	 	Mason M Evans
+
+Title:	 	Chief Executive Officer	 		 	Title:	 	President
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 29 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+EXHIBIT A
+STATEMENT OF WORK
+This Statement of Work further defines the Work to be performed by Contractor pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and JH KELLY LLC
+(the “Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+Contractor shall provide the construction
+services as a general contractor to complete the Project on the Site (as more fully described on Appendix 1 to this Statement of Work), which shall be based on the description below, the Drawings attached hereto as Appendix 2, the technical
+specifications attached hereto as Appendix 3 and such additional plans, drawings and diagrams and technical specifications as shall be provided from time to time by Owner and its contractors.
+Project Objective:
+Produce a minimum of 2,000 metric tons
+(MT) annually of solar grade purity polycrystalline silicon for sale to the solar cell industry.
+General Process Description:
+Polysilicon is produced by a batch process where trichlorosilane (TCS) gas and hydrogen are combined in a number of reactors at approximately 2,000° F and the solid
+silicon released from the reaction is deposited onto a silicon filament inside the reactor.
+Production of polysilicon can be separated into several
+processing functions as follows:
+Feed Preparation and Purification:
+[*]
+Polysilicon Production:
+[*]
+[*]
+Polysilicon Product Handling:
+
+[*]
+Polysilicon Support Areas:
+[*]
+In furtherance of the foregoing, Contractor shall act as general
+contractor to perform or facilitate the light and industrial construction and project controls to complete the Project. Construction will be direct or subcontractor based and includes in part the following disciplines:
+
+
+•	 	 Earthwork, Excavation and Grading
+
+
+
+•	 	 Concrete Foundations, Paving and Structures
+
+
+
+•	 	 Structural Erections
+
+
+
+•	 	 Equipment Erection
+
+
+
+•	 	 Pipe Fabrication and Erection
+
+
+
+•	 	 Electrical and Instrumentation
+
+
+
+•	 	 Painting
+
+
+
+•	 	 Insulation
+
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 30 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+•	 	 Site security
+
+
+Contractor acknowledges that this is
+a Greenfield Project and that Contractor has taken into consideration the additional costs incidental to a Greenfield Project in its Target Price such as site preparation, fencing, road access and securing necessary utilities, among others.
+
+Attachments to Exhibit A
+Appendix 1 – Description of
+Site
+Appendix 2 – Technical Specifications
+Appendix 3
+– Drawings
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 31 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Appendix 1
+Description of Site
+The following Drawings are attached to this Appendix 1 pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and JH KELLY LLC (the
+“Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+Preliminary Plot Plans:
+[*]
+[*]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 32 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 33 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 34 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Appendix 2
+Technical Specifications
+The following technical specifications are provided pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS,
+INC. and JH KELLY LLC (the “Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+TCS Production Method: [*]
+
+Polysilicon Purity Specifications:
+
+
+
+Type
+Bulk elements
+Value
+Unit
+
+Acceptors
+[*]	 	[*]	 	[*]
+
+Donors
+[*]	 	[*]	 	[*]
+
+[*]
+[*]	 	[*]	 	[*]
+
+[*]
+[*]	 	[*]	 	[*]
+
+[*]
+[*]	 	[*]	 	[*]
+
+
+
+
+•	 	 [*]    [*]
+
+
+
+•	 	 [*]    [*] [*]
+
+
+
+•	 	 [*]                [*]
+
+
+
+•	 	 [*]                [*]
+
+
+
+•	 	 [*]                [*]
+
+
+
+•	 	 [*]                        [*]
+
+
+
+
+•	 	 [*]                        [*]
+
+
+
+
+•	 	 [*]                [*]
+
+
+
+•	 	 [*]                [*]
+
+
+More detailed technical specifications within the scope set forth in the Statement of Work and the Drawings will be released upon completion of the engineering design
+for the Project.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 35 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Appendix 3
+Drawings
+The following Drawings are attached to this Appendix 3 pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and JH KELLY LLC (the
+“Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+Preliminary Block Flow Diagrams:
+
+[*]
+[*]
+[*]
+Preliminary Process Flow Diagrams:
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+[*]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 36 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 37 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 38 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 39 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 40 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 41 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 42 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 43 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 44 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 45 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 46 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 47 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 48 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 49 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 50 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 51 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+EXHIBIT B
+PROJECT SCHEDULE
+The following Project Schedule is attached as Exhibit B to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and JH KELLY LLC (the
+“Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+The “Preliminary Reactor Test Demonstration”
+is scheduled for completion on or before October 31, 2008.
+The “Mechanical Completion” is scheduled to be accomplished on or before
+January 31, 2009.
+“Substantial Completion” is scheduled to be accomplished on or before May 31, 2009.
+It is understood by Owner and Contractor that the Project Schedule outlined above is a target. In no event, however, does Contractor represent or warrant to Owner that
+the Project Schedule will be achieved, and subject to Owner’s remedies pursuant to the Agreement for Contractor’s failure to perform, Contractor shall be paid for the Cost of the Work pursuant to the Agreement regardless of the actual
+completion schedule.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 52 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+EXHIBIT C
+COST OF THE WORK
+This Exhibit C further defines the Cost of the Work pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and JH KELLY LLC (the
+“Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+A. Cost of the Work. The Cost of the Work
+shall be limited to costs reasonably incurred by the Contractor in the proper performance of the Work (as further described below, the “Cost of the Work”), which shall exclude any components supplied by Owner or others. Contractor
+equipment, labor and supervision shall in be billed in accordance with Contractor’s then current rate schedules (the version effective as of the execution date of this Agreement is attached hereto as Appendix 1 to this Exhibit C). All remaining
+costs shall be at rates comparable to the standard paid at the place of the Project. Contractor is directed to employ a forty (40) hour work week and not utilize overtime or premium time rates or incur material or equipment expediting costs,
+unless the Owner has approved the use of such overtime or premium time or expediting costs in advance. In addition, Contractor shall keep Owner regularly apprised of crew sizes and shall provide written monthly reports documenting actual versus
+estimated man-hours expended in the course of the Work. The Cost of the Work shall include only the items set forth in this Section, as follows:
+
+
+1.	Wages of construction workers directly employed by the Contractor to perform the construction of the Work at the site or in Contractor’s fabrication facilities.
+
+
+
+
+2.	Wages of construction workers directly employed by the Contractor to perform the construction of the Work at locations other than the Site, provided that the nature and scope of
+such off-Site Work is approved in writing in advance by Owner.
+
+
+
+3.	Wages or salaries of the Contractor’s supervisory and administrative personnel wherever located or engaged, but only for that portion of their time required for and directly
+related to the performance of the Work.
+
+
+
+4.	Costs paid or incurred by the Contractor for employee-related insurance, contributions, assessments, travel, subsistence and benefits required by law or collective bargaining
+agreements and, for personnel not covered by such agreements, customary benefits such as employee-related insurance, contributions, assessments, sick leave, medical and health benefits, holidays, vacations and pensions, provided such costs are based
+on wages and salaries included in the Cost of the Work under Paragraphs 1 2, and 3 above.
+
+
+
+5.	Actual payments made by the Contractor to Subcontractors in accordance with the requirements of the applicable subcontracts and supply contracts.
+
+
+
+6.	Costs, including transportation and installation, of materials and equipment incorporated or to be incorporated in the completed Project. Costs, including transportation,
+installation, maintenance, dismantling and removal, of materials, supplies, temporary facilities, machinery, equipment and hand tools not customarily owned by the construction workers which are provided by the Contractor at the site and fully
+consumed in the performance of the Work; and cost less salvage value on such items if not fully consumed, whether sold to others or retained by the Contractor. Cost for items previously used by the Contractor shall be fair market value.
+
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 53 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+7.	Rental costs of machinery and equipment used in the performance of the Work; provided that in no event shall such rental costs paid for particular items of machinery or equipment
+exceed the market rate purchase price of such items.
+
+
+
+8.	Costs of installing equipment and components furnished by the Owner (“Owner-Furnished Components”).
+
+
+
+9.	Costs of removal and disposal of debris from the Project site.
+
+
+
+10.	Premiums for insurance, to the extent of the portion directly attributable to this Agreement.
+
+
+
+11.	Costs of permits, fees, tests and inspections paid by the Contractor.
+
+
+
+12.	Costs relating to any general conditions and overhead reasonably allocable to the Work and not to any other project. These costs include items such as utilities, telecommunications,
+water coolers, portable toilets, Site security, etc.
+
+
+
+13.	Cost of the building permit, if obtained by the Contractor; provided, that this cost shall not be subject to Contractor’s Fee.
+
+
+
+14.	Other costs incurred in the performance of the Work if and to the extent approved in advance in writing by the Owner.
+
+A Costs Not to be Reimbursed. The Cost of the Work shall, except to the extent reasonably allocable to the Work or the Project, exclude the following:
+
+
+1.	Wages, salaries and other compensation of the Contractor’s and Subcontractors’ personnel for their time not required for the performance of the Work.
+
+
+
+
+2.	Expenses of the Contractor’s principal office and other offices.
+
+IV. Target Price:
+Estimated Cost of the Work:
+
+
+
+Sitework/Earthwork:
+[*]
+Concrete, Grout, Masonry/Building, Structural Steel:
+[*]
+Process Equipment & Piping:
+[*]
+Electrical and Instrumentation:
+[*]
+Miscellaneous (Paint, Insulation, etc.):
+[*]
+Rental Equipment:
+[*]
+Home Office/Field Staff/Indirects:
+[*]
+Other (State & Local Tax):
+[*]
+Fee ([*] of Cost of the Work):
+[*]
+Schedule Incentive Fee:
+[*]
+Safety Incentive Fee:
+[*]
+Total Estimated Target Price:
+$	120,000,000
+
+
+
+Budget Incentive Fee:
+([*] of difference between actual Cost of the Work and Total Estimated Target Price if actual Cost of the Work is less than
+
+
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 54 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Total Estimated Target Price, pursuant to Section 9.2.2.1 of the Agreement)
+
+
+It is understood by Owner and Contractor that the Total Estimated Target Price and the Schedule Incentive Fee outlined above are only intended to provide an incentive for
+Contractor to put forth extra efforts to minimize costs and meet the Project Schedule. In no event, however, does Contractor represent or warrant to Owner that the Total Estimated Target Price or the Project Schedule will be achieved, and Contractor
+shall be paid for the Work pursuant to the Agreement regardless of the actual Cost of the Work or the actual schedule.
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 55 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+APPENDIX 1 TO EXHIBIT C
+CONTRACTOR’S RATE SHEET
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 56 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+JH KELLY, LLC
+Hoku Scientific, Inc. Longview, WA Craft Cost Rate:
+Date Issued              8/7/07 klw
+
+
+
+
+
+CLASSIFICATION	  	 STRAIGHT
+TIME
+TIME &
+A HALF    	 	DOUBLE
+TIME
+PIPEFITTERS LOCAL #26 LV ZONE 5,6,7
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+MILLWRIGHTS LOCAL #1707 LONGVIEW, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN B
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+SUPERINTENDENT
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+CARPENTERS LOCAL #1707 LONGVIEW, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN B
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+BOILERMAKERS LOCAL #502 TACOMA, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+ASSISTANT FOREMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 10-01-06-TO 09-30-07
+
+
+OPERATING ENGINEERS LOCAL #701 ZONE
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 2	  	[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 2	  	[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 4	  	[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 4	  	[*]	 	[*]	 	[*]
+EFFECTIVE 01-01-07 TO 12-31-07
+
+
+LABORERS LOCAL #791 LONGVIEW, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+IRONWORKERS LOCAL #29 PORTLAND, OR
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+CEMENT MASONS LOCAL #528 SEATTLE, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+ELECTRICIANS LOCAL #970 LONGVIEW, WA
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+
+
+
+NOTES
+1. RATES INCLUDE SMALL TOOLS PER AGREEMENT
+2. MARK-UP FOR MATERIALS, SUBS, AND THIRD PARTY RENTALS PER CONTRACT
+
+3. TRAVEL PER COLLECTIVE BARGAINING AGREEMENT
+4. PREMIUM PAY MAY BE
+REQUIRED BASED ON CRAFT AVAILABILITY
+
+
+
+
+Page 57 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[*]
+
+
+Page 58 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+JH KELLY, LLC
+Hoku Scientific, Inc. Pocatello, ID Craft Cost Rate:
+Date Issued          8/7/07 klw
+
+
+
+
+
+CLASSIFICATION	  	 STRAIGHT
+TIME
+TIME &
+A HALF    	 	DOUBLE
+TIME
+PIPEFITTERS LOCAL #648 POCATELLO, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 7-01-07 TO 12-31-07
+
+
+MILLWRIGHTS LOCAL #808 IDAHO FALLS, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN B
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 07-01-07 TO 12-31-07
+
+
+CARPENTERS LOCAL #808 IDAHO FALLS, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN B
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 07-01-07 TO 12-31-07
+
+
+BOILERMAKERS LOCAL #182 SALT LAKE CITY, UTAH
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+ASST. FOREMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 10-01-06-TO 09-30-07
+
+
+OPERATING ENGINEERS LOCAL #370 POCATELLO, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 2
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 2
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 3
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 3
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 4
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 4
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 5
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 5
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 6
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 6
+[*]	 	[*]	 	[*]
+EFFECTIVE 01-01-05 TO 12-31-07
+
+
+LABORERS LOCAL #155 IDAHO FALLS, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 2
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 2
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 3
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 3
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 4
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 4
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 5
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 5
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+GROUP 6
+[*]	 	[*]	 	[*]
+FOREMAN
+GROUP 6
+[*]	 	[*]	 	[*]
+EFFECTIVE 01-01-07 TO 12-31-07
+
+
+IRONWORKERS LOCAL #732 POCATELLO, IDAHO
+
+APPRENTICE 80%
+[*]	 	[*]	 	[*]
+JOURNEYMAN
+[*]	 	[*]	 	[*]
+FOREMAN
+[*]	 	[*]	 	[*]
+GENERAL FOREMAN
+[*]	 	[*]	 	[*]
+EFFECTIVE 06-01-07 TO 12-31-07
+
+
+
+
+
+NOTES
+1. RATES INCLUDE SMALL TOOLS PER AGREEMENT
+2. MARK-UP FOR MATERIALS, SUBS, AND THIRD PARTY RENTALS PER CONTRACT
+3. TRAVEL PER COLLECTIVE BARGAINING AGREEMENT
+4. PREMIUM PAY MAY BE REQUIRED BASED ON CRAFT AVAILABILITY
+
+
+
+
+Page 59 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+REIMBURSABLE MATERIALS & SUPPLIES
+
+
+FOR: JH KELLY, LLC	  	PAGE 1 OF 1
+
+
+Please note: Items designated as “Materials &
+Supplies” are billable as materials with 8% mark-up, or per Contract.
+
+
+
+DESCRIPTION
+
+Abrasives and Abrasive Wheels
+Electric Light Bulbs (permanent	  	Paint and Paint Remover
+Acetylene
+installation)	  	Paint Brushes
+Acid Suites
+Electrical Tape	  	Paper – Sand, Emery, Building,
+Acids – Battery, Soldering &
+Electric Wiring	  	etc.
+Picking
+Electrodes – Welding	  	Paste – Solder
+Additives
+Emery Cloth	  	Patterns – Pipe Layout
+Adhesives
+Faucets	  	Permatex
+Alcohol
+Film – Photographic	  	Pipe Compound
+Anti-Freeze
+Filters – All Types (Element)	  	Plywood
+Arbors – Holesaw, Grinders
+Flares – Railroad	  	Polyethylene & Visqueen
+Argon
+Flints – Welding Lighters	  	Preservatives – Rust
+Barrels – Water, Trash, etc.
+Fluids – Washing, Clearing	  	Prest-o-lite
+Blades – Circ. Saw, Band Saw,
+Flux – Brazing, Solder	  	Primers – Paint, etc.
+Hacksaw, Diamond, etc.
+Friction Tape	  	Protective Coating – Pipe
+Blankets – Asbestos
+Fuses – Electric	  	Pulling Lube
+Blocking – (for stacking materials)
+Gas Masks and Cartridges	  	Rags
+Bolts and Nuts
+Gases – Industrial (all types)	  	Respirators – Disposable,
+Brazing – Rod or Wire
+Gasket Material (all types)	  	Cartridge, Pouch
+Brushes – Making, Acid
+Glue	  	Rods – Welding, Brazing, Pencil
+Cable – Wire Rope (if not used in
+Grease	  	Rope – All Kinds
+JHK Equipment)
+Grinding Compound	  	Runways – Wood
+Canvas
+Grinding Wheels	  	Rust Preservatives
+Carbide
+Hand Lines	  	Sand Blast Sand
+Carbon Tetrachloride
+Hardware Cloth	  	Sand Paper
+Caulking Compound
+Hasps	  	Saw – Blades
+Clamps – Cable, Hose
+Heliarc – Parts	  	Scaffold – Materials (wood, metal,
+Clean Room Garments
+Hole Saw – Blades	  	etc.)
+Cleaning Compound
+Horses – Wood	  	Scaffold – Systems (Owned or 3rd
+Clips – Cable, Wire Rope
+Hose – Air Steam	  	Party Rental)
+Cloth – Emery, Straining, Wiping
+Ice	  	Solder
+Compound – Brazing, Grinding,
+Insecticides	  	Solvents
+Sweeping
+Iron – Banding	  	Splicing Kits
+Connectors – Hose, Welding
+Jute	  	Star Drills
+Cable Replacement
+Kerosene	  	Steel Wool
+Cooler – Water (Ice Type for
+Lead	  	Stencils – Number, Letters
+Field)
+Locks	  	Stress Relieving Supplies
+Cribbing
+Lubrication	  	Sweeping Compound
+Cutting Wheels – Abrasive, Steel
+Lugs – Solder	  	Taps – Bolts, Pipe
+Dies – Pipe, Bolt (replacement)
+Lumber – All Kinds	  	Thinners – Paint, etc.
+Discs – Cutting
+Masks – Dust Gas	  	Thread Dope
+Disinfectants
+Nails	  	Timbers
+Demolition Points – Moil
+Nitrogen	  	Tips – Cutting Welding
+Dope – Pipe
+Nomex & Cleaning	  	Twine
+Dope Pot
+Nuts and Bolts	  	Waste – Wiping
+Drill Bits – All Types (Star & Twist)
+Oakum	  	Wedges – Wood, Steel
+Drop Cloths
+Oil – All Types	  	Welding Rod
+Dry Ice
+Oxygen	  	Wheels – Cutting, Grinding
+Dunnage
+Padlocks	  	Wire – Electrical, Tie, etc.
+Dynamite
+Pails
+
+Note:
+
+1.	Listing is intended to be representative and may not include all items required to effect each specific craft or the project.
+
+
+
+Page 60 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+REIMBURSABLE MATERIALS & SUPPLIES
+
+
+FOR: JH KELLY, LLC	  	PAGE 1 OF 2
+
+
+Please note: Items designated as “Small Tools &
+Supplies” are included in our labor mark-up.
+
+
+
+DESCRIPTION
+
+Acetylene Torches
+Chasers – Thread, Pipe	  	Furnace – Plumbers
+Air Conditioner – Office
+Chipper – Air	  	Gang Box
+Air Horns
+Chisels – Caulking, Cold	  	Gauges – Drill, Wire, Thread, etc.
+Aprons
+Chokers, Wire Rope	  	Glass – Goggles, Welding Hood
+Auger – Hand
+Clamps – “C”	  	Gloves – Rubber, Welding, Cloth,
+Auger – Power
+Clay Spade – Air	  	etc.
+Axes
+Clay Spade – Hank	  	Goggles
+Badges – Identification
+Coats – Rain, Welding	  	Grinders – Air
+Banding Machine
+Coffee	  	Grinders – Bench (Electric)
+Bands – Safety Hat, Sweat
+Combination Sets	  	Grinders – Elec. Lag. Side/End
+Bars – Pinch, Crow, Wrecking
+Come-A-Long – 1 1/2 Ton & Up	  	Grinders – Pencil
+Batteries – Dry Cell, Flashlight
+Concrete Vibrator – Air, Electric	  	Hacksaw – Frames
+Belt – Pipe Sling
+Cords – Extension	  	Hammers – Electric
+Benders – Hand
+Crayon – Marking	  	Hammers – Hand
+Bibs – Welding
+Crescent Wrenches	  	Hand Saws
+Binders – Load
+Cutter Jaws and Wheels	  	Handles – Hand Tool
+Bits – Expansion, Gimlet
+Cutters – Bolt, Gasket, Wire, Pipe	  	Handles – Ratchet
+Blocks – Snatch, Tackle (under 25
+Cutting Outfits – Complete	  	Hard Hats and Liners
+ton)
+Dial Indicators	  	Hatchets
+Bolt Cutter
+Die Holders, Stocks	  	Hats – Safety, Rain, Liners, Bands
+Bolt Cutter Jaws
+Diggers – Hold (Hand)	  	Hilti Guns, (all types)
+Boots – Rubber
+Dippers – Water	  	Holders – Electrode
+Boroscope
+Dispensers – Field, Salt Tablet,	  	Hoods – Sandblasting, Welders
+Box Wrenches
+etc.	  	Hose – Garden
+Boxes – Small Tools (Wood or
+Dollies – Pipe	  	Hose – Welding Tail
+Steel)
+Drift Pins	  	Impact Wrenches –1/2” Drive and
+Braces – Hand Drill
+Drills – Air Operated	  	under
+Brake Fluid
+Drills – Electric up to & incl. 1/2”	  	Impact Wrenches - 5/8” Drive and
+Brass Tags – Tool Check
+Drills – Hand Operated	  	over
+Brooms
+Drinking Cups	  	Iron – Caulking, Soldering
+Buckets – Water
+Drop Lights	  	Jacks – 10 Ton or Less (no porto-
+Bulbs – Flashlight
+Drums – Oil, Kerosene, Gasoline	  	power)
+Cable – (Electrical Cord – not
+Edges – Straight (Beveled Edge)	  	Jaws – Pipe Cutter, Wrench, etc.
+welding)
+Edges – Straights, Wood	  	Keel – Lumber Crayon
+Cable – Welding
+Electric Light Bulbs (construction,	  	Knives – Putty, roofing, etc.
+Calipers – Pipe
+temporary)	  	Ladders – Aluminum
+Candles – Plumbers
+Electrode – Holder	  	Ladders – Wood
+Cans – Oil, Gasoline, Water
+Extension Cords	  	Ladles – Melting, Lead Pouring
+Cant Hook
+Extinguishers – Fire (incl. refills)	  	Lamps – Electric, Kerosene
+Caps – Torch
+Extractors	  	Lenses – Goggles, Welding Hood
+Carts – Warehouse
+Files – All Hand	  	Letters – Steel Stamping
+Center Punch
+Fire Extinguishers (incl. refills)	  	Levels - Metal
+Chain
+First Aid Kits and Supplies	  	Levels – Wood
+Chain Hoist – 1 Ton and Under
+Flaring Tools – Tubing	  	Lighters – Friction
+w/8’ Lift
+Flashlights	  	Line – Chalk, Mason
+Chain Hoist – Over 1 Ton
+Frames – Hacksaw	  	Load Binders
+Chalk – Marking, Line
+Funnels
+
+
+
+Page 61 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+REIMBURSABLE MATERIALS & SUPPLIES
+
+
+FOR: JH KELLY, LLC	  	PAGE 2 OF 2
+
+
+
+
+
+Lubrictors (Airline, as part of
+Rivet Hammers – Air	  	Squares – Steel
+equipment)
+Rods – Line and Level	  	Stamps – Steel, Stencil, etc.
+Mauls
+Rollers – Wood, Pipe	  	Steel Tapes – Measuring
+Measuring Cans
+Rules – Field Craftsman	  	Stocks 0 (with initial set of dies)
+Measuring Tapes
+Runners – Lead Joint	  	Straight Edges – Metal
+Mops
+Safety Equip-Stretchers, Goggles,	  	Straight Edges – Wood
+Nibblers – Electric
+Hard Hats	  	Supplies – First Aid, Washroom
+Oil Cans
+Saw – Chain	  	Tail Hose 0 Oxygen, Acetylene
+Ovens – Lg. Rod
+Saws – Skil 8” Blade, Saber,	  	Tapes – Friction, Fish, Measuring
+Ovens – Sm. Rod
+Coping	  	Tar Kettles – Kerosene Fired
+Pencils – Carpenters & Lbr.
+Screwdrivers	  	Themometers
+Marking
+Shackles	  	Tip Cleaners – Oxygen, Acetylene
+Pick Axe
+Shears – Hand	  	Torches – Toledo
+Pins – Drift, etc.
+Shears – Heavy Duty Elec.	  	Trucks – Hand, Oxygen, Acet.,
+Pliers – All Types
+Shield – Face	  	Warehouse
+Plum Bobs
+Shovels – Hand	  	Tube Benders – Hand
+Plumbers Friend
+Sledges – All Sizes	  	Tubing Cutters
+Pots – Lead Melting
+Sleeves – Welder	  	Vacuum Cleaners – High
+Pumps – Hand
+Slings – All Kinds	  	Efficiency
+Raincoats and Hats
+Snips – Tin	  	Vacuum Cleaners – Industrial
+Rakes
+Soap	  	Vests – Welding
+Rasps – All Types
+Soapstone	  	Vises – Bench, Pipe
+Ratchets
+Sockets – Wrenches (up to & incl.	  	Wagon Drill Steel
+Reamers – All Types
+3/4” drive)	  	Welding Screens
+Reels – Cable
+Soldering – Irons	  	Wheelbarrows
+Regulators – Oxygen, Acetylene
+Spades – Hand	  	Wrecking Bars
+Respirators – Air Hood
+Spud Wrenches	  	Wrenches – Hand (all types)
+
+Note:
+1. Listing is intended to be representative and may not include all items required to effect each specific craft or the project.
+
+
+
+Page 62 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+STANDARD SMALL TOOLS LIST / 3RD PARTY EQUIPMENT
+
+
+FOR: JH KELLY, LLC	  	PAGE 1 OF 1
+
+
+
+
+
+DESCRIPTION
+REIMBURSABLE
+SMALL
+TOOLS
+
+Barricades – Flasher Type
+3rd Party Rental
+Bits – Diamond Core
+3rd Party Rental
+Blowers – Air, Large
+3rd Party Rental
+Conduit Bender, Large
+3rd Party Rental
+Fans – Electric (above 24”)
+3rd Party Rental
+Hose – Pump, Suction & Discharge Water (above 2”)
+3rd Party Rental
+Hot Tap Machine, Large
+3rd Party Rental
+Lights – Flood, Large
+3rd Party Rental
+Pumps – Electric, Gasoline Air (above 2”)
+3rd Party Rental
+Radio – Walkie Talkie (special tank entering)
+3rd Party Rental
+Salamanders
+3rd Party Rental
+Sand Blast Nozzles
+3rd Party Rental
+Tampers – Air
+3rd Party Rental
+Tampers – Gasoline
+3rd Party Rental
+Vibrators – Compaction
+3rd Party Rental
+Diesel Fuel
+3rd Party Rental Category
+Fuel – Gasoline, Kerosene, Butane, Diesel
+3rd Party Rental Category
+Gasoline
+3rd Party Rental Category
+LP Gas
+3rd Party Rental Category
+
+Note:
+
+1.	Listing is intended to be representative and may not include all items required to effect each specific craft or the project.
+
+
+
+
+
+
+Page 63 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+EXHIBIT D
+OWNER-FURNISHED EQUIPMENT
+This Exhibit D describes the Owner-furnished Equipment to be provided by Owner pursuant to the Cost Plus Incentive Construction Contract dated as of August 8, 2007, between HOKU MATERIALS, INC. and
+JH KELLY LLC (the “Agreement”). Capitalized terms not otherwise defined herein are defined in the Agreement.
+[*]
+]
+
+
+Page 64 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Exhibit E
+Consent and Agreement
+[Attached]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 65 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+CONSENT AND AGREEMENT
+This CONSENT AND AGREEMENT, dated as of
+[            ], 2007 (as amended, restated, supplemented or otherwise modified from time to time, this “Consent”), is entered into by and among
+[            ], a [            ] (together with its successors and assigns, the “Contracting Party”), HOKU MATERIALS,
+INC., a Delaware corporation (together with its successors and assigns, the “Borrower”), and [            ], in its capacity as Collateral Agent for the Secured Parties (as
+defined below) (together with its successors, designees and assigns in such capacity, the “Agent”) under the Intercreditor Agreement (as defined below).
+RECITALS
+A. The Borrower has entered into a Credit Agreement, dated as of
+[            ], 2007 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), by and among the Borrower, the financial institutions
+from time to time parties thereto as lenders, and [            ], as administrative agent (the “Administrative Agent”).
+B. The Contracting Party has entered into [            ], dated as of
+[            ], 2007, (as amended, restated, supplemented or otherwise modified from time to time, the “Contract”), with the Borrower.
+C. The Borrower intends to finance certain costs in connection with the development, construction, operation, maintenance and ownership of a polysilicon producing
+processing plant with a nominal capacity of 2,000 metric tons per year, located in Pocatello, Idaho (the “Project”), with funds borrowed by the Borrower pursuant to the terms of the Credit Agreement.
+E. As collateral security for all obligations of the Borrower to the Secured Parties (as defined below), the Borrower has, inter alia, assigned all of its rights, title
+and interest (the “Assigned Interests”) in, to and under the Contract to the Agent pursuant to a Security Agreement, dated as of [            ], 2007 (as amended, restated,
+supplemented or otherwise modified from time to time, the “Security Agreement”), made by the Borrower in favor of the Agent for the benefit of certain secured parties described therein (the “Secured Parties”) and in that certain
+Collateral Agency and Intercreditor Agreement, dated as of [            ], 2007 (as amended, restated, supplemented or otherwise modified from time to time, the “Intercreditor
+Agreement”), among the Borrower, Hoku Materials Holdings, Inc., the Agent, the Administrative Agent, the Contracting Party and the other Secured Parties party thereto.
+F. Pursuant to the terms of the Intercreditor Agreement, the Secured Parties have appointed the Agent as collateral agent on their behalf and authorized the Agent to take certain actions and exercise such powers under
+the Secured Obligation Documents (as defined in the Intercreditor Agreement) as are provided for therein.
+G. The Borrower has requested that the
+Contracting Party and the other parties hereto execute and deliver this Consent in fulfillment of certain obligations of the Borrower under the Credit Agreement.
+AGREEMENT
+NOW, THEREFORE, in consideration of the foregoing premises and for good and valuable consideration, the
+receipt and sufficiency of which is hereby acknowledged, and intending to be legally bound, the parties hereto agree as follows:
+
+
+1.	Consent and Agreements.
+
+(a) Subject to the terms and conditions of this
+Consent, the Contracting Party acknowledges and consents to the assignment as collateral security to the Agent, for the benefit of the Secured Parties, of the
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 66 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Assigned Interests. The Contracting Party further acknowledges the right of Agent or any designee of Agent, in exercise of Agent’s rights and remedies
+as a secured creditor of Borrower, to make all demands, give all notices, take all actions and exercise all rights of Borrower under the Contract.
+(b) The
+Agent shall be entitled (but not obligated) to cure any defaults of the Borrower under the Contract in accordance with the provisions hereof. Upon receipt by the Contracting Party of written notice from the Agent, the Contracting Party agrees to
+(i) accept such cure by the Agent and, subject to the terms and conditions of the Contract and cure of such defaults, to render to the Secured Parties all performance due by it under the Contract and this Consent, and (ii) act solely on
+the instructions of the Agent, not the Borrower, with respect to the exercise of the Borrower’s rights under the relevant Contract. The Contracting Party agrees to make all payments to be made by it under the Contract directly to the Agent for
+the benefit of the Secured Parties upon receipt of the Agent’s written instructions to do so and any such payments made to the Agent by the Contracting Party shall be deemed to have been made by the Contracting Party in fulfillment of the
+Contracting Party’s obligations to the Borrower under the Contract.
+(c) In all cases except as provided in the Contract or required by law, and in
+accordance with Section 1(e) hereof, the Contracting Party will not, without the prior written consent of the Agent (such consent not to be unreasonably withheld), (i) cancel or terminate the Contract or suspend performance of its services
+thereunder, or consent to or accept any cancellation, termination or suspension thereof by the Borrower, (ii) amend the Contract [NOTE: Exceptions will be limited to Change Orders otherwise permitted under the Credit Agreement], or
+(iii) sell, assign or otherwise dispose (by operation of law or otherwise) of any part of its rights, title or interest in the Contract. The Contracting Party agrees to deliver copies of all notices of default, notices of the suspension of
+performance by Contracting Party, notices of force majeure or requests for change orders delivered by Contracting Party to Borrower under or pursuant to the Contract to the Agent promptly upon delivery thereof.
+(d) The Contracting Party will not terminate or suspend performance of the Contract on account of any default or breach of the Borrower thereunder without written notice
+to the Agent and first providing to the Agent (i) 30 days from the date notice of default or breach is delivered to the Agent to cure such default if such default is the failure to pay amounts to the Contracting Party which are due and payable
+under the Contract, or (ii) a reasonable period, but not fewer than 60 days, to cure such breach or default if the breach or default cannot be cured by the payment of money to the Contracting Party so long as the Agent, the Borrower or their
+respective designee shall have commenced to cure the breach or default promptly following such notice and in any case within such 60-day period and thereafter diligently pursues such cure to completion (but in any event within not more than 120
+days) and during such cure period performs all monetary obligations under the Contract and all other obligations under the Contract are performed by the Borrower or the Agent or their respective designees. For the avoidance of doubt and solely for
+the purposes of the preceding sentence, amounts not paid and subject to a dispute in good faith by the Borrower shall not be deemed to be a payment default. The Contracting Party shall not hinder the Agent’s or its designees’ efforts, and
+shall provide reasonable cooperation to the Agent and its designees, in effecting any cure of any default or breach of the Borrower under the Contract. Except in the event of a payment default under the Contract, if possession of the Project is
+necessary to cure such breach or default, and the Agent or its designees or assignees declares the Borrower in default under the Credit Agreement and within the 60-day period described above commences foreclosure proceedings, the Agent or its
+designees or assignees shall be allowed a reasonable period to complete such proceedings so long as (A) the Agent proceeds diligently and in good faith to do so and during such period performs all monetary obligations under the Contract, and
+(B) all other obligations under the relevant Contract are performed by the Borrower or the Agent or their respective designees. If the Agent or its designees or assignees are prohibited by any court order or bankruptcy or insolvency proceedings
+from curing the default or from commencing or prosecuting foreclosure proceedings, the foregoing time periods shall be extended by the
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 67 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+period of such prohibition so long as (1) the Agent proceeds diligently and in good faith to address such impediments and during such period performs
+all monetary obligations under the Contract, and (2) all other obligations under the Contract are performed by the Borrower or the Agent or their respective designees. The Contracting Party consents to the transfer of the Borrower’s
+interest under each Contract to the Agent or any purchaser, successor, assignee and/or designee (a “Subsequent Transferee”) of the Assigned Interests at a foreclosure sale by judicial or nonjudicial foreclosure and sale or by a conveyance
+by the Borrower in lieu of foreclosure and agrees that, notwithstanding any provision of the Contract to the contrary, upon such foreclosure, sale or conveyance, the Agent or such Subsequent Transferee shall be substituted for the Borrower under the
+Contract and the Contracting Party (a) shall recognize the Agent or the Subsequent Transferee, as the case may be, as its counter-party under the Contract, and (b) perform its obligations under the Contract in favor of the Agent or the
+Subsequent Transferee, as the case may be; provided that the Agent or such Subsequent Transferee (i) has elected to assume the rights and obligations of the Borrower (including the obligation to cure any then existing payment and performance
+defaults, but excluding any obligation to cure any then existing performance defaults which by their nature are incapable of being cured and which default that is incapable of being cured does not materially and adversely affect the rights of the
+Contracting Party under the Contract) under the Contract, and (ii) would reasonably be expected to have the capability to perform the Borrower’s obligations under the Contract. The above notwithstanding, regardless of any assignment
+hereunder, Borrower shall remain fully liable to Contracting Party until all obligations under the Contract are satisfied.
+(e) Subject to payment of all
+amounts due and unpaid to the Contracting Party and cure of all then existing payment and performance defaults, but excluding any obligation to cure any then existing performance defaults which by their nature are incapable of being cured and which
+default that is incapable of being cured does not materially and adversely affect the rights of the Contracting Party under the Contract, in the event the Contract is rejected or terminated by a trustee or debtor in possession in any bankruptcy or
+insolvency proceeding, or if the Contract is terminated for any reason other than a default which could have been but was not cured by the Agent as provided in Section 1(e) hereof, and if, within 45 days after such rejection or termination, the
+Agent shall so request, the Contracting Party shall execute and deliver to the Agent a new Contract having substantially identical terms to the Contract (subject to any conforming changes necessitated by the substitution of parties and such changes
+as may be necessary to compensate the Contracting Party for schedule and cost adjustments resulting from the passage of time).
+(f) In the event the Agent
+or its designees or assignees elect to perform the Borrower’s obligations under a Contract or a new Contract is entered into as provided above in Sections 1(e) or (f), respectively, the liability of the Agent, or its designees or assignees, as
+the case may be, to the Contracting Party for the performance of obligations under such Contract, and the sole recourse of the Contracting Party in seeking the enforcement of such obligations, shall be limited to such parties’ rights, title and
+interest in the Project.
+(g) Except as provided in Sections 1(e), (f) and (g) above, neither the Agent, its designees or assignees shall have
+any obligation or liability under the Contract, nor shall the Agent, its designees or assignees be obligated to perform any of the obligations or duties of the Borrower under the Contract or to take any action or collect or enforce any claim for
+payment or performance of the Assigned Interests. Within 30 or 60 days, as the case may be pursuant to Section 1(e), of being notified by the Contracting Party that a Borrower default or breach has occurred under the Contract, the Agent shall
+notify the Contracting Party of its intent whether or not to cure any such Borrower default or breach. In the event the Agent fails to notify the Contracting Party within the time period described in the foregoing sentence that the Agent will cure
+such default or breach, the Contracting Party shall be entitled to assume that the Agent has elected not to cure such default or breach and the Contracting Party may then exercise all rights
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 68 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+that the Contracting Party would have under the Contract, without regard to the provisions of this Consent. In the absence of such notice, no performance by
+the Agent, its designees or assignees under or pursuant to this Consent or otherwise (whether to cure a Borrower default or exercise rights under any provision hereof or otherwise) shall be construed as an assumption by the Agent, its designees or
+assignees of the obligations and duties of the Borrower under the Contract, unless otherwise expressly agreed in writing by the Agent, its assignees or designees, as the case may be. The Agent shall have the right to assign all or a pro rata
+interest in a Contract or a new Contract entered into pursuant to Section 1(f) to a person or entity to whom the Project is transferred, provided such transferee (i) assumes the obligations of the Borrower (or the Secured Parties) under
+such Contract and cure of any material defaults under such Contract has been effected as provided herein, and (ii) would reasonably be expected to have the capability to perform the Borrower’s obligations under such Contract. Upon such
+assignment, the Agent and the Secured Parties (including their agents and employees) shall be released from any further liability thereunder to the extent of the interest assigned.
+2. Borrower’s Acknowledgment. The Borrower acknowledges and agrees that the Contracting Party is authorized to act in accordance with the Agent’s exercise of the Borrower’s rights in accordance with
+this Consent, and the Contracting Party may rely on any notice or instruction by the Agent in the purported exercise of the Agent’s rights and remedies hereunder.
+3. Legal Opinion. The Contracting Party hereby agrees to deliver to the Agent a legal opinion (which may be from a senior in-house counsel), dated as of the dated hereof, substantially in form attached hereto as
+Addendum 1.
+4. Payment of Monies. The Contracting Party hereby agrees to make all payments to be made by it to the Borrower under the Contract by wire
+transfer directly to:
+
+
+(a)	for all payments not covered by clause (b) hereof:
+
+[                        ]
+ABA
+[                        ]
+[                        ]
+Account Number:
+[                        ]
+FFC: Account No. [                        ]
+REF: [Hoku Materials] Revenue Account; or
+
+
+(b)	for all payments of liquidated damages and insurance proceeds:
+
+[                        ]
+ABA
+[                        ]
+[                        ]
+Account Number:
+[                        ]
+FFC: Account No. [                        ]
+REF: [Hoku Materials] Loss Proceeds Account,
+and any notices to [Depositary Bank] may be given to the following address:
+[                        ]
+[                        ]
+[                        ]
+[                        ]
+Attn:
+[                        ]
+Telephone: [                        ]
+Facsimile:
+[                        ]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 69 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+Notwithstanding the foregoing, (i) if the Agent shall notify the Contracting Party in writing that an Event of Default under the Credit Agreement has occurred and is continuing, the Contracting Party shall make all payments to be made
+by it to the Borrower under the Contract directly to the Agent, for the benefit of the Secured Parties, to an account designated by the Agent in such written notice, and (ii) if any person has elected to become a Subsequent Transferee, then the
+Contracting Party shall make all payments to be made by it to the Borrower under the Contract directly to such Subsequent Transferee. Any payments made by the Contracting Party as provided under this Section 4 shall be deemed to have been made
+by the Contracting Party in fulfillment of the Contracting Party’s obligations under the Contract.
+5. Representations and Warranties. The Contracting
+Party hereby represents and warrants, for the benefit of the Agent and the Secured Parties, as of the date hereof, that:
+(a) it (i) is duly
+organized, validly existing and in good standing under the laws of [            ], and (ii) has all requisite organizational power and authority necessary to execute, deliver and
+perform its obligations under this Consent and the Contract;
+(b) the execution, delivery and performance by the Contracting Party of the Contract and this
+Consent have been duly authorized by all necessary corporate action, and do not and will not require any further consents or approvals which have not been obtained, or violate any provision of any law, regulation, order, judgment, injunction or
+similar matters or breach any agreement presently in effect with respect to or binding on the Contracting Party, except for such breaches, defaults, or violations as will not, either individually or in the aggregate, result in a material adverse
+effect on the ability of the Contracting Party to perform its obligations under this Consent or the Contract;
+(c) each of this Consent and the Contract
+constitutes legal, valid and binding obligations of the Contracting Party, enforceable against the Contracting Party in accordance with their respective terms, except to the extent that enforceability may be limited by applicable bankruptcy,
+insolvency, moratorium, reorganization or other similar laws affecting the enforcement of creditors’ rights or by the effect of general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or
+at law);
+(d) no authorizations, approvals or consents of any governmental or regulatory authority or agency or any other person, and no filings or
+registrations with any governmental authority or agency, are necessary for the execution, delivery or performance by the Contracting Party of this Consent, or for the validity or enforceability thereof, except for any authorizations, approvals,
+consents or filings which (i) have been made or obtained prior to the date hereof and are in full force and effect, or (ii) are obtainable in the ordinary course of business and are set forth on Addendum 2 to this Consent;
+(e) except pursuant to this Consent and as expressly set forth in the Contract, the Contracting Party has not consented to any pledge, assignment or other transfer of
+any interest in the Contract;
+(f) the Contract is in full force and effect and has not been amended, supplemented or modified (except as otherwise
+disclosed in writing to the Agent); and
+(g) the Borrower has fulfilled all of its material obligations which are currently due under the Contract, and
+there are no breaches or unsatisfied conditions presently existing (or which would exist after the passage of time and/or giving of notice) that would allow the Contracting Party to terminate the Contract.
+6. Limitation of Liability. The Contracting Party shall have no liability under this Consent to the Borrower. With respect to any undertaking by the Contracting Party
+which is susceptible to enforcement by specific enforcement as described in Section 7, where the Agent would receive the full benefit of this
+
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 70 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+
+Consent through such specific performance, the Agent shall limit its remedy to specific performance. With respect to any other undertaking, acknowledgment,
+representation and warranty or other provision of this Consent, the Agent’s remedies shall not be so limited, provided that the Agent and the Borrower agree that the Contracting Party’s aggregate liability for monetary damages under this
+Consent and the Contract shall be limited as provided in the Contract. Under no circumstances shall the Contracting Party have any liability for any punitive, exemplary, consequential, indirect, incidental, or special damages (including by way of
+example, but not by way of limitation, loss of profits, nonpayment of principal or interest on loans, and cost of capital under the Credit Agreement).
+7.
+Specific Performance. The Contracting Party acknowledges and agrees that the Borrower, the Agent, the Secured Parties and any Subsequent Transferee may be damaged irreparably in the event any of the provisions set forth in Sections 1 and 4 of this
+Consent (the “Applicable Provisions”) are not performed in accordance with their specific terms or are otherwise breached. Accordingly, the Contracting Party agrees that the Borrower, the Agent and/or any Subsequent Transferee may seek to
+enforce specifically this Consent and the Applicable Provisions in any action instituted in any court of the United States or any state thereof having jurisdiction over the parties hereto and the matter hereof (subject to the provisions set forth in
+Section 9), in addition to any other remedy to which it may be entitled, at law or in equity.
+8. Governing Law. This Consent shall be governed by,
+and construed and interpreted in accordance with, the laws of the State of New York, United States of America, excluding its conflicts of law provisions (other than Sections 5-1401 and 5-1402 of the General Obligations Law of the State of New York).
+
+9. Submission to Jurisdiction. The parties hereto submit to the nonexclusive jurisdiction of the United States District Court for the Southern District of
+New York and of any New York State court sitting in New York City for purposes of all legal proceedings arising out of or relating to this Consent or the transactions contemplated hereby. Each of the parties hereto irrevocably waives, to the fullest
+extent permitted by law, any objection which it may now or hereafter have to the laying of the venue of any such proceeding brought in such a court and any claim that any such proceeding brought in such a court has been brought in an inconvenient
+forum.
+10. Counterparts. This Consent and any amendments, waivers, consents or supplements hereto or in connection herewith may be executed in any number
+of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages
+may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.
+11. Severability. In case any one or more of the provisions contained in this Consent should be invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions shall not in any way be
+affected or impaired thereby.
+12. Amendment, Waiver. Neither this Consent nor any of the terms hereof may be terminated, amended, supplemented, waived or
+modified except by an instrument in writing signed by the Contracting Party, the Borrower and the Agent.
+13. Notices. All notices required or permitted
+hereunder shall be in writing and shall be effective (a) upon receipt if hand delivered, (b) upon receipt if sent by facsimile and (c) if otherwise delivered, upon the receipt thereof. Any such notices to the Contracting Party or the
+Borrower shall be delivered to their respective addresses as specified in the Contract. Any such notices to the Agent shall be addressed as follows:
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 71 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+[                        ]
+[                        ]
+[                        ]
+Attn: [                        ]
+Telephone No.: [                        ]
+Telecopy No.: [                        ]
+
+If any notice is tendered to an addressee and the delivery thereof is refused by such addressee, such notice shall be effective upon such tender. Any party
+shall have the right to change its address for notice hereunder to any other location within the continental United States by providing 30 days’ notice to the other parties in the manner set forth hereinabove.
+14. Third Party Beneficiaries. This Consent and the representations, covenants and agreements contained herein are and shall be held to be for the sole benefit of the
+parties hereto and the Secured Parties, and their respective successors and assigns.
+15. Interpretation. All references in this Consent to any document,
+instrument or agreement (a) shall include all exhibits, schedules and other attachments thereto, and (b) shall include all documents, instruments or agreements issued or executed in replacement thereof in accordance with the terms thereof.
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 72 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+IN WITNESS WHEREOF, the parties hereto, by their officers duly authorized, intending to be legally bound, have caused this Consent and Agreement to be duly executed and delivered as of the date first above written.
+HOKU MATERIALS, INC,
+By:
+Name:
+Title:
+[                            ]
+By:
+Name:
+Title:
+[                        ],
+as Agent for the Secured Parties
+By:
+
+Name:
+Title:
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 73 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+ADDENDUM 1 TO EXHIBIT E
+FORM OF OPINION OF CONTRACTING PARTY’S
+COUNSEL
+[Letterhead of
+]
+[Date]
+[Agent]
+[                        ]
+[                        ]
+[                        ]
+Ladies and Gentlemen:
+[We/I] have acted as counsel for
+[                        ], a
+[                        ] (the “Company”), in connection with that certain [Contract and Consent]
+(collectively, the “Contracts”). Capitalized terms used and not otherwise defined herein shall have the respective meanings specified in the Consent.
+This letter is being delivered to you in satisfaction of the condition set forth in Section 3 of the Consent.
+In this connection, [we/I] have examined such certificates of public officials, certificates of officers of the Company and copies certified to [our/my] satisfaction of corporate documents and records of the Company and of other papers, and
+have made such other investigations, as [we/I] have deemed relevant and necessary as a basis for [our/my] opinions hereinafter set forth. [We/I] have relied upon such certificates of public officials and of officers of the Company with respect to
+the accuracy of material factual matters contained therein which were not independently established.
+Based on the foregoing, it is [our/my] opinion that:
+
+1. The Company is a corporation duly incorporated and validly existing in good standing under the laws of
+[                        ].
+2. The Contracts have been duly authorized by all requisite corporate action and duly executed and delivered by authorized officers of the Company, and are valid obligations of the Company, legally binding upon and
+enforceable against the Company in accordance with their respective terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights
+generally, and (b) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+3. The execution and delivery of the Contracts, and fulfillment of and compliance with the respective provisions of the Contracts, do not conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a
+default under, or result in any violation of, or result in the creation of any lien upon any of the properties or assets of the Company pursuant to, or require any authorization, consent, approval, exemption, or other action by or notice to or
+filing with any court, administrative or governmental body or other person or entity pursuant to, the charter or by-laws of the Company, any applicable law, statute, rule or regulation or (insofar as is known to us after having made due inquiry with
+respect thereto) any agreement, instrument, order, judgment or decree to which the Company is a party or otherwise subject.
+Very truly yours,
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 74 of 75
+
+
+
+
+
+
+
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2
+OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+EXECUTION COPY
+
+ADDENDUM 2 TO EXHIBIT E
+AUTHORIZATIONS AND APPROVALS
+
+[Contracting Party to provide, if any]
+
+
+
+
+OWNER Initials & Date    /s/DS 8/7/07    	  		  	CONTRACTOR Initials & Date    /s/ME 8/8/07
+
+Page 75 of 75
+
+

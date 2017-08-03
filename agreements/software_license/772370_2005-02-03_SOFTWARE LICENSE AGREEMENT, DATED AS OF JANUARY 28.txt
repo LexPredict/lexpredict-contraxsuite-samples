@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+This Software License Agreement (hereinafter the "Agreement"), is hereby
+executed on this 26th day of January, 2005, by and between VSUS Technologies,
+Inc., a Delaware corporation ("Licensor") having its principal executive offices
+at 444 Madison Avenue, 24th floor, New York, NY 10022, c/o Great Court Capital,
+and ViVaVu Systems, Ltd., an Israeli corporation ("Licensee") founded by Mr.
+Amiram Ofir, an individual residing in Israel ("Amiram") who, prior to today,
+was the founder and Chief Executive Officer of Licensor.
+
+WHEREAS, Licensor is the owner of software and related intellectual
+property originally developed by an affiliate of Licensee, and obtained by
+Licensor when it acquired certain assets from Licensee and as further developed
+through January 25, 2005 (the "Original IP"); and
+
+WHEREAS, a dispute has arisen between Licensor and Amiram, who was the
+original developer of the Original IP, involving, among other things, the rights
+to the Original IP;
+
+WHEREAS, in settlement of that dispute between the Licensor and Licensee,
+among other consideration, Licensee is now leaving the employ of Licensor, and
+the parties are executing, simultaneously herewith, a Software Escrow Agreement
+(the "Escrow Agreement") placing into escrow the source code for the Original IP
+(the "Source Code");
+
+WHEREAS, Licensee desires to use the Original IP for purposes of
+specialized secure E-mail applications and other applications; and
+
+WHEREAS, Licensor expects in the very near future to acquire 1stAlerts
+Inc., a Delaware corporation ("First Alerts") and wishes to provide incentive
+for Licensee to assist it (for compensation) in developing certain applications
+of the Original IP that may be useful in that business;
+
+NOW, THEREFORE, in consideration of the mutual promises hereinafter set
+forth, the parties, intending to be legally bound, hereby covenant and agree as
+follows:
+
+1. Grant. (a) Licensor hereby irrevocably grants to Licensee, in consideration
+of the royalty payments described in Section 3 hereof and for other good and
+valuable consideration, and Licensee hereby accepts, a worldwide, perpetual
+license (a) to use the Original IP internally in its own operations, or those of
+any affiliates, which may include providing services to third parties, among
+other things; and (b) to incorporate the Original IP, in object code format
+only, in larger programs and systems of Licensee (the "Licensee Programs") which
+Licensee then may commercially market, license and sell copies of in object code
+form only for its own profit; all in accordance and subject to the limitations,
+terms and conditions set forth below. Such license shall be exclusive from the
+date hereof through December 31, 2006, except for the rights of Licensor as set
+forth in Section 4 below (as to which it shall be non-exclusive); thereafter,
+the entire license granted to Licensee hereunder shall be non-exclusive.
+
+
+
+1
+
+
+(b) Licensee may freely sublicense its rights hereunder, provided that
+Licensee remains the owner of the "master" license hereunder. Licensee shall not
+transfer or assign the "master" license hereunder (except to Amiram, or to an
+entity majority owned or controlled by Amiram) other than in connection with an
+Acquisition (defined below), in which case Licensor shall be entitled to
+receive, as and when the Licensee receives the consideration therefor, five
+percent (5%) of the Net Proceeds of the Acquisition, in kind (meaning in the
+same proportion of cash and other items as constitutes the Net Proceeds). As
+used herein, "Net Proceeds" shall mean the gross proceeds of the Acquisition,
+less any commissions or brokerage fees and professional fees (attorneys,
+accountants, appraisers, etc.) payable by Licensee in connection therewith. As
+used herein, "Acquisition" shall mean the acquisition by a third party or
+parties unaffiliated with Licensee of either (i) all or a substantial portion of
+the Original IP as currently existing or as modified hereafter, not in the
+ordinary course of business, and in connection with the agreement of Amiram to
+cease his involvement in the business of Licensee to any extent; (ii) a majority
+of Licensee's operating assets; or (iii) a majority of Licensee's voting stock
+(or the equivalent thereof). "Acquisition" shall also include a transaction in
+which Licensee merges with a third party or parties unaffiliated with Licensee
+including any other transaction similar thereto. This contingent right to
+receive said five percent of any Acquisition shall be non-transferable and shall
+not (except as exists as of the date hereof) be assigned, encumbered or
+hypothecated, and shall be permanently canceled and shall become null and void
+in the event of a Bankruptcy Event (as defined in Section 2 hereof) on the part
+of Licensor.
+
+2. Term and Termination; Bankruptcy. (a) The term of this Agreement shall be
+perpetual, except that the license set forth in Section 1 hereof shall become
+non-exclusive on January 1, 2007, and thereafter may be freely licensed by
+Licensor to any third party without restriction or limitation, subject only to
+Licensee's then non-exclusive license hereunder.
+
+(b) The parties acknowledge and agree that Licensee should enjoy, in the
+event of any bankruptcy of the Licensor, the full benefit of Section 365(n) of
+Title 11, United States Code (the "Bankruptcy Code"). The parties are entering
+into this agreement and the Escrow Agreement in reliance upon said statutory
+provision. Licensor acknowledges that if Licensor or its trustee in bankruptcy
+rejects the Escrow Agreement or this Agreement under the provisions of the
+Bankruptcy Code, Licensee may elect to retain its rights under the Escrow
+Agreement and this Agreement as provided in Section 365(n) of the Bankruptcy
+Code. Neither Licensor nor such trustee in bankruptcy shall interfere with the
+rights of Licensee as provided in the Escrow Agreement and this Agreement,
+including the right to obtain the Source Code from the Escrow Agent (as defined
+in the Escrow Agreement). Correspondingly, in the event of any Bankruptcy Event
+on the part of Licensee this license shall terminate (unless this license shall
+have been assigned to a permitted assignee under Section 1(b) hereunder, and
+that assignee at that time shall not have incurred a then-continuing Bankruptcy
+Event).
+
+(c) As used herein, the term "Bankruptcy Event" shall mean that a party has
+filed for
+
+
+2
+
+
+protection under the bankruptcy laws of any jurisdiction, or is involuntarily
+subjected to such laws or otherwise has been adjudicated a bankrupt, or makes an
+assignment for the benefit of creditors, or voluntarily or involuntarily becomes
+the subject of any similar laws, or has a trustee or receiver appointed for its
+business or property and either acquiesces in same or fails to remove such
+trustee or receiver within ninety (90) days, or has substantially ceased
+business operations.
+
+3. Payment. As full and final consideration for the license granted hereunder,
+Licensee hereby covenants and agrees to cause its affiliate, Galiad Computers
+Ltd., and any of its principals having any rights thereto, to release Licensor
+from any and all liability to it or them for sums heretofore owed by Licensor as
+compensation for the original transfer to Licensor of the Original IP. These
+sums shall be considered royalties for the license granted hereunder, provided
+that, after application of such sums, this license shall be considered
+royalty-free.
+
+4. Nature of Retained Ownership. Licensor hereby covenants and agrees not to
+sublicense (other than to end user customers), transfer, sell or assign, from
+the date hereof through December 31, 2006, any software using or deriving in
+part from the Original IP. Nothing herein shall be deemed to prevent or restrict
+Licensor from developing any such software internally in order to provide
+services as part of the First Alerts business or otherwise, nor to sublicense
+any such software to bona fide end user customers (as opposed to developers and
+vendors, to which Licensor shall not sublicense such software prior to December
+31, 2006). Nor shall anything herein be deemed to give either party hereto any
+right to any software or other intellectual property developed subsequently to
+the date hereof; rather, any such new software or other intellectual property
+shall belong entirely and exclusively to the party who developed it, except to
+the extent that it incorporates part of the Original IP (in which case the
+rights of such incorporated portion shall be in accordance with the rights to
+the Original IP provided for hereunder).
+
+5. Protection of Proprietary Information; Non-Competition.
+
+(a) The parties hereby covenant and agree to use reasonable efforts, in
+good faith, to protect the ownership and licensed rights in the Original IP set
+forth herein, and not to disclose any portion thereof to third parties to whom
+such party is not permitted to transfer or sublicense that portion of the
+Original IP permitted hereunder. In doing so, each such party shall use at least
+that degree of care which it employs with respect to its own most confidential
+and proprietary information, and to inform those employees, agents and
+consultants who have access to the Original IP that such information is
+confidential information and proprietary trade secrets of the Licensor and
+Licensee, as provided herein.
+
+(b) The parties each shall notify the other promptly of (1) any suspected
+unauthorized use, sale, license, or other transfer of the Original IP, or (2)
+the infringement or misappropriation of the copyrights, trademarks or other
+proprietary rights in the Original IP.
+
+(c) Licensee shall not, from the date hereof through December 31, 2006,
+license or sell any
+
+
+3
+
+
+software product which competes with the primary business of First Alerts on the
+date hereof: namely, the provision of business economic news and current
+business information to subscribers via email, instant messaging or other method
+of electronic distribution. For the sake of clarity, and without limitation, the
+current business of Licensee, being the provision of special email systems and
+functions to businesses and other enterprises, shall not be considered
+competitive with the business of First Alerts.
+
+6. Source Code Escrow. Licensee agrees, on behalf of Licensor, to place the
+current source code for the Original IP, along with any incidental documentation
+or other ancillary materials which Licensor may have, but need not have,
+developed for its implementation, in escrow with a mutually agreeable corporate
+escrow agent located in Israel, promptly after the execution hereof. The Escrow
+Agreement shall govern the disposition thereof. To the extent that Licensee
+modifies the Original IP in providing development services to Licensor, Licensee
+shall modify the Source Code in escrow (but need not do so with respect to
+improvements or modifications which the Licensee may make on its own, for its
+own business, rather than in the process of providing development services to
+Licensor).
+
+7. Licensor's Representations and Warranties. Licensor represents and warrants
+that it has sufficient ownership rights to the Original IP as against any third
+party (other than affiliates of Licensee) in order to perform this Agreement,
+and has not assigned, transferred, encumbered or hypothecated same. The parties
+are not aware of any claim against, or allegation of infringement pertaining to,
+the Original IP. However, the parties acknowledge that this is an uncertain and
+rapidly changing area of the law. Therefore, the parties hereby acknowledge and
+agree that neither party shall be liable to the other for indemnification,
+contribution or otherwise, but rather each shall bear its own risk with respect
+to any third party claims with respect to the Original IP and the parties'
+respective use thereof in conformance with the terms and conditions hereof.
+
+The parties each further represent and warrant to each other than they are
+not subject to any agreement, judgment or decree which would prohibit or be
+violated by the execution or delivery of this Agreement or by the performance by
+a party of its obligations hereunder.
+
+EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, LICENSOR MAKES NO
+REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, TO THE "ORIGINAL IP" AND
+HEREBY EXPRESSLY DISCLAIMS THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE. THE "ORIGINAL IP" IS LICENSED TO LICENSEE HEREUNDER ON
+AN "AS IS, WHERE IS" BASIS. NEITHER PARTY SHALL BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, INDIRECT, OR THIRD PARTY DAMAGES (INCLUDING LOST
+PROFITS OR SAVINGS, BUSINESS INTERRUPTION, LOSS OF DATA, OR SIMILAR CLAIMS)
+WHETHER IN AN ACTION IN CONTRACT OR IN TORT, OR OTHERWISE, EVEN IF THE OTHER
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+4
+
+
+8. Miscellaneous. (a) This Agreement contains the entire understanding of the
+parties with respect to the subject matter hereof, and supersedes any and all
+written and oral agreements and understandings with respect to the subject
+matter hereof. This Agreement shall not be construed as creating an agency,
+partnership, franchise, joint venture or other relationship between the parties
+other than one of independent contractors. Neither party has the right to bind
+the other, to act as agent for or with the other, or to conduct business in the
+other's name or for the other's account. Neither party shall contract
+obligations in the name of, or on behalf of, the other, nor make any
+representation, guaranty or warranty with respect to the other's personnel or
+services except as authorized in writing by such other party in advance. This
+agreement shall be binding upon the parties and their respective successors and
+assigns, but any such assignment shall not relieve a party hereto from
+responsibility hereunder.
+
+(b) This Agreement shall be modified or amended only by means of a written
+agreement executed by both parties. No waiver of any part of this Agreement
+shall be effective unless made in writing and signed by the waiving party. No
+waiver of any breach of this Agreement shall constitute a waiver of any
+subsequent breach of the same or any other provision of this Agreement.
+
+(c) The parties recognize and acknowledge that they would not have any
+adequate remedy at law in the event of a breach of this Agreement, and a party
+may suffer irreparable damage and injury and/or damages which would be
+practically impossible to ascertain, and accordingly the parties hereby agrees
+that, in the event of a breach hereof, the other party, in addition to any other
+available rights and remedies, shall be entitled to equitable relief with
+respect thereto.
+
+(d) In the event any provision of this Agreement shall be held invalid or
+unenforceable, such provision shall be deemed modified in time, geography, scope
+or otherwise, but only to the extent necessary to make it enforceable. To effect
+such modification, the said provision shall be deemed supplemented and/or
+rewritten (or deleted if such provision is incapable of such addition and/or
+rewriting), whichever shall most fully preserve the intentions of the parties as
+originally expressed herein.
+
+(e) This agreement shall be governed by the law of the State of New York
+but, in deference to the likely location of evidence and the convenience of
+witnesses, any disputes or claims hereunder shall be resolved exclusively by the
+courts of the State of Israel, and the parties hereby submit to the jurisdiction
+of said forum.
+
+(f) Notices and other communications hereunder shall be deemed given when
+received at the addresses set forth after the signatures of the parties below,
+or at such other address as a party may notify the other party hereto in
+accordance herewith. Electronic notification hereunder shall be valid only if
+receipt is acknowledged by the recipient.
+
+(g) Paragraph headings herein are for convenience only and shall not be
+considered in the
+
+
+5
+
+
+interpretation of this Agreement.
+
+(h) This agreement was thoroughly negotiated by competent counsel for both
+parties to their respective satisfaction. Therefore, the parties agree that, in
+the interpretation hereof, no weight or consideration should be given with
+respect to which party's attorneys prepared the initial draft hereof.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their duly authorized representatives.
+
+LICENSOR:         VSUS TECHNOLOGIES, INC.
+
+
+By:    /s/ Eli Kissos
+Eli Kissos, President
+
+
+Address: 444 Madison Avenue, 24th Floor, New York, NY 10022 c/o Great Court
+Capital
+
+
+
+LICENSEE:         ViVaVu SYSTEMS, LTD.
+
+
+
+
+By:    /s/ Amiram Ofir
+Amiram Ofir, President
+
+Address: P.O. Box 39001, Givat-Ram, Jerusalem 91390, Israel
+
+
+
+6
+
+
+
+

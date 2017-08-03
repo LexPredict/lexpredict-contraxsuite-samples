@@ -1,0 +1,474 @@
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement ("Agreement") is entered into and is effective as of August
+27, 2001 ("Effective Date") by and between ATI Technologies, Inc., an Ontario
+corporation with a place of business at 33 Commerce Valley Drive East,
+Markham, Ontario Canada L3T 7N6 ("ATI"), on behalf of itself and its
+subsidiaries, and Evans & Sutherland Computer Corporation, a Utah corporation
+with a place of business at 600 Komas Drive, Salt Lake City, Utah 84158 USA
+("Licensee").
+
+ARTICLE I
+
+DEFINITIONS
+
+1.1        "Confidential Information" shall mean:
+
+(a)         The  Source  Code  of the  Licensed  Software,  and  any  associated
+information in any form, including manuals, and specifications.
+
+(b)         All trade secrets and other proprietary ideas,  concepts,  know-how,
+methodologies  and all  information  incorporated in and relating to
+the Licensed Software, Products or any ATI ASIC or software used, or
+planned to be used, in conjunction therewith.
+
+(c)         All  enhancements,   upgrades,  modifications,   revisions  and  new
+versions of the Source Code of the Licensed Software.
+
+(d)         Any other  information  described or  designated as  proprietary  or
+confidential   whether  or  not  owned  or  developed  by  ATI,  and
+information disclosed to ATI by a third party which ATI is obligated
+to treat as confidential. Confidential Information shall not include
+information  which  belongs to Licensee  or is (i) already  known by
+Licensee  without an  obligation of  confidentiality,  (ii) publicly
+known or becomes  publicly known (other than as result of any breach
+of this Agreement or any other agreement between the parties hereto)
+through no unauthorized act of Licensee,  (iii) rightfully  received
+by Licensee from a third party that is not a party to this Agreement
+without  an  obligation  of   confidentiality,   (iv)  independently
+developed   by  Licensee   without  the  use  of  the   Confidential
+Information and Licensee can prove such independent development,  or
+(v) prior to any disclosure, is specifically approved in writing for
+disclosure by ATI.
+
+1.2 "Derivative Work(s)" shall mean a work or authorship which is based upon the
+Licensed Software, or any portion thereof, such as a revision, modification,
+port, translation, abridgment, condensation, expansion, collection, compilation,
+or any other form in which the Licensed Software or portion thereof may be
+recast, transformed or adapted, and which, in the absence of this Agreement or
+other authorization by AT[, would constitute an infringement of ATI's copyright
+therein.
+
+1.3 "Licensed Purpose" shall mean the development of software applications,
+including driver software, to operate solely on or with Licensee's high end
+personal computer image generator products which incorporate ATI's Products and
+related software technology, and the support of such products.
+
+1.4 "Licensed Software" shall mean the ATI software provided to Licensee as
+identified in Attachment A, together with any associated information in any
+form, including manuals, and specifications, all trade secrets and other
+proprietary ideas, concepts, know-how, methodologies and all information
+incorporated in and relating to the Licensed Software, the Products or any ATI
+ASIC or software used, or planned to be used, in conjunction therewith, and all
+enhancements, upgrades, modifications, revisions and new versions of the Source
+Code of the Licensed Software.
+
+1.5 "Object Code" shall mean the machine readable form computer programming code
+as opposed to the human readable form of computer programming code.
+
+1.6 "Products" means the ATI chip products currently code named 8200, 8300,
+8350, Theater and Bridget.
+
+1.7 "Site" shall mean the Licensee premises at the address set out above,
+together with Licensee premises located at 600 Komas Drive, Salt Lake City, Utah
+84158, USA.
+
+1.8 "Source Code" shall mean the human readable form computer programming code
+and related system level documentation, including all comments and any
+procedural code such as job control language.
+
+
+1
+<PAGE>
+
+ARTICLE II
+LICENSE
+
+2.1 License. ATI grants Licensee a non-exclusive, perpetual, , non-transferable,
+non-assignable,  limited license (i) to use, copy,  modify and create Derivative
+Works of the Source Code of the Licensed Software  internally at the Site solely
+for the Licensed Purpose, (ii) to copy,  distribute,  perform, and sublicense to
+end users,  in Object Code form only,  through all its channels of  distribution
+worldwide,  the Source Code of the  Licensed  Software and  Derivative  Works so
+developed  from the Source  Code of the  Licensed  Software,  and (iii) to copy,
+modify,  create Derivative Works of and redistribute  written materials provided
+with the Licensed Software which is clearly intended for such purposes. Licensee
+may not  distribute,  market,  or  sublicense  the Source  Code of the  Licensed
+Software.  Provided the Licensee  remains in compliance  with its obligations in
+subsection  2.2 and section  3.1,  Licensee's  license  rights  with  respect to
+Derivative Works will survive  notwithstanding  any expiration or termination of
+this Agreement.
+
+2.2  Restrictions.  Restrictions  regarding  Licensee's use of the  Confidential
+Information  regardless  of  whether  the  Licensee  received  the  Confidential
+Information  before,  on, or after the Effective Date of this Agreement,  are as
+follows:
+
+a)        Licensee shall use Confidential  Information solely for the Licensed
+Purpose,  and shall  protect  the  confidentiality  of  Confidential
+Information  with the same  degree  of care that it  exercises  with
+respect to its own information of like import,  but in no event less
+than  reasonable  care,  during the term  hereof and for a period of
+five (5) years thereafter.
+b)        Licensee shall limit access to and use of the Confidential
+Information only to those of its employees identified on Attachment
+B as having a "need to know" to allow Licensee to fulfill the
+Licensed Purpose (the "Authorized List'); such list, may be amended
+in writing from time to time by written agreement of the parties.
+c)        Licensee shall ensure that its employees identified on the
+Authorized List are advised of the confidential nature of the
+Confidential Information and that it may only be divulged to other
+members of the Authorized List.
+d)        Licensee shall not permit any of its employees assigned to REALimage
+series chip and related software development to have access to the
+Confidential Information.
+e)        Licensee shall not make or permit others to make any paper or
+electronic copies of the Confidential Information, in whole or in
+part, except as reasonably required to fulfill the Licensed Purpose
+or as otherwise authorized by ATI in writing; provided that on all
+such copies Licensee shall reproduce all notices, including without
+limitation, copyright and confidentiality notices, on the
+Confidential Information.
+f)        In the event that Licensee uses any of the Confidential  Information
+to develop software,  Licensee shall not distribute that software to
+a third party who could  reasonably be considered an AT[  competitor
+in any format or level of detail  which  would give the third  party
+recipient  visibility  into  the  design  and  operation  of the AT[
+hardware intended to work in conjunction with the Licensed Software.
+For greater certainty,  but without  limitation,  Licensee shall not
+distribute to any third party ATI competitor the Source Code form of
+any software that directly calls on ATI hardware registers.  Nothing
+in this  subsection  will prevent  Licensee  from  distributing  the
+Licensed  Software and Derivative Works of the Licensed  Software in
+Object Code form to end users under the terms of Licensee's end user
+license agreement in accordance with Section 2.1 above.
+g)        NOTWITHSTANDING ANYTHING ELSE EXPRESSED OR IMPLIED IN THIS
+AGREEMENT, IN NO EVENT SHALL LICENSEE USE THE CONFIDENTIAL
+INFORMATION, INCLUDING THE SOURCE CODE OF THE LICENSED SOFTWARE AND
+ALL DERIVATIVE WORKS THEREOF, TO ENABLE, SUPPORT OR OTHERWISE AID
+LICENSEE OR A THIRD PARTY TO DEVELOP TECHNOLOGY COMPETITIVE WITH THE
+ATI TECHNOLOGY EMBODIED IN OR RELATING TO THE CONFIDENTIAL
+INFORMATION.
+
+ARTICLE III
+
+PROTECTION OF PROPRIETARY RIGHTS
+
+3.1  Confidentiality.  When not  specifically  governed  by  section  2.2 above,
+Licensee's  obligations  with  respect to the  proprietary  rights of ATI are as
+follows:
+
+(a)         Licensee  shall use at least the same means it uses to  protect  its
+own  confidential  information,  but  in any  event  not  less  than
+reasonable  means,  to prevent  the  disclosure  and to protect  the
+proprietary nature of the Confidential Information.
+
+3.2 Inspection.  Licensee grants to ATI the right, at any time during Licensee's
+normal business hours,  upon reasonable  advance notice, to inspect any premises
+where any portion or component  of the Source Code of the  Licensed  Software is
+located for the sole purpose of verifying Licensee's  compliance with Licensee's
+obligations,  provided  that ATI complies  with all security and safety rules in
+effect at the Site.
+
+
+2
+<PAGE>
+
+ARTICLE IV
+OWNERSHIP AND FUTURE DEVELOPMENT
+
+4.1 ATI  Ownership.  Licensee  acknowledges  and  agrees  that the  Confidential
+Information,  including  without  limitation,  the Source  Code of the  Licensed
+Software  and all  intermediate  and partial  versions  thereto,  including  all
+modifications,  improvements,  enhancements,  updates, and bug fixes, Derivative
+Works;  and all  intellectual  property  rights  therein,  are and will  remain,
+subject to the provisions of Section 4.2, the sole and exclusive property of ATI
+or a third party which may license parts of the Confidential Information to ATI.
+Licensee shall have no right, title or interest therein,  except for the license
+granted herein and in accordance with the provisions of Section 4.2. If provided
+to Licensee, such versions, modifications,  improvements, enhancements, updates,
+and bug fixes shall be deemed to be Confidential Information and are licensed to
+Licensee  pursuant  to the terms of this  Agreement.  Licensee  waives all moral
+rights it may have in such Derivative Works without further consideration.
+
+4.2 Ownership of Derivative Works. As of the date hereof, Licensee acknowledges
+and agrees that it has no ownership or other rights to any intellectual property
+embodied in the Licensed Software or the Confidential Information. With respect
+to Derivative Works of the Licensed Software, ownership will be determined in
+accordance with section 4.1, except that the following provisions will apply:
+
+(a) Subject to the terms of this Agreement, Licensee shall own and
+hold title to any intellectual property independently conceived and
+developed by Licensee or its personnel without reference to the Source
+Code of the Licensed Software and the Confidential Information,
+whether prior to or during the term of this Agreement ("Background
+Licensee IP"). The Parties agree that nothing in this Agreement is to
+be construed to grant or imply to AT[ any rights with respect to
+Background Licensee IP, except as provided for in subsection (c)
+below.
+
+(b) In the event Licensee has developed or develops Background
+Licensee IP capable of being incorporated into a Derivative Work and
+does not intend for ATI to have any ownership interest in such
+Background Licensee IP, Licensee will advise ATI in writing of the
+same prior to disclosing such Derivative Work to ATI in accordance
+with subsection 4.3, and upon receipt of such notice ATI will have no
+license or other rights in such Background Licensee IP, provided that
+if Licensee incorporates the Background Licensee IP into such
+Derivative Work, the provisions of subsection 4.2(c) will apply. If
+Licensee elects not to incorporate the Background Licensee IP into
+such Derivative Work, then the provisions of subsection 4.2(d) will
+apply.
+
+(c) To the extent Licensee incorporates Background Licensee IP into a
+Derivative Work of the Licensed Software, Licensee will retain
+ownership of such Background Licensee IP, provided that it hereby
+grants ATI a royalty free, non-exclusive, perpetual, non-transferable,
+non-assignable, limited license, solely for the development of
+software applications, including driver software, to operate solely on
+or with ATI's products and for the support of such products to: (i)
+use, copy, modify and create Derivative Works of the Background
+Licensee IP; (ii) copy, distribute, perform, and sublicense to end
+users, in Object Code form only, through all its channels of
+distribution worldwide, the Background Licensee IP and Derivative
+Works so developed from the Source Code of the Background Licensee IP,
+and (iii) to copy, modify, create Derivative Works of and redistribute
+written materials clearly intended for end users, and which does not
+disclose E&S confidential and proprietary information provided
+therewith. Licensee waives all moral rights it may have in such
+Derivative Works without further consideration.
+
+(d) In the event  Licensee,  after  reviewing the Source Code of the
+Licensed  Software and electing not to incorporate any, or a portion
+of any,  Background  Licensee IP into a Derivative  Work, , Licensee
+reserves the right to negotiate terms for the  incorporation of this
+Background Licensee IP into Licensed Software at a later time during
+the term of this Agreement.
+
+4.3        Availability of Licensee Derivatives.
+
+(a) All such Licensee Derivative Works, and any documentation relating thereto,
+shall be provided to ATI at Licensee's major release points.
+
+(b) All  Derivative  Works  provided to ATI under  subsections a) and b) of this
+subsection  shall be  accompanied  by a  written  description,  at the level the
+Licensee  normally  prepares in the course of its design efforts,  prepared by a
+
+
+3
+<PAGE>
+
+knowledgeable  technical  person of Licensee  detailing  the changes  made,  the
+functional result thereof, and the reason for making such changes, to the Source
+Code of the Licensed Software.
+
+ARTICLE V
+WARRANTY, DISCLAIMERS, AND INDEMNIFICATION
+
+5.1 Disclaimer. Both parties represent and warrant that they have full authority
+to enter  into  this  Agreement  and all of the  terms  and  conditions  herein.
+LICENSED SOFTWARE PROVIDED TO LICENSEE HEREUNDER IS PROVIDED "AS IS" WITHOUT ANY
+WARRANTY  WHATSOEVER.  THE ENTIRE RISK  ASSOCIATED  WITH THE USE OF CONFIDENTIAL
+INFORMATION  RESIDES WITH  LICENSEE.  ALL OTHER  WARRANTIES,  EITHER  EXPRESS OR
+IMPLIED, ARE DISCLAIMED,  INCLUDING,  WITHOUT LIMITATION, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY,  ACCURACY,  CONDITION,  OWNERSHIP,  FITNESS FOR A PARTICULAR
+PURPOSE, AND/OR OF NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
+
+5.2  Limitation of Liability.  EXCEPT FOR  LICENSEE'S  BREACH OF SECTIONS 2.2 or
+3.1, NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL,  CONSEQUENTIAL,
+PUNITIVE OR SPECIAL DAMAGES.
+
+5.3  Indemnification.  Licensee agrees to indemnify,  defend,  and hold ATI, its
+subsidiaries,  successors, officers, suppliers, directors and employees harmless
+from any and all actions, causes of action, claims, demands, costs, liabilities,
+expenses and damages, including reasonable attorneys' fees, arising out of or in
+connection  with  Licensee's use of the Licensed  Software  and/or any breach of
+Licensee's obligations under this Agreement.
+
+ARTICLE VI
+TERM AND BREACH
+
+6.1 Term.  The term of this  Agreement  shall commence on the Effective Date and
+shall  continue  for an initial  period of three (3) years  ("Term"),  and shall
+automatically  renew  thereafter  for  consecutive  one  year  periods,   unless
+terminated earlier in accordance with the following:
+
+a)          In the event of a material breach by one party in the performance of
+its duties,  obligations or undertakings  under this Agreement,  the
+other  party  will  have the  right to give  written  notice  to the
+breaching party advising such party of the specific breach involved.
+If the  breaching  party has not remedied  such breach within thirty
+(30) days after such notice, the other party will have the right, in
+addition to any other rights and remedies it may have,  to terminate
+this  Agreement  immediately  upon written  notice to the defaulting
+party. The thirty (30) day cure period is not applicable to breaches
+of confidentiality or improper disclosure of proprietary  technology
+or other trade secrets.
+
+b)          In the event  that the  Master  Sales  Agreement  dated of even date
+herewith  between  the  parties  hereto to which this  Agreement  is
+attached is  terminated  for  Purchaser's  failure to make  payments
+required  there under,  ATI shall have the right to  terminate  this
+Agreement immediately upon written notice to Purchaser.
+
+c)          In the event that a party has been the subject of any  voluntary  or
+involuntary   proceeding   relating   to   bankruptcy,   insolvency,
+liquidation,  receivership,  composition  of or  assignment  for the
+benefit of creditors,  the other party may terminate  this Agreement
+by providing written notice to such party.
+
+6.2 Effect of Termination.  Notwithstanding  the termination of the Master Sales
+Agreement  or this  Agreement,  Licensee may continue to exercise its rights and
+licenses in the Licensed  Software  under  Article II to provide  support to its
+customers for products incorporating the Product.
+
+ARTICLE VII
+GENERAL PROVISIONS
+
+7.1 Governing Law/Jurisdiction. This Agreement will be governed by and construed
+under the laws of the State of California  without reference to its conflicts of
+law  principles.  The rights and  obligations  under this Agreement shall not be
+governed by the United Nations Convention on Contracts or the International Sale
+of Goods, the application of which is expressly excluded.
+
+4
+<PAGE>
+
+7.2 Notices.  All notices,  requests,  demands,  and other  communications to be
+given or delivered  under or by reason of the provisions of this Agreement shall
+be in writing and shall be deemed given when delivered  personally upon receipt,
+on the  next  business  day  when  sent by  overnight  mail,  including  without
+limitation,  Federal  Express,  Express Mail or similar service to each party at
+the address provided at the beginning of the Agreement.
+
+7.3 Assignment.  Licensee's  rights and duties hereunder may not be sublicensed,
+assigned or  transferred.  Any attempt by Licensee to effect such an assignment,
+sublicense or transfer will  constitute a material  breach of this Agreement and
+be null and void.  ATI may assign its rights and duties  hereunder to it parent,
+subsidiary or affiliate or in the event of sale or merger.
+
+7.4 Severability.  Whenever  possible,  each provision of this Agreement will be
+interpreted  in such manner as to be effective and valid under  applicable  law,
+but if any  provision of this  Agreement is held to be  prohibited by or invalid
+under  applicable  law, the parties will negotiate in good faith to restate such
+provision  to  reflect  the  original  intentions  of the  parties  as nearly as
+possible in accordance with applicable law and the remaining  provisions of this
+Agreement  shall be enforced  as if this  Agreement  was  entered  into with the
+restated provision.
+
+7.5  Modification;  Waiver.  This  Agreement  may be modified  only by a written
+instrument  duly  executed  by or on behalf of each  party  hereto.  A waiver by
+either of the parties  hereto of any of the  covenants  to be  performed  by the
+other or any  breach  thereof  shall  not be  construed  to be a  waiver  of any
+succeeding breach thereof or of any other covenant herein contained.
+
+7.6  Remedies.  Except as  otherwise  provided in this  Agreement,  all remedies
+provided for in this Agreement shall be cumulative and in addition to and not in
+lieu of any  other  remedies  available  to  either  party at law,  in equity or
+otherwise.  Licensee  acknowledges  that any disclosure or  distribution  of the
+Source Code or Confidential  Information would cause  irreparable  injury to ATI
+and ATI shall be entitled to seek  extraordinary  injunctive and other equitable
+relief.
+
+7.7 Entire Agreement.  This Agreement constitutes the entire agreement among the
+parties  hereto with respect to the subject  matter  hereof and  supersedes  and
+replaces in all respects all other prior agreements and  understandings  between
+the parties hereto with respect to the subject matter hereof, whether written or
+oral.
+
+7.8  Export.  The  parties  agree to adhere to all  applicable  Export  Laws and
+Regulations of the United States and Canada.
+
+7.9 Surviving Obligations. The obligations of Sections 2.1, 2.2, 3.1, 4.2(c) and
+Articles IV, V and VII shall survive any termination of this Agreement.
+
+7.10 Similar Development.  Licensee understands that ATI may currently or in the
+future be developing technology  internally,  or receiving technology from third
+parties that may be similar to technology  developed by Licensee with the use of
+or  access  to  ATI  Confidential  Information.  Accordingly,  nothing  in  this
+Agreement will be construed as a  representation  or inference that ATI will not
+develop.  products,  or have  products  developed  for it, or enter  into  joint
+ventures,  alliances,  or  licensing  arrangements  that  operate  substantially
+similar to and/or  compete with the technology  developed by Licensee  following
+use of or access to the Confidential Information.
+
+7.11 Residuals.  Notwithstanding  anything herein to the contrary, any party may
+use Residuals for any purpose,  including without limitation use in development,
+manufacture,  promotion,  sale and  maintenance  of its products  and  services;
+provided  that this right to Residuals  does not  represent a license  under any
+patents,  copyrights,  mask works or other  intellectual  property rights of the
+disclosing  party.  The term "Residuals"  means any information  retained in the
+unaided memories of the receiving  party's  employees who have had access to the
+disclosing  party's  Confidential  Information  pursuant  to the  terms  of this
+Agreement. An employee's memory is unaided if the employee has not intentionally
+memorized  the  Confidential  Information  for  the  purpose  of  retaining  and
+subsequently using or disclosing it.
+
+
+5
+<PAGE>
+
+ATI TECHNOLOGIES INC.                    "LICENSEE"
+By:     /S/ Dave Orton                       By:    /S/ James R. Oyler
+Name:   Dave Orton                           Name   James R. Oyler
+Title:  President and CEO                    Title: President and CEO
+Date:   8/27/01                              Date:  8/30/01
+
+
+
+6
+<PAGE>
+
+ATTACHMENT A
+
+LIST OF ATI SOFTWARE:
+
+R200 driver Source Code, 8300 driver Source Code, and 8350 driver Source
+Code, BIOS source code and driver Source Code for Linux OS. Source Code,
+if any, for ATI's Bridget and Theater products.
+
+
+
+7
+<PAGE>
+
+ATTACHMENT B
+
+AUTHORIZED USER LIST:
+
+Personnel of the Evans & Sutherland PC Simulation group comprise the list
+of authorized users. The current list of people include:
+
+Bill Armstrong
+Rob Snow
+Reese Jones
+Marie Swenson
+Megan Dearden
+Scott McCusker
+Kevin Conlin
+Thelda Jones
+Bill Myers
+Diego Escala
+Reed Tidwell
+Harrison Cooper
+Allen Mathisen
+Jim Bentley
+Jeff Kirk
+
+
+8
+<PAGE>
+
+

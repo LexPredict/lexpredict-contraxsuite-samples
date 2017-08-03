@@ -1,0 +1,1070 @@
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.16
+
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+This Software License and Services Agreement ("Agreement") is made and entered
+into as of this 11th day of November, 1999, between BroadVision, Inc.
+("BroadVision") and
+
+Company   ReSourcePhoenix.com
+("Customer")
+
+Address   2401 Kerner Blvd.
+San Rafael, CA 94901-5529
+
+In  consideration  of the mutual  covenants  and  conditions  contained  in this
+Agreement,  the  parties  agree as stated  herein.  The  following  attachments,
+required when applicable, are also part of this Agreement:
+
+A.   Current Licensing Practices
+B.   Required Provisions of Sublicenses
+C.   Professional Services Terms and Conditions
+D.   Business Terms
+
+1.   LICENSE.
+
+A.   BroadVision  hereby grants to Customer a perpetual (unless  terminated
+as set forth herein),  nonexclusive,  and  nontransferable  (except in
+accordance  with the provisions of Section 11.B)  license,  subject to
+the terms and conditions of this Agreement, to use the object code for
+the Software. For the purpose of this Agreement, "Software" shall mean
+all versions, including current, previous, and subsequent versions, of
+all software  products,  together with  operating  instructions,  user
+manuals,  training  material,  and  other  documentation  as  may,  in
+BroadVision's sole discretion, be supplied to Customer.
+
+B.   Customer  may  use  the  Software  in  accordance  with  BroadVision's
+published  licensing practices in force at the time of delivery of the
+applicable   Software   products.   BroadVision's   current  licensing
+practices are as set forth in Attachment A. If BroadVision changes its
+licensing  practices,  BroadVision  will give Customer advance written
+notice  of  such  changes  and  such  changes  will be  applicable  to
+subsequent  purchases  of Software  licenses  by  Customer  hereunder;
+provided that,  unless otherwise  agreed by the parties,  such changes
+will not be  effective  with  respect to future  purchases of Software
+licenses of the type previously  purchased by Customer for a period of
+six (6) months from the date BroadVision gives Customer notice of such
+changes.  Notwithstanding anything to the contrary contained herein or
+in any other order forms, attachments,  quotes or other documentation,
+Customer may purchase at any time any BroadVision products or services
+generally available to any BroadVision customers.  Such purchase shall
+be  subject  to  discount   rates  set  forth  in  any  agreements  or
+attachments  provided by BroadVision  with respect to such purchase or
+otherwise at prices agreed by the parties.
+
+C.   Customer  may  not  (a)  rent,  lease,  or  loan  the  Software;   (b)
+electronically   transmit  the  Software  over  a  network  except  as
+necessary  for  Customer's  licensed  use of  the  Software;  (c)  use
+run-time  versions of  third-party  products  supplied by  BroadVision
+embedded in the Software,  if any, for any use other than the intended
+use of the Software; (d) modify,  disassemble,  decompile,  or reverse
+engineer  the  Software;  (e) transfer  possession  of any copy of the
+Software to another party,  except as expressly  permitted  herein; or
+(f) use the  Software in any way not  expressly  provided  for in this
+Agreement.  There are no  implied  licenses.  Customer  agrees  not to
+exceed the scope of the licenses granted herein.
+
+D.   BroadVision also grants to Customer the right to grant nontransferable
+sublicenses  to  portions  of the  Software,  where  such  grants  are
+explicitly permitted by BroadVision's  licensing  practices.  Customer
+shall require each such sublicensee,  before it may use or install the
+sublicensed   Software,   to  execute  a  written  license   agreement
+containing,  at  a  minimum,  the  required  provisions  specified  in
+Attachment B. Customer  shall  indemnify  BroadVision  for all losses,
+costs,  damages,  expenses,  and liabilities caused by a sublicensee's
+failure  to honor  the  terms  of such  sublicense,  or by  Customer's
+failure to include  required terms in its sublicense  agreements  with
+its sublicensees.
+
+
+Page 1 of 6
+
+<PAGE>
+2.   PAYMENT PRICES.
+
+A.   Invoices  shall be issued upon  delivery of the  products or services,
+unless specified herein to the contrary,  and shall be due and payable
+in United States  currency upon receipt by Customer.  Payment shall be
+overdue  thirty (30) days after the  delivery  date  specified  on the
+invoice.  Overdue payments shall be subject to a finance charge of one
+and one-half  percent (1 1/2%) for each month or fraction thereof that
+the invoice is overdue,  or the highest  interest  rate  permitted  by
+applicable  law,  whichever  is  lower.   BroadVision  shall  also  be
+reimbursed  for its  collection  costs in the event of late  payments,
+including reasonable attorney's fees.
+
+B.   Software will be shipped FOB  BroadVision's  facility in Redwood City,
+California,    U.S.A.,   by   commercial    surface    transportation.
+Transportation  charges  in  excess  of such  rates  will be billed to
+Customer. Software shall be deemed accepted upon delivery.
+
+C.   The prices  stated in  BroadVision  quotations  are  exclusive  of any
+federal, state, municipal,  value-added,  foreign withholding or other
+governmental taxes, duties, fees, excises, or tariffs now or hereafter
+imposed on the production,  storage,  licensing, sale, transportation,
+import,   export,   or  use  of  the  Software  or  any  improvements,
+alterations,   or  amendments  to  the  Software.  Customer  shall  be
+responsible for, and if necessary reimburse,  BroadVision for all such
+taxes, duties,  fees, excises, or tariffs,  except for governmental or
+local taxes imposed on BroadVision's corporate net income.
+
+3.   SOFTWARE MAINTENANCE.
+
+A.   BroadVision  agrees to  provide  Customer  with  software  maintenance
+subject to the following provisions and conditions:
+
+i.   At  Customer's   request,   BroadVision  shall  provide  software
+maintenance  at  prices  to  be  quoted  to  Customer.   Software
+maintenance  shall  include (i)  telephone  and  electronic  mail
+support provided during  BroadVision's  normal working hours, and
+(ii) standard releases  containing  improvements or modifications
+to the Software, where such improvements or modifications are not
+priced as separate new products or options ("Standard Release").
+
+ii.  BroadVision  shall provide software  maintenance for any Standard
+Release until one year after shipment of the subsequent  Standard
+Release.
+
+iii. Customer  shall  designate  four  or,  with  BroadVision's  prior
+written approval,  more than four,  Support Contact Persons,  who
+shall  be  responsible  for   communicating   support  issues  to
+BroadVision.  Each  Support  Contact  Person will be  technically
+competent  with respect to the Software and  knowledgeable  about
+the  Customer's  environment  on  which  the  Software  is  used.
+Customer  agrees  to  provide  BroadVision  with  timely  written
+notification   containing   all  details  of  software   problems
+necessary for  BroadVision  to diagnose such  problems.  Customer
+agrees  to  cooperate   fully  in  providing   BroadVision   with
+Customer's  source  code,  in  machine-readable  form,  and other
+materials  necessary  to reproduce a reported  software  problem.
+Subject to Customer's security  requirements,  Customer agrees to
+provide  BroadVision  reasonable direct or remote access and test
+time  on  Customer's  BroadVision  system,  for  the  purpose  of
+diagnosing  reported software problems.  If BroadVision  provides
+on-site  services  at  Customer's   request  in  connection  with
+software  maintenance,  Customer shall reimburse  BroadVision for
+all travel and other reasonable  out-of-pocket  expenses incurred
+with respect to such services.
+
+iv.  Software  maintenance may also include any patch releases ("Patch
+Releases") that BroadVision,  in its sole discretion and expense,
+makes available.  Patch Releases are intended to address material
+deviations between the Software and its published  specifications
+until a Standard  Release  can be made  available.  Customer  may
+install Patch Releases at its option.
+
+v.   BroadVision  shall not be responsible  for  maintaining  Software
+that fails to comply with its  published  specifications  if such
+non-compliance  is the result of  modification of the Software by
+Customer or third parties.  If BroadVision  expends its time on a
+noncompliance  found to be the  result  of any of the  preceding,
+Customer  shall pay  BroadVision  for such time at  BroadVision's
+then-current hourly consulting rate.
+
+B.   BroadVision  will  provide  at least 60 days  written  notice  of each
+annual renewal  (including the amount of the annual  maintenance fee),
+and Customer may renew software  maintenance may for a one-year period
+
+
+Page 2 of 6
+<PAGE>
+at  BroadVision's  then-current  prices for  software  maintenance  by
+delivering  BroadVision a purchase order for such renewal on or before
+the  renewal  date.  In no event will the  Software  maintenance  fee,
+expressed as a percentage of list price for the Software,  increase by
+more than the greater of five  percent  (5%) or the increase in the US
+Consumer  Price  Index  over the  amount  charged  the  previous  year
+(subject  to  adjustments  resulting  from  Software  being  added  to
+maintenance  coverage during the prior maintenance period or as of the
+start  of  the  renewal  period).  In the  event  of  termination  for
+Customer's  breach or Customer's  convenience,  all  maintenance  fees
+shall be immediately due and payable  without notice;  in the event of
+termination  for any other  reason,  Customer  shall be  entitled to a
+refund of  maintenance  fees  already  paid,  prorated  for the unused
+portion of such fees.
+
+C.   Annual software  maintenance  fees are due and payable in advance;  in
+all other respects payments are subject to the terms and conditions of
+the Agreement.  Subject to adjustment for Software  license  purchases
+made during an annual maintenance period, annual maintenance fees as a
+percent of list price for the  Software to which the  maintenance  fee
+applies will not increase by more than five percent (5%) per year.
+
+D.   If  Customer   initially   declines  software   maintenance  and  then
+subsequently elects to commence maintenance,  or if maintenance for an
+item of  Software  is  discontinued  at  Customer's  request  and then
+subsequently  renewed,  Customer shall pay the  maintenance  fees that
+would have been due for the period  during which  maintenance  was not
+provided.
+
+4.   TITLE TO SOFTWARE.
+
+A.   Customer shall include  BroadVision's  copyright or proprietary rights
+notice on any  copies of the  Software  or  associated  documentation,
+including  copyright or  proprietary  rights  notices of third parties
+that  are   included  on  media  or  in   documentation   provided  by
+BroadVision.  Customer  acknowledges that the Software is the property
+of BroadVision or its licensors.
+
+B.   Unless otherwise requested by BroadVision,  Customer shall ensure that
+the phrase,  "Personalized  by  BroadVision  One-To-One"  shall appear
+prominently on the logon screen, splash screen, or other first view of
+the Customer's  application  seen by consumers or other end-users when
+they enter such  application.  The above  phrase  shall be a hypertext
+link to a URL specified by  BroadVision.  Customer's use of the phrase
+shall be in accordance  with  BroadVision's  guidelines for use of the
+mark.
+
+5.   WARRANTY.
+
+BroadVision  warrants  that  the  Software  will  conform  in all  material
+respects  to its  written  specifications  when  installed  and for 90 days
+thereafter.  For  purposes  of this  Agreement,  the  sole  source  of such
+specifications shall be BroadVision's written user documentation.  Customer
+will notify BroadVision within 10 days after the expiration of the warranty
+period of any nonconformity.  Where a material  nonconformity exists within
+the  warranty  period,  and proper  notice  has been given to  BroadVision,
+BroadVision will, as its sole and exclusive liability to Customer,  use due
+diligence to correct the  nonconformity  and provide Customer with one copy
+of any such corrected version of the Software, or, if BroadVision is unable
+to correct such nonconformances  within a reasonable period of time, refund
+all license fees paid to it for the Software,  or the most recent  software
+maintenance fee paid for the Software,  if the  nonconformity  relates to a
+Standard Release delivered  pursuant to Section 3 herein.  THIS WARRANTY IS
+IN LIEU OF ALL OTHER WARRANTIES AND CONDITIONS,  EXPRESSED OR IMPLIED,  AND
+BROADVISION  EXPRESSLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT.
+
+
+
+Page 3 of 6
+<PAGE>
+6.   LIMITATION OF LIABILITY.
+
+Except for  BroadVision's  liability  to Customer  under  Section 7 of this
+Agreement,  BroadVision's liability to Customer under this Agreement or for
+any other reason relating to the products and services  provided under this
+Agreement, including claims for contribution or indemnity, shall be limited
+to the amount paid to BroadVision under this Agreement. NOTWITHSTANDING THE
+FAILURE OF ESSENTIAL  PURPOSE OF ANY REMEDY UNDER THIS AGREEMENT,  CUSTOMER
+AGREES  THAT  IN  NO  EVENT  SHALL   BROADVISION  BE  LIABLE  FOR  SPECIAL,
+INCIDENTAL,  OR  CONSEQUENTIAL  DAMAGES,  INCLUDING LOST PROFITS OR LOSS OF
+USE.
+
+7.   INTELLECTUAL PROPERTY RIGHTS INDEMNITY.
+
+This Section 7 sets forth  BroadVision's  sole and  exclusive  liability to
+Customer and Customer's sole and exclusive rights against BroadVision, with
+respect to any claim  relating  to any  alleged or actual  infringement  or
+misappropriation  by BroadVision of any third party  intellectual  property
+right.  BroadVision will defend any action against  Customer  claiming that
+the Software  constitutes  infringement of a duly issued patent existing or
+issued  prior to the  initial  delivery  date of the  applicable  Software,
+copyright, trademark, or trade secret. BroadVision shall indemnify Customer
+for any  reasonable  expense  incurred by Customer in  connection  with the
+foregoing.  BroadVision's  obligations  under this section are  conditioned
+upon BroadVision  having sole control of any such action, and upon Customer
+notifying  BroadVision  immediately  in  writing  of the claim  and  giving
+authority,  information,  and assistance necessary to settle or defend such
+claim. If the use of the Software infringes or is enjoined,  or BroadVision
+believes it is likely to infringe or be enjoined,  BroadVision  may, at its
+sole  option,  (i) procure for  Customer  the right to continue  use of the
+licensed Software as furnished;  (ii) replace the licensed Software;  (iii)
+modify the licensed Software to make it  non-infringing,  provided that the
+Software still substantially conforms to the applicable specifications;  or
+(iv) if BroadVision,  after using all commercially  reasonable  efforts, is
+unable to  accomplish  the  foregoing  remedies,  terminate the license and
+refund the license fee for the Software, less a proportional adjustment for
+the time the Software was used by Customer,  equal to the ratio of the time
+elapsed since the delivery date to five (5) years.  The indemnity  provided
+herein shall not apply if the alleged infringement arises from: (a) the use
+of other than a  currently  supported,  unaltered  release of the  licensed
+Software;  (b) the use of  Software  that has been  modified or merged with
+other  programs by  Customer;  or (c) the use of the  licensed  Software in
+combination  with  software or hardware not provided  under this  Agreement
+(other than software and hardware described in BroadVision's specifications
+or  documentation  for the  Software  as  capable  of being  used  with the
+Software or as otherwise agreed in writing by  BroadVision).  The foregoing
+states BroadVision's sole and exclusive liability for patent, copyright, or
+other proprietary rights infringement.
+
+8.   CONFIDENTIALITY OF SOFTWARE AND DOCUMENTS.
+
+A.  Customer  shall not  reproduce,  duplicate,  copy,  sell,  or otherwise
+disclose,   or   disseminate   the   Software,    including   operating
+instructions,  user  manuals,  and  training  materials,  in any medium
+except as authorized herein.  Customer may make copies of the Software,
+in machine readable form, only as is reasonably  necessary for archival
+and backup purposes.
+
+B.  Customer expressly  undertakes,  using reasonable efforts not less than
+it  exercises  for  its  own  confidential   materials,  to  retain  in
+confidence,  and to require its employees or  consultants to retain the
+Software  in  confidence,  and  will  make no use of such  information,
+except under the terms and during the existence of this Agreement,  and
+only to the extent that such use is necessary to  Customer's  employees
+or consultants in the course of their employment.
+
+C.  The  provisions of this section shall survive the  termination  of this
+Agreement for a period of five (5) years.
+
+D.  Customer  shall  not  release  the  results  of  any  benchmark  of the
+Software,  or of any third party  products  embedded  in the  Software,
+without BroadVision's prior written approval.
+
+9.   AUDIT RIGHTS.
+
+At  BroadVision's  request,  but in no  event  more  than  twice  annually,
+Customer shall provide  BroadVision  with a report detailing its use of the
+Software.  No more than once  annually,  BroadVision  may audit  Customer's
+pertinent  records to ensure that license and other fees have been properly
+paid in compliance with this Agreement.  BroadVision  will give Customer at
+least three business days notice of its intention to perform such an audit.
+Any  such  audit  will  be  conducted  during  regular  business  hours  at
+Customer's  offices and shall not interfere  unreasonably  with  Customer's
+business  activities.  If an audit  reveals that Customer has underpaid its
+total  fees by more  than  five  percent  (5%),  then  Customer  shall  pay
+
+
+Page 4 of 6
+<PAGE>
+BroadVision's  reasonable costs of conducting the audit, in addition to the
+underpaid  amount;  provided,  that if  Customer  reasonably  disputes  the
+findings  of such an audit  and  Customer  and  BroadVision  are  unable to
+resolve  the  dispute,  Customer  and  BroadVision  will  select a mutually
+agreeable  an  independent  auditor to review the audit work  performed  by
+BroadVision.  If the independent  audit reveals that Customer has underpaid
+its total  fees by more  than  five  percent  (5%),  Customer  will pay the
+reasonable  costs of  conducting  both  BroadVision's  and the  independent
+auditor's  audits.  If the  independent  audit  reveals  that  Customer has
+underpaid its total fees by five percent (5%) or less, BroadVision will pay
+the reasonable costs of conducting both  BroadVision's  and the independent
+auditor's audits.
+
+10.  TERM/TERMINATION.
+
+This  Agreement  is effective on the earlier of (i) the date of shipment of
+the  Software  or (ii)  the date  set  forth  above,  and  continues  until
+terminated as provided herein, or by agreement of both parties. BroadVision
+may  terminate  this  Agreement  upon:  (a)  any  material  breach  of this
+Agreement by Customer that is not cured within 10 business  days  following
+written notice thereof;  or (b) failure by Customer to pay license fees for
+Software  under the payment terms  specified in this Agreement or as stated
+on  BroadVision's  invoice  for such  Software.  Upon  termination  of this
+Agreement  for any of the above  reasons,  all licenses  granted  hereunder
+terminate and Customer will immediately destroy the Software and all copies
+in any form. Upon  termination for any other reason,  Customer may continue
+to use the  Software,  provided  that Sections 1, 2 (to the extent that any
+amounts as owed to BroadVision as of the termination  date), 4, 6, 7, 8, 9,
+and 11 shall survive the termination of this Agreement, and BroadVision may
+terminate  Customer's use of the Software upon a material  breach of any of
+the surviving sections.
+
+11.  GENERAL.
+
+A.  WAIVER/AMENDMENT.   No  waiver,   amendment,  or  modification  of  any
+provision of this  Agreement  shall be effective  unless in writing and
+signed  by  the  party   against  whom  such  waiver,   amendment,   or
+modification  is sought to be  enforced.  No failure or delay by either
+party in exercising  any right,  power or remedy under this  Agreement,
+except as specifically  provided herein, shall be deemed as a waiver of
+any such right, power, or remedy.
+
+B.  ASSIGNMENT.  Either  party  may  assign  this  Agreement  to an  entity
+acquiring  substantially all of its assets or merging with it, provided
+that such  assignee  agree in writing to assume all  obligations  under
+this Agreement. Except as set forth above, neither party may assign any
+of its rights or delegate any of its  obligations  under this Agreement
+to any third party  without the express  written  consent of the other.
+Any attempted  assignment  in violation of the foregoing  shall be void
+and of no effect. Subject to the above, this Agreement shall be binding
+upon and inure to the  benefit  of the  successors  and  assigns of the
+parties hereto.
+
+C.  DISPUTES.  The rights of the parties hereunder shall be governed by the
+laws of the State of California  without giving effect to principles of
+conflicts of laws.  Any suits  brought  hereunder may be brought in the
+federal or state courts in Santa Clara County, California, and Customer
+submits to the jurisdiction thereof. The parties expressly exclude  the
+application of the 1980 United Nations  Convention on Contracts for the
+International Sale of Goods, if applicable.  Customer acknowledges that
+the Software  contains  trade  secrets,  the  disclosure of which would
+cause substantial harm to BroadVision that could not be remedied by the
+payment of damages alone. Accordingly,  BroadVision will be entitled to
+preliminary and permanent  injunctive relief and other equitable relief
+for any breach of  BroadVision's  intellectual  property  rights in the
+Software.
+
+D.  SEVERABILITY.  If any  provision of this  Agreement  shall be held by a
+court of competent  jurisdiction  to be contrary to law, the  remaining
+provisions of this Agreement shall remain in full force and effect.
+
+
+Page 5 of 6
+<PAGE>
+
+E.  EXPORT.  Customer  acknowledges  that the laws and  regulations  of the
+United States restrict the export of the Software. Customer agrees that
+it will not export or re-export  the Software in any form without first
+obtaining  the  appropriate   United  States  and  foreign   government
+approvals.
+
+F.  NOTICE. Any notice,  consent, or other communication hereunder shall be
+in writing, and shall be given personally,  by confirmed fax or express
+delivery to either party at their respective addresses:
+
+(i)  to BroadVision at:
+BroadVision, Inc.
+585 Broadway
+Redwood City, CA 94063, USA
+Attn: Chief Financial Officer
+
+(ii) to Customer at:
+2401 Kerner Blvd.
+San Rafael, CA 94901-5529
+Attn: Legal Department
+
+or such other address as may be designated by written  notice of either
+party. Notices shall be deemed given when delivered or transmitted,  or
+seven days after deposit in the mail.
+
+G.  INDEPENDENT CONTRACTORS. The parties' relationship shall be solely that
+of independent contractor and nothing contained in this Agreement shall
+be construed to make either party an agent, partner, joint venturer, or
+representative of the other for any purpose.
+
+H.  FORCE MAJEURE. If the performance of this Agreement,  or any obligation
+hereunder, except the making of payments, is prevented,  restricted, or
+interfered with by reason of any act or condition beyond the reasonable
+control of the affected  party,  the party so affected  will be excused
+from  performance  to the extent of such  prevention,  restriction,  or
+interference.
+
+I.  ENTIRE  AGREEMENT.  This Agreement,  including all Attachments  hereto,
+constitutes  the complete and exclusive  agreement  between the parties
+with respect to the subject matter hereof and supersedes all proposals,
+oral,   or  written,   all   previous   negotiations,   and  all  other
+communications  between the parties with respect to the subject  matter
+hereof. The terms of this Agreement shall prevail  notwithstanding  any
+different,  conflicting,  or  additional  terms  that may appear in any
+purchase order or other Customer document;  provided, however, that the
+provisions  of  Attachment  D shall govern in the event of any conflict
+between the provisions of this Software License and Services  Agreement
+and  Attachment  D with  respect  to  the  Software  initially  ordered
+hereunder.  All  products  and services  delivered  by  BroadVision  to
+Customer   are  subject  to  the  terms  of  this   Agreement,   unless
+specifically addressed in a separate agreement.
+
+
+Agreed to by:   BroadVision, Inc.
+
+/S/ RANDALL BOLTEN
+Signature
+
+Randall Bolten
+Printed Name
+
+CFO
+Title
+
+
+CUSTOMER:       ReSourcePhoenix.com
+
+/S/ BRYANT TONG
+Signature
+
+Bryant Tong
+Printed Name
+
+President
+Title
+
+
+Page 6 of 6
+<PAGE>
+
+ATTACHMENT A TO
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+BROADVISION LICENSING PRACTICES
+
+
+BroadVision's  current  standard  licensing  practices  are as  follows  for the
+products listed below. These practices are in effect as of June 15, 1999.
+
+-     ONE-TO-ONE  DEVELOPMENT  SYSTEM -- licensed on a per-user  basis. In
+other words, each individual who will use the One-To-One Development
+System  to  develop  BroadVision  One-To-One  applications  must  be
+separately  licensed.  Customer may reassign One-To-One  Development
+System  licenses within reason,  for example as employees  terminate
+employment or transfer to other departments.  One-To-One Development
+System products include:
+
+-     ENTERPRISE  DEVELOPMENT  SYSTEM -- the basic BroadVision
+development system
+
+-     APPLICATION   DEVELOPMENT   SYSTEM   --   includes   the
+Enterprise  Development System and the objects and other
+products  necessary  to develop  ONE of the  BroadVision
+Applications (Retail Commerce, Financial, or Knowledge)
+
+-     TWO  APPLICATION  DEVELOPMENT  SYSTEM  --  same  as  the
+Application  Development  System,  but  for  TWO  of the
+BroadVision  Applications  (NOTE:  Business  Commerce by
+itself  is  counted  as a  Two  Application  Development
+System)
+
+-     THREE  APPLICATION  DEVELOPMENT  SYSTEM  --  same as the
+Application  Development  System,  but for  THREE of the
+BroadVision Applications
+
+-     ONE-TWO-ONE  DEPLOYMENT  SYSTEM -- licensing is based on the maximum
+number of  Profiled  Users  permitted  to be tracked by  BroadVision
+One-To-One applications.  A Profiled User corresponds to a record in
+the  BroadVision  user  profile   database.   The  record  maintains
+information  about the  user's  profile  and may  refer to  external
+sources for additional profile  information.  The number of Profiled
+Users  represents  the  number  of  one-to-one   relationships  that
+Customer wants to maintain with its users.  By licensing a number of
+profiled  users the  customer  is paying  for the right to keep that
+many records in the BroadVision  user profile  database at any point
+in time. Examples of Profiled Users include,  but are not limited to
+customers, partners and employees.
+
+-     ONE-TO-ONE  TOOLS --  licensed on a per-user  basis,  similar to the
+One-To-One Development System products. One-To-One Tools include:
+
+-     ONE-TO-ONE COMMAND CENTER, formerly known as the Dynamic
+Command Center, or DCC
+
+-     ONE-TO-ONE  PUBLISHING  CENTER,  formerly  known  as the
+Content Management Center, or CMC
+
+-     ONE-TO-ONE INSTANT PUBLISHER
+
+-     ONE-TO-ONE  DESIGN CENTER,  formerly known as the Visual
+Design Center, or VDC
+
+[NOTE:  The One-To-One  Command  Center,  the One-To-One  Publishing
+Center,  and the One-To-One  Instant Publisher may be sublicensed to
+third parties using  Customer's  application  software in accordance
+with the terms of this Agreement.]
+
+
+
+Page 1 of 1
+<PAGE>
+
+ATTACHMENT B TO
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+REQUIRED PROVISIONS OF SUBLICENSE AGREEMENTS
+
+Each  agreement  sublicensing  the Software  entered  into between  Customer and
+Customer's  end-users  ("End-Users",  "end-User  License")  shall, at a minimum,
+state the following:
+
+a.      End-Users  shall have the right to duplicate  the Software  only
+for backup or archival  purposes and to transfer the Software to
+a  backup  computer  in  the  event  of  computer   malfunction.
+End-Users   shall  not  make  the  Software   available  on  any
+timesharing  or other  rental  arrangements.  End-Users  may not
+transfer  their  rights  under the  End-User  License  agreement
+without BroadVision's permission.
+
+b.      End-Users  shall not cause or permit  the  reverse  engineering,
+disassembly, or decompilation of the Software.
+
+c.      Title shall not pass to the End-User.
+
+d.      The End-User  License  agreement  shall not include  warranties,
+express or implied, made on behalf of BroadVision.
+
+e.      BroadVision shall not be liable for any damages, whether direct,
+indirect, incidental, or consequential,  arising from the use of
+the Software.
+
+f.      At the termination of the End-User  License,  the End-User shall
+discontinue  use and shall  destroy  or return the  Software  to
+BroadVision, including all archival or other copies.
+
+g.      The  End-User   License  shall  state  that   BroadVision  is  a
+third-party beneficiary of the End-User License.
+
+h.      The End-User shall not publish any result of benchmark  tests on
+the Software.
+
+i.      The End-User shall comply fully with all relevant regulations of
+the  United  States  Department  of  Commerce  and with the U.S.
+Export  Administration  to  assure  that  the  Software  is  not
+exported in violation of the code and regulations.
+
+
+Page 1 of 1
+
+
+<PAGE>
+ATTACHMENT C TO
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+PROFESSIONAL SERVICES TERMS AND CONDITIONS
+
+This  Attachment  C is  incorporated  into the  Software  License  and  Services
+Agreement  (the  "Agreement")  dated  the  ____  day of  October,  1999  between
+BroadVision, Inc. ("BroadVision") and ReSource/Phoenix,  Inc. ("Customer").  The
+terms and conditions  contained  herein are subject in all respects to the terms
+and conditions of that Agreement, except that in the event of a conflict between
+the terms of this Attachment C and the Agreement, the terms of this Attachment C
+shall govern.
+
+1.  SCOPE OF WORK; CONSIDERATION.
+
+BroadVision  will perform  such  services as set forth in an exhibit to this
+Attachment  C, or in a purchase  order  prepared by Customer and accepted by
+BroadVision,  or in any other  written  form agreed to by the  parties  (the
+"Statement of Work").  Unless  otherwise set forth in the Statement of Work,
+in consideration of BroadVision's  performance as herein set forth, Customer
+agrees to pay BroadVision the actual charges for the services  performed and
+expenses  incurred,  and Customer  will be invoiced  once each month for all
+charges  incurred  in  the  previous   period(s).   The  services  or  other
+deliverables  provided under each Statement of Work shall be deemed accepted
+on delivery,  unless  otherwise  specified in the  Statement of Work. In the
+event of a  conflict  between  the terms of any  Statement  of Work and this
+Attachment  C, the terms of the  Statement of Work shall govern with respect
+to the services specified in that Statement of Work.
+
+2.  LIMITATION OF CHARGES.
+
+No liability shall be incurred by Customer in excess of the amount,  if any,
+set forth in the  Statement of Work unless and until such  Statement of Work
+is amended  in  writing  by both  parties.  Such  amount  normally  includes
+professional   services,   but  not  materials  and  out-of-pocket  expenses
+reasonably required for contract performance. BroadVision is not required to
+continue  performance beyond the funding limitation set forth therein unless
+and until  Customer  shall have  notified  BroadVision  in writing that such
+funding  limitation  has been  increased  and shall have  specified  in such
+notice a revised estimated  charge.  When and to the extent that the funding
+limitation set forth has been increased, any charges incurred by BroadVision
+in  excess  of the  funding  limitation  prior  to  the  increase  shall  be
+allowable,  due and  payable  to the same  extent  as if such  charges  were
+incurred after such increase in the estimated charge and funding limitation.
+
+3.  CHANGES.
+
+Changes shall be made in writing and signed by authorized representatives of
+Customer  and  BroadVision.  All such  changes  shall  specify  the  changes
+ordered, any increases in the estimated charges for performance,  adjustment
+to the  schedule  of  performance,  and  any  changes  to  other  terms  and
+conditions as may be effected thereby.
+
+4.  TITLE.
+
+BroadVision  shall  have  title  to  the  software,   systems  design,   and
+documentation  arising out of  performance  or delivery to Customer  under a
+Statement of Work. The parties  acknowledge that performance  thereunder may
+result in the development of new concepts,  software,  methods,  techniques,
+processes,  adaptations,  and ideas,  in  addition  to  BroadVision's  prior
+technology  which may be  incorporated  in  BroadVision's  performance.  The
+parties agree that the same shall belong to BroadVision  exclusively without
+regard to the origin  thereof.  With  respect to all such  software,  system
+design  information and documentation  delivered to or disclosed to Customer
+pursuant to the  Statement  of Work  ("Application  Software"),  BroadVision
+hereby grants to Customer, as of the time that any such Application Software
+is  disclosed  to  Customer  by or on behalf of  BroadVision,  a license  in
+respect of the software so disclosed.  Unless otherwise agreed to in writing
+by the  parties,  each  such  license  shall  be a  perpetual,  irrevocable,
+non-exclusive, non-transferable, royalty-free license to use the Application
+Software in  conjunction  with the  Software and for any use of the Software
+permitted by this Agreement;  provided,  that for purposes of the foregoing,
+the term "use"  shall  include the right for  Customer to create  derivative
+works  from  the  Application  Software  for  use in  conjunction  with  the
+Software.
+
+5.  LIMITATION OF LIABILITY.
+
+BROADVISION'S LIABILITY TO CUSTOMER UNDER THIS ATTACHMENT C, INCLUDING
+CLAIMS FOR CONTRIBUTION OR INDEMNITY, SHALL BE LIMITED TO THE AMOUNTS PAID
+BY CUSTOMER FOR THE SERVICES PROVIDED HEREUNDER.
+
+
+Page 1 of 2
+<PAGE>
+6.  DISCLAIMER OF WARRANTY.
+
+THE SERVICES  PROVIDED UNDER THIS ATTACHMENT C AND THE APPLICATION  SOFTWARE
+ARE OFFERED EXCLUSIVE OF ANY WARRANTY,  INCLUDING,  WITHOUT LIMITATION,  ALL
+WARRANTIES OF  MERCHANTABILITY OR FITNESS FOR A PARTICULAR  PURPOSE,  OR ANY
+OTHER WARRANTY, WHETHER EXPRESSED OR IMPLIED.
+
+7.  ON-SITE PERSONNEL.
+
+The parties  acknowledge  that it may be necessary for the employees of each
+to be present at the  facilities of the other for extended  periods of time.
+The parties agree to provide the employees of the other with all  reasonable
+facilities  and  services  to assure  that their  services  may be  properly
+performed.  Each party will  instruct  their  employees  to conform with the
+internal regulations and procedures of the other party while on such party's
+premises.
+
+
+Page 2 of 2
+
+<PAGE>
+Attachment D
+
+ATTACHMENT D TO
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+BUSINESS TERMS
+
+*
+
+Private and Confidential
+
+* Portions  of  this  exhibit  have  been  omitted  pursuant  to a  request  for
+confidential treatment, and have been filed separately with the Commission.
+
+
+
+
+Page 1 of 1
+<PAGE>
+
+Attachment E
+
+ATTACHMENT E TO
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+SUPPORT POLICIES
+
+BROADVISION SUPPORT POLICY
+
+BroadVision endeavors to provide a high level of support, and offers a number of
+support  packages  designed to meet the needs of its diverse customer base. This
+document outlines BroadVision "Basic Support."
+
+The  Basic   Support   package   uses  a  case   tracking   procedure  to  track
+customer-reported  problems.  Using this system,  BroadVision  support engineers
+open  cases in the  order  in which  they are  received.  Cases  have  different
+priorities and will be treated  accordingly.  Standard  support is provided from
+9am to 6pm PT in  America,  and 9am to 6pm GMT in Europe.  If a case hasn't been
+opened  after 1 day,  the Support  manager  will be  notified.  After 2 days the
+Support Director will be notified.
+
+CASE ESCALATION AND 'HOT SITE' STATUS
+
+The  support  engineer  opening a case will set case  priority.  A customer  may
+request that a case be escalated at any time by contacting the Support  engineer
+or the Support Manager.
+
+Unusually  important site problems will be considered 'hot sites'. This includes
+such issues as serious reliability problems or significant  performance problems
+on production systems. To escalate a case, the customer may notify their Support
+engineer  or the  Support  Manager.  A 'hot  site'  will  gain  Executive  level
+attention  and all  necessary  resources  to  resolve  the issue as  quickly  as
+possible.
+
+A hot site will have a dedicated  Support  engineer  until it is  resolved.  The
+customer  is  expected  to  provide  technical  resources,   remote  access  and
+reproducible cases as necessary.  BroadVision will manage a list of issues to be
+resolved in the  escalation  to be  communicated  daily by the assigned  Support
+engineer. Once all the issues are resolved, the escalation to 'hot site' will be
+closed.
+
+PRIORITY 1
+
+The highest  level is reserved for site-down  type  failures.  Once  BroadVision
+support is notified that a site is down they will start work to restore the site
+as soon as possible.  If a site is not restored  after 4 hrs of work the Support
+engineer will move the site to 'hot site'  status.  The WPSO engineer who worked
+on the site will be contacted and Support Director notified of escalation. After
+1 day of escalation VP WPSO and VP  Engineering  will be notified.  The VPs will
+identify additional resources to work on the problem. After 2 days of escalation
+the CEO will be notified.
+
+PRIORITY 2
+
+Level 2 is for serious problems on a site not causing total failure, BroadVision
+Support will start work on the site as soon as they are aware of the problem. If
+a  workaround  has not been  developed  after 1 day of work by Support  then the
+Support  Director  will be  notified.  After  3 days  of  work  VP  WPSO  and VP
+Engineering will be notified.
+
+PRIORITY 3
+
+The third level is for general issues on a site not causing serious problems. If
+a case isn't resolved after 2 days the Support Manager will be notified. After 3
+days the Support Director will be notified.
+
+
+Page 1 of 3
+<PAGE>
+Attachment E
+
+PRIORITY 4
+
+The lowest level is for  questions or issues on a site not  requiring  immediate
+action.  If a case  isn't  resolved  after 3 days the  Support  Manager  will be
+notified. After 5 days the Support Director will be notified.
+
+AFTER-HOURS SUPPORT
+
+An optional  support package (not included with the Customer's  initial package)
+is available to provide  support 7 days a week, 24 hrs a day for assistance with
+serious   problems   on   live-sites.    It   will   not   support   development
+questions/issues.  Customers  with this support  will be provided  with a single
+pager number to contact the on-call  Support  person in the case of a priority 1
+support call. It is preferred that the customer must provide  BroadVision dialup
+access to the site in order to for support to able to provide  assistance in the
+recovery process. The Support engineer on call will have a laptop so that he/she
+can then dial into the website and help effect system recovery.
+
+DOCUMENTING KNOWN PROBLEMS
+
+BroadVision has a policy of sharing bug lists with  customers.  The intent is to
+pro-actively   let  the  customers   know  about  known  problems  and  document
+workarounds. BroadVision Support, Engineering and Product Management will decide
+which problems to report.
+
+Today we publish some of this  information in the Known Problems  section of the
+Release Notes. The following is our policy of enhancing this information as well
+as  updating  the known bugs every  month and making it  available  through  the
+support section of the BroadVision web site.
+
+1.  Currently we provide the following information in the Known Problems section
+of the Release Notes. The Release Notes will be updated upon every release.
+
+Bug Information: problem ID, brief description, any known workaround
+
+2.  Starting  with  version  4.1  Technical  Support  will update the Known Bugs
+section to include known bugs reported since the last release.  This will be
+updated  once a month.  Since  the  updates  will be  written  by  Technical
+Support, it will be directed to an engineering  audience. At product release
+time, Tech Pubs will roll them into the formal Release Notes.
+
+3.  We will also make the  following  patch  information  available  on our Tech
+support site:
+
+Patch Number:
+
+Date released:  [can also list those in preparation,  with a planned release
+date]
+Required previous patches:  [patch numbers or 'none']
+Resolved problems: [list of problem numbers]
+
+
+Page 2 of 3
+<PAGE>
+Attachment E
+
+PRODUCT ENHANCEMENT REQUEST PROCEDURE
+
+To submit an enhancement request:
+
+Log in to  Broadvision.com\login.html.  Select Support, and then click "Submit a
+new ticket". Include the text "Enhancement" in the description before submitting
+the request, and the product you wish to submit an enhancement request for.
+
+PM will review enhancements on a weekly basis and respond to you, the submitter,
+with the status
+
+Getting enhancements into an upcoming product release:
+
+At the start of each Project  Product  Manager  will go through the  enhancement
+list with ISG and  engineering to determine which should be included in the next
+release.  If there are specific  features  that need to be included to satisfy a
+project need,  please  include that  information in the ER when  submitted,  and
+email the appropriate Product Manager.
+
+COMPATIBILITY POLICY
+
+This section clarifies  BroadVision's policy on compatibility between production
+releases. BV will provide a migration path between the objects,  templates,  and
+scripts,  components  and content that  customers have created with a production
+release of One-To-One to the next production  release of One-To-One.  Addressing
+these in turn:
+
+1.  BroadVision  Standard  objects - if we change the tag syntax of BV  standard
+objects we will provide tools and procedures needed to migrate those objects
+from one release to the next. This will provide migration path for templates
+using BV standard objects.
+
+2.  BroadVision  Standard components - if we change the signature of BV standard
+components we will provide tools and  procedures  needed to migrate  scripts
+from one release to the next.  This will provide  migration path for scripts
+using BV standard components.
+
+3.  BroadVision  APIs - we  will  in  general  maintain  backward  compatibility
+between  BroadVision APIs. In cases, where this is not possible or desirable
+we will provide tools and procedures to migrate the APIs.  This will provide
+migration path for custom dynamic objects that use our APIs.
+
+4.  Database - when we make schema  changes we will provide  migration  tools to
+update  the  older  schema  and  content  from  one  production  release  of
+One-To-One to the next.
+
+Please note that we do not guarantee compatibility between Beta and FCS versions
+of any given release.  However, we will strive to not have major API, tag-syntax
+or schema changes between Beta and FCS releases.
+
+If  you   have   any   questions   or   suggestions   please   send   email   to
+bv-pm@broadvision.com.
+
+
+Page 3 of 3
+<PAGE>
+BROADVISION PRODUCTS
+YEAR 2000 COMPLIANCE
+
+STATEMENT OF YEAR 2000 COMPLIANCE
+
+BroadVision  One-To-one Version 4 products are year 2000 compliant.  BroadVision
+One-To-One  Version 3.0 products with the applicable  year 2000 patches are year
+2000 compliant.  Both versions require year 2000 compliant  hardware,  operating
+systems,  databases,  compilers and other related components.  Versions prior to
+3.0 have not been tested for year 2000 compliance.
+
+This representation is with respect to BroadVision's  products only and is not a
+representation  or warranty that  software  applications  developed  using these
+products are or will be year 2000 compliant.  Since there are many  interrelated
+dependencies in complex systems,  it is the licensee's  responsibility to ensure
+that their  applications,  including those built using  BroadVision's  products,
+have  undergone the level of testing and  certification  that is  appropriate to
+ensure year 2000 compliance.
+
+DEFINITION OF YEAR 2000 COMPLIANCE
+
+Year 2000 compliant means accurately processing date/time data,  including,  but
+not limited to, calculating,  comparing, and sequencing, from, into, and between
+the twentieth and twenty-first  centuries,  and between the years 1999 and 2000,
+including  recognizing  the  year  2000 as a leap  year.  Year  2000  compliance
+requires  that all  interfacing  applications  and  systems  provide and receive
+date/time data in a consistent format.
+
+CONFORMANCE TO BSI DEFINITION
+
+BroadVision  products  adhere to the definition  set forth in DISC  PD2000-1,  A
+Definition of Year 2000 Conformity Requirements, by British Standards
+Institution Committee. The definition states:
+
+RULE 1. No  value  for  current  date  will  cause  any  interruption  in
+operation.
+
+RULE 2. Date-based functionality must behave consistently for dates prior
+to, during and after year 2000.
+
+RULE 3. In all interfaces and data storage,  the century in any date must
+be  specified   either   explicitly  or  by  unambiguous   algorithms  or
+inferencing rule
+
+RULE 4. Year 2000 must be recognized as a leap year.
+
+
+Version Details
+
+<TABLE>
+<CAPTION>
+PRODUCT                              VERSION   YEAR 2000 STATUS
+<S>                                  <C>       <C>
+One-To-One, all products             4         Year 2000 compliant
+
+One-To-One application system        3.0       Year 2000 compliant with Y2K patch which:
+
+One-To-One Dynamic Command                     -  Corrects problem with payment object not
+Center (DCC)                                      handling 2 digit years correctly
+
+One-To-One Visual Development                  -  Provides user-defined window for adding
+Center (VDC)                                      century to 2 digit years
+
+One-To-One Financial                 3.0       Year 2000 compliant
+
+One-To-One Knowledge                 3.0       Year 2000 compliant
+
+One-To-One Commerce                  3.0       Year 2000 compliant with Y2K patch which:
+
+-  Corrects problem with purchase receive
+object not handling 2 digit years correctly
+
+One-To-One Content                   3.0       Year 2000 compliant with Y2K patch which:
+Management Center (CMC)
+-  Corrects problem with Java 2 digit year
+sliding date convention
+</TABLE>
+
+Page 1 of 2
+<PAGE>
+BROADVISION PRODUCTS
+YEAR 2000 COMPLIANCE
+
+Software Requirements for Year 2000 Compliance
+
+BROADVISION ONE-TO-ONE VERSION 4 PRODUCTS
+
+OPERATING SYSTEMS
+-   Sun  Solaris 2.6 or Solaris  2.5.1 with Y2K  patches -  Hewlett-Packard
+HP-UX 10.20 with Y2K patches - Microsoft Windows NT 4.0 with SP4
+
+DATABASES
+-   Oracle 8.0.x or 7.3.x - Sybase 11.0.3.2 & Open Client 11.1.1 - Informix
+7.22.UC - Microsoft SQL Server 7.0
+
+WEB SERVERS
+-   Netscape Enterprise Server 3.5.1
+-   Microsoft Internet Information Server 4.0
+
+ORB
+-   Iona Orbix 2.2
+
+ROGUE WAVE
+-   Tools.h++ 7.0.2
+-   DBTools.h++ 2.1.1
+-   Money.h++ 1.4.1
+
+BROADVISION ONE-TO-ONE VERSION 3.0 PRODUCTS
+
+OPERATING SYSTEMS
+-   Sun Solaris 2.5.1 with Y2K patches -  Hewlett-Packard  HP-UX 10.20 with
+Y2K patches - Microsoft Windows NT 4.0 with SP4
+
+DATABASES
+-   Oracle 7.3
+-   Sybase 11.0.3.2 & Open Client 11.1.1 - Informix 7.22.UC - Microsoft SQL
+Server 6.5 SP5
+
+WEB SERVER
+-   Netscape Enterprise Server 2.0.1 or 3.0
+-   Microsoft Internet Information Server 4.0
+
+ORB
+-   Iona Orbix 2.2
+
+ROGUE WAVE
+-   Tools.h++ 7.0.2
+-   DBTools.h++ 2.1.1
+-   Money.h++ 1.4.1
+
+BROADVISION, INC.   /s/ RANDALL BOLTEN
+Signature
+
+Randall Bolten, CFO
+Printed Name and Title
+
+Date
+
+
+Page 2 of 2
+
+
+

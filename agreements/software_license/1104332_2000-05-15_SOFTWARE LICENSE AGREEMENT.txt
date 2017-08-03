@@ -1,0 +1,1082 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.02
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (the "Agreement") is made and entered into as of
+this 18th day of February, 2000 (the "Effective Date"), by and between Summus,
+Ltd., a Delaware corporation ("Licensor"), and High Speed Net Solutions, Inc., a
+Florida corporation ("Customer"), with reference to the following facts and
+circumstances:
+
+A. Licensor has developed certain software programs and anticipates developing
+certain software programs and will promote licensing of such programs through
+the distribution of materials substantially in the form as those attached to
+this Agreement as Exhibit A.1 ("Description Materials"). In reliance on such
+Description Materials, Customer desires to license such software.
+
+B. Licensor and Customer envision a close working relationship with respect to
+Licensor's software such that Customer anticipates regularly: (i) acting as a
+beta-version user of Licensor's software; (ii) providing prospective licensees
+for Licensor's software; and (iii) providing references for or demonstrations of
+Licensor's software. Licensor desires to create an incentive for Customer to
+participate in these activities and, as such, Customer desires that Licensor
+share with Customer revenues received from third party users of Licensor's
+software and pay Customer for certain agency activities. To effect these
+incentives, Licensor and Customer have entered into a Revenue Sharing Agreement
+simultaneously with executing this Agreement.
+
+C. Licensor desires to grant certain software license rights to Customer in
+return for certain fees and on the terms and conditions contained in this
+Agreement.
+
+NOW THEREFORE, based on the above premises and in consideration of the mutual
+covenants and agreements contained herein, the parties agree as follows:
+
+1.       DEFINITIONS. As used herein, the following terms, when used in the
+singular, plural, or possessive form shall have the respective meanings set
+forth below:
+
+1.1 "Designated Activities" shall mean operating the MaxxSystem, any of the
+MaxxSystem functional components, or the Reader Software, either alone or in any
+combination, to perform any of the activities described by Exhibit A.1 or the
+functional equivalents thereof, for clients/customers of Customer or for
+Customer's own benefit, including but not limited to, creating content for,
+developing, sending, tracking, viewing, receiving, reading cataloging,
+distributing and streaming Rich Media Messages or other digital content as may
+be supported, and distributing Reader Software to clients/customers and members
+of the public.
+
+1.2 "Documentation" shall mean the complete set of operating manuals necessary
+to enable Customer to properly use the Licensed Software. The initial
+documentation to be provided by Licensor shall include a Users Manual and a
+
+<PAGE>   2
+
+Reference Manual for each of the components of the Licensed Server Software and
+Reader Software. Such manuals may be provided in electronic form as help files
+or in other electronic format.
+
+1.3 "Fees" shall mean the total of the following fees (all as defined either in
+this Section 1.3 or below in the text of this Agreement, including Exhibits):
+"License Fee," "Software Maintenance Fee," and "Revenue Based Fee."
+
+1.4 "License Fees" shall have the meaning given in Section 3.1.
+
+1.5 "Licensed Server Software" shall mean the Licensed Software other than the
+Reader Software.
+
+1.6 "Licensed Software" shall mean the Licensed Server Software and Reader
+Software collectively, consisting of the first generally available version of
+the MaxxSystem program, as more fully described on Exhibit A, in Object Code
+form, and any released New Versions provided under this Agreement.
+
+1.7 "New Versions" shall mean any versions of the Licensed Software that
+Licensor releases after the Effective Date of this Agreement including (a) error
+corrections, maintenance releases, and major and minor releases and products
+that supersede the Licensed Software; (b) any migration aids for users migrating
+from the prior version of the Licensed Software; and (c) any Documentation
+related to either (a) or (b). A product shall be considered to supersede the
+Licensed Software if (i) Licensor ceases actively marketing the Licensed
+Software, (ii) persons inquiring about licensing the Licensed Software are
+offered the new product instead, and (iii) the new product handles creation
+and/or delivery of Rich Media Messages.
+
+1.8 "Object Code" shall mean the code that can be executed directly or
+indirectly by a computer's central processing unit, which may include without
+limitation such things as compiled machine readable binary code, human readable
+scripts, and interpreted code or other code that does not need to be compiled
+before execution. Object Code shall not include code in human-readable form that
+would normally be compiled before execution on a computer.
+
+1.9 "Premier Partner" shall mean a customer, including Customer, with whom we
+envision a close working relationship and with whom the Licensor desires to
+create incentives to participate in certain activities to such as beta testing
+or demonstration of the Licensed Software. The incentives may include certain
+exclusive and non-exclusive marketing benefits or payments.
+
+1.10 "Quarterly Period" shall mean each calendar quarter (i.e., a period of
+three (3) consecutive calendar months commencing on January 1, April 1, July 1
+or October 1 of each year) during the term of this Agreement, with the exception
+of the first Quarterly Period, which shall commence on the Effective Date and
+end on the last day of that calendar quarter. The last Quarterly Period shall
+end on the date of expiration or termination of this Agreement, thereby possibly
+comprising fewer than three (3) months.
+
+<PAGE>   3
+
+1.11 "Reader Software" shall mean any version of any part or component of the
+MaxxSystem program or a separate program designed to be used in conjunction with
+MaxxSystem or inter-operate with MaxxSystem, in Object Code form and any
+released New Versions and/or Software Updates, that is: (i) distributed or
+intended to be distributed by the Licensed Server Software with a Rich Media
+Messages or other digital content as may be supported; (ii) is downloaded or
+sent from the Licensed Server Software to a remote computer or
+internet-connected device for execution in connection with viewing or
+interacting with a Rich Media Messages or other digital content as may be
+supported; or (iii) installable or required to be installed on the recipient's
+computer or internet-connected device to enable the recipient of the Rich Media
+Messages to view Rich Media Content, including but not limited to a 'thin' or
+'thick' client player, any self-extracting executable files with embedded Rich
+Media Content, any plug-ins or applets, or any similar viewing technology.
+
+1.12 "Related Agreements" shall mean agreements between Licensor and Customer
+related to or incorporated by the MLA and agreements based on either Licensor or
+Customer's rights and obligations under the MLA, including, but not limited to,
+the Letter Agreement incorporated by the MLA and any agreements relating to or
+arising from the Samsung opportunity.
+
+1.13 "Revenue Based Fee" shall have the meaning given in Section 3.2 of this
+Agreement.
+
+1.14 "Rich Media Content" shall mean any visual or graphic or multi-media
+content and user interaction metaphor beyond a plain ASCII text representation
+of information, including but not limited to video, still images of any format
+or type, audio, streaming content, compressed content, animation, and color
+graphics, any of which may contain interactive controls, user response/selection
+targets and hotspots, dialog and information display capabilities, voice
+response capability, and similar user interaction features.
+
+1.15 "Rich Media Message" shall mean electronic Rich Media Content delivery
+transmitted in any manner and through any portion of the Internet or any
+entities' internal network that delivers and presents Rich Media Content for the
+intended recipient.
+
+1.16 "Software Maintenance Agreement" shall mean the agreement for maintenance
+of the Licensed Software entered into between Customer and Licensor concurrently
+with this Agreement.
+
+1.17 "Software Maintenance Fee" shall mean the Maintenance Fee payable under the
+Software Maintenance Agreement.
+
+1.18 "Source Code" shall mean the human-readable code that produces the compiled
+machine readable form of Object Code.
+
+1.19 "Use Level Percentage" shall mean ten percent (10%).
+
+1.20 "Virus" shall mean any computer code intentionally designed to disrupt,
+disable, harm, or otherwise impede in any manner, including aesthetical
+disruptions or distortions, the operation of the computer program, or any other
+associated software, firmware, hardware, or computer system (including local
+area or wide-area networks), in a manner not intended by its creator(s).
+
+<PAGE>   4
+
+1.21 "Volume of Use" shall mean unlimited use of the Licensed Software for the
+Designated Activities
+
+2.       LICENSE.
+
+2.1 LICENSED SERVER SOFTWARE. Subject to Customer fulfilling its
+obligations hereunder, Licensor hereby grants to Customer a world-wide,
+non-exclusive, irrevocable (subject to the termination provisions set forth
+herein) license (1) to use the Licensed Server Software in Object Code form
+only, and Documentation to perform the Designated Activities at the Volume of
+Use; (2) to use the Licensed Server Software and the Documentation in connection
+with backup and disaster recovery procedures in the event of destruction or
+corruption of the Licensed Server Software or disasters or emergencies which
+require Customer to initiate disaster recovery procedures; and (3) to make,
+reproduce and internally distribute copies of the Licensed Server Software and
+related Documentation, either electronically or otherwise, as reasonably
+required to support Customer's use of the Licensed Server Software for backup
+purposes. Customer shall not have the right or license to make any derivative
+works (within the meaning of 17 U.S.C 101) incorporating or based on any of the
+Licensed Server Software, or any portion thereof, except as may be necessary for
+the use of the Licensed Server Software for its normal, intended use.
+
+2.2 READER SOFTWARE LICENSE. Subject to the Customer fulfilling its
+obligations hereunder, Licensor hereby grants to Customer a world-wide,
+non-exclusive, non-transferable irrevocable license to (1) to use the Reader
+Software, in Object Code form only, to perform the Designated Activities at the
+Volume of Use; (2) to use the Reader Software and the Documentation in
+connection with backup and disaster recovery procedures in the event of
+destruction or corruption of the Reader Software or disasters or emergencies
+which require Customer to initiate disaster recovery procedures; (3) to make,
+reproduce and distribute to the public-at-large an unlimited number of copies of
+the Reader Software and any related Documentation, either electronically or
+otherwise, to the extent necessary to fully utilize the license rights granted
+in (1) through (2); and (4) to authorize third party vendors to make, reproduce
+and distribute to the public-at-large an unlimited number of copies of the
+Reader Software and any related Documentation, either electronically or
+otherwise, together with the products of such third party vendors. Customer
+shall not have the right or license to make any derivative works (within the
+meaning of 17 U.S.C 101) incorporating or based on any of the Reader Software,
+or any portion thereof, except as may be necessary for the use of the Reader
+Software for its normal, intended use.
+
+2.3 NEW VERSIONS. New Versions will be provided to Customer under the
+terms of the Software Maintenance Agreement. When provided to Customer under the
+Software Maintenance Agreement, New Versions will be treated as Licensed
+Software under this Agreement.
+
+<PAGE>   5
+
+2.4 OUTSOURCING. Customer shall not have the right to sublicense to
+third parties any or all of the license rights granted to Customer hereunder;
+provided, however, that Customer may outsource to a third party performance of
+Designated Activities for Customer under Customer's license.
+
+2.5 SOFTWARE PLATFORM PORTABILITY. Customer shall have the right, under
+the grant of license rights in this Article 2, to operate the Licensed Software
+on any operating systems for which Licensor makes a generally available version
+of the Licensed Software generally available to its customers. Customer shall
+have the right to receive the Licensed Software version for each such operating
+system. At Customer's request Licensor shall promptly deliver the Licensed
+Software version for such operating systems to Customer.
+
+2.6 READER SOFTWARE MODIFICATIONS. Upon request of Customer, Licensor
+shall perform in prompt commercial fashion modifications of the Reader Software
+requested by Customer in order to allow the Reader Software to function in
+integrated fashion with the software products of a customer of Customer.
+Customer shall pay Licensor's standard consulting fees for such service, subject
+to the Most Favored Customer clause of this Agreement.
+
+3.       LICENSE FEE.
+
+3.1 LICENSED SOFTWARE. In partial consideration of licenses granted
+hereunder, Customer shall pay to Licensor a one- time license fee of One Million
+Dollars ($1,000,000) at the Volume of Use (the "License Fee").
+
+3.2 REVENUE BASED FEE. In addition to the License Fee, Customer shall
+pay to Licensor an ongoing use fee (the "Revenue Based Fee") for the Licensed
+Software in an amount equal to the greater of: (a) the gross revenues generated
+by Customer with the Licensed Software multiplied by the Use Level Percentage;
+or (b) the amount equal to Three Cents (3(cent)) multiplied by the number of
+Rich Media Messages actually delivered to recipients. The Customer shall
+reconcile accounts each Quarterly Period and shall pay the Revenue Based Fee
+within one month following the end of the Quarterly Period. The Customer shall
+have the right at its sole discretion to apply any Customer Credit amounts in
+lieu of paying the Revenue Based Fee until any such Customer Credit as defined
+in the Master Agreement amounts are exhausted.
+
+4.       DELIVERY.
+
+4.1 DELIVERABLES; TIMETABLE. For each of the components of MaxxSystem,
+as described in Exhibit A.1, on the "Release Dates" described in Exhibit A.3
+Licensor shall deliver to Customer the Licensed Software and Documentation in a
+form and with sufficient reliability to constitute a commercial release of the
+Licensed Software ("Deliver" or "Delivery").
+
+4.2 OBLIGATION AND RIGHT TO TEST. If before the Release Date Licensor
+requests Customer to perform tests of the software in alpha version, and tests
+of the software in beta version, Customer shall use its best efforts to perform
+
+<PAGE>   6
+
+such tests, provided, however, Customer shall not be required to perform more
+than one such test in a one (1) month period. Regardless of whether Licensor
+requests Customer to perform such tests, Customer shall have the right to
+perform one (1) test of a beta version of the Licensed Software before the
+Release Date. Customer shall promptly notify Licensor in writing of the results
+of any tests performed pursuant to this Section 4.2. During such "beta" test
+period, Licensor shall dedicate Level III support resources to Customer;
+
+4.3 DELIVERY  DELAY.  In the event that Licensor  fails to Deliver each
+component  of the Licensed  Software  within 90 days of the date  stipulated  in
+Exhibit A.3, , Licensor shall be deemed in material breach of this Agreement and
+Customer  shall  have  the  option  at its sole  discretion  to  terminate  this
+Agreement.
+
+5.       MARKETING BENEFITS.
+
+5.1      TIME TO MARKET. In consideration of the Customer being a Premier
+Partner:
+
+o        Licensor shall provide the "beta" version of MaxxSystem, under
+licensing instructions appropriate to beta testing, to
+Customer for a period of not less than 30 days prior to
+production (general) availability. During such "beta" test
+period, Licensor shall dedicate Level III support resources to
+Customer;
+
+o        Licensor shall use its commercially reasonable efforts to
+cause all other licensees of the Licensed Software to be
+limited as to the date upon which such licensees can publicly
+announce their use of the Licensed Software. Licensor shall
+further provide Customer with the right and opportunity to
+publicly announce Customer's use of the Licensed Software,
+such announcement being on or before a date two weeks in
+advance of the date upon which Licensor allows such other
+licensees to announce their use.
+
+6.       COMPLIANCE WITH LAWS. Licensor shall modify the Licensed Software on a
+timely basis in the event that any change in the laws, rules, or
+regulations reflected in any features of the Licensed Software make
+such modification necessary and shall provide such modification to
+Customer as a New Version.
+
+7.       TERMINATION OF MLA AND RELATED AGREEMENTS.
+
+7.1 TERMINATION OF PRIOR AGREEMENTS. By this Agreement, Licensor and
+Customer specifically terminate the MLA and the Related Agreements and all
+obligations, rights and interests of the parties thereunder; provided, however,
+that provisions related to confidentiality and limitation of liability shall
+survive.
+
+<PAGE>   7
+
+8.       PROPRIETARY RIGHTS.
+
+8.1 SCOPE. All right, title, and interest to the Licensed Software
+shall remain with Licensor and Customer obtains only the license as specified in
+Article 2 hereof.
+
+8.2 LEGENDS. Customer shall not remove, deface, or otherwise obscure
+any copyright, patent, trademark, service mark, or other proprietary legend
+("Proprietary Legends") on either the Licensed Software or Documentation.
+Furthermore, Customer shall include such Proprietary Legends in any
+reproductions of either the Licensed Software or Documentation that Customer is
+permitted to make. Customer's obligation under this Section 8.2 shall survive
+the expiration or termination of this Agreement for any reason.
+
+9.       INDEMNIFICATION.
+
+9.1 SCOPE. Licensor shall indemnify and hold harmless Customer, and its
+directors, officers, employees, agents, successors, assigns, licensees and
+customers against any and all claims, penalties, losses, liabilities, judgments,
+settlements, awards, damages and costs (including but not limited to reasonable
+legal fees, expert witness fees and expenses) arising out of or related to any
+claim of patent, trademark or copyright infringement and claims of unfair
+competition or trade secret violation, and any other claim arising out of the
+sale, possessions or use of the Licensed Software (collectively "Claims") and
+will reimburse Customer from time to time for any reasonable legal fees, expert
+witness fees or other expenses (including the reasonable value of the services
+of in-house counsel) reasonably incurred by Customer in connection with
+investigating any such action or Claim as such expenses are incurred.
+
+Customer shall indemnify and hold harmless Licensor, and its directors,
+officers, employees, agents, successors, assignees, licensees and customers
+against any and all claims, penalties, losses, liabilities, judgements,
+settlements, awards, damages and costs (including but not limited to reasonable
+legal fees, experts witness fees and expenses) arising out of or related to its
+use of the Licensed Software, except for Claims covered by the preceding
+paragraph, unless such Claims are Excepted Claims (as defined below). Customer
+expressly indemnifies Licensor for any and all claims, penalties, losses,
+liabilities, judgements, settlements, awards, damages, and costs (including but
+not limited to reasonable legal fees, experts witness fees and expenses) arising
+our of or related to any claim of patent, trademark or copyright infringement
+and claims of unfair competition or trade secret violation, and any other claim
+arising out of the development, sale, possession, use or distribution of
+MaxxNote or MaxxAd content, Customer's web site content and the like. Customer
+will reimburse Licensor from time to time for any legal fees, expert witness
+fees or other expenses (including the reasonable value of the services of
+in-house counsel) reasonably incurred by Licensor in connection with
+investigating any such action or claim as such expenses are incurred.
+
+9.2 ADDITIONAL INDEMNITY TERMS. Moreover, Licensor shall defend, at its
+expense, any action or proceeding brought against Customer based upon a Claim,
+including the payment of reasonable attorney's fees, expert witness fees and
+costs of suit incurred thereby. In defending or settling any such Claim,
+
+<PAGE>   8
+
+Licensor may elect to (i) obtain the right of continued use of Licensed
+Software, or part thereof, which is alleged to be infringing, or (ii) replace or
+modify the Licensed Software, or part thereof, so as to avoid such Claim and
+thereupon Customer shall cease to use the version of the Licensed Software, or
+part thereof, that was replaced or modified. Licensor will not be obligated to
+indemnify, defend or settle any Claim resulting from or related to any
+additions, modifications, or changes to the Licensed Software made by Customer,
+its affiliates, successors or assigns, or resulting from the use of the Licensed
+Software with any third party materials (collectively, the "Excepted Claims").
+Licensor shall have the option to control such defense with counsel of its
+choice, but shall not settle any such Claim without the consent of Customer,
+which shall not be unreasonably withheld, unless such settlements involve only
+the payment of money damages for which Customer is fully indemnified. Customer
+shall provide reasonable cooperation, at Licensor's expense, to Licensor with
+respect thereto. Customer may participate in such defense at its own expense
+subject at all times to Licensor's right to control the defense of the
+proceeding.
+
+9.3 FAILURE OF INDEMNIFICATION PROVISIONS. If for any reason the
+foregoing indemnification is unavailable to Customer or insufficient to hold it
+harmless, then Licensor shall reimburse Customer for all amounts paid or payable
+by Customer as a result of such Claims, which shall include, for example, the
+costs of defending against any Claims because of Licensor's failure to provide
+the defense specified in Section 9.2 above.
+
+9.4 DUTIES. Each party's right to indemnification under Sections 9.1
+and 9.2 above is conditioned upon the indemnified party (i) promptly notifying
+the indemnifying party in writing of any Claim, (ii) providing the indemnifying
+party with all reasonable assistance for the defense or settlement of such
+Claims, (iii) with respect to Claims, Customer granting to Licensor reasonable
+authority and control for the defense or settlement of such Claims, and (iv)
+each party fully observing all material terms and conditions of this Agreement.
+
+9.5 WORK AROUND. With respect to a Claim, if a final injunction is
+obtained against Customer, Licensor will, at Licensor's option and expense,
+either (i) procure for Customer the right to continue using the Licensed
+Software or (ii) replace or modify the infringing portion of the Licensed
+Software so that it becomes non-infringing yet functionally equivalent, or, if
+the foregoing options are not available without undue expense, or (iii) refund
+all monies paid by Customer to Licensor with respect to that portion of the
+Designated Activities affected by such injunction under this Agreement; provided
+that any such procurement, modification or refund by Licensor will not relieve
+it of any other liability under this Agreement.
+
+10. WARRANTIES.
+
+10.1 TITLE. Licensor represents and warrants that it has full title to
+and ownership of the Licensed Software, Reader Software, and Documentation and
+all intellectual property rights embodied in or used in connection therewith,
+free and clear of liens (except those that may be established by this
+Agreement), claims and encumbrances, and that it has full power and authority to
+grant the licenses in Article 2 above.
+
+<PAGE>   9
+
+10.2 CONFORMITY TO REPRESENTATIONS. Licensor represents and warrants
+that the Licensed Software is in material compliance with all specifications and
+all other statements or claims found in the Description Materials of Licensor
+given in Exhibit A.1, and found in the Documentation. The Documentation fully
+describes the proper procedure for using the Licensed Software and is
+comprehensive enough to enable a person of average intelligence to operate the
+Licensed Software in an efficient manner.
+
+10.3 WARRANTY. Licensor represents and warrants that the Licensed
+Software shall operate and function in material compliance with the
+Documentation. Notwithstanding the foregoing, Licensor makes no warranty that
+all errors have been or can be eliminated from the Licensed Software.
+
+10.4 PHYSICAL MEDIA. Licensor represents and warrants each copy of the
+Licensed Software, including New Versions, is and will be free from physical
+defects in the media that tangibly embodies the Licensed Software for a period
+of ninety (90) days after delivery.
+
+10.5 VIRUS FREE; NO DISABLING CODE. Licensor hereby represents,
+warrants and covenants that the Licensed Software delivered under this Agreement
+shall contain no Viruses. Licensor hereby represents, warrants and covenants
+that the Licensed Software does not and will not contain any computer code that
+would disable the Licensed Software or impair in any way its operation based on
+the elapsing of a period of time, exceeding an authorized number of copies,
+advancement to a particular date or other numeral, or other similar self-
+destruct mechanisms (sometimes referred to as "time bombs", "time locks", or
+"drop dead" devices) or that would permit Licensor to access the Licensed
+Software to cause such disablement or impairment (sometimes referred to as a
+"trap door" device). Licensor agrees that in the event of a breach or alleged
+breach of this Section 10.5 that Customer shall not have an adequate remedy at
+law, including monetary damages, and that Customer shall consequently be
+entitled to seek a temporary restraining order, injunction, or other form of
+equitable relief against the continuance of such breach, in addition to any and
+all remedies to which Licensor shall be entitled.
+
+10.6 MOST FAVORED CUSTOMER. Licensor represents and warrants that,
+taken in the aggregate, all prices, charges, benefits, credits, warranties and
+terms granted to Customer pursuant to this Agreement are comparable to, or more
+favorable to, Customer than the prices, charges, benefits, credits, warranties
+and terms in the aggregate that Licensor has heretofore offered to any person or
+entity for the Licensed Software, maintenance for the Licensed Software, and
+Documentation covered by this Agreement. If at any time during this Agreement,
+Licensor shall contract with any other person or entity for (a) license fees for
+service bureau use of Licensed Software; (b) maintenance fees for maintenance of
+licensed software; (c) warranty and/or indemnity terms; or (d) prices, charges,
+benefits, warranties or other terms taken in the aggregate; that are more
+favorable to such person or entity than the corresponding provisions of this
+Agreement or the Software Maintenance Agreement, Licensor shall notify Customer
+of such more favorable provisions and Customer, at its option, may require that
+such more favorable provisions be available to Customer under this Agreement or
+the Software Maintenance Agreement.
+
+<PAGE>   10
+
+10.7 NO OTHER WARRANTIES. OTHER THAN AS PROVIDED IN THIS ARTICLE 10,
+LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE, WITH RESPECT TO THE LICENSED SOFTWARE, SOFTWARE UPGRADES, AND THE
+DOCUMENTATION. 11. LIMITATION OF LIABILITY.
+
+11.1 EXCLUDED LIABILITY. NEITHER PARTY SHALL BE LIABLE TO THE OTHER
+PARTY, ITS AFFILIATES, OR ANY THIRD PARTY BENEFICIARY, FOR CONSEQUENTIAL DAMAGES
+OF ANY KIND (INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS,
+BUSINESS INTERRUPTION, OR LOSS OF BUSINESS INFORMATION), REGARDLESS OF WHETHER
+THE PARTY LIABLE OR ALLEGEDLY LIABLE WAS ADVISED, HAD REASON TO KNOW, OR IN FACT
+KNEW OF THE POSSIBILITY THEREOF.
+
+12.      ESCROW AGREEMENT.
+
+12.1 FORM OF ESCROW AGREEMENT. The parties hereto will promptly upon
+the execution of this Agreement enter into an escrow agreement in a form
+substantially similar to the one attached to this Agreement as Exhibit A.4
+("Escrow Agreement") with Fort Knox Escrow Services as an escrow agent.
+
+13.      CONFIDENTIALITY. This Article 13 sets forth the procedures by which
+information regarded as confidential by one party hereto (a "Disclosing Party")
+may be disclosed to the other party hereto (the "Receiving Party").
+
+13.1 GENERAL REQUIREMENTS AND EXCLUSIONS. During the term of this
+Agreement and at all times thereafter, the parties will not, except as permitted
+by the terms of this Agreements, disclose or use, either for itself or for the
+benefit of any third party (whether in competition with Licensor of Customer or
+otherwise), any confidential information of the other party or its business or
+affairs, nor will any party assist any person or entity other than the
+Disclosing Party to secure any benefit from such confidential information. Any
+oral, written, graphic, or electronically transmitted information not generally
+available to the public shall be construed as confidential for purposes of this
+Agreement, which information shall include, without limitation, information
+relating to a Disclosing Party's products, processes, techniques, technology,
+formulas, research data, passwords, passcodes, user identification numbers,
+e-mail addresses, programming methods, know-how, trade secrets, customers and
+suppliers, information relating to sales and profits, other financial data, and
+the terms and conditions of this Agreements. All such information shall be
+collectively referred to herein as "Confidential Information." The provisions of
+this paragraph, however, shall not prevent the Receiving Party from use or
+disclosure of information (i) as necessary in the ordinary course of such
+party's performance under this Agreement, (ii) that is in the public domain
+(other than information in the public domain as a result of a violation of this
+Agreement by the Receiving Party), (iii) that the Receiving Party can
+
+<PAGE>   11
+
+demonstrate that it acquired outside of its affiliation with the disclosing
+Party from a third party in rightful possession of such information and who was
+not prohibited from disclosing such information, or (iv) disclosure of which is
+required by law or court order. The parties acknowledge that the Object Code of
+generally available versions of the Licensed Software are not required to be
+treated as Confidential Information, but that Object Code of versions not
+generally available to the public of Licensed Software will be Confidential
+Information. In the event that the Receiving Party is requested or required (by
+oral question or request for information or documents in any legal proceeding,
+interrogatory, subpoena, civil investigative demand, or similar process) to
+disclose Confidential Information, the Receiving Party will notify the
+Disclosing Party promptly of such request or requirement so that the Disclosing
+Party may seek an appropriate protective order, and if, in the absence of a
+protective order, the Receiving Party is, on the advice of counsel, compelled to
+disclose any Confidential Information to any tribunal or else stand liable for
+contempt, the Receiving Party may disclose Confidential Information to such
+tribunal; provided, however, that the Receiving Party shall use its best efforts
+to obtain an order or other assurance that confidential treatment will be
+accorded to such portion of the Confidential Information required to be
+disclosed. Customer shall be entitled to file this Agreement as an exhibit to
+one or more filings with the SEC, as recommended by its counsel, in which case
+Customer shall consult with Licensor concerning the redaction of terms of this
+Agreement under a confidentiality request associated with such filing, but the
+implementation of any such redaction shall be at the SEC's discretion. The
+obligation of confidentiality stated above shall survive termination of this
+Agreement.
+
+13.2 OUTSOURCERS. Notwithstanding Section 13.1 above, Customer shall
+have the right to discuss the scope of the license granted by Licensor under
+this Agreement and the maintenance obligations of Licensor under the Software
+Maintenance Agreement with any third party that potentially may perform
+information processing services for Customer.
+
+13.3 NO UNAUTHORIZED COPYING. Except as may be otherwise permitted by
+this Agreement, the Receiving Party shall not copy, duplicate, reverse engineer,
+reverse compile, disassemble, record, or otherwise reproduce any part of the
+Disclosing Party's Confidential Information or any of the Licensed Software, nor
+attempt to do any of the foregoing, without the prior written consent of the
+Disclosing Party. Any tangible embodiments of the Disclosing Party's
+Confidential Information that may be generated by a Receiving Party, either
+pursuant to or in violation of this Agreement, will be deemed to the sole
+property of the Disclosing Party and fully subject to the obligation of
+confidence set forth in this Article 13.
+
+13.4 NO REMOVAL OF PROPRIETARY LEGENDS. No Receiving Party shall
+remove, obscure, or deface any proprietary legend relating to the Disclosing
+Party's rights, on or from any tangible embodiment of any of the Disclosing
+Party's Confidential Information, without the Disclosing Party's prior written
+consent.
+
+13.5 REPORTS OF THIRD-PARTY MISAPPROPRIATION. A Receiving Party shall
+immediately report to the Disclosing Party any attempt by any third party of
+which the Receiving Party has knowledge to use or disclose any of the Disclosing
+Party's Confidential Information without authorization from the Disclosing
+Party.
+
+<PAGE>   12
+
+13.6 POST-TERMINATION PROCEDURES. Upon any termination of the Receiving
+Party's right to possess and/or use Confidential Information through either
+termination or expiration of this Agreement, the Receiving Party shall turn over
+to the Disclosing Party (or, if agreed by the Disclosing Party, destroy) any
+disks, tapes, Documentation, drawings, blueprints, notes, memoranda,
+specifications, devices, documents, or any other tangible embodiments of any
+Confidential Information of the Disclosing Party, except for Source Code
+available to Customer under the terms of the Escrow Agreement described in
+Section 12.
+
+14.      TERM AND TERMINATION.
+
+14.1 TERM. This Agreement shall become effective as of the Effective
+Date hereof and shall continue in force until the sixth (6th) anniversary of the
+Effective Date, unless earlier terminated in accordance with this Article 14.
+After this initial term, this Agreement shall be automatically renewed for
+additional one (1) year periods unless thirty (30) days prior to the expiration
+of this Agreement, either party provides written notice to the other party of
+its intent to terminate this Agreement.
+
+14.2 DEFAULT. Subject to the dispute resolution procedures set forth in
+Exhibit A.5, the non-defaulting party shall be entitled to terminate this
+Agreement at any time prior to the expiration of its term upon written notice to
+the defaulting party if the defaulting party breaches any material obligation
+hereunder, which breach continues or remains uncured for a period of sixty (60)
+days after receipt of written notice from the non-defaulting party, unless such
+breach cannot by its nature be cured, in which event the defaulting party shall
+be deemed in default hereof upon the occurrence of such breach. Notwithstanding
+the foregoing, if Customer shall be in breach of its obligation to make any
+payment owing to Licensor hereunder, Licensor may terminate this Agreement upon
+ten (10) days prior written notice to Customer. Any such termination shall not
+relieve Customer of any such obligation to pay.
+
+14.3 FAILURE TO DELIVER. Customer shall be entitled to terminate this
+Agreement in the event Licensor has not Delivered the Licensed Software within
+sixty (60) days after the date specified in this Agreement.
+
+14.4 EFFECT OF TERMINATION. Upon the expiration or termination, for any
+reasons, of this Agreement, the license and rights granted hereunder shall
+immediately terminate as of the effective date of such expiration or
+termination. Survival of any provisions of this Agreement shall be set forth in
+Section 17.8 hereof.
+
+15.      EXPORT CONTROLS. Customer shall cooperate with Licensor as reasonably
+requested and at Licensor's expense to permit Licensor to comply with the laws
+and administrative regulations of the United States controlling the export of
+commodities and technical data ("Export Laws"). Licensor shall prepare
+
+<PAGE>   13
+
+reasonable instructions for its licensees concerning actions licensees of the
+Licensed Software should take to comply with all Export Laws prior to exporting
+the Licensed Software, whether by remote access or otherwise, to a destination
+outside the United States. Customer shall comply with Licensor's reasonable
+instructions concerning such Export Laws. Notwithstanding any other provision of
+this Agreement, Customer agrees not to export, directly or indirectly, any
+United States source technical data acquired from Licensor or any products
+utilizing such data to any countries outside of the United States, if such
+export would be in violation of the United States Export Control Laws or
+Regulations then in effect.
+
+16.      SALES TAXES; SHIPPING; RISK OF LOSS. In addition to all other amounts
+due to Licensor hereunder, Customer shall pay to or reimburse Licensor for all
+federal, state, local, or other taxes (exclusive of income, business privilege,
+or similar tax) including, but not limited to, sales, use, value added, lease,
+or similar taxes or assessments, based on the License Fee(s) or other charges
+payable hereunder, the Licensed Software's use, or services performed hereunder.
+Customer shall have the right to contest the imposition of any such taxes or
+assessments and Licensor shall provide Customer with reasonable cooperation in
+contesting such taxes or assessments. Licensor shall, however, pay for all
+shipping or transportation costs for delivery of all Licensed Software and all
+copies of the Documentation purchased by Customer. Prior to Delivery of the
+Licensed Software, Licensor and its insurers shall accept responsibility for
+loss or damage.
+
+17.      GENERAL PROVISIONS.
+
+17.1 CONSTRUCTION AND VALIDITY; DISPUTE RESOLUTION. This Agreement
+shall be construed and enforced in accordance with the laws of the State of
+North Carolina (including its Uniform Commercial Code), but without giving
+effect to its laws or rules relating to conflicts of laws or to the United
+Nations Convention on Contracts for the International Sale of Goods. In the
+event of any conflict or inconsistency between the provisions of this Agreement
+and the provisions of any Exhibit annexed hereto or any document referred to in
+this Agreement or in any Exhibit hereto, the provisions of this Agreement shall
+prevail and govern its interpretation and construction. In the event of any
+dispute or controversy arising under or in connection with this Agreement, the
+dispute resolution procedures set forth in Exhibit A.5 shall be followed.
+Pending resolution of any such dispute or controversy, both parties will
+continue their performance under this Agreement including but not limited to the
+payment of all amounts due to the other party that are not in dispute (provided
+that Customer may make such payments under protest, reserving any rights it may
+have to seek reimbursement from Licensor).
+
+17.2 ATTORNEYS' FEES. In the event of any dispute, controversy,
+litigation or other proceedings (including proceedings in bankruptcy) concerning
+or related to this Agreement, the prevailing party shall be entitled to
+reimbursement of all of its costs, including reasonable attorney and expert
+witnesses fees and costs (including the reasonable value of the services of
+in-house counsel), and court or arbitration fees and costs.
+
+17.3 VENUE. Any dispute or controversy arising under or in connection
+with this Agreement shall be settled in Wake County, North Carolina. The parties
+hereby generally submit to the in personam jurisdiction of the Superior Court of
+the State of North Carolina and the Federal District Court for the Eastern
+District of North Carolina.
+
+<PAGE>   14
+
+17.4 NO JOINT VENTURE. Nothing contained in this Agreement shall be
+construed as creating a joint venture, partnership or employment relationship
+among the parties hereto nor shall any party have the right, power or authority
+to create any obligation or duty, express or implied, on behalf of any other
+party.
+
+17.5 ASSIGNMENT. Neither party hereto shall assign any of its rights
+under this Agreement nor delegate its duties hereunder to another person or
+legal entity without the prior written consent of the other party, which consent
+shall not be unreasonably withheld. This Agreement shall inure to the benefit of
+and be binding upon the parties hereto, their respective trustees, successors,
+permitted assigns and legal representatives.
+
+17.6 NON-WAIVER. A failure of any party hereto to exercise any right
+given to it hereunder, or to insist upon strict compliance by another party of
+any obligation hereunder, shall not constitute a waiver of the first party's
+right to exercise such a right, or to exact compliance with the terms hereof.
+Moreover, waiver by any party of a particular default by another party shall not
+be deemed a continuing waiver so as to impair the aggrieved party's rights in
+respect to any subsequent default of the same or a different nature.
+
+17.7 CAPTIONS AND PARAGRAPH HEADINGS. Captions and paragraph headings
+used in this Agreement are for convenience only and are not a part of this
+Agreement and shall not be used in construing it.
+
+17.8 SURVIVAL. Any terms or conditions of this Agreement which by their
+express terms extend beyond termination or expiration of this Agreement or which
+by their nature should so extend shall survive and continue in full force and
+effect after any termination or expiration of this Agreement. Without limiting
+the generality of the foregoing, the following articles and sections shall
+survive this Agreement: 2.2, 7, 8, 9, 10.1, 10.5, 10.7, 11, 13, 15, and 17.
+
+17.9 AUTHORIZATION. Customer and Licensor represent that all necessary
+corporate proceedings have been taken by each party to authorize the
+transactions contemplated by this Agreement and that this Agreement has been
+executed by a duly-authorized representative of each party and upon such
+execution shall constitute a valid and binding Agreement.
+
+17.10 EXHIBITS INCORPORATED. All Exhibits referenced in this Agreement
+are hereby incorporated into this Agreement by this reference and made part of
+this Agreement.
+
+17.11 NOTICES. All notices or other communications that shall or may be
+given pursuant to this Agreement, shall be in writing, in English, shall be sent
+by certified or registered air mail with postage prepaid, return receipt
+requested, by facsimile, telex or cable communication, or by hand delivery. Such
+communications shall be deemed given and received upon confirmation of receipt,
+if sent by facsimile, telex, or cable communication; or upon delivery if hand
+delivered; or upon receipt of mailing, if sent by certified or registered mail,
+and shall be addressed to the parties to such addresses as the parties may
+designate in writing from time to time.
+
+<PAGE>   15
+
+17.12 INVALIDITY. Should any of the non-material provisions of this
+Agreement, or portions thereof, be found invalid by any court of competent
+jurisdiction, the remainder of this Agreement shall nonetheless remain in full
+force and effect.
+
+17.13 COUNTERPARTS. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+17.14 ENTIRE AGREEMENT. This Agreement and the Revenue Sharing
+Agreement contain the full understanding of the parties and supersedes all prior
+or contemporaneous agreements and understandings, written or oral, between the
+parties with respect to the subject matter hereof; and there are no
+representations, warranties, agreements or understandings other than those
+expressly contained herein. No alteration, modification, variation or waiver of
+this Agreement, or any of the provisions hereof shall be effective unless
+executed by both parties in writing.
+
+(The remainder of this page is left intentionally blank.)
+
+<PAGE>   16
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed on the dates indicated below.
+
+SUMMUS, LTD. ("LICENSOR")            HIGH SPEED NET SOLUTIONS, INC. ("CUSTOMER")
+By: /s/ Dr. Bjorn Jawerth            By:  /s/ Andrew L. Fox
+(Signature)                          (Signature)
+Date:  March 13, 2000                Date:  February 18, 2000
+Name: Dr. Bjorn Jawerth              Name:  Andrew L. Fox
+Title:   CEO                         Title: Acting President and CEO,
+Executive Vice President
+
+<PAGE>   17
+EXHIBIT A.1
+
+LICENSOR'S DESCRIPTION MATERIALS
+
+MAXXSYSTEM SUMMARY
+
+The Summus Ltd. online advertising microcast media product suite,
+MaxxSystem, provides digital content management solutions for targeted
+media distribution. The product suite establishes an easily integrated
+infrastructure to increase the effectiveness of digital advertising,
+direct marketing, campaigns and content distribution. While these
+products showcase the benefits of faster wavelet technology, they also
+integrate well with existing media compression, streaming and
+manipulation tools in the marketplace. In addition, other forms of
+media such as flash, animations, and audio content will be fully
+integrated into the product suite over time.
+
+These products are based on a `permission marketing' approach.
+Customers opt in to participate and are encouraged to do so because
+they have self-solicited interest in the content provided. The user
+experience is enhanced through faster downloads and adaptive
+transmission of media to the user's environment. All media is
+distributed through a single player, regardless of media type. The
+player can be customized (`re-skinned') to meet the needs of the
+client.
+
+The MaxxSystem product suite version 1.0 will have five components.
+Refer to the diagram below for more information:
+
+1.       MAXXNOTE Version 2.5 - this is the currently
+available Summus video e-mail software. MaxxNote
+allows the user to import, create and compress
+content, bundle a player, then e-mail it via a MAPI
+compliant software program to distribution lists.
+MaxxNote Version 2.5 is available for Windows
+95/98/NT
+
+2.       The MAXXAD itself - this will be the advertisement
+that is built and sent to an end user via e-mail.
+MAXXADS are targeted e-mails that encapsulate rich
+media (images, video, slide shows, text) with
+electronic commerce capabilities, web site referrals
+and campaign effectiveness measurement collection. A
+maxxAd is rendered directly in an e-mail, therefore
+no executable (.exe) files are sent. The MaxxAd
+contains content and code streamed to the client on
+demand. MaxxAd Version 1.0 will be available for
+Windows 95/98/NT.
+
+3.       MAXXSHOW Version 1.0 is a completely integrated media
+presentation, designed to be launched from a web
+site. It encapsulates rich media (images, video,
+slide shows, text) with electronic commerce
+capabilities, web site referrals and e-commerce sales
+effectiveness measurement collection. MaxxShow is
+rendered directly from product selection on a web
+page, delivered via caching (release 1) and streaming
+based on bandwidth (release 2). MaxxShow is available
+for the Windows NT/95/98 platforms with support for
+Internet Explorer 4.0, Netscape 4.05 and AOL 4.0
+browsers and above. Support for the Macintosh
+platform is planned for late 2Q00.
+
+<PAGE>   18
+
+4.       The MAXXSERVER infrastructure - MaxxServer will
+stream and cache JAVA-code and media content to
+MaxxAd. The server will collect and process
+measurement information, handle opt-in and opt-outs,
+integrate with existing online advertising tools and
+process e-commerce transactions and links to web
+sites. Additionally, the MaxxServer infrastructure
+may handle forwarding of MaxxAdvertisements to ensure
+measurement tracking for forwarded MaxxAds is counted
+and measured. As needed, advertisements will be
+cached for faster rendering and distribution of
+content.
+
+5.       The MAXXORCHESTRATOR product will allow the content
+creators to format existing content into MaxxAds,
+allowing them to combine text, images, slide shows
+and video into a compelling advertisement utilizing
+the benefits of Summus wavelet technology or
+inserting banners and flash as required. It will
+allow the user to test the MaxxAd and request
+distribution through an e-mail list server.
+MaxxOrchestrator Version 1.0 will be available for
+Windows 98/NT
+
+The MaxxSystem also includes related Reader Software to the extent not
+included above.
+
+<PAGE>   19
+
+EXHIBIT A.2
+
+VOLUME-BASED PRICING STRUCTURE FOR THE LICENSED SOFTWARE
+SERVICE BUREAU USE
+LICENSE TERRITORY - WORLDWIDE
+
+<TABLE>
+<CAPTION>
+VOLUME OF USE                             LICENSE FEE                      USE LEVEL PERCENTAGE
+(Rich Media Messages)                (one-time licensing payment)           (multiply by gross revenue)
+<S>                                                     <C>                                      <C>
+the right to deliver an unlimited number                $1,000,000                               10.0%
+per month
+</TABLE>
+
+Any licensee of the License Software for Service Bureau use shall pay the
+License Fee to Licensor to initially gain the rights to use the Licensed
+Software, and shall also pay an ongoing Revenue Based Fee to the Licensor, which
+shall be the greater of: (a) the gross revenues generated by the Licensee with
+the Licensed Software multiplied by the Use Level Percentage; or (b) the amount
+equal to Three Cents ($.03) multiplied by the number of Rich Media Messages
+actually delivered to recipients.
+
+<PAGE>   20
+
+EXHIBIT A.3
+
+DELIVERY SCHEDULE
+
+Product                            Delivery
+
+1.      MaxxNote  Version 2.5              Upon the execution of  this agreement
+2.      MaxxAd  Version 1.0                September 1, 2000
+3.      MaxxServer Version 1.0             July 1, 2000
+4.      MaxxOrchestrator Version 1.0       September 1, 2000
+5.      MaxxShow Version 1.0               July 1, 2000
+
+<PAGE>   21
+
+EXHIBIT A.4
+
+ESCROW AGREEMENT
+<PAGE>   22
+
+EXHIBIT A.5
+
+DISPUTE RESOLUTION PROCEDURES
+
+1. With respect to any dispute or disagreement between the parties arising out
+of this Agreement other than a claim for rescission of the Agreement (a
+"Disputed Matter"), the following internal mediation procedures shall be
+followed:
+
+(a) Either party shall have the right to submit a Disputed Matter to
+Licensor's Chief Operating Officer and Customer's Chief Operating Officer or
+such other senior executives as may be mutually agreed upon by the parties from
+time to time. Such submission shall be delivered to such executives for both
+parties in writing with a reasonably detailed explanation of the nature of the
+Disputed Matter and its impact on the obligations under the Agreement. If such
+executives do not agree upon a decision within fifteen (15) business days after
+submission of the Disputed Matter to them by the party submitting the Disputed
+Matter, then
+
+(b) The Disputed Matter may be escalated by either party by submitting
+it to Licensor's Chief Executive Officer and Customer's Chief Executive Officer
+or such other senior executives as may be mutually agreed upon by the parties
+from time to time. If such senior executives do not agree upon a decision within
+ten (10) business days after submission of the Disputed Matter to them, then
+
+(c) either party may initiate the binding arbitration procedures set
+forth below.
+
+ARBITRATION PROVISIONS
+
+1. Rules; Jurisdiction. Any Disputed Matter shall be settled by final and
+binding arbitration in the County of Wake, and, except as herein specifically
+stated, in accordance with the commercial arbitration rules of the American
+Arbitration Association ("AAA Rules") then in effect, subject to the provisions
+of the United States Arbitration Act, 9 U.S.C. ss. 1 et seq. ("Title 9"). To the
+extent the AAA Rules conflict with, or are supplemented by, the provisions of
+Title 9, the provisions of Title 9 shall govern and be applicable. However, in
+all events these Arbitration Provisions shall govern over any conflicting rules
+which may now or hereafter be contained in either the AAA Rules or Title 9. Any
+judgment upon the award rendered by the arbitrators may be entered in any court
+having jurisdiction of the subject matter thereof. The arbitrators shall have
+the authority to grant any equitable and legal remedies that would be available
+in any judicial proceeding instituted to resolve a disputed matter. The parties
+hereby submit to the in personam jurisdiction of the Superior Court of the State
+of North Carolina and the Federal District Court for the Eastern District of
+North Carolina for purposes of confirming any such award and entering judgment
+thereon.
+
+2. Compensation of Arbitrators. Any such arbitration shall be conducted before a
+panel of three arbitrators who shall be compensated for their services at a rate
+to be determined by the parties, or lacking such determination by the American
+
+<PAGE>   23
+
+Arbitration Association, but based upon normal and reasonable hourly or daily
+consulting rates for the neutral arbitrator in the event the parties are not
+able to agree upon his or her rate of compensation.
+
+3. Selection of Arbitrators. Within five (5) business days of notice by a party
+seeking arbitration under this provision, the party requesting arbitration shall
+appoint one person as an arbitrator and within fifteen (15) business days
+thereafter the other party shall appoint the second arbitrator. Within twenty
+(20) business days after the appointment of the second arbitrator, the two
+arbitrators so chosen shall mutually agree upon the selection of the third
+impartial and neutral arbitrator, who must be a partner or principal of a
+nationally recognized firm of independent certified public accountants from the
+management advisory services department (or comparable department or group) of
+such firm; provided, however, that such firm cannot be the firm of certified
+public accountants then auditing the books and records of either party or
+providing management or advisory services for either party.
+
+In the event the chosen arbitrators cannot agree upon the selection of the third
+arbitrator, the AAA Rules for the selection of such an arbitrator shall be
+followed, except that the selection shall be from such departments or groups and
+certified accounting firms as are described in the immediately preceding
+paragraph. If the other party shall fail to designate the second arbitrator, the
+sole arbitrator appointed shall have the power to appoint, in his or her sole
+discretion, both the second and third arbitrators. If a party fails to appoint a
+successor to its appointed arbitrator within ten (10) business days of the
+death, resignation or other incapacity of such arbitrator, the remaining two
+arbitrators shall appoint such successor. The majority decision of the
+arbitrators will be final and conclusive upon the parties hereto.
+
+4. Payment of Costs. Each party hereby agrees to pay one-half (1/2) of the
+compensation to be paid to the arbitrators in any such arbitration and one-half
+(1/2) of the costs of transcripts and other expenses of the arbitration
+proceedings; provided, however, that the prevailing party in any arbitration
+shall be entitled to an award of attorneys' fees and costs, arbitrators' fees
+and costs, fees and costs of expert witnesses and all other costs of arbitration
+(including the reasonable value of the services of in-house counsel) to be paid
+by the losing party.
+
+5. Evidence and Discovery. The arbitrators shall be instructed to conduct the
+arbitration in as expeditious a manner as reasonably possibly, consistent with
+the parties' intention to have a full and fair hearing on the merits of the
+dispute. Each party agrees to supply the arbitrators in accordance with a
+timetable to be established by the arbitrators such materials as the arbitrators
+may reasonably require in order to render a decision, including those requested
+by either party which the arbitrators determine are appropriate to consider, but
+subject to appropriate claims of privilege. Each party shall supply to the other
+party hereto copies of any and all materials which are supplied to the
+arbitrators concurrently with delivery of such materials to the arbitrators.
+Upon the written request of either party, the arbitrators shall conduct a
+hearing at which representatives of both parties shall have the right to be
+present and to make oral presentations to the arbitrators. Each party shall
+supply to the other party at least twenty (20) business days prior to the
+commencement of any arbitration proceeding copies of any and all documents which
+such party intends to introduce or upon which such party intends to rely in
+connection with such proceeding, as well as a list of any and all witnesses
+whose testimony such party intends to introduce in connection with such
+proceeding. Additional documents or witnesses may be introduced only if the
+
+<PAGE>   24
+
+arbitrators determine that good cause has been shown. Deposing of witnesses in
+advance of such proceeding shall be permitted to the extent determined by the
+arbitrators. Each party shall also have the right to submit written briefs to
+the arbitrators in accordance with a timetable to be established by the
+arbitrators. To the extent either party maintains in good faith that any
+documents submitted or testimony introduced in connection with such arbitration
+contain confidential information or trade secrets, the parties shall negotiate
+in good faith in an effort to reach agreement regarding terms and conditions for
+keeping such materials and testimony confidential. If the parties are unable to
+agree upon such terms, the arbitrators shall have the right to impose
+appropriate restrictions to maintain the confidentiality of any confidential
+information or trade secrets in connection with the arbitration.
+
+6. Burden of Proof. For any claim submitted to arbitration, the burden of proof
+shall be as it would be if the claim were litigated in a judicial proceeding.
+All testimony of witnesses shall be taken under oath and shall be subject to the
+Federal Rules of Evidence.
+
+7. Judgment. Upon the conclusion of any arbitration proceedings, hereunder, the
+arbitrators shall render findings of fact and conclusions of law and a written
+opinion setting forth the basis and reasons for any decision reached by them and
+shall deliver such documents to each party to the Agreement along with a signed
+copy of the award.
+
+8. Terms of Arbitration. The arbitrators chosen in accordance with these
+provisions shall not have the power to alter, amend or otherwise affect the
+terms of these arbitration provisions or the provisions of the Agreement. 9.
+Exclusive Remedy. Except as specifically provided in this exhibit or in the
+agreement to which it is attached, arbitration shall be the sole and exclusive
+remedy of the parties for any disputed matter arising out of such agreement.
+
+9. Exclusive Remedy. Except as specifically provided in this exhibit or in the
+agreement to which it is attached, arbitration shall be the sole and exclusive
+remedy of the parties for any disputed matter arising out of such agreement.
+
+

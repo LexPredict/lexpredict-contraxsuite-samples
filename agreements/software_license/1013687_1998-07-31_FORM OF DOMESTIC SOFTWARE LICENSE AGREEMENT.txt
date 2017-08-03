@@ -1,0 +1,1016 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+CONFIDENTIAL
+
+EXHIBIT 10.1
+
+
+PHOENIX INTERNATIONAL LTD., INC.
+500 International Parkway
+Heathrow, Florida 32746
+Telephone: (407) 548-5100
+Fax: (407) 548-5299
+
+DOMESTIC SOFTWARE LICENSE AGREEMENT
+<TABLE>
+
+<S>                                                 <C>
+Name of Customer:                                   Effective Date (Day/Month/Year):
+
+Type of entity:                                     State of formation:
+
+Mailing Address:                                    Business  Address  (if  different  from  mailing
+address):
+
+City, State, Postal Code:                           City, State, Postal Code:
+
+Phone Number:                                       Fax Number:
+
+</TABLE>
+
+
+Phoenix International Ltd., Inc. ("Phoenix") has developed a retail banking
+system which the party identified as Customer above ("Customer") wishes to
+license. In consideration of the obligations of the and agreements of the
+parties as set forth below, the parties hereby agree as follows:
+
+
+1    DEFINITIONS
+
+1.1 "Affiliate" shall mean a parent company owning a majority of the Customer,
+and majority owned subsidiaries of the Customer.
+
+1.2 "Changes" shall mean corrections, updates, upgrades, translations,
+additions and modifications to the Software and Documentation, and any other
+new or additional works based in whole or in part on the Software or
+Documentation.
+
+1.3 "Client Devices" shall mean workstations, personal computers, terminals and
+other devices connected to the Server through the Customer Network which access
+and Use the Software to input, read, interpret, manipulate, or display
+Customer's data.
+
+1.4 "Confidential Information" shall mean any competitively sensitive or secret
+business, marketing, or technical information of Phoenix or Customer, including
+the terms of this Agreement and all other Agreements and communications between
+Phoenix and Customer. Phoenix's Confidential Information shall include, but not
+limited to, the Software and Documentation, including all Changes. Customer's
+Confidential Information shall include, but not limited to, all information
+concerning Customer's customers and their accounts. Confidential Information
+shall not include information which is (i) generally known to the public or
+readily ascertainable from public sources (other than as a result of a breach
+of confidentiality hereunder), (ii) independently developed by the receiving
+party without reference to or reliance on any Confidential Information of the
+disclosing party, as demonstrated by written records of the receiving party, or
+(iii) obtained from an independent third party who created or acquired such
+information without reference to or reliance on Confidential Information.
+
+1.5 "Customer and Software Support" shall have the meaning set forth in Section
+8.
+
+1.6 "Customer Network" shall mean the Server and the Client Devices at the
+Designated Location and the Remote Branches for which license fees have been
+paid hereunder.
+
+1.7 "Designated Location" shall mean the street address of the location of the
+Server as specified on Exhibit D. Customer shall notify Phoenix prior to any
+change in the
+
+<PAGE>   2
+
+CONFIDENTIAL
+
+
+location of the Server. Upon such notice, Exhibit D will be deemed
+automatically amended to reflect the change.
+
+1.8 "Documentation" shall mean the user documentation relating to the Software
+provided to Customer by or on behalf of Phoenix.
+
+1.9 "Effective Date" means the date first set forth above as the date of this
+Agreement.
+
+1.10 "Implementation Date" shall mean the date upon which the Software is ready
+for live processing of Customer's data.
+
+1.11 "Licensed Products" shall mean collectively the Software and
+Documentation.
+
+1.12 "Related Expenses" shall mean reasonable travel and other out-of-pocket
+expenses incurred by Phoenix in the performance of its obligations hereunder,
+including (without limitation) airfare, travel costs, lodging costs, and meals;
+shipping charges, courier and delivery charges; tape, cartridge, CD and
+diskette cost; and voice and data telecommunications expenses. To the extent
+reasonably possible, Phoenix will obtain the approval of Customer prior to
+incurring substantial Related Expenses, and Customer will not unreasonably
+withhold such approval. Phoenix travel expenses shall be in conformance with
+the Phoenix Travel and Entertainment Policy as in effect from time to time, a
+copy of which shall be provided to Customer upon request.
+
+1.13 "Remote Branches" shall mean the street addresses listed in Exhibit D
+where Client Devices reside.
+
+1.14 "Server" shall mean the network file server on which the relational
+database for the Software resides.
+
+1.15 "Software" shall mean the object code version of the Phoenix software
+listed in Exhibit A, along with all Changes provided to Customer or authorized
+by Phoenix hereunder.
+
+1.16 "Term" shall have the meaning set forth in Section 4 below.
+
+1.17 "Third Party Software" shall mean any third party software to be used in
+conjunction with the Phoenix Software.
+
+1.18 "Use" (used as a noun or verb) shall mean the reading into computer memory
+of the Software for the purpose of access and/or execution, in whole or in
+part.
+
+2    LICENSE GRANT
+
+2.1 License. Subject to the restrictions and limitations of this Agreement and
+to payment of the fees set forth herein, Phoenix hereby grants to Customer a
+non-exclusive, non-transferable license during the term of this Agreement
+within the United States to:
+
+(1)Use the Software on the Customer Network;
+
+(2)transfer the Software to a backup machine when the primary Server or any
+associated machine elements required for Use of the Software are temporarily
+inoperable or unusable, or to another machine for disaster recovery testing
+(which may occur concurrent with normal Use of the Software to process
+Customer's data on Customer Network), or for actual disaster recovery and
+processing in the event the Customer Network is non-functional due to the
+occurrence of disaster;
+
+(3)make a reasonable number of additional copies of the Software for testing,
+backup, and archival purposes in support of its ordinary Use of the Software;
+
+(4)use the Documentation in support of Customer's Use of the Software;
+
+(5)make a reasonable number of additional copies of the Documentation or
+portions thereof as required to support the Use of the Software.
+
+2.2 Restrictions. The Software may only be used for Customer's and its
+Affiliates' own internal data processing needs. Customer may not, without the
+prior written consent of Phoenix:
+
+(1)translate, reverse engineer, de-compile, interpret or disassemble the
+Software;
+
+(2)transfer, distribute, sell, lease, or assign the Licensed Products;
+
+(3)use the Licensed Products to process accounts or records, or to generate
+output data, for the direct benefit of, or for purposes of rendering services
+to, any business entity or organization other than Customer and its
+Affiliates, provided Customer shall not be prevented from processing its
+customer's accounts; or
+
+(4)make any Changes to the Software.
+
+2.3 Delivery. Phoenix will deliver to Customer one copy of the current
+unmodified version of the Software (as listed in Exhibit A) in object code
+form, and one copy of the current version of the Documentation. The licenses
+granted to Customer under Section 2.1 shall become immediately effective, and
+shall not be delayed or contingent based on installation, operation, or the
+delivery or completion of any services.
+
+2.4 Records. Customer agrees to maintain a record of the number and location of
+all copies of the Licensed Products in its possession. Customer shall provide
+Phoenix with a copy of such record upon Phoenix's written request. Following
+prior written notice, Phoenix or its designee shall have the right to enter
+Customer's premises during regular business hours in a non-disruptive manner
+for the purpose of inspecting the location and use of the Software and
+Documentation, the compliance of Customer with the provisions of this
+Agreement, and the standard procedures of Customer regarding retention,
+safekeeping, and disposal of all media and materials pertaining thereto
+
+
+2
+<PAGE>   3
+
+CONFIDENTIAL
+
+
+3     PAYMENTS AND TERMS.
+
+3.1 Fees. The fees and charges for products and services to be provided under
+this Agreement are set forth in Exhibit B. All amounts shall be paid in U.S.
+dollars by wire transfer to the bank account designated by Phoenix in
+accordance with the payment terms set forth in Exhibit B, or as otherwise
+agreed between Phoenix and Customer. Additionally, Customer shall pay all
+Related Expenses incurred by Phoenix.
+
+3.2 Payment Terms. All invoices shall be due and payable on the date specified
+in Exhibit B, or, if a date is not specified, not later than 30 days following
+the date of invoice. Overdue amounts shall incur interest at the lesser of 1
+1/2% per month or the highest rate allowed under applicable law. Time is of the
+essence with respect to all payments due from Customer hereunder.
+
+3.3 Taxes. Customer shall pay on a timely basis all sales, use and other taxes
+arising out the transactions contemplated herein, however designated, based or
+levied by any federal, state, municipal or local taxing authority (but shall
+not include United States Federal, state or local taxes based upon the net
+income of Phoenix) ("Taxes"). Customer shall promptly reimburse and shall
+indemnify Phoenix for all Taxes which Phoenix is required by any taxing
+authority to pay. Customer shall, as soon as practicable, forward to Phoenix
+documentation evidencing payment of all such taxes. Customer may challenge the
+applicability of any Tax only after paying the Tax or giving Phoenix
+satisfactory assurance of compliance.
+
+3.4 Fee Adjustments. Phoenix reserves the right to adjust its prices once per
+year subject to 30 days advanced written notice. The Customer and Software
+Support Fee shall not be increased by more than the greater of 6% or the
+increase in the U.S. Consumer Price Index for the previous 12 month period.
+
+4    TERM AND TERMINATION
+
+4.1 Term. This Agreement and the license granted herein shall have an initial
+term commencing on the Effective Date and continuing for a period of 5 years
+from the Implementation Date (the "Initial Term"). Thereafter, this Agreement
+shall automatically renew for additional 1 year periods unless and until either
+party notifies the other in writing of its desire not to renew this Agreement
+at least 90 days prior to the last day of the Initial Term or any subsequent
+renewal period.
+
+4.2 Termination by Phoenix. Phoenix shall have the right to terminate this
+Agreement upon the occurrence of any of the following events:
+
+(1)Customer's material breach of any provision of this Agreement if Customer
+has not initiated adequate steps to cure such breach within 20 days following
+written notice of such breach to Customer; or
+
+(2)Customer's failure to obtain and pay for Customer and Software Support; or
+
+(3)Customer ceases to do business, makes a composition or assignment for the
+benefit of its creditors, makes a general arrangement with its creditors
+concerning any extension or forgiveness of any of its secured debt, becomes
+bankrupt or insolvent, suffers or seeks the appointment of a receiver to the
+whole or any material part of its business, takes any action to liquidate or
+wind up the whole or any material part of its business, is found subject to
+any provisions of any bankruptcy code concerning involuntary bankruptcy or
+similar proceeding, or suffers a material adverse change in its financial
+position, and any such event affects or delays payments to Phoenix hereunder;
+or
+
+4.3 Result of Termination by Phoenix. In the event that this Agreement is
+terminated under Section 4.2(1) above, Customer's license to Use the Software
+shall immediately cease. In all other cases, Customer may continue to Use the
+Software in accordance with this Agreement for up to 180 days following
+termination, provided that Customer has paid and continues to pay all amounts
+due as if this Agreement were still in effect. Upon expiration of such period
+(and immediately, in the event of termination under Section 4.2(1)), Customer
+shall either return to Phoenix or destroy all copies of the Licensed Products.
+Upon Phoenix's request, Customer shall certify that it has completed such
+action.
+
+4.4 Termination by Customer. Customer may terminate this Agreement upon the
+occurrence of any of the following:
+
+(1) Phoenix's material breach of any provision of this Agreement if Phoenix
+has not initiated adequate steps to cure such breach within 20 days following
+written notice of such breach to Phoenix; or
+
+(2)Phoenix ceases to do business, makes a composition or assignment for the
+benefit of its creditors, makes a general arrangement with its creditors
+concerning any extension or forgiveness of any of its secured debt, becomes
+bankrupt or insolvent, suffers or seeks the appointment of a receiver to the
+whole or any material part of its business, takes any action to liquidate or
+wind up the whole or any material part of its business, is found subject to
+any provisions of any bankruptcy code concerning involuntary bankruptcy or
+similar proceeding, or suffers a material adverse change in its financial
+position, and any such event materially affects Phoenix's ability to meet its
+obligations hereunder.
+
+4.5 Result of Termination by Customer. In the event that this Agreement is
+terminated by Customer under Section 4.4, or by Phoenix after the Initial Term,
+Customer may continue to Use the Software in accordance with this Agreement
+until the later of nine months following such termination or the end of the
+Initial Term. Upon expiration of such period, Customer shall either return to
+Phoenix or
+
+
+3
+<PAGE>   4
+
+CONFIDENTIAL
+
+
+destroy all copies of the Licensed Products. Upon Phoenix's request, Customer
+shall certify that it has completed such action.
+
+4.6 Survival. All obligations with respect to restrictions on use of the
+Licensed Products, confidentiality, payment of fees, ownership, and protection
+of intellectual property rights shall survive any termination of this
+Agreement.
+
+4.7 Non-exclusive Remedy. The rights and remedies of the parties are not
+exclusive and are in addition to any other rights and remedies provided by law
+or equity.
+
+4.8 De-Conversion. Upon Customer's request, following the termination or
+expiration of Customer's right to Use the Software, Phoenix shall assist
+Customer with the conversion of its data from its then current format into a
+generic format. Customer shall pay Phoenix on a time and materials basis for
+such assistance at its then current published rates for the Territory, plus
+Related Expenses.
+
+4.9 Source Code. Phoenix will deposit the most current version of the source
+code for the Software with an independent escrow agent. In the event that
+Phoenix, or any successor, shall cease to provide Customer and Software
+Support, Customer's license for the use of the Software hereunder is still in
+effect, and Customer has paid its Customer and Software Support Fee and all
+other fees due hereunder, Customer shall have the right to obtain, for its own
+sole and exclusive use for the sole purpose of maintaining and supporting the
+Software, with no right of transfer, a single copy of such source code from the
+escrow agent, subject to the terms of this Agreement.
+
+5    TITLE
+
+5.1 Ownership. The Software and Documentation are (i) copyrighted works
+protected by copyright laws, treaties and conventions of the United States and
+the Territory and (ii) contain trade secrets and Confidential Information of
+Phoenix protected under applicable law of the United States and the Territory.
+Phoenix retains all right, title, and interest in and to the Software,
+Documentation, and all copyright, trade secret, patent and other intellectual
+property rights contained therein, subject only to the limited license granted
+to Customer in Section 2 hereof. Phoenix shall also exclusively own all Changes
+to the Licensed Products, whether made by or on behalf of Phoenix, Customer, or
+their employees, agents or otherwise, provided, however, that Customer shall
+own any additions to the Software which are not based on the Software or other
+Phoenix code and which are produced by Customer without significant assistance
+from Phoenix. To the extent that Changes, including all associated intellectual
+property rights, are not owned in their entirety by Phoenix immediately upon
+their creation, Customer agrees to assign (and hereby automatically assigns)
+all right, title and interest therein to Phoenix, without any requirement of
+consideration or further documentation. Customer agrees to take such further
+action and execute such further documentation as Phoenix may reasonably request
+to give effect to this Section 5.1.
+
+5.2 Infringement. Customer shall immediately notify Phoenix in the event that
+it discovers any infringement of Phoenix's rights in the Licensed Products or
+any violation of the terms of a License Agreement, and shall, at Phoenix's
+expense, cooperate with Phoenix and assist in the prosecution of Phoenix's
+claim.
+
+6    INSTALLATION
+
+Phoenix shall provide the implementation services set forth in Exhibit C for
+the fees set forth in Exhibit B.
+
+7    CUSTOMER OBLIGATIONS
+
+7.1 Customer Contact. Each of Phoenix and Customer shall appoint a Contact
+Person, listed on Exhibit D, to serve as the focal point of communication
+between Phoenix and Customer. Each party shall direct all communications
+concerning this Agreement and their obligations hereunder (other than routine
+support related communications) to the Customer Contact. Each party may change
+the Contact Person at any time upon written notice to the other party.
+
+7.2 Hardware and Software Requirements. Prior to Installation of the Software,
+Customer shall license and obtain (i) the Third Party Software and (ii) the
+Customer Network. The Customer Network must be in compliance with the Phoenix
+Network and Configuration Standards Guide as provided by Phoenix to Customer,
+and the other requirements set forth in Exhibit C. The Software will not work
+properly if the Customer Network is not in compliance with such standards.
+Alternative hardware and software configurations will be evaluated for use with
+the Software by Phoenix upon Customer's reasonable request, provided that
+Customer pays all of Phoenix's costs in connection with such evaluation.
+Customer shall provide at its cost an on-line telecommunications link with a
+telephone modem in accordance with the Phoenix Network and Configuration
+Standards Guide in order to provide Phoenix access to the Customer Network.
+Phoenix shall not use such access for any reason other than to provide Customer
+and Software Support hereunder and to monitor the size, configuration, and
+performance of the Customer Network.
+
+7.3 Personnel. Customer shall keep its personnel trained in the operation of
+the Licensed Products and the Customer Network.
+
+8    CUSTOMER AND SOFTWARE SUPPORT
+
+8.1 Customer and Software Support. Following delivery of the Software to
+Customer, and subject to payment by Customer of the Customer and Software
+Support Fees set forth in Exhibit B, Phoenix shall provide Customer with
+Customer and Software Support, which shall consist of the following:
+
+(1)Phoenix shall provide Customer with updates, patches, bug fixes and new
+releases of the Software and
+
+
+4
+<PAGE>   5
+
+CONFIDENTIAL
+
+
+Documentation which Phoenix provides to its customers generally;
+
+(2)Phoenix will provide remote telephonic support for the Licensed Products
+Monday through Friday, 8:00 AM to 5:00 PM eastern standard time and emergency
+telephonic support via pager access 24 hours a day, 365 days per year.
+Telephone support shall include (i) diagnosing errors or malfunctions in the
+Software and malfunctions caused by operator error, (ii) advising Customer of
+corrective measures, and (iii) clarifying operating instructions contained in
+the Documentation; and
+
+(3)Phoenix shall insure that the Software operates in conformance with the
+Documentation. If the Software fails to operate in conformance with the
+Documentation, and the problem cannot be remedied thorough telephonic
+support, Phoenix shall use all reasonable efforts to correct or replace the
+Software or portions thereof or provide a temporary work-around for such
+problem within a reasonable period of time based upon the impact of the
+problem on Customer's ability to operate.
+
+8.2 Customer Obligations. Customer shall promptly notify Phoenix of all
+problems with the Software, and shall, if applicable, provide assistance in
+identifying and detecting problems, errors, and malfunctions. As requested by
+Phoenix, Customer shall provide data and information regarding all errors in
+sufficient detail and with sufficient supporting documentation to enable
+Phoenix to diagnose, and if necessary, recreate the problem, error, or
+malfunction.
+
+8.3 Limitation. Customer and Software Support shall not cover malfunctions and
+errors caused by (i) misuse or abuse of the Software, (ii) by use of the
+Software with hardware or software other than that approved by Phoenix for use
+with the Software, or (iii) Changes made other than by or with the express
+written consent of Phoenix. Customer and Software Support shall only be
+provided for the most current release of the Software provided to Customer,
+and, for a period of 90 days after delivery of the most current release, of the
+previous release of the Software. Support may be provided for previous releases
+after such 90 day period at Phoenix's option at Phoenix's then current time and
+materials rates for such services for the Territory, plus Related Expenses.
+
+8.4 Subsequent Releases. Customer shall install all corrections, enhancements,
+and subsequent releases of the Software within 90 days after receipt from
+Phoenix. Customer shall not be required to implement any release which is found
+to contain significant errors or which, if implemented, would materially impair
+Customer's ability to use the Software as used by Customer prior to such
+release.
+
+8.5 Support Guidelines. Phoenix shall use best efforts to respond to and
+resolve Customer's requests for support hereunder within the time periods set
+forth in the Phoenix Response and Resolution Guidelines, the current version of
+which are attached hereto as Exhibit E.
+
+9    WARRANTIES
+
+9.1 Warranty. Phoenix warrants that, for a period of 90 days after delivery,
+the original unmodified version of the Software shall conform in all material
+respects with any program descriptions included in the Documentation. Phoenix
+does not warrant that the Licensed Products will operate without interruption
+or be error-free. Phoenix warrants that the Software will operate in accordance
+with this Agreement on dates occurring on and after January 1, 2000, to the
+same extent that it operates prior to such date and that the Software will be
+capable of properly processing data having dates falling on and after January
+1, 2000. In the event Customer discovers any non-conformance by the Software
+with the above warranty (a "defect"), Customer agrees to provide Phoenix notice
+of such defect, and shall, upon Phoenix's request, provide such data and
+information regarding the defect as Phoenix may require to recreate the defect.
+Phoenix agrees, as its exclusive obligation for any breach of such warranty, to
+use its best reasonable efforts to correct reported defects. Phoenix shall not
+be responsible for (i) unreported defects, (ii) defects caused by misuse or
+abuse of the Software, (iii) defects caused by use of the Software with
+hardware or software other than that approved by Phoenix for use with the
+Software, or for (iv) Changes made other than by or with the express written
+authority of Phoenix. Customer shall be limited to the warranties provided by
+third-party licensors or manufacturers with respect to third-party software or
+equipment that may be provided by Phoenix.
+
+9.2 DISCLAIMER. EXCEPT AS PROVIDED IN SECTION 6.1 ABOVE, PHOENIX SPECIFICALLY
+DISCLAIMS ANY OTHER WARRANTIES OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY,
+INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR
+A PARTICULAR PURPOSE.
+
+9.3 LIMITATION OF LIABILITY. IN NO EVENT SHALL PHOENIX BE LIABLE FOR ANY
+SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE,
+OR INABILITY TO USE, THE LICENSED PRODUCTS OR ARISING OUT OF ANY OTHER
+CIRCUMSTANCES ASSOCIATED WITH THE SUBJECT MATTER OF THIS AGREEMENT, INCLUDING
+WITHOUT LIMITATION DAMAGES BASED ON LOSS OF PROFIT, LOSS OR INTERRUPTION OF
+DATA OR COMPUTER TIME, ALTERATION OR ERRONEOUS TRANSMISSION OF DATA, EVEN IF
+PHOENIX IS ADVISED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES. Phoenix's
+total liability to Customer under any provision of this Agreement (other than
+indemnification under Section 10) or for any and all claims, losses or damages
+relating to the Licensed Products (whether based on tort, contract, or any
+other theory), other
+
+
+5
+<PAGE>   6
+CONFIDENTIAL
+
+than claims based upon the gross negligence or willful misconduct of Phoenix,
+shall be limited to the amount actually paid by Customer to Phoenix for the
+Licensed Products giving rise to the liability. The parties acknowledge that
+each of them relied upon the inclusion of this limitation in consideration of
+entering into this Agreement.
+
+10   PATENT AND COPYRIGHT INDEMNITY
+
+10.1 Infringement Claims. If a third party claims that the Software infringes
+any patent, copyright, trade secret, or similar intellectual property right of
+any third party, and such claim would impair Customer's right to use the
+Software hereunder, Phoenix shall (as long as Customer is not in default under
+this Agreement or any other agreement with Phoenix) defend Customer against
+that claim at Phoenix's expense and pay all damages awarded by a court in a
+final judgment, provided that Customer (i) promptly notifies Phoenix in writing
+of any such claim, (ii) allows Phoenix to control the defense and disposition
+of such claim, including any related settlement negotiations, and (iii)
+cooperates with Phoenix, at Phoenix's expense, in the defense of such claim.
+
+10.2 Remedies. If such a claim is made or appears possible, Phoenix may, at its
+option, either (i) secure for Customer the right to continue to use the
+Software, (ii) modify or replace the Software so it is non-infringing, or (iii)
+refund a pro-rata portion of the license fees paid for the infringing material
+based on a five year straight line useful period. Phoenix has no obligation
+hereunder for any claim based on a modified version of the Software which has
+not been prepared solely by Phoenix, or for any combination, operation or use
+of the Software with any hardware or software not approved in writing by
+Phoenix. Phoenix also shall have no obligation hereunder for any claim based on
+theories of law that are not substantially equivalent to laws, treaties and
+conventions applicable to U.S. patents, copyrights, trade secrets, and similar
+intellectual property rights. THIS SECTION 10 STATES PHOENIX'S ENTIRE
+OBLIGATION TO CUSTOMER WITH RESPECT TO MATTERS OF TITLE OR ANY CLAIM OF
+INFRINGEMENT THEREOF.
+
+11   CONFIDENTIALITY
+
+11.1 Confidentiality. Each Party agrees at all times to maintain the complete
+confidentiality of the Confidential Information of the other. Each Party shall
+not permit or authorize access to, or disclosure of, the Confidential
+Information of the other to any person or entity other than employees or
+advisors who have a "need to know" such information in order to enable the
+receiving party to exercise its rights or perform its obligations under this
+Agreement. Neither party shall disclose or supply the Confidential Information
+of the other to any non-employee third party without the prior written approval
+of the other party, which approval shall not be unreasonably withheld, provided
+the requesting party can demonstrate a need for such disclosure in order to
+comply with its obligations hereunder. Either party may disclose portions of
+the Confidential Information of the other to governmental regulatory
+authorities if such disclosure is required by applicable laws, provided the
+party required to make such disclosure notifies the other party of the
+applicable legal requirements before such disclosure occurs and assists the
+other party to obtain such protection as may be available to preserve the
+confidentiality of such information.
+
+11.2 Disposal. Prior to disposal of any media or materials that contain any
+part of the Software, Documentation or other Confidential Information of
+Phoenix, Customer shall obliterate or otherwise destroy all code, instructions,
+commentary, or further evidence of Confidential Information, for example, by
+erasing, incinerating, or shredding such materials.
+
+12   ARBITRATION
+
+In the event a claim, controversy or dispute between Phoenix and Customer
+arises out of or in connection with this Agreement or the transactions and
+business contemplated hereby, including the validity, construction or
+enforcement thereof, either party may demand that such matter be submitted to
+final and binding arbitration. All arbitration proceedings shall be held in
+Atlanta, Georgia, unless Phoenix and Customer agree in writing to another
+location. All arbitration proceedings and records shall be in English. Issuance
+of an arbitration demand shall suspend the effect of any default entailed by
+such claim, controversy or dispute and any judicial or administrative
+proceedings instituted in connection therewith, for the duration of the
+arbitration proceedings. Arbitration shall be governed by the commercial rules
+of the American Arbitration Association (the "AAA"). Arbitration shall be
+conducted by one arbitrator who shall be chosen by the AAA within 5 days of
+receipt of the arbitration demand. The arbitrator or arbitrators shall
+determine whether a default has occurred, and shall deliver its or their
+decision within 45 days of the date of receipt of the arbitration demand,
+specifying such remedy (including money damages) as shall (a) fully implement
+the intent and purposes of this Agreement and (b) indemnify and hold harmless
+the non-breaching party from all losses, costs and expenses (including costs of
+arbitration and reasonable attorneys' fees) resulting from the default.
+Termination or limitation of Phoenix's rights in the Software, the
+Documentation, or any associated intellectual property rights may not be
+awarded under any circumstances. The right to demand arbitration and to receive
+damages and obtain other available remedies as provided hereunder shall be the
+exclusive remedy in the event an arbitration demand is made, except that
+Phoenix shall be entitled to obtain equitable relief, such as injunctive
+relief, from any court of competent jurisdiction in order to protect its rights
+in the Software, the Documentation, or any associated intellectual property
+rights while such proceeding is pending or in support of any award made
+pursuant to such arbitration. Phoenix and
+
+
+6
+<PAGE>   7
+
+CONFIDENTIAL
+
+
+Customer hereby consent to the enforcement of any arbitral judgment or award
+rendered pursuant to this Section in the courts of each state where Customer or
+Phoenix have offices or significant assets.
+
+13   EXPORT
+
+13.1 Export Restrictions. Customer shall not ship or export the Licensed
+Products outside of the United States without the express written consent of
+Phoenix.
+
+14   GENERAL
+
+14.1 Notice. Notices shall be deemed given upon receipt if transmitted by fax,
+registered mail, or overnight courier service if properly addressed as first
+set forth above, or to such other address as may be requested by written notice
+in compliance with this Section.
+
+14.2 Assignment. Customer may not assign, transfer, or delegate its rights or
+obligations hereunder without Phoenix's prior written consent. Subject to the
+foregoing, this Agreement shall inure to the benefit of and be binding upon the
+parties hereto and their permitted successors and assigns. For purposes of this
+Section, the acquisition of more than 50% of the voting stock of Customer, the
+acquisition of all or substantially all the business and assets of Customer, or
+the merger of Customer with or into another entity shall constitute an
+unauthorized assignment, unless all other provisions of this Agreement are duly
+honored, the surviving entity signs a new license agreement with Phoenix
+containing terms and conditions reasonably acceptable to Phoenix, and the
+surviving entity pays additional license fees for use of the Licensed Products
+as necessary for the asset size of the entity resulting out of the transaction
+which will use the Software.
+
+14.3 Waiver. The failure of either party to enforce any term of this Agreement
+shall not constitute a waiver of either party's right to enforce every term of
+this Agreement.
+
+14.4 Enforcement. If either party brings an action under this Agreement
+(including appeal), the prevailing party shall be entitled to recover
+reasonable attorneys' fees and costs.
+
+14.5 Should any provision of this Agreement be held by a court of competent
+jurisdiction or arbitration authority to be unenforceable, the remaining
+provisions of this Agreement shall not be affected or impaired thereby.
+
+14.6 CHOICE OF LAW. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED UNDER THE
+LAWS OF THE UNITED STATES OF AMERICA AND THE STATE OF FLORIDA, EXCLUDING ITS
+CONFLICT OF LAWS RULES. WITH RESPECT TO ANY CLAIM OF EITHER PARTY WITH RESPECT
+TO OWNERSHIP OF THE LICENSED PRODUCTS, THE PROTECTION OF INTELLECTUAL PROPERTY
+OR CONFIDENTIAL INFORMATION OF PHOENIX, OR THE PAYMENT OF AMOUNTS DUE PHOENIX
+HEREUNDER, CUSTOMER HEREBY CONSENTS TO BE SUBJECT TO THE JURISDICTION OF THE
+FEDERAL AND STATE COURTS OF THE STATE OF FLORIDA.
+
+14.7 Force Majeure. Neither party shall be in default by reason of any failure
+in the performance of this Agreement other than a failure to make payment when
+due or to comply with restrictions upon the Use of the Licensed Products) if
+such failure arises out of any act, event or circumstance beyond the reasonable
+control of such party, whether or not otherwise foreseeable. The party so
+affected will resume performance as soon as reasonably possible.
+
+14.8 Headings and Captions. The headings and captions appearing in this
+Agreement are inserted only as a matter of convenience and in no way limit the
+scope or affect the meaning of any section.
+
+14.9 Employees. Neither party shall hire or solicit for hire any employee of
+the other without the express written consent of the other party.
+
+14.10 Prior Agreements, Amendment. This Agreement constitutes the entire
+agreement between the parties and supersedes all prior understandings and
+agreements between them regarding the Licensed Products, and may not be
+modified or amended except in writing signed by authorized representatives of
+both parties.
+
+
+IN WITNESS WHEREOF the parties hereto have caused this Agreement to be executed
+as of the Effective Date.
+
+PHOENIX INTERNATIONAL LTD., INC.               CUSTOMER:
+
+
+Signature                                      Signature
+
+
+Print Name                                     Print Name
+
+
+Print Title                                    Print Title
+
+
+
+7
+<PAGE>   8
+CONFIDENTIAL
+
+
+EXHIBIT A
+SOFTWARE
+
+PHOENIX SOFTWARE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+<PAGE>   9
+CONFIDENTIAL
+
+
+EXHIBIT B
+FEES
+
+1.  INITIAL LICENSE FEES
+BASED ON ASSET SIZE OF CUSTOMER
+CURRENT LICENSE FEE FOR UP TO $ _____ MILLION IN ASSETS
+
+Phoenix Retail Banking System (________ Version)      $
+Internet Module                                       $
+Etc.                                                  $
+
+TOTAL LICENSE FEES                                    $
+====================
+
+2.  ADDITIONAL LICENSE FEES:
+
+Asset Size Upgrade Fee                                $
+
+3.  IMPLEMENTATION FEES                                   $
+
+4.  ANNUAL CUSTOMER AND SOFTWARE SUPPORT FEES:
+
+$
+====================
+5.  PAYMENT TERMS
+
+5.1 All License Fees shall be billable upon execution of this Agreement.
+The License Fees are one-time initial license fees for the delivery of the
+current version of the Software, and are fully earned and non-refundable
+upon shipment of the Software to Customer. All modifications and
+enhancements for the Software requested by Customer shall be the subject of
+a separate agreement with separate consideration and license fees to be
+paid therefore.
+
+5.2 Customer shall pay to Phoenix Additional License Fees as set forth
+above each time that its total assets exceed the pricing tier for which
+license fees have already been paid, whether such growth is internal, or
+through merger or acquisition. Phoenix upgrade tiers and Additional License
+Fees are set forth above.
+
+5.3 Customer shall pay Phoenix an Implementation Fee as set forth above for
+implementation services. Such fee is due 50% upon execution of this
+Agreement, 25% upon mock conversion, and 25% upon live conversion for the
+first location of the Customer.
+
+5.4 Each year during the term of this Agreement, for a minimum of five
+years, Customer shall pay Phoenix a Customer and Software Support Fee as
+set forth above. The Customer and Software Support Fee shall increase by
+20% of any license upgrade fees which Customer is obligated to pay. If
+upgrade license fees are due prior to the next due date of the Customer and
+Software Support Fee, Customer shall pay Phoenix a prorated portion of the
+increase in the Customer and Software Support Fee for the remaining part of
+the year at the time that the license upgrade fee is paid. The Customer and
+Software Support Fee is billable on the date the Software is installed at
+Customer's first location and each on each anniversary thereof during the
+term of this Agreement, and for so long as Customer continues to use the
+Software.
+
+5.5 No fees due hereunder shall be reduced or delayed due to any delay of
+implementation at the request of the Customer.
+
+
+
+9
+<PAGE>   10
+CONFIDENTIAL
+
+
+EXHIBIT C
+IMPLEMENTATION, CONFIGURATIONS AND THIRD PARTY SOFTWARE
+
+IMPLEMENTATION
+
+
+
+
+
+
+
+
+
+
+
+NETWORK REQUIREMENTS
+
+1.  Network Requirements
+
+Customer agrees to provide and maintain a network in accordance with the
+standards set forth in the Phoenix Hardware and Network Services Guide, as
+provided by Phoenix and amended from time to time.
+
+2.  UNIX on NT Server Requirements
+
+Customer agrees to provide and maintain a _______________________ server at
+a size recommended by Phoenix, or greater.
+
+3.  Sybase or MicroSoft Sequel Server Software Requirements
+
+
+
+
+THIRD PARTY SOFTWARE
+
+
+
+10
+<PAGE>   11
+CONFIDENTIAL
+
+
+EXHIBIT D
+
+CUSTOMER CONTACT, DESIGNATED LOCATION AND REMOTE BRANCHES
+
+
+CUSTOMER CONTACT:
+
+
+DESIGNATED LOCATION:
+
+
+
+
+REMOTE LOCATIONS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+<PAGE>   12
+CONFIDENTIAL
+
+
+EXHIBIT E
+
+RESPONSE AND RESOLUTION GUIDELINES
+
+PROBLEM SEVERITY LEVELS
+
+Every call is assigned a severity level during its setup within the call log.
+This severity level controls both the manner and speed with which the Customer
+Support specialist responds back to the caller, as well as the timetable within
+which the support group works to resolve the problem. All references to time
+and business days refer to time and business days Eastern Standard Time.
+Standard severity levels are as follows:
+
+Critical   Highest priority classification. Assigned to problems that
+prevent the bank from conducting normal business, typically
+problems involving core processing failures, recurring
+application crashes, and serious calculative errors.
+
+High       Second highest priority classification. Assigned to problems
+that have a serious impact on the bank's operations, but do not
+prevent the bank from conducting business. Examples of
+high-priority problems include nightly processing errors that
+cause the bank to go out of balance, reports with incorrect
+information, and inaccurate display screen calculations.
+
+Medium     Third highest priority classification. Assigned to problems that
+inconvenience the bank but do necessarily represent calculative
+errors or other software failures. Typical medium-priority
+problems include print routines that take longer than desired,
+account setup routines that require redundant data entry, and
+window options that do not properly reflect bank-defined default
+values.
+
+Low        Lowest priority classification. Assigned to problems that are
+primarily cosmetic in nature (typographical errors, alignment
+problems, etc.). Low-priority problems detract from the system's
+elegance and polish, but not from its core functionality.
+
+RESPONSE GUIDELINES
+
+Following are the target response times for each level of problem severity:
+
+Critical   A return call will be made within 45 minutes.
+
+High       A return call will be made to the bank within 3 hours, but never
+later than the end of that business day, unless calls come in
+within 1 hour of the end of the business day, in which case a
+return call must be made within the first 2 hours of the next
+business day.
+
+Medium     A return call will be made to the bank during the same business
+day, or if the call comes within 3 hours of the end of the
+business day, a return call must be made by the end of the next
+business day.
+
+Low        A return call will be made by the end of the next business day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+<PAGE>   13
+CONFIDENTIAL
+
+
+RESOLUTION GUIDELINES
+
+Following are the target resolution timeframes for each classification. Phoenix
+will use its reasonable commercial efforts to provide a code fix or a work
+around for all reported problems within the following time frames. If a work
+around is provided, Phoenix will provide a code fix at a later time or with the
+next release of the software, if necessary. Given the uncertain nature of
+troubleshooting technical software problems, however, Phoenix cannot guarantee
+such time frames.
+
+Critical   For calls logged either during or after normal support hours,
+the problem should be resolved within 5 hours. Phoenix shall
+involve such resources as necessary to remedy critical errors as
+soon as possible, including escalating the problem to the Senior
+Vice President in charge of Client Services within 1 hour.
+
+High       For calls logged either during or after normal support hours,
+the problem should be resolved within 24 hours.
+
+Medium     Based on consultation with the bank, the problem should be
+resolved either during the next scheduled software release
+(preferred) or, at the bank's explicit request, within 5
+business days.
+
+Low        The problem should be resolved according to a mutually agreed
+schedule.
+
+
+
+
+
+
+
+13
+
+

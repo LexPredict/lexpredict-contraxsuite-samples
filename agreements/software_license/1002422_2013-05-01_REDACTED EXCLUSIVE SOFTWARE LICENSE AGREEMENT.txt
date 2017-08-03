@@ -1,0 +1,1108 @@
+
+
+
+
+
+
+
+ceres_ex101.htm
+
+
+EXHIBIT 10.1
+
+
+
+
+
+
+
+EXCLUSIVE SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+THIS EXCLUSIVE SOFTWARE LICENSE AGREEMENT (this “Agreement”) is entered into as of April 26, 2013, by and between Akai Studio LLC, a limited liability corporation organized under the laws of the State of Virginia (“Licensor”), and Ceres Ventures, Inc., a corporation organized under the laws of the State of Nevada (“Licensee”). Licensor and Licensee may hereinafter be referred to individually as a “Party” and collectively as, the “Parties.”
+
+
+
+
+
+
+
+RECITALS
+
+
+
+
+
+
+
+WHEREAS, Licensor is the developer of, and has rights in and to, certain proprietary Software, Know-How, Copyrights and Trademarks created by Licensor as set forth on Schedule A hereto (collectively, the “Licensed Materials”) for which Licensee wishes to acquire an exclusive license; and
+
+
+
+
+
+
+
+WHEREAS, Licensor is willing to grant Licensee an exclusive, worldwide license, and Licensee desires to obtain an exclusive license, to the Licensed Materials on the terms and conditions set forth herein.
+
+
+
+
+
+
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+
+
+
+
+
+
+1. DEFINITIONS. In addition to the definitions set forth above, the capitalized terms set forth below shall be defined as follows:
+
+
+
+
+
+
+
+“Copyrights” means all registered and unregistered materials, works of authorship and similar materials relating to the Software belonging to Licensor.
+
+
+
+
+
+
+
+“Derivative Work” means any discrete modification to the Licensed Materials made by Licensee pursuant to this agreement and any modified, altered, enhanced or adapted version of the Licensed Materials, or derivative work thereof (as that term is defined under US copyright law) based on the Licensed Materials.
+
+
+
+
+
+
+
+“Know-How” means all information and know-how, including, but not limited to, technical, and other information, practices, techniques, methods, processes, inventions, developments, specifications, coding, algorithms, trade secrets and similar information Licensor currently maintains.
+
+
+
+
+
+
+
+“Material Adverse Effect” means, with respect to any Party any event, circumstance, development, state of facts, occurrence, change or effect that is materially adverse to the business, assets, results of operations or condition (financial or otherwise) of such Party taken as a whole.
+
+
+
+
+
+
+
+“Software” means [****].
+
+
+
+
+
+
+
+“Trademarks” means all registered and unregistered names, trademarks, service marks, trade dress, logos, insignias, domain names, symbols, slogans, and combinations thereof relating to the Software belonging to Licensor.
+
+
+
+
+
+
+
+“Transaction Documents” means this Agreement and all other agreements, instruments and documents required to be delivered by the Parties to complete the transaction contemplated thereby.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. LICENSE GRANT; TERM; TERMINATION; OWNERSHIP.
+
+
+
+
+
+2.1 License Grants. Subject to the terms and conditions of this Agreement, at the Closing, as defined herein, Licensor shall grant to Licensee, under all of Licensor’s intellectual property rights in and to the Licensed Materials, an exclusive, worldwide, non-transferable, royalty-free license to use, modify and create Derivative Works using the Licensed Materials, without right to sublicense or assign except as provided herein (the “License Grant”).
+
+
+
+
+
+
+
+2.2 Term.
+
+
+
+
+
+(a) Subject to the terms and conditions of this Agreement, the License Grant shall have an initial Term of twelve (12) months from the date of this Agreement (the “Initial Term”) and, subject to Licensee’s rights to extend the Initial Tem or purchase the Licensed Materials, shall automatically terminate without further action by any Party at 11:59 pm ET on the twelve (12) month anniversary of the date of this Agreement.
+
+
+
+
+
+
+
+(b) Subject to the terms and conditions of this Agreement, Licensee shall have the right, but not the obligation, to extend the Initial Term an additional six (6) months (the “Extended Term”). Notwithstanding the date on which Licensee exercises the Extended Term pursuant to Section 3.3, the Extended Term shall extend for six (6) months from the termination of the Initial Term. Subject to Licensee’s rights to purchase the Licensed Materials, the License Grant shall automatically terminate without further action by any Party at 11:59 pm ET on the eighteen (18) month anniversary of the date of this Agreement.
+
+
+
+
+
+
+
+(c) Subject to the terms and conditions of this Agreement, at any time during either the Initial Term or the Extended Term, Licensee shall have the right, but not the obligation, to purchase the Licensed Materials (the “Purchase Option”).
+
+
+
+
+
+
+
+(d) Anything in this Agreement notwithstanding, Licensee may terminate the License Grant at any time by providing written notice of termination to Licensor. In the event Licensee terminates the License Grant pursuant to this Section 2.2(d), Licensor shall not be obligated to refund any portion of the Initial Payment or Extended Term Payment.
+
+
+
+
+
+
+
+2.3 Sublicense Rights.
+
+
+
+
+
+
+
+(a) Licensor hereby grants to Licensee the right to sublicense its License Grant only with the express written consent of Licensor (each, a “Sublicensee”); provided that Licensee ensures that each such Sublicensee executes an accession instrument in order to accede to this Agreement and establish contractual privity with Licensor. A form of such accession instrument is attached hereto as Exhibit A.
+
+
+
+
+
+
+
+(b) By execution of an accession instrument to this Agreement, such Sublicensee shall acknowledge that the Licensed Materials constitutes or comprises confidential information and shall agree that any use or disclosure by such Sublicensee of such confidential information beyond that expressly authorized in this Agreement is prohibited.
+
+
+
+
+
+
+
+(c) The Parties agree that each Sublicensee, if any, shall accede to Licensee’s obligations under this Agreement so that Licensor may take legal or other action for damages and all other appropriate relief and exercise any other rights or remedies that Licensor or Licensee may have at law or in equity against such Sublicensee relating to, or arising from, such Sublicensee’s breach of its agreement to sublicense hereunder. At Licensor’s expense, Licensee shall reasonably cooperate with Licensor in such taking of legal action or exercising of such rights or remedies. Further, Licensor may, to the extent not inconsistent with the provisions of hereof, take any action or pursue or exercise any right, remedy or action against Licensee to the extent caused by, arising out of, or in connection with or relating to, any of Licensee’s inaction or any breach of, or failure to perform, any obligation or covenant of Licensee under this Agreement in connection with any breach by Sublicensee of its agreement to sublicense hereunder.
+
+
+
+
+
+
+
+2.4 Ownership. During the Initial Term and Extended Term, Licensor shall retain all right, title and interest, including all intellectual property rights, in and to the Licensed Materials. Licensee shall own all right, title and interest in any Derivative Works to the Licensed Materials made by Licensee, subject to Licensor’s ownership of the underlying Licensed Materials and the restrictions on use of the Licensed Materials contained herein. Upon exercise of the Purchase Option as further set forth herein, Licensor shall assign to Licensee all of its interest in and to the Licensed Materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.5 Reservation of Rights. All rights not expressly granted by Licensor hereunder are reserved to Licensor. Without limiting the generality of the foregoing, Licensor and Licensee expressly acknowledge that nothing contained herein shall be construed or interpreted as a grant, by implication or otherwise, of any licenses other than the licenses specified in Section 2.1.
+
+
+
+
+
+
+
+3. CONSIDERATION FOR LICENSE GRANT; ADEQUACY OF CONSIDERATION.
+
+
+
+
+
+3.1 Initial Term Payment. Subject to the terms and conditions of this Agreement, as consideration for Licensor providing Licensee with the License Grant for the Initial Term, Licensee shall pay Licensor a fee consisting of:
+
+
+
+
+
+
+
+(a) [****] shares of Licensee’s common stock, par value $0.00001 (“Licensee Common Stock”) (the “Initial Stock Payment”); and
+
+
+
+
+
+
+
+(b) subject to Licensor entering into a stock option agreement with Licensee substantially in the form of Exhibit B hereto (the “Option Agreement”), options to purchase up to [****] shares (the “Initial Options”) of Licensee Common stock (together with the Initial Stock Payment, the “Initial Payment”).
+
+
+
+
+
+
+
+The Option Agreement shall, among other things, provide for the Initial Options to vest immediately and shall be exercisable at a price of $0.10 per share for a period of five (5) years from the date of grant. Additionally, the Option Agreement shall provide that the Initial Options may be exercised on a “cashless basis.”
+
+
+
+
+
+
+
+3.2 Extended Term Payment. Subject to the terms and conditions of this Agreement, at any time during the Initial Term, Licensee shall have the right, but not the obligation, to exercise its right to the Extended Term by forwarding Licensor an executed copy of the Extended Term Notice (the “Extended Term Notice”) attached hereto as Exhibit C and by paying Licensor a fee consisting of options to purchase up to [****] shares (the “Extended Term Options”) of Licensee Common stock (the “Extended Term Payment”). The Extended Term Options shall be subject to Licensor entering into an Option Agreement. The Option Agreement shall, among other things, provide for the Extended Term Options to vest immediately and shall be exercisable at a price of $0.10 per share for a period of five (5) years from the date of grant. Additionally, the Option Agreement shall provide that the Extended Term Options may be exercised on a “cashless basis.”
+
+
+
+
+
+
+
+3.3 Purchase Option Payment. Subject to the terms and conditions of this Agreement, at any time during the Initial Term or Extended, Licensee shall have the right, but not the obligation, to exercise its right to purchase the Licensed Materials by forwarding Licensor an executed copy of the Purchase Option Notice (the “Purchase Option Notice”) attached hereto as Exhibit D and by paying Licensor a fee consisting of options to purchase up to [****] shares (the “Purchase Options”) of Licensee Common Stock (the “Purchase Payment”). If Licensee chooses to exercise the Purchase Option during the Initial Term, Licensee shall not be required to make the Extended Term Payment. The Purchase Options shall be subject to Licensor entering into an Option Agreement. The Option Agreement shall, among other things, provide for the Purchase Options to vest immediately and shall be exercisable at a price of $0.10 per share for a period of five (5) years from the date of grant. Additionally, the Option Agreement shall provide that the Purchase Options may be exercised on a “cashless basis.”
+
+
+
+
+
+
+
+3.4 Payment Upon Completion of Offering. If during the Initial Term or the Extended Term Licensee shall effect one or more financing transactions through the sale of Licensee’s equity securities (each a “Financing”) from which Licensee receives net proceeds of no less [****], then within ten (10) Business Days of completion of such Financing, Licensee shall pay Licensor a fee consisting of options to purchase up to [****] shares (the “Financing Options”) of Licensee Common stock (the “Financing Payment”). The Financing Options shall be subject to Licensor entering into an Option Agreement. If Licensee completes a Financing after exercise of the Purchase Option and payment of the Purchase Payment, Licensee shall be under no obligation to make the Financing Payment. Anything herein to the contrary notwithstanding, nothing in this Agreement shall be deemed as obligating Licensee to undertake a Financing. The Option Agreement shall, among other things, provide for the Financing Options to vest immediately and shall be exercisable at a price of $0.10 per share for a period of five (5) years from the date of grant. Additionally, the Option Agreement shall provide that the Financing Options may be exercised on a “cashless basis.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.5 Payment Upon Generating Revenues. If during the Initial Term or the Extended Term Licensee shall generate gross revenues through the use of the Licensed Materials of no less than [****], then within ten (10) Business Days of completion of such Revenue Generation, Licensee shall pay Licensor a consisting of options to purchase up to [****] shares (the “Revenue Options”) of Licensee Common stock (the “Revenue Payment”). The Revenue Options shall be subject to Licensor entering into an Option Agreement. If Licensee generates revenues in excess [****] after exercise of the Purchase Option and payment of the Purchase Payment, Licensee shall be under no obligation to make the Revenue Payment. The Option Agreement shall, among other things, provide for the Revenue Options to vest immediately and shall be exercisable at a price of $0.10 per share for a period of five (5) years from the date of grant. Additionally, the Option Agreement shall provide that the Revenue Options may be exercised on a “cashless basis.”
+
+
+
+
+
+3.6 Adequacy of Consideration. The Parties hereby agree that each of the Initial Payment, the Extended Term Payment, the Purchase Payment, the Financing Payment and the Revenue Payment represent adequate consideration and that no additional consideration shall be paid by Licensee to Licensor for the Licensed Materials.
+
+
+
+
+
+
+
+4. CLOSING.
+
+
+
+
+
+
+
+4.1 Initial Closing. Subject to satisfaction of the conditions in Section 5, the closing of the granting of the License Grant for the Initial Term under this Agreement (the “Initial Closing”) shall occur at a place mutually acceptable to Licensor and Licensee at 10:00 a.m. on April 30, 2013, or such other date that is mutually acceptable to Licensor and Licensee (the “Initial Closing Date”). All transactions which are to take place at the Closing shall be considered to have taken place simultaneously, and no delivery or payment shall be considered to have been made until all the transactions have been completed.
+
+
+
+
+
+
+
+4.2 Extended Term Closing. Subject to satisfaction of the conditions in Section 5, the closing of the License Grant for the Extended Term under this Agreement (the “Extended Term Closing”) shall occur at a place mutually acceptable to Licensor and Licensee at such time and date specified by Licensee pursuant to the Extended Term Notice, or such other date that is mutually acceptable to Licensor and Licensee (the “Extended Term Closing Date”). All transactions which are to take place at the Extended Term Closing shall be considered to have taken place simultaneously, and no delivery or payment shall be considered to have been made until all the transactions have been completed.
+
+
+
+
+
+
+
+4.3 Purchase Option Closing. Subject to satisfaction of the conditions in Section 5, the closing of the sale of the Licensed Materials by Licensor to Licensee (the “Purchase Option Closing”) shall occur at a place mutually acceptable to Licensor and Licensee at such time and date specified by Licensee pursuant to the Purchase Option Notice, or such other date that is mutually acceptable to Licensor and Licensee (the “Purchase Option Closing Date”). All transactions which are to take place at the Purchase Option Closing shall be considered to have taken place simultaneously, and no delivery or payment shall be considered to have been made until all the transactions have been completed.
+
+
+
+
+
+
+
+5. CONDITIONS TO CLOSING.
+
+
+
+
+
+
+
+5.1 Conditions to Each Party’s Obligation to Complete the Initial Closing. The respective obligations of the Parties to complete the Initial Closing are subject to the waiver by both Licensor and Licensee or the satisfaction, on or prior to the Initial Closing Date, of the following conditions:
+
+
+
+
+
+
+
+(a) Sale of BluFlow Technologies, Inc. Licensee shall undertake to sell all of the issued and outstanding shares of common stock of its wholly owned subsidiary, BluFlow Technologies, Inc., a corporation organized under the laws of the State of Delaware within five (5) Business Days of the Initial Closing Date.
+
+
+
+
+
+
+
+(b) Initial Payment. Licensee shall make the Initial Payment to the Licensor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) Representations and Warranties. The representations and warranties of each of Licensor and Licensee set forth below shall be true and correct in all respects as of the date of this Agreement and as of the Initial Closing Date as if made on and as of such dates (except to the extent any such representation or warranty is made as of a specified date, which such representation or warranty shall be true and correct in all respects as of such specified date).
+
+
+
+
+
+5.2 Conditions to Each Party’s Obligation to Complete the Extended Term Closing. Anything herein to the contrary notwithstanding, Licensee shall be under no obligation to exercise its right to the Extended Term. The respective obligations of the Parties to complete the Extended Term Closing are subject to the waiver by both Licensor and Licensee or the satisfaction, on or prior to the Extended Term Closing Date, of the following conditions:
+
+
+
+
+
+
+
+(a) Extended Term Notice. Licensee shall have forwarded to Licensor an executed copy of the Extended Term Notice setting forth the date on which Licensee desires to exercise the Extended Term.
+
+
+
+
+
+
+
+(b) Extended Term Payment. Licensee shall make the Extended Term Payment to the Licensor.
+
+
+
+
+
+
+
+(c) Representations and Warranties. The representations and warranties of each of Licensor and Licensee set forth below shall be true and correct in all respects as of the date of this Agreement and as of the Extended Term Closing Date as if made on and as of such dates (except to the extent any such representation or warranty is made as of a specified date, which such representation or warranty shall be true and correct in all respects as of such specified date).
+
+
+
+
+
+
+
+5.3 Conditions to Each Party’s Obligation to Complete the Purchase Option Closing. Anything herein to the contrary notwithstanding, Licensee shall be under no obligation to exercise its right to the Purchase Option. The respective obligations of the Parties to complete the Purchase Option Closing are subject to the waiver by both Licensor and Licensee or the satisfaction, on or prior to the Purchase Option Closing Date, of the following conditions:
+
+
+
+
+
+
+
+(a) Purchase Notice. Licensee shall have forwarded to Licensor an executed copy of the Purchase Option Notice setting forth the date on which Licensee desires to exercise the Purchase Option.
+
+
+
+
+
+
+
+(b) Purchase Option Payment. Licensee shall make the Purchase Option Payment to the Licensor.
+
+
+
+
+
+
+
+(c) Sale of Licensed Materials. Licensee shall sell, transfer, assign, convey and deliver all of its rights in and to the Licensed Materials to Licensor.
+
+
+
+
+
+
+
+(d) Representations and Warranties. The representations and warranties of each of Licensor and Licensee set forth below shall be true and correct in all respects as of the date of this Agreement and as of the Extended Closing Date as if made on and as of such dates (except to the extent any such representation or warranty is made as of a specified date, which such representation or warranty shall be true and correct in all respects as of such specified date).
+
+
+
+
+
+
+
+6. REPRESENTATIONS AND WARRANITES OF LICENSOR. Licensor hereby represents and warrants to Licensee as follows:
+
+
+
+
+
+
+
+6.1 Organization and Qualification. Licensor is duly organized, validly existing and in good standing under the laws of the State of Virginia and has the requisite corporate power and authority to carry on its business as it is now being conducted.
+
+
+
+
+
+
+
+6.2 Ownership of Licensed Materials. Licensor has good and marketable title to the License Materials, free and clear of any and all mortgages, liens, encumbrances, pledges and security interests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.3 Brokers and Finders. Licensor has not incurred or taken any action that may give rise to any liability for brokerage fees, commissions or finder’s fees in connection with the transactions contemplated by this Agreement.
+
+
+
+
+
+6.4 Noncontravention. Neither the execution and delivery of this Agreement and the Transaction Documents, nor the consummation of the transactions contemplated hereby and thereby, will (i) violate any constitution, statute, regulation, rule to which Licensor is subject or, to the knowledge of Licensor, any injunction, judgment, order, decree, ruling, charge or other restriction of any government, governmental agency, or court to which Licensor is subject, or (ii) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under any agreement, contract, license, instrument, or other arrangement to which Licensor is a party or by which he is bound or to which any of the Licensed Materials is subject (or result in the imposition of any security interest upon any of the Licensed Materials).
+
+
+
+
+
+
+
+6.5 No Litigation. (a) There are no actions, suits, proceedings, hearings, investigations, charges, complaints, claims or demands of any kind pending or, to the best of the Licensor’s knowledge, threatened relating to or involving the Licensed Materials; (b) there are no injunctions, judgments, orders or decrees of any kind which are outstanding against the Licensed Materials; and (c) the Licensor is not charged or, to the best of Licensor’s knowledge, threatened with, or under investigation with respect to, any alleged violation of any provision of any law (including rules, regulations and codes) relating to or involving the Licensed Materials.
+
+
+
+
+
+
+
+6.6 Own Account; Shares Not Registered.
+
+
+
+
+
+
+
+(a) Licensor represents that it is acquiring the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment as principal for its own account and not with a view to or for distributing or reselling the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment or any part thereof in violation of the Securities Act of 1933, as amended (the “Securities Act”), or any applicable state securities law, and have no present intention of distributing any of the acquiring the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment in violation of the Securities Act or any applicable state securities law.
+
+
+
+
+
+
+
+(b) Licensor acknowledges that the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment to be issued and delivered pursuant to the terms of this Agreement will not be registered under the Securities Act, but will be issued in reliance upon, among others, the exemptions from the registration requirements of the Securities Act afforded by Regulation D and Section 4(2) of the Securities Act.
+
+
+
+
+
+
+
+(c) No Regulatory Review. Licensor understands that no federal, state or provincial agency has passed on or made any recommendation or endorsement of the shares underlying the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment.
+
+
+
+
+
+
+
+(d) Shell Company Status. Licensor represents, acknowledges and warrants its understanding that, pursuant to Rule 144 as promulgated under the 1933 Act (“Rule 144”), a “shell company” is defined as a company that has no or nominal operations; and, either no or nominal assets; assets consisting solely of cash and cash equivalents; or assets consisting of any amount of cash and cash equivalents and nominal other assets. Accordingly, Licensor represents, acknowledges and warrants its understanding that until its filing of its Current Report on Form 8-K dated January 5, 2012, reflecting its status as a non-shell company, Licensee was a “shell company” pursuant to Rule 144 and resales of its securities pursuant to Rule 144 may not be made until at least all of the following criteria set forth in Rule 144(i)(2) have been met: (1) Licensee has ceased to be a “shell company,” (2) Licensee is subject to Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), (3) a period of at least twelve months has elapsed from the date “Form 10 Information” was filed with the Securities and Exchange Commission (the “SEC”) reflecting Licensee’s status as a non-shell company, and (4) Licensee has filed all of its required periodic reports as required by Section 13 or 15(d), other than Form 8-K reports, for the prior one year period. As a result, Licensor may not be able to sell the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment until and unless such securities are registered with the SEC, an exemption for the sales other than Rule 144 can be relied upon, and/or both Licensee and Licensor fully comply with all applicable requirements of Rule 144. Accordingly, Licensor represents, acknowledges and warrants it understands that it may never be able to dispose of the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment issued pursuant to this Agreement using an exemption provided for by Rule 144, or any other exemption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.6 Acknowledgement of and Consent to Restrictive Legend. Licensor acknowledges that the certificates representing the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment shall bear the following or similar legend:
+
+
+
+
+
+
+
+“THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “1933 ACT”), OR APPLICABLE STATE SECURITIES LAWS. THESE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE 1933 ACT, OR (B) AN OPINION OF COUNSEL (REASONABLY SATISFACTORY TO THE COMPANY), THAT REGISTRATION IS NOT REQUIRED UNDER SAID 1933 ACT.”
+
+
+
+
+
+
+
+7. REPRESENTATIONS AND WARRANITES OF LICENSEE. Licensee hereby represents and warrants to Licensor as follows:
+
+
+
+
+
+
+
+7.1 Organization and Qualification. Licensee is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada and has the requisite corporate power and authority to carry on its business as it is now being conducted.
+
+
+
+
+
+
+
+7.2 Authority. Licensee has all requisite corporate power and authority to execute and deliver this Agreement and to perform each of its respective obligations under this Agreement (and under all documents required to be executed and delivered and actions to be performed by Licensee pursuant hereto). The execution, delivery and performance of this Agreement and the agreement contemplated hereby and the transaction contemplated hereby and thereby has been duly and validly authorized by corporate action on the part of Licensee.
+
+
+
+
+
+
+
+7.3 Enforceability. This Agreement constitutes a valid and binding agreement of Licensee enforceable against it in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, reorganization, moratorium and other similar laws of general application with respect to creditors, (ii) general principles of equity and (iii) the power of a court to deny enforcement of remedies generally based upon public policy.
+
+
+
+
+
+
+
+7.4 No Conflict or Violation. Neither the execution and delivery of this Agreement nor the consummation of the transaction and performance of the terms and conditions contemplated hereby by Licensee will (i) conflict with or result in a violation or breach of or default under any provision of the articles of incorporation, by-laws, or other similar governing documents of Licensee or any material agreement, indenture or other instrument under which Licensee is bound, or (ii) violate or conflict with any Law applicable to Licensee or the Licensed Materials.
+
+
+
+
+
+
+
+7.5 Shares. Licensee has, and at all times prior to each of the Initial Closing, the Extended Term Closing and the Purchase Option Closing will have sufficient shares reserved for issuance available to enable Licensee to consummate the transaction contemplated hereby and to pay the Initial Payment and, if applicable, the Extended Term Payment and Purchase Option Payment.
+
+
+
+
+
+
+
+8. NO WARRANTY.
+
+
+
+
+
+
+
+8.1 No Warranty. THE LICENSED MATERIALS ARE OFFERED “AS IS,” AND LICENSOR GRANTS AND LICENSEE RECEIVES NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, BY STATUTE, COMMUNICATION OR CONDUCT WITH LICENSEE, OR OTHERWISE. LICENSOR SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FINESS FOR A SPECIFIC PURPOSE OR NONINFRINGEMENT CONCERNING THE LICENSED MATERIALS OR ANY UPGRADES TO OR DOCUMENTATION FOR THE SOFTWARE. WITHOUT LIMITATION OF THE ABOVE, LICENSOR GRANTS NO WARRANTY THAT, TO THE EXTENT APPLICABLE, THE LICENSED MATERIAL IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION, AND GRANTS NO WARRANTY REGARDING ITS USE OR THE RESULTS THEREFROM INCLUDING, WITHOUT LIMITATION, ITS CORRECTNESS, ACCURACY OR RELIABILITY.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. MISCELLANEOUS
+
+
+
+
+
+9.1 Counterparts. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement, and shall become effective when one or more counterparts have been signed by each of the Parties and delivered to the other Party.
+
+
+
+
+
+
+
+9.2 Governing Law; Jurisdiction; Venue. THIS AGREEMENT AND THE TRANSACTION CONTEMPLATED HEREBY SHALL BE GOVERNED BY AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO PRINCIPLES THEREOF RELATING TO CONFLICTS OF LAW RULES THAT WOULD DIRECT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION. EXCLUSIVE JURISDICTION AND VENUE SHALL LIE IN NEW YORK, NY.
+
+
+
+
+
+
+
+9.3 Arbitration; Waiver of Trial. Licensor and Licensee hereby agree that any dispute shall be submitted to final and binding arbitration and that the Parties shall not be entitled to a trial by jury.
+
+
+
+
+
+9.4 Entire Agreement. This Agreement and any Appendices, Schedules and Exhibits hereto contain the entire agreement between the Parties with respect to the subject matter hereof and there are no agreements, understandings, representations or warranties, either written or oral, between the Parties other than those set forth or referred to herein.
+
+
+
+
+
+
+
+9.5 Payment of Expenses. Whether or not the transactions contemplated by this Agreement are consummated and, except as otherwise may be expressly provided herein, each party shall pay its own fees, expenses and disbursements and those of its respective agents, representatives, consultants, accountants and counsel incurred in connection with this Agreement and all other costs and expenses incurred in the performance and compliance with all conditions to be performed by such party under this Agreement.
+
+
+
+
+
+
+
+9.6 Notices. Unless otherwise expressly provided in this Agreement, all notices required or permitted hereunder shall be in writing and deemed sufficiently given for all purposes hereof if (a) delivered in person, by courier or by registered or certified United States Mail to the Person to be notified, with receipt obtained, or (ii) sent by telecopy, telefax or other facsimile or electronic transmission, with “answer back” or other “advice of receipt” obtained, in each case to the appropriate address or number as set forth below. Each notice shall be deemed effective on receipt by the addressee as aforesaid; provided that, notice received by telex, telecopy, telefax or other facsimile or electronic transmission after 5:00 p.m. at the location of the addressee of such notice shall be deemed received on the first Business Day following the date of such electronic receipt.
+
+
+
+
+
+
+
+Notices to Licensor shall be addressed as follows:
+
+
+
+
+
+
+
+Akai Studio LLC
+
+
+[ADDRESS]
+
+
+Attention: Amu Fowler, Managing Director
+
+
+
+
+
+
+
+or at such other address or to such other telecopy, telefax or other facsimile or electronic transmission number and to the attention of such other person as Licensor may designate by written notice to Licensee.
+
+
+
+
+
+Notices to Licensee shall be addressed to:
+
+
+
+
+
+
+
+Ceres Ventures, Inc.
+
+
+430 Park Avenue, Suite 702
+
+
+New York, NY 10022
+
+
+Attention: Chief Executive Officer
+
+
+
+
+
+
+
+and a copy, which shall not constitute notice, to:
+
+
+
+
+
+
+
+Sierchio & Company, LLP
+
+
+430 Park Avenue, Suite 702
+
+
+New York, NY 10022
+
+
+Attention: Joseph Sierchio, Esq.
+
+
+
+
+
+
+
+or at such other address or to such other telecopy, telefax or other facsimile or electronic transmission number and to the attention of such other person as Licensee may designate by written notice to Licensor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.7 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and assigns; provided, however, that the respective rights and obligations of the Parties shall not be assignable or by any Party without the express written consent of the non-assigning or non-delegating Party, such consent shall not unreasonably be withheld.
+
+
+
+
+
+9.8 Amendments and Waivers. This Agreement may not be modified or amended except by an instrument or instruments in writing signed by the Party against whom enforcement of any such modification or amendment is sought which instrument and expressly identified as a modification or amendment. Any Party may, only by an instrument in writing and expressly identified as a waiver, waive compliance by another Party with any term or provision of this Agreement on the part of such other Party to be performed or complied with. The waiver by any Party hereto of a breach of any term or provision of this Agreement shall not be construed as a waiver of any subsequent breach.
+
+
+
+
+
+
+
+9.9 Appendices, Schedules and Exhibits. All Appendices, Schedules and Exhibits hereto which are referred to herein are hereby made a part of this Agreement and incorporated herein by such reference.
+
+
+
+
+
+
+
+9.10 Interpretation. It is expressly agreed that this Agreement shall not be construed against any Party, and no consideration shall be given or presumption made, on the basis of who drafted this Agreement or any particular provision hereof or who supplied the form of Agreement. Each Party agrees that this Agreement has been purposefully drawn and correctly reflects its understanding of the transaction that this Agreement contemplates. In construing this Agreement:
+
+
+
+
+
+(a) examples shall not be construed to limit, expressly or by implication, the matter they illustrate;
+
+
+
+
+
+
+
+(b) the word “includes” and its derivatives means “includes, but is not limited to” and corresponding derivative expressions;
+
+
+
+
+
+
+
+(c) a defined term has its defined meaning throughout this Agreement and each Appendix, Exhibit and Schedule to this Agreement, regardless of whether it appears before or after the place where it is defined;
+
+
+
+
+
+
+
+(d) each Exhibit and Schedule to this Agreement is a part of this Agreement, but if there is any conflict or inconsistency between the main body of this Agreement and any Exhibit or Schedule, the provisions of the main body of this Agreement shall prevail;
+
+
+
+
+
+
+
+(e) the term “cost” includes expense and the term “expense” includes cost;
+
+
+
+
+
+
+
+(f) the headings and titles herein are for convenience only and shall have no significance in the interpretation hereof; and
+
+
+
+
+
+
+
+(g) “include” and “including” shall mean include or including without limiting the generality of the description of the preceding term.
+
+
+
+
+
+
+
+9.11 Agreement for the Parties’ Benefit Only. This Agreement is for the sole benefit of Licensor, Licensee and their respective successors and assigns as permitted herein and no third party shall be entitled to enforce this Agreement, rely on any representation, warranty, covenant or agreement contained herein, receive any rights hereunder or be a third party beneficiary of this Agreement.
+
+
+
+
+
+
+
+9.12 Severability. If any term, provision or condition of this Agreement, or any application thereof, is held invalid, illegal or unenforceable in any respect under any Law, this Agreement shall be reformed to the extent necessary to conform, in each case consistent with the intention of the Parties, to such Law, and to the extent such term, provision or condition cannot be so reformed, then such term, provision or condition (or such invalid, illegal or unenforceable application thereof) shall be deemed deleted from (or prohibited under) this Agreement, as the case may be, and the validity, legality and enforceability of the remaining terms, provisions and conditions contained herein (and any other application such term, provision or condition) shall not in any way be affected or impaired thereby. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.
+
+
+
+
+
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+

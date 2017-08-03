@@ -1,0 +1,753 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.23
+
+
+"CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR CERTAIN REDACTED PROVISIONS OF
+THIS AGREEMENT. THE REDACTED PROVISIONS ARE IDENTIFIED BY THREE ASTERISKS AND
+ENCLOSED BY BRACKETS. THE CONFIDENTIAL PORTION HAS BEEN FILED SEPARATELY WITH
+THE SECURITIES AND EXCHANGE COMMISSION."
+
+
+[SMITHMICRO SOFTWARE LOGO]
+
+
+SOFTWARE LICENSING AND DISTRIBUTION AGREEMENT
+
+
+THIS AGREEMENT, including Appendixes A and B attached hereto (hereinafter,
+the "Agreement"), is entered into and effective as of December 1, 1998 by and
+between SMITH MICRO SOFTWARE, INC., a corporation organized and existing under
+the laws of the State of Delaware, (hereinafter referred to as "SMSI"), and 3Com
+Corporation, the party specified as "OEM" on Appendix A, hereto (hereinafter
+referred to as "OEM").
+
+1.    Rights and Licenses Granted to OEM, Services, Term.
+
+1.1   SMSI publishes the software programs listed in Appendix A and
+documentation and instruction manuals related to the software programs
+(collectively referred to as the "Licensed Products"). Subject to the terms and
+conditions of this agreement, SMSI hereby grants OEM a limited, non-exclusive,
+non-transferable right to copy, have copied,, market, and distribute the
+Licensed Products to distributors, re-sellers, OEM customers of OEM and
+end-users, solely when distributed concurrently with the sale of the products
+listed in Appendix A (hereinafter referred to as the "Hardware") of OEM, its
+parents, subsidiaries and affiliates, and not as separate, unbundled products
+except as needed to replace a customer's defective media, or to remedy an error
+in the Licensed Products that can be resolved by providing customer with an
+upgrade.
+
+1.2   The term of this Agreement shall be as specified in Appendix A,
+hereto and shall extend automatically for additional terms of the same length
+unless either party gives the other party written notice of cancellation at
+least sixty (60) days prior to the end of the then current term. After the first
+three months of the initial term of this Agreement, either party may terminate
+this agreement at any time for convenience by providing 90 days written notice.
+
+2.    OEM's Obligations.
+
+2.1   OEM, including its parents, subsidiaries and affiliates, shall
+include from time to time, the promotional literature furnished by SMSI with
+respect to other products of SMSI including products which provide enhancement
+upgrades to the Licensed Products. Such promotional material shall be subject to
+approval by OEM, which approval shall not be unreasonably withheld.
+
+2.2   OEM may, in its discretion, promote the fact that the Licensed
+Products are included with Hardware shipped by OEM including references to SMSI
+and the Licensed Products on product packaging, advertising and promotional
+literature where reasonable.
+
+
+1
+<PAGE>   2
+2.3   OEM shall supply SMSI, at no charge to SMSI, within 15 days of
+execution of this Agreement, a sample of each type of Hardware products which it
+proposes to ship with the Licensed Products for SMSI's testing and quality
+control purposes. In the event OEM releases new products or significantly
+changes the design of any Hardware product with which it ships the Licensed
+Products, OEM shall supply a sample of such Hardware product, as changed, to
+SMSI at no charge. Should such design changes require significant software
+modifications to provide the previously existing functionality, SMSI reserves
+the right to charge for the reasonable costs of such changes.
+
+2.4   OEM shall establish a registration procedure by which end users of
+its products may register ownership. OEM shall provide this registration
+information to SMSI quarterly in ASCII machine readable format. Users will have
+the option to not be included in this list.
+
+3.    SMSI's Obligations.
+
+3.1   SMSI shall use commercially reasonable efforts to assure that the
+Licensed Products are compatible with the Hardware.
+
+3.2.  Improvements. Reasonable improvements in the Licensed Products
+(which shall mean any minor additions or modifications made by SMSI to or in the
+Licensed Products at any time) which improve the efficiency and effectiveness of
+the Licensed Products and which do not change its function(s) shall be furnished
+from time to time to OEM at no charge.
+
+3.3   Program Changes. If at any time SMSI shall develop any changes in
+the Licensed Products which change the basic program function(s) of the Licensed
+Products or add one or more new ones, the sublicensees of OEM shall have the
+right to obtain such program changes at the standard rate SMSI charges other
+licensees of the Licensed Products. The determination of whether a change is an
+improvement or program change shall be in the sole discretion of SMSI.
+
+4.    Technical Support. The party specified in Appendix A, hereto shall provide
+end users who receive copies of the Licensed Products from OEM telephonic advice
+by knowledgeable personnel on installation, operation and trouble-shooting
+questions with respect to the Licensed Products ("Technical Support"). Such
+party shall not refer such callers to the other party. If OEM is designated to
+provide customer support in Appendix A, OEM shall provide to SMSI the telephone
+numbers for OEM's Technical Support personnel for the Licensed Products which
+SMSI may provide to callers who have acquired the Licensed Products through OEM.
+SMSI shall provide tier 2 support in the operation of the Licensed Products to
+the customer service staffs of OEM, its subsidiaries and affiliates to assist
+the customer service staffs in providing Technical Support for the Licensed
+Products but unless otherwise provided in Appendix A, hereto, SMSI shall not
+otherwise be obligated to provide Technical Support.
+
+5.    Delivery. Except as explained in Appendix A, SMSI has delivered Copy
+Masters of the Licensed Products and the appropriate End User License Agreement
+to OEM.
+
+
+2
+<PAGE>   3
+6.    Payment Schedule, Fees and Charges.
+
+6.1   Price. OEM shall pay the prices specified in Appendix A hereto.
+Within forty-five (45) days after the end of each calender month OEM shall pay
+SMSI for each copy shipped during the month. OEM shall accompany each monthly
+payment with a report containing all information reasonably necessary to verify
+accuracy of the payment for that month. OEM shall pay a late charge of 1.0% for
+each month or partial month that payment is late, or, if lower, the maximum rate
+permitted by law.
+
+6.2   Taxes and Duties. The prices stated are exclusive of sales or use
+taxes, ad valorem taxes, duties, licenses, or levies imposed on the production,
+storage, sale, transportation or use of the Licensed Products. OEM shall pay all
+such charges, excepting taxes based on the income of SMSI, either as levied by
+taxing authorities, or in lieu thereof, OEM shall provide an exemption
+certificate acceptable to the relevant taxing authorities.
+
+7.    Copies of Licensed Products.
+
+7.1   Right to Copy.OEM shall have the right to copy, duplicate or
+otherwise reproduce, or have copied, duplicated or otherwise reproduced, the
+Licensed Products for inclusion with OEM's Hardware.
+
+7.2   Right to Audit. OEM shall keep records concerning the shipment of,
+and all transactions relating to, the sale of the Licensed Products. Such
+records shall set forth the number of copies of the Licensed Products sold or
+transferred by OEM. OEM shall allow an independent certified public accountant
+appointed by SMSI, subject to reasonable approval of OEM, upon ten (10) days
+written notice, to inspect, audit and analyze all of OEM's records as described
+in this section, and all of OEM's other books, accounts and shipping records
+relating to the items licensed hereunder, during normal business hours at OEM's
+regular place of business. SMSI shall bear the costs of such inspection and
+audit, unless the audit discloses that additional amounts equal to or greater
+than 5% during the period being examined are due SMSI, in which case OEM shall
+pay such additional amounts and reasonable costs of such inspection and audit.
+SMSI agrees to sign, and have the auditor sign, any reasonable and appropriate
+confidentiality agreement with respect to such inspection and audit which is
+submitted by OEM during the term of this Agreement.
+
+8.    Limited Warranties.
+
+8.1   SMSI's Warranties. SMSI warrants that during the Warranty Period (as
+defined below), the Licensed Products furnished hereunder shall be free from
+material programming errors and from material defects in workmanship and
+materials. OEM acknowledges that inevitably some errors may exist in the
+Licensed Software, and the presence of such errors, if not material errors,
+shall not be a breach of this provision This warranty shall be of no effect
+should OEM cause the Licensed Products to be modified or used other than as
+licensed hereunder or as provided in the documentation without the written
+consent of SMSI.
+
+8.2   SMSI's Fulfillment of Warranty Obligations. If at any time during
+the 90-day period immediately following the date of delivery of the Licensed
+Products (the "Warranty Period") SMSI or OEM shall discover one or more material
+defects or errors in the Licensed Products or any other respect in which the
+Licensed Products fails to conform to the provisions of any warranty contained
+in this Agreement, SMSI shall, entirely at its own expense, promptly correct
+such defect, error or nonconformity by, among other things supplying OEM with
+corrected versions of the Licensed Products.
+
+8.3   No Warranty Pass-Through. OEM shall not pass through to its
+customers, end users or any other third party the warranties made by SMSI under
+this Agreement. OEM shall make no representations to its
+
+
+3
+<PAGE>   4
+customers, end users or any other third party on behalf of SMSI. No warranty,
+representation or agreement herein shall be deemed to be made for the benefit of
+any customer, end user, or licensee of OEM or any other third party.
+
+8.5   LIMITATION OF LIABILITY. THE FOREGOING WARRANTIES ARE IN LIEU OF ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. SMSI MAKES
+NO AND SPECIFICALLY DISCLAIMS ALL REPRESENTATIONS GUARANTEES AND WARRANTIES TO
+ANY PERSON OR ENTITY REGARDING THE USE OR THE RESULTS OF THE USE OF THE LICENSED
+PRODUCTS.
+
+9.    Indemnification
+
+9.1   SMSI agrees to indemnify, defend, and hold OEM harmless from and
+against any and all actions, suits, claims, liabilities, damages, losses and
+expenses (including the reasonable fees of attorneys and other professionals and
+related costs and expenses) arising directly or indirectly out of or in
+connection with any claim that the Licensed Products violates any patent,
+trademark, copyright and any other intellectual or industrial property right of
+third parties, finally awarded in any such claim, suit or proceeding. SMSI shall
+have no liability for infringement based on (a) use of other than the current
+release of the Licensed Products, (b) modification of the Licensed Products
+without SMSI's written consent, (c) the combination or use of the Licensed
+Products with any other software, equipment, product, device, item or process
+not furnished by SMSI or not contemplated under this Agreement, if such
+infringement would have been avoided by the use of the Licensed Products as
+contemplated herein or alone and in their current unmodified form. (d) OEM's
+continued infringing activities after being notified thereof or after being
+informed of modifications that would have avoided the infringement or (e) OEM's
+use of the licensed product which is incidental to an infringement not resulting
+primarily from the licensed product. OEM will indemnify SMSI from all damages
+and liabilities related to a claim excluded from SMSI's indemnity obligation by
+the previous sentence.
+
+9.2   OEM agrees to indemnify, defend, and hold SMSI harmless from and
+against any and all actions, suits, claims, liabilities, damages, losses and
+expenses (including the reasonable fees of attorneys and other professionals and
+related costs and expenses) arising directly or indirectly out of or in
+connection with any claim related to the Hardware, the breach by OEM of any
+warranty or obligation under this Agreement, or any claim that (1) the
+distribution of the Hardware violates any local, state, or federal law, rule or
+regulation or violates any patent, trademark, copyright and any other
+intellectual or industrial property right of third parties, or (2) of property
+damage or personal injury or death arising from use of the Hardware, and to pay
+any liabilities, damages, costs and expenses finally awarded in any such claim,
+suit or proceeding.
+
+9.3   The indemnifying party shall be relieved of the foregoing obligation
+unless (i) the other party promptly notifies the indemnifying party of any such
+claim, (ii) the indemnifying party shall have sole control of the defense and
+all related settlement negotiations, and (iii) the other party provides the
+indemnifying party with the assistance, information and authority necessary to
+perform the above. However, if the other party desires to have separate legal
+representation in any such action, it shall be responsible for the costs and
+fees related to its separate counsel. In the event a product provided by the
+indemnifying party is finally held or believed by the indemnifying party to
+infringe a third party's rights, the indemnifying party, at its option, shall
+use reasonable efforts to obtain a license under the rights that have been
+infringed, or to modify the infringing product so it is non-infringing or to
+provide to the other party substitute products that are non-infringing; provided
+that if in the indemnifying party's judgment such options are not commercially
+reasonable, the indemnifying party may terminate the licenses granted to the
+other party hereunder upon written notice to the other party.
+
+
+4
+<PAGE>   5
+10.   Proprietary Rights, Confidentiality.
+
+10.1  RapidComm Trademark. OEM has marketed the Licensed Products - or
+their predecessor products - under the trademark RapidComm. SMSI acknowledges
+that all right, title and interest in and to the RapidComm mark resides in OEM,
+and hereby agrees that OEM may continue to market the Licensed Products under
+the RapidComm mark during the term of this Agreement.
+
+10.2  Ownership. Except as set forth in Section 10.1 above, OEM agrees
+that the Licensed Products provided hereunder, and any copies thereof, in whole
+or in part, and all intellectual property rights, including without limitation,
+patent, copyright, trademark, trade secret, and any other intellectual or
+industrial property rights, are and shall remain the sole property of SMSI, and
+that all rights thereto are reserved by SMSI. OEM agrees that it will not create
+derivatives of such Licensed Products, nor use, copy, disclose, sell, assign,
+sublicense, or otherwise transfer the Licensed Products except as expressly
+provided in this License Agreement. OEM is prohibited from the disassembly or
+decompilation of the object code or the disclosure of any other aspect of the
+workings of the Licensed Products without the written consent of SMSI.
+
+10.3  Trademarks. Unless otherwise agreed by the parties in writing, OEM
+shall use SMSI's trademarks only for purposes of advertisement, promotion, and
+licensing of the corresponding Licensed Products and for no other purposes. OEM
+shall use such trademarks in accordance with the guidelines established by SMSI
+from time to time. OEM shall not use any of SMSI's trademarks, service marks,
+logos, or slogans in any manner likely to confuse, mislead, or deceive the
+public, or to in any way that is injurious to the SMSI's reputation. In the
+event OEM is permitted under this agreement to make copies of the Licensed
+Products, OEM shall include copyright notices on any and all copies of Licensed
+Products. Licensed Products shall always be known by the names set forth in
+Appendix A attached hereto, or as otherwise agreed by the parties. OEM shall
+restrict its sub-licensees of the Licensed Products similarly. SMSI may audit
+OEM's use of SMSI's trademarks upon request. Should SMSI decide to register any
+or all of its trademarks, OEM shall cooperate in all registration applications,
+renewals and other procedures with the applicable trademark authorities.
+Likewise, SMSI shall provide similar cooperation in OEM's efforts to register
+and protect the RapidComm mark.
+
+10.4  Confidentiality.
+
+10.4.1 "Confidential Information" shall mean all information that is
+not generally known to the public and in which a party has rights of any kind,
+including, but not limited to, proprietary technology, trade secrets, know-how,
+inventions (whether or not patentable), ideas, improvements, works of
+authorship, derivative works, modifications, product development plans,
+forecasts, strategies, names and expertise of employees and consultants,
+techniques, processes, algorithms, schematics, software programs, designs,
+together with all other business and technical information that a party
+discloses to the other party, and such other information as is deemed
+confidential by the disclosing party and identified as such at the time of
+disclosure, or which, under the circumstances surrounding the disclosure to the
+other party, ought reasonably to be treated as confidential. Information shall
+not be deemed "Confidential Information" for the purposes of this Agreement that
+(i) is already known to the non-disclosing party at the time of disclosure; (ii)
+is or becomes publicly known through no wrongful act of the non-disclosing
+party, including by public announcement by the disclosing party; (iii) is
+received from a third party without similar restrictions and without breach of
+this Agreement; (iv) is independently developed by the non-disclosing party; or
+(v) is lawfully required to be disclosed by any governmental agency or otherwise
+required to be disclosed by law.
+
+10.4.2 Each party shall hold in trust and confidence and shall not
+disclose any Confidential Information of the other party during the term of this
+Agreement, and for a period of three (3) years following termination of this
+Agreement other than its own employees who have a need to know and are bound in
+writing
+
+
+5
+<PAGE>   6
+under an appropriate confidentiality agreement. In so doing, such party shall
+use the same degree of care, but no less than a reasonable degree of care, as
+such party uses to protect its own confidential information of a like nature.
+
+11.   Termination.
+
+11.1  Default. Each party has the right to terminate this Agreement for
+the following reasons or causes:
+
+11.1.1 In the case of a breach of Section 10 (Proprietary
+Information, Confidentiality) termination shall be effective, upon ten (10) days
+written notice;
+
+11.1.2 For defaults in payment of money, if such other party
+materially breaches or is in material default of any obligation hereunder, which
+breach or default which has not been cured within thirty (30) days after service
+of written notice of default of the non-breaching party;
+
+11.1.3 In the event that OEM fails to maintain a satisfactory credit
+rating or financial condition or if SMSI reasonably concludes that, for any
+reason, OEM is or will become unable to discharge its obligations hereunder,
+SMSI may immediately suspend shipment of the Licensed Software and may terminate
+this Agreement upon thirty (30) days written notice. Alternatively, and without
+waiving its termination rights hereunder, if SMSI deems that OEM has failed to
+maintain a satisfactory credit rating or financial condition, SMSI may require
+that shipments be paid for in advance or that payment be secured by letter of
+credit or other form of security acceptable to SMSI in its absolute discretion.
+
+11.1.4 If a party becomes insolvent, is adjudicated bankrupt or if a
+receiver or trustee is appointed for a party for a substantial portion of its
+assets, or if a party institutes or becomes a party to any proceeding for the
+settlement of debts or an assignment for the benefit of creditors of such party,
+and the situation is not corrected within thirty (30) days after it received
+written notice from the non-defaulting party.
+
+11.2  Conditions Upon Termination. The following conditions shall apply
+upon termination:
+
+11.2.1 OEM shall discontinue all use of the Licensed Products and
+any copies thereof and, upon the written instruction of SMSI, shall deliver to
+SMSI, or destroy, at SMSI's option, all previously delivered copies of the
+Licensed Products and related materials furnished by SMSI and any copies thereof
+in the possession of or under control of OEM. Notwithstanding the above, OEM
+shall have the right to ship any Licensed Product previously copied and bundled
+with the OEM's hardware for a period of ninety (90) days.
+
+11.2.2 OEM shall also erase or destroy all Licensed Products or
+copies or portions thereof contained or stored in any form or media, including
+the memory of a computer or computer system in its possession or under its
+control except as used to provide tier 1 customer support.
+
+11.2.3 OEM shall certify to SMSI that the requirements of Sections
+11.2.1 and 11.2.2 have been completed within fifteen (15) days of termination.
+
+11.3  Addition to Other Rights. The termination rights set forth above
+shall be in addition to, and not in substitution for, any other remedies that
+may be available to the party serving notice upon the other party, and any
+termination and any exercise of any such right shall not relieve the party
+receiving notice from any obligations accrued to the date of such termination or
+relieve such party from liability and damage to the other for breach of this
+Agreement. No termination hereunder shall terminate any end user license.
+
+
+6
+<PAGE>   7
+11.4  The termination of this Agreement shall not in any way affect OEM's
+rights under any end user licenses for the Licensed Products heretofore or
+hereafter acquired by OEM other than the pursuant to this Agreement.
+
+12.   Miscellaneous.
+
+12.1  U.S. Government contracts. Any Licensed Products which OEM
+distributes or licenses to or on behalf of the United States of America, its
+agencies and/or instrumentalities (the "U.S. Government") are provided to OEM
+with RESTRICTED RIGHTS. Use, duplication, or disclosure by the U.S. Government
+is subject to restrictions as set forth in subparagraph (cX1)(ii) of the Rights
+in Technical Data and Computer Software clause at 48 C.F.R. 252.227-7013 or in
+subparagraphs (c)(1) and (2) of the Commercial Computer Software-Restricted
+Rights clause at 48 C.F.R. 52.227-19, as applicable. The Contractor/Manufacturer
+is: Smith Micro Software, Inc. 51 Columbia, Aliso Viejo, California 92656. OEM
+shall comply with any requirements of the U.S. Government to obtain such
+RESTRICTED RIGHTS protection, including without limitation, the placement of any
+restrictive legends on the Licensed Products and any license agreement used in
+connection with the distribution of the Licensed Products. Under no
+circumstances shall SMSI be obligated to comply with any U.S. Governmental
+requirements regarding the submission of or the request for exemption for
+submission of cost or pricing data or cost accounting requirements. For any
+distribution or license of the Licensed Products that would require compliance
+by SMSI with U.S. Governmental requirements relating to cost or pricing data or
+cost accounting requirements, OEM must obtain an appropriate waiver or exemption
+from such requirements for the benefit of SMSI from the appropriate U.S.
+Governmental authority before the distribution and/or license of the Licensed
+Products to the U.S. Government. Use, duplication, or disclosure by the U.S.
+Government is subject to restrictions as set forth in this Agreement. OEM shall
+procure U.S. Government waiver of any intellectual property rights in or
+relating to Licensed Products.
+
+12.2  Export. OEM will not, directly or indirectly, export or transmit the
+Licensed Products, to any country to which such export or transmission is
+restricted by regulation or statute, without the prior written consent, if
+required, of the Office of Export Administration of the U.S. Department of
+Commerce, or such other governmental entity as may have jurisdiction over such
+export or transmission.
+
+12.3  Independent Contractors. The parties are not employees or legal
+representatives of the other party for any purpose. Neither party shall have the
+authority to enter into any contracts in the name of or on behalf of the other
+party.
+
+12.4  Intentionally omitted.
+
+12.5  Injunction. With respect to any breach of any agreement or covenant
+contained in this Agreement, including without limitation, any agreement not to
+use, disclose, copy, or distribute the Licensed Products or regarding SMSI's
+confidential information and trade secrets, OEM agrees that SMSI will be
+entitled to seek injunctive relief. OEM agrees and recognizes that SMSI may
+suffer immediate and irreparable harm and money damages may not be adequate to
+compensate SMSI or protect and preserve the status quo.
+
+12.6  Survival. The obligations of Section 6 (Payment Schedule, Fees and
+Charges), Section 8.5 (Limitation of Liability), Section 8.6 (Consequential
+Damages), Section 9 (Indemnification), Section 10 (Proprietary Rights,
+Confidentiality), Section 11 (Termination), and Section 12.4 (Injunction) shall
+survive termination of any license hereunder.
+
+12.7  Force Majeure. Neither party hereto shall be liable for the failure
+to perform of any of its obligations under this Agreement, except an obligation
+to pay, if such failure is caused by the occurrence of any force Majeure beyond
+the reasonable control of such party, including without limitation fire, flood,
+strikes and other industrial disturbances, failure of transport, accidents,
+wars, riots, insurrections or acts of God. If the period of
+
+
+7
+<PAGE>   8
+nonperformance exceeds thirty (30) days from the Force Majeure Event, the party
+whose ability to perform has not been so affected may by giving written notice
+terminate this Agreement.
+
+12.8  CONSEQUENTIAL DAMAGES. IN NO EVENT SHALL EITHER OF THE PARTIES
+HERETO BE LIABLE TO THE OTHER FOR THE PAYMENT OF ANY INDIRECT, SPECIAL OR
+CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, DATA, OR USE, COST OF
+PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY INCURRED BY EITHER PARTY
+OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT OR BASED ON A
+WARRANTY, EVEN IF THE OTHER PARTY OR ANY OTHER PERSON HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. THE REMEDIES PROVIDED FOR HEREIN EMBODY THE
+ESSENTIAL PURPOSE OF THE PARTIES HERETO WITH RESPECT TO REMEDIAL ACTION IN THE
+EVENT OF BREACH OF THIS AGREEMENT.
+
+12.9  Applicable Law. This Agreement shall be governed by the laws of the
+State of California including its Uniform Commercial Code, without reference to
+conflict of laws principles. The sole jurisdiction and Venue for any action with
+respect to this Agreement shall be in Santa Clara County, California.
+
+12.10 Notices. Any notice or other communication hereunder shall be in
+writing and deemed given if personally delivered or sent to a party by
+commercial overnight delivery or registered or certified mail, return receipt
+requested or, first class mail (air mail if served from outside the United
+States) to SMSI at:
+
+Smith Micro Software, Inc.
+51 Columbia
+Aliso Viejo, CA  92656
+Attn.:  Mr. Mark W. Nelson
+Telephone (949) 362-5800
+Fax (949) 362-2300
+
+and to OEM at the address specified in Appendix A, hereto with a copy to:
+
+General Counsel
+3Com Corporation
+5400 Bayfront Plaza
+Santa Clara, CA 95092
+Fax (408) 326-6434
+
+Notices delivered personally, by overnight delivery or by registered or
+certified mail shall be deemed communicated as of actual receipt; notices sent
+by first class mail shall be deemed communicated as of three (3) days after
+mailing. Each party may change such party's address by written notice in
+accordance with this section.
+
+12.11 Waiver. No term or provision hereof shall be deemed waived and no
+breach excused unless such waiver or consent shall be in writing and signed by
+the party claimed to have waived or consented.
+
+12.12 Assignment. OEM shall not assign or subcontract all or any part of
+this Agreement, or any interest therein, without SMSI's prior written consent,
+except that OEM may assign to any corporate affiliate without SMSI's consent
+provided that OEM remains the guarantor of all of its obligations under this
+Agreement.
+
+12.13 Binding Effects; Benefits. This Agreement shall inure to the benefit
+of, and shall be binding upon, the parties hereto and their respective
+successors and assigns. Nothing herein is intended to confer on any
+
+
+8
+<PAGE>   9
+person other than the parties hereto or their respective successors and assigns
+any rights, remedies, obligations or liabilities under, or by reason of, this
+Agreement.
+
+12.14 Attorney's Fees. In the event of any controversy, claim or dispute
+between the parties hereto arising out of or relating to this Agreement, the
+prevailing party shall be entitled to recovery from the non-prevailing party its
+reasonable expenses including, but not by way of limitation, attorneys' fees.
+
+12.15 Severability; Partial Invalidity. If any provision of this Agreement
+shall be declared invalid, void or unenforceable by a court of competent
+jurisdiction, such provision shall be ineffective only to the extent of such
+prohibition or invalidity without invalidating the remainder of such provision
+or any remaining provisions of this Agreement.
+
+12.16 Captions; Headings. The headings of articles, sections and other
+subdivisions hereof are inserted only for the purpose of convenient reference
+and it is recognized that they may not adequately or accurately describe the
+contents of the sections which they head. Such headings shall not be deemed to
+govern, limit, modify, or in any other manner affect the scope, meaning or
+intent of the provisions of this Agreement or any part or portion thereof, nor
+shall they otherwise be given any legal effect.
+
+12.17 Entire Agreement. This Agreement, together with all appendices or
+other attachments referenced herein, constitutes the entire agreement between
+SMSI and OEM and supersedes all proposals, oral and written, between the parties
+on this subject. No changes or modifications to this agreement or waivers of any
+provisions of this agreement shall be effective unless made in writing and
+signed by both parties.
+
+12.18 Counterparts. This Agreement may be executed in counterparts, which
+together shall constitute the contract of the parties.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+at Aliso Viejo, California and each hereby warrants and represents that its
+representative whose signature appears below has been and is on the date of this
+Agreement duly authorized by all necessary and appropriate corporate action to
+execute this Agreement.
+
+
+SMITH MICRO SOFTWARE, INC.
+
+By: /s/William W. Smith Jr.__________________________
+
+Title: President/CEO_________________________________
+
+Date: 12/15/98_______________________________________
+
+
+3COM CORPORATION
+
+By: /s/Jerry Devlin__________________________________
+
+Title: V.P. and G.M._________________________________
+
+Date: 12/15/98_______________________________________
+
+
+9
+<PAGE>   10
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+SOFTWARE LICENSING AND DISTRIBUTION AGREEMENT
+
+
+APPENDIX A
+
+Name of OEM: 3Com Corporation, Client Access Business Unit (CABU).
+
+Address of OEM: 3Com Corporation              Phone: 847-262-5000
+3800 Golf Rd.
+Rolling Meadows, IL.  60008   Fax: 847-262-0142
+
+
+1.    OEM is a [corporation] organized and existing under the laws of the State
+of Delaware.
+
+2.    Term of Agreement 1 year(s) commencing December 1, 1998.
+
+3.    Licensed Products:
+
+<TABLE>
+<CAPTION>
+Product Name(s):                                             Version:
+<S>                                                                      <C>
+a.    RapidComm for Win.95/98/NT                                    2.0
+b.    RapidComm Voice for Win.95/98/NT                              2.0
+c.    Combined RapidComm/RapidComm Voice for Win.95/98/NT           2.0
+d.    RapidComm for Win.3.x/95/98/NT                                1.3.2 L, P
+e.    RapidComm Voice for Win.3.x/95/98/NT                          1.3.2 L, P
+f.    RapidComm Mac                                                 2.0
+g.    RapidComm Voice Mac                                           2.0
+Any other current versions shipped by 3Com
+</TABLE>
+
+4.    OEM's Hardware:
+
+a.    Any OEM hardware
+
+5.    The Price per license shall be $[***] per copy. No royalties or other
+charges shall be due or payable by OEM hereunder.
+
+6.    Technical Support:
+
+Technical Support shall be provided by 3Com Corporation.
+
+
+10
+<PAGE>   11
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+7.    SMSI deliver to 3Com a gold master of RapidComm/RapidComm Voice 2.0 no
+later than November 30, 1998.
+
+7.1   In the event that SMSI fails to deliver such gold master to 3Com on
+or before January 31, 1999, the royalty to be paid by 3Com for all copies
+of RapidComm 1.3.2L/P and/or RapidComm 2.0 shipped during the month of
+January, 1999 shall be $[***] per copy until such time as gold master is
+delivered. Approval will not be unreasonably withheld.
+
+8.    RapidComm 2.0 shall contain the following features:
+
+[***]
+
+9.    RapidComm 2.x additional feature requests.
+
+[***]
+
+
+11
+<PAGE>   12
+
+9.    Future development work. SMSI may perform additional development work
+("Future Projects") for additional features for RapidComm 2.0. The parties
+shall mutually agree as to the timetable and costs associated for the
+Future Projects from time to time.
+
+10.   Translations and Localizations. SMSI shall translate and localize at no
+cost to OEM, RapidComm 2.0 and its Quick Start Guide for Windows 95/98,
+Windows NT and Mac for the following languages:
+
+Windows:
+
+a.    Spanish
+b.    Portuguese
+c.    French
+d.    Japanese
+e.    Korean
+f.    Simplified Chinese
+g.    Italian
+h.    German
+i.    Swedish
+j.    Dutch
+k.    Cyrillic/Russian
+l.    U.K /International English
+
+Mac:
+
+a.    French
+b.    Spanish
+c.    U.K./International English
+
+11.   3Com shall commit to volumes and regions for translations requested in
+addition to the languages specified above or will pay a reasonable
+translation fee per language for those not listed in section 10. above.
+
+
+12
+<PAGE>   13
+APPENDIX B
+
+[SMITHMICRO SOFTWARE LOGO]
+
+MASTER RELEASE AUTHORIZATION
+
+Smith Micro Software, Inc. has supplied the below referenced product
+master to you so that you can test it and let us know if it is acceptable.
+Please test this master carefully since we will consider your approval as an
+acceptance of all products duplicated from this master.
+
+Once signed, please fax this form back to Smith Micro Software at (714)
+362-2300 so we may insure that our latest version of software is available for
+your customers. No fax cover page is necessary. Thank you. DUPLICATION AND
+SHIPMENT OF THE PRODUCT MASTER(S) MAY BE DELAYED IF NO AUTHORIZATION IS
+RECEIVED.
+
+Master is satisfactory:                    [ ]  YES       [ ]  NO
+
+Comments:
+
+Master has been approved by:__________________________    _______________
+Signature                     Date
+
+Company:                    _____________________________________________
+
+SMSI Engineering Manager:   __________________________    _______________
+Signature                     Date
+
+SMSI Account Representative:__________________________    _______________
+Signature                     Date
+
+________________________________________________________________________________
+
+Tested with all hardware and software that is to be shipped with the
+following build?
+
+Identification:     __________________________________    ________________
+Model                          Version
+
+SMSI Quality Control:       __________________________    ________________
+Signature                     Date
+________________________________________________________________________________
+
+BUILD INFORMATION
+Product
+Date:                                                Product No.:
+Version:                                             Volume Label:
+Directory:
+
+
+13
+

@@ -1,0 +1,841 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.28
+
+CONFIDENTIAL TREATMENT REQUESTED UNDER 17 C.F.R. Sections 200.80(b)(4), 200.83
+and 230.406.
+
+[ORACLE LOGO]
+
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+This Software License and Services Agreement ("Agreement") is between Oracle
+Corporation ("Oracle") and the Customer identified below. The terms of this
+Agreement shall apply to each Program license granted and to all services
+provided by Oracle under this Agreement, which will be identified on one or
+more Order Forms.
+
+1.    DEFINITIONS
+
+1.1.  "PROGRAM" means the software in object code form distributed by Oracle
+for which Customer is granted a license pursuant to this Agreement, and the
+media, Documentation and Updates therefor.
+
+1.2.  "DOCUMENTATION" means the user guides and manuals for installation and
+use of the Program software. Documentation is provided in CD-ROM or bound form,
+whichever is generally available.
+
+1.3.  "UPDATE" means a subsequent release of the Program which Oracle generally
+makes available for Program licenses at no additional license fee other than
+media and handling charges, provided Customer has ordered Technical Support for
+such licenses for the relevant time period. Update shall not include any
+release, option or future product which Oracle licenses separately.
+
+1.4.  "ORDER FORM" means the document in hard copy or electronic form by which
+Customer orders Program licenses and services, and which is agreed to by the
+parties. The Order Form shall reference the Effective Date of this Agreement.
+
+1.5.  "DESIGNATED SYSTEM" means the computer hardware and operating system
+designated on the relevant Order Form.
+
+1.6.  "TECHNICAL SUPPORT" means Program support provided under Oracle's
+policies in effect on the date Technical Support is ordered.
+
+1.7.  "COMMENCEMENT DATE" means the date on which the Programs are delivered by
+Oracle to Customer, or if no delivery is necessary, the Effective Date set
+forth on the relevant Order Form.
+
+II.   PROGRAM LICENSE
+
+2.1.  RIGHTS GRANTED
+
+A.    Oracle grants to Customer a nonexclusive license to use the
+Programs specified on an Order Form under this Agreement, as
+follows:
+
+i.    to use the Programs solely for Customer's operations on the
+Designated System or on a backup system if the Designated
+System is inoperative, consistent with the use limitations
+specified or referenced in this Agreement, an Order Form, or
+the Documentation. Customer may not relicense, rent or lease
+the Programs or use the Programs for third-party training,
+commercial time-sharing or service bureau use;
+
+ii.   to use the Documentation provided with the Programs in
+support of Customer's authorized use of the Programs;
+
+iii.  to copy the Programs for archival or backup purposes, and to
+make a sufficient number of copies for the use specified in
+the Order Form. All titles, trademarks, and copyright and
+restricted rights notices shall be reproduced in such copies;
+
+iv.   to modify the Programs and combine them with other software
+products; and
+
+v.    to allow third parties to use the Programs for Customer's
+operations so long as Customer ensures that use of the
+Programs is in accordance with the terms of this Agreement.
+
+Customer shall not copy or use the Programs (including the
+Documentation) except as specified in this Agreement or an Order
+Form. Customer shall have no right to use any other software
+program that may be delivered with ordered Programs.
+
+B.    Customer agrees not to cause or permit the reverse engineering,
+disassembly or decompilation of the Programs, except to the extent
+required to obtain interoperability with other independently
+created software or as specified by law.
+
+C.    Oracle shall retain all title, copyright and other proprietary
+rights in the Programs. Customer does not acquire any rights,
+express or implied, in the Programs, other than those specified in
+this Agreement.
+
+2.2.  TRANSFER AND ASSIGNMENT
+
+A.    Customer may transfer a Program license within its organization
+upon notice to Oracle; transfers are subject to the terms and fees
+specified in Oracle's transfer policy in effect at the time of the
+transfer.
+<PAGE>   2
+B.    Customer may not assign this Agreement or transfer a Program
+License to a legal entity separate from Customer without the prior
+written consent of Oracle. Oracle shall not unreasonably withhold
+or delay such consent.
+
+2.3.  VERIFICATION
+
+At Oracle's written request, not more frequently than annually, Customer
+shall furnish Oracle with a signed certification verifying that the
+Programs are being used pursuant to the provisions of this Agreement and
+applicable Order Forms.
+
+Oracle may audit Customer's use of the Programs. Any such audit shall be
+conducted during regular business hours at Customer's facilities and
+shall not unreasonably interfere with Customer's business activities. If
+an audit reveals that Customer has underpaid fees to Oracle, Customer
+shall be invoiced for such underpaid fees. Audits shall be conducted no
+more than once annually.
+
+III.  TECHNICAL SERVICES
+
+3.1.  TECHNICAL SUPPORT SERVICES
+
+Technical Support services ordered by Customer will be provided under
+Oracle's Technical Support policies in effect on the date Technical
+Support is ordered.
+
+3.2.  CONSULTING AND TRAINING SERVICES
+
+Oracle will provide consulting and training services agreed to by the
+parties under the terms of this Agreement. All consulting services shall
+be billed on a time and materials basis unless the parties expressly
+agree otherwise in writing.
+
+3.3.  INCIDENTAL EXPENSES
+
+For any on-site services requested by Customer, Customer shall reimburse
+Oracle for actual, reasonable travel and out-of-pocket expenses incurred.
+
+IV.   TERM AND TERMINATION
+
+4.1.  TERM
+
+If not otherwise specified on the Order Form, this Agreement and each
+Program license granted under this Agreement shall continue perpetually
+unless terminated under this Article IV.
+
+4.2.  TERMINATION BY CUSTOMER
+
+Customer may terminate any Program license at any time; however,
+termination shall not relieve Customer's obligations specified in Section
+4.4.
+
+4.3.  TERMINATION BY ORACLE
+
+Oracle may terminate this Agreement or any license upon written notice if
+Customer materially breaches this Agreement and fails to correct the
+breach within 30 days following written notice specifying the breach.
+
+4.4.  EFFECT OF TERMINATION
+
+Termination of this Agreement or any license shall not limit either party
+from pursuing other remedies available to it, including injunctive
+relief, nor shall such termination relieve Customer's obligation to pay
+all fees that have accrued or are otherwise owed by Customer under any
+Order Form. The parties' rights and obligations under Sections 2.1.B,
+2.1.C, and 2.2.B, and Articles IV, V, VI and VII shall survive
+termination of this Agreement. Upon termination, Customer shall cease
+using, and shall return or destroy, all copies of the applicable Programs.
+
+V.    INDEMNITY, WARRANTIES, REMEDIES
+
+5.1.  INFRINGEMENT INDEMNITY
+
+Oracle will defend and indemnify Customer against a claim that the Programs
+infringe a copyright or patent or other intellectual property right,
+provided that: (a) Customer notifies Oracle in writing within 30 days of
+the claim; (b) Oracle has sole control of the defense and all related
+settlement negotiations; and (c) Customer provides Oracle with the
+assistance, information and authority necessary to perform Oracle's
+obligations under this Section. Oracle will reimburse Customer's reasonable
+out-of-pocket expenses incurred in providing such assistance. Oracle shall
+have no liability for any claim of infringement based on use of a
+superseded or altered release of Programs if the infringement would have
+been avoided by the use of a current unaltered release of the Programs
+which Oracle provides to Customer.
+
+If the Programs are held or are believed by Oracle to infringe, Oracle
+shall have the option, at its expense, to (a) modify the Programs to be
+noninfringing; or (b) obtain for Customer a license to continue using the
+Programs. If it is not commercially reasonable to perform either of the
+above options, then Oracle may terminate the license for the infringing
+Programs and refund the license fees paid for those Programs. This Section
+5.1 states Oracle's entire liability and Customer's exclusive remedy for
+infringement.
+
+5.2.  WARRANTIES AND DISCLAIMERS
+
+A.    Program Warranty
+
+Oracle warrants for a period of one year from the Commencement Date
+that each unmodified Program license will perform the functions
+described in the Documentation.
+
+B.    Media Warranty
+
+Oracle warrants the tapes, diskettes or other media to be free of
+defects in materials and workmanship under normal use for 90 days
+from the Commencement Date.
+
+C.    Services Warranty
+
+Oracle warrants that its Technical Support, training and consulting
+services will be performed consistent with generally accepted
+
+<PAGE>   3
+industry standards. This warranty shall be valid for 90 days from
+performance of service.
+
+D.   DISCLAIMERS
+
+THE WARRANTIES ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHER
+WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.
+
+ORACLE DOES NOT WARRANT THAT THE PROGRAMS WILL OPERATE IN
+COMBINATIONS OTHER THAN AS SPECIFIED IN THE DOCUMENTATION OR THAT
+THE OPERATION OF THE PROGRAMS WILL BE UNINTERRUPTED OR
+ERROR-FREE. PRE-PRODUCTION RELEASES OF PROGRAMS AND
+COMPUTER-BASED TRAINING PRODUCTS ARE DISTRIBUTED "AS IS."
+
+5.3.      EXCLUSIVE REMEDIES
+
+For any breach of the warranties contained in Section 5.2, Customer's
+exclusive remedy, and Oracle's entire liability, shall be:
+
+A.   For Programs
+
+The correction of Program errors that cause breach of the
+warranty, or if Oracle is unable to make the Program operate as
+warranted, Customer shall be entitled to terminate the Program
+license and recover the fees paid to Oracle for the Program
+license.
+
+B.   For Media
+
+The replacement of defective media returned within 90 days of the
+Commencement Date.
+
+C.   For Services
+
+The reperformance of the services, or if Oracle is unable to
+perform the services as warranted, Customer shall be entitled to
+recover the fees paid to Oracle for the unsatisfactory services.
+
+VI.       PAYMENT PROVISIONS
+
+6.1.      INVOICING AND PAYMENT
+
+All fees shall be due and payable 30 days from the invoice date. Any
+amounts payable by Customer hereunder which remain unpaid after the
+due date shall be subject to a late charge equal to 1.5% per month
+from the due date until such amount is paid. Customer agrees to pay
+applicable media and shipping charges. Customer shall issue a purchase
+order, or alternative document acceptable to Oracle, on or before the
+Effective Date of the applicable Order Form.
+
+6.2.      TAXES
+
+The fees listed in this Agreement do not include taxes, if Oracle is
+required to pay sales, use, property, value-added or other taxes
+based on the licenses or services granted in this Agreement or on
+Customer's use of Programs or services, then such taxes shall be
+billed to and paid by Customer. This Section shall not apply to taxes
+based on Oracle's income.
+
+VII.      GENERAL TERMS
+
+7.1.      NONDISCLOSURE
+
+By virtue of this Agreement, the parties may have access to
+information that is confidential to one another ("Confidential
+Information"). Confidential information shall be limited to the
+Programs, the terms and pricing under this Agreement, and all
+information clearly identified as confidential.
+
+A party's Confidential Information shall not include information
+that: (a) is or becomes a part of the public domain through no act or
+omission of the other party; (b) was in the other party's lawful
+possession prior to the disclosure and had not been obtained by the
+other party either directly or indirectly from the disclosing party;
+(c) is lawfully disclosed to the other party by a third party without
+restriction on disclosure; or (d) is independently developed by the
+other party. Customer shall not disclose the results of any benchmark
+tests of the Programs to any third party without Oracle's prior
+written approval.
+
+The parties agree to hold each other's Confidential Information in
+confidence during the term of this Agreement and for a period of two
+years after termination of this Agreement. The parties agree, unless
+required by law, not to make each other's Confidential Information
+available in any form to any third party for any purpose other than
+the implementation of this Agreement. Each party agrees to take all
+reasonable steps to ensure that Confidential Information is not
+disclosed or distributed by its employees or agents in violation of
+the terms of this Agreement.
+
+7.2.      GOVERNING LAW
+
+This Agreement, and all matters arising out of or relating to this
+Agreement, shall be governed by the laws of the State of California.
+
+7.3.      JURISDICTION
+
+Any legal action or proceeding relating to this Agreement shall be
+instituted in a state or federal court in San Francisco or San Mateo
+County, California. Oracle and Customer agree to submit to the
+jurisdiction of, and agree that venue is proper in, these courts in
+any such legal action or proceeding.
+
+7.4.      NOTICE
+
+All notices, including notices of address change, required to be sent
+hereunder shall be in writing and shall be deemed to have been given
+when mailed by first class mail to the first address listed in the
+relevant Order Form (if to Customer) or to the Oracle address on the
+Order Form (if to Oracle).
+
+To expedite order processing, Customer agrees that Oracle may treat
+documents faxed by Customer to Oracle as original documents;
+nevertheless,
+
+
+
+
+<PAGE>   4
+either party may require the other to exchange original signed
+documents.
+
+7.5.      LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS,
+REVENUE, DATA OR USE, INCURRED BY EITHER PARTY OR ANY THIRD PARTY,
+WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF THE OTHER PARTY HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ORACLE'S LIABILITY
+FOR DAMAGES HEREUNDER SHALL IN NO EVENT [**] AND IF SUCH DAMAGES
+RESULT FROM CUSTOMER'S USE OF THE PROGRAM OR SERVICES, SUCH LIABILITY
+SHALL BE LIMITED TO FEES PAID FOR THE RELEVANT PROGRAM OR SERVICES
+GIVING RISE TO THE LIABILITY.
+
+The provisions of this Agreement allocate the risks between Oracle
+and Customer. Oracle's pricing reflects this allocation of risk and
+the limitation of liability specified herein.
+
+7.6.      SEVERABILITY
+
+If any provision of this Agreement is held to be invalid or
+unenforceable, the remaining provisions of this Agreement will remain
+in full force.
+
+7.7.      WAIVER
+
+The waiver by either party of any default or breach of this Agreement
+shall not constitute a waiver of any other or subsequent default or
+breach. Except for actions for nonpayment or breach of Oracle's
+proprietary rights in the Programs, no action, regardless of form,
+arising out of this Agreement may be brought by either party more
+than two years after the cause of action has accrued.
+
+7.8.      EXPORT ADMINISTRATION
+
+Customer agrees to comply fully with all relevant export laws and
+regulations of the United States ("Export Laws") to assure that
+neither the Programs nor any direct product thereof are (1) exported,
+directly or indirectly, in violation of Export Laws; or (2) are
+intended to be used for any purposes prohibited by the Export Laws,
+including, without limitation, nuclear, chemical, or biological
+weapons proliferation.
+
+7.9.      ENTIRE AGREEMENT
+
+This Agreement constitutes the complete agreement between the parties
+and supersedes all prior or contemporaneous agreements or
+representations, written or oral, concerning the subject matter of
+this Agreement. This Agreement may not be modified or amended except
+in a writing signed by a duly authorized representative of each
+party; no other act, document, usage or custom shall be deemed to
+amend or modify this Agreement.
+
+It is expressly agreed that the terms of this Agreement and any Order
+Form shall supersede the terms in any Customer purchase order or
+other ordering document. This Agreement shall also supersede all
+terms of any unsigned or "shrinkwrap" license included in any
+package, media, or electronic version of Oracle-furnished software
+and any such software shall be licensed under the terms of this
+Agreement, provided that the use limitations contained in an unsigned
+ordering document shall be effective for the specified licenses.
+
+
+
+The Effective Date of this Agreement shall be October 6, 1997.
+
+<TABLE>
+<S>                                        <C>
+EXECUTED BY CUSTOMER: General Magic.       EXECUTED BY ORACLE CORPORATION:
+
+Authorized Signature  /s/ KEVIN SURACE     Authorized Signature  /s/ JOHN ROGERS
+Name:   KEVIN SURACE                       Name:   JOHN ROGERS
+Title:  VP/General Manager                 Title:  MANAGER, SALES SUPPORT
+Address:  420 N. Mary Avenue               Address:  500 Oracle Parkway, Redwood City, CA
+Sunnyvale, CA 94086
+</TABLE>
+[**] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH
+THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO
+THE OMITTED PORTIONS.
+
+
+[ORACLE LOGO]
+
+Oracle Corporation
+500 Oracle Parkway
+Redwood City, CA 94065
+(415) 506-7000
+
+Oracle is a registered trademark of Oracle Corporation
+13006-103196
+
+<PAGE>   5
+[ORACLE LOGO]                       QUOTE                         Quote#: 169722
+Page: 1 of 2
+Effective Date: 13-AUG-97
+
+
+Customer:   GENERAL MAGIC CORPORATION
+Location:   420 NORTH MARY AVENUE
+SUNNYVALE, CA 94086
+Contact:    STEVEN BALDIN
+Phone:      408-774-4242      Fax: 408-774-4030
+
+End User:   GENERAL MAGIC CORPORATION
+420 NORTH MARY AVENUE
+SUNNYVALE, CA 94086
+Contact:    STEVEN BALDIN
+
+================================================================================
+ORACLE CONTRACT INFORMATION
+
+[O] Agreement           *** SLSA Attached ***         Effective Date:
+
+
+DESIGNATED SYSTEM
+
+Make/Model:         MS / WINDOWS NT-PC COMPATIBLE       Media Type:    CD
+
+Operating System:   WINDOWS NT                          CSI Number:
+
+
+Qty         License                                         Quantity &
+Shipped     Level       Programs                            License Type
+
+1 Full Use           Oracle Interoffice Message          [**]
+Cartridge (CTRL HOLD)
+
+1 App. Spec. Deploy. Oracle Enterprise Manager           [**]
+Performance Pack
+
+1 App. Spec. Deploy. Oracle Server-Enterprise Edition    [**]
+
+1 App. Spec. Deploy. Parallel Server Option              [**]
+
+
+
+Initial 1 Year Silver Annual Technical Support
+
+
+Total License Fee Due:                   [**]
+Total Technical Support Fee Due:         [**]
+Total Additional Fees Due:
+==============
+Total Fees Due:                          [**] US
+
+For purposes of this Order Form, Customer Application is defined as General
+Magic's voice accessible network service.
+
+MISCELLANEOUS
+
+Oracle shall deliver to the Customer Location, for use in the United States, the
+number of copies specified above of the software media and Documentation (CD-ROM
+or bound, whichever is generally available) ("Master Copy") for each Program
+currently available in production release as of the Effective Date for use on
+the Designated Systems. Customer shall have the right to make up to 1 copy of
+the Program(s), including Documentation, for each license of the Program(s) and
+Customer shall be responsible for installation of the software. All fees due
+under this Order Form shall be due and payable net 30 days from date of invoice,
+and shall be noncancelable and the sums paid nonrefundable. Customer agrees to
+pay applicable sales/use tax, media and shipping charges. The following shipping
+terms shall apply: FOB Destination, Prepaid and Add. These terms shall also
+apply to any options exercised by Customer. If Customer loses or damages the
+media containing a Program licensed hereunder, upon Customer's written notice
+Oracle will provide a replacement copy thereof, under Oracle's then-current
+Technical Support policies, for a media and shipping charge.
+
+TECHNICAL SUPPORT
+Annual Technical Support services ordered by Customer will be provided under
+Oracle's Technical Support policies and pricing in effect on the date Technical
+Support is ordered and shall be effective upon shipment (or upon Order Form
+Effective Date for products not requiring shipment); first year Technical
+Support is quoted above, if ordered. Fees for Technical Support are due and
+payable annually in advance.
+
+
+[**] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH
+THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO
+THE OMITTED PORTIONS.
+<PAGE>   6
+[ORACLE LOGO]                         QUOTE                      Quote #: 169722
+Page: 2 of 2
+Effective Date: 13-AUG-97
+
+Customer   GENERAL MAGIC CORPORATION
+
+
+Thank you for your interest in Oracle. If you have any questions please
+contact Steven Sovik, your Oracle Sales Representative, at (415) 506-7000.
+
+Customer and Oracle agree that the terms and pricing of this Quote shall
+not be disclosed without prior written consent of the other party.
+
+This Quote is valid through September 19, 1997 and shall become binding
+upon execution by Customer and acceptance by Oracle.
+
+This Quote includes the Price List Definitions attachment.
+
+<PAGE>   7
+Page 1 of 3
+
+ATTACHMENT
+to
+QUOTE #169722
+between
+GENERAL MAGIC CORPORATION
+and
+ORACLE CORPORATION
+
+Notwithstanding anything to the contrary on the Quote specified above, the
+following changes are made to this Order Form as of its Effective Date.
+
+1.   Delete the fourth sentence of the MISCELLANEOUS section and replace with
+the following:
+
+"Customer agrees to pay applicable sales/use tax and media charges."
+
+2.   CUSTOMER
+
+For purposes of this Order Form, Customer shall be defined as Customer and
+Customer's majority owned subsidiaries located in the U.S. as of the
+Effective Date. Before accessing the Programs, each subsidiary must agree
+in writing to be bound by the terms of the Agreement and this Order Form.
+
+3.   TECHNICAL SUPPORT CAP
+
+For up to 3 years from the end of the Technical Support period specified
+under this Order Form, Customer may acquire Silver Technical Support
+services for all the Programs licensed in the U.S. under this Order Form
+(except for licenses that are modified or are added to this Order Form
+after the Effective Date), for an annual fee not to increase each year by
+more than [**] of the Technical Support fee paid by Customer for similar
+Technical Support services in the preceding year (excluding any Support
+fee reduction issued for terminated licenses), provided Customer
+continuously maintains Technical Support services during such period.
+Thereafter, Customer may obtain annual Technical Support services from
+Oracle under Oracle's Technical Support fees and policies in effect when
+such services are ordered.
+
+4.   ADDITIONAL LICENSE INCREMENTS
+
+For 1 year from the Effective Date, provided Customer has continuously
+maintained Technical Support, Customer may increase the quantity of each
+applicable License Type accessing the Programs on the Order Form
+("Additional License Increment") by paying Oracle the additional license
+fee as specified below:
+
+<TABLE>
+<CAPTION>
+License Fee per
+License       each Additional
+Program                            License Type   License Level        Increment     License Increment
+<S>                                <C>            <C>                     <C>        <C>
+Oracle Server-Enterprise Edition   Processor      App. Spec. Deploy.       1         $[**]
+
+Parallel Server Option             Processor      App. Spec. Deploy.       1         $[**]
+
+Oracle Enterprise Manager          Processor      App. Spec. Deploy.       1         $[**]
+Performance Pack
+
+Oracle Interoffice                 Processor      Full Use                 1         $[**]
+Message Cartridge
+</TABLE>
+
+Each order placed for an Additional License Increment must be at least
+[**] in net license fees; applicable sales tax will be added to the
+fee. All applicable fees shall be due and payable on the date that
+Customer notifies Oracle in writing of its exercise of this option; Oracle
+has no shipment
+
+
+[**] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH
+THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO
+THE OMITTED PORTIONS.
+<PAGE>   8
+Page 2 of 3
+
+obligation. Upon election, this payment obligation is noncancellable, and
+the sum paid is nonrefundable. At the time of election, Customer may
+obtain Technical Support services from Oracle for Additional License
+Increment at Oracle's applicable Technical Support fees and policies in
+effect when such services are ordered.
+
+5.   ORDERING OPTION
+
+Customer may exercise options under this Order Form by providing
+Oracle with a Purchase Order which references: (i) the addition of such
+license to the Order Form; (ii) the Effective Date of the Order Form;
+(iii) the Program(s), License Level(s), Quantity, License Type(s); and
+(iv) the Designated System(s) types or CSI number.
+
+6.   ADDITIONAL PROGRAMS
+
+It is the current intention of the parties to negotiate license fees for
+the addition of future Programs to this Order Form if and when such
+Programs are available in production release for installation on the
+Designated Systems types and such Programs are listed on Oracle's U.S.
+Price List, provided Customer is current at such time on its Technical
+Support payments. Such future Programs are not currently available.
+Customer has not relied on potential availability in entering into the
+payment obligations in this Order Form. Oracle is under no obligation to
+change current availability.
+
+7.   USE OF ORACLE PROGRAMS BY THIRD PARTIES
+
+A.   Subscriber Use
+
+Customer shall have the non-exclusive, non-transferable right to allow
+subscribers to Customer's Personal Assistant Service which are based
+primarily in the United States ("Subscribers") to access and use the
+Oracle Programs acquired under this Order Form installed on Customer's
+Designated Systems for each such Subscriber's internal data processing use
+subject to the terms of this Section and the Agreement. If a Subscriber
+travels outside the United States, the Subscriber may access a Program(s),
+installed on Designated System(s) types in the U.S., subject to U.S.
+export laws and this Order Form.
+
+Subscriber's access to such Programs shall be available only in
+conjunction with the use of the Customer's Personal Assistant Service
+application program, and the Subscribers shall not use the Programs
+outside the scope of such application program. Each Subscriber under this
+Order Form shall have the right to access the Oracle Programs, either
+remotely through a modem or directly at the location of the applicable
+processor on which Customer has installed the applicable Programs. In no
+event shall Customer have the right to sublicense or distribute any
+Programs, except as set forth herein.
+
+B.   Agreement
+
+Customer shall ensure that the Subscribers' use of the Programs is in
+accordance with the terms of the Agreement. Customer agrees to defend and
+indemnify Oracle and hold Oracle harmless from all claims, losses,
+liabilities, and settlement costs resulting from any claims brought
+against or incurred by Oracle arising from any use of the Programs by
+Subscribers.
+
+C.   Technical Support
+
+Customer is responsible for providing all technical support, training and
+consultation to its Subscribers. Any questions from Customer's Subscribers
+will be referred by Oracle to Customer.
+
+D.   Usage
+
+Customer shall not grant Subscribers access to more Processors of the
+Programs than the maximum number of Processors of such Programs licensed
+under this Order Form.
+
+<PAGE>   9
+Page 3 of 3
+
+8.   HOT BACK-UP
+
+With respect to each of the Program licenses ordered under the Order Form,
+Customer shall have the right to install and use such Programs on a backup
+computer of the same make and model as the Designated System type for the
+purpose of temporary disaster recovery and testing. Customer shall have
+the right to maintain a "hot" or "live" copy of the Programs on such
+backup computer at all times for immediate production use only in the case
+of a primary computer malfunction that renders the Programs inoperable on
+the applicable Designated System type. At no time shall Customer have the
+right to use the Programs on the Designated System type and the backup
+computer simultaneously.
+
+9.   PAYMENT
+
+The Customer's payment obligations to Oracle under this Order Form as of
+the Effective Date shall be satisfied by Millennia Vision Corporation
+("Payor") as authorized pursuant to a distribution agreement executed
+between Payor and Oracle ("Payor Agreement"). Oracle shall receive
+payments directly from Payor under the terms of the Payor Agreement. This
+payment obligation is noncancellable and the sum paid is nonrefundable.
+The financial obligations of Customer to Payor shall be specified in a
+separate agreement. Licenses that are modified or added to this Order Form
+after the Effective Date shall be at terms and fees as determined when
+such licenses are acquired. Applicable sales tax shall be charged to Payor
+based on the point of delivery of the Master Copy and paid under the terms
+of the Payor Agreement. Payor is responsible for payment of any use or
+other tax arising from use of the Programs in any other location.
+
+
+
+Customer, Oracle and Payor agree that the terms in this Order Form shall not be
+disclosed without prior written consent of the other party. This quote is valid
+through October 3, 1997 and shall become binding upon execution by Customer and
+Payor and acceptance by Oracle.
+
+
+GENERAL MAGIC CORPORATION                    MILLENNIA VISION CORPORATION
+
+Signature: /s/ KEVIN SURACE                  Signature: /s/   AUSTIN ERLICH
+
+Name:  Kevin Surace                          Name:  Austin Erlich
+
+Title: Vice President & General Manager      Title: President
+Products - Network Solutions                -----------------------------
+
+ORACLE CORPORATION
+
+Signature: /s/ JOHN ROGERS
+
+Name:  John Rogers
+
+Title: MANAGER, SALES SUPPORT
+
+Effective Date: October 6, 1997
+
+
+
+<PAGE>   10
+
+[ORACLE LOGO]
+
+
+JULY 1, 1997 PRICE LIST DEFINITIONS
+
+"Concurrent Devices": the maximum number of input devices accessing the Programs
+at any given point in time. If multiplexing software or hardware (e.g., a TP
+Monitor, webserver product) is used, this number must be measured at the
+multiplexing front-end.
+
+"Named User" or "Developer": is defined as an individual who is authorized by
+Customer to use the Oracle Programs, regardless of whether the individual is
+actively using Programs at any given time.
+
+"Mailbox" is defined as a point from which to send or receive electronic mail.
+It is created when a user account or application is created in Oracle Office.
+
+"Computer": licensed for use on a single specified computer.
+
+"Processor": shall be defined as the actual number of processors installed in
+the licensed Computer and running the Oracle Programs, regardless of the number
+of processors which the Computer is capable of running.
+
+"Client": a computer which (1) is used by only one person at a time, and (2)
+executes Oracle software in local memory or stores the software on a local
+storage device.
+
+"Full Use Programs" are unaltered versions of the Programs with all functions
+intact.
+
+"Deployment Programs" may be used only to execute existing applications or
+reports. They may not be used to build or modify reports or applications.
+Deployment Programs are to be generated by Customer from Full Use Programs.
+
+"Application Specific Deployment Program(s)" are limited to use solely for the
+purpose of running the Customer Application designated on the Order Form, and
+may not be used to create or alter tables or reports except as necessary for
+operating the Customer Application. Customer Application shall be defined in
+the attached Order Form if applicable. Application Specific Deployment Programs
+are to be generated by Customer from Full Use Programs.
+
+- --Program: Full Use licenses of Programs marked with the symbol "[tilde]" also
+include an unlimited number of Deployment licenses for the Programs as
+specified in the Documentation.
+
+"Web Specific Program(s)" shall mean Program licenses which may only be accessed
+by Clients via Internet networking protocols. Notwithstanding any use
+restrictions in the Agreement or Oracle Program License Terms, Customer's
+applications may only allow third party web access to a licensed Web Specific
+Program for viewing, querying, or adding data only, so long as such use is in
+accordance with the other terms of the Agreement.
+
+For Oracle Human Resources, Oracle Payroll and Oracle Time Management the
+number of "Employees" is the number of active Customer employee records.
+
+For Oracle Personal Time and Expense, the number of "Employees" is the total
+number of people authorized to enter time and expense records.
+
+For Oracle Sales Compensation, the number of "Employees" is the total number of
+Customer's employees or agents whose compensation, in whatever form, is
+calculated or monitored using Oracle Sales Compensation.
+
+For Oracle Training Administration, the number of "Employees" is the total
+number of students receiving training courses supplied by the Customer.
+
+"Foundation Services": This is limited support, and any license for which it is
+purchased is not a Supported Program License.
+
+A "Training Unit" entitles Customer to acquire one day of instruction for one
+Customer employee at an Oracle Education Center in the U.S., exclusive of
+expenses. Eight Training Units may be used to acquire one day of instruction
+for up to 15 Customer employees, at a Customer site in the U.S., exclusive of
+expenses. Training Units are valid for one year from the Effective Date of the
+Order Form on which they are ordered.
+
+"Organizational Change Management Services" are services for assisting
+Customer's in managing change in their organizations. Customer's discounts for
+consulting or training do not apply to such Organization Change Management
+Services.
+
+A "Suite" consists of all of the functional software components described in
+the Documentation.
+
+

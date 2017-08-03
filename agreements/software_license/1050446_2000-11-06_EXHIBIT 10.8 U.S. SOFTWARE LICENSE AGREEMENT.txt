@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Software License Agreement
+
+This U.S. Software License  Agreement  (the  "Agreement")  is made and
+entered   into  by  and  between   MicroStrategy   Incorporated,   a  Delaware
+corporation  having its  principal  place of business at 8000 Towers  Crescent
+Drive, Vienna, VA 22182 ("MSTR"),  and Strategy.com  Incorporated,  a Delaware
+corporation  having its  principal  place of  business  at 1861  International
+drive, Vienna,  Virginia 22182 ("SDC"),  (each one individually a "Party" and,
+collectively,  the  "Parties").  The effective date of this Agreement shall be
+the date last signed below (the "Effective Date").
+
+WITNESSETH
+
+WHEREAS,  MicroStrategy Incorporated and certain of its subsidiaries desire
+to realign their worldwide corporate structure in accordance with their separate
+lines of business, the "Strategy.com Business" and the "MicroStrategy Business";
+and
+
+WHEREAS,  the entities now enter into various  agreements  and make certain
+mutual  promises as described in the "Agreement and Plan of  Reorganization"  by
+and  among  MicroStrategy  Incorporated,  MicroStrategy  International  Limited,
+MicroStrategy   International  II  Limited,   Strategy.com   Incorporated,   and
+Strategy.com  International  Limited dated October 17,  2000 to effectuate  this
+realignment and reorganization; and
+
+WHEREAS,   MSTR  has  developed   the  suite  of  software   known  as  the
+MicroStrategy  platform (as further defined below) and other technology  related
+to a  personalized  information  network.  SDC desires to acquire  rights in the
+MicroStrategy platform; and
+
+WHEREAS,  SDC is  currently  using the  MicroStrategy  platform  in certain
+existing projects which the Parties agree SDC should be permitted to continue.
+
+NOW,  THEREFORE,  in  consideration of the premises set forth above and the
+covenants set forth below,  and other  valuable  consideration,  the receipt and
+sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+AGREEMENT
+
+1.    Definitions
+
+As used in this Agreement,  capitalized terms will have the meanings set forth
+below.
+
+1.1 "Affiliate" means a company that provides Services to its customers via
+an affiliation with SDC and that has signed an affiliation agreement with SDC.
+
+1.2  "MicroStrategy  Platform" means all existing and future  MicroStrategy
+products that are made generally available  including,  without limitation,  the
+MicroStrategy  E-Business platforms known as MicroStrategy 6.0 and MicroStrategy
+7.0  (or any  derivative  works  thereof),  MicroStrategy  Intelligence  Server,
+MicroStrategy  Web  Server,   MicroStrategy   Broadcast  Server,   MicroStrategy
+Architect, MicroStrategy Administrator, MicroStrategy Agent, MicroStrategy
+1
+<PAGE>
+
+Web,   MicroStrategy    InfoCenter,  MicroStrategy   Transactor,   MicroStrategy
+Broadcaster,  MicroStrategy  Telecaster,  the MicroStrategy Software Development
+Kit (SDK) and the  MicroStrategy  eCRM 6  application.  The MSTR Products  shall
+include,  at no charge to SDC, all upgrades and bug fixes as are made  generally
+available through MicroStrategy technical support.
+
+1.3  "Intellectual  Property  (IP) Rights"  means all patents,  copyrights,
+trade names,  trademarks,  trade  secrets,  or any other  intellectual  property
+rights, whether registered or unregistered essential to undertake the activities
+licensed hereunder.
+
+1.4 "Services" means syndicated information services covering a broad range
+of content distributed to end users through a network of affiliates,  as well as
+offering  targeted  advertising  and  e-commerce  offers to consumers  through a
+network of affiliates or through a specific  affiliate and offering reporting on
+subscriber  information.  Services  may also mean the  provision  of  customized
+services to a specific affiliate using any combination of syndicated data and/or
+data  provided by the  affilate and the  information  is sent by SDC directly to
+consumers on behalf of the affiliate.  Services specifically exclude the ability
+of SDC to host applications  (e.g., eCRM applications and business  intelligence
+applications)  that analyze customer data that is unrelated to Subscription Data
+and that would essentially compete with MicroStrategy's  products and offerings.
+Subscription  Data is any information  about a subscriber that is collected as a
+part of delivering the Services.
+
+1.5 "Software"  means those certain  software modules that make up the MSTR
+Platform, and any related technical documentation.
+
+1.6  "Subsidiary"  means a  corporation  or  other  legal  entity:  (i) the
+majority of whose  shares or other  securities  entitled to vote for election of
+directors (or other managing  authority) is now or hereafter  controlled by such
+company either directly or indirectly;  or (ii) which does not have  outstanding
+publicly  traded  shares  or  securities  but the  majority  of whose  ownership
+interest representing the right to manage such corporation or other legal entity
+is now or hereafter  owned and  controlled  by such company  either  directly or
+indirectly;  but any such  corporation or the other legal entity shall be deemed
+to be a Subsidiary of such company only as long as such control or ownership and
+control exists.
+
+1.7   "Territory" shall mean the United States.
+
+2.    License Grants
+
+2.1  Object  Code  License.  Subject  to the terms and  conditions  of this
+Agreement,   MSTR  hereby  grants  to  SDC  a   nonexclusive,   nontransferable,
+royalty-free license, without right of sublicense except as set forth in Section
+2.3  below,   to  make,   use,   and  provide   access  to  the   Software   (in
+machine-executable  object  code form  only) only for use  within  SDC's  normal
+business  operations to support and operate the Services and for SDC's  internal
+business intelligence needs.
+
+2.2  Source  Code  License.  MSTR  hereby  grants  to  SDC a  nonexclusive,
+nontransferable,   perpetual,   and  royalty-free  license,   without  right  of
+sublicense,  to use the  Software in source  code form to develop  and  maintain
+derivative  works of the  Software  only for use within  SDC's  normal  business
+operations  to support and operate the Services in the  Territory.  MSTR further
+grants to SDC a nonexclusive, nontransferable, perpetual, worldwide
+
+2
+<PAGE>
+
+and  royalty-free  license,  without  right of  sublicense  to use and provide
+access to the  derivative  works of the  Software  to support  and operate the
+Services  in the  Territory.  Nothing  in this  Agreement  shall  give SDC any
+right to make the  source  code of the MSTR  platform  available  to any third
+party.
+
+2.3  License  Restrictions.  SDC shall  not  authorize  others  to  reverse
+compile,  reverse  engineer or otherwise  disassemble the Software or derivative
+works of the  Software.  SDC  agrees  to take no  actions  inconsistent  with or
+exceeding  the scope of the  license  grant set forth in  Sections  2.1 and 2.2.
+Specifically,  SDC shall not permit any third party access to the Source Code of
+the Software.  Except for the rights  expressly  granted in this Agreement,  all
+rights to the Software and any Intellectual Property Rights therein are reserved
+by MSTR.  When SDC makes the Software  available to a third party as part of the
+Services,  SDC must do so solely through a written sublicense agreement,  either
+in a written form or a "click-wrap" form ("End User License  Agreement"),  which
+shall be in the form provided by  MicroStrategy  or in a form prepared by SDC so
+long as such End User  License  Agreement  includes,  at a minimum,  contractual
+provisions at least as restrictive as the following, which:
+
+(a)   Disclaim  MicroStrategy's  liability  for  damages,  whether
+direct or indirect,  incidental or consequential,  arising from the use of the
+Software.
+(b)   Require end users to use a  commercially  reasonable  degree
+of care to protect the Confidential  Information of MicroStrategy and prohibit
+End  Users  from,   directly  or  indirectly,   (1)  using  any   Confidential
+Information of MicroStrategy  to create any computer  software program or user
+documentation which is substantially  similar to any Software, or (2) using or
+disclosing Confidential Information of MicroStrategy.
+(c)   The   End   User   License   Agreement   shall   not   cause
+MicroStrategy  to be liable for any taxes or  duties,  however  designated  or
+levied (including but not limited to sales, use and personal property).
+(d)   Notwithstanding  any provisions to the contrary contained in
+this  Agreement  and for the  avoidance of doubt,  SDC shall have the right to
+use and/or  sublicense  the  Software  solely for the purpose of  licensing or
+offering the Services as defined in the U.S. Software  Licensing  agreement to
+a third party that relicenses the Services for example an OEM relationship.
+
+MicroStrategy  reserves  the right to amend the minimum  required  contractual
+provisions  set forth in this Section upon ninety (90) days'  advance  written
+notice,  provided such amended provisions shall apply only to End User License
+Agreements  executed  by SDC  subsequent  to  the  expiration  of  the  ninety
+(90)-day notice period.
+
+2.4 Assignment and Transfer.  SDC may not assign this Agreement or transfer
+Software to an Affiliate without prior written consent of MicroStrategy.
+
+3
+<PAGE>
+
+2.5   Audit.
+
+(a)   Certification.   At  MicroStrategy's  written  request,  not
+more  frequently  than once per year, SDC shall furnish  MicroStrategy  with a
+signed  certification  verifying  that the Software is being used  pursuant to
+the provisions of this Agreement.
+
+(b)   Audit.  MicroStrategy  may, at its expense,  audit SDC's use
+of the Products.  Any such audit shall be conducted  during  regular  business
+hours at SDC's  facilities  and shall not  unreasonably  interfere  with SDC's
+business activities.
+
+
+3.    Ownership.
+
+3.1 Ownership. As between SDC and MSTR, SDC acknowledges that MSTR owns all
+right,  title  and  interest  in the  MSTR  Platform,  and to the  Software  and
+derivative works created pursuant to Section 2.2.
+
+3.2 Proprietary Rights Notices.  SDC shall not alter, obscure or remove any
+copyright  notices or any other proprietary  rights notices  incorporated in the
+Software delivered to SDC.
+
+
+4.    Confidentiality
+
+The parties  agree to treat all  confidential  information  exchanged by
+the parties as  confidential  as set forth in the U.S.  Mutual  Non-Disclosure
+Agreement in effect between the parties and  incorporated in this Agreement by
+reference.
+
+
+5.    Warranty
+
+5.1.  Limited  Exclusivity.  MSTR warrants that for a period of three years
+from the execution of this  Agreement it will not both grant a software  license
+and  provide  MSTR  consulting   services  pursuant  to  which  MSTR  builds  an
+application  for a customer that would allow the non-MSTR  controlled  entity to
+compete  directly  with  Strategy.com  as a provider of  syndicated  information
+services to a network of affiliates.  MSTR further warrants that for a period of
+three  years  from  the  execution  of this  Agreement,  it will  not  create  a
+syndicated  information service for distribution through a network of affiliates
+that competes directly with the Services.
+
+5.2.  Rights  Ownership.  MSTR warrants that it owns, free and clear of all
+liens or  encumbrances,  or has valid  licenses in the  Software and that it has
+full legal right to grant to SDC the licenses contained herein.
+
+5.3.  Disclaimer of Warranties.  MSTR offers no warranties other than those
+specifically set in this Section and to the extent permitted by law specifically
+disclaim  all others,  including  merchantability  and fitness for a  particular
+purpose.
+
+5.4. No  Additional  Warranties.  SDC shall make no warranties on behalf of
+MSTR and agrees to  indemnify  and hold MSTR  harmless  from any claims based on
+warranties given in violation of this Agreement.
+
+4
+<PAGE>
+
+6.  Indemnification
+
+6.1   Indemnification  of SDC.  MSTR  shall  defend and  indemnify  SDC,
+against and hold SDC harmless  from any and all claims that the  MicroStrategy
+Platform  infringes  a United  States  patent or  copyright  of a third  party
+provided  that SDC: (i) promptly  notifies  MSTR in writing of any such claim;
+(ii)  allows  MSTR  to have  sole  control  of the  defense  and  all  related
+settlement  negotiations;  and  (iii)  provides  MSTR  with  the  information,
+authority and assistance  necessary to perform MSTR's  obligations  under this
+Section.  In the event  the  MicroStrategy  Platform  is held or  believed  to
+infringe,  MSTR may,  at its sole  option:  (i)  obtain  for SDC a license  to
+continue using the MicroStrategy  Platform product, (ii) replace or modify the
+MicroStrategy   Platform  product  so  that  it  becomes  noninfringing  while
+retaining  substantially  similar  functionality;  or (iii) if neither (i) nor
+(ii) can be  reasonably  effected  by MSTR,  credit to SDC the prices paid for
+the MicroStrategy  Platform product during the twelve (12) months prior to the
+credit,  provided  that such  MicroStrategy  Platform  product are returned to
+MSTR  in an  undamaged  condition  and  all  licenses  to  such  MicroStrategy
+Platform product are terminated.
+
+6.2   Excluded  Claims.  Notwithstanding  Section 6.1 above,  MSTR shall
+not  be  liable  to  SDC  for  any  claim  arising  from  or  based  upon  the
+combination,  operation  or use of any  MicroStrategy  Platform  product  with
+equipment,  data  or  programming  not  supplied  by MSTR  (including  the SDC
+software and  services) or for other than an intended  purpose as set forth in
+the User Documentation,  or arising from any alteration or modification of the
+MicroStrategy  Platform  product,  if the claim would not have arisen  without
+such alteration or modification.
+
+6.3   Indemnification  of MSTR.  SDC shall  defend  and  indemnify  MSTR
+(including  paying all  reasonable  attorneys'  fees and costs of  litigation)
+against  and hold MSTR  harmless  from any and all  claims by any other  party
+resulting   from   SDC's   negligent   or   tortious   acts,    omissions   or
+misrepresentations  relating  to the  marketing,  sublicensing,  distribution,
+demonstration,  evaluation  or  use of the  MicroStrategy  Platform  products,
+regardless  of the form of action  provided that MSTR:  (i) promptly  notifies
+SDC in writing of any such claim;  (ii) allows SDC to have sole control of the
+defense and all related settlement  negotiations;  and (iii) provides SDC with
+the  information,   authority  and  assistance   necessary  to  perform  SDC's
+obligations under this Section.
+
+7.    Limitation of Liability
+
+EXCEPT FOR BREACHES OF SECTIONS 2 AND 4 HEREOF,  IN NO EVENT WILL EITHER
+PARTY BE  LIABLE TO THE OTHER FOR ANY  CONSEQUENTIAL,  INCIDENTAL  OR  SPECIAL
+DAMAGES,  INCLUDING WITHOUT LIMITATION ANY LOST PROFITS, LOST SAVINGS, LOSS OF
+COMPUTER  TIME,  DESTRUCTION  OR DAMAGE OF RECORDS,  WHETHER  SUCH CLAIM IS IN
+CONTRACT OR IN TORT,  EVEN IF SUCH PARTY HAS BEEN  ADVISED OF THE  POSSIBILITY
+OF SUCH DAMAGES.
+
+The provisions of this Agreement allocate the risks between  MicroStrategy and
+SDC.  MicroStrategy's  pricing  reflects  this  allocation  of  risk  and  the
+limitation of liability specified in this Agreement.
+
+5
+<PAGE>
+
+8.    Termination
+
+8.1  Termination.  The  Agreement  will  terminate  at  the  option  of the
+non-breaching  Party upon  thirty  (30) days  written  notice if the other Party
+breaches or defaults on any material  obligation  under this Agreement and fails
+to cure such breach or default during such 30-day period.
+
+8.2 Obligation Upon Termination.  Upon termination of this Agreement,  each
+Party shall  promptly  return to the other all  Confidential  Information of the
+other Party then in its possession.
+
+8.3 Survival. Sections 4, 5, 6, 8.3, and 9 shall survive any termination,
+expiration or cancellation of this Agreement.
+
+
+9.    Dispute Resolution
+
+9.1   General Provisions.
+
+(a)   If a dispute arises out of or relates to this Agreement,  or
+the breach,  termination or validity thereof,  the parties agree to submit the
+dispute to a sole  mediator  selected  by the  parties  or, at any time at the
+option  of a party,  to  mediation  by the  American  Arbitration  Association
+("AAA").  If not  thus  resolved,  it shall  be  referred  to a panel of three
+arbitrators  selected by the parties within thirty (30) days of the mediation,
+or in the  absence  of such  selection,  to AAA  arbitration  which  shall  be
+governed by the United  States  Arbitration  Act. The ruling of any such panel
+shall be binding.
+
+(b)   Any award made (i) shall be an award  affording  such remedy
+as is deemed  equitable,  just and  within the scope of this  Agreement;  (ii)
+shall be with  findings  as to issues  (including  but not  limited  to patent
+validity  and/or  infringement)  or a statement of the  reasoning on which the
+award  rests;  (iii)  may  in  appropriate  circumstances  include  injunctive
+relief;  (iv) shall be made within four (4) months of the  appointment  of the
+arbitrator; and (v) may be entered in any court.
+
+(c)   The requirement  for mediation and arbitration  shall not be
+deemed a waiver of any  right of  termination  under  this  Agreement  and the
+arbitrator  is now  empowered to act or make any award other than based solely
+on the rights and obligations of the parties prior to any such termination.
+
+(d)   The arbitrator shall determine  issues of arbitrability  but
+may not limit, expand or otherwise modify the terms of this Agreement.
+
+(e)   This Agreement  shall be interpreted in accordance  with the
+laws  of the  Commonwealth  of  Virginia  exclusive  of its  conflict  of laws
+provisions and the place of mediation and arbitration shall be Fairfax County.
+
+(f)   Each party shall bear its own expenses but those  related to
+the  compensation  and expenses of the mediator and arbitrator  shall be borne
+equally.
+
+6
+<PAGE>
+
+9.2 Relationship Between Parties. Nothing contained in this Agreement shall
+be construed as creating a joint  venture,  partnership,  agency,  or employment
+relationship  between the Parties, and neither Party will have the right to bind
+the other or incur any  obligation  on the  other's  behalf  without the other's
+prior written consent.
+
+9.3   Waiver.  The  failure  of  either  Party  to  exercise  any  right
+granted herein or to require any  performance of any term of this Agreement or
+the waiver by either Party of any breach of this Agreement,  shall not prevent
+a subsequent  exercise or enforcement of the term or be deemed a waiver of any
+subsequent breach of the same or any other term of this Agreement.
+
+9.4 Headings. The section headings appearing in this Agreement are inserted
+only as a  matter  of  convenience  and in no way  define,  limit,  construe  or
+describe  the scope or intent of any such  section  nor in any way  affect  this
+Agreement.
+
+9.5 Assignment.  Neither party may assign this Agreement  without the prior
+written  consent  of the  other  party.  Notwithstanding  the  foregoing  to the
+contrary,  either party may assign any of its rights or obligations hereunder to
+any one or more of its  Subsidiaries.  Each  party  acknowledges  that it  shall
+continue to be  obligated if and to the extent that a permitted  assignee  under
+this paragraph  fails to perform the  obligations  that such party has assigned.
+Any attempted assignment in violation of this paragraph without consent shall be
+null and void
+
+9.6 Export Control.  The Parties  acknowledge  that the distribution of the
+Software,  any derivative works thereof, and any technical data related thereto,
+is subject to the export control laws of the United States of America, including
+the U.S.  Bureau of Export  Administration  regulations,  as  amended,  and each
+hereby  agrees to obey any and all such laws.  The Parties agree not to take any
+actions  that would  cause  either  Party to violate  the U.S.  Foreign  Corrupt
+Practices Act of 1977, as amended.
+
+9.7   U.S. Government  Restricted Rights.  Products acquired with United
+States Federal  Government  funds or intended for use within or for any United
+States  federal  agency are provided  with  "LIMITED  RIGHTS" and  "RESTRICTED
+RIGHTS" as defined in DFARS 252.227-7013 and/or FAR 52.227-19.
+
+9.8 Entire  Agreement.  This  Agreement  and the exhibits  attached  hereto
+constitute  the  complete,  final and  exclusive  understanding  of the  Parties
+regarding the subject matter hereof and cancels and supersedes any and all prior
+negotiations,  correspondence,  understandings  and agreements,  whether oral or
+written, between the Parties respecting the subject matter thereof.
+
+In Witness  whereof,  the parties hereto have executed this Agreement as
+of the Effective Date.
+
+MicroStrategy Incorporated                Strategy.com Incorporated
+Signed: /s/Eric F. Brown                  Signed: /s/Eric F. Brown
+Name:   Eric F. Brown                     Name:   Eric F. Brown
+Title:  CFO                               Title:  CFO
+Dated:  10/17/2000                        Dated:  10/17/2000
+
+
+7
+<PAGE>
+

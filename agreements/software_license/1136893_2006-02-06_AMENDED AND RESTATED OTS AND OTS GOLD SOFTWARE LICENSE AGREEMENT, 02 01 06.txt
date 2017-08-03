@@ -1,0 +1,1988 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 99.20
+
+
+
+
+
+AMENDED AND RESTATED
+
+
+
+
+
+OTS AND OTS GOLD SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+This AMENDED AND RESTATED SOFTWARE LICENSE
+AGREEMENT (the “Agreement”) is dated as of February 1, 2006 (the “Effective
+Date”) and is made by and between ROCKY MOUNTAIN SUPPORT
+SERVICES, INC., an Arizona corporation (“RMSS”), and FIDELITY NATIONAL TAX SERVICE, INC., a California
+corporation (“Licensee”).
+
+
+
+
+
+WHEREAS, the parties previously entered into an OTS and OTS Gold
+Software License Agreement dated as of March 4, 2005 (the “Prior License
+Agreement”) with respect to the use of certain software and the provision of
+certain services, as more fully described herein; and
+
+
+
+
+
+WHEREAS, in
+connection with the consummation of the transactions contemplated by the
+Agreement and Plan of Merger dated as of September 14, 2005 (as amended, the “Certegy
+Merger Agreement”), among Certegy Inc. (“Certegy”), C Co Merger Sub, LLC (“Merger
+Co”), and Fidelity National Information Services, Inc. (“FNI Co”), including
+the effectiveness of the merger of FNI Co with and into Merger Co (the “Merger”)
+with Merger Co (which will thereafter be known as “Fidelity National
+Information Services, LLC”) as the surviving entity, the parties wish to amend
+and restate the Prior License Agreement in its entirety;
+
+
+
+
+
+NOW THEREFORE, in consideration of the premises, and of the
+representations, warranties, covenants and agreements set forth herein, and for
+other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged, the parties hereto agree as follows:
+
+
+
+
+
+1.             DEFINITIONS.
+
+
+
+
+
+As
+used in this Agreement:
+
+
+
+
+
+1.1.          “Assistance” shall mean installation, conversion
+planning, conversion, consulting assistance, workshops, training or education
+classes which may be performed by RMSS, or other functions mutually agreed to
+be “Assistance” by Licensee and RMSS.
+
+
+
+
+
+1.2.          “Competitor” shall mean a natural or legal person
+offering a product that competes with RMSS Software.
+
+
+
+
+
+1.3.           “Days” shall mean calendar days, unless
+otherwise specified.
+
+
+
+
+
+1.4.           “Documentation” shall mean RMSS’s standard operating
+instructions relating to the RMSS Software, consisting of one copy of the
+object code form of the RMSS Software; a copy of manuals consisting of
+instructions and procedures for systems and operations personnel and end users
+of RMSS Software, if any, and related documentation, if any. RMSS will deliver
+the Documentation to Licensee in paper
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+form, on CD ROM or electronically, at RMSS’s
+discretion (except that RMSS Software shall be delivered on machine readable
+media). Licensee acknowledges that not all items of Documentation are available
+in all forms of media. RMSS shall have the right to change the medium upon
+which the Documentation is delivered to Licensee without notice to Licensee.
+Upon electronic delivery of Documentation, any obligation of RMSS to deliver
+multiple numbers of copies of such Documentation to Licensee shall have no
+further force or effect.
+
+
+
+
+
+1.5.          “Escalation Procedures” shall mean the procedures set forth in Section
+10 of this Agreement.
+
+
+
+
+
+1.6.          “Installation Site” shall mean the location at which the RMSS
+Software is installed and which is owned or controlled by Licensee, or a
+Licensee contractor (who is not a Competitor and who has executed a nondisclosure
+agreement consistent with the terms of this Agreement) providing use of systems
+to Licensee, and which is located in the United States. The initial
+Installation Site address(es) is/are listed in Section 2 of
+Exhibit A.  Licensee may
+update the list of Installation Sites from time to time upon thirty (30) days
+prior written notice to RMSS.
+
+
+
+
+
+1.7.          “Licensee Server Software” shall mean those client-server based
+applications developed by RMSS that are set forth in Section 1.1 of
+Exhibit A hereto necessary to use of the RMSS Software.
+
+
+
+
+
+1.8.           “Modification” shall mean any customization,
+enhancement, modification or change made to the RMSS Software authored by or
+for RMSS under this Agreement.
+
+
+
+
+
+1.9.          “PC Software” shall mean those personal
+computer-based applications developed by RMSS that are set forth in
+Section 1.2 of Exhibit A.
+
+
+
+
+
+1.10.        “Proprietary Information” shall mean all information disclosed by
+or for Licensee or RMSS to the other during the negotiations hereof and/or
+learned by reason of the relationship established hereunder or pursuant hereto,
+including, without limitation, the RMSS Software, Documentation, Releases,
+Modifications and all information, data and designs related thereto.
+Information relating to each party’s business, plans, affiliates or customers
+shall also be deemed “Proprietary Information” for purposes of the Agreement. “Proprietary
+Information” shall also include all “non-public personal information” as
+defined in Title V of the Gramm-Leach-Bliley Act (15 U.S.C. Section 6801,
+et seq.) and the implementing regulations thereunder (collectively, the “GLB
+Act”), as the same may be amended from time to time, that RMSS receives from or
+at the direction of Licensee and that concerns any of Licensee’s “customers”
+and/or “consumers” (as defined in the GLB Act).
+
+
+
+
+
+1.11.        “Release” shall mean new versions, corrections,
+revisions, updates, modifications and enhancements to the RMSS Software and
+related Documentation made
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+available to Licensee or generally made available
+without charge to licensees of the RMSS Software not purchasing Maintenance
+from RMSS.
+
+
+
+
+
+1.12.        “RMSS Software” shall mean the object code and/or
+Source Code of any program or part of a program as described in Exhibit A
+licensed hereunder to Licensee but including in all events the products known
+between the parties as OTS and OTS Gold.
+
+
+
+
+
+1.13.        “Source Code” of RMSS Software shall
+mean a copy of the source code (or comparable high level coding) for the RMSS
+Software, including any annotations therein, certified by RMSS to Licensee,
+upon each prospective delivery to Licensee (if any), as a complete and accurate
+copy of source code corresponding to the RMSS Software as last delivered or
+otherwise made available in object code by RMSS (whether in pieces or in an
+integrated whole).
+
+
+
+
+
+1.14.         “Subsidiary” shall mean any majority-owned or
+otherwise controlled, direct or indirect subsidiary.
+
+
+
+
+
+2.             GRANT OF LICENSE.
+
+
+
+
+
+2.1.          Grant. Subject to Licensee’s full payment, as
+due, of fees listed in Exhibit B, RMSS hereby grants to Licensee, and
+Licensee accepts from RMSS, a world-wide nonexclusive, “AS IS”, perpetual,
+irrevocable right and license (except as otherwise provided for herein) to use,
+reproduce, modify, and create derivative works of the RMSS Software and
+Documentation at the Installation Site(s), subject to the restrictions and
+obligations set forth herein.
+
+
+
+
+
+2.2.          Delivery.
+Licensee acknowledges and agrees that it has received, prior to the
+Effective Date, delivery of the RMSS Software in Source Code form and the
+Documentation.
+
+
+
+
+
+3.             SOFTWARE USE RESTRICTIONS.
+
+
+
+
+
+3.1.          Restrictions on RMSS Software.
+
+
+
+
+
+(a)           Licensee may not use the RMSS Software in a
+service bureau or in a time share arrangement.
+
+
+
+
+
+(b)           Licensee may not sell, lease, assign,
+transfer, distribute or sublicense the RMSS Software or Documentation, to any
+party that is not a (direct or indirect) Subsidiary of Licensee. Licensee may
+not sell, lease, assign, transfer, distribute or sublicense the Source Code to
+any person or entity at any time, except that Licensee may sublicense the
+Source Code to a Subsidiary of Certegy, as necessary to exercise Licensee’s
+rights to modify and create derivative works of the RMSS Software and
+Documentation.
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)           Licensee may not provide copies of, or allow
+use of or access to, the RMSS Software to any person, firm, or corporation
+except as permitted under Sections 3.1(b) above, and except as to Licensee’s
+non-Competitor contractors or subcontractors who have executed nondisclosure
+terms consistent with the confidentiality terms herein.
+
+
+
+
+
+3.2.          Additional Restrictions on PC Software.
+
+
+
+
+
+(a)           Except as specifically set forth herein, all
+other restrictions on use, copying or disclosure of the RMSS Software and
+Licensee’s agreement to maintain the confidentiality thereof shall apply to the
+PC Software and its Documentation.
+
+
+
+
+
+(b)           Licensee may
+not modify the PC Software (although RMSS may do so on Licensee’s behalf as
+part of Assistance.)
+
+
+
+
+
+4.             TERM; TERMINATION
+
+
+
+
+
+4.1.          The term of license shall be perpetual
+subject to termination in accordance with the terms herein.
+
+
+
+
+
+4.2.          Licensee may terminate the license (for
+either or both of OTS or OTS Gold) for convenience upon no less than ninety
+(90) Days prior written notice to the other.
+
+
+
+
+
+4.3.          A license enjoyed by a Subsidiary of FNIS
+shall terminate without further formality upon such entity’s ceasing to be a
+Subsidiary of FNIS.  A license enjoyed by
+a Subsidiary of Licensee shall terminate without further formality upon the six
+month anniversary date after such entity’s ceasing to be a Subsidiary of
+Licensee.  Licensee shall cause such
+Subsidiary to agree to migrate its data off the RMSS Software and onto an
+alternative product during the above described six month period.  In any event, if the Subsidiary becomes a
+Subsidiary of a Competitor, the license to the Subsidiary shall terminate
+immediately.
+
+
+
+
+
+4.4.          In the event Licensee or a Licensee Subsidiary
+discloses any of the RMSS Software or any material part of the Documentation to
+a Competitor, then RMSS upon thirty Days prior written notice to Licensee, may
+terminate the license with respect to that portion relating to the RMSS
+Software and Documentation provided to such Competitor if Licensee on its own
+does not (or if Licensee does not cause its Subsidiary to) discontinue
+disclosure of the RMSS Software and Documentation to such Competitor within thirty
+Days following Licensee’s receipt of RMSS’ written notice.  Any such termination shall be effective upon
+the expiration of the cure period.  The foregoing
+is intended to apply only to the remedy of termination.  RMSS shall retain the right to pursue any
+other remedies in the event Licensee or its Subsidiary makes an unauthorized
+disclosure to a Competitor, including injunctive relief or recovery of damages,
+and, depending on
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the nature of the disclosure, requesting that
+Licensee undertake other measures in addition to simply discontinuing
+disclosure to the Competitor.
+
+
+
+
+
+4.5.          In the event of
+termination of the license for any reason, Licensee and/or its Subsidiary, as
+applicable, shall promptly cease all use of the relevant RMSS Software, delete
+from its systems all copies of the relevant RMSS Software, and within thirty
+(30) Days of termination, return to RMSS all tangible copies of the relevant
+RMSS Software, together with certification that is has ceased such use, deleted
+such copies and returned such tangible copies as required hereunder.
+
+
+
+
+
+4.6.          Each party
+acknowledges and agrees that, in the event of Licensee’s breach or threatened
+breach or any provision of Sections 3, 4.3, 4.4, 4.5 or 6, RMSS shall have no
+adequate remedy in damages and notwithstanding the dispute resolution
+provisions in Section 10 hereof, is entitled to seek an injunction to prevent
+such breach or threatened breach; provided, however, no specification of a
+particular legal or equitable remedy is to be construed as a waiver,
+prohibition, or limitation of any legal or equitable remedies in the event of a
+breach hereof.
+
+
+
+
+
+5.             INTELLECTUAL PROPERTY RIGHTS.
+
+
+
+
+
+5.1.          Ownership of RMSS Software and
+Documentation.  From the date the RMSS Software and
+Documentation is (and was) first disclosed to Licensee, and at all times
+thereafter, as between the parties, RMSS and its licensors shall be the sole
+and exclusive owners of all right, title, and interest in and to the RMSS
+Software, Documentation and all Modifications, including, without limitation,
+all intellectual property and other rights related thereto. The parties
+acknowledge that this Agreement in no way limits or restricts RMSS and the RMSS
+Subsidiaries from developing or marketing on their own or for any third party,
+in the United States or any other country, the RMSS Software, Documentation or
+Modifications, or any similar software (including, but not limited to, any
+modification, enhancement, interface, upgrade, change and all software, Source Code,
+blueprints, diagrams, flow charts, specifications, functional descriptions or
+training materials relating thereto) without payment of any compensation to
+Licensee, or any notice to Licensee.
+
+
+
+
+
+5.2.          Development Services.  Licensee may from time to time wish to augment the
+RMSS product with additional functionality or utility, or to integrate it with
+Licensee systems from other sources, and for such purposes may request the
+provision of development services, in the form of Assistance from RMSS.
+
+
+
+
+
+6.             CONFIDENTIALITY.
+
+
+
+
+
+6.1.          Confidentiality Obligation.  Proprietary Information (i) shall be deemed the
+property of the disclosing party (or the party for whom such data was collected
+or processed, if any), (ii) shall be used solely for the purposes of
+administering and otherwise implementing the terms of this Agreement and any
+ancillary agreements,
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and (iii) shall be protected by the receiving
+party in accordance with the terms of this Section 6.
+
+
+
+
+
+6.2.          Non-Disclosure Covenant.  Except as set forth in this Section, neither party
+shall disclose the Proprietary Information of the other party in whole or in
+part, including derivations, to any third party. If the parties agree to a
+specific nondisclosure period for a specific document, the disclosing party
+shall mark the document with that nondisclosure period. In the absence of a
+specific period, the duty of confidentiality for (a) RMSS Software, Source
+Code and related Documentation shall extend in perpetuity and (b) with
+respect to any other Proprietary Information shall extend for a period of five (5)
+years from disclosure. Proprietary Information shall be held in confidence by
+the receiving party and its employees, and shall be disclosed to only those of
+the receiving party’s employees and professional advisors who have a need for
+it in connection with the administration and implementation of this Agreement.
+In no event shall Licensee disclose RMSS Proprietary Information to a
+Competitor of RMSS. Each party shall use the same degree of care and afford the
+same protections to the Proprietary Information of the other party as it uses
+and affords to its own Proprietary Information.
+
+
+
+
+
+6.3.          Exceptions.  Proprietary Information shall not be deemed
+proprietary and, subject to the carve-out below, the receiving party shall have
+no obligation of nondisclosure with respect to any such information which:
+
+
+
+
+
+(i)            is or becomes
+publicly known through no wrongful act, fault or negligence of the receiving
+party;
+
+
+(ii)           was disclosed to the receiving party by a third party that was free of
+obligations of confidentiality to the party providing the information;
+
+
+(iii)          is approved for release by written authorization of the disclosing
+party;
+
+
+(iv)          was known to the receiving party prior to receipt of the information;
+
+
+(v)           was independently developed by the receiving party without access to or
+use of the Proprietary Information of the disclosing party; or
+
+
+(vi)          is publicly disclosed pursuant to a requirement or request of a
+governmental agency, or disclosure is required by operation of law.
+
+
+
+
+
+Notwithstanding application
+of any of the foregoing exceptions, in no event shall RMSS treat as other than Proprietary
+Information, information comprising nonpublic personal information under the
+GLB Act.
+
+
+
+
+
+6.4.          Confidentiality of this Agreement;
+Protective Arrangements.
+
+
+
+
+
+(a)           The parties acknowledge that this Agreement contains confidential
+information that may be considered proprietary by one or both of the parties,
+and agree to limit distribution of this Agreement to those employees of
+Licensee and RMSS with a need to know the contents of this Agreement or as
+required by law or national stock exchange rule. In no event may this
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreement be reproduced or copies shown to any third parties (except
+counsel, auditors and professional advisors) without the prior written consent
+of the other party, except as may be necessary by reason of legal, accounting,
+tax or regulatory requirements, in which event Licensee and RMSS agree to
+exercise reasonable diligence in limiting such disclosure to the minimum
+necessary under the particular circumstances.
+
+
+
+
+
+(b)           In addition, each party shall give notice to the other party of any
+demands to disclose or provide Proprietary Information of the other party under
+or pursuant to lawful process prior to disclosing or furnishing such
+Proprietary Information, and shall cooperate in seeking reasonable protective
+arrangements.
+
+
+
+
+
+7.             CONTINUING UNDERTAKINGS.
+
+
+
+
+
+RMSS has no affirmative
+duties to Licensee hereunder with respect to the RMSS Software and
+Documentation.  Licensee has elected not
+to contract for Maintenance Services relating to the Software hereunder and
+acknowledges that RMSS has no duty to offer same.
+
+
+
+
+
+8.             INVOICING AND PAYMENTS, PAST DUE AMOUNTS, CURRENCY.
+
+
+
+
+
+8.1.          Invoicing and Payment
+Requirements.  RMSS shall invoice, at each anniversary
+of the Effective Date, for the fees described in Exhibit B hereto as well
+as for any expenses and any other applicable charges incurred and owing
+hereunder. In accordance with this Section 8.1, Licensee shall pay RMSS the
+invoiced amount in full on or prior to the thirty (30) Days after Licensee’s
+receipt of such invoice unless Licensee notifies RMSS within such period that
+it is in good faith disputing RMSS’ invoice. Licensee shall make all payments
+to RMSS by check, credit card or wire transfer of immediately available funds
+to an account or accounts designated by RMSS. Payment in
+full shall not preclude later dispute of charges or adjustment of improper
+payments.
+
+
+
+
+
+8.2.          Past Due Amounts.  Any
+amount not received or disputed by Licensee by the date payment is due shall be
+subject to interest on the overdue balance at a rate equal to the prime rate as
+published in the table money rates in the Wall Street Journal on the date of
+payment (or the prior date on which the Wall Street Journal was published if
+not published on the date of payment), plus one percent from the due date,
+until paid, applied to the outstanding balance from time to time. Any amount
+paid but later deemed not to have been due, will be repaid or credited with
+interest on the same terms.
+
+
+
+
+
+8.3.          Currency.  All fees and charges listed and referred to in this
+Agreement are stated in and shall be paid in U.S. Dollars.
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.             ASSISTANCE.
+
+
+
+
+
+9.1.          Basis for Assistance.  If Licensee desires to purchase Assistance from RMSS
+or an RMSS Subsidiary, such Assistance shall be provided pursuant to separate
+agreement.
+
+
+
+
+
+10.          DISPUTE RESOLUTION.
+
+
+
+
+
+10.1.        Dispute Resolution Procedures.  If, prior to the termination of this Agreement or the
+license granted herein, and prior to notice of termination given by either
+party to the other, a dispute arises between RMSS and Licensee with respect to
+the terms and conditions of this Agreement, or any subject matter governed by
+this Agreement (other than disputes regarding a party’s compliance with the
+provisions of Sections 3 and/or 6), such dispute shall be settled as set forth
+in this Section 10. If either party exercises its right to initiate the dispute
+resolution procedures under this Section 10, then during such procedure any
+time periods providing for termination of the Agreement or curing any material
+breach pursuant to the terms of this Agreement shall be suspended
+automatically, except with respect to any termination or breach arising out of
+Licensee’s failure to make any undisputed timely and complete payments to RMSS
+under this Agreement. At such time as the dispute is resolved, if such dispute
+involved the payment of monies, interest at a rate equal to the prime rate as
+published in the table money rates in the Wall Street Journal on the date the
+dispute is resolved (or the prior date on which the Wall Street Journal was
+published if not published on the date the dispute was resolved) plus one
+percent for the period of dispute shall be paid to the party entitled to
+receive the disputed monies to compensate for the lapsed time between the date
+such disputed amount originally was to have been paid (or was paid) through the
+date monies are paid (or repaid) in settlement of the dispute. Disputes arising
+under Sections 3 or 6 may be resolved by judicial recourse or in any other manner
+agreed by the parties.
+
+
+
+
+
+10.2.        Escalation Procedures.
+
+
+
+
+
+(a)           Each of the
+parties shall escalate and negotiate, in good faith, any claim or dispute that
+has not been satisfactorily resolved between the parties at the level where the
+issue is discovered and has immediate impact (excluding issues of title to work
+product, which shall be initially addressed at the general counsel level but
+otherwise pursuant to Section 10.2(b) following). To this end, each party shall
+escalate any and all unresolved disputes or claims in accordance with this
+Section 10.2 at any time to persons responsible for the administration of the
+relationship reflected in this Agreement. The location, format, frequency,
+duration and conclusion of these elevated discussions shall be left to the
+discretion of the representatives involved. If such parties do not resolve the
+underlying dispute within ten (10) Days of its escalation to them, then either
+party may notify the other in writing that he/she desires to elevate the
+dispute or
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+claim to the President of RMSS and the President of Licensee or their
+designated representative(s) for resolution.
+
+
+
+
+
+(b)           Upon receipt by
+a party of a written notice escalating the dispute to the company president
+level, the President of RMSS and the President of Licensee or their designated
+representative(s) shall promptly communicate with his/her counter party,
+negotiate in good faith and use reasonable efforts to resolve such dispute or
+claim. The location, format, frequency, duration and conclusion of these
+elevated discussions shall be left to the discretion of the representatives
+involved. Upon agreement, such representatives may utilize other alternative
+dispute resolution procedures to assist in the negotiations. If the parties
+have not resolved the dispute within ten (10) Days after receipt of the notice
+elevating the dispute to this level, either may once again escalate the dispute
+to binding arbitration.
+
+
+
+
+
+(c)           All discussions
+and correspondence among the representatives for purposes of these negotiations
+shall be treated as Proprietary Information developed for purposes of
+settlement, exempt from discovery and production, which shall not be admissible
+in any subsequent proceedings between the parties. Documents identified in or
+provided with such communications, which are not prepared for purposes of the
+negotiations, are not so exempted and may, if otherwise admissible, be admitted
+in evidence in such subsequent proceeding.
+
+
+
+
+
+10.3.        Arbitration Procedures.  If a claim, controversy or dispute between the parties
+with respect to the terms and conditions of this Agreement, or any subject
+matter governed by this Agreement (and not otherwise excepted), has not been
+timely resolved pursuant to the foregoing escalation process, upon notice
+either party may initiate binding arbitration of the issue in accordance with
+the following procedures.
+
+
+
+
+
+(a)           Either party
+may request arbitration by giving the other party written notice to such
+effect, which notice shall describe, in reasonable detail, the nature of the
+dispute, controversy or claim. Such arbitration shall be governed by the then
+current version of the Commercial Arbitration Rules and Mediation Procedures of
+the American Arbitration Association. The Arbitration will be conducted in
+Jacksonville, Florida in front of one mutually agreed upon arbitrator.
+
+
+
+
+
+(b)           Each party
+shall bear its own fees, costs and expenses of the arbitration and its own
+legal expenses, attorneys’ fees and costs of all experts and witnesses. Unless
+the award provides otherwise, the fees and expenses of the arbitration
+procedures, including the fees of the arbitrator or arbitrators, will be shared
+equally by the involved parties.
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)           Any award rendered
+pursuant to such arbitration shall be final, conclusive and binding upon the
+parties, and any judgment thereon may be entered and enforced in any court of
+competent jurisdiction.
+
+
+
+
+
+11.          LIMITATION OF LIABILITY.
+
+
+
+
+
+11.1.        EXCEPT TO THE EXTENT ARISING FROM GROSS
+NEGLIGENCE, WILLFUL MISCONDUCT, BY REASON OF AN INDEMNITY OBLIGATION HEREUNDER
+OR BY REASON OF A BREACH OF WARRANTY, EITHER PARTY’S LIABILITY FOR ANY CLAIM OR
+CAUSE OF ACTION WHETHER BASED IN CONTRACT, TORT OR OTHERWISE WHICH ARISES UNDER
+OR IS RELATED TO THIS AGREEMENT SHALL BE LIMITED TO THE OTHER PARTY’S DIRECT
+OUT-OF-POCKET DAMAGES, ACTUALLY INCURRED, WHICH UNDER NO CIRCUMSTANCES SHALL
+EXCEED, IN THE AGGREGATE, THE AMOUNT PAID BY LICENSEE TO RMSS UNDER THIS
+AGREEMENT FOR THE 12-MONTH PERIOD IMMEDIATELY PRECEDING THE DATE THE CLAIM
+AROSE.
+
+
+
+
+
+11.2.        IN NO EVENT SHALL EITHER PARTY BE LIABLE
+FOR INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY
+KIND WHATSOEVER OR THE CLAIMS OR DEMANDS MADE BY ANY THIRD PARTIES, WHETHER OR
+NOT IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+
+
+11.3.        Licensee Software.  RMSS has no obligation or liability, either express or
+implied, with respect to the compatibility of RMSS Software with any other
+software unless provided or specified by RMSS including, but not limited to,
+Licensee software and/or Licensee-provided third party software.
+
+
+
+
+
+12.          INDEMNIFICATION.
+
+
+
+
+
+12.1.        Property Damage.  Subject to Section 11 hereof, each party agrees to
+indemnify, defend and hold harmless the other and its officers, directors,
+employees, and affiliates (including, where applicable, each RMSS Subsidiary and
+Licensee affiliates), and agents from any and all liabilities, losses, costs,
+damages and expenses (including reasonable attorneys’ fees) arising from or in
+connection with the damage, loss (including theft) or destruction of any real
+property or tangible personal property of the indemnified party resulting from
+the actions or inactions of any employee, agent or subcontractor of the
+indemnifying party insofar as such damage arises out of or is ancillary to
+fulfilling its obligations under this Agreement and to the extent such damage
+is due to any negligence, breach of statutory duty, omission or default of the
+indemnifying party, its employees, agents or subcontractors.
+
+
+12.2.        Infringement of RMSS
+Software.  RMSS agrees to defend at its own expense, any claim or action brought
+by any third party against Licensee and/or against its
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+officers, directors, and employees and affiliates, for
+actual or alleged infringement within the United States of any patent,
+copyright or other intellectual property right (including, but not limited to,
+misappropriation of trade secrets) based upon the RMSS Software (except to the
+extent such infringement claim is caused by a Licensee-specified Modification
+to the RMSS Software which could not have been made in a non-infringing manner)
+or caused by the combination of RMSS Software with software or hardware not
+provided, specified or approved by RMSS, or based upon the Third Party Software
+(“Indemnified RMSS Software”). Licensee, at its sole discretion and cost, may
+participate in the defense and all negotiations for its settlement or
+compromise. RMSS further agrees to indemnify and hold Licensee, its officers,
+directors, employees and affiliates harmless from and against any and all
+liabilities, losses, costs, damages, and expenses (including reasonable
+attorneys’ fees) associated with any such claim or action incurred by Licensee.
+RMSS shall conduct and control the defense of any such claim or action and
+negotiations for its settlement or compromise, by the payment of money. RMSS
+shall give Licensee, and Licensee shall give RMSS, as appropriate, prompt
+written notice of any written threat, warning or notice of any such claim or
+action against RMSS or Licensee, as appropriate, or any other user or any
+supplier of components of the Indemnified RMSS Software, which could have an
+adverse impact on Licensee’s use of same, provided RMSS or Licensee, as appropriate,
+knows of such claim or action. If in any such suit so defended, all or any part
+of the Indemnified RMSS Software (or any component thereof) is held to
+constitute an infringement or violation of any other party’s intellectual
+property rights and is enjoined, RMSS shall at its sole option take one or more
+of the following actions at no additional cost to Licensee: (i) procure
+the right to continue the use of the same without material interruption for
+Licensee; (ii) replace the same with non-infringing software;
+(iii) modify said Indemnified RMSS Software so as to be non-infringing; or
+(iv) take back the infringing Indemnified RMSS Software and credit
+Licensee with an amount equal to its prepaid but unused license fees hereunder.
+The foregoing represents the sole and exclusive remedy of Licensee for
+infringement or alleged infringement.
+
+
+
+
+
+12.3.        Dispute Resolution.  The provisions of Section12 shall apply with respect
+to the submission of any claim for indemnification under this Agreement and the
+resolution of any disputes relating to such claim.
+
+
+
+
+
+13.          FORCE MAJEURE, TIME OF PERFORMANCE AND INCREASED COSTS.
+
+
+
+
+
+13.1.        Force Majeure.
+
+
+
+
+
+(a)           Neither party
+shall be held liable for any delay or failure in performance of its obligations
+under this Agreement from any cause which with the observation of reasonable
+care, could not have been avoided — which may include, without limitation, acts
+of civil or military authority, government regulations, government agencies,
+epidemics, war, terrorist acts, riots,
+
+
+
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+insurrections, fires,
+explosions, earthquakes, nuclear accidents, floods, power blackouts affecting
+facilities (the “Affected Performance”).
+
+
+
+
+
+(b)           Upon the
+occurrence of a condition described in Section 13.1(a), the party whose
+performance is affected shall give written notice to the other party describing
+the Affected Performance, and the parties shall promptly confer, in good faith,
+to agree upon equitable, reasonable action to minimize the impact on both
+parties of such condition, including, without limitation, implementing disaster
+recovery procedures. The parties agree that the party whose performance is
+affected shall use commercially reasonable efforts to minimize the delay caused
+by the force majeure events and recommence the Affected Performance. If the
+delay caused by the force majeure event lasts for more than fifteen (15) Days,
+the parties shall negotiate an equitable amendment to this Agreement with
+respect to the Affected Performance. If the parties are unable to agree upon an
+equitable amendment within ten (10) Days after such fifteen (15)-Day period has
+expired, then either party shall be entitled to serve thirty (30) Days’ notice
+of termination on the other party with respect to only such Affected Performance.
+The remaining portion of the Agreement that does not involve the Affected
+Performance shall continue in full force and effect. RMSS shall be entitled to
+be paid for that portion of the Affected Performance which it completed through
+the termination date.
+
+
+
+
+
+13.2.        Time of Performance and Increased
+Costs.  RMSS’s time of performance under this Agreement shall
+be adjusted, if and to the extent reasonably necessary, in the event and to the
+extent that (i) Licensee fails to timely submit material data or materials
+in the prescribed form or in accordance with the requirements of this
+Agreement, (ii) Licensee fails to perform on a timely basis, the material
+functions or other responsibilities of Licensee described in this Agreement,
+(iii) Licensee or any governmental agency authorized to regulate or
+supervise Licensee makes any special request, which is affirmed by Licensee
+and/or compulsory on RMSS, which affects RMSS’s normal performance schedule, or
+(iv) Licensee has modified the RMSS Software in a manner affecting RMSS’s
+burden. In addition, if any of the above events occur, and such event results
+in an increased cost to RMSS, RMSS shall estimate such increased costs in
+writing in advance and, upon Licensee’s approval, Licensee shall be required to
+pay any and all such reasonable, increased costs to RMSS upon documented
+expenditure, up to 110% of the estimate.
+
+
+
+
+
+14.          NOTICES.
+
+
+
+
+
+14.1.        Notices.  Except as otherwise provided under this Agreement or
+in the Exhibits, all notices, demands or requests or other communications
+required or permitted to be given or delivered under this Agreement shall be in
+writing and shall be deemed to have been duly given when received by the
+designated recipient.
+
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Written notice may be delivered in person or sent via
+reputable air courier service and addressed as set forth below:
+
+
+
+
+
+
+If to Licensee:
+
+
+
+
+
+Fidelity National Tax
+Service, Inc.
+
+
+
+
+
+
+
+
+
+17911
+Von Karman Avenue, Suite 300
+
+
+
+
+
+
+
+
+
+Irvine,
+CA 92614
+
+
+
+
+
+
+
+
+
+Attn: President
+
+
+
+
+
+
+
+
+
+
+
+
+
+with a copy to:
+
+
+
+
+
+Fidelity National
+Information Services, Inc.
+
+
+
+
+
+
+
+
+
+601 Riverside Avenue
+
+
+
+
+
+
+
+
+
+Jacksonville, FL 32204
+
+
+
+
+
+
+
+
+
+Attn: General Counsel
+
+
+
+
+
+
+
+
+
+
+
+
+
+If to RMSS:
+
+
+
+
+
+Rocky Mountain Support
+Services, Inc.
+
+
+
+
+
+
+
+
+
+601 Riverside Avenue
+
+
+
+
+
+
+
+
+
+Jacksonville, FL 32204
+
+
+
+
+
+
+
+
+
+Attn: President
+
+
+
+
+
+
+
+
+
+
+
+
+
+with a copy to:
+
+
+
+
+
+Fidelity National
+Financial, Inc.
+
+
+
+
+
+
+
+
+
+601 Riverside Avenue
+
+
+
+
+
+
+
+
+
+Jacksonville, FL 32204
+
+
+
+
+
+
+
+
+
+Attn: General Counsel
+
+
+
+
+
+
+
+
+14.2.        Change of Address.  The address to which such notices, demands, requests,
+elections or other communications are to be given by either party may be
+changed by written notice given by such party to the other party pursuant to
+this Section.
+
+
+
+
+
+15.          WARRANTIES.
+
+
+
+
+
+15.1.        Performance of
+Obligations.  Each party represents and warrants to the other that it shall perform
+its respective obligations under this Agreement in a professional and
+workmanlike manner.
+
+
+
+
+
+15.2.        Compliance With Law.  RMSS warrants that (i) it
+has the power and corporate authority to enter into and perform this Agreement,
+(ii) its performance of this Agreement does not and will not violate any
+governmental law, regulation, rule or order, contract, charter or by-law; (iii)
+it has sufficient right, title and interest (or another Subsidiary of Fidelity
+National Financial, Inc. has or will grant it sufficient license rights) in the
+RMSS Software to grant the licenses herein granted, (iv) it has received no
+written notice of any third party claim or threat of a claim alleging that any
+part of the RMSS Software infringes the rights of any third party in any of the
+United States, and (v) each item of RMSS Software provided by or for RMSS to
+Licensee shall be delivered free of undisclosed trapdoors, Trojan horses, time
+bombs, time outs, spyware, viruses or other code which, with
+
+
+
+
+
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the passage of time, in the absence of action or upon
+a trigger, would interfere with the normal use of, or access to, any file,
+datum or system.
+
+
+
+
+
+15.3.        Exclusive Warranties.  EXCEPT AS PROVIDED IN THIS
+AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND,
+EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND EACH
+PARTY AGREES THAT ALL REPRESENTATIONS AND WARRANTIES THAT ARE NOT EXPRESSLY
+PROVIDED IN THIS AGREEMENT ARE HEREBY EXCLUDED AND DISCLAIMED.
+
+
+
+
+
+16.          MISCELLANEOUS.
+
+
+
+
+
+16.1.        Assignment.  Except as set forth herein, neither party
+may sell, assign, convey, or transfer the licenses granted hereunder or any of
+such party’s rights or interests, or delegate any of its obligations hereunder
+without the written consent of the other party, provided, however,
+that the parties hereby agree and acknowledge that, upon the consummation of
+the Merger, Merger Co and Certegy shall each be permitted assignees of Licensee.  Any
+assignment hereunder shall be conditioned upon the understanding that this
+Agreement shall be binding upon the assigning party’s successors and assigns.
+Either party may assign this Agreement to any Subsidiary that is not a
+Competitor except that the assigning party shall remain responsible for all
+obligations under this Agreement including the payment of fees. Notwithstanding
+anything contained herein to the contrary, Licensee may not assign this
+Agreement to a Competitor.
+
+
+
+
+
+16.2.        Severability.  Provided
+Licensee retains quiet enjoyment of the RMSS Software, if any one or more of
+the provisions contained herein shall for any reason be held to be
+unenforceable in any respect under law, such unenforceability shall not affect
+any other provision of this Agreement, but this Agreement shall be construed as
+if such unenforceable provision or provisions had never been contained herein,
+provided that the removal of such offending term or provision does not
+materially alter the burdens or benefits of either of the parties under this
+Agreement or any Exhibit or Schedule, in which case the unenforceable portion
+shall be replaced by one that reflects the parties original intent as closely
+as possible while remaining enforceable.
+
+
+
+
+
+16.3.        Third Party Beneficiaries.  Except as set forth herein, the provisions of this
+Agreement are for the benefit of the parties and not for any other person.
+Should any third party institute proceedings, this Agreement shall not provide
+any such person with any remedy, claim, liability, reimbursement, cause of
+action, or other right.
+
+
+
+
+
+16.4.        Governing Law; Forum Selection;
+Consent of Jurisdiction.  This Agreement will be governed by and
+construed under the laws of the State of Florida, USA,
+
+
+
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+without regard to principles of conflict of laws. The
+parties agree that the only circumstance in which disputes between them, not
+otherwise excepted from the resolution process described in Section 10, will
+not be subject to the provisions of Section 10 is where a party makes a good
+faith determination that a breach of the terms of this Agreement by the other
+party requires prompt and equitable relief. Each of the parties submits to the
+personal jurisdiction of any state or federal court sitting in Jacksonville,
+Florida with respect to such judicial proceedings. Each of the parties waives
+any defense of inconvenient forum to the maintenance of any action or
+proceeding so brought and waives any bond, surety or to other security that
+might be required of any party with respect thereto. Any party may make service
+on the other party by sending or delivering a copy of the process to the party
+to be served at the address set forth in Section 14 above. Nothing in this
+Section, however, shall affect the right of any party to serve legal process in
+any other manner permitted by law or in equity. Each party agrees that a final
+judgment in any action or proceeding so brought shall be conclusive and may be
+enforced by suit on the judgment or in any other manner provided by law or in
+equity.
+
+
+
+
+
+16.5.        Executed in Counterparts.  This Agreement may be executed in counterparts, each
+of which shall be an original, but such counterparts shall together constitute
+but one and the same document.
+
+
+
+
+
+16.6.        Construction.  The headings and numbering of sections in this
+Agreement are for convenience only and shall not be construed to define or
+limit any of the terms or affect the scope, meaning or interpretation of this
+Agreement or the particular section to which they relate. This Agreement and
+the provisions contained herein shall not be construed or interpreted for or
+against any party because that party drafted or caused its legal representative
+to draft any of its provisions.
+
+
+
+
+
+16.7.        Entire Agreement.  This Agreement, including the Exhibits and Schedules
+attached hereto and the agreements referenced herein constitute the entire
+agreement between the parties, and supersedes all prior oral or written
+agreements, representations, statements, negotiations, understandings,
+proposals, marketing brochures, correspondence and undertakings related
+thereto.  Without limiting the foregoing,
+the parties expressly acknowledge that this Agreement, together with the
+Exhibits and Schedules hereto, is intended to amend and restate the Prior
+License Agreement in its entirety, and upon the effectiveness of this
+Agreement, the Prior License Agreement shall be deemed to have been superseded
+and replaced in its entirety by this Agreement.
+
+
+
+
+
+16.8.        Amendments and Waivers.  This Agreement may be amended only by written
+agreement signed by duly authorized representatives of each party. No waiver of
+any provisions of this Agreement and no consent to any default under this
+Agreement shall be effective unless the same shall be in writing and signed by
+or on behalf of both parties. No course of dealing or failure of any party to
+strictly enforce any term, right or condition of this Agreement shall be
+construed as a
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+waiver of such term, right or condition. Waiver by
+either party of any default by the other party shall not be deemed a waiver of
+any other default.
+
+
+
+
+
+16.9.        Remedies Cumulative.  Unless otherwise provided for under this Agreement,
+all rights of termination or cancellation, or other remedies set forth in this
+Agreement, are cumulative and are not intended to be exclusive of other
+remedies to which the injured party may be entitled by law or equity in case of
+any breach or threatened breach by the other party of any provision in this
+Agreement. Use of one or more remedies shall not bar use of any other remedy
+for the purpose of enforcing any provision of this Agreement.
+
+
+
+
+
+16.10.      Taxes.  All charges and fees to be paid under this Agreement
+are exclusive of any applicable sales, use, service or similar tax which may be
+assessed currently or in the future on the RMSS Software or related services
+provided under this Agreement. If a sales, use, services or a similar tax is
+assessed on the RMSS Software or related services provided to Licensee under
+this Agreement, Licensee will pay directly, reimburse or indemnify RMSS for
+such taxes as well as any applicable interest and penalties. Licensee shall pay
+such taxes in addition to the sums otherwise due under this Agreement. RMSS
+shall, to the extent it is aware of taxes, itemize them on a proper VAT, GST or
+other invoice submitted pursuant to this Agreement. All property, employment
+and income taxes based on the assets, employees and net income, respectively,
+of RMSS shall be RMSS’s sole responsibility. The parties will cooperate with
+each other in determining the extent to which any tax is due and owing under
+the circumstances and shall provide and make available to each other any
+withholding certificates, information regarding the location of use of the RMSS
+Software or provision of the services or sale and any other exemption
+certificates or information reasonably requested by either party.
+
+
+
+
+
+16.11.      Press Releases. The parties shall consult with each other
+in preparing any press release, public announcement, news media response or
+other form of release of information concerning this Agreement or the
+transactions contemplated hereby that is intended to provide such information
+to the news media or the public (a “Press Release”). Neither party shall issue
+or cause the publication of any such Press Release without the prior written
+consent of the other party; except that nothing herein will prohibit either
+party from issuing or causing publication of any such Press Release to the
+extent that such action is required by applicable law or the rules of any
+national stock exchange applicable to such party or its affiliates, in which
+case the party wishing to make such disclosure will, if practicable under the
+circumstances, notify the other party of the proposed time of issuance of such
+Press Release and consult with and allow the other party reasonable time to
+comment on such Press Release in advance of its issuance.
+
+
+
+
+
+16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16.12.      Effectiveness.
+Notwithstanding the date hereof, this Agreement shall become effective
+as of the date and time that the Merger becomes effective pursuant to the terms
+of the Certegy Merger Agreement.
+
+
+
+
+
+IN
+WITNESS WHEREOF, the
+parties have executed this Agreement as of the Effective Date by their duly
+authorized representatives.
+
+
+
+
+
+
+
+
+
+
+
+
+FIDELITY
+NATIONAL TAX SERVICE, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+/s/ Michael L. Gravelle
+
+
+
+
+
+
+
+
+
+
+
+
+Michael L. Gravelle
+
+
+
+
+
+
+
+
+
+Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROCKY
+MOUNTAIN SUPPORT SERVICES, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+/s/ Raymond R. Quirk
+
+
+
+
+
+
+
+
+
+
+
+
+Raymond R. Quirk
+
+
+
+
+
+
+
+
+
+Chief Executive Officer
+
+
+
+
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+
+

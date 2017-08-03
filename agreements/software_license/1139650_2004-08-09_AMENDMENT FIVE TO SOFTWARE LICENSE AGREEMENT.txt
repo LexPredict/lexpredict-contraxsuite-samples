@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+Amendment Five to Software License Agreement
+
+
+
+EXHIBIT 10.7E
+
+AMENDMENT NUMBER FIVE
+TO SOFTWARE LICENSING AGREEMENT
+
+This
+Amendment Number Five to Software Licensing Agreement (the “Amendment”), dated June 9, 2004, (the “Effective Date”) amends the terms of the Software License Agreement dated April 26, 2002, as amended (the “Agreement”)
+between Altiris, Inc., a Delaware corporation having a principal place of business at 588 W. 400 South, Lindon, Utah 84042 (“Licensor”) and Dell Products L.P. (“Dell”). Unless specifically modified or changed herein, the terms
+and conditions of the Agreement shall remain in effect. In the event of a conflict or inconsistency between the terms and conditions contained in this Amendment and the Agreement, the terms and conditions contained in this Amendment shall prevail.
+
+
+Capitalized terms not specifically defined herein shall have the meanings set
+forth in the Agreement.
+
+
+1.	All capitalized terms which are not defined in this Amendment shall have the meaning as set forth in the Agreement.
+
+
+
+2.	Subsection 1.5 is deleted in its entirety and replaced with the following:
+
+
+“Licensor Application(s) shall mean and include all software products, Enabled Product(s), supporting documentation, and maintenance set forth
+in the Supplement and as updated from time to time on Licensor’s Dell Price List.”
+
+
+3.	Section 1 of the Agreement is amended by adding the following new definition:
+
+
+
+“1.22 Enabled Product(s) shall mean the Licensor software products or components that have been specifically designed by Licensor to
+integrate with Dell software tool kits for systems management, and designated on Licensor’s Dell Price List as Enabled Products.”
+
+
+4.	Section 3.2 shall be amended to include the following new subsection:
+
+
+“(g) Prices for Enabled Product(s). If Dell purchases directly from Licensor or from a mutually agreed upon licensed distributor of Licensor, the
+prices paid by Dell for Enabled Product(s) will be [*].
+
+
+5.	Sections 3.6 and 12.5 shall be deleted in their entirety.
+
+
+
+6.	Section 5.7 shall be deleted in its entirety and replaced with the following:
+
+
+
+“Support for Local Recovery Pro. With respect to Local Recovery Pro, Dell customers shall receive technical support, at no charge, by accessing
+the Licensor’s
+
+
+
+[*]	This provision is the subject of a Confidential Treatment Request.
+
+
+
+
+
+
+
+
+web-based “Technical Support Knowledge Base,” currently located at
+www.altiris.com/support. Should additional support be required or desired by a Dell customer, such customer may purchase Licensor’s “Incident Support Packs” either directly from Licensor or indirectly from Dell.”
+
+
+
+7.	Section 5.0 shall be amended to include the following new subsection:
+
+
+“5.8 During the term of this Agreement, Licensor shall, at Licensor’s expense, provide ongoing technical support, maintenance and support
+services for Enabled Product(s) that are server hardware related as set forth in Exhibit J, attached hereto. Should Licensor become aware of any reproducible errors or be notified by Dell of any errors in the Enabled Product(s), Licensor shall
+promptly take appropriate measures to correct such errors and provide corrections in accordance with the time frames set forth in Exhibit J. Licensor shall provide, at Licensor’s expense, assistance in correcting difficulties caused by errors,
+including, but not limited to, phone assistance for customers and Dell customer service staff. Dell will notify Licensor of any problems discovered with the Enabled Product(s). Such notification may be in writing or oral. Timely turnaround to
+software problem reports will be required. Problems must be fixed within the timeframes identified in Exhibit J.
+
+
+8.	The first two sentences of Section 6.3 (as amended) shall be replaced with the following:
+
+
+[*].
+
+
+9.	Section 9.1 shall be replaced in its entirety with the following:
+
+
+“Unless earlier terminated as provided below, the initial term of this Agreement shall be for six (6) years from the Effective Date of the Agreement
+and, unless either Party gives thirty (30) days notice of non-renewal prior to the end of the initial term, this Agreement shall automatically renew for successive one (1) year periods.”
+
+
+10.	The following sentence of Section 9.2 shall be deleted in its entirety:
+
+
+“Either Party may terminate this Agreement without cause upon 180 days prior written notice to the other Party.”
+
+
+
+Agreed and Accepted:
+DELL
+PRODUCTS, L.P.
+Agreed and Accepted:
+ALTIRIS,
+INC.
+
+
+By:	 	 /s/ Joseph J. Kanicki
+By:	 	 /s/ Rob Wellman
+
+
+Printed Name:	 	 Joseph J. Kanicki
+Printed Name:	 	 Rob Wellman
+
+
+Title:	 	 Senior Manager
+Title:	 	 VP Strategic Alliances
+
+
+Date:	 	 June 11, 2004
+Date:	 	 June 9, 2004
+
+
+
+
+
+Reviewed by Altiris Legal
+
+by:	 	EKG
+
+Date:	 	6/9/04
+
+
+
+
+
+[*]	This provision is the subject of a Confidential Treatment Request
+
+
+
+
+
+
+
+
+Exhibit J
+
+
+DELL SERVICE & SUPPORT SCHEDULE
+FOR ENABLED PRODUCTS
+
+Customer Entitlement to
+Altiris Technical Support
+
+Altiris provides support to its customers
+according to the support descriptions found in the current “Altiris Support Offerings” document. Refer to that document for current, detailed descriptions of the services offered.
+
+Altiris provides Online Support to all customers and potential customers using Altiris
+software. Online support includes a knowledge base and online support forum that contains many discussions about issues and solutions. Issues and solutions pertaining to the Altiris software and its operation on Dell hardware may be found and logged
+through Altiris Online Support.
+
+If customers would like to speak directly with
+an Altiris Support representative, or would like to communicate directly via email, a support contract with Altiris must be purchased. Altiris offers several fee-based support services from incident-based support to Premium 7x24 support, to Assigned
+or Dedicated Support Engineer service. Altiris screens all customer calls and emails to ensure that they have a support contract in place before Altiris provides on-to-one assistance per the contract.
+
+Dell sales personnel must be aware of the Altiris support policies and will sell the proper
+Altiris support contract based upon the needs of the customer. The customer will then be empowered to contact Altiris directly, or may choose to contact Dell directly if they feel that the issue is related to Dell hardware or software.
+
+
+Resolution of a Customer Case
+
+Dell and Altiris shall endeavor to respond to, and use commercially reasonable efforts to
+provide case remedies in a timely manner in accordance with the priority level identified in Table 1, and in accordance with that party’s support or maintenance agreement with such mutual customer. Dell will use every effort available to
+resolve issues involving Dell hardware and Altiris software.
+
+Customers with an
+issue involving Altiris products should direct their call to Altiris support per the details outlined in their support contract. Altiris will provide all levels of support and fulfillment for Altiris-manufactured products based upon the support
+agreement that the customer has in place.
+
+If a customer places an initial call
+to a Dell call center, the Dell representative will work with the customer to ensure that Dell product is not the root cause of the issue. Dell may engage Altiris (warm transfer) on the behalf of the Mutual Customer. Altiris will assist the customer
+as outlined in the then-current support agreement. Customers may be transferred to 801-805-2795 for technical support. An Altiris Customer Service Representative will answer the call and ensure that the customer’s support entitlement is
+verified and that the proper support technician is reached.
+
+In cases where the
+root cause of the issue has not been determined, Altiris and Dell will work cooperatively until the issue has been resolved, or the root cause of the issue has been determined to be generated by one of the manufacturer’s products.
+
+
+Partnership on Escalated Issues
+
+In certain cases the customer may lack a clear understanding whether the issue lies with
+Altiris or Dell. In cases such as these, Dell and Altiris will work jointly to resolve the issue.
+
+Qualified Experts
+
+In cases where
+Altiris and Dell are working together to resolve Severity 1 issues, both parties will provide real-time, qualified experts to work until resolution of the escalated issue has been met.
+
+
+
+
+
+
+
+A qualified expert for Dell is defined as a Level 2 or higher technical support representative. A qualified expert for
+Altiris is defined as a Product Specialist or higher support representative. The qualified experts from Dell and Altiris will work seamlessly on the phone until the Severity 1 issue has been resolved or a suitable alternative solution can be agreed
+upon. In critical situations involving lengthy, real-time escalations, Dell and Altiris will provide the proper transition from expert to expert. Dell and Altiris will ensure that there are no delays in resolving the Severity 1 customer issue by
+seamlessly moving new experts onto the call to provide proper issue transition to the new expert (up to two hours) before the original expert’s shift ends.
+
+
+Dell Service Contacts
+
+
+
+Name
+
+Role
+
+Phone
+
+Email
+
+
+[*]
+
+
+Engineering Contacts
+
+
+As a part of Severity 1 issue handling, Altiris will provide engineering
+contacts for Dell’s Global Product Support Engineering team. Dell will also provide engineering contacts to Altiris for issues that involve Dell products under the same guidelines (long term sustaining issues).
+
+Root Cause Analysis
+
+Requests from the customer for root cause analysis shall be completed within ten (10) business days (on average) by Dell and Altiris.
+
+
+Setting Severities
+
+Because of the critical nature of the products supported in this agreement, the customer
+will set the severity of the issue. Dell representatives will work with the customer to help the customer understand and set the appropriate severity level of the issue.
+
+Depending on the issue’s severity, Dell and Altiris will agree to move the escalated issues to the needed level.
+
+Dell and Altiris will communicate escalations using the following severity level definitions:
+
+
+
+
+[*]	This provision is the subject of a Confidential Treatment Request
+
+
+
+
+
+
+
+
+Table 1: Severity Definitions
+
+
+
+Dell Severity Level
+
+Altiris
+Severity
+Level
+
+Definition
+
+Time To
+Resolve
+(Average)
+
+
+Severity Level 1-A
+(Crit-Sit)
+ASAP	  	 Highest level of visibility
+Enterprise Solution (SAN) or high end server down
+Total loss or Major impact on revenue
+12 hours
+Severity Level 1
+High	  	 High visibility
+Server or high end server down (Single product down)
+Major impact on revenue
+12 hours
+Severity Level 2
+Medium-High	  	 Moderate visibility
+Server or high end server impaired (limited use)
+Moderate impact on revenue
+24 hours
+Severity Level 3
+Medium	  	 Low to medium visibility
+Server or high end server minimally impacted or in non production
+Low impact on revenue
+36 hours
+Severity Level 3
+Low	  	 Low to medium visibility
+Server or high end server minimally impacted or in non production
+Low impact on revenue
+48 hours
+
+
+Dell and Altiris will strive to meet
+the following response times for incidents:
+
+Table 2: Support Response Times
+
+
+
+
+SEV 1-A/ASAP
+
+SEV 1/High
+
+SEV 2/Medium-High
+
+SEV 3/Medium & Low
+
+
+Level 1 Support
+Response Time
+Escalation Time:
+Immediate
+10 Min
+Immediate
+15 Min
+Immediate
+2 hours
+Immediate
+1 bus day
+
+Level 2 Support
+Response Time:
+Escalation Time:
+10 Min
+1 Hr
+15 Min
+2-4 Hrs
+2 hours
+4-6 Hrs
+1 Business day
+1 Business day
+
+Engineering:
+Response Time:
+TTR Goal
+TTR Goal
+TTR Goal
+TTR Goal
+
+
+
+Time in Severity (TIS)
+
+
+Dell and Altiris will work towards a mutual Time In Severity (TIS) goal. TIS
+is Dell Enterprise Services’ key customer experience metric. TIS is defined as the duration the case spent in each pre-defined severity from the time the case was issued until the case is considered closed.
+
+The following algorithms and goals will be used to measure TIS:
+
+Table 3: TIS Algorithms
+
+
+
+Severity
+
+Calculation
+
+TIS Goal Average
+
+
+SEV 1-A	  	(Timestamp of close or severity change – Timestamp of Sev 1-A issued) – (Customer Time)	  	12
+SEV 1	  	(Timestamp of close or severity change – Timestamp of Sev 1 issued) – (Customer Time)	  	12
+SEV 2	  	(Timestamp of close or severity change – Timestamp of Sev 2 issued) – (Customer Time)	  	24
+SEV 3	  	(Timestamp of close or severity change – Timestamp of Sev 3 issued) – (Customer Time)	  	36
+
+
+
+
+
+
+
+
+Customer Time is defined as: Time the customer defers or requests Dell to monitor after resolution has been provided.
+(i.e. Customer issue has been resolved, but customer would like us to monitor the case for the next 2 weeks)
+
+On-Site Assistance
+
+If the need arises for on-site assistance, Dell will move experts on-site with a goal of 4 hours. Altiris will provide on-site assistance as outlined in the customer’s Altiris support contract. In Severity 1-A or
+Severity 1 cases, Altiris and Dell may mutually agree that an on-site visit is required, at which time the terms of that site visit will be discussed and agreed upon. Once Dell and Altiris agree that on-site assistance is necessary, representatives
+from both parties will agree on a reasonable time frame to move an Altiris expert onsite. In cases where Dell or Altiris does not have personnel within a 125 mile radius of the area, personnel will be flown in upon joint agreement that an on-site
+visit is warranted. Due to the critical nature of these escalations, Dell and Altiris will jointly determine the owner of the associated costs (if any) with the on-site visit after the incident is closed.
+
+Severity 1 and Severity 1-A Issues
+
+Altiris and Dell will provide 7x24 original ownership on all Sev 1-A and Sev 1 issues. Both
+Dell and Altiris will provide single points of contacts on all Severity 1-A and Severity 1 issues. Dell utilizes a Technical Account Manager as the single point of contact for areas involving severe escalations. Altiris utilizes a Support Manager as
+the single point of contact for issues involving severe escalations.
+
+Partner Escalation Manager
+
+Should any escalation or
+engagement procedures fail, Dell’s Partner Escalation Manager will engage Altiris representatives to jointly resolve any issues.
+
+Altiris Support Contacts
+
+The following persons are the designated Altiris support contacts for Dell.
+
+
+
+Role	  	Contact	  	Phone	  	Email
+Level 2 Support Manager	  	[*]
+Assigned Engineer Support Mgr.	  	[*]
+Director Americas Support	  	[*]
+
+
+Altiris/Dell Relationship
+Contacts
+
+
+
+Role	  	Contact	  	Phone	  	Email
+Director Americas Support	  	[*]
+Alliance	  	[*]
+
+
+
+
+[*]	This provision is the subject of a Confidential Treatment Request
+
+

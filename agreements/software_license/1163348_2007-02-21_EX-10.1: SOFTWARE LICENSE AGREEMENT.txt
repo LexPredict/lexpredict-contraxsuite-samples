@@ -1,0 +1,1178 @@
+
+
+
+
+
+
+
+EX-10.1
+
+
+
+
+
+
+
+
+
+Transatlantic Holdings, Inc.
+
+80 Pine Street
+
+New York, New York 10005
+
+
+
+
+TIRS LICENSE AMENDED AND RESTATED AGREEMENT COVER PAGE
+
+
+
+Allied World Assurance Company, Ltd (“Licensee”) has agreed to license the TIRS computer software
+from Transatlantic Holdings, Inc. (“THI”) on the terms and conditions set forth in this License
+Agreement.
+
+
+
+
+
+
+Customer Name
+
+Contact Information
+
+
+
+Allied World Assurance Company, Ltd
+
+Name: Mike Fullen
+
+
+Telephone: 441-278-5526 Fax No.
+
+
+Email Address: Mike.Fullen@awac.com
+
+
+Mailing Address: 29 Richmond Road,
+
+
+Pembroke HM 08, Bermuda
+
+
+
+Initial Term Start Date
+
+Initial Term End Date
+
+
+
+November 17, 2006
+
+November 17, 2009
+
+
+Subsequent to the Initial Term, this
+Agreement shall automatically renew
+for successive renewal terms of one
+(1) year each (Renewal Term) unless
+either party notifies the other of its
+desire not to renew prior to the
+expiration of the Initial Term or
+relevant Renewal Term.
+
+
+
+TIRS Software Version
+
+Maintenance and Upgrades
+
+
+
+TIRS Version 8.000
+
+THI will provide the upgrades and
+updates to the TIRS Software that are
+generally made available to licensees
+of the TIRS Software.
+
+
+
+Required Environment
+
+Training
+
+
+
+Unix server running Informix IDS (database
+server) version 9.x or higher and Windows NT,
+2000, or XP-based PC clients running Informix
+Connect version 9.x or higher.
+
+
+
+
+Initial Term License Fees
+
+Payment Due Date
+
+
+
+Year 1: $1,300,000
+
+December 15, 2006
+Year 2: $1,400,000
+
+October 17, 2007
+Year 3: $1,500,000
+
+October 17, 2008
+Total:  $4,200,000
+
+
+
+Total Fee paid upfront $3,900,000
+
+February 15, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/14/03
+
+
+
+
+Amended and Restated SOFTWARE LICENSE AGREEMENT
+
+TERMS AND CONDITIONS
+
+
+
+
+This Amended and Restated Software License Agreement Terms and Conditions (“Agreement”) is
+entered into as of November 17, 2006 (the “Effective Date”) by and between Transatlantic Holdings,
+Inc. (“THI”) and Allied World Assurance Company, Ltd (“Licensee”).
+
+
+
+
+1.	 	LICENSE GRANT
+
+1.1.	 	Subject to the terms and conditions set forth herein, THI hereby grants to
+Licensee, a worldwide, nontransferable, nonexclusive, nonassignable, limited license
+and right to access, use, copy (as expressly permitted herein), and modify THI’s The
+International Reinsurance Systems computer software product(s) (as identified on the
+Cover Page of this Agreement) together with all documentation and other materials
+accompanying such product(s) (together, the “TIRS Software”).
+
+1.2.	 	Neither this Agreement nor the TIRS Software may be sold, leased, assigned,
+sublicensed or otherwise transferred by Licensee, in whole or in part, unless otherwise
+agreed in writing by THI.
+
+2.	 	SCOPE
+
+2.1.	 	Licensee’s use of the TIRS Software shall be limited to use to process only
+Licensee’s own internal business. Licensee is authorized to make a reasonable number
+of copies of TIRS Software for the purposes of quality assurance, testing, backup and
+disaster recovery purposes. Licensee will keep records of each copy made, where such
+copy is located and the authorized user thereof. Such records will be available for
+inspection at any reasonable time by THI upon ten (10) days notice.
+
+2.2.	 	Licensee has the right to develop interfaces to the TIRS Software in
+conjunction with its use of the TIRS Software. Such Licensee-developed software
+interfaces will remain the intellectual property of Licensee or its vendors.
+
+3.	 	DELIVERY; INSTALLATION; SOURCE CODE ESCROW
+
+3.1.	 	The TIRS Software will be supplied as a run-time machine executable application
+on a date to be agreed between the parties. Source code for the TIRS Software is not
+licensed to Licensee, and will not be provided to Licensee unless otherwise agreed
+between the parties in writing.
+
+3.2.	 	Licensee is responsible for providing the following operating environment upon
+which the TIRS Software will run: a Unix server running Informix IDS (database server)
+version 9.x. or higher and Windows NT, 2000, or XP-based PC clients running Informix
+Connect version 9.x or higher. Licensee shall furnish and make
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 2 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+available its equipment and facilities as required for the installation, operation or
+maintenance of the TIRS Software, and take such action as may be necessary to ensure
+that the operating environment specified in this Section 3.2 is operable as of the
+agreed date of installation. Licensee is also responsible for obtaining all
+appropriate licenses, including all necessary licenses for the Informix software
+products, relating to the operating environment.
+
+3.3.	 	THI will use commercially reasonable efforts to assist Licensee to install and
+configure the TIRS Software, and, if necessary, the Informix server software product.
+
+3.4.	 	Within thirty (30) days after the Effective Date, THI shall enter into a source
+code escrow agreement (the “Source Code Escrow Agreement”) with a reputable escrow
+agent (the “Source Code Escrow Agent”) and make Licensee a beneficiary to the Source
+Code Escrow Agreement. In the event that the Source Code Escrow Agreement expires or
+is terminated, THI shall promptly notify Licensee thereof and THI agrees to immediately
+enter into a new escrow agreement on the same terms with another escrow agent, which
+shall be mutually agreed to by the parties. Upon making Licensee a beneficiary to
+the Source Code Escrow Agreement, THI will deposit with the Escrow Agent a documented
+copy of the source code form of the TIRS Software, a listing thereof, commentary,
+developer notes, libraries, tools, utilities and other related materials in a source
+code escrow account. If THI corrects any defects in the TIRS Software, or provides any
+new corrected releases, new versions, modifications or enhancements to the TIRS
+Software, THI shall simultaneously furnish the Escrow Agent with a corrected or revised
+copy of the source code form of the TIRS Software (the revised copies and the original
+copies, collectively, the “Escrowed Materials”). THI shall obtain the right in the
+Source Code Escrow Agreement for Licensee, as a beneficiary under the Source Code
+Escrow Agreement, to audit THI’s escrow account with the Source Code Escrow Agent in
+order to confirm that THI has complied with its obligations to comply its obligations
+to deposit all of the materials and documents required pursuant to this Section.
+
+3.5.	 	The Escrowed Materials will be released from escrow if THI becomes the subject
+of any voluntary or involuntary proceeding in bankruptcy, liquidation, dissolution,
+receivership, attachment or composition, or makes a general assignment for the benefit
+of creditors. Without any limitation of the rights granted to Licensee in Section 1 of
+this Agreement, THI hereby grants to Licensee, under any and all of THI’s intellectual
+property rights (both now and in the future), a perpetual, irrevocable, non-exclusive
+right and license to access, use, display and modify the Escrowed Materials (“Source
+Code License Rights”) solely for the purpose of supporting the TIRS Software; provided,
+that although the foregoing grant is effective as of the Effective Date, Licensee may
+exercise any such Source Code
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 3 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+License Rights only upon the occurrence of the release of the Escrowed Materials to
+Licensee pursuant to this Section.
+
+3.6	 	All rights and licenses granted under or pursuant to this Agreement by THI are,
+and shall otherwise be deemed to be, for purposes of Section 365(n) of the United
+States Bankruptcy Code (the “Code”), licenses to rights to “Intellectual Property” as
+defined under the Code. The parties agree that Licensee, as licensee of such rights
+under this Agreement shall retain and may fully exercise all of its rights and
+elections under the Code. The parties further agree that, in the event of the
+commencement of any bankruptcy proceeding by or against either party under the Code,
+either party shall be entitled to retain all of its rights under this Agreement.
+
+4.	 	TERM AND TERMINATION
+
+4.1.	 	Term of License. Subject to earlier termination as described in
+Section 4.2, and unless otherwise agreed in writing by the parties, this Agreement
+shall commence on the Initial Term Start Date set forth on the Cover Page, and shall
+continue until the Initial Term End Date set forth on the Cover Page (such period being
+referred to as the “Initial Term”). Thereafter, this Agreement shall automatically
+renew for successive renewal terms of one (1) year each (“Renewal Terms”), unless
+either party notifies the other of its desire not to renew at least ninety (90) days
+prior to the expiration of the Initial Term or Renewal Term then in effect.
+
+4.2.	 	Termination of License. This Agreement may be terminated prior to the
+expiration of the Initial Term or any subsequent Renewal Term as follows:
+
+
+
+
+
+
+a.	 	Either party may terminate this Agreement at any
+time upon thirty (30) days prior written notice to the other party if the
+other party has breached any of its material obligations and has not
+cured such default prior to the expiration of the thirty (30) day period.
+In addition, either party will have the right to terminate this
+Agreement upon thirty (30) days prior written notice if a Force Majeure
+Condition (as defined in Section 12.4) has prevented performance by the
+other party for more than one hundred twenty (120) consecutive days.
+
+b.	 	Either party may terminate this Agreement at any
+time upon thirty (30) days prior written notice to the other party if a
+court or other governmental entity issues an order that requires THI to
+materially alter the TIRS Software or otherwise materially restricts or
+limits THI’s ability to deliver or license the TIRS Software as it exists
+as of the Effective Date of this Agreement.
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 4 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c.	 	THI may terminate this Agreement at any time upon
+written notice to Licensee if any assignment is made by Licensee for the
+benefit of creditors, or if a receiver, trustee in bankruptcy or similar
+officer shall be appointed to take charge of any or all of Licensee’s
+property, or if Licensee files a voluntary petition under federal
+bankruptcy laws or similar state or foreign statutes or such a petition
+is filed against Licensee and is not dismissed within forty-five (45)
+days, or if Licensee liquidates or otherwise winds up its business for
+any reason.
+
+d.	 	THI may terminate this Agreement if a third party
+acquires Licensee, if Licensee merges with a third party, or if any
+entity that did not have a majority ownership interest in Licensee as of
+the Effective Date subsequently acquires a majority ownership interest in
+Licensee, by providing twelve months written notice to Licensee of such
+termination, following THI’s actual knowledge of such change in control
+of Licensee.
+
+
+
+
+
+
+4.3.	 	The parties agree that unauthorized use, disclosure or transfer of the TIRS
+Software may substantially diminish the value of such materials and irreparably harm
+THI, and therefore further agree that THI shall be entitled to injunctive and/or other
+equitable relief, in addition to other remedies afforded by law, to prevent or restrain
+a breach of this Agreement.
+
+4.4.	 	Upon any expiration or termination of this Agreement, Licensee shall
+immediately return to THI (or, at THI’s option, destroy and certify in writing to THI
+that it has destroyed) the original and all copies of the TIRS Software, including
+compilations, translations, partial copies, archival copies, upgrades, updates, release
+notes and training materials relating to the TIRS Software, and all security devices,
+if any, and media on which original copies of the TIRS Software are contained. If
+Licensee fails to return or destroy any such materials, it shall continue to pay all
+License Fees until such return or destruction, notwithstanding the termination of the
+License.
+
+5.	 	LICENSE FEES
+
+5.1.	 	Initial License Term. The Licensee shall pay THI the License Fee
+according to the schedule set forth on the Cover Page. Licensee’s failure to make such
+payments according to this schedule shall be considered a material breach of its
+obligations under this Agreement.
+
+5.2.	 	Renewal Terms. THI reserves the right to modify these terms and
+conditions by providing notice to Licensee of the new terms and conditions as provided
+herein. The terms and conditions for each Renewal Term, except for pricing, shall be
+the same as those contained in this Agreement unless Licensee is notified in writing of
+the proposed changes 90 days prior to the beginning of the pertinent Renewal Term. THI
+shall also notify Licensee 90 days prior to the beginning of the renewal term of
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 5 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the pricing for the Renewal Term. No later than sixty (60) days prior to the
+beginning of each Renewal Term, Licensee shall notify THI of its intent to renew or
+terminate this Agreement. If Licensee elects to renew, Licensee shall pay THI the
+entire renewal License Fee concurrently with its notice of election to renew.
+Licensee shall be obligated to pay the entire renewal License Fee for any Renewal
+Term that has commenced, regardless of the level of Licensee’s actual or expected use
+of the TIRS Software during such Renewal Term.
+
+5.3.	 	Payments Net. All payments, fees and other charges payable by Licensee
+to THI under this Agreement are net of all freight charges, taxes (including sales,
+value-added or use taxes), tariffs and other governmental charges, all of which shall
+be paid by Licensee. Licensee acknowledges that it is responsible for such
+governmental charges and that if THI is required to pay any such charges based on the
+TIRS Software, services or other items provided to Licensee, then such charges, but not
+any penalties or interest, shall be billed to and paid by Licensee. Licensee shall
+obtain and provide to THI any certificate of exemption or similar document required to
+exempt any transaction under this Agreement from sales tax, use tax or other tax
+liability.
+
+5.4.	 	Payment Terms. All payments shall be made in U.S. Dollars.
+
+5.5.	 	Effect of Early Termination. In the event that this License Agreement
+is terminated pursuant to Section 4.2, THI shall refund to Licensee the applicable
+License Fee, as pro-rated over the Initial Term or any applicable subsequent Renewal
+Term.
+
+6.	 	PROPRIETARY INFORMATION
+
+6.1.	 	THI shall have sole and exclusive ownership of all right, title and interest in
+and to the TIRS Software and all modifications, updates, upgrades and enhancements
+thereto (including ownership of all trade secrets, copyrights, trademarks, service
+marks, and patentable inventions pertaining thereto), subject only to the rights and
+privileges expressly granted to you herein by THI. This Agreement does not provide
+Licensee with title or ownership of the TIRS Software, but only a right of limited use
+as provided herein. Licensee shall keep the licensed TIRS Software free and clear of
+all claims, liens, and encumbrances.
+
+6.2.	 	This Agreement shall not be construed as an encumbrance or limitation of any
+kind on THI’s right to develop or modify the TIRS Software in any way. In addition,
+this Agreement shall not be construed as an encumbrance or limitation of any kind on
+THI’s right to transfer ownership of the TIRS Software or to license or sublicense the
+TIRS Software to any party, provided that the rights granted to Licensee in this
+Agreement shall remain in effect for the Initial Term and any subsequent Renewal Term.
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 6 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.3.	 	Licensee understands and agrees that THI considers the TIRS Software, Third
+Party Software (as defined in Section 8.1), associated documentation, and all
+modifications, updates, upgrades and enhancements thereto (including ownership of all
+trade secrets, copyrights, trademarks, service marks, and patentable inventions
+pertaining thereto this Agreement (collectively “THI Confidential Information”), as
+between THI and Licensee, to be the proprietary and confidential information of THI.
+Licensee agrees to maintain the THI Confidential Information in confidence and, except
+for the right of Licensee to make copies of the TIRS Software for the purposes
+authorized in Section 2.1 above, Licensee agrees not to disclose, duplicate or
+otherwise reproduce, directly or indirectly, the THI Confidential Information in whole
+or in part. Licensee may disclose THI Confidential Information to consultants retained
+by Licensee to the extent reasonably necessary solely for such consultants to assist
+Licensee in the permitted use of the TIRS Software and provided Licensee obligates such
+consultant to protect the confidentiality of the THI Confidential Information as
+contained herein.
+
+6.4.	 	Licensee agrees that neither it nor anyone acting on its behalf, including
+Licensee’s officers, directors, employees, agents, or any person or party acting at the
+request of Licensee, shall disassemble, reverse engineer, or reverse compile the TIRS
+Software in whole or in part. Licensee agrees to take reasonable steps to ensure that
+no unauthorized persons shall have access to the THI Confidential Information and that
+all authorized persons having access to the THI Confidential Information shall refrain
+from any such disclosure, duplication or reproduction. Licensee agrees not to remove
+any copyright notice or other proprietary markings from the THI Confidential
+Information, and any copy thereof made by Licensee for backup purposes shall contain
+the same copyright notice and proprietary markings contained on the copy of the TIRS
+Software furnished by THI to Licensee hereunder.
+
+6.5.	 	If the THI Confidential Information will be provided or made available to the
+U.S. Government, any use, duplication, or disclosure by the U.S. Government of the THI
+Confidential Information shall be subject to the restrictions applicable to proprietary
+commercial computer software set forth in subparagraph (c)(1)(ii) of the Rights in
+Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs
+(c)(1) and (2) of the Commercial Computer Software — Restricted Rights clause at 48 CFR
+52.227-19, as applicable.
+
+6.6.	 	During its performance of this Agreement, THI may be supplied with or have
+access to written, tangible, oral or visual “Licensee Confidential Information,” as
+defined below. THI shall maintain the Licensee Confidential Information in confidence,
+in a manner no less restrictive than it would use to maintain its own confidential
+information (in no case using less than a reasonable duty of care), and use Licensee
+Confidential Information solely for the purpose of THI performing its obligations under
+this Agreement and shall obligate its employees and permitted subcontractors to make no
+other use of such Licensee Confidential Information. THI and its
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 7 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+employees and permitted subcontractors shall not disclose such Licensee Confidential
+Information to any third party, without Licensee’s express written consent. “Licensee
+Confidential Information” shall mean all information concerning Licensee’s business
+affairs, property, methods of operation, processing systems or other information, in
+tangible, oral or visual information received by THI while on the premises of
+Licensee, or otherwise, and which THI personnel are likely to recognize as
+information which Licensee considers to be confidential and which Licensee takes
+reasonable precautions to protect from unauthorized use or disclosure.
+
+6.7.	 	Each party acknowledges that its failure to comply with the provisions of this
+Section 6 may result in irreparable harm to the other for which a remedy at law may be
+inadequate, and therefore, in the event of breach or threatened breach by the recipient
+of information protected by this Section, the other party shall be entitled to seek
+equitable relief in the form of specific performance and/or an injunction for any such
+actual or threatened breach, in addition to the exercise of any other remedies at law
+and in equity.
+
+6.8.	 	The confidentiality obligations in this Section shall not apply to information
+disclosed hereunder which:
+
+
+
+
+
+
+a.	 	was previously known to recipient;
+
+b.	 	is or becomes generally available to the public
+through no fault of the recipient;
+
+c.	 	is developed by or on behalf of the recipient
+independent of any information furnished under this Agreement; or
+
+d.	 	is received by recipient from a third party as a
+matter of right.
+
+
+
+
+
+
+Provided, however, if THI, with respect to Licensee Confidential Information, or
+Licensee, with respect to THI Confidential Information, is required to disclose such
+information by law or by any governmental agency having jurisdiction pursuant to an
+order to produce or in the course of a legal proceeding pursuant to a lawful request
+for discovery, then, THI or Licensee, as applicable, shall utilize reasonable efforts
+to promptly notify the other of the order or request in discovery and reasonably
+cooperate with Licensee or THI, as applicable, if the other elects (at its expense)
+to seek to limit or avoid such disclosure by any lawful means.
+
+6.9.	 	Licensee agrees that the TIRS Software is the intellectual property of THI.
+Licensee agrees not to directly or indirectly, register, apply for registration or
+attempt to acquire any legal protection for any of the TIRS Software or any proprietary
+rights therein.
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 8 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.10.	 	Licensee agrees to utilize reasonable efforts to notify THI immediately and in
+writing of all circumstances surrounding the unauthorized possession or use of the TIRS
+Software and associated documentation by any person or entity of which Licensee may
+become aware. Licensee agrees to cooperate with THI in any litigation relating to or
+arising from such unauthorized possession or use.
+
+6.11.	 	Notwithstanding any other provision of this Agreement, the obligations set
+forth in this Section 6 will survive the termination of this Agreement for any reason.
+However, the confidentiality obligations set forth in this Section 6 will terminate 5
+years after the expiration or termination of this Agreement.
+
+7.	 	WARRANTIES
+
+7.1.	 	THI warrants that for a period of ninety (90) days from the date of
+installation, the TIRS Software, when properly used, will operate substantially in
+accordance with the specifications contained in its documentation. THI’s entire
+liability and Licensee’s exclusive remedy under this warranty shall be that THI will
+use reasonable commercial efforts to correct, provide a workaround for, or replace
+malfunctions in the TIRS Software, at THI’s cost and expense, provided that written
+notice itemizing the malfunctions is given to THI during the warranty period.
+
+7.2.	 	The warranty set forth above shall not apply to the degree that the malfunction
+occurs because (a) the affected TIRS Software has not been used in accordance with the
+TIRS documentation; (b) the affected TIRS Software has been altered, modified or
+converted by Licensee without the prior written approval of THI; and (c) of the
+malfunctioning of Licensee’s hardware or software. THI shall not be required to respond
+to a warranty claim hereunder to the extent that Licensee has not timely paid amounts
+due and owing to THI under this Agreement. THI does not warrant that TIRS Software will
+operate uninterrupted or error free, that the functions contained in the TIRS Software
+will operate in combination with other software or hardware selected by Licensee, or
+that the TIRS Software will meet Licensee’s requirements.
+
+7.3.	 	THI does not warrant that TIRS Software will operate in the event of any Force
+Majeure Condition (as defined in Section 12.4). Licensee is solely responsible for
+establishing its own disaster recovery plan.
+
+7.4.	 	EXCEPT FOR THE REPRESENTATIONS AND WARRANTIES SET FORTH ABOVE, THE TIRS
+SOFTWARE (INCLUDING ANY MODULES OR COMPONENTS LICENSED BY THI AND PROVIDED WITH THE
+TIRS SOFTWARE) IS BEING PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. THE PARTIES
+DISCLAIM ANY OTHER REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, ORAL OR
+WRITTEN, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 9 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TITLE OR NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+ACCURACY, INTEGRATION, VALIDITY, EXCLUSIVITY, MERCHANTABILITY, NON-INTERFERENCE WITH
+ENJOYMENT, FITNESS FOR ANY PARTICULAR PURPOSE, AND ALL WARRANTIES IMPLIED FROM ANY
+COURSE OF DEALING OR USAGE OF TRADE.
+
+7.5.	 	THE WARRANTIES SET FORTH IN THIS SECTION 7 ARE EXPRESSLY SUBJECT TO THE
+LIMITATIONS OF SECTION 11 (LIMITATION OF LIABILITY).
+
+8.	 	THIRD PARTY SOFTWARE
+
+8.1.	 	The TIRS Software incorporates program elements and/or databases licensed from
+Actuate Corporation (“Actuate”) and Saperion Incorporated (“Saperion”). such software
+is referred to as “Third Party Software”, title to which is retained by Actuate and
+Saperion.
+
+8.2.	 	THIRD PARTY SOFTWARE, PROGRAM ELEMENTS AND DATA ARE PROVIDED “AS IS.” THI DOES
+NOT WARRANT, GUARANTEE OR MAKE ANY REPRESENTATIONS REGARDING THE USE, OR RESULTS OF
+USE, OF THE THIRD PARTY SOFTWARE, INCLUDING PROGRAM ELEMENTS AND/OR DATABASES IN THE
+THIRD PARTY SOFTWARE, OR RELATED MATERIALS IN TERMS OF CORRECTNESS, ACCURACY,
+RELIABILITY, CURRENTNESS OR OTHERWISE. THI ASSUMES NO RISK AS TO PERFORMANCE AND
+RESULTS OF THE THIRD PARTY SOFTWARE.
+
+8.3.	 	THI SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL
+DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF
+BUSINESS INFORMATION AND THE LIKE) ARISING OUT OF THE USE, MISUSE, OR INABILITY TO USE
+THE THIRD PARTY SOFTWARE, PROGRAM ELEMENTS OR DATA SUPPLIED BY ACTUATE OR SAPERION EVEN
+IF THI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.	 	SOFTWARE SUPPORT
+
+9.1.	 	Support and Upgrades to the TIRS Software. Provided Licensee has paid
+the License Fees set forth in the Cover Page during the Initial Term and any subsequent
+Renewal Term, Licensee shall receive (i) reasonable telephone technical consultation
+during THI’s normal business hours with THI’s technical support staff on the use of the
+TIRS Software, and (ii) all upgrades and updates to the TIRS Software that are
+generally made available to licensees of the TIRS Software.
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 10 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Licensee agrees to install new versions and releases of the TIRS Software. Licensee
+further agrees and acknowledges that THI will maintain and support old versions of
+TIRS for a period of one (1) year from the date that Licensee is notified that a new
+version or release is available for installation. THI will provide best effort in
+responding to Licensee requests.
+
+9.2.	 	Training. During the Initial Term and any Renewal Term of this
+Agreement, additional training can be purchased from THI at THI’s then-prevailing rates
+for training. For purposes of example, as of the Effective Date, THI’s rate for
+training is as follows: $1500.00 per training day (6 hours) plus the addition of all
+travel related expenses including airfare, meals, and lodging.
+
+9.3.	 	Access to Premises. Licensee shall grant to THI such access to
+Licensee’s equipment and facilities, and to the TIRS Software installed on Licensee’s
+equipment, as may be necessary or appropriate for THI to perform its obligations under
+this Agreement.
+
+9.4.	 	Licensee Requested Customizations. Licensee may request a custom
+modification or addition to the TIRS Software exhibiting functionality that is beyond
+the scope of the TIRS Software as of the date of such request (“Customization”). THI,
+in its sole discretion, may agree to implement such Customization on terms and
+conditions that are mutually acceptable to THI and Licensee, and unless otherwise
+agreed between THI and Licensee, THI shall own the Customization and may make it
+available to any other party as THI may determine in its sole discretion.
+
+9.5.	 	Development of TIRS Software. THI agrees that Licensee may submit
+recommendations to the TIRS roadmap committee, which is the decision-making body that
+determines the future enhancements and releases of the TIRS Software.
+
+10.	 	THI INDEMNIFICATION
+
+10.1.	 	THI shall indemnify, defend, and hold Licensee and its officers, directors
+harmless from any action against Licensee to the extent that it is based on an
+allegation that the TIRS software and Third Party Software licensed hereunder has
+infringed an intellectual property right or trade secret, and pay those damages or
+costs related to the settlement of such action or finally awarded against Licensee in
+such action, including but not limited to attorneys’ fees, provided that licensee (i)
+promptly notifies THI of any such action, (ii) gives THI full authority, information
+and assistance to defend such claim and (iii) gives THI sole control of the defense of
+such claim and all negotiations for the compromise or settlement thereof.
+
+10.2.	 	THI shall have no liability hereunder with respect to any claim based upon (a)
+TIRS Software of the Third Party Software that has been materially modified by anyone
+other than THI; (b) use of other than the then-current release of the TIRS Software
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 11 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or the Third Party Software, if infringement could have been avoided by use of the
+then-current release and such current release has been made available to Licensee;
+(c) use of the TIRS Software or the Third Party Software in conjunction with Licensee
+data where use with such data gave rise to the infringement claim; (d) use of any
+software in a manner inconsistent with its documentation, and/or (e) use of any TIRS
+Software or Third Party Software which use materially breaches this Agreement. In
+addition, THI shall have no indemnity obligation for claims of infringement resulting
+from any combination, operation or use of the TIRS Software or the Third Party
+Software, or any components thereof, with any software or hardware not supplied by
+THI.
+
+10.3.	 	If THI determines that the TIRS Software or the Third Party Software is or is
+likely to be the subject of a claim of infringement, THI shall have the right (a) to
+replace Licensee’s copy of the TIRS Software or Third Party Software with
+non-infringing software; (b) to modify such software so as to cause such software to be
+free of infringement; (c) to procure, at cost to Licensee, the right to continue to use
+such software; or (d) to terminate the license to use the TIRS Software or Third Party
+Software and associated documentation, and refund to Licensee the applicable Licensee
+Fee (pro-rated over the License Term).
+
+10.4.	 	Maximum Intellectual Property Indemnification. The maximum indemnity
+of THI to the Licensee for any and all damages, liabilities, costs and expenses
+(including reasonable attorney’s fees) covered by this Section 10, for all claims made
+under this Section 10 in the aggregate, shall be limited to the amount of licensee fees
+paid by Licensee to THI over the course of the twelve (12) months preceding the
+notification of THI by Licensee of a claim for indemnity under Section 10.1.
+
+10.5.	 	THE PROVISIONS OF THIS SECTION 10 STATE THE EXCLUSIVE LIABILITY OF THI AND THE
+EXCLUSIVE REMEDY OF LICENSEE WITH RESPECT TO ANY CLAIM OF INTELLECTUAL PROPERTY OR
+TRADE SECRET INFRINGEMENT BY THE SOFTWARE OR ANY PART THEREOF, AND ARE IN LIEU OF ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTY OF
+NON-INFRINGEMENT, AND INDEMNITIES WITH RESPECT THERETO.
+
+11.	 	LIMITATION OF LIABILITY
+
+11.1.	 	Licensee’s sole remedies for THI’s liability regarding the performance of
+training, consulting, software support, or other services, if any, provided in
+conjunction with the software shall be limited to the re-performance of any defective
+service provided by THI, or if re-performance is not available or practical, then a
+pro-rata refund of the payments allocable to the defective service.
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 12 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.2.	 	Except as expressly specified in this license agreement, neither THI nor any
+third party from whom THI receives marketing or licensing rights (“Tech Partner”) shall
+be liable for any loss or damage that may arise in connection with Licensee’s use of
+the software. Licensee acknowledges that data conversion, including data input to the
+TIRS Software product, is subject to human and machine errors, omissions, delays and
+losses, including inadvertent loss of data or damage to media that may give rise to
+loss or damage. THI shall not be liable for any such errors, omissions, delays, or
+losses. Licensee is responsible for adopting reasonable measures to limit the impact
+of such problems, including backing up data, and adopting procedures to ensure the
+accuracy of input data; examining and confirming results prior to use, and adopting
+procedures to identify and correct errors and omissions, replace lost or damaged media,
+and reconstruct data. Licensee is also responsible for complying with all local,
+state, and federal laws pertaining to the use and disclosure of any data.
+
+11.3.	 	IN NO EVENT SHALL THI OR ITS TECH PARTNERS BE LIABLE FOR ANY INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, EVEN IF THI HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF
+ANY LIMITED REMEDY OF ANY KIND, EXCEPT WITH RESPECT TO THE DEFENSE OF INFRINGEMENT
+CLAIMS UNDER SECTION 10, ABOVE, IN NO EVENT SHALL LICENSEE BE ENTITLED TO ANY MONETARY
+DAMAGES AGAINST THI OR ITS TECH PARTNERS IN EXCESS OF THE LICENSE FEES PAID TO THI BY
+LICENSEE UNDER THIS AGREEMENT FOR THE YEAR IN WHICH THE CAUSE AROSE.
+
+12.	 	GENERAL
+
+12.1.	 	No Waiver. The failure of either party to exercise any right granted
+herein, or to require the performance by the other party hereto of any provisions of
+this Agreement or the waiver by either party of any breach of this Agreement, will not
+prevent a subsequent exercise or enforcement of such provisions or be deemed a waiver
+of any subsequent breach of the same or any other provisions of this Agreement.
+
+12.2.	 	Assignment. Licensee may not assign this Agreement or any license
+granted hereunder whether by operation of law, change of control, or in any other
+manner, without the prior written consent of THI.
+
+12.3.	 	Benefit. Subject to provisions hereof restricting assignment, this
+Agreement shall be binding upon and shall inure to the benefit of the parties hereto
+and their respective successors and assigns.
+
+12.4.	 	Force Majeure. If the performance of this Agreement or any obligation
+hereunder, except for the making of payments hereunder, is prevented, restricted or
+interfered
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 13 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+with by reason of fire, flood, earthquake, explosion or other casualty or accident,
+strikes or labor disputes affecting third-party vendors, inability to procure or
+obtain delivery of parts, supplies or power, war or other violence, any law, order,
+proclamation, regulation, ordinance, demand or requirements of any governmental
+agency, electrical power surges or outages or any act or condition whatsoever beyond
+the reasonable control of the affected party (“Force Majeure Condition”), the party
+so affected shall be excused from delays in performing or from its failure to perform
+hereunder, provided that such party takes reasonable steps to avoid or remove such
+cause of nonperformance and will resume performance hereunder with dispatch whenever
+such causes are removed.
+
+12.5.	 	Export. Licensee shall not export, re-export or transfer, whether
+directly or indirectly, the TIRS Software or any system containing the TIRS Software
+outside the United States of America without first complying with the applicable export
+laws of the United States of America and the import laws of the country in which the
+TIRS Software is to be used.
+
+12.6.	 	Priority. Inconsistencies between the various documents that comprise
+this Agreement shall be resolved in the following order of precedence, lower numbered
+item prevailing: (1) Cover Page(s), (2) Terms and Conditions, and (3) Exhibits and
+Schedules (if any).
+
+12.7.	 	Severability. If any provision of this Agreement is determined by a
+court of competent jurisdiction to be or becomes unenforceable or illegal, such
+provision shall be deemed eliminated and the remainder of this Agreement shall remain
+in effect in accordance with its terms as modified by such deletion.
+
+12.8.	 	Modifications in Writing. Any modification or amendment of any
+provision of this Agreement must be in writing and bear the signature of the duly
+authorized representative of each party.
+
+12.9.	 	Venue. This Agreement is made and will be governed by and construed
+in accordance with the laws of the State of New York, without giving effect to its
+conflicts-of-laws provisions.
+
+12.10.	 	Prevailing Party. In the event a dispute arising under this Agreement
+results in litigation, the non-prevailing party shall pay the court costs and
+reasonable attorneys’ fees of the prevailing party.
+
+12.11.	 	Press Release. Licensee agrees that THI, upon the execution of this
+Agreement, may issue a press release, subject to Licensee’s reasonable and prompt
+review, indicating that Licensee has chosen to use the TIRS Software.
+
+12.12.	 	Integration. This Agreement sets forth the entire agreement and
+understandings between the parties hereto with respect to the subject matter hereof.
+This Agreement
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 14 of 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+merges all previous discussions and negotiations between the parties and supersedes
+and replaces any other agreement that may have existed between THI and Licensee with
+respect to the subject matter hereof.
+
+12.13.	 	Survival. The provisions of Sections 3.5, 4.3, 4.4, 6, 7, 8, 11 and 12 shall
+survive the termination of this Agreement.
+
+
+
+
+The parties hereby acknowledge that they have read, understand, and accept this Agreement and
+all Exhibits and Addenda hereto.
+
+
+
+
+
+TRANSATLANTIC HOLDINGS, INC.	 	 	 	ALLIED WORLD ASSURANCE COMPANY, LTD
+
+
+By:	 	/s/ George Di Martino	 	 	 	By:	 	/s/ Michael Fullen
+
+
+
+Name:
+George Di Martino
+Name:
+Michael Fullen
+
+
+Title:
+SVP& CIO
+Title:
+Implementation Manager
+
+
+Date:
+January 31, 2007
+Date:
+February 16, 2007
+
+
+
+
+
+
+TIRS/AWAC License Agreement
+
+Page 15 of 15
+
+
+
+
+
+
+
+
+
+

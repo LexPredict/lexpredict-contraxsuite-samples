@@ -1,0 +1,990 @@
+
+
+
+
+
+
+
+Registrant Master Software License Agreement
+
+
+
+Exhibit 10.42
+
+
+
+SELECTICA, INC.
+MASTER SOFTWARE LICENSE AGREEMENT
+
+
+
+CONTACT INFORMATION
+EFFECTIVE DATE: February 13, 2009
+
+Licensee: CA, Inc.	  	AP Contact: ***
+Address: ***	  	Address: ***
+Address:	  	Address:
+Contact: ***	  	Email:
+Email: ***	  	Phone:
+Phone: ***	  	Fax:
+P.O. Number:
+
+
+
+
+SELECTICA INFORMATION
+
+Acct. Exec:	  	 ***
+AR Contact: ***
+Address:	  	 ***
+Address: ***
+Address:	  	 ***
+Address: ***
+Email:	  	 ***
+Email: ***
+Tel:	  	 ***
+Tel: ***
+Fax:	  	 ***
+Fax: ***
+
+ORDER INFORMATION
+a. Software: Selectica Contract Lifecycle Management (CLM) version 3.3.1, including third party software, if any required for specified current functionality.
+b. License Type: ***
+c. License Term: ***
+d. Scope of Use: ***
+e. Number and Type of Users: ***
+f. Initial Maintenance Period: ***
+PRICING
+***
+Maintenance & Support fees: ***
+User License(s): ***
+Term Licenses: ***
+Total Amount: ***
+
+***CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED
+PORTIONS.
+
+
+
+
+Selectica Confidential	  	1	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CA, Inc.
+
+
+
+
+By (Name):	 	 /s/ Richard Heaps
+By (Name):	 	 /s/ Marc W. Pepe
+
+Name Printed:	 	 Richard Heaps
+Name Printed:	 	 Marc W. Pepe
+
+Title:	 	 CFO
+Title:	 	 Director
+
+Date:	 	 2/12/09
+Date:	 	 2/13/09
+
+
+
+
+
+
+Selectica Confidential	  	2	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+SELECTICA, INC.
+MASTER SOFTWARE LICENSE AGREEMENT
+As of the Effective Date stated on the Cover Page, this Agreement is made and
+entered into by and between Selectica, Inc., a Delaware Corporation with offices at 1740 Technology Drive Suite 450, San Jose, CA 95110 (“SELECTICA”), and CA, Inc., a Delaware corporation with offices at One CA Plaza, Islandia, NY 11749
+(“CUSTOMER”). The Cover Page is attached and incorporated by reference hereto. SELECTICA and CUSTOMER hereby agree as follows:
+
+
+1.	DEFINITIONS
+
+Whenever used in this Agreement, the
+following terms will have the following specified meanings:
+
+
+1.1	“Affiliated Company” means, as of the date of this agreement, any entities for which CUSTOMER holds greater than a fifty percent (50%) interest (or, by force
+of law or contract, CUSTOMER is obligated to maintain board control thereof). The term “Affiliated Company” shall mean any additional companies in which CA may acquire or come to hold a fifty percent (50%) interest (or, by force of
+law or contract, Customer is obligated to maintain board control thereof) provided that the number of total employees of CUSTOMER does not increase by more than fifty percent (50%) from the date of this agreement. Such determination shall be
+made annually under good faith discussions between the companies and any adjustment to license and/or maintenance fees shall be mutually agreed.
+
+
+
+1.2	“Authorized End Users” means CUSTOMER’s employees and independent contractors.
+
+
+
+1.3	“Confidential Information” of a party shall mean any information disclosed by that party (the “Discloser”) to the other party (the
+“Recipient”) which is marked “confidential,” or “proprietary”, or if disclosed orally, is designated as confidential or proprietary at the time of disclosure, or which should otherwise reasonably be understood by
+Recipient to be confidential or proprietary to Discloser, including, but not limited to, the non-public terms and conditions of this Agreement and/or the technology and business of the Discloser.
+
+
+
+1.4	“Documentation” means SELECTICA’s current user manuals, operating instructions and installation guides generally provided with the Software to end
+users. The term Documentation also includes: SELECTICA’s responses to Customer’s RFP (including but not limited to, sales brochures marketing materials, any and all responses to CUSTOMER inquiries and requests for clarification, and
+Software features currently implemented through commercially available third party software (currently only PDF to WORD and WORD to PDF conversion) and provided by SELECTICA) and training materials.
+
+
+
+1.5	“Software” means the executable object code for the Selectica and, if applicable, third party software described on the Cover Page attached hereto.
+
+
+
+
+2	SOFTWARE DELIVERY, ACCEPTANCE AND LICENSE
+
+
+
+2.1	Deliverables. Upon execution of this Agreement, SELECTICA shall make available and deliver to CUSTOMER one reproducible master copy of the Software licensed hereunder to
+CUSTOMER, in object code form, and one copy of the Documentation, and such other copies as the CUSTOMER may reasonably request. Such availability and delivery, on both a designated server or other internet site shall be considered fulfillment of
+SELECTICA’s delivery obligations hereunder.
+
+
+
+2.2	Acceptance of Software. CUSTOMER’s obligation with respect to Software acceptance is set forth in the terms of the Master Services Agreement and Statement of Work #001
+to be executed between CUSTOMER and SELECTICA (hereinafter “Acceptance”). Specifically, Acceptance will be deemed to have occurred when CUSTOMER, in its sole discretion, accepts the Proof of Concept (“POC”) phase as provided in
+the Statement of Work #001, unless extended by express mutual written agreement.
+
+
+
+2.3	Grant. Subject to the terms of this Agreement and payment of all fees, SELECTICA hereby grants CUSTOMER, its Affiliated Companies and Authorized End Users a nonexclusive,
+world-wide, nontransferable, license (the form of which is described on the Cover Page and further subject to Section 2.4 below) to:
+
+
+
+2.1.1	Install and use the Software for its internal use subject to the rights and restrictions set forth on the Cover Page.
+
+
+
+2.1.2	Reproduce the Documentation and/or incorporate all or any portion of the Documentation in training materials prepared by CUSTOMER, in each case solely for the use of
+CUSTOMER, its Affiliated Companies and Authorized End Users and provided that the copyright notices and other proprietary rights legends of SELECTICA are included on each copy of the Documentation and such materials.
+
+
+
+
+
+Selectica Confidential	  	3	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1.3	Reproduce and make a reasonable number of copies of the Software for disaster recovery, archival and backup purposes.
+
+
+
+2.1.4	CUSTOMER may, at no additional cost, transfer the Software to new hardware, site or location owned or leased by CUSTOMER.
+
+
+
+2.1.5	CUSTOMER may configure, modify, change, enhance and/or reproduce the Software or Documentation. However, SELECTICA shall retain all rights, title and interest in and to all
+intellectual property relating to the Software and any modifications, enhancements and derivatives thereto, exclusive of CUSTOMER Confidential Information.
+
+
+
+2.4	Restrictions. CUSTOMER, its Affiliated Companies and Authorized End Users shall not:
+
+
+
+(a)	reverse engineer, disassemble or decompose the Software, except to the extent that such acts may not be prohibited under applicable law;
+
+
+
+(b)	remove, obscure, or alter any notice of patent, copyright, trade secret, trademark, or other proprietary rights notices present on any Software Documentation;
+
+
+
+
+(c)	sublicense, sell, lend, rent, lease, or otherwise transfer all or any portion of the Software or the Documentation to any third party except as may be permitted in Section 9.4
+hereof;
+
+
+
+(d)	 use the Software or the Documentation to provide services to third parties, or otherwise use the same on a “service business” basis provided however,
+CUSTOMER, Affiliated Companies and Authorized End Users shall have the right to allow 3rd party customers and other authorized parties to access the Software as part of its normal course of business; and
+
+
+
+
+(e)	use the Software, or allow the transfer, transmission, export, or re-export of the Software or any portion thereof in violation of any United States export laws including without
+limitation the United States Bureau of Industry and Security’s Export Administration Regulations and the regulations of any other United States government agency.
+
+
+
+2.5	Proprietary Rights. The Software and Documentation contains valuable patent, copyright, trade secret, trademark and other proprietary rights of SELECTICA. Except for the
+license granted under Section 2.3, SELECTICA reserves all rights to the Software and Documentation. No title to or ownership of any Software or Documentation or proprietary rights related to the Software or Documentation is transferred to
+CUSTOMER under this Agreement.
+
+
+
+2.6	Protection Against Unauthorized Use. CUSTOMER shall promptly notify SELECTICA of any unauthorized use of the Software or Documentation which comes to CUSTOMER’s
+attention, without a duty to investigate. In the event of any unauthorized use by any of CUSTOMER or its Affiliated Companies and Authorized End Users, employees, agents or representatives, CUSTOMER shall use reasonable efforts to terminate such
+unauthorized use and to retrieve any copy of the Software or Documentation in the possession or control of the person or entity engaging in such unauthorized use. SELECTICA may, at its option and expense, participate in any such proceeding and, in
+such an event, CUSTOMER shall provide such authority, information and assistance related to such proceeding as SELECTICA may reasonably request
+
+
+
+2.7	Records. CUSTOMER shall use commercially reasonable efforts to cause each copy it makes of all or any portion of the Software or the Documentation to have the notice of
+copyright or other proprietary rights legends appearing in or on the Software or the Documentation delivered to CUSTOMER by SELECTICA. CUSTOMER shall keep accurate records of the reproduction and location of each copy; and upon the reasonable
+request of SELECTICA, but no more than annually, shall provide SELECTICA with copies of such records for the purpose of auditing and verifying CUSTOMER’s compliance with this Agreement.
+
+
+
+3	COMPENSATION
+
+
+
+3.1	License and Other Fees. CUSTOMER will pay SELECTICA the Software License Fee and other fees specified on the Cover Page in accordance with the provisions of this Agreement.
+
+
+
+
+3.2	 Payment. Subject to the provisions of this Agreement, fees, charges and other sums payable to SELECTICA under this Agreement will be due and payable net
+sixty (60) days after receipt of invoice. SELECTICA shall issue an invoice only upon Acceptance of the Software by CUSTOMER and CUSTOMER shall only be obligated to pay on Acceptance. All monetary amounts are specified and shall be paid in the
+lawful currency of the United States of America. CUSTOMER shall pay all amounts due under this Agreement to SELECTICA at the address set forth
+
+
+
+
+
+
+
+Selectica Confidential	  	4	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+herein. All fees, charges and other sums payable to SELECTICA under this Agreement do not include any sales, use, excise or other applicable taxes, tariffs
+or duties (excluding any applicable federal and state taxes based on SELECTICA’s net income), payment of which shall be the sole responsibility of CUSTOMER.
+
+
+
+
+4	TERM AND TERMINATION
+
+
+
+4.1	Term. The term of this Agreement shall commence on the Effective Date and shall end upon the termination of this Agreement pursuant to Section 4.2.
+
+
+
+
+4.2	Termination.
+
+
+
+4.2.1	CUSTOMER may terminate this Agreement, in whole or in part, at any time, for any reason, without penalty or if SELECTICA materially defaults in the performance of or
+compliance with its obligations of this Agreement, and such default has not been remedied or cured within sixty (60) days after CUSTOMER gives SELECTICA written notice specifying the default.
+
+
+
+4.2.2	SELECTICA may terminate this Agreement only if CUSTOMER materially defaults in the performance of or compliance with its obligations under Sections 2.3 (a) and (b), 2.4
+or 2.5 of this Agreement, or fails to issue payment when due, and such default has not been remedied or cured within sixty (60) days after SELECTICA gives CUSTOMER written notice specifying the default. Termination is not an exclusive remedy
+and all other remedies will be available whether or not termination occurs.
+
+
+
+4.3	Post Termination.
+
+Upon termination of this
+Agreement by CUSTOMER as a result of SELECTICA’s uncured breach, the licenses granted under Section 2 will terminate and CUSTOMER shall promptly cease all use of the Software and Documentation and destroy or return to SELECTICA all copies
+of the Software and Documentation then in CUSTOMER’s possession or control and CUSTOMER shall be entitled to a full refund of all license and maintenance fees paid., with licenses prorated over a 5-year period and maintenance fees limited to
+any prepaid amounts.
+Upon termination of this Agreement by CUSTOMER for convenience after Acceptance of the Software, the licenses granted
+under Section 2 will terminate and CUSTOMER shall promptly cease all use of the Software and Documentation and destroy or return to SELECTICA all copies of the Software and Documentation then in CUSTOMER’s possession or control. In the
+event of a termination of the software licenses for convenience, CUSTOMER shall not be entitled to a refund of a license fees and CUSTOMER remains obligated for any license fees due. In the event of termination of Maintenance and Support for
+convenience or upon assignment to a competitor, CUSTOMER shall be entitled to a pro-rata refund of all maintenance fees paid based on a straight line five (5) year depreciation schedule.
+Upon termination of this Agreement by CUSTOMER for convenience before Acceptance of the Software, the licenses granted under Section 2 will terminate
+and CUSTOMER shall promptly cease all use of the Software and Documentation and destroy (and in writing certify such destruction) or return to SELECTICA all copies of the Software and Documentation then in CUSTOMER’s possession or control and
+CUSTOMER shall not be liable for any license and/or maintenance fees due.
+Upon termination of this Agreement by SELECTICA as a result of
+CUSTOMER’s uncured breach of Sections 2.3, 2.4 or 2.5, the licenses granted under Section 2 will terminate and CUSTOMER shall promptly cease all use of the Software and Documentation and destroy (and in writing certify such destruction) or
+return to SELECTICA all copies of the Software and Documentation then in CUSTOMER’s possession or control and CUSTOMER shall not be entitled to a refund of license fees paid. However, CUSTOMER shall receive a pro-rata refund of prepaid, if any,
+maintenance fees based on a straight line five (5) year depreciation schedule.
+
+
+4.4	Survival. Upon expiration or termination of the Agreement, the rights and obligations of the parties which by their context, intent and meaning would reasonably be expected
+to survive the termination or expiration of the Agreement or any part thereof will so survive.
+
+
+
+5	CONFIDENTIALITY
+
+
+
+5.1	 Obligations. Recipient shall: (i) not use Discloser’s Confidential Information except for the express purposes of this Agreement;
+(ii) hold Discloser’s Confidential Information in strictest confidence and shall not disclose Discloser’s Confidential Information to others, except for its employees or agents who require Discloser’s Confidential Information in
+order to carry out the Recipient’s obligations under this Agreement and who are subject to binding obligations of confidentiality and restricted use at least as protective as those of this
+
+
+
+
+
+
+
+Selectica Confidential	  	5	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreement; (iii) protect the confidentiality of Discloser’s Confidential Information using at least the same level of efforts and measures used to
+protect its own confidential information of like importance, and at least commercially reasonable efforts and measures, including without limitation limiting access to Discloser’s Confidential Information commensurate with the express purposes
+of this Agreement; and (iv) notify Discloser as promptly as practicable of any unauthorized use or disclosure of Discloser’s Confidential Information by Recipient, its employees or agents of which Recipient becomes aware.
+
+
+
+The Recipient may disclose Confidential Information in connection with a judicial or administrative proceedings to the
+extent such disclosure is required under law or a court order, provided that the Discloser shall be given prompt written notice of such proceeding. In addition to any other remedies, the Discloser shall be entitled to seek equitable relief without
+posting of any bond. Each party’s personnel shall be free to use ideas, concepts, know-how, processes, inventions and techniques acquired in conjunction with this Agreement provided such use does not infringe the other party’s patents or
+copyrights.
+
+
+5.2	Exceptions. The obligations of this Section 5 shall not apply to any Discloser’s Confidential Information that: (i) Recipient knew prior to learning it
+under this Agreement, as demonstrated by written records predating the date it was learned under this Agreement; (ii) is now, or becomes in the future, publicly available information other than by an act or omission of Recipient; (iii) a
+third party discloses to Recipient, without any confidentiality obligations and without any breach of any direct or indirect obligation of confidentiality to Discloser, as shown by Recipient’s written records contemporaneous with such third
+party disclosure; or (iv) Recipient independently develops without use of or reference to Discloser’s Confidential Information, as demonstrated by Recipient’s independent written records contemporaneous with such development.
+
+
+
+
+5.3	Trademarks. Except as otherwise set forth in this Agreement, neither party grants the other party any rights to use its trademarks, service marks, or other proprietary
+symbols or designations.
+
+
+
+5.4	Nondisclosure of Agreement. Each party (including subcontractors) shall not disclose the terms of this Agreement or the ongoing business relationship initiated by this
+Agreement except as required by law or governmental regulation without the other parties prior written consent, except that each party may disclose the terms of this Agreement on a confidential basis to each parties accountants, attorneys, parent
+organizations and financial advisors and lenders.
+
+
+
+5.5	Reference Account. Upon express prior written approval by CUSTOMER, SELECTICA may identify CUSTOMER as a user of the Software and may use CUSTOMER’s logo in
+marketing activities and press releases, subject to SELECTICA’s compliance with CUSTOMER’s published logo guidelines. CUSTOMER will cooperate with SELECTICA in furnishing non-confidential information about CUSTOMER’s software use for
+informational and promotional use by SELECTICA.
+
+
+
+6	WARRANTIES AND REMEDIES
+
+
+
+6.1	Warranty: Upon Acceptance of the Software by CUSTOMER, SELECTICA represents and warrants to CUSTOMER that when operated in accordance with the Documentation provided by
+SELECTICA, the Software, including any Updates, Upgrades and/or Major Releases provided to and used by CUSTOMER, will perform in accordance with the functional specifications set forth in the Documentation for period that CUSTOMER is on active
+Maintenance and Support for the Software. The warranties herein shall commence after the successful implementation and Acceptance of the Software by CUSTOMER. If the Software fails to comply with the warranty set forth in this Section, CUSTOMER may,
+at its sole discretion, require SELECTICA to: (i) use reasonable commercial efforts to correct the noncompliance; (ii) replace the Software with a version that complies and performs in accordance with the Acceptance criteria, or;
+(iii) terminate the license and provide a full refund all of the license and maintenance fees paid by CUSTOMER for such Software in full satisfaction of CUSTOMER’s claims relating to such Warranty noncompliance upon CUSTOMER’s return
+or certification of destruction of the Software.
+
+
+
+6.2	Exclusive Remedy: ANY LIABILITY OF SELECTICA WITH RESPECT TO THE PERFORMANCE OF THE SOFTWARE UNDER ANY WARRANTY, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY WILL BE LIMITED
+TO THE REPAIR, REPLACEMENT OR A REFUND OF THE LICENSE AND MAINTENANCE FEE.
+
+
+
+6.3	SELECTICA warrants that it has the right, power and authority to enter into this Licence Agreement and that it has full title and authority to provide the licences granted herein to
+the CUSTOMER to use the Software as contemplated by this Licence Agreement.
+
+
+
+6.4	SELECTICA warrants that the Software will not contain any viruses, worms, trojan horses or similar (together (“Viruses”) or malicious code of any sort. If at any time the
+Software is found to contain any such Viruses or malicious Code caused through proper use of the Software, SELECTICA will use best efforts to promptly remove the Virus or malicious code and restore the CUSTOMER systems to operational readiness.
+
+
+
+
+
+
+Selectica Confidential	  	6	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7	INDEMNIFICATION
+
+
+
+7.1	SELECTICA agrees to hold CUSTOMER, its Affiliated Companies and Authorized End Users harmless from liability to third parties resulting from infringement of any patent,
+copyright or trade secret by the Software as used within the scope of this Agreement, and to pay all direct damages and costs, including reasonable legal fees, which may be assessed against CUSTOMER, its Affiliated Companies and Authorized End Users
+under any such claim or action. SELECTICA shall be released from the foregoing obligation unless CUSTOMER provides SELECTICA with (i) written notice within a reasonable time of the date CUSTOMER first becomes aware of such a claim or action, or
+possibility thereof; (ii) sole control and authority over the defense or settlement thereof; and (iii) at SELECTICA’s cost and expense, information and assistance to assist with settlement and/or defense of any such claim or action.
+Without limiting the foregoing, if a final injunction is, or SELECTICA believes, in its sole discretion, is likely to be, entered prohibiting the use of the Software by CUSTOMER as contemplated herein, SELECTICA will, at its sole option and expense,
+either (a) procure for CUSTOMER the right to use the infringing Software as provided herein or (b) replace the infringing Software with non-infringing, functionally equivalent products, or (c) suitably modify the infringing Software
+so that it is not infringing; or (d) terminate the license, accept return of the infringing Software and refund to CUSTOMER all of the license and maintenance fees paid therefore. Except as specified above, SELECTICA will not be liable for any
+costs or expenses incurred without its prior written authorization. Notwithstanding the foregoing, SELECTICA assumes no liability for infringement claims with respect to Software (i) not supplied by SELECTICA, (ii) made solely in
+accordance to CUSTOMER’s specifications pursuant to a custom code statement of work, (iii) that contains a modification not approved or otherwise required to support the Software, (iv) combined with other products, processes or
+materials not provided or approved by SELECTICA where the alleged infringement relates to such combination, (v) where CUSTOMER continues allegedly infringing activity after being notified thereof or after being informed of modifications that
+would have avoided the alleged infringement, where such modifications are provided by SELECTICA at no additional expense,or (vi) where CUSTOMER’s use of the Software is not strictly in accordance with this Agreement. THE FOREGOING
+PROVISIONS OF THIS SECTION 7 STATE THE ENTIRE LIABILITY AND OBLIGATIONS OF SELECTICA AND THE EXCLUSIVE REMEDY OF CUSTOMER, WITH RESPECT TO ANY ACTUAL OR ALLEGED INFRINGEMENT OF ANY PATENT, COPYRIGHT, TRADE SECRET, TRADEMARK OR OTHER INTELLECTUAL
+PROPERTY RIGHT BY THE SOFTWARE.
+
+
+
+7.2	Each party shall indemnify the other against all damages, fees, fines, judgments, costs and expenses incurred as a result of a third party action alleging a bodily injury or
+death which arises from the Software hereunder, provided that such liabilities are the proximate result of gross negligence or intentional tortuous conduct on the part of the indemnifying party.
+
+
+
+8	DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+
+
+8.1	Disclaimer of Warranties. EXCEPT AS SET FORTH IN SECTION 6, SELECTICA MAKES NO WARRANTIES WHETHER EXPRESS, IMPLIED OR STATUTORY REGARDING OR RELATING TO THE SOFTWARE OR THE
+DOCUMENTATION OR ANY MATERIALS OR SERVICES FURNISHED OR PROVIDED TO CUSTOMER UNDER THIS AGREEMENT. SELECTICA SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SOFTWARE,
+DOCUMENTATION AND ANY OTHER MATERIALS AND SERVICES PROVIDED BY SELECTICA HEREUNDER, AND WITH RESPECT TO THE USE OF THE FOREGOING. THE SOFTWARE IS NOT DESIGNED OR LICENSED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING FAIL-SAFE CONTROLS, INCLUDING
+WITHOUT LIMITATION OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, SELECTICA SPECIFICALLY DISCLAIMS ANY
+EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES. FURTHER, SELECTICA DOES NOT WARRANT RESULTS OF USE OR THAT THE SOFTWARE IS BUG FREE OR THAT CUSTOMER’S USE WILL BE UNINTERRUPTED.
+
+
+
+8.2	Limitation of Liability. EXCEPT FOR DEATH OR PERSONAL INJURY CAUSED BY THE NEGLIGENCE OR WILLFUL CONDUCT OF EITHER PARTY, BREACH OF SECTION 5 OR CLAIMS FOR INFRINGEMENT UNDER
+SECTION 7, IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, COST TO RECOVER, OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND IN CONNECTION WITH OR
+ARISING OUT OF THE FURNISHING, PERFORMANCE OR USE OF THE SOFTWARE, DOCUMENTATION OR ANY MATERIALS OR SERVICES PERFORMED HEREUNDER, WHETHER ALLEGED AS A BREACH OF CONTRACT OR TORTIOUS CONDUCT, INCLUDING NEGLIGENCE, EVEN IF A PARTY HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES. SELECTICA’S LIABILITY UNDER THIS AGREEMENT FOR DAMAGES WILL NOT, IN ANY EVENT, EXCEED THREE TIMES THE AMOUNTS PAID AND/OR PAYABLE BY CUSTOMER TO SELECTICA UNDER THIS AGREEMENT FOR THE ITEMS GIVING RISE TO SUCH
+LIABILITY.
+
+
+
+
+
+Selectica Confidential	  	7	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9	MISCELLANEOUS
+
+
+
+9.1	Notices. Any notice or other communication under this Agreement given by either party to the other will be deemed to be properly given if given in writing and delivered in
+person, electronically or facsimile, if acknowledged received by return electronic communication or facsimile or followed within one day by a delivered or mailed copy of such notice, or if mailed, properly addressed and stamped with the required
+postage, to the intended recipient at its address specified in this Agreement. Either party may from time to time change its address for notices under this Section by giving the other party notice of the change in accordance with this
+Section 9.3.
+
+
+
+9.2	Assignment. Neither party may assign this Agreement or any of its rights or obligations under this Agreement without the prior written consent of the other party, which will
+not be unreasonably refused. However, either party may assign all, but not part, of this Agreement and the Software and Documentation then in its possession or control to the surviving entity in a merger, consolidation or other similar corporate
+reorganization in which it participates or to the purchaser of all or substantially all of its assets. Notwithstanding the preceding sentence, Vendor may only assign this Agreement to an entity who acquires all of the assets of Vendor provided that
+such entity is not a CUSTOMER competitor or an entity with which CUSTOMER has been in litigation in the five (5) years prior to such assignment. A “CUSTOMER competitor” means an entity which a reasonable person experienced in the
+software industry would understand to compete with CUSTOMER. Upon acquisition of SELECTICA by a CUSTOMER competitor, CUSTOMER shall have the right to terminate Maintenance and Support pursuant to Section 4.3 above. CUSTOMER shall have the
+unrestricted right to assign in whole or in part its rights and obligations under this Agreement Subject to the foregoing, this Agreement is binding upon, inures to the benefit of and is enforceable by the parties and their respective successors and
+assigns.
+
+
+
+9.3	Entire Agreement. This Agreement, along with the Cover Page and any schedules thereto, constitutes the entire agreement, and supersedes any and all prior agreements, between
+SELECTICA and CUSTOMER relating to the Software, Documentation, and other items subject to this Agreement. No amendment of this Agreement will be valid unless set forth in a written instrument signed by both parties. In the event that any provision
+of this Agreement is found invalid or unenforceable, it will be enforced to the extent permissible and the remainder of this Agreement will remain in full force and effect. No term or condition contained in CUSTOMER’s purchase order or similar
+document will apply unless specifically agreed to by SELECTICA in writing, even if SELECTICA has accepted the order set forth in such purchase order, and all such terms or conditions are otherwise hereby expressly rejected by SELECTICA.
+
+
+
+
+9.4	Governing Law and Dispute Resolution. The rights and obligations of the parties under this Agreement shall be governed by and construed under the laws of the State of New
+York. Any controversy or claim arising out of or relating to this Agreement, or the breach thereof, shall first be subject to good faith negotiation by the parties within sixty (60) days after notice of such controversy or claim is provided to
+the other party. The parties agree that any action arising under or relating to this Agreement shall lie within the exclusive jurisdiction of the State and Federal Courts located in the Eastern District of New York. The United Nations Convention on
+Contracts for the International Sale of Goods will not apply to the Agreement. THE PARTIES HEREBY IRREVOCABLY WAIVE, TO THE FULLEST EXTENT PERMITTED BY LAW, ALL RIGHTS TO TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTERCLAIM RELATING TO THIS
+AGREEMENT.
+
+
+
+9.5	Equitable Relief. Each party acknowledges that its failure to comply with the provisions of this Agreement may result in irreparable harm to the other for which a remedy at
+law would be inadequate. In the event of the breach or threatened breach of this Agreement by a party, the other party shall in addition to monetary damages, be entitled to seek equitable relief in the form of specific performance and/or an
+injunction for any such actual or threatened breach.
+
+
+
+9.6	Force Majeure. Neither party will be liable for, or be considered to be in breach of or default under this Agreement, other than monetary obligations, as a result of any
+cause or condition beyond such party’s reasonable control including without limitation, acts of God, war, riot, strike, labor disturbance, terrorist act, fire, explosion, flood, IT failures outside of the control of either party, such as
+internet failures or communication system failures, or shortage or failure of suppliers.
+
+
+
+9.7	Source Code Escrow. SELECTICA agrees to deposit the source code for the Software into an escrow account with CUSTOMER who shall retain the source code with its Legal
+Department located at One CA Plaza, Islandia, NY 11749. SELECTICA shall include in the deposit sufficient technical specifications and supporting documentation necessary to enable an independent, competent computer programmer to understand,
+maintain, modify, and enhance the Software. SELECTICA shall make the initial deposit of materials thereunder, no later than thirty (30) days after CUSTOMER’s written acceptance of the Software. SELECTICA shall thereafter promptly add to
+the escrow account the source code for any updates of the Software.
+
+CUSTOMER has the right to withdraw the source code upon
+the occurrence of any of the following events: (i) any material breach by SELECTICA of its obligations hereunder, or under the Master Services Agreement including
+
+
+
+
+
+Selectica Confidential	  	8	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+any SOW, and the expiration of any applicable cure period; (ii) SELECTICA, whether directly or through a successor or affiliate, ceases to be in
+business; (iii) SELECTICA is the subject of (A) any bankruptcy, insolvency, or similar proceeding, (B) any assignment by SELECTICA for the benefit of creditors, (C) any other proceeding involving insolvency or protection of or
+from creditors; or, (D) any merger, acquisition or change of control of SELECTICA. Upon the occurrence of any such events, CUSTOMER shall have the right to utilize such source code for purposes within the scope of use contemplated by this
+Agreement, including, without limitation, the performance of maintenance and support for the Software. If CUSTOMER elects to withdraw source code pursuant to this section, CUSTOMER will provide SELECTICA ten (10) days advance written notice.
+
+
+
+10.	Maintenance and Support Services: Maintenance and support services will be provided pursuant to the terms and conditions set forth in Exhibit A, attached and incorporated
+herein.
+
+[rest of page blank]
+
+
+
+
+Selectica Confidential	  	9	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit A
+Maintenance and Support Policies – Ultra Support
+
+
+1.	Definitions
+
+
+
+a)	“Updates” shall mean periodic patches and minor releases, as designated by the “Z” in the release code “X.Y.Z”, designed to correct specific
+and/or minor errors in the Software and have undergone only a subset of Selectica’s full Quality Assurance and Performance Testing process needed to verify the correction(s).
+
+
+
+b)	“Upgrades” shall mean periodic scheduled releases of the Software, as designated by the “Y” in the release code “X.Y.Z”, designed to enhance
+performance, add incremental features and have undergone Selectica’s full Quality Assurance and Performance Testing process designed to provide commercially reasonable assurance that the Upgrade new features and bug fixes perform according to
+their specifications (normally documented in a “Read Me” or “Release Note” document in electronic or printed form).
+
+
+
+c)	“Major Releases” shall mean releases that occur no more frequently than annually of the Software, as designated by the “X” in the release code
+“X.Y.Z”, designed to add major new features and/or algorithms to the Software and have undergone Selectica’s full Quality Assurance and Performance Testing process. Major Releases do not include separately priced new modules
+introduced as a component of the Software during any release cycle nor do Major Releases include New Products.
+
+
+
+d)	“New Products” shall mean additional functionality that substantially enhances or extends the ability of the Customer to use the Software or the New Product for its
+internal business purposes. A “New Product” shall be separately priced and packaged by Selectica and may carry a tradename different than that of the Software or may be designated as a new generation of the Software.
+
+
+
+
+e)	“Program Errors” shall mean one or more reproducible deviations in the Software licensed, installed and used by Customer from the applicable specifications shown in
+the Documentation.
+
+
+
+2.	Support and Incremental Releases to the Software
+
+Subject to the
+terms and conditions of this Agreement and provided (i) Customer is fully paid-up on all applicable Maintenance and Support and (ii) is not otherwise in material breach of this Agreement, Customer will be entitled to receive online
+support, phone support, and additional releases (Updates, Upgrades and Major Releases) for the Software specified on the Cover Page, on a when-and-if available basis at no additional charge to Customer. Customer’s IT department (or equivalent
+department) shall establish and maintain the organization and processes to provide Tier 1Support for the Software directly to Users. Selectica shall provide maintenance and Support services to Customer for program errors not resolved by Customer,
+Tier 2 Support or upon Customer request, which shall be available to Customer 24 hours per day, 7 days per week, 365 days per year for severity levels 1 -4 below. Selectica Maintenance and Support shall be provided with regard to both production and
+non-production environments where Selectica software is being used by Customer. However, Non-Production usage is not eligible for Severity 1 Maintenance and Support. Customer shall provide Selectica with the necessary remote access to the Software
+so that Selectica may, at its option, provide remote diagnostic capability. Selectica does not assure performance of the services described herein if such remote access is not provided when requested. Customer may appoint up to two named technical
+staff to report problems or performance deficiencies to Selectica. Customer may change the designated technical staff by one day advance notice to Selectica.
+
+
+
+
+Selectica Confidential	  	10	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+Roles and Responsibilities
+
+
+
+Customer
+Delivers
+Selectica
+Delivers
+Level of Support Definition
+
+X	  		  	Tier 1 / Level 1	  	Level 1 Support includes the initial response to an End User reported incident (and any follow-up response as appropriate), initial information gathering, entitlement and escalation to Level
+2.
+
+X	  		  	Tier 1 / Level 2	  	Level 2 Support includes some or all of the following: answering software installation, configuration or usage questions; initial problem and failure information gathering; problem isolation,
+identification, and/or providing standard fixes and workarounds to known problems; escalating unresolved problems to a Selectica Support Engineer.
+
+X	  	Tier 2 / Level 3	  	Level 3 Support consists of, but is not limited to, problem isolation, identification, and replication; providing standard fixes and workarounds to known problems; providing remedies for both
+new and known complex problems; escalating unresolved problems or those requiring formal fixes to Selectica sustaining engineering or development teams.
+
+
+
+3.	SUPPORT FOR PROGRAM ERRORS
+
+3.1. As set forth in Section 4(a)
+herein, Selectica has provided Customer with a telephone number and e-mail address that Customer may use to report Program Errors. For priority 1, Customer agrees to notify Selectica via both telephone and e-mail. Selectica will make diligent
+efforts to correct significant Program Errors that Customer identifies, classifies and reports to Selectica. If Selectica disagrees with Customer’s classification of a Program Error, the parties will meet and resolve the classification in good
+faith. Customer will provide sufficient information to enable Selectica to duplicate the Program Error, Unless otherwise expressly or implicitly approved by Selectica, Selectica will not be required to correct any Program Error caused by:
+(a) incorporation, attachment of a feature, program, or device to the Software, or any part thereof, Selectica; (b) any nonconformance caused by accident, transportation, neglect, misuse, alteration, modification, or enhancement of the
+Software, unless caused in whole or in part by Selectica; (c) Customer’s failure to provide the Prerequisite Environment for the Software; (d) Customer’s use of the Software for other than the specific purpose for which the
+Software is intended under the terms of this Agreement; (e) if applicable, Customer’s use of defective media or defective duplication of the Software; or (f) Customer’s failure to incorporate any Maintenance Releases previously
+released by Selectica which corrects such Program Error. Selectica will use diligent efforts to communicate with Customer about the Program Error, via telephone or e-mail within the following targeted response times,
+
+
+
+Severity Criteria
+Description
+Initial
+Response
+Escalation
+
+1.      Critical – Customer Production Down
+
+Non-Production usage shall not receive Severity level 1 Maintenance and Support
+
+•     Production System Unavailable or Unusable for Multiple
+Users
+•     Business Operations halted or critical features not
+functioning
+•     Users are not able to complete their daily production operations.
+
+1 Hour	  	 •     TSO Manager – 5 Minutes
+•     PSO Practice Manager – 1 Minute
+•     VP of PSO & VP Engineering – 1 Hour
+
+
+
+
+
+
+Selectica Confidential	  	11	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      High – Major Feature/Function failure
+•     Loss of significant functionality
+•     Key business operational function(s) cannot be performed on a production system.
+
+•     System is usable, albeit in a reduced fashion
+4 Hours	  	 •     TSO Manager – 15 Minutes
+•     Practice Manager – 1 Hour
+•     VP of PSO & VP Engineering – 8 Hours
+
+
+3.      Medium – Minor Feature/Function failure
+•     Product does not operate as designed.
+•     Minor impact on usage
+•     Acceptable workaround deployed
+8 Hours	  	 •     No Escalation
+
+
+4.      Low – Minor Problem
+•     Minor product problem (product usages, bug report, documentation etc.
+40 Hours	  	 •     No Escalation
+
+
+Escalation Procedures
+During the process of resolving a customer support ticket, the priority may be escalated. This occurs in one of three ways:
+
+
+•	 	 Customer Request
+
+
+
+
+•	 	 Time Based
+
+
+
+
+•	 	 TSE Escalation
+
+
+The following table outlines the
+issue update intervals:
+
+
+
+Severity Criteria
+Escalation – Problem Resolution
+Update Interval
+
+1.      Critical – Customer Production Down
+TSO Manager – 4 Hours
+PSO Practice Manager
+– 12 Hours
+VP of PSO & VP Engineering – 24 Hours
+Every 2 Hours
+
+2.      High – Major Feature/Function failure
+TSO Manager – 24 Hours
+PSO Practice Manager
+– 24 Hours
+VP of PSO & VP Engineering – 24 Hours
+Every 24 Hours
+
+3.      Medium – Minor Feature/Function failure
+TSO Manager – 5 Days	  	Weekly
+
+4.      Low – Minor Problem
+Fix requested for upcoming releases	  	No Updates
+
+3.2. Selectica will use diligent efforts to identify defective source code and to resolve each significant Program
+Error by providing either a reasonable workaround, an object code patch (or equivalent) or a specific action plan for how Selectica will address the problem and an estimate of how long it will take to rectify the defect.
+
+
+
+
+Selectica Confidential	  	12	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+3.3. Selectica agrees to support a given revision of the Software for the shorter of: (a) twelve (12) months from
+the date such revision is superseded by the next sequential Upgrade; or (b) until such revision is superseded by two (2) sequential Upgrades.
+
+
+4.	OTHER MAINTENANCE AND SUPPORT POLICIES
+
+Reporting Problems and
+Response. Customer shall report problems: (i) via access to Selectica’s secure website at “www.selectica.com”, (ii) by email notification to “support@selectica.com”, or (iii) by telephone
+call to 1-866-512-3825. Customer shall designate up to two (2) users who will act as Selectica’s primary contact for reporting problems and being Selectica’s primary contact. Selectica will provide ongoing customer support and will
+respond to reported problems.
+Additional Maintenance and Support Fees. If it is determined that Program errors are due solely to Customer or third
+party hardware or software, Selectica reserves the right to charge Customer additional technical support fees at its then standard rates for technical support services performed in connection with those Program Errors for service or support provided
+to CA after Selectica and CA agree that Program Errors are not due to Selectica software. Notwithstanding the foregoing, Selectica has no obligation to perform technical support services in connection with Program Errors resulting from hardware or
+software not supplied by Selectica.
+Reinstatement of Maintenance and Support. If Maintenance and Support lapses for a period less than six
+(6) months from the renewal date, reinstatement of lapsed Maintenance and Support is subject to payment of the previously contracted rates. If Maintenance and Support lapses for a period greater than six (6) months from the renewal date,
+reinstatement of lapsed Maintenance and Support is subject to payment of the previously contracted rates plus 10%. However, fees for the annual term following reinstatement shall revert to the previously contracted rate. Any reinstatement of
+Maintenance and Support is contingent upon Customer upgrading the software to the most current release. If professional services are required to upgrade the software, Selectica and Customer shall execute a mutually agreeable statement of work to
+effectuate the upgrade.
+Renewal of Maintenance and Support:. Selectica shall notify CUSTOMER on or before sixty (60) says prior to the
+expiration of each annual term and CUSTOMER shall elect whether to renew Maintenance and Support. In the event that CUSTOMER fails to notify Selectica, the Maintenance and Support shall automatically renew for an annual period subject to termination
+as set forth in this Agreement. Renewal of Maintenance and Support shall be for an annual term at the same rate set forth in the Master License Agreement. During the first five (5) annual terms, Selectica may not increase the rates for
+Maintenance and Support without the express written consent of Customer.
+
+
+5.	INVOICING AND PAYMENT
+
+Maintenance will be invoiced annually in
+advance per the terms of the Master License Agreement.
+
+
+6.	ADDITIONAL ESCALATION TERMS
+
+
+
+1.	Upon request but no more than monthly, Selectica agrees to provide Customer with historical incident related statistics to facilitate staffing and impact assessment. This includes,
+but is not necessarily limited to incident categories, resolution criteria, volumes of incidents against distributed licenses, and other factors that may help Customer understand and plan for delivery of technical support.
+
+
+
+
+2.	Upon request but no more than monthly, Selectica agrees to make all reasonable attempts to provide Customer with relative historical incident data to support the development of end
+user self-service including, raw knowledge, knowledge utilization statistics, and access to online knowledge.
+
+
+
+3.	Selectica agrees to provide and maintain within its reasonable commercial efforts, a Selectica Customer Support advocate within the Selectica Customer Support organization to
+represent the Customer management team to Selectica Customer Support on issues outside of normal Selectica Software support activities.
+
+
+
+
+
+Selectica Confidential	  	13	  	Final 2 12 09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.	Selectica agrees to notify in writing, and in advance of one year, intentions to discontinue support for any currently supported Selectica Software licensed to Customer.
+
+
+
+
+5.	Upon request but no more than monthly, Customer and Selectica agree to make any and all reasonable attempts to share or communicate, incident or problem resolution related
+information that will support future enhancements to the Selectica Software set-up, installation, configuration, help files or make other such reasonable enhancements to support related end user self-service infrastructure, to reduce incident
+volumes to both Customer and Selectica through the mutual improvement of the end user experience.
+
+
+
+6.	Customer and the Selectica Customer Support advocate agree to conduct, upon the reasonable request of either party, quarterly reviews of the overall effectiveness of the Selectica
+Customer Support relationship, identify areas for improvement and identify potential training requirements. This includes a review of performance statistics for relevant areas of the relationship provided by a Selectica Customer Support Senior
+Manager from Customer and Selectica. All available metrics should be used to evaluate the effectiveness of the support relationship including, but not necessarily limited to:
+
+
+
+•	 	 incident volumes
+
+
+
+
+•	 	 incident telephony (ACD or Other) statistics
+
+
+
+
+•	 	 Resolution criteria
+
+
+
+
+•	 	 Escalation details
+
+
+
+
+•	 	 incident or problem details
+
+
+
+
+7.	Customer and Selectica will redact any confidential customer information with regard to data sharing obligations set forth herein.
+
+
+
+
+
+Selectica Confidential	  	14	  	Final 2 12 09
+
+
+

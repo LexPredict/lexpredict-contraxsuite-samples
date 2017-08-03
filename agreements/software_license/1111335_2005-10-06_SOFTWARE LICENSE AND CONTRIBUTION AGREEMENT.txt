@@ -1,0 +1,730 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+Exhibit 10.7
+
+SOFTWARE LICENSE AND CONTRIBUTION AGREEMENT
+
+This SOFTWARE AGREEMENT ("Software Agreement") dated as of September 30,
+2005 is made by and among VISTEON CORPORATION, a Delaware corporation
+("Visteon"), VISTEON GLOBAL TECHNOLOGIES, INC., a Michigan Corporation ("VGTI"),
+and AUTOMOTIVE COMPONENTS HOLDINGS, INC., a Delaware corporation (the
+"Company"), and shall be effective as of the closing of the Contribution
+Agreement (as defined below) (such time, the "Effective Time"). Visteon and the
+Company are each individually referred to herein as a "Party," and collectively,
+as the "Parties."
+
+WITNESSETH:
+
+WHEREAS, Visteon and the Company have entered into a Contribution Agreement
+dated as of September 12, 2005 (the "Contribution Agreement") pursuant to which,
+among other things, Visteon has transferred (or caused to be transferred) to
+Automotive Components Holdings, LLC, a Delaware limited liability company and
+wholly owned subsidiary of the Company ("ACH LLC"), certain intellectual
+property and software assets related to the Business (as defined in the
+Contribution Agreement);
+
+WHEREAS, Visteon, VGTI, the Company and ACH LLC have entered into,
+concurrently with the execution and delivery of this Agreement, an Intellectual
+Property Contribution Agreement (the "IP Agreement") setting forth intellectual
+property assets to be contributed to ACH LLC and associated rights and
+limitations thereof;
+
+WHEREAS, Visteon and ACH LLC have entered into, concurrently with the
+execution and delivery of this Agreement, a Master Services Agreement (the
+"Master Services Agreement"), whereby certain Services (as defined in the Master
+Services Agreement) will be provided by Visteon to ACH LLC, its Affiliates, Ford
+Motor Company and certain ACH Buyers (as defined herein); and
+
+WHEREAS, it is a condition of the Contribution Agreement that Visteon, VGTI
+and the Company enter into this Software Agreement, which sets forth the terms
+and conditions under which certain software will be contributed or licensed by
+Visteon and VGTI to the Company, its Affiliates and certain ACH Buyers as of the
+Effective Time.
+
+NOW THEREFORE, in consideration of the above premises and the mutual
+covenants herein contained, and for other good and valuable consideration given
+by each party hereto to the other, the sufficiency and receipt of which are
+hereby acknowledged, the parties hereto, for themselves, their successors and
+permitted assigns, intending to be legally bound, agree as follows:
+
+
+1
+<PAGE>
+ARTICLE 1.
+DEFINITIONS
+
+Section 1.01 Definitions.
+
+Capitalized terms set forth in this Agreement (including any plurals) shall
+have the meanings set forth in this in Article 1 when such terms are used in
+this Agreement. Capitalized terms used herein or not otherwise defined shall
+have the meanings ascribed to them in the Contribution Agreement.
+
+"Confidential Information" has the meaning set forth in Section 5.01.
+
+"Consent Expenses" means any costs and expenses incurred by Visteon, other
+than Transfer Fees, associated with obtaining any necessary consents,
+permissions and waivers required for Visteon to make the contribution and grant
+of licenses granted to any of the Company, ACH LLC and Ford under and during the
+term of this Software Agreement.
+
+"Contributed Software" means Contributed Visteon Owned Software and
+Contributed Third Party Software.
+
+"Contributed Software Infringement Claims" has the meaning set forth in
+Section 2.03.
+
+"Contributed Third Party Software" has the meaning set forth in Section
+2.02.
+
+"Contributed Visteon Owned Software" has the meaning set forth in Section
+2.01.
+
+"Derivative Work" means a work of authorship based on one or more
+preexisting works, including, without limitation, a translation, condensation,
+transformation, expansion or adaptation, which, if prepared without
+authorization of the owner of the copyright of such preexisting work, would
+constitute a copyright infringement. The term "Derivative Work" does not include
+the preexisting work upon which the Derivative Work is based.
+
+"Licensed Services Software" has the meaning set forth in Section 3.03.
+
+"Licensed Software" means Licensed Visteon Owned Software, Licensed Visteon
+Third Party Software and Licensed Services Software.
+
+"Licensed Visteon Owned Software" has the meaning set forth in Section
+3.01.
+
+"Licensed Visteon Third Party Software" has the meaning set forth in
+Section 3.02.
+
+"Manuals and Documentation" means all design specifications, operating
+manuals, user manuals, operating instructions and other information, in written
+or electronic form, for operation of any Software.
+
+"Services" shall have the meaning ascribed thereto in the Master Services
+Agreement.
+
+"Software" means computer programs, whether represented in object code,
+source code, or any other format, as well as any customization of such programs
+and any modifications,
+
+
+2
+<PAGE>
+enhancements, updates, upgrades, Derivative Works or subsequent releases
+thereto, but excluding any such computer programs, whether represented in object
+code, source code, or any other format, as well as any customization of such
+programs and any modifications, enhancements, updates, upgrades or subsequent
+releases thereto included in Engineering Design Tools or Non-Patented Product
+Design IP and Manufacturing IP as set forth in the IP Agreement.
+
+"Third Party Software" has the meaning set forth in Section 7.02.
+
+"Transfer Fees" means any fees paid to a third-party software licensor that
+are necessary for Visteon to make the contributions made and grant the licenses
+to the Company granted under this Software Agreement.
+
+"Visteon Licensed Software" shall have the meaning ascribed thereto in the
+Master Services Agreement.
+
+"Visteon Owned Software" shall have the meaning ascribed thereto in the
+Master Services Agreement.
+
+"ACH Buyer" shall have the meaning ascribed thereto in the Master Services
+Agreement.
+
+ARTICLE 2.
+CONTRIBUTION OF SOFTWARE USED SOLELY FOR THE BUSINESS
+
+Section 2.01 Contribution of Visteon Owned Software Used Solely for the
+Business.
+
+Except as otherwise provided in Section 2.02 of the Contribution Agreement,
+upon the terms and subject to the conditions of this Agreement (including
+Section 7.02 below), Visteon and VGTI agree to convey, transfer, assign and
+deliver, or cause to be conveyed, transferred, assigned and delivered, to ACH
+LLC (a direct, wholly-owned Subsidiary of the Company), or one or more other
+Subsidiaries of the Company as the Company may designate prior to the Closing,
+at (and not before) the Closing as a capital contribution, free and clear of all
+Liens, other than Permitted Liens, all of Visteon's and VGTI's right, title and
+interest in, and to the Software owned (and not licensed) by Visteon, together
+with all existing maintenance and support obligations for such Software, that is
+used solely (i) for the operation of, or (ii) to support, the Business
+(collectively the "Contributed Visteon Owned Software") as the same shall exist
+on the Closing Date. Contributed Visteon Owned Software shall not include
+Contributed Third Party Software, Licensed Visteon Third Party Software and
+Licensed Visteon Owned Software. Subject to Section 7.03 herein, all Contributed
+Visteon Owned Software is set forth in Schedule 1 hereof.
+
+Section 2.02 Contribution of Certain Visteon Licensed Software Used Solely for
+the Business.
+
+Except as otherwise provided in Section 2.02 of the Contribution Agreement,
+upon the terms and subject to the conditions of this Agreement (including
+Section 7.02 below), Visteon and VGTI agree to convey, transfer, assign and
+deliver, or cause to be conveyed, transferred, assigned and delivered, to ACH
+LLC (a direct, wholly-owned Subsidiary of the Company), or one or more other
+Subsidiaries of the Company as the Company may designate prior to the
+
+
+3
+<PAGE>
+Closing, at (and not before) the Closing as a capital contribution, free and
+clear of all Liens, other than Permitted Liens, all of Visteon's and its VGTI's
+right, title and interest in, to the Software licensed (as opposed to owned) by
+Visteon, together with all existing prepaid maintenance and support for such
+Software, (a) that is used solely (i) for the operation of, or (ii) to support
+of the Business, or (b) that is held under user, site or other forms of
+divisible licenses or ownership, as opposed to non-divisible or concurrent
+licenses held by Visteon, and the divisible portion thereof is used solely (i)
+for the operation of, or (ii) to support the Business (collectively "Contributed
+Third Party Software"), as the same shall exist on the Closing Date. Contributed
+Third Party Software shall not include Contributed Visteon Owned Software,
+Licensed Visteon Third Party Software and Licensed Visteon Owned Software.
+Subject to Section 7.03 herein, all Contributed Third Party Software is set
+forth in Schedule 2 hereof.
+
+Section 2.03 Infringement Claims and Actions.
+
+With respect to the Contributed Visteon Owned Software and Contributed
+Third Party Software only, and except as otherwise provided in Section 2.02 of
+the Contribution Agreement, upon the terms and subject to the conditions of this
+Agreement (including Section 7.02 below), Visteon and VGTI agree to convey,
+transfer, assign and deliver, or cause to be conveyed, transferred, assigned and
+delivered, to ACH LLC (a direct, wholly-owned Subsidiary of the Company), or one
+or more other Subsidiaries of the Company as the Company may designate prior to
+the Closing, at (and not before) the Closing as a capital contribution, free and
+clear of all Liens, other than Permitted Liens, all of Visteon's and VGTI's
+right, title and interest in (i) all intellectual property, and (ii) all causes
+of action and rights of recovery for past infringement of the intellectual
+property, to the extent such intellectual property, causes of action and right
+of recovery are owned by Visteon and VGTI and are associated solely with the
+Contributed Visteon Owned Software and Contributed Third Party Software
+(collectively "Contributed Software Infringement Claims") as the same shall
+exist on the Closing Date. For the avoidance of doubt, Contributed Software
+Infringement Claims shall not include any causes of action or rights of recovery
+of Visteon and VGTI with respect to Licensed Visteon Third Party Software and
+Licensed Visteon Software.
+
+Section 2.04 Manuals and Documentation.
+
+To the extent Visteon and VGTI possess Manuals and Documentation related to
+the Contributed Visteon Software and the Contributed Third Party Software,
+Visteon and VGTI shall provide such Manuals and Documentation to the Company.
+
+Section 2.05 Transfer or Assignment of Contributed Software and Infringement
+Claims.
+
+As soon as practicable after execution of this Software Agreement, and
+subject to the terms and conditions of this Agreement, Visteon, VGTI and the
+Company will (i) review and prepare proposed modifications to those contracts
+that are affected by the transfers provided in this Article 2. The Parties will
+then seek consent from any third party licensors affected by such proposed
+modifications, and, (ii) in accordance with any requirements of such third party
+licensors, shall take such actions as are necessary to establish and reflect the
+Company ownership, including transfer to the Company of the right to receive
+royalty payments where required.
+
+
+4
+<PAGE>
+Section 2.06 Consideration.
+
+The contributions made pursuant to this Article 2 and the grant of the
+licenses set forth in Article 3 below to the Company are made by Visteon and
+VGTI pursuant to the obligations under the Contribution Agreement and in
+consideration set forth therein.
+
+ARTICLE 3.
+SOFTWARE LICENSES
+
+Section 3.01 Licensed Visteon Owned Software.
+
+Subject to Article 5 and Section 7.02 below, Visteon and VGTI hereby grant
+to the Company and the Company hereby accepts, a nonexclusive, paid-up,
+perpetual, royalty-free, worldwide, license or sublicense, severable and
+separately assignable only as permitted under the Section 3.04 herein, including
+the rights and license to use, perform, display, copy, obtain services and to
+prepare Derivative Works, to all Visteon Owned Software (other than Contributed
+Visteon Owned Software) that is used by Visteon (i) for the operation of, or
+(ii) to support the Business, as the same shall exist on the Closing Date
+("Licensed Visteon Owned Software"). Such license shall include the right of the
+Company to grant a sublicense to the Company's Subsidiaries and to Ford Motor
+Company for so long as the Company remains a subsidiary of Visteon or is
+controlled by Ford or an Affiliate thereof ("Ford"). Licensed Visteon Owned
+Software shall not include Contributed Visteon Owned Software, Contributed Third
+Party Software, and Licensed Visteon Third Party Software. Subject to Section
+7.03, all Licensed Visteon Owned Software is set forth in Schedule 3 hereof.
+
+Section 3.02 Licensed Visteon Third Party Software.
+
+Subject to Section 3.04, Section 3.07(b), Article 5 and Section 7.02 below,
+Visteon and VGTI hereby grant to the Company (which such license shall include
+the right to grant sublicenses to the Company's Subsidiaries and to Ford for so
+long as the Company remains a subsidiary of Visteon or is controlled by Ford),
+and the Company hereby accepts, a non-exclusive, paid-up, royalty free license
+or sub-license, as applicable, severable and separately assignable, to access,
+use, perform, display prepare Derivative Works and/or reproduce, for the
+Company's internal business purposes the Visteon Licensed Software, together
+with all existing prepaid maintenance and support for such Visteon Licensed
+Software, (a) that is used by Visteon (i) for the operation of, or (ii) to
+support of the Business, and (b) that is held by Visteon under non-divisible or
+concurrent licenses and used by Visteon (i) for the operation of, or (ii) to
+support the Business, as the same shall exist on the Closing Date, other than
+included in Contributed Visteon Owned Software, Contributed Third Party
+Software, and Licensed Visteon Owned Software ("Licensed Visteon Third Party
+Software"). Subject to Section 7.03, all Licensed Visteon Third Party Software
+is set forth in Schedule 4 hereof. All prepaid fees for software maintenance and
+licensing agreements relating to Licensed Visteon Third Party Software existing
+as of the date hereof are set forth in reasonable detail on Schedule 5 hereof.
+
+
+5
+<PAGE>
+Section 3.03 Licensed Services Software.
+
+Subject to Section 3.04, Section 3.07(b), Article 5 and Section 7.02 below,
+and solely to the extent necessary to permit the Company to receive the Services
+under the Master Services Agreement, Visteon hereby grants to the Company (which
+such license shall include the right to grant sublicenses to the Company's
+Subsidiaries and to Ford for so long as the Company remains a subsidiary of
+Visteon or is controlled by Ford), and the Company hereby accepts, a
+non-exclusive, paid-up, royalty free license or sub-license, as applicable,
+severable and separately assignable only as permitted under Section 3.04 herein,
+to access, use and/or reproduce, for the Company's internal business purposes,
+the Visteon Licensed Software and Visteon Owned Software that is used by Visteon
+to provide the Services, other than included in Contributed Visteon Owned
+Software, Contributed Third Party Software, Licensed Visteon Owned Software and
+Licensed Visteon Third Party Software ("Licensed Services Software"). The term
+of the license granted in this Section 3.03 is set forth in Section 3.10.
+
+Section 3.04 Sublicenses to ACH Buyers and Ford.
+
+(a) Subject to Section 3.07(b) and Article 5 below, the Company may grant
+to a ACH Buyer who satisfies Section 3.3 of the Master Services Agreement a
+nonexclusive, nontransferable license to the Licensed Software with rights
+equivalent to those set forth in Section 3.01, Section 3.02 and Section 3.03
+hereof, as applicable, provided, however, that any such ACH Buyer (i) shall not
+have the right to further sublicense any such Licensed Software, and (ii) may
+use such Licensed Software solely for the internal business purposes of such ACH
+Buyer.
+
+(b) During the term of the licenses granted under this Article 3, and only
+in connection with the transfer of any Plant(s) by the Company to Ford, the
+Company may sublicense or assign all or a portion of the Licensed Software to
+Ford. In the event of a sublicense or an assignment, the terms of such
+sublicense shall be granted to the same extent and under the same terms as
+provided to the Company hereunder, except that the restrictions set forth in
+Section 3.04(a)(i) and (ii) above shall apply.
+
+(c) As part of any sublicense or assignment permitted under this Section
+3.04, each such ACH Buyer or Ford, as appropriate, must agree to assume, as part
+of such sublicense or assignment, the Company's obligations arising after the
+effective date of such sublicense or assignment with respect to the Software
+that is the subject of such sublicense or assignment as set forth herein. In
+addition, Visteon shall either be expressly designated as a third party
+beneficiary of, or shall be a party to, any such assignment or sublicense
+agreement.
+
+Section 3.05 Manuals and Documentation.
+
+To the extent Visteon and VGTI possess Manuals and Documentation related to
+the Contributed Software, Visteon and VGTI shall provide such Manuals and
+Documentation to the Company.
+
+
+6
+<PAGE>
+Section 3.06 Ownership and Transfer or Assignment of Licensed Software.
+
+Subject to the agreement herein to transfer Contributed Software, the
+Company agrees that it will not make any claim of ownership to any right, title
+or interest to the Licensed Software or copies thereof contrary to Visteon's or
+VGTI's claim of ownership or to Visteon's or VGTI's rights to grant licenses for
+the Licensed Software.
+
+Section 3.07 Copy and Use Restrictions.
+
+(a) The Company may copy the Licensed Software as reasonably necessary for
+backup, archival or disaster recovery purposes. The Company and ACH Buyer(s) may
+reproduce printed Manuals and Documentation in their entirety for internal use
+only.
+
+(b) The Company agrees that it will not use the Licensed Software except as
+authorized herein, and, except as expressly permitted under Section 3.02,
+Section 3.03 and Section 3.04 with respect to Ford or to ACH Buyer(s), that it
+will not make Licensed Software available for use by or for the direct benefit
+of any third person, corporation, customer or other entity, except to the extent
+necessary to use such Licensed Software for the Company's benefit. The Company
+acknowledges that the licenses granted to Licensed Visteon Third Party Software,
+Licensed Services Software and the Contributed Third Party Software are subject
+to existing restrictions and limitations on use as set forth in underlying
+agreements with third party licensors. Accordingly, the Company agrees (and
+shall cause all ACH Buyers and Ford to agree in connection with the transfer or
+sublicense of any such software) to use the software in accordance with the
+terms of such agreements to the extent the applicable terms as expressly set
+forth in such agreement are made available to the Company by Visteon.
+
+(c) The Company, at its sole cost and expense, may obtain the services of a
+third party vendor to maintain the Licensed Visteon Owned Software and Licensed
+Visteon Third Party Software, provided (i) Visteon is notified of the identity
+of the third party vendor, and (ii) the third party vendor signs an agreement
+that is mutually agreeable to the Parties (including either expressly
+designating Visteon as a third party beneficiary of, or including Visteon as a
+party to, any such agreement) and sends a copy thereof to Visteon.
+
+Section 3.08 Delivery of Software.
+
+Subject to Section 7.02 of this Software Agreement, Contributed Software
+will be delivered to the Company at Closing.
+
+Section 3.09 License to Visteon.
+
+Subject to Article 5 below, the Company hereby grants to Visteon, solely to
+provide the Services to the Company, a worldwide, royalty-free, non-exclusive,
+paid-in-full, and non-transferable (except in the event of the assignment of all
+of Visteon's rights, duties and obligations under the Master Services Agreement
+to a wholly-owned subsidiary of Visteon as permitted thereunder) right and
+license to have access to, operate, use, modify, alter and create Derivative
+Works of the Software, Documentation and Manuals owned by the Company during the
+Term of the Master Services Agreement, all of which shall remain the sole and
+exclusive property of the Company or the applicable third party licensor, as
+appropriate.
+
+
+7
+<PAGE>
+Section 3.10 Term and Termination of License to Licensed Services Software.
+
+The term and termination of the license granted in Section 3.03 above to
+the Licensed Services Software (including any subsequent assignment or
+sublicense of such Licensed Services Software to a ACH Buyer or Ford) shall be
+co-terminous with the term and termination of the Master Services Agreement or
+the term of a Participation Agreement, whichever term is longer. Upon
+termination of such licenses, all rights granted to the applicable licensee or
+sublicense hereunder shall terminate, and such licensee or sub-licensee shall
+(a) cease using the Licensed Services Software that is the subject of the
+license or sublicense (whether or not modified or merged into other materials),
+(b) certify in writing to Visteon that all copies (in any form or media) of such
+Licensed Services Software have been destroyed or returned to Visteon. The
+provisions of Articles 2, 3, 4, 5, 6 and 7 shall survive any termination hereof.
+
+ARTICLE 4.
+REPRESENTATIONS AND WARRANTIES
+
+Section 4.01 Representations and Warranties.
+
+The Parties agree that all representations and warranties relating to
+matters contemplated herein are set forth in the Contribution Agreement.
+
+ARTICLE 5.
+CONFIDENTIALITY
+
+Section 5.01 Confidentiality.
+
+(a) Each of Visteon and the Company agrees to hold in confidence, and to
+use only as permitted by this Agreement, all information that is disclosed under
+this Agreement and designated by the disclosing Party in writing or by
+appropriate stamp or legend as "CONFIDENTIAL" or some similar marking of like
+importance, or where the nature of the information is such that a reasonable
+person who deals with such information would believe that a party intends or is
+obligated to maintain it as confidential (hereinafter "Confidential
+Information"). For the avoidance of doubt, the Parties agree that Confidential
+Information shall include information of third party licensors that is
+designated as confidential under the terms of an agreement between Visteon and
+such third party licensor provided that such information is designated by the
+disclosing Party in writing or by appropriate stamp or legend as "CONFIDENTIAL"
+or some similar marking of like importance. The receiving Party agrees to use
+the same degree of care, but no less than a reasonable degree of care, to
+prevent the unauthorized use and disclosure of the Confidential Information to
+third parties (including Ford) as it uses to protect its own confidential
+information of like importance.
+
+(b) To the extent that any third-party licensor of any Licensed Visteon
+Third Party Software or Licensed Services Software to be disclosed or made
+available to the Company in connection with the licenses granted herein or the
+performance of the Services requires the Company to execute a non-disclosure
+agreement as a condition of its consent to use of the same for the benefit of
+the Company or to grant the Company access to such Software, the Company
+
+
+8
+<PAGE>
+agrees to use commercially reasonable efforts to negotiate and execute an
+acceptable non-disclosure agreement with such third-party.
+
+(c) Except as specified below, the obligations of this Article 5 shall
+terminate on the expiration or termination of the Master Services Agreement,
+after which the party having received the Confidential Information shall limit
+further disclosure in the same manner as that party protects its own
+confidential information of like importance.
+
+(d) Notwithstanding any other provision of this Agreement, the obligations
+of restricted disclosure and use specified herein will not apply to Confidential
+Information which: (i) is available as of the Effective Time or becomes
+available to the public without breach of this Agreement; (ii) is authorized for
+release in writing by the disclosing Party prior to the applicable disclosure;
+(iii) is lawfully obtained from a third party or parties without a duty of
+confidentiality; (iv) is disclosed to a third party by the disclosing Party
+without a similar duty of confidentiality; or (v) is at any time developed by
+the receiving Party independently of any related disclosure(s) from the
+disclosing Party.
+
+(e) With regard to any Confidential Information disclosed pursuant to this
+Agreement, the receiving Party shall not be liable for unauthorized disclosure
+of such Confidential Information pursuant to judicial action or governmental
+regulations or requirements, provided that the receiving Party notifies the
+disclosing Party of the need for such disclosure within a reasonable period of
+time before such disclosure is required.
+
+Section 5.02 Certain Disclosures to Third Parties.
+
+(a) Notwithstanding any other provisions of this Article 5, and provided it
+is not otherwise restricted under this Agreement, disclosure of Confidential
+Information by a licensed party under this Agreement to a third party will be
+permitted only to the extent necessary to carry out the license grants herein,
+and only after such third party agrees to adhere to confidentiality provisions
+at least as restrictive as those adhered to by the licensee under this Agreement
+and to use such Confidential Information only to provide products to, or
+purchase products from, the licensee herein.
+
+(b) With respect to Confidential Information that includes software of the
+type embedded in a product or associated tools, disclosure by a licensee under
+this Agreement to a third party will be permitted only to the extent necessary
+to carry out the license grants herein, and further provided that such third
+party agrees to: protect such software for a period of at least five (5) years
+from date of disclosure; use such Confidential Information only to provide
+products to, or design, test and manufacture products for, or purchase products
+from, the licensed party herein; and limit access to its employees having a need
+to use such Confidential Information to provide products to, or design, test and
+manufacture products for, or purchase products from, the licensed party herein.
+
+(c) In no event shall a licensee disclose Confidential Information or other
+intellectual property owned or licensed by a third party to the extent such
+disclosure would violate any applicable license agreement or applicable trade
+secret or copyright or other Laws.
+
+
+9
+<PAGE>
+ARTICLE 6.
+NOTICE
+
+Section 6.01 Notice.
+
+All notices, requests and other communications to any party hereunder shall
+be in writing (including facsimile transmission and electronic mail ("e-mail")
+transmission, so long as a receipt of such e-mail is requested and received) and
+shall be given,
+
+if to the Company, to:
+
+Ford Motor Company
+Office of the Secretary
+One American Road
+11th Floor World Headquarters
+Dearborn, Michigan 48126
+Attention: Peter J. Sherry, Jr.
+Facsimile No.: (313) 248-8713
+E-mail: psherry@ford.com
+
+with a copy to:
+
+Ford Motor Company
+Office of the General Counsel
+One American Road
+320 World Headquarters
+Dearborn, Michigan 48126
+Attention: Marcia J. Nunn
+Facsimile No.: (313) 337-3209
+E-mail: mnunn@ford.com
+
+if to Visteon or VGTI, to:
+
+Visteon Corporation
+One Village Center Drive
+Van Buren Township, Michigan 48111
+Attention: John Donofrio, General Counsel
+Facsimile No.: (734) 710-7132
+E-mail: jdonofri@visteon.com
+
+or such other address or, facsimile number or e-mail address as such party may
+hereafter specify for the purpose by notice to the other parties hereto. All
+such notices, requests and other communications shall be deemed received on the
+date of receipt by the recipient thereof if received prior to 5:00 p.m. in the
+place of receipt and such day is a Business Day in the place of receipt.
+Otherwise, any such notice, request or communication shall be deemed not to have
+been received until the next succeeding Business Day in the place of receipt. As
+used in this Section
+
+
+10
+<PAGE>
+6.01, "Business Day" means any day other than a Saturday, a Sunday or a jointly
+observed Ford/Visteon holiday.
+
+ARTICLE 7.
+MISCELLANEOUS
+
+Section 7.01 Obligation to Disclose Technology.
+
+Visteon and VGTI each agree to put forth a good faith effort to deliver
+copies of all documentation and information, in addition to Manuals and
+Documentation, requested by the Company as part of the Contributed Software as
+necessary to give full enabling effect to the licenses granted hereunder,
+provided that the Company agrees to pay for the reasonable administrative costs
+for copying and delivering the requested copies of documents and information and
+to comply with the confidentiality and non-disclosure requirements of third
+parties. The foregoing obligation to copy and deliver the requested documents
+and information shall terminate April 1, 2006.
+
+Section 7.02 Transfer or Assignment of Software Licenses and Rights.
+
+Notwithstanding anything in any Contribution Agreement Transaction Document
+to the contrary, this Software Agreement and this Article 7 shall apply to all
+transfers, assignments, licenses and sublicenses of Contributed Software and
+Licensed Software between the Parties and consents required therefor. This
+Agreement shall not constitute an agreement to convey, transfer, assign,
+license, or sublicense any Contributed Third Party Software, Licensed Visteon
+Third Party Software or Licensed Services Software (collectively "Third Party
+Software") or any claim or right or any benefit arising thereunder or resulting
+therefrom if such conveyance, transfer or assignment, without the consent of a
+third party thereto, would constitute a breach or other contravention of any
+license or other agreement between Visteon, VGTI any third party with respect to
+such Third Party Software (unless such consent is obtained prior to the
+Closing). Visteon and VGTI will use their best efforts, and the Company shall
+cooperate as necessary, to obtain the consent of the other parties with respect
+to any such Third Party Software or any claim or right or any benefit arising
+thereunder for the assignment thereof to the Company (or any Subsidiary of the
+Company); provided, that, except as set forth in Section 7.04 hereof, such
+efforts shall not require Visteon or the Company to incur any material expenses
+or Liabilities or provide any material financial accommodation or to provide a
+guarantee to obtain any such consent (provided that Visteon agrees to accept a
+consent notwithstanding that it does not include a release). Subject to Section
+7.04, if such consent is not obtained, or if an attempted conveyance, transfer,
+assignment, license or sublicense thereof would be ineffective, would adversely
+affect the rights of Visteon thereunder so that the Company would not in fact
+receive all such rights, or would require a material payment by the Company or
+Visteon, until such consent is obtained (whereupon such Third Party Software
+shall be promptly transferred by Visteon to the Company or applicable Subsidiary
+of the Company pursuant to the applicable provisions of this Agreement), Visteon
+and the Company will cooperate in a mutually agreeable arrangement under which
+the Company would obtain benefits and assume obligations thereunder, including
+making any required payments thereunder, in accordance with this Agreement,
+including sub-contracting, sub-licensing, or sub-leasing to the Company, or
+under which Visteon would enforce or operate for the benefit of the Company the
+applicable Third
+
+
+11
+<PAGE>
+Party Software and any claim, right or benefit arising thereunder. Visteon will
+promptly pay to the Company when received all monies received by Visteon from
+any third party under any agreement between Visteon and a third party to the
+extent such monies are received with respect to any Contributed Visteon Owned
+Software or any claim, right or benefit arising thereunder, except to the extent
+the same represents an Excluded Asset.
+
+Section 7.03 Inadvertent Omissions.
+
+(a) Visteon and VGTI have used good faith efforts to identify all Software
+to be transferred and licensed to the Company as required by the Contribution
+Agreement. To the extent any Software or other rights are discovered or
+identified at any time before or after the Closing Date which, pursuant to
+Article 2 or Article 3 hereof should have been transferred or licensed to
+Company but are still in Visteon's or any of Visteon's Affiliates' possession or
+not listed in the Schedules herein, Visteon shall immediately transfer and
+promptly deliver them (or cause them to be delivered) to the Company or include
+them in the appropriate Schedules hereto.
+
+(b) To Visteon's knowledge, the Schedules and attachments hereto include
+all Software existing as of June 15, 2005 to be contributed or licensed to the
+Company. The Parties agree that within ninety (90) days after Closing, they will
+cooperate and identify (i) any modifications or corrections necessary to the
+Schedules hereto, including, without limitation, changing the Schedule on which
+Software is listed, and (ii) all other Software to be contributed or licensed to
+the Company pursuant to this Agreement that is identified between June 15, 2005
+and Closing. The Parties agree that such Software will be added to the
+appropriate Schedule herein. In the event that new circumstances exist at
+Closing that affect the contribution or license of Software pursuant to this
+Agreement, the Parties will meet and mutually agree to the appropriate treatment
+of such Software.
+
+Section 7.04 Costs, Expenses and Fees.
+
+Visteon shall be responsible, at its sole cost and expense, for all Consent
+Expenses and the Company and Visteon will share equally in all Transfer Fees.
+Visteon and the Company shall cooperate to minimize any such Transfer Fees.
+
+Section 7.05 Consents.
+
+Visteon shall use commercially reasonable efforts, and the Company shall
+cooperate as necessary, to ensure that any consent, permission or waiver
+required to be provided to the Company shall also provide, to the extent
+applicable, for the future transfer of such consent, permission or waiver to a
+ACH Buyer and Ford.
+
+Section 7.06 Assignment.
+
+Except as set forth in Section 3.04 above with respect to the assignment or
+sublicensing of the licenses granted to the Company in Section 3.01, Section
+3.02 and Section 3.03 above, this Agreement shall be binding upon and inure to
+the benefit of the Parties hereto and their respective successors and permitted
+assigns; provided that, except as provided herein, no Party may assign, delegate
+or otherwise transfer any of its rights or obligations under this Agreement
+without the consent of the other Party hereto; provided, however, that Visteon
+may assign this
+
+
+12
+<PAGE>
+Agreement to any directly or indirectly wholly-owned subsidiary of Visteon
+without the consent of the Company.
+
+Section 7.07 Other Terms.
+
+All other terms and conditions of the Contribution Agreement, to the extent
+they do not conflict with the terms and conditions of this Software Agreement,
+are incorporated into this Software Agreement. In the event of a conflict of
+terms, the terms of the Contribution Agreement shall control.
+
+Section 7.08 Counterparts.
+
+This Software Agreement may be executed in two or more counterparts, all of
+which, taken together, shall be considered to be one and the same instrument.
+
+[Remainder of Page Intentionally Left Blank]
+
+
+13
+<PAGE>
+WHEREFORE, the parties have signed this Software License and Contribution
+Agreement as of the day and year first above written.
+
+VISTEON CORPORATION                     VISTEON GLOBAL TECHNOLOGIES, INC
+
+
+By: /s/ James F. Palmer                 By: /s/ James F. Palmer
+Name:   James F. Palmer                 Name:   James F. Palmer
+Title:  Executive Vice President and    Title:  Vice President
+Chief Financial Officer                ---------------------------------
+
+AUTOMOTIVE COMPONENTS HOLDINGS, INC.
+
+
+By: /s/ James F. Palmer
+Name:   James F. Palmer
+Title:  President
+
+
+14
+

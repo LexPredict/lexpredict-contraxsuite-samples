@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+1st Amendment to Jabber OEM Software License Agree
+
+
+
+EXHIBIT 10.17
+FIRST AMENDMENT
+TO
+JABBER OEM SOFTWARE
+LICENSE AGREEMENT
+This FIRST AMENDMENT TO JABBER OEM SOFTWARE LICENSE AGREEMENT (this “Amendment”) by and between Jabber, Inc., a Delaware
+corporation (“Jabber”), and France Telecom, a French corporation (“Distributor”), is dated as of October 17, 2002.
+RECITALS
+WHEREAS, Jabber and Distributor are parties to that certain Jabber OEM Software License Agreement dated as of October 1, 2001 (“Agreement”); and
+WHEREAS, the parties desire, pursuant to Section 36 of the Agreement, to amend certain provisions of the Agreement.
+AGREEMENT
+NOW, THEREFORE, in consideration of the mutual covenants, agreements and understandings herein contained, the receipt and
+sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+1.       Third Party Resellers. Each appearance in the Agreement of the term “Third Party Reseller” or “Third Party Resellers” is hereby replaced with the term “Affiliate” or
+“Affiliates,” respectively.
+2.       Amendment to Section 3(iv).
+Section 3(iv) of the Agreement is amended and restated in its entirety as follows:
+
+(iv) market, publicly perform, publicly display, sublicense and distribute the Software worldwide solely to Affiliates pursuant to Distribution Agreements (as defined below) entered into between Distributor and one or
+more Affiliates. The Affiliates shall have the right to sublicense the Software to any Customer (as defined below) solely for purposes of providing the Product to such Customer, provided that (i) the Software is hosted by the Affiliate on servers
+maintained and accessed exclusively by the Affiliate or its designee, and the Customer receives only remote access to the Software; (ii) the Customer is permitted to use the Software solely for its own internal business purposes (without the right
+of further sublicense or distribution); and (iii) the provision of the Software to Customers and the Product is branded under the Affiliate’s trade name or other proprietary indicia of commercial origin. Subject to the foregoing, Affiliates
+shall have the right to distribute the Software and the Product to Customers through authorized agents, provided that no Affiliate shall be relieved of any of its contractual or other
+
+
+
+
+
+
+
+
+
+
+
+obligations to Distributor and/or Jabber or liability therefore under this Agreement or the applicable Distribution Agreement by virtue of the appointment of such agents.
+
+
+3.       Amendment to Section 3(v). The first
+sentence of Section 3(v) of the Agreement is deleted in its entirety and the following sentence is added at the end of the Section:
+“A party will be assumed to control another party if it owns 20% or more
+of the party’s outstanding voting securities.”
+4.       Amendment to Section
+11. Section 11 of the Agreement is deleted and amended and restated in its entirety as follows:
+11.      Enhancements and Upgrades;
+Distributor-Developed Software. For Jabber to remain competitive, Jabber believes it should average at least two Major Upgrades to the Software during each of the next several years. In order to improve Jabber’s product
+development capabilities, Jabber desires to work closely with Distributor to develop upgrades to the Software, particularly upgrades designed to address the needs of current and potential Mobile and ISP and Public customers (as defined in Exhibit
+D). Jabber and Distributor have been working together to assist the other in its respective product development efforts. In the event that Distributor elects to pursue Part II, the parties will formalize their current working relationship in an
+effort to further accelerate their respective product development efforts. It is understood that by this Agreement, Distributor has not committed to make any of its intellectual property available to Jabber nor has Jabber committed to make any
+particular improvement to or number of Major Upgrades to the Software. Rather, this joint effort is intended to assist each party in its efforts to develop industry-leading products and services that it can market to its current and future
+customers.
+
+(i)  Jabber Software Release Schedules. During the Time-Based, Fixed Fee license period (as described in Exhibit D hereto) and the term of any period during which
+Distributor is licensing any New Releases (as defined in Exhibit D hereto), Distributor agrees to assist Jabber to accomplish its goal of releasing at least two Major Upgrades per year. A “Major Upgrade” shall mean any upgrade of the
+Software that introduces significant new functionalities, as determined by Jabber in its reasonable discretion.
+
+
+
+(ii)  Technical Cooperation. As part of the planning process associated with the development of Major Upgrades, Jabber and Distributor agree to cooperate closely in
+good faith and Jabber agrees to use its commercially reasonable best efforts to inform Distributor of the nature of at least 80% of the new capabilities it plans for each Major Upgrade at least 120 days before the planned release of the Major
+Upgrade. An internal discussion and dispute resolution process (the “Committee Process”) will be created to facilitate such cooperation and resolve any disputes arising in connection therewith. The Committee Process shall
+include:
+
+
+
+Technology Development Committee – This four to six member committee will be made up of architects, program managers, and technical product managers from Distributor
+and
+
+
+
+
+
+
+
+
+
+
+Jabber. This group will determine the convergence process for Distributor-created software, seek to define common technology direction for Jabber Major Upgrades, and negotiate any differences in the prioritization,
+technical approach, and validity of any change desired by Distributor or planned by Jabber. Any items that are not able to be resolved by this committee and that are considered by either party to be significant will be placed before the Technology
+Steering Committee for a best efforts attempt at resolution,
+
+
+
+Technology Steering Committee – This four to six member committee will be made up of senior- and executive-level technology personnel from Distributor and Jabber. This group will provide
+long-term strategic direction to the Technology Development Committee. The Technology Steering Committee will also seek to resolve any items of disagreement presented it by the Technology Development Committee. Any items that are not able to be
+resolved by this committee and that are considered by either party to be significant will be placed before the Executive Committee for a best efforts attempt at resolution,
+
+
+
+Executive Committee – This committee will be made up of one top-level executive from each of Distributor and Jabber. The Executive Committee is responsible for all aspects of the
+relationship between Distributor and Jabber, and will use best efforts to resolve any items of disagreement presented it by the Technology Steering Committee.
+
+
+
+The parties agree to actively pursue in good faith and to exhaust all remedies afforded by the Committee Process.
+
+
+
+5.	 	Amendment to Section 21. The first sentence of Section 21 of the Agreement is revised to read as follows:
+
+
+
+“Any and all assignment of rights or delegation of obligations under this Agreement by Distributor to any party other than an Affiliate, as defined in Section 3(iv) of this Agreement, provided that for purposes of
+this Section 21, control is represented by ownership of 50% or more of the voting securities of a company, are void without the express, prior written consent of Jabber.”
+
+
+
+6.	 	Amendment to Section 33. The second sentence of Section 33 of the Agreement is revised to read as follows:
+
+
+
+“The Parties agree to allow the use of each other’s names and official logos for promotional and publicity purposes including, without limitation, on marketing collateral and media kits and listings on web
+pages; provided that Jabber will not issue any press announcements regarding this Agreement without Distributor’s prior written consent, which consent will not be unreasonably withheld.
+
+
+
+7.	 	Amendment to Exhibit B. The last sentence of Exhibit B is amended and restated as follows:
+
+
+
+
+
+
+
+
+
+
+The Distributor’s Products shall mean any Product in which the Software is embedded in order to provide Instant Messaging (IM) services to Mobile, B-to-B and ISP and Public customers (as such terms are defined in
+Exhibit D hereto).
+
+
+6.       Amendment to Exhibit D.
+Exhibit D, including Attachment D-1, of the Agreement is deleted and amended and restated in its entirety to read as set forth in the attachment hereto.
+7.       Governing Law. Section 27 of the Agreement, “Governing Law,” is expressly incorporated herein by reference and made a part hereof.
+
+8.       No Third-Party Beneficiaries. The provisions of this Amendment
+are for the exclusive benefit of the parties hereto and their permitted assigns. Nothing contained in this Agreement will be deemed to create any third-party beneficiaries or confer any benefit or rights on or to any person not a party hereto, and
+no person not a party hereto (including without limitation customers, suppliers or creditors of either party) shall be entitled to enforce any provisions hereof or exercise any rights hereunder.
+9.       Definitions. All capitalized terms not defined herein shall have the meaning
+ascribed to them in the Agreement.
+10.      Effect of Amendment. Except as
+modified by this Amendment, the Agreement shall remain in full force and effect. In the event of any conflict between this Amendment and the Agreement, this Amendment shall prevail.
+
+
+
+
+
+
+
+11.      Counterparts. This Amendment may be executed
+simultaneously in one or more counterparts, any one of which need not contain the signatures of more than one party, but all such counterparts taken together shall constitute one and the same Amendment. This Amendment may be delivered by facsimile,
+and facsimile signatures will be treated as original signatures for all applicable purposes.
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this First Amendment to
+Jabber OEM License Agreement on the day and year first above written.
+
+JABBER, INC.
+By:
+/s/ GWENAEL HAGAN
+
+
+Name: 	Gwenael Hagan
+Its: 	COO/CFO
+
+
+
+FRANCE TELECOM
+By:
+/s/ P. VIGINIER
+
+
+Name: 	P. Viginier
+Its: 	Director of France Telecom R&D
+
+
+FIRST AMENDMENT TO OEM SOFTWARE LICENSE AGREEMENT
+Signature
+Page
+
+
+
+
+
+
+
+
+EXHIBIT D
+Payment Terms and Conditions
+This Payment Terms and Conditions is
+Exhibit D to the Jabber OEM Software License Agreement (the “Agreement”) entered into by Jabber, Inc. (“Jabber”) and France Telecom (“Distributor”) on Effective Date.
+Definitions. For purposes of this Agreement, the following terms shall have the following meanings:
+
+“Mobile” means the provisioning of carrier network service to end-user customers using any mobile telecommunication device.
+
+
+
+“ISP and Public” means the provisioning of Products to Internet service providers and free or consumer portal providers, respectively, to allow these entities to offer the Products as part of their service
+offerings to end-user, consumer (i.e., non-business) customers.
+
+
+
+“B-to-B” means the provisioning of Products to enterprises for their internal use, for use between their trading partners, or in interactions with their customers. Pricing for the right to distribute the
+Software and the Products to B-to-B customers shall be negotiated separately and in good faith between the parties after the date of this Amendment, and is expressly excluded from the terms of the Agreement and specifically this Exhibit
+D.
+
+
+License Fees.
+(1) Time-Based, Fixed Fee. In
+consideration of the right to license the Software and the other materials licensed under the Agreement to Mobile and ISP and Public customers, Distributor shall pay to Jabber a time-based, fixed, license fee, which, if Distributor elects Parts II
+and III, shall be unlimited for customer growth and will be inclusive of support and maintenance fees. As set forth in the schedule below, the time-based license fee shall include a committed Part I, and optional Parts II and III. Pricing for Part I
+shall apply for the fourth calendar quarter of 2002. Pricing for Part II shall apply for the period January 1, 2003 through December 31, 2003 upon the election of Distributor delivered by written notice on or before December 15, 2002. Pricing for
+Part III shall apply for the period from January 1, 2004 through September 30, 2005 upon the election of Distributor delivered by written notice on or before December 15, 2003. In the event Distributor does not elect the Part II pricing schedule,
+the Part I license fee shall be a perpetual User Software license, effective for all periods after October 1, 2002, accessible by a maximum number of __________ Users, including __________ Users previously paid for, and an additional __________
+Users, priced at $__________ per User, with a one-year support and maintenance fee of $__________covering the period October 1, 2002 through September 30, 2003, in accordance with the current Maintenance and Support agreement between the parties. In
+the event Distributor elects the Part II pricing schedule but does not elect the Part III pricing schedule, the Part II license fee shall be a perpetual User License for a total of __________ Users, including the __________ Users covered by Part I
+and an additional __________ Users priced at $_______________ per User, with a one-year support and maintenance fee of $500,000 covering the period January 1, 2003 through December 31, 2003, in accordance with the current Maintenance and Support
+agreement between the parties. A “User” shall mean an individual, registered account that has access to the functionality provided by the Software, and which may establish multiple simultaneous connections to the Software from one or more
+workstations. In order to exceed the maximum number of Users, Distributor must obtain one or more additional licenses of the Software from Jabber on terms to be mutually agreed.
+
+
+
+
+
+
+
+
+Time-Based, Fixed-Fee Schedule:
+Quarter	License Fee
+Q4 2002          Part I
+Q1 2003          Part II
+Q2 2003          Part II
+Q3 2003          Part II
+Q4 2003          Part II
+Q1 2004          Part III
+Q2 2004          Part III
+Q3 2004          Part III
+Q4 2004          Part III
+Q1 2005          Part III
+Q2 2005          Part III
+Q3 2005          Part III
+
+
+
+(2) Upgrade Fees. Beginning in the third
+calendar quarter of 2005, the parties will use their commercially reasonable best efforts to negotiate in good faith and agree on the nature and terms for Distributor’s continued access to new releases of the Software (“New
+Releases”). In negotiating such terms, Jabber will take into account the fees paid under the Time-Based, Fixed Fee schedule, and the pricing under comparable contracts, if applicable, to help ensure that Distributor receives pricing
+commensurate with the license fees paid and services received.
+(3) Support Fees. During the term of this
+Agreement, Jabber will provide support for the then current version of the Software and version 2.5 of the Software and any other prior version of the Software being used by Distributor or an Affiliate, In the event the parties fail to enter into an agreement for access to New Releases, or in the event Distributor does not elect the Part II or Part III pricing schedule set forth above, Distributor, at its option, shall have the right to
+purchase support for the Software licensed under the Time-Based, Fixed Fee schedule for periods with respect to which Distributor has not previously purchased support. If elected by Distributor, the support fees will be an annual fee equal to from
+6% to 8% of the payments received under the Time-Based, Fixed Fee schedule. Distributor shall have the right to purchase support, that will be available from Jabber, for a period of up to three years from the termination of any license of Software
+under the Time-Based, Fixed Fee schedule, or the termination of any license of New Releases.
+Payment Terms. All fees will be due and payable thirty (30) days after receipt by
+Distributor of Jabber’s invoice. Jabber will deliver the Part I invoice at the date of the election of Part II or in the absence of such election, on December 15, 2002. All fees are exclusive of, and Distributor, its Affiliates, and/or
+its/their Customers shall pay for, shipping, any sales, use, property, value added or similar taxes, federal, state, local or foreign taxes, or other charges imposed on or with respect to the Product or its delivery, use or possession, except taxes
+based upon the net income of Jabber. Delivery shall be FOB Jabber.
+Receipt of Payments. Amounts due shall be considered paid when Jabber is in receipt of the amount due or upon
+confirmation of receipt by a bank designated by Jabber. For all payments not received within forty-five (45) days of the due date, a late payment fee shall accrue daily on such unpaid amounts at the rate of one-and-one-half percent (1.5%) per month
+or the maximum rate permitted by law, whichever is lower.
+Payment Currency and Instrument. All payments hereunder shall be in U.S. dollars wired to Jabber’s bank
+account.
+Reports. Not applicable.
+Records. Distributor and its Affiliates shall keep accurate books and records
+reflecting the installation of the Product and all authorized uses thereof. Not more than once in any calendar year, Jabber may retain an independent certified public accountant (“Accountant”) who may, upon one week’s written notice
+and during normal business hours and with minimal disruption to Distributor’s and/or its Affiliates’ operations, inspect and audit the records of
+
+
+
+
+
+
+
+
+Distributor and/or its Affiliates with respect to installation and use of the Products and compliance with the terms of the Agreement. The Accountant’s activities shall be
+subject to a non-disclosure agreement between the Accountant and Distributor and/or its Affiliates and any information obtained by the Accountant and conveyed to Jabber shall be subject to the confidentiality provisions in the Agreement. If, upon
+performing such audit, it is determined that Distributor has underpaid Jabber by an amount greater than five percent (5%) of the payments due Jabber in the period being audited (based upon Jabber’s then current product usage license fees as
+published by Jabber), Distributor will bear all reasonable expenses and costs of such audit in addition to its obligation to make full payment in accordance with the terms of this Agreement.
+
+JABBER
+
+Jabber, Inc.	 	DISTRIBUTOR
+
+France Telecom
+By:
+/s/ GWENAEL HAGAN	 	By:
+/s/ P. VIGINIER
+
+
+
+Name: 	Gwenael Hagan	 	Name: 	P. Viginier
+Title: 	COO/CFO	 	Title: 	Director France Telecom R&D
+Date: 	October 17, 2002	 	Date: 	October 17, 2002
+
+
+

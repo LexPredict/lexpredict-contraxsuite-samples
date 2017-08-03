@@ -1,0 +1,646 @@
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.4
+
+
+EXCLUSIVE SOFTWARE LICENSE AGREEMENT
+
+This Agreement is made as of March 31, 1996, by and between
+CARE CORPORATION LIMITED, a company incorporated in the British
+Virgin Islands ("CCL"), WARNER INSURANCE SERVICES, INC., a
+Delaware corporation ("WARNER"), and, for the limited purposes of
+joining in Sections 4, 6, 8, 10, 11, 21, and 22, COVER-ALL
+SYSTEMS, INC., a Delaware corporation and wholly owned subsidiary
+of WARNER ("COVER-ALL").
+
+RECITALS
+
+A.   CCL is the exclusive worldwide owner, except in the
+Commonwealth of Australia, the Dominion of New Zealand, and the
+United States of America, of all rights in certain computer
+software and related documentation pertaining to the
+administration of worker's compensation, as set forth and
+described in Attachment A hereto (hereinafter referred to as the
+"CARE Software").
+
+B.   Pursuant to a separate agreement by and between CCL and
+WARNER, entered into contemporaneously with this Agreement (the
+"Stock Purchase Agreement"), CCL and WARNER intend that WARNER
+issue to CCL 2,500,000 (two million five hundred thousand)
+shares, $.01 par value, of WARNER's common stock (the "CCL
+Shares").
+
+C.   In consideration of WARNER's issuing the CCL Shares,
+CCL and WARNER further intend that, in accordance with this
+Agreement, CCL grant to WARNER an exclusive, fully paid up,
+perpetual license for the CARE Software in Canada, Mexico,
+Central America, and South America, while retaining all rights
+outside of Canada, Mexico, Central America, and South America.
+
+IN CONSIDERATION OF the Stock Purchase Agreement, the terms
+and conditions of this Agreement, the premises contained herein,
+and other good and valuable consideration,  the receipt and
+sufficiency of which are hereby acknowledged, CCL, WARNER, and
+COVER-ALL, intending to be legally bound, hereby agree as
+follows:
+
+1.   DEFINITIONS.  The capitalized terms in this Section shall
+have the meanings specified in this Section.
+
+A.   "CCL Rights" mean all of CCL's rights in the CARE
+Software.  For purposes of this Agreement, unless otherwise
+clearly required by the context thereof, "CARE Software"
+includes any CARE Modifications (as defined in Section 3) as
+they are made.
+
+B.   "Closing Date" has the meaning assigned to it in the
+Stock Purchase Agreement.
+
+C.   "Information" means any specifications, documentation,
+software programs, software listings, designs, drawings,
+data, customer listings, customer records, financial
+records, business information, and any other information of
+any kind whatsoever, whether in machine readable or visually
+readable form, that is proprietary and/or confidential to
+CCL, WARNER, or COVER-ALL.
+
+D.   "License Revenue" has the meaning assigned to it in the
+Stock Purchase Agreement.
+
+E.   "Licensed Rights" means all the CCL Rights in the
+Licensed Territory including, but not limited to, the rights
+to use, possess, modify, prepare derivative works based in
+whole or in part on the CARE Software, and sublicense the
+CARE Software for use in the Licensed Territory.
+
+F.   "Licensed Territory" means all of the territory of
+Canada, Mexico, Central America, and South America, and
+expressly excludes the United States of America, its
+territories and possessions including, but not limited to,
+the Commonwealth of Puerto Rico.
+
+G.   "Net Sales" has the meaning assigned to it in the Stock
+Purchase Agreement.
+
+H.   "Software Documentation" means the documents set forth
+on Attachment A.
+
+2.   GRANT.  CCL hereby grants to WARNER an exclusive, fully paid
+up, perpetual license to the Licensed Rights in accordance with
+this Agreement (the "Warner License"), including, but not limited
+to, the right to:
+
+A.   use the CARE Software internally (including the right
+for third party contractors to use) for development,
+support, and training;
+
+B.   market the CARE Software, including the right to
+conduct and provide demonstrations;
+
+C.   sublicense the CARE Software to end-users for use in
+the Licensed Territory;
+
+D.   create CARE Modifications;
+
+E.   create and distribute copies of the CARE Software
+consistent with the grant in this Section and the terms of
+this Agreement; and
+
+F.   sublicense to COVER-ALL all of the rights set forth in
+subsections A through E above and grant to COVER-ALL the
+right to sublicense such rights, in the Licensed Territory,
+to authorized distributors of COVER-ALL.
+
+CCL shall deliver to WARNER, on or before the expiration of
+one week after the date of this Agreement, two copies of the CARE
+Software, one in source code format and one in object code
+format, on a removable disk suitable for use on an IBM R/S 6000,
+or other form of magnetic media as may be mutually agreed upon by
+CCL and WARNER, and the Software Documentation.
+
+CCL and WARNER agree that the intent of this Section is to
+cause WARNER to be the exclusive licensee of all of the CCL
+Rights in the Licensed Territory and for CCL to retain all other
+rights to the CARE Software outside the Licensed Territory.
+
+3.   MODIFICATIONS.  For all modifications made to the CARE
+Software ("CARE Modifications") including, without limitation,
+error corrections, updates, enhancements, versions, releases, and
+derivative works, and related documentation, whether made by
+WARNER or by any other entity, including without limitation CCL,
+the following reciprocal rights apply:
+
+A.   WARNER shall be deemed to be the exclusive licensee of
+the rights to CARE Modifications in the Licensed Territory
+and such rights shall be considered part of the Licensed
+Rights without additional cost to WARNER.
+
+B.   CCL shall be deemed to have retained, without cost to
+CCL, all other rights to the CARE Modifications including,
+without limitation, all rights outside of the Licensed
+Territory.
+
+C.   CCL and WARNER shall use reasonable efforts to
+establish a written procedure and schedule to inform each
+other of CARE Modifications, to specify the CARE
+Modifications that each party wants provided to it, and to
+establish a schedule for providing such CARE Modifications
+to the other party or to an entity specified in writing by
+the other party, which written procedure and schedules shall
+be incorporated into a letter agreement between CCL and
+WARNER, which shall expressly be binding on any successors
+and permitted assigns, within 60 days after the date of this
+Agreement or such later date as the parties may mutually
+agree.
+
+D.   The CARE Modifications shall be deemed to be part of
+the CARE Software.
+
+4.   DEVELOPMENT AND MARKETING EFFORTS COVENANT.  WARNER and
+COVER-ALL agree to use their commercially reasonable best efforts
+to (i) develop and market the CARE Software in the Licensed
+Territory and (ii) generate License Revenue and Net Sales.
+Without limiting the foregoing and subject to the availability of
+adequate capital resources, for the three-year period ending
+after the date hereof WARNER, or WARNER and its subsidiaries,
+shall have a development and marketing budget in an aggregate
+amount equal to not less than 20% of anticipated Net Sales of
+$5,000,000 for such period.  WARNER shall prepare and submit,
+after approval by the Board of Directors of WARNER, to CCL, for
+its advice and input, an annual budget plan for each of the next
+three years after the Closing Date for development and marketing
+expenditures of at least $333,333, and WARNER agrees to expend at
+least two-thirds of the $333,333 in each such year by utilizing
+such marketing firms or marketing consultants as designated by
+CCL.  WARNER shall submit the budget plan (1) for the first year
+after the Closing Date within 30 days after the date hereof and
+(2) for each of the next two years by February 28 of the next
+calendar year.  The failure of WARNER to submit any annual budget
+plan when required, to approve such plans (as originally proposed
+or as modified with CCL's consent) within a reasonable time after
+submission thereof, or to fund a development and marketing budget
+pursuant to such plans or in such aggregate amount for whatever
+reason, shall constitute a breach of this covenant, which breach
+shall result in WARNER having a nonexclusive license of the
+Licensed Rights thereafter; provided, however, that WARNER shall
+have 30 days to remedy any such failure.
+
+5.   SOFTWARE SUPPORT SERVICES.  CCL shall provide, or shall
+arrange for the provision of, reasonable support services to
+WARNER for the maintenance and support of the CARE Software, such
+services to be provided to WARNER at usual and customary rates.
+Within 60 days after the date of this Agreement, CCL and WARNER
+shall enter into a written agreement with respect to the support
+services to be provided (the "Support Services Agreement").  The
+Support Services Agreement shall, to the extent commercially
+foreseeable, to provide for a class of support services based
+upon the support standards set forth in Attachment B hereto.
+Upon execution by WARNER and CCL, the Support Services Agreement
+shall be appended to and incorporated into and made a part of
+this Agreement in substitution of Attachment B.
+
+6.   TERMINATION.  Either party may terminate this Agreement upon
+written notice to the other party if the other party breaches any
+of the provisions herein; provided the non-breaching party has
+first given the other party notice of such breach and the other
+party has failed to cure such breach within thirty days after
+receipt of such notice.  The Warner License terminates upon
+termination of this Agreement immediately and without notice.
+
+7.   INJUNCTIVE RELIEF.  In addition to such other rights as the
+parties may have at law and in equity, the parties may, without
+the requirement of posting bond, enforce the provisions of this
+agreement by injunctive relief including, without limitation, by
+obtaining specific performance.
+
+8.   CONFIDENTIALITY.
+
+A.   WARNER, CCL, and COVER-ALL shall use their commercially
+reasonable best efforts to protect the trade secrets
+contained in the CARE Software and shall also provide
+appropriate safeguards to prevent the disclosure of the CARE
+Software to any entity that has not executed an agreement
+providing for the confidentiality and non-disclosure of the
+CARE Software.
+
+B.   Each party agrees and acknowledges that any Information
+that is furnished or made available or otherwise disclosed
+to another party pursuant to this Agreement is valuable
+proprietary and/or confidential information of the
+disclosing party and shall remain the property of the
+disclosing party.
+
+D.   The parties agree that all Information shall be kept
+strictly confidential and shall be treated by the receiving
+party and by any person authorized, pursuant to the terms of
+this Agreement, to have access thereto, as being valuable
+confidential and proprietary Information of the disclosing
+party.  The receiving party shall protect the disclosing
+party's Information from unauthorized use or disclosure
+using the same standard of care which it uses to protect its
+own proprietary and/or confidential information.
+
+E.   The receiving party of any Information shall not,
+without the prior written consent of the disclosing party,
+disclose, provide, or otherwise make available any item of
+Information to any person or entity other than those of its
+employees, agents, or representatives who have a need to
+know such Information in order for the receiving party to
+carry out its obligations or exercise its rights hereunder.
+The receiving party shall require its employees, agents, or
+representatives who have access to Information to be made
+aware of its confidential and/or proprietary nature and of
+the applicable requirements relative to maintaining the
+confidence of such Information.  The receiving party shall
+enforce these provisions for the benefit of the disclosing
+party.
+
+F.   The obligations and limitations set forth in this
+Section shall not apply to Information that is:  (i) at any
+time available to the public other than as a consequence of
+a breach of this Agreement by the receiving party; (ii) at
+any time rightfully received by one of the parties from a
+third party which has the right to transmit and does
+transmit such Information to the receiving party; (iii)
+rightfully known to the receiving party without any
+limitation on use or disclosure prior to receipt of such
+Information, as substantiated by a writing predating the
+date of this Agreement; and (iv) independently developed by
+personnel of a party who have not had access to whatsoever
+to such Information.
+
+G.   The Receiving Party shall not be prohibited from
+disclosing Information pursuant to a valid and effective
+order issued by a court of competent jurisdiction or
+governmental authority having appropriate statutory powers,
+but any such disclosure shall be made only to the extent so
+ordered and only if the receiving party timely notifies the
+disclosing party prior to such disclosure so that the
+disclosing party may intervene in response to any such order
+for disclosure.
+
+H.   The obligations of this Section shall survive the
+termination of this Agreement.
+
+9.   CCL WARRANTIES.  CCL hereby makes the express warranties and
+representations described in this Section.
+
+A.   CCL warrants and represents that it has full authority
+to enter into this Agreement and to grant to WARNER the
+rights granted in this Agreement.
+
+B.   CCL warrants and represents that the CARE Software and
+CARE Modifications, as delivered to WARNER, do not infringe
+the copyright, patent, or trademark rights, or
+misappropriate the trade secrets, of any entity.
+
+C.   CCL warrants and represents that its signature set
+forth below has been and is on the date of this Agreement
+duly authorized by all necessary and appropriate corporate
+action to execute this Agreement.
+
+D.   CCL warrants and represents that it has not taken any
+action which would affect its status as the owner of the
+entire right, title, and interest in and to, and the right
+to license, the Licensed Rights, and CCL has the right to
+disclose and license the same to WARNER, free and clear of
+any and all liens or other security interests or
+encumbrances, restrictions, equities, or claims of every
+kind and nature whatsoever.  There are no contracts,
+commitments, or understandings or other obligations of CCL
+with or to any person with respect to the Licensed Rights,
+or otherwise relating in any manner to the subject matter
+of, or in any way conflicting with any of the obligations of
+CCL under, this Agreement.
+
+E.   CCL warrants (i) for a period of 90 days from the date
+of the first delivery by WARNER of the CARE Software to a
+client (a "CCL Warranty Period") that the CARE Software as
+originally delivered to WARNER will perform substantially in
+accordance with the technical and functional specifications
+as set forth in the Software Documentation with respect to
+the administration of worker's compensation claims in the
+United States and (ii) for a period of 90 days from the date
+of delivery to WARNER (a "CCL Warranty Period"), that the
+CARE Modifications delivered after the date of this
+Agreement will perform substantially in accordance with the
+technical and functional specifications thereof.  As
+WARNER's sole remedy upon the breach of the warranty set
+forth in this subsection, if WARNER notifies CCL, before the
+expiration of the applicable CCL Warranty Period, that the
+CARE Software or the CARE Modification has failed to perform
+substantially in accordance with the respective
+specifications thereof, then CCL shall at no charge to
+WARNER promptly correct any such performance failure and
+deliver to WARNER a corrected and fully functioning version
+of the CARE Software.
+
+10.  WARNER AND COVER-ALL WARRANTIES.  WARNER and COVER-ALL
+hereby make the express warranties and representations described
+in this Section.
+
+A.   WARNER and COVER-ALL each warrant and represent that it
+has full authority to enter into this Agreement.
+
+B.   WARNER and COVER-ALL each warrant and represent that
+its signature set forth below has been and is on the date of
+this Agreement duly authorized by all necessary and
+appropriate corporate action to execute this Agreement.
+
+C.   WARNER warrants and represents that the CARE
+Modifications, as delivered to CCL by WARNER, do not
+infringe the copyright, patent, or trademark rights, or
+misappropriate the trade secrets, of any entity.
+
+D.   WARNER warrants for a period of 90 days from the date
+of delivery to CCL by WARNER (the "Warner Warranty Period")
+that the CARE Modifications delivered after the date of this
+Agreement will perform substantially in accordance with the
+technical and functional specifications thereof.  As CCL's
+sole remedy upon the breach of the warranty set forth in
+this subsection, if CCL notifies WARNER, before the
+expiration of the applicable WARNER Warranty Period, that
+any such CARE Modification has failed to perform
+substantially in accordance with the specifications thereof,
+then WARNER shall at no charge to CCL promptly correct any
+such performance failure and deliver to CCL a corrected and
+fully functioning version of the CARE Modification.
+
+11.  CCL'S INTELLECTUAL PROPERTY INDEMNITY.  CCL shall defend,
+indemnify, and hold WARNER and COVER-ALL and any sublicensee of
+WARNER or COVER-ALL (each an "Indemnitee") harmless from and
+against all damages, actions, settlements, judgments, claims, and
+demands made against, recovered against, suffered by, and/or
+incurred by an Indemnitee and which arise out of a claim that the
+CARE Software, as delivered to WARNER or COVER-ALL, infringes the
+copyright, patent, or trademark rights, or misappropriates the
+trade secrets, of any entity.  CCL's indemnity in this Section
+shall be subject to the following terms and conditions (for
+purposes of the following subsections, "WARNER" shall be deemed
+to include "COVER-ALL"):
+
+A.   WARNER shall promptly notify CCL in writing when WARNER
+has actual knowledge of any such claim.
+
+B.   WARNER shall require any sublicensee to promptly notify
+WARNER when such WARNER sublicensee has actual knowledge of
+any such claim.  In order to avail itself of CCL's indemnity
+in this Section, any WARNER sublicensee must have so
+notified WARNER.
+
+C.   CCL's indemnity of any sublicensee of WARNER shall be
+limited to the extent of the underlying sublicense from
+WARNER, which sublicense must be consistent with the terms
+and conditions of this Agreement.
+
+D.   CCL shall have complete control over the defense,
+settlement, and compromise of any such claim; provided,
+however, that the Indemnitee may participate in the defense
+with counsel of its own choice and at its own expense.
+
+E.   WARNER agrees, and shall require any sublicensee to
+agree (if an Indemnitee), to cooperate reasonably in the
+defense, settlement, and compromise of such claim at CCL's
+expense, except that if an Indemnitee desires to retain its
+own counsel, it shall do so at its own cost and expense.
+
+F.   If the CARE Software becomes the subject of any such
+claim, or if the CARE Software is held to constitute such an
+infringement, and the use of the CARE Software by an
+Indemnitee is enjoined, CCL shall, at its expense and at its
+option, use its commercially reasonable best efforts either
+(i) to procure for the Indemnitee the right to continue
+using the CARE Software or (ii) to create CARE Modifications
+to make it functionally equivalent and non-infringing.
+
+G.   CCL shall have no liability for any such claim based
+upon (i) use of other than the most current version of the
+CARE Software made available to WARNER by CCL (including any
+and all CARE Modifications provided to WARNER by CCL) if
+such claim would have been avoided by the use of such
+version or (ii) infringement resulting from WARNER's
+modifications, adaptation, or enhancement of the CARE
+Software.
+
+12.  PROTECTION OF THE CARE SOFTWARE.
+
+A.   If any party to this Agreement shall become aware of
+any infringement by any third party of the CARE Software in
+the Licensed Territory or any misappropriation of a trade
+secret by any third party relating to the CARE Software in
+the Licensed Territory, it shall promptly notify the other
+of such infringement.
+
+B.   CCL, may, at its expense, institute suit against such
+infringer, and WARNER shall fully cooperate with CCL to
+enjoin such infringement or acts and shall, if requested by
+CCL, join with CCL as a party to any action brought by CCL
+for such purpose.  CCL shall bear all expenses connected
+with the foregoing, except that if WARNER desires to retain
+its own counsel, it shall do so at its own cost and expense.
+
+C.   If CCL, after being notified of such infringement or
+misappropriation, elects not to institute suit against such
+infringer, then WARNER may, at its expense, institute suit
+against such infringer, and CCL shall fully cooperate with
+WARNER to enjoin such infringement or misappropriation and
+if reasonably necessary, shall, if requested, join with
+WARNER as a party to any action brought by WARNER for such
+purpose.  WARNER shall bear all expenses connected with the
+foregoing, except that if CCL desires to retain its own
+counsel, if shall do so at its own cost and expense.
+
+D.   Any recovery as a result of any infringement or
+misappropriation pursuant to this provision shall belong
+solely to the party instituting such action.
+
+13.  INDEMNITY.  Each party shall indemnify and hold harmless the
+other party, and such other party's licensees, officers,
+directors, employees, agents, and other representatives, from and
+against any loss, damage, liability (including any liability by
+reason of a bona fide settlement of a claim, action, suit, or
+proceeding), or expense (including reasonable attorneys' fees)
+arising out of or connected with any breach or inaccuracy of any
+representation, warranty or covenant by it contained in this
+Agreement or in any certificate or other instrument or document
+delivered pursuant to this Agreement, or any claim, action, suit,
+or proceeding asserted or instituted arising out of any matter or
+thing covered by such representations, warranties or covenants.
+
+In the event that either party shall breach or otherwise
+fail to perform any of its obligation under this Agreement, the
+non-breaching party may, at its election, and in addition to any
+and all other remedies it may have under this Agreement or
+otherwise, perform any such obligations.
+
+The obligations of indemnity under this Section shall
+survive all performances under this Agreement.
+
+14.  DISCLAIMER.  EXCEPT FOR THE EXPRESS WARRANTIES GRANTED IN
+THE SECTION ENTITLED "CCL WARRANTIES,"  CCL MAKES NO OTHER
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+15.  GOVERNING LAW AND VENUE.  This Agreement shall be governed
+by the laws of the State of Delaware, U.S.A., except for its laws
+relating to choice of law.
+
+16.  NO WAIVER.  No failure to exercise and no delay in
+exercising any right, power, or remedy under this Agreement will
+operate as a waiver.  Nor will any single or partial exercise of
+any right, power, or remedy preclude any other or further
+exercise of that or any other right, power, or remedy.
+
+17.  REMEDIES CUMULATIVE.  All remedies provided for in this
+Agreement are cumulative and in addition to such other remedies
+as may be available at law and in equity.
+
+18.  SEVERABILITY.  If any provision of this Agreement is
+declared or found to be illegal, unenforceable, or void, then the
+parties will be relieved of all obligations arising under such
+provision, but only to the extent that such provision is illegal,
+unenforceable, or void, it being the intent and agreement of the
+parties that this Agreement will be deemed amended by modifying
+such provision to the extent necessary to make it legal and
+enforceable while preserving its intent or, if that is not
+possible, by substituting another provision that is legal and
+enforceable and achieves the same intent.  If the remainder of
+this Agreement will not be affected by such declaration or
+finding and is capable of substantial performance, then each
+provision not so affected will be enforced to the extent
+permitted by law.
+
+19.  COUNTERPARTS.  This Agreement may be executed in
+counterparts, all of which taken together shall constitute one
+instrument.
+
+20.  RELATIONSHIP OF PARTIES.  This Agreement does not create a
+partnership or joint venture relationship, nor does it authorize
+either party to serve as the legal representative or agent of the
+other.  CCL and WARNER are independent contractors and will
+remain independent contractors unless hereafter agreed otherwise
+in writing.  No party will have any right or authority to assume,
+create, or incur any liability or any obligation of any kind,
+express or implied, against or in the name or on behalf of any
+other party.
+
+21.  ASSIGNMENT.   WARNER  may assign this Agreement only with
+the prior express, written consent of CCL; provided, that,
+without the consent of CCL, WARNER may assign this Agreement to
+COVER-ALL and COVER-ALL, without the consent of CCL, may assign
+this Agreement in connection with the transfer of all or
+substantially all of COVER-ALL's assets or in connection with a
+merger or consolidation of COVER-ALL into a third party.
+
+22.   NOTICE.  Any notices or demands required to be given herein
+shall be given to the parties in writing, and by certified mail,
+return receipt requested, at the addresses hereinafter set forth,
+or to such other addresses as the parties may hereinafter
+substitute by written notice given in  the manner prescribed in
+this Section:
+
+A.   NOTICE TO WARNER OR COVER-ALL:
+
+Warner Insurance Services, Inc.
+
+18-01 Pollitt Drive
+Fair Lawn, New Jersey 07410
+Attention: President
+
+with a copy (which shall not constitute notice) to:
+
+Leonard Gubar, Esq.
+Reid & Priest LLP
+40 West 57th Street
+New York, New York  10019
+
+B.  NOTICE TO CCL:
+
+Care Corporation Limited
+c/o Moore Stephens International Services (BVI) Limited
+Abbott Building
+P. O. Box 3186
+Main Street
+Road Town
+Tortola, British Virgin Islands
+Telecopy No.:  (809) 494-3592
+Attention:  Carol Raward
+
+with a copy (which shall not constitute notice) to:
+
+Alan J. Perkins, Esquire
+Gardere & Wynne, L.L.P.
+3000 Thanksgiving Tower
+1601 Elm Street
+Dallas, Texas 75201
+
+23.  BINDING EFFECT.  This Agreement shall inure to the benefit
+of and bind the parties hereto, and their successors and
+permitted assigns.
+
+24.  SECTION HEADINGS.  All section headings contained herein are
+for convenience or reference only and are not intended to define
+or limit the scope of any provision of this Agreement.
+
+25.  EXPENSES FOR ENFORCEMENT.  In the event either party hereto
+is required to employ an attorney to enforce the provisions of
+this Agreement or is required to commence legal proceedings to
+enforce the provisions hereof, the prevailing party shall be
+entitled to recover from the other, reasonable attorney's fees
+and court costs incurred in connection with such enforcement,
+including, but not limited to, collection agency fees, reasonable
+attorney fees, litigation fees, and costs of investigation and
+litigation.
+
+26.  ENTIRE AGREEMENT.  It is expressly agreed that this
+Agreement and its attachment embody the entire agreement of the
+parties in relation to the subject matter herein, and that there
+is no other oral or written agreement or understanding between
+the parties at the time of execution hereunder.  Further, this
+Agreement cannot be modified except by the written agreement of
+all parties hereto.
+
+
+
+
+[THE NEXT FOLLOWING PAGE IS THE SIGNATURE PAGE.]
+
+
+<PAGE>
+
+IN WITNESS WHEREOF, WARNER and CCL have each have caused
+this Agreement to be executed and delivered as of the date first
+above written.
+
+
+WARNER INSURANCE SERVICES, INC.         CARE CORPORATION LIMITED
+
+
+
+By: /s Raul F. Calvo                    By: /s/ Mark Donald Johnston
+
+Name:  RAUL F. CALVO                    Name: MARK DONALD JOHNSTON
+
+Title:  VICE PRESIDENT                  Title: DIRECTOR/AUTHORIZED
+---------------------                      SIGNATORY
+
+COVER-ALL SYSTEMS, INC.
+
+By: /s/ Peter C. Lynch
+
+Name:  PETER C. LYNCH
+
+Title:  PRESIDENT
+
+
+
+

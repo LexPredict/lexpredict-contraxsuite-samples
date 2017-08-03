@@ -1,0 +1,741 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+**CONFIDENTIAL**
+
+EXHIBIT 10.2
+
+
+viaLINK
+SOFTWARE LICENSE
+
+This Software License ("License") is entered into as of this 12th day
+of October, 1999 by and between The viaLink Company, an Oklahoma corporation
+with its principal place of business at 13800 Benson Road, Edmond, Oklahoma
+("viaLink") and i2 Technologies, Inc., a Delaware corporation with its principal
+place of business at 11701 Luna Road, Dallas, Texas 75234 .
+
+WHEREAS, viaLink and i2 have contemporaneously herewith entered into an
+Alliance and Marketing Agreement of even date herewith ("Alliance Agreement");
+and
+
+WHEREAS, this License is entered into to pursuant to and in furtherance
+of said Alliance Agreement.
+
+NOW, THEREFORE, in consideration of the above premises and other good
+and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged, the parties hereto agree as follows:
+
+1.       DEFINITIONS: When used in this License, the capitalized terms listed
+below shall have the following meanings. Any capitalized terms used in
+this License that are not otherwise specifically defined in this
+License shall have the meanings provided for by the definitions of such
+terms as set forth in the Alliance Agreement, which definitions are
+herein incorporated by reference as if fully set forth.
+
+1.1.    "CODE" shall mean computer programming code including, without
+limitation, any programming code, scripts, HTML files,
+configuration files, graphic files, database structures or other
+software components of the viaLink Software and any Interface
+Software, as such terms are hereinafter defined, excluding
+therefrom, however, all code created and/or owned by any third
+party (including, without limitation, operating systems and other
+third party software and/or code which may be required or necessary
+for its operation). Any reference to Code in this License shall
+include both source and object Code.
+
+1.2.    "DERIVATIVE WORK" shall mean a work in any media that is based upon
+one or more preexisting works (including, without limitation, the
+viaLink Software and any Interface Software, all Code relating
+thereto, Enhancements, Maintenance Modifications, and the
+Documentation) so as to constitute a revision, modification,
+translation, abridgement, condensation, expansion, equivalent, or
+any other form into which such preexisting work(s) may be and/or
+have been recast, transformed, and/or adapted, regardless of who
+creates or participates in creation of such work,
+
+
+
+
+1
+
+
+<PAGE>   2
+
+**CONFIDENTIAL**
+
+and regardless of the degree of its similarity to or difference
+from the preexisting work(s) from which it has been derived. For
+purposes hereof, a Derivative Work shall also include any
+compilation or group of works that incorporates such a work or
+preexisting work.
+
+1.3.    "DOCUMENTATION" shall mean user and operator manuals and other
+written materials that relate to the viaLink Software and/or any
+Interface Software. Documentation shall include written information
+concerning Maintenance Modifications and Enhancements thereto.
+
+1.4.    "EFFECTIVE DATE" shall mean the Effective Date of the Alliance
+Agreement.
+
+1.5.    "ENHANCEMENTS" shall mean modifications, additions, or
+substitutions, other than Maintenance Modifications, made to Code
+or Documentation that accomplish incidental, performance,
+structural, functional, or other improvements and/or changes to
+such Code.
+
+1.6.    "i2" shall only mean i2 Technologies, Inc. and (notwithstanding the
+definition of "i2" set forth in the Alliance Agreement) shall not
+include any of i2's Affiliates or subcontractors.
+
+1.7.    "MAINTENANCE MODIFICATIONS" shall mean modifications, updates, or
+revisions made to Code or Documentation that correct errors,
+support new releases of operating systems, or support new models of
+input-output (I/O) devices with which such Code is designed to
+operate.
+
+1.8.    "viaLINK SOFTWARE" shall mean the Code of the software identified
+by viaLink as its Item Catalog and Chain Pricing software existing
+as of the date of delivery to i2 pursuant to this License.
+
+1.9.    "INTERFACE SOFTWARE" shall mean such Code that may be developed
+pursuant to the terms of this License and/or said Alliance
+Agreement in order to facilitate or allow access to the viaLink
+Services or viaLink Software.
+
+1.10.   "OWNED" means that the party(s) designated in this License as
+owning certain Code and/or Documentation shall be deemed the author
+and owner of such Code and/or Documentation for all purposes,
+including copyright, patent and/or trademark and the holder of all
+other rights and privileges pertaining to such ownership interest.
+
+2.       DELIVERY. viaLink shall deliver to i2 a copy of the Code of the viaLink
+Software, including appropriate Documentation therefore, within thirty
+(30) days following execution of this License.
+
+2.1.    During the Term of this License, each party shall deliver to the
+other any Code for any Interface Software, and Enhancements and/or
+Maintenance
+
+
+
+
+2
+
+<PAGE>   3
+
+**CONFIDENTIAL**
+
+
+Modifications to the viaLink Software and/or any Interface Software
+except to the extent that such Interface Software Code,
+Enhancements or Maintenance Modifications have been developed
+pursuant to a contract with a customer of viaLink or i2, as the
+case may be, which restricts or prohibits the delivery of the same
+as contemplated herein.
+
+2.2.    OWNERSHIP AND CROSS-LICENSING. During the Term of this License:
+
+2.2.1.  Any Interface Software and any Enhancements and/or Maintenance
+Modifications to the Interface Software and/or viaLink
+Software, including all Documentation relating thereto, (1)
+developed at viaLink's sole effort or expense or (2) which are
+designed or intended to operate within, on, or as part of the
+viaLink Services operated, offered and/or maintained by
+viaLink in the viaLink Market regardless of whether developed
+or paid for by viaLink or i2, or any combination thereof,
+shall be Owned by viaLink.
+
+2.2.2.  Any Interface Software and any Enhancements and/or Maintenance
+Modifications to the Interface Software and/or viaLink
+Software, including all Documentation relating thereto (1)
+developed at i2's sole effort or expense and (2) which is
+designed or intended to operate solely within, on, or as part
+of the services and/or software operated, offered and/or
+maintained by i2 on i2's or on an i2 customer's equipment
+shall be Owned by i2.
+
+2.2.3.  Any Interface Software and any Enhancements and/or Maintenance
+Modifications to the Interface Software and/or viaLink
+Software, including all Documentation relating thereto that
+are jointly developed by i2 and viaLink, except to the extent
+set forth above, shall be deemed jointly Owned by both i2 and
+viaLink, and neither party shall be entitled to assert such
+jointly held Ownership against the other and neither party
+shall be required to account to the other for any license fees
+collected by a party for a subsequent license of such
+software.
+
+2.2.4.  The Owner of any Code and/or Documentation covered by this
+Section 2.2 shall (1) provide to the other party hereto the
+source and object Code and Documentation for all such
+Interface Software and any Enhancements and/or Maintenance
+Modifications to the Interface Software and/or viaLink
+Software, and (2) such other party, subject to the terms of
+Section 3.2.1, shall be deemed to have a nonexclusive,
+unrestricted, assignable, perpetual, world-wide, fully
+paid-up, non-revocable license to use, modify, enhance, sell,
+sublicense, and otherwise transfer and/or dispose of the same,
+subject to the terms and conditions of this License.
+
+3
+
+<PAGE>   4
+
+**CONFIDENTIAL**
+
+
+2.2.5.  Each party shall execute such documents as reasonably required
+by the other to carry out the intent of this Section 2.2.
+
+3.       LICENSE AND PERMISSIBLE TRANSACTIONS.
+
+3.1.    Subject to all of the conditions and restrictions contained in
+Section 3.2 and elsewhere in this License, and further subject to
+the terms, conditions and restrictions set forth in the Alliance
+Agreement, viaLink hereby grants to i2, and i2 hereby accepts, a
+limited, nonexclusive, non-transferable, non-assignable, world-wide
+license to do only the following:
+
+3.1.1.  install and configure the viaLink Software and any Interface
+Software on i2's computers and telecommunications equipment;
+
+3.1.2.  use the viaLink Software and any such Interface Software as
+allowed by the Alliance Agreement;
+
+3.1.3.  Make, use, reproduce, copy and display marketing materials in
+any media ("Marketing Materials") for purposes of promoting,
+marketing and demonstrating the viaLink Software and any
+Interface Software; provided, however, that all such Marketing
+Materials shall use the viaLink Licensed Trademarks in full
+compliance with the terms, conditions and restrictions of the
+Alliance Agreement;
+
+3.1.4.  Make an archival or backup copy of the viaLink Software and
+any Interface Software;
+
+3.1.5.  Notwithstanding anything to the contrary in this License or in
+the Alliance Agreement, i2 shall be solely responsible for
+obtaining at i2's cost: (1) any and all appropriate and
+necessary licenses to any and all third party software
+required for the operation of the viaLink Software and any
+Interface Software licensed hereunder, (2) any and all
+hardware required for the operation of said viaLink Software
+and any Interface Software, and (3) any and all necessary
+telecommunications and/or Internet services and/or connections
+required for the operation of the viaLink Software and any
+Interface Software.
+
+3.2.     LICENSE RESTRICTIONS.
+
+3.2.1.  At no time during the Term of this License, and for such
+additional period, if any, set forth in the Alliance
+Agreement, shall i2 sell, offer to sell, give, transfer,
+transmit, license, sublicense or otherwise provide access to
+either the viaLink Software or the Interface Software or any
+Enhancements or Maintenance Modifications, to any of its
+Affiliates or any third party, permit any of its Affiliates or
+any third party to have access to either the
+
+
+4
+
+<PAGE>   5
+
+**CONFIDENTIAL**
+
+
+viaLink Software or the Interface Software for the purpose of
+accomplishing or attempting any of the foregoing, to permit or
+offer to permit any of its Affiliates or any third party to
+establish, operate, or offer any Public Exchange or Private
+Exchange.
+
+3.2.2.  Except to the extent authorized in the Alliance Agreement for
+private branding purposes, i2 shall not alter, conceal, or
+remove any of viaLink's or any third party's copyright,
+trademark or other proprietary rights notices, including
+without limitation of any viaLink Licensed Trademarks,
+appearing on or in any of the viaLink Software and any
+Interface Software, Documentation, or Code, Owned by viaLink.
+Further, viaLink shall not alter, conceal, or remove any of
+i2's or any third party's copyright, trademark or other
+proprietary rights notices on or in any of the Interface
+Software, Enhancements and/or Maintenance Modifications or
+Documentation relating thereto that may be Owned by i2.
+
+3.2.3.  At no time during the Term of this License, and for such
+additional period, if any, set forth in the Alliance
+Agreement, shall i2 transfer, sell, give, convey, assign,
+lease, or otherwise transfer or deliver the viaLink Software
+and any Interface Software or any copies thereof to any third
+party or attempt to do any of the foregoing.
+
+3.2.3.1.   Notwithstanding the foregoing, during the Term of this
+License, i2 shall have the right to sublicense the
+object Code only of the viaLink Software and the
+object Code only of any relevant Interface Software,
+Enhancements and/or Maintenance Modifications to a
+customer of i2 not engaged in commercial activity
+within the viaLink Market. In no event, however shall
+any such sublicense permitted hereunder expand or
+extend, in any way, any of i2's rights and/or
+obligations under this License or the Alliance
+Agreement, or restrict or limit in any way viaLink's
+rights or remedies, including without limitation the
+right to payment of all fees which will be due under
+the Alliance Agreement in relation to such sublicense
+transaction(s) or expand viaLink's obligations under
+this License or the Alliance Agreement. In no event
+shall any such sublicense relieve i2 of any of its
+obligations to viaLink under this License or the
+Alliance Agreement.
+
+3.2.4.  No further rights to use, copy, sell, print, publish,
+advertise, distribute, copy or display the viaLink Software
+and any Interface Software, in whole or in part, is granted to
+i2 except as expressly provided in this License.
+
+
+
+5
+<PAGE>   6
+
+**CONFIDENTIAL**
+
+4.       FEES. During the Term of this License, including all renewal terms
+hereof, i2 agrees to pay the fees and amounts set forth in the Sections
+5.2 through 5.4 of the Alliance Agreement.
+
+5.       TERM AND TERMINATION.
+
+5.1.    TERM. The Initial Term of this License shall commence on the
+Effective Date and, unless sooner terminated in accordance with its
+terms, shall end on December 31, 2003. It will thereafter
+automatically renew on a year to year basis ("Renewal Term") unless
+a party, upon at least three (3) months written notice prior to end
+of the Initial Term or the then current Renewal Term, as the case
+may be, notifies the other party that it will terminate this
+License as of the end of such Initial Term or Renewal Term.
+
+5.1.1.  if viaLink exercises its right to terminate this License as of
+the end of its Initial Term or the then-current Renewal Term
+("non-renewal"), then for a period of one (1) year following
+the effective date of said non-renewal, i2 shall, subject to
+the applicable terms of this License (including, without
+limitation, Section 4), nonetheless be entitled to continue to
+operate, provide and offer access to its then in operation
+Public Exchanges and/or Private Exchanges for its then
+existing customers of such Exchanges only (determined as of
+the effective date of such non-renewal). Such extended
+operations period as described in this section shall not, in
+any event, otherwise extend the term of this License or expand
+i2's rights hereunder, or alter the terms of the Alliance
+Agreement regarding viaLink's rights on or after the effective
+date of said non-renewal.
+
+5.2.    EXPIRED RIGHTS. Expiration of any intellectual property rights,
+including, without limitation, copyrights, trademarks, or patents
+related to the subject matter of this License shall not be deemed
+to effect a termination of this License. In the event of an
+expiration of a right described in this section, such terms herein
+as may be affected by such event will remain binding to the extent
+permitted by law.
+
+5.3.    TERMINATION UPON DEFAULT OF i2. viaLink may terminate this License
+(1) if i2 violates any of its obligations under Sections 3, 4, 7, 8
+or 9 of this License, in which event such termination shall be
+effective immediately, or (2) in the event of any termination
+arising from breach by i2 of the Alliance Agreement and i2 fails to
+cure such breach, in which event such termination shall be
+effective at the same time as the effective date of said Alliance
+Agreement's termination, or (3) upon 30 days' written notice for
+any other breach by i2 of this License if such breach is not cured
+by the end of such 30 day period following receipt of such notice.
+
+
+
+
+6
+<PAGE>   7
+
+**CONFIDENTIAL**
+
+
+5.3.1.  if viaLink exercises its right to terminate this License under
+Section 5.3 hereof ("termination"), then for a period of
+ninety (90) days following the effective date of said
+termination, i2 shall, subject to the applicable terms of this
+License (including, without limitation, Section 4),
+nonetheless be entitled to continue to operate, provide and
+offer access to its then in operation Public Exchanges and/or
+Private Exchanges for its then existing customers of such
+Exchanges only (determined as of the effective date of such
+termination). Such extended operations period as described in
+this section shall not, in any event, otherwise extend the
+term of this License or expand i2's rights hereunder, or alter
+the terms of the Alliance Agreement regarding viaLink's rights
+on or after the effective date of said termination..
+
+5.4.    EFFECT OF TERMINATION ON LICENSE. Upon the expiration or any
+termination of this License:
+
+5.4.1.  Except to the extend set forth in Section 2, all license
+rights granted to i2 in this License shall cease;
+
+5.4.2.  Except to the extend set forth in Section 2, i2 shall return
+to viaLink all copies of the viaLink Software and any
+Interface Software (including all Code and Documents), shall
+immediately cease operation thereof and shall delete all of
+the viaLink Software and any Interface Software from its
+computers and telecommunications equipment.
+
+6.       WARRANTIES.
+
+6.1.    WARRANTIES OF viaLINK. viaLink represents and warrants as follows::
+
+6.1.1.  NON-INFRINGEMENT. That, to viaLink's best knowledge, the
+viaLink Software does not infringe or misappropriate any
+rights of any third parties.
+
+6.1.2.  YEAR-2000. That the viaLink Software will not produce errors
+processing date data in connection with the year change from
+December 31, 1999 to January 1, 2000 when used with accurate
+date data in accordance with the Documentation therefore,
+provided all other products (including, without limitation,
+other software, firmware, hardware, and operating systems)
+used with it properly exchange date data with the viaLink
+Software. The viaLink Software will recognize the year 2000 as
+a leap year. The foregoing representation refers only to the
+viaLink Software as of the date of its delivery by viaLink as
+set forth in this License, and further does not constitute a
+warranty or extend the terms of any existing warranty.
+
+
+
+
+
+7
+<PAGE>   8
+
+**CONFIDENTIAL**
+
+
+6.1.3.  viaLink warrants that the Code for the viaLink Software as
+delivered by viaLink hereunder is the same Code therefore
+which is being used by viaLink to provide Item Catalog and
+Chain Pricing Services to viaLink's existing production
+customers as of the date of such delivery.
+
+
+
+6.2.    EXCLUSIVITY OF WARRANTIES. THE WARRANTIES SET FORTH IN SECTION 6.1
+OF THIS LICENSE ARE THE ONLY WARRANTIES MADE BY viaLINK IN REGARDS
+TO THE viaLINK SOFTWARE, AND viaLINK SPECIFICALLY DISCLAIMS ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE. EXCEPT FOR SAID WARRANTIES SET FORTH IN SECTION
+6.1 OF THIS LICENSE, THE viaLINK SOFTWARE IS PROVIDED AND MADE
+AVAILABLE TO i2 "AS IS". viaLINK DOES NOT MAKE ANY WARRANTY OR
+REPRESENTATION OF ANY KIND OR NATURE, WHETHER EXPRESS OR IMPLIED,
+IN REGARDS TO THE INTERFACE SOFTWARE.
+
+6.3.    LIMITATION OF LIABILITY. The limitations of liability set forth in
+Section 10.6 of the Alliance Agreement are incorporated by
+reference herein as if fully set forth.
+
+6.3.1.  COMPATIBILITY DISCLAIMER. viaLink shall not be liable for any
+for any claims, losses, demands, causes of action, damages,
+costs or expenses of any kind suffered by i2 or its customers,
+whether in contract, in tort, under any warranty theory, in
+negligence, or otherwise including, without limitation, any
+loss of data or loss of profits, or interruption of business,
+which results or may result from the use or attempted use in
+conjunction with the viaLink Software and any Interface
+Software, by i2 or any of its customers, of any third party
+product or any other software or hardware developed at any
+time by anyone other than viaLink.
+
+7.       WARRANTIES OF i2: In addition to the representations and warranties
+made by i2 in the Alliance Agreement, i2 represents and warrants that
+it shall at all times follow such security policies and conditions as
+viaLink shall from time to time require with regard to the viaLink
+Services. THE WARRANTIES SET FORTH IN THIS SECTION 7 OF THIS LICENSE
+ARE THE ONLY WARRANTIES MADE BY i2 AND i2 SPECIFICALLY DISCLAIMS ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.
+
+
+
+
+8
+<PAGE>   9
+
+**CONFIDENTIAL**
+
+
+8.       CONFIDENTIALITY.
+
+8.1.    i2 acknowledges that viaLink claims that the viaLink Software, any
+Interface Software, Code, all Derivative Works, Documentation,
+business records, methods of doing business, and all other
+proprietary information of viaLink, contain and comprise valuable
+trade secret, confidential and proprietary information which is the
+sole and exclusive property of viaLink and which has commercial
+value by virtue of its confidential and/or proprietary status
+(hereinafter "Confidential Information"). Further, i2 acknowledges
+and agrees that the source Code for the viaLink Software and any
+Interface Software, Enhancements and Maintenance Modifications
+constitute Confidential Information as herein defined. i2 agrees
+that it will not disclose Confidential Information to anyone other
+than its own employees, that it will protect the confidentiality of
+Confidential Information, and that it will take all appropriate
+precautions to prevent any unauthorized use or disclosure of
+viaLink Confidential Information. Notwithstanding anything to the
+contrary herein, i2's obligations under this Section shall survive
+the termination of this License. Confidential Information shall not
+include information that (a) is known or available through other
+lawful sources, not bound by a confidentiality obligation to
+viaLink; (b) is or becomes publicly known through no fault of the
+receiving party or its agents; (c) is required to be disclosed by
+i2 pursuant to law or court order, provided that i2 provides
+viaLink with reasonable prior notice of any such compulsory
+disclosure and permits viaLink to object, intervene or appeal such
+order; or (d) is developed by i2 independently of the disclosure to
+i2 of the same by viaLink.
+
+8.2.    The foregoing section 8.1 is in addition to and not in lieu of any
+confidentiality obligations arising between the parties hereto in
+any other agreement, including, without limitation, the Alliance
+Agreement and the Nondisclosure Agreement.
+
+9.       INDEMNIFICATION.
+
+9.1.    BY viaLINK. In the event any suit, claim, or proceeding is brought
+against i2 or one of its customers based on a claim that the
+viaLink Software delivered by viaLink pursuant to this License
+infringes any existing patent, copyright, or trade secret, viaLink
+agrees that it will:
+
+9.1.1.  to the extent that the claims or proofs of the suit involve
+claims or factual allegations that the viaLink Software
+infringes any existing patent, copyright, or trade secrets,
+defend the suit at its expense and hold i2 and/or its
+customers harmless therefrom, as long as viaLink is promptly
+notified in writing and is given complete authority and
+information required to defend the suit;
+
+
+
+
+9
+<PAGE>   10
+
+**CONFIDENTIAL**
+
+9.1.2.  to the extent that any judgment in any such suit is based on
+proof that the viaLink Software infringes any existing patent,
+copyright, or trade secrets, pay all damages and costs awarded
+against i2 and/or its customers related thereto; provided that
+viaLink shall not be responsible for any cost, expense, or
+compromise made or incurred by i2 and/or its customers without
+viaLink's written consent;
+
+9.1.3.  allow i2 to participate in the defense of the suit at its own
+expense, if it so elects.
+
+9.1.4.  Provided however, and notwithstanding anything to the contrary
+in this License, viaLink shall have no obligation of indemnity
+with regard to any modifications of the viaLink Software of
+any kind by i2 or its customers, regardless of whether such
+changes were authorized by viaLink.
+
+9.1.5.  Further, during the Term of this License, should the viaLink
+Software or any part thereof, before any changes, Enhancements
+or Maintenance Modifications thereto or Derivative Works
+therefrom are made by or on behalf of i2 or any customers,
+become, or in viaLink's opinion, be likely to become, the
+subject of a claim for infringement, viaLink shall, at its own
+expense and option, either procure for i2 the right to
+continue using such viaLink Software or replace the same with
+non-infringing software or modify the viaLink Software so that
+it becomes non-infringing, or require that the viaLink
+Software and all Enhancements, Maintenance Modifications or
+other Derivative Works be returned and this License
+terminated.
+
+9.1.6.  After one year after the Term of this License viaLink shall
+not have any obligation under this Section 9.1.
+
+10.      MISCELLANEOUS.
+
+10.1.   NO IMPLIED LICENSES. No right or license shall be implied by
+estoppel or otherwise, other than the rights and licenses expressly
+granted in this License.
+
+10.2.   ASSIGNMENT. Neither party may assign any rights, duties,
+obligations or privileges under this License without the prior
+written consent of the other party, which consent shall not be
+unreasonably withheld; provided however and notwithstanding
+anything to the contrary herein, a party may assign or delegate,
+without the other party's consent, any of its rights, duties,
+obligations and/or privileges under this License to any person or
+entity (i) to which all or substantially all of its assets are
+sold, (ii) into which it is merged or (iii) which as a result of a
+merger or acquisition
+
+
+
+
+
+
+10
+<PAGE>   11
+
+**CONFIDENTIAL**
+
+becomes the surviving company, except that the non-assigning party
+may terminate this License on this assignment on 180 days prior
+written notice to the assignee, which notice cannot be given until
+the effective date of the assignment.
+
+10.3.   ENTIRE AGREEMENT. The parties agree that this License and the
+Alliance Agreement, to the extent applicable thereto, constitutes
+the complete and exclusive statement of the agreement between them
+with regards to the subject matter hereof and supercedes all
+proposals, oral or written, and all other communications between
+them relating thereto; provided however the Nondisclosure Agreement
+remains in full force and effect. The parties agree that to the
+extent the terms of the Alliance Agreement are applicable to this
+License, in the event of termination or expiration of the Alliance
+Agreement, such applicable terms shall survive and be deemed a
+material part of this License during the Term of this License.
+
+10.4.   AMENDMENTS. This License may only be amended or modified in a
+writing signed by both parties hereto.
+
+10.5.   GOVERNING LAW. This License shall be governed by and construed in
+accordance with the laws of the State of Oklahoma.
+
+10.6.   NO WAIVER. The failure of either party to enforce any of the
+provisions hereof shall not be construed to be a waiver of the
+right of such party thereafter to enforce such provisions.
+
+10.7.   ATTORNEY'S FEES AND COSTS. In any action to enforce any rights or
+obligations of this License, the prevailing party shall be entitled
+to receive its costs and attorneys fees expended in such an action
+from the other party.
+
+10.8.   RELATIONSHIP OF THE PARTIES. Each party hereto is acting as an
+independent contractor and not as agent, partner, or joint venturer
+with the other party for any purpose, and neither party shall
+represent to others or knowingly conduct itself otherwise. Except
+as provided in this License, neither party shall have any right,
+power, or authority to act or to create any obligation, express or
+implied, on behalf of the other.
+
+10.9.   NOTICES. All notices, demands and other communications ("Notices")
+pertaining to this License shall be given in the same manner as set
+forth in Section 12.4 of the Alliance Agreement.
+
+10.10.  REMEDIES. Except as expressly limited herein, the rights and
+remedies granted to each party in this License are in addition to
+and not in lieu of any other rights and remedies which each party
+may have at law or in equity for any breach or default by the other
+of this License, including, without limitation, the right to obtain
+appropriate injunctive relief without
+
+
+
+
+
+
+11
+<PAGE>   12
+
+**CONFIDENTIAL**
+
+the necessity of bond to enforce this License against any breach of
+threatened breach hereof.
+
+10.11.  BINDING. This License is binding on and inures to the benefit of
+the parties and the successors and permitted assigns of the parties
+hereto.
+
+10.12.  ACKNOWLEDGMENT OF ALLOCATED RISKS. The parties hereto each
+acknowledge that the provisions of this License were negotiated to
+reflect an informed, voluntary allocation between them of all risks
+(both known and unknown) associated with the transactions
+contemplated by this License. The warranties, disclaimers and
+limitations of liability in this License are intended to limit and
+define the circumstances of liability for each party.
+
+10.13.  FORCE MAJEURE. Neither party shall be responsible for failure of
+performance due to causes beyond its control, including, without
+limitation, accidents, acts of God, labor disputes, or the actions
+of third parties or Government agencies.
+
+10.14.  CAPTIONS. The captions of the various sections hereof are for
+convenience only and are not part of the body or text of this
+License, nor are they intended to be used in interpreted the terms
+of the License.
+
+10.15.  SEVERABILITY. If any provision of this License shall be held
+invalid or unenforceable, the remaining provisions of the License
+shall not be affected thereby and each remaining provisions shall
+be valid and enforceable to the fullest extent permitted by law.
+
+10.16.  SUPPORT. i2 and viaLink agree to negotiate in good faith to
+determine what support levels will be provided, who will provide
+them, what additional fees will be charged therefore, and who will
+pay such fee for such support, if any, which may be needed by i2
+from viaLink to support the requirements of i2's customers.
+
+10.17.  SUBCONTRACTORS: Neither party shall use or hire any subcontractor
+or other third party to carry out its obligations or perform any of
+the terms of this License, without the prior written consent of the
+other, which shall not be unreasonably withheld.
+
+10.18.  SURVIVAL. Sections 2.2, 3.2, 4, 5.4, 6, 7, 8 and 9 shall survive
+the termination or expiration of this License.
+
+
+
+
+12
+<PAGE>   13
+
+**CONFIDENTIAL**
+
+IN WITNESS WHEREOF, the parties hereto have caused this Software
+License to be duly executed and delivered by their respective officers thereto
+duly authorized, all as of the day and year first above written.
+
+i2 TECHNOLOGIES, INC.,
+a Delaware corporation
+
+
+By: /s/ ROBERT C. DONOHOO
+Name: Robert C. Donohoo
+Title: Corporate Counsel
+
+THE viaLINK COMPANY,
+an Oklahoma corporation
+
+By: /s/ J. ANDREW KERNER
+Name: J. Andrew Kerner
+Title: Chief Financial Officer
+
+
+
+
+

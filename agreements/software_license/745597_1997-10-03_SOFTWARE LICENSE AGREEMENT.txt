@@ -1,0 +1,776 @@
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+THIS  AGREEMENT  is  made  and  entered  into  as of  the  17th  day of
+September,   1997  ("Agreement")  by  and  between  MENTAT  INC.,  a  California
+corporation having a place of business at Los Angeles,  California  (hereinafter
+called "MENTAT"),  and INTERLINK COMPUTER SCIENCES, INC., a Delaware corporation
+having  a  place  of  business  at  Fremont,   California   (hereinafter  called
+"INTERLINK").
+
+WHEREAS,  MENTAT is engaged in the  design and  development  of certain
+technology  related to  software  interfaces  for  operating  systems  including
+communications  stacks,  and has developed and acquired a substantial  amount of
+know-how,  trade  secrets,  technical  data  and  information  relating  to such
+technology;
+
+WHEREAS,   INTERLINK  has  acquired  certain   technology   related  to
+information  security,   including  a  product  which  provides  secure  network
+communications  known  as the  NetLOCK  Software  (defined  below)  from  Hughes
+Aircraft Company;
+
+WHEREAS,  MENTAT has developed software  interfaces for use in enabling
+the NetLOCK Software to communicate with different operating systems;
+
+WHEREAS,  MENTAT has licensed to Hughes  Aircraft  Company the right to
+use the MENTAT software interfaces in the field of information security; and
+
+WHEREAS,  MENTAT  and  INTERLINK  wish  to  set  forth  the  terms  and
+conditions under which MENTAT will license such software interfaces for use with
+the NetLOCK  Software and INTERLINK will license such interfaces in the field of
+information security.
+
+NOW, THEREFORE, the parties hereto agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+Section 1.1 "Platform"  means an operating  system for which a separate
+SHIM is required.
+
+Section 1.2  "NetLOCK  Software"  means the network  security  software
+programs that are manufactured,  marketed and distributed by INTERLINK under the
+NetLOCK  mark as a standard  item  available to customers of INTERLINK or to the
+purchasing public.
+
+Section  1.3 "SHIM"  means a software  program  for  enabling a NetLOCK
+Software  user  to  interface   with  its  particular   Platform,   and  related
+documentation.
+
+<PAGE>
+
+Section  1.4  "SHIM  BUG  FIX"  means a  modification  to a SHIM  which
+corrects the SHIM to perform as provided in the SHIM specifications.
+
+Section 1.5 "SHIM  Specification"  means the specifications  describing
+the format, and other requirements for Licensed SHIM, as set forth in Attachment
+A, attached hereto and made a part hereof.
+
+Section 1.6 "Licensed  SHIM" means a SHIM developed by MENTAT set forth
+on  Attachment B. Licensed SHIM includes the SHIM in both source code and object
+code form as it is originally  provided to Hughes Aircraft Company and as it may
+later be  provided  to  INTERLINK  as the  result of  subsequent  modifications,
+enhancements, SHIM BUG FIXES, or releases made to it by or for MENTAT, or in any
+form of media it may be converted into by the user.
+
+Section  1.7   "Licensed   Field"   means  all  hardware  and  software
+applications in the field of information security.
+
+Section 1.8 "Net Revenues" means any and all royalties,  fees, or other
+amounts  invoiced by INTERLINK or otherwise paid to INTERLINK in connection with
+sale,  distribution,  or sublicensing of the NetLOCK  Software to third parties,
+less the exclusions set out below. Net Revenues shall not include the following:
+
+(a)      Credits for actual returns or amounts attributable to bad debt
+(provided that adjustments for such credits or amounts will be
+subjected to the royalty rates for NetLOCK  Software when such
+NetLOCK Software was invoiced);
+
+(b)      Amounts  invoiced for  reasonable  shipping and handling fees,
+insurance charges, sales taxes, or other applicable taxes;
+
+(c)      Price protection  credits and bill-back volume discounts based
+on the customer's volume performance; and
+
+(d)      Related  services,  consulting,  support and  warranty-related
+revenues;  provided  that (i)  hourly  rates for such  related
+services  (such  as   development  of  custom   applications),
+consulting  and  warranty-related  revenues  shall not  exceed
+INTERLINK's   standard  rates  for  its  personnel  performing
+similar work on other products,  and (ii) the annual price for
+a support  contract for NetLOCK  Software shall not exceed [*]
+of  INTERLINK's  standard  price for a  corresponding  NetLOCK
+Software license.
+
+In a bundled  transaction  involving  both the NetLOCK  Software and one or more
+other  products,  "Net  Revenues"  shall  include  only the amount  invoiced  by
+INTERLINK  in the  transaction  prorated  between the NetLOCK  Software and such
+other products in accordance with INTERLINK's  standard prices for each product.
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+Section  1.9  "Effective  Date"  shall  mean  the  date  that  (a) this
+Agreement is signed by both parties  hereto;  (b) MENTAT and Hughes  Information
+Systems Company execute that certain  Agreement and Mutual Release;  and (c) the
+Closing of the Asset Purchase  Agreement  between  INTERLINK and Hughes Aircraft
+Company as the term "Closing" is defined therein.
+
+Section 1.10  "Proprietary  Data" means the terms of this Agreement and
+that  content of  information  or software  which has been  originated  by or is
+peculiarly  within  the  knowledge  of the  originating  party and is subject to
+protection  under  recognized  legal  principles,  provided  that no  element of
+information or software shall be considered  Proprietary  Data after any date on
+which such element is shown to be available to the general  public without fault
+of the receiving party.
+
+ARTICLE II
+
+MAINTENANCE
+
+
+Section 2.1 SHIM Support.  INTERLINK shall have the right, upon written
+notification  to MENTAT,  to purchase  Support (as defined below) at the rate of
+[*] per Platform  per year,  paid at the  beginning  of each year.  Such Support
+shall be available for five (5) years. For purposes of this Agreement, "Support"
+shall mean
+
+(a)  Maintenance,   which  shall  include  correcting
+software  and  documentation   errors  that  are  brought  to  MENTAT's
+attention.
+
+(b) SHIM BUG  FIXES for  errors  that  cause  NetLOCK
+Software to become essentially unusable. Such errors shall be corrected
+within [*] calendar days after MENTAT receives notice of the error. All
+other errors shall be corrected  within [*] calendar  days after MENTAT
+receives  notice of the  error;  other than  those  errors  that do not
+substantially  affect the  functionality of the NetLOCK Software or its
+compliance  with the  Specifications,  which errors may be corrected in
+the next SHIM release,  provided such release is made at least once per
+year.
+
+(c)  Provision  to INTERLINK of not more than one (1)
+platform update per year due to a manufacturer's change in an operating
+system;  provided that such platform  update is reasonably  expected to
+require not more than two (2) person weeks of effort to modify the SHIM
+to correctly  function on such operating  system  according to the SHIM
+Specification.
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+In the event that  INTERLINK  purchases  Support for at least five (5) Platforms
+per year, MENTAT shall make limited  enhancements such as functionality  changes
+to the SHIMs  ("Enhancements") as required by INTERLINK's NetLOCK product plans.
+Such Enhancements shall consist of changes or updates requiring no more than two
+(2) person weeks of effort,  and MENTAT shall not be obligated to make more than
+three (3) to five (5) such  Enhancements  during any one (1) year of the license
+term, as mutually  agreed by MENTAT and INTERLINK.  With respect to Enhancements
+requiring  more than two (2)  person  weeks of work,  operating  system  updates
+requiring more than two (2) person weeks of work, or if more than three (3) such
+Enhancements or operating  system updates are requested  during any one (1) year
+of the license  term,  such  Enhancements  or updates  shall be performed to the
+extent  feasible  given  MENTAT's  engineering  resources and shall be billed to
+INTERLINK  on the basis of [*] per person week  devoted to such  Enhancement  or
+operating system update.
+
+Section 2.2 Costs.  Except as otherwise  provided herein,  MENTAT shall
+bear all costs, and expenses,  including travel (but excluding travel outside of
+Southern  California)  and  salary,  incurred  in the Support of SHIMs by MENTAT
+under this Agreement. MENTAT shall provide computer hardware and software needed
+to create and maintain its SHIMs if such computer equipment can be purchased for
+less than [*]. At  MENTAT's  request,  INTERLINK  will make  computer  equipment
+available  to  MENTAT  for  all  other  Platforms  in a  manner  similar  to the
+availability  of this equipment to INTERLINK's own  development  staff.  For the
+purposes of this paragraph,  it is assumed that MENTAT can maintain a SHIM for a
+particular  Platform  using a single  computer of the type for which the SHIM is
+targeted.
+
+
+ARTICLE III
+
+LICENSE GRANT
+
+Section 3.1 License.  MENTAT  grants to  INTERLINK,  commencing  on the
+Effective  Date, a license  including the right to grant  sublicenses,  to make,
+have made, use, sell, license, reproduce, demonstrate, market, create derivative
+works,  modify,  combine and  distribute  Licensed  SHIMs in the Licensed  Field
+solely in connection  with the  distribution  and sale of the NetLOCK  Software.
+Such  license  shall be  exclusive  for five (5) years and shall  thereafter  be
+nonexclusive.  MENTAT  shall own all right,  title,  and  interest in and to the
+LICENSED SHIMs and retains all rights not granted hereunder, including the right
+to distribute  Licensed SHIMs outside the Licensed Field,  during the first five
+(5)  years  of the  term of  this  Agreement  and in any  application  or  field
+thereafter.
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+Section 3.2 Sublicenses.  In each instance where INTERLINK  sublicenses
+the source code of the Licensed  SHIMs to a sublicensee  in connection  with the
+distribution  and sale of the NetLOCK  Software,  INTERLINK  shall  require such
+sublicensees to sign a sublicense agreement containing  provisions regarding the
+protection  of the  Licensed  SHIMs that shall be no less  restrictive  than the
+terms and conditions relating thereto contained in this Agreement.
+
+Section 3.3 End User Agreement. INTERLINK agrees, and shall require all
+its  sublicensees to agree,  to distribute  Licensed SHIMs to third parties only
+pursuant to an appropriate  end user  agreement,  such as the end user agreement
+attached  hereto as Attachment C, and will take all reasonable  steps to protect
+MENTAT's proprietary rights in the Licensed SHIMs. Attachment C contains the end
+user  agreement  for  domestic  licenses and that will be the basis for end user
+agreements for international  licenses. No rights or licenses are granted herein
+to  INTERLINK,  expressly  or by  implication,  under  any  MENTAT  intellectual
+property, other than the license granted in Section 3.1.
+
+
+ARTICLE IV
+
+PROPRIETARY DATA
+
+All Proprietary Data furnished  hereunder by one party to another shall
+be treated under  conditions of confidence.  The receiving party agrees:  to use
+such  information  and software  only as permitted  in the  performance  of this
+Agreement;  to inform  further  recipients of such  information  and software in
+advance or at the time of delivery to the  recipients  and in writing that it is
+to be treated in confidence;  and to afford such  Proprietary  Data at least the
+same degree of  protection  against  disclosure  or  unauthorized  use which the
+receiving party exercises in the protection of its own equivalent property,  but
+in no event less than  reasonable  care. To the extent that any  information and
+software is further transferred by a party as permitted by this Agreement,  such
+party will impose the same  requirements  and  restrictions  on the recipient as
+apply to it. The  receiving  party  shall  have no  obligation  with  respect to
+information  which:  is  publicly  known  otherwise  than by the  breach of this
+Agreement by the receiving  party;  or has been  independently  developed by the
+receiving party; or was already known to the receiving party prior to disclosure
+by the disclosing party and was without  restriction;  or has been  subsequently
+received  lawfully  from a third  party  and is  without  restriction.  With the
+exception of source code for which there is no time limit, all of the provisions
+of this Article 4 regarding use and confidentiality  shall survive expiration or
+termination  of this  Agreement  for a period of ten (10) years from the date of
+termination.
+
+
+<PAGE>
+
+ARTICLE V
+
+COMPENSATION
+
+Section 5.1 License Fee. Upon the Effective  Date,  INTERLINK shall pay
+to MENTAT a license fee of $175,000.00.
+
+Section  5.2  Royalties.  INTERLINK  shall pay  MENTAT a  royalty  as a
+percentage of the Net Revenues in the amount of:
+
+[*]
+
+"Year 1" shall  commence  on the  earlier  of (i) the first day of the  calendar
+quarter in which the first  customer  shipment of NetLOCK from  INTERLINK  takes
+place;  or (ii) April 1,  1998.  No royalty  shall be due for  NetLOCK  Software
+shipped for demonstration purposes,  evaluation copies,  maintenance updates for
+existing customers.
+
+Section 5.3 Minimum Royalties. INTERLINK shall pay minimum royalties to
+MENTAT through the end of the first five (5) years of the license term according
+to the following schedule:
+
+[*]
+
+Minimum  royalty  amounts  will be paid  thirty  (30) days after the end of each
+above stated  period as provided in Article VI below.  Minimum  royalty  amounts
+will be paid only to the extent  royalties  payable  under Section 5.2 are below
+the  minimum  royalty  amounts  due in the period  corresponding  to the minimum
+royalty period listed above.  Notwithstanding the foregoing,  shortfall payments
+made during a quarter in Year 1 or Year 2 may be credited against  royalties due
+under Section 5.2 in subsequent quarters of each respective Year.
+
+Section 5.4  Modification  or  Replacement  of Software.  INTERLINK may
+modify or replace the SHIM  incorporated  into the NetLOCK  product at any time;
+provided,  however,  that  INTERLINK  shall not be relieved of its obligation to
+make the royalty payments set forth above during the first five (5) years of the
+license term. In the event that INTERLINK  replaces the SHIM entirely  following
+the first five (5) years of the license term, INTERLINK shall be relieved of its
+obligation to make further royalty payments to MENTAT.
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+Section  5.5 Taxes.  All  payments  to MENTAT  hereunder  shall be made
+exclusive  of any sales and use taxes.  In the event such taxes are  applicable,
+INTERLINK shall pay such sales and use taxes.
+
+ARTICLE VI
+
+REPORTS, PAYMENTS AND RECORDS
+
+Section 6.1 Reports.  INTERLINK  shall  prepare and issue  reports in a
+form  satisfactory to MENTAT within thirty (30) days of the end of each calendar
+quarter,  identifying  the Agreement  title on the cover page hereof and showing
+separately:
+
+(a) the total  number of  NetLOCK  Software  units or
+bundles  shipped  during  such  calendar   quarter  and  the  aggregate
+INTERLINK revenues invoiced or otherwise paid to INTERLINK with respect
+to shipment of NetLOCK  Software  units or bundles during such calendar
+quarter upon which  royalties are payable,  and the applicable  royalty
+percentage; and
+
+(b)  the  royalties   accrued  during  such  calendar
+quarter and payable to MENTAT.
+
+If no royalties are due to MENTAT, a report to that effect shall be prepared.
+
+Section  6.2  Payment.  Within  thirty  (30) days after the last day of
+March,  June,  September  and  December  of each  year  during  the term of this
+Agreement,  INTERLINK  shall  transmit  to  MENTAT a report in  accordance  with
+Section 6.1 and payment of the amount stated as due and owing to MENTAT. Payment
+shall be sent to the following address:
+
+MENTAT INC.
+ATTN.: PRESIDENT
+SUITE 315
+1145 GAYLEY AVENUE
+LOS ANGELES, CALIFORNIA 90024
+
+
+Section  6.3  Audits.  INTERLINK  shall  keep for a period of three (3)
+years from the end of a calendar  quarter true and accurate records and books of
+account   containing   regular  and  exact  entries  relating  to  all  business
+transactions  within the scope of this  Agreement  and shall permit no more than
+once  annually,  at mutually  agreed  times,  an  independent  certified  public
+accountant  selected  by MENTAT and  acceptable  to  INTERLINK  to inspect  said
+records and books and to make and retain  copies or extracts  therefrom.  Should
+such examination  result in INTERLINK's  obligation to pay additional  royalties
+exceeding  [*] of the  royalties  paid by  INTERLINK  for the  period  examined,
+INTERLINK shall also pay the costs and expenses  accrued in connection with such
+examination.
+
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+Section 6.4 Late Payments. In addition to its rights under Section 7.2,
+MENTAT has the right to require that  INTERLINK pay to it a late payment  charge
+of four  percent  (4%) on any and all amounts of royalty  that are fifteen  (15)
+days  overdue  and payable to MENTAT,  and in addition  has the right to require
+INTERLINK  to pay  interest to it upon any and all  amounts of royalty  that are
+thirty (30) days overdue and payable to MENTAT, from the date due to the date of
+payment, the rate of such interest being two percent (2%) greater than the U. S.
+reference rate at the Bank of America on the day the royalty  payment became due
+but in any event no greater than the  applicable  maximum legal rate that may be
+then specified by the laws of the State of California.
+
+Section  6.5  Attorneys'  Fees.  In  the  event  of a suit  under  this
+Agreement,  the prevailing party shall be entitled to receive  reimbursement for
+its reasonable legal costs and attorney fees.
+
+
+ARTICLE VII
+
+TERM AND TERMINATION
+
+Section  7.1  Term.  This  Agreement  shall  become  effective  on  the
+Effective  Date and shall  continue  unless  terminated in accordance  with this
+Agreement.
+
+Section 7.2 Early Termination.  If either party hereto shall default in
+fulfilling any material  obligations and conditions set forth in this Agreement,
+and such  default  shall not be  remedied  within  sixty (60) days after  notice
+specifying  the nature of such default,  the party not in default shall have the
+right to terminate this  Agreement by giving written notice of such  termination
+to the defaulting party.
+
+Section 7.3       Effect of Breach
+
+(a) Breach by INTERLINK.  Upon  termination of this Agreement by MENTAT
+for INTERLINK's breach as provided in Section 7.2 above, the parties' rights and
+obligations  under Sections 2.1 and 2.2 shall terminate at MENTAT's  discretion,
+and the parties  rights and  obligations  under Articles I, III, IV, V, VI, VIII
+and IX shall  continue;  provided that  INTERLINK's  licenses  under Article III
+shall be thereafter non-exclusive.
+
+(b) Breach by MENTAT.  Upon  termination of this Agreement by INTERLINK
+for MENTAT's  breach as provided in Section 7.2 above,  the parties'  rights and
+obligations under Articles I, II, III, IV, V, VI, VIII and IX shall continue.
+
+Notwithstanding  the foregoing,  end user licenses to use the NetLOCK granted by
+INTERLINK  during  the  term  hereof  shall  also  survive  termination  of this
+Agreement for any reason.
+
+
+<PAGE>
+
+ARTICLE VIII
+
+WARRANTY
+
+Section  8.1 Right to  License.  Subject  to (a)  Closing  of the Asset
+Purchase  Agreement  between Hughes  Aircraft  Company and INTERLINK as the term
+"Closing" is defined in that  agreement  and (b) the  execution of the Agreement
+and Mutual Release between MENTAT and Hughes Information Systems Company, MENTAT
+warrants that it has the right to grant the license  rights granted to INTERLINK
+under this Agreement.  MENTAT  warrants that it will  incorporate no third party
+components in the SHIMS created by MENTAT under this Agreement.  MENTAT warrants
+that to the best of MENTAT's  knowledge  the Licensed  SHIMs do not infringe the
+intellectual property rights of others in existence as of the Effective Date.
+
+Section  8.2  INTERLINK  Representation.  Subject to (a) Closing of the
+Asset Purchase  Agreement  between Hughes Aircraft  Company and INTERLINK as the
+term  "Closing"  is  defined  in that  agreement  and (b) the  execution  of the
+Agreement  and Mutual  Release  between  MENTAT and Hughes  Information  Systems
+Company,  INTERLINK  represents that it has acquired  Hughes Aircraft  Company's
+rights to the NetLOCK Software.
+
+Section  8.3  Infringement.  MENTAT  warrants  that it has  received no
+notice from a third party that the  Licensed  SHIMs  infringe  the  intellectual
+property rights of any third party.
+
+Section 8.4 MENTAT  Indemnification.  MENTAT will defend and  indemnify
+INTERLINK  against any claim of  infringement  of any  copyright,  trade  secret
+right,  U.S. patent right or foreign patent right (of which foreign patent right
+MENTAT is aware as of the Effective Date) of a third party based on the Licensed
+SHIMs,  provided that INTERLINK promptly notifies MENTAT in writing of the claim
+and MENTAT has sole control of the defense and related settlement  negotiations.
+In the event that the Licensed  SHIMs  become or, in  INTERLINK's  opinion,  are
+likely  to  become  the  subject  of a claim  of  infringement  of a  patent  or
+copyright,  MENTAT may at its option and upon the agreement of INTERLINK, either
+secure rights for INTERLINK to continue use of the Licensed  SHIM, or replace or
+modify the Licensed SHIM to make it  non-infringing,  provided any such replaced
+or modified  Licensed SHIM continues to meet the  performance  requirements  set
+forth in the  particular  SHIM  Specification.  Notwithstanding  the  foregoing,
+MENTAT  shall have no liability  to  indemnify  INTERLINK  in any claim  brought
+against  INTERLINK  to the extent the  infringement  arises  from the use of (a)
+altered SHIMS if such infringement would have been avoided if INTERLINK had used
+unaltered  Licensed SHIMS as originally  supplied by MENTAT; and (b) non- MENTAT
+licensed software with Licensed SHIMS and the claim for such infringement  would
+have been avoided if such non-MENTAT licensed software had not been used.
+
+Section  8.5  INTERLINK  Indemnification.  INTERLINK  will  defend  and
+indemnify MENTAT against any claim arising out of INTERLINK's use,  reproduction
+or distribution of the NetLOCK Software,  including any claim of infringement of
+any copyright, trade secret right, U.S. patent right or foreign patent right (of
+which foreign patent right MENTAT is aware as of the Effective  Date) right of a
+third party based on NetLOCK Software other than a claim of infringement
+
+
+<PAGE>
+
+of any  intellectual  property right of a third party based solely on a Licensed
+SHIM,  provided that MENTAT promptly notifies  INTERLINK in writing of the claim
+and  INTERLINK   has  sole  control  of  the  defense  and  related   settlement
+negotiations.
+
+Section 8.6 Disclaimer.  NO WARRANTY EXCEPT FOR THE EXPRESS  WARRANTIES
+SET FORTH IN THIS  AGREEMENT ARE OFFERED OR SHALL BE DEEMED TO APPLY.  EXCEPT AS
+SET FORTH IN ARTICLE 8, EACH PARTY HEREBY  DISCLAIMS  AND THE OTHER PARTY HEREBY
+EXPRESSLY WAIVES,  ANY AND ALL EXPRESS WARRANTIES OR REPRESENTATIONS OF ANY KIND
+OR NATURE,  AND ALL  IMPLIED  WARRANTIES,  INCLUDING,  BUT NOT  LIMITED  TO, ANY
+IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Section 8.7 Limitation of Liability.  IN NO EVENT SHALL EITHER PARTY BE
+LIABLE TO THE OTHER  FOR ANY  SPECIAL,  INDIRECT,  INCIDENTAL  OR  CONSEQUENTIAL
+DAMAGES  (INCLUDING  LOST  PROFIT) IN ANY WAY ARISING OUT OF OR RELATING TO THIS
+AGREEMENT WHETHER BASED UPON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY.
+
+ARTICLE IX
+
+MISCELLANEOUS
+
+Section  9.1  Assignment.  Except  in the case of a  merger  or sale of
+substantially all of a party's equity or assets,  neither party shall assign its
+interest in this Agreement without the prior written consent of the other party.
+Such consent shall not be unreasonably withheld.
+
+Section 9.2 Dispute Resolution. All disputes, claims, and controversies
+concerning this Agreement shall first be reviewed through  management  mediation
+in which the CEO of INTERLINK  and the  President of MENTAT shall meet to seek a
+resolution  of the dispute.  If the parties fail to reach a mutually  acceptable
+resolution  within thirty (30) days, then they shall select a single third party
+mediator,  satisfactory  to both  parties.  The  expenses  for the  third  party
+mediator  shall be shared equally  between the parties.  In the event the CEO of
+INTERLINK,  President  of MENTAT and third party  mediator are unable to reach a
+resolution of the dispute  within the subsequent  ninety (90) days,  then either
+party may seek resolution of the dispute in any court of competent jurisdiction.
+This dispute provision may be invoked by one party delivering  written notice to
+the other  specifying  the areas of dispute  and the  intention  to invoke  this
+provision of this Agreement.
+
+Section 9.3  Publicity.  Neither party will,  without the other party's
+express  written  permission,  use  in  advertising,   publicity,  marketing  or
+otherwise any trade name, trademark or other identification or any abbreviation,
+contraction or simulation thereof owned or used by the other party.
+
+Section 9.4 Advertising.  No advertising or publicity matter having any
+reference  to  any  of  the  parties  to  this  Agreement  shall  be  published,
+disseminated  or distributed  by any party to the  Agreement,  or anyone on such
+party's behalf, unless and until such matter shall have first been
+
+
+<PAGE>
+
+submitted to and approved in writing by the party referred to in the advertising
+or publicity matter.  Notwithstanding  the foregoing,  either party may disclose
+the  existence of this  Agreement,  provided it does not disclose the content of
+this Agreement.  Further, the parties acknowledge that INTERLINK desires to make
+a press  release  concerning  this  Agreement  within  thirty  (30)  days of the
+Effective Date. INTERLINK shall not make such release without MENTAT's approval,
+which approval shall not be unreasonably withheld or delayed.
+
+Section 9.5 Governing Law. The validity,  interpretation, and effect of
+this  Agreement  shall  be  governed  by the laws of the  State  of  California,
+exclusive of its conflict of law provisions.
+
+Section 9.6 Notices.  Any notices given  hereunder  shall be in writing
+and shall be effective upon receipt. The following addresses shall be employed:
+
+MENTAT
+MENTAT INC.
+ATTN.: PRESIDENT
+SUITE 315
+1145 GAYLEY AVENUE
+LOS ANGELES, CALIFORNIA 90024
+
+NTERLINK
+INTERLINK COMPUTER SCIENCES, INC.
+ATTN.: MS. GLORIA PURDY
+47370 FREMONT BOULEVARD
+FREMONT, CALIFORNIA 94538
+
+THIS AGREEMENT contains the entire understanding between the parties on
+the  subject  matter  agreed  upon  and   supersedes   all  prior   discussions,
+understandings,  or  agreements  relating  to  the  same  subject  matter.  This
+Agreement may be amended only by an  instrument in writing  signed by authorized
+representatives of MENTAT and INTERLINK.
+
+
+<PAGE>
+
+IN WITNESS WHEREOF,  MENTAT and INTERLINK have caused this Agreement to
+be executed in duplicate by their respective duly authorized  representatives or
+corporate officers.
+
+
+MENTAT INC.                                    INTERLINK COMPUTER SCIENCES, INC.
+
+
+By: /s/ Kay A. Guyer                           By: /s/ Barbara Booth
+Title: Vice President                          Title: Vice President
+Date: September 17, 1997                       Date:
+
+
+Attachment A, MENTAT SHIM Specification
+Attachment B, Licensed SHIMs
+Attachment C, Current NetLOCK Software License Agreement
+
+
+<PAGE>
+
+ATTACHMENT A
+MENTAT SHIM SPECIFICATION
+
+
+[*]
+
+
+
+
+*Confidential Treatment Requested
+
+
+<PAGE>
+
+
+
+ATTACHMENT B
+LICENSED SHIMS
+
+
+o                           Windows95
+o                           Windows NT 3.51 (including NetLOCK Gateway features)
+o                           Windows NT 4.0 (including NetLOCK Gateway features)
+o                           Macintosh System 7.6 with Open Transport 1.1
+o                           Solaris 2.4/2.5
+o                           HP/UX 10.20
+o                           SGI IRIX 6.2
+o                           SCO OpenServer 5.0.0
+o                           IBM AIX 3.2.5 and 4.2
+o                           Digital Unix 4.0b
+
+Each  shim  conforms  to the  "NetLOCK  Security  Module:  Shim  Code  Interface
+Specification 1.3" (Attachment A) and to the individual  port-specific notes for
+that shim.
+
+
+<PAGE>
+
+ATTACHMENT C
+FORM OF NETLOCK SOFTWARE LICENSE AGREEMENT
+
+
+
+<PAGE>
+
+SOFTWARE LICENSE AGREEMENT NetLOCK(TM) (Object Code)
+
+
+BY OPENING  THE  PACKAGE  CONTAINING  THE MEDIA OR BY USE OF THE  SOFTWARE,  YOU
+(EITHER AN INDIVIDUAL OR ENTITY)  AGREE TO THE FOLLOWING  PROVISIONS.  IF YOU DO
+NOT AGREE WITH THESE  PROVISIONS,  RETURN THE  UNOPENED  MEDIA  PACKAGE  AND ALL
+MATERIALS TO THE PLACE OF PURCHASE AND YOUR MONEY WILL BE REFUNDED.
+
+This is a license  agreement and not an agreement for sale.  HUGHES  INFORMATION
+SYSTEMS COMPANY, 1801 Hughes Drive, PO Box 34028,  Fullerton,  California 92634,
+hereby  licenses this Software to you, the LICENSEE,  under the following  terms
+and conditions.
+
+1.       The  term  "Licensed  Programs"  means  the  customer-ready,  unopened,
+shrink-wrap  packages containing the NetLOCK(TM) computer programs in executable
+or machine-readable form and written instructional materials.  Licensed Programs
+include a NetLOCK(TM)  Manager for network  security  administration  and one or
+more  NetLOCK(TM)  Clients for use on multiple  computers  for  enabling  secure
+computer to computer communications. "Licensed Programs" include the software in
+object code form and  documentation  as it is originally  provided and as it may
+later be  provided in the form of  subsequent  releases or in any form it may be
+converted into by the LICENSEE. "Documentation" means the information related to
+the  operation  and use of the Licensed  Programs  which is  delivered  with the
+Licensed Programs.
+
+2.       If  LICENSEE is a US  Government  agency,  the  Licensed  Programs  are
+provided to  LICENSEE as  commercial  computer  software,  as defined in Defense
+Federal  Acquisition  Regulation  Supplement  (DFARS)  252.227-7014  or  Federal
+Acquisition Regulation (FAR) 52.227-19, as applicable.
+
+3.       LICENSE RIGHTS GRANTED
+
+(a)      to use the NetLOCK(TM)  Manager on any computer,  provided the
+NetLOCK(TM) Manager is used on only one computer at a time;
+
+(b)      to use the NetLOCK(TM)  Clients on the number of computers for
+which the NetLOCK(TM)  Manager is configured to control as set
+forth  in  the  shipping  documentation  and  the  NetLOCK(TM)
+Manager media label;
+
+(c)      to  reproduce  the  Licensed  Programs,  for the  purposes  of
+safekeeping  (archives)  or  backup,  provided  all  copyright
+notices and proprietary, restricted, or limited rights legends
+are reproduced;
+
+(d)      to  transfer  this  Licensed  Programs  to  another  party  by
+transferring   the  original  media  and  all   Documentation,
+including a copy of this License Agreement,  provided LICENSEE
+deletes or destroys all other copies of the Licensed Programs;
+and  provided  the other  party reads and agrees to accept the
+terms and conditions of this License Agreement.
+
+<PAGE>
+
+4.       Ownership  of the Licensed  Programs and all rights therein,  including
+copyrights,  are and will remain in HUGHES, or in third parties from whom HUGHES
+has acquired  license rights.  Except for those rights in the Licensed  Programs
+specifically  granted  in this  License  Agreement,  no rights  in the  Licensed
+Programs and  Documentation are granted to LICENSEE  including,  but not limited
+to, to modify,  adapt,  translate  or create  derivative  works in the  Licensed
+Programs,  the right to reverse compile or reverse assemble the object code into
+source code,  or in any other way to attempt to discover the source code for the
+Licensed Programs.  The Licensed Programs in source code form are a trade secret
+of HUGHES.  LICENSEE will preserve such Licensed Programs in confidence and will
+not  disclose  such  Licensed  Programs to any third  parties.  In the event the
+source code becomes known to LICENSEE in any manner, LICENSEE will preserve such
+source code in  confidence  and will not disclose  such source code to any third
+parties, including, but not limited to, prime contractors,  subcontractors,  and
+agents of LICENSEE.  This  provision does not limit the right of LICENSEE to use
+Software, Documentation, or information or information contained in the Software
+or  Documentation,  which the  LICENSEE  may  already  have or  obtains  without
+restriction.
+
+5.       LIMITED WARRANTIED, REMEDIES AND DISCLAIMERS
+
+(a)      Hughes warrants that the Licensed Programs will  substantially
+conform to the Documentation  provided by Hughes.  Hughes also
+warrants  that the media on which the  Licensed  Programs  are
+distributed is free from defects in materials and  workmanship
+under normal use. Hughes will replace  defective media or will
+use  reasonable  efforts to correct  errors,  malfunctions  or
+defects in the  Licensed  Program at no charge,  provided  the
+Licensee  returns  the  Licensed  Program to Hughes'  point of
+shipment, freight prepaid within the warranty period. Licensee
+understands,  however,  that  Hughes is not obliged to correct
+every error,  malfunction,  or defect in the  product.  Hughes
+will  make  available  to  the  Licensee  any  updates  to the
+Licensed  Programs  which are  released  during  the  warranty
+period at no additional charge. The warranty period is 90 days
+unless an Extended Warranty has been purchased.
+
+(b)      THERE ARE NO WARRANTIES,  EXPRESS OR IMPLIED,  WHETHER ORAL OR
+WRITTEN,  WITH RESPECT TO THE LICENSED  PROGRAMS AND ANY OTHER
+GOODS AND SERVICES  COVERED BY OR  FURNISHED  PURSUANT TO THIS
+LICENSE AGREEMENT,  INCLUDING,  BUT NOT LIMITED TO ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY,  OR OF FITNESS FOR A PARTICULAR
+PURPOSE,  NON-INFRINGEMENT,   OR  ARISING  FROM  A  COURSE  OF
+PERFORMANCE OR DEALING, OR FROM USAGE OR TRADE.
+
+(c)      IN NO EVENT WILL HUGHES OR ITS SUPPLIERS HAVE ANY LIABILITY TO
+LICENSEE  OR  ANY  THIRD  PARTY  FOR  DAMAGES  RESULTING  FROM
+LICENSEE'S USE OR POSSESSION OF THE LICENSED PROGRAMS.
+
+(d)      IN NO EVENT  WILL  HUGHES OR ITS  SUPPLIERS  BE LIABLE FOR ANY
+LOSS  OF  PROFIT  OR   REVENUE   BY   LICENSEE,   OR  FOR  ANY
+CONSEQUENTIAL,  INDIRECT,  INCIDENTAL,  SPECIAL,  PUNITIVE  OR
+EXEMPLARY DAMAGES
+
+
+<PAGE>
+
+INCURRED  OR  SUFFERED  BY  LICENSEE  EVEN  IF  HUGHES  OR ITS
+SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR
+DAMAGE.
+
+(e)      HUGHES' AND ITS SUPPLIERS'  LIABILITY UNDER THIS AGREEMENT FOR
+ANY CLAIM,  CHARGES,  JUDGMENT,  COSTS,  AND  EXPENSES  IN ANY
+ACTION  REGARDLESS  OF FORM,  INCLUDING BUT NOT LIMITED TO ANY
+LIABILITY  FOR  PATENT OR  COPYRIGHT  INFRINGEMENTS,  WILL NOT
+EXCEED THE AMOUNT OF THE LICENSE FEE  RECEIVED BY HUGHES UNDER
+THIS AGREEMENT.  THE FOREGOING  STATES THE ENTIRE LIABILITY OF
+HUGHES.
+
+6.       LICENSEE  will not knowingly  export or transfer,  whether  directly or
+indirectly,  the  Licensed  Programs  or any  system  containing  such  Licensed
+Programs to anyone  outside the country of delivery  without  first  obtaining a
+license from the U.S.  Department  of Commerce or any other agency or department
+of the United States Government, as required.
+
+7.       In  the  event  any  provision  of this  License  Agreement  is  deemed
+unenforceable or invalid, such provision will be modified so as to make it valid
+and enforceable, and as so modified the entire agreement will remain in force.
+
+8.       This  License  Agreement  is  effective  until  terminated.  It  may be
+terminated by destroying  the software  media and backup copy. It will terminate
+automatically  if LICENSEE fails to comply with any of the terms of this License
+Agreement,  and on any such termination LICENSEE will destroy the software media
+and backup copies.
+
+Hughes  retains  all  rights not  expressly  granted.  Nothing  in this  License
+Agreement  constitutes a waiver of Hughes' rights under US Copyright laws or any
+other federal or state law.
+
+NetLOCK(TM) is a trademark of Hughes.
+(C)Copyright 1993-1996 Hughes Information Systems Company
+All Rights Reserved.
+HUGHES INFORMATION SYSTEMS COMPANY
+1801 Hughes Drive, Fullerton, California 92634
+
+
+
+

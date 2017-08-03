@@ -1,0 +1,474 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+EXHIBIT 10.1
+
+
+
+APPLICATION SERVICE PROVIDER (ASP)
+SOFTWARE LICENSE AGREEMENT
+
+
+THIS APPLICATION SERVICE PROVIDER AGREEMENT (this "Agreement") is dated this
+28th day of December 2001 between Stellent, Inc. ("Stellent"), a Minnesota
+corporation, having its principal offices at 7777 Golden Triangle Drive, Eden
+Prairie, MN 55344 and Active IQ Technologies, Inc., a Minnesota corporation with
+principal offices at 601 Carlson Parkway #1550, Minnetonka, Minnesota 55305 (the
+"ASP").
+
+THIS AGREEMENT SUPERCEDES ANY "SHRINK-WRAP" OR OTHER FORM OF LICENSE AGREEMENT
+WHICH MAY BE PACKAGED WITH THE SOFTWARE OR INCORPORATED INTO THE MEDIA ON WHICH
+THE SOFTWARE IS SHIPPED.
+
+THE SOFTWARE IS COPYRIGHTED AND LICENSED (NOT SOLD). STELLENT DOES NOT SELL OR
+TRANSFER TITLE TO THE SOFTWARE TO THE ASP. THE LICENSE GRANTED TO THE ASP UNDER
+THIS AGREEMENT SHALL NOT COMMENCE UNTIL THE ASP HAS EXECUTED THIS AGREEMENT AND
+AN AUTHORIZED REPRESENTATIVE OF STELLENT HAS RECEIVED, APPROVED, AND EXECUTED A
+COPY OF IT AS EXECUTED BY THE ASP.
+
+1.   DEFINITIONS. As used in this Agreement:
+
+1.1.    "Application" shall mean online subscription based application
+services of the ASP incorporating the Software and marketed to
+Customers.
+
+1.2.    "Customer" shall mean a person, corporation or similar entity which
+has entered into a subscription agreement for the Application and
+may grant to Subscribers access rights to the Application.
+
+1.3.    "Software" means the object code version of Stellent's software
+program(s) listed on Attachment A, together with any fixes, updates,
+modifications, enhancements, and new versions (if any) as may, from
+time to time, be provided as part of Stellent's support service(s).
+The term "Software" also includes the documentation and other
+written materials packaged with this Agreement, together with such
+additional documentation and materials as may, from time to time, be
+provided by Stellent for use in connection with the Software
+(collectively, the "Documentation").
+
+1.4.    "Subscriber" shall mean a person authorized by a Customer to access
+the Application incorporating the Software for purposes of
+submitting and editing managed content, and has authority to perform
+standard end-user functions, including, but not limited to,
+searching, viewing and printing managed content.
+
+2.   GRANT OF LICENSE. In consideration of payment of the applicable fees as
+discussed below, Stellent hereby grants to the ASP an exclusive,
+sublicensable license to host the Software for itself and third parties on
+the servers in its host computer system located its principal place of
+business for the sole purpose of managing documents on internal and
+external Web sites in accordance with the Documentation. If the ASP hosts
+more than thirty (30) instances of the Software, it hereby agrees that it
+will provide written notice to Stellent and shall pay to Stellent any and
+all fees payable by Stellent to licensors of third party software or
+applications included within the Software.
+
+The ASP may use the services of third party agents to market the
+Applications to potential Customers provided however that the Applications
+shall only be hosted by the ASP or its authorized outsourcers as permitted
+herein.
+
+As used herein, "exclusive license" means that so long as the ASP meets the
+minimum royalty commitments as described on Attachment D, Stellent shall
+not, nor shall Stellent grant to another third party the right to, provide
+a for profit application service provider offering during the term of this
+Agreement. If a third party requests that Stellent grant to such third
+party the right to provide a for profit application service provider
+offering, Stellent shall refer such third party to the ASP and the ASP and
+Stellent shall negotiate in good faith the amount of compensation due and
+owing to Stellent for such referral. Further, Stellent agrees that during
+the term of this Agreement, Stellent shall not directly solicit the
+Customers with the sole intent of inducing such Customers to terminate its
+use of the Applications by purchasing the software products of Stellent.
+However, the foregoing shall not prevent Stellent from engaging in its
+normal business practices and any such activities shall not be deemed to be
+a breach of this Agreement nor entitle the ASP to any compensation
+therefor.
+
+Notwithstanding anything contained in this Agreement to the contrary, the
+ASP acknowledges that Stellent is a party to application service provider
+agreements with third parties that may provide for profit application
+service provider offerings to end users and the existence of such
+agreements shall constitute neither a transgression of the exclusive
+license granted to the ASP herein nor entitle the ASP to receive any
+compensation therefor.
+
+
+Page 1 of 7
+<PAGE>
+
+
+The ASP may make thirty (30) copies of the Software to be used only for
+backup purposes and for providing redundancy to Customers and Subscribers.
+The ASP shall provide all equipment and services necessary for operation
+and maintenance of the Application. The ASP shall be solely responsible for
+providing bandwidth for web communication for the Application as well as
+information regarding data back-up procedures, security and other functions
+as reasonably requested by the Customers or the Subscribers.
+
+3.   SUBSCRIPTION AGREEMENTS. The ASP may grant to Subscribers access to the
+Software via an Internet connection but solely as part of the Applications.
+Any and all access to the Applications shall be accomplished under a
+written subscription agreement between each Customer and the ASP. The ASP
+shall obtain the prior written consent of Stellent as to the form of the
+subscription agreement. The ASP agrees that it will not make any changes,
+modifications or additions to the subscription agreement that could impair
+or harm Stellent's interests or intellectual property rights in the
+Software. Without limitation of the foregoing, no subscription agreement
+shall include any term that purports to expand any indemnity, warranty,
+maintenance or other obligation or liability of Stellent under this
+Agreement. The ASP shall promptly notify Stellent of any violation of a
+subscription agreement of which it becomes aware, and will take
+commercially reasonable efforts to enforce each subscription agreement with
+at least the same degree of diligence that is uses in enforcing similar
+agreements governing use of its own products. The ASP agrees that all
+subscription agreements shall name Stellent as a third party beneficiary of
+such agreements with respect to provisions relating to the Software and
+that such provisions are also enforceable by Stellent.
+
+4.   OWNERSHIP. This Agreement does not grant to the ASP or any third party any
+right to use the Software except as expressly set forth herein, nor does it
+grant to the ASP or any third party any ownership right, title or interest
+in or to the Software. All right, title and interest in and to the
+copyrights, trademarks, patents, trade secrets and other intellectual
+property rights in the Software are and shall remain with Stellent and/or
+Stellent's suppliers. The ASP hereby agrees to reproduce the copyright and
+other notices relating to the rights of Stellent and its suppliers on every
+copy or partial copy of the Software that it makes. The ASP shall not
+remove, obscure, or modify any such notices without Stellent's prior
+written consent. The Application shall display to Subscribers certain
+notices notifying the Subscribers that the Application contains Software of
+Stellent. The placement and content of such notices shall be mutually
+agreed upon in writing by Stellent and the ASP.
+
+5.   PROTECTION OF INTELLECTUAL PROPERTY. The ASP acknowledges that the Software
+contains confidential and proprietary information and substantial and
+valuable trade secrets of Stellent and its third party suppliers. The ASP
+shall use the same care to protect the Software against any use, copying,
+disclosure or dissemination not expressly authorized by this Agreement that
+it uses to protect its own most valuable proprietary information and
+materials, but in no event less than the care a reasonable business person
+would use under similar circumstances. Without limiting the foregoing, the
+ASP may not give any third party access to the Software other than as
+explicitly set forth herein (other than as Customers or Subscribers),
+except third-party contractors who need access to the Software to perform
+services for the ASP and who have signed a non-disclosure agreement
+agreeing to protect the confidentiality of the Software.
+
+6.   RESTRICTIONS. The ASP shall not, and shall not authorize or permit third
+parties to (a) use, copy, modify, or prepare derivative works of the
+Software or any part thereof, except as expressly authorized in this
+Agreement; (b) distribute, lease, sublicense, lend, give, transfer, assign
+or otherwise make all or any portion of the Software available to any third
+party, except as expressly authorized in this Agreement; or (c) reverse
+engineer, decompile or disassemble the Software or cause or allow discovery
+of the source code of the Software or attempt to do so, except to the
+extent the foregoing restriction is expressly prohibited by applicable law.
+
+7.   PRICE AND PAYMENT. In consideration for the license granted in this
+Agreement, the ASP hereby agrees to pay the fees as set forth on Attachment
+C attached hereto. The ASP also agrees to pay directly or to reimburse
+Stellent for all sales, use or other taxes resulting from the transaction
+covered by this Agreement, except taxes based on Stellent's net income.
+Terms of payment are net thirty (30) days from date of invoice, unless
+other terms have been agreed upon and made in writing and signed by a duly
+authorized representative of Stellent.
+
+8.   TERM AND TERMINATION. The license granted under this Agreement will
+commence upon execution of this Agreement and shall continue in force for a
+term of 3 YEARS (subject to the provisions of Attachment D). Other than as
+set forth in Attachment D, this Agreement shall be renewed upon the mutual
+written agreement of both parties. This Agreement may be immediately
+terminated by either party after thirty (30) days written notice of
+material breach and failure to correct such material breach . Upon the
+termination of this Agreement, the ASP must (a) cease all use of the
+Software, (b) destroy or return to Stellent all copies of the Software in
+the ASP's possession or under its control, and (c) deliver to Stellent a
+certificate signed by an officer of the ASP verifying compliance with this
+Paragraph 8.
+
+Page 2 of 7
+<PAGE>
+
+9.   WARRANTIES. Stellent warrants, for the benefit of the ASP alone (a) that it
+has the right to grant the license granted in this Agreement; and (b) to
+the best of its knowledge, the Software does not violate any U.S. patent,
+trademark, copyright, trade secret, privacy right or other third party
+intellectual property rights; and (c) that for a period of thirty (30) days
+after shipment of the Software, the Software, when operated with the
+equipment configuration and in the operating environment specified in the
+Documentation, will perform substantially in accordance with the technical
+specifications included or referred to in the Documentation. ALL THIRD
+PARTY SOFTWARE IS PROVIDED WITHOUT WARRANTY OF ANY KIND AND THE ASP IS
+RESPONSIBLE FOR THE ENTIRE RISK WITH RESPECT TO ITS QUALITY AND
+PERFORMANCE.
+
+10.  REMEDIES. As the sole and exclusive remedy of the ASP for any breach of
+warranty set forth in Paragraph 9(c) above, and as Stellent's entire
+liability in contract, tort, or otherwise for a breach of section 9(c),
+Stellent shall use commercially reasonable efforts to correct or cure such
+defect in a reasonably timely manner by issuing corrected instructions, a
+fix or a bypass, and if Stellent cannot correct or cure such defect in a
+reasonably timely manner), Stellent shall refund all prepaid royalties to
+ASP set forth in Section 2.2 of Attachment C. If Stellent has not corrected
+such defect or error after it has had a reasonable opportunity to do so,
+the ASP shall have the right to terminate this license with respect to the
+defective or nonconforming module(s) of the Software, and Stellent shall
+refund the amount paid by the ASP as the license fee for the defective or
+nonconforming module(s) of the Software. These remedies are provided on the
+condition that (a) the ASP reports the defect or error within the warranty
+period and provide Stellent with information sufficient to allow Stellent
+to reproduce the defect or error; (b) the ASP has not modified, misused or
+damaged the Software; and (c) Stellent's examination of the Software
+discloses that the defect or error actually existed. Ongoing Software
+support and maintenance is available from Stellent at additional cost as
+set forth on Attachment C attached hereto.
+
+11.  DISCLAIMER OF WARRANTIES. THE WARRANTIES SET FORTH IN PARAGRAPH 9 ARE IN
+LIEU OF ALL OTHER REPRESENTATIONS OR WARRANTIES ON THE PART OF STELLENT AND
+ITS SUPPLIERS WITH RESPECT TO THE SOFTWARE. EXCEPT AS EXPRESSLY STATED IN
+PARAGRAPH 9, STELLENT MAKES NO WARRANTIES OR REPRESENTATIONS, EXPRESS,
+IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE
+SOFTWARE. WITHOUT LIMITING THE FOREGOING, STELLENT DOES NOT WARRANT THAT
+THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET THE ASP'S REQUIREMENTS OR
+THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE. ALL
+THIRD PARTY SOFTWARE IS PROVIDED WITHOUT WARRANTY OF ANY KIND, AND THE ASP
+IS RESPONSIBLE FOR THE ENTIRE RISK WITH RESPECT TO ITS QUALITY AND
+PERFORMANCE.
+
+12.  LIMITATION ON LIABILITY. Except for claims arising out of the ASP's
+indemnification obligations to Stellent or for violations of Stellent's
+intellectual property rights in and to the Software, the cumulative
+liability of either party for all claims relating to the Software or
+arising under this Agreement, whether in contract, tort, or otherwise,
+shall not exceed the total amount of all pre-paid royalty and license fees
+paid by the ASP to Stellent for the Software licensed under this Agreement.
+Except for claims arising out of the ASP's indemnification obligations to
+Stellent or for violations of Stellent's intellectual property rights in
+and to the Software, in no event shall either party or their suppliers be
+liable for any indirect, special, incidental, consequential, or exemplary
+damages, including without limitation, damages for lost profits or
+revenues, loss of use of any software or hardware, loss of data, or
+interruption of business, whether claimed in contract, tort, or otherwise,
+even if Stellent is informed of the possibility of such loss or damage. The
+limitations of liability set forth in this Paragraph 12 are intended to
+apply without regard to whether other provisions of this Agreement have
+been breached or proved ineffective and without regard to the success or
+effectiveness of other remedies.
+
+13.  INDEMNIFICATION FOR INFRINGEMENT. If a third party claims that the Software
+infringes any copyright, U.S. patent, U.S. trade secret or similar U.S.
+intellectual property right, and provided that the ASP is not in default
+under this Agreement, Stellent shall defend the ASP against such claim at
+Stellent's expense and pay all damages against the ASP; provided, however,
+that the ASP shall promptly notify Stellent in writing of the claim, and
+allow Stellent to control, and cooperate with Stellent in, the defense or
+settlement of the claim. If such a claim is made or appears possible,
+Stellent may, at its option, secure for the ASP the right to continue to
+use the Software, modify or replace the Software so that it is
+non-infringing but retains substantially the same functionality, or, if
+neither of the foregoing options is reasonably available, require the ASP
+to return the infringing module(s) of the Software for a refund equal to
+the amortized value of the remaining prepaid royalties set forth in Section
+2.2 of Attachment C (using a straight line sixty (60) month amortization
+schedule). The foregoing notwithstanding, Stellent shall have no obligation
+to indemnify the ASP for any claim (a) based on a modification or misuse of
+the Software, or (b) based on the combination, operation or use of the
+Software with any product, data or apparatus not specified or provided by
+Stellent, if the claim would have been avoided had the Software not been
+combined, operated or used with such product, data or apparatus. THIS
+PARAGRAPH STATES STELLENT'S ENTIRE OBLIGATION TO THE ASP AND THE SOLE
+REMEDY OF THE ASP FOR CLAIMS OF
+
+Page 3 of 7
+<PAGE>
+
+INFRINGEMENT OR BREACH OF THE WARRANTY SET FORTH IN PARAGRAPH 9 ABOVE.
+
+14.  INDEMNIFICATION FOR INFRINGEMENT BY THE ASP. The ASP hereby agrees to
+defend, indemnify, and hold harmless Stellent and its third-party suppliers
+from and against any claims, loss, liability, or damages (including, but
+not limited to, reasonable attorneys' fees) arising out of the operation or
+use of the Software and any third-party content accessed using the
+Software, which is not covered by Stellent's warranty and indemnity
+obligations hereunder . THE ASP'S USE OF ANY MATERIALS OBTAINED BY USE OF
+THE SOFTWARE IS SUBJECT TO APPLICABLE COPYRIGHT LAWS AND NEITHER STELLENT
+NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY INFRINGEMENT.
+
+15.  INJUNCTIVE RELIEF. The ASP acknowledges that the use, copying, disclosure
+or dissemination of the Software, or the trade secrets embodied therein, in
+a manner not authorized by this Agreement would cause irreparable harm to
+Stellent that could not be fully remedied by monetary damages. The ASP
+therefore agrees that Stellent shall be entitled, in addition to any other
+remedies available to it at law or in equity, to such injunctive or other
+equitable relief as may be necessary or appropriate to prevent such
+unauthorized use or disclosure without the necessity of proving actual or
+irreparable damage by reason of any such unauthorized use, disclosure,
+dissemination or copying.
+
+16.  GOVERNING LAW. This Agreement shall be governed by the laws of the State of
+Minnesota and the ASP consents to personal jurisdiction and venue in
+Minnesota. The United Nations Convention on Contracts for the International
+Sales of Goods is specifically excluded from application to this Agreement.
+The ASP will comply with all foreign and domestic laws and will not export
+or re-export the Software without the Stellent's prior written
+authorization and without appropriate United States or foreign government
+licenses and approvals.
+
+17.  ASSIGNMENT. The ASP may not transfer or assign its rights or obligations
+under this Agreement without Stellent's prior written consent, except that
+it may assign its rights and obligations under this Agreement to its
+successor in interest by merger, operation of law or otherwise, or to any
+individual or entity that purchases the ASP's entire business, provided
+such successor assumes in writing all of the ASP's obligations under this
+Agreement.
+
+18.  U.S. GOVERNMENT. If the Software is being provided to the Department of
+Defense, the Government's rights to use, modify, reproduce, release,
+perform, display, or disclose shall be specified in the license customarily
+provided to the public (DFARS 227.7202-4). RESTRICTED RIGHTS---In all other
+cases, the Government's rights to use, duplicate, or disclose this
+commercial software and related documentation is subject to the
+restrictions as set forth in subparagraphs (c) (1) and (2) of Commercial
+Computer Software--Restricted Rights at 48 CFR 52.227-19, as applicable.
+Manufacturer is Stellent, Inc., 7777 Golden Triangle Drive, Eden Prairie,
+Minnesota 55344.
+
+NOTICE. All notices, demands and requests required or permitted to be given
+under this Agreement or shall be in writing and delivered (a) personally or
+by local courier, (b) by a nationally recognized overnight courier or (c)
+sent by United States certified mail, return receipt requested, postage
+prepaid and addressed to the parties at their respective addresses set
+forth above. Notices shall be effective upon receipt if delivered
+personally, by local courier or by certified mail and on the next business
+day if sent by overnight courier.
+
+19.  MISCELLANEOUS. No amendment to this Agreement shall be binding unless made
+in writing and signed by a duly authorized representative of the party
+against whom enforcement is sought. Whenever the consent of a party is
+required, such consent may be withheld in that party's sole and absolute
+discretion. The failure of either party at any time to require performance
+of any provision of this Agreement or to exercise any right provided for
+herein shall not be deemed a waiver of such provision or such right. All
+waivers must be in writing. Unless the written waiver contains an express
+statement to the contrary, no waiver by either party of any breach of any
+provision of this Agreement or of any right provided for herein shall be
+construed as a waiver of any continuing or succeeding breach of such
+provision, a waiver of the provision itself, or a waiver of any right under
+this Agreement. All remedies provided for in this Agreement shall be
+cumulative and in addition to and not in lieu of any other remedies
+available to either party at law, in equity or otherwise. This Agreement
+contains the entire understanding and agreement between the parties with
+respect to the subject matter hereof and supersedes all previous
+communications, negotiations and agreements, whether oral or written,
+between the parties with respect to such subject matter. Any obligations
+that by their nature continue after the expiration of this Agreement shall
+remain binding upon the parties.
+
+
+
+Page 4 of 7
+<PAGE>
+
+
+
+Accepted:
+
+STELLENT, INC.                                 ACTIVE IQ TECHNOLOGIES, INC.
+
+
+
+By:  s/ Vern Hanzlik                           By:  s/ D. Bradly Olah
+
+Name:  Vern Hanzlik                            Name:  D. Bradly Olah
+
+Title:  CEO/President                          Title:  CEO/President
+
+Date: 12/28/01                                 Date:   12/28/01
+
+
+Page 5 of 7
+
+
+
+
+<PAGE>
+
+
+ATTACHMENT A
+
+SOFTWARE
+
+
+
+Stellent Content Server
+
+Stellent Content Publisher
+
+Stellent Dynamic Converter
+
+Stellent Site Builder
+
+Stellent PDF Converter*
+
+Stellent XML Converter
+
+Stellent Content Categorizer
+
+Stellent Content Tracker
+
+Stellent Report Parser
+
+Stellent Compression
+
+Stellent InterCAD
+
+Stellent Tiff Conversion
+
+Stellent PDF Watermark
+
+Stellent PDF Interchange
+
+Stellent PDF Merge
+
+Stellent Enterprise Search
+
+
+
+*The ASP hereby agrees that for each transfer of an Application utilizing PDF
+Converter, it shall comply with the applicable terms and conditions of Amendment
+No. 2 to the Adobe Software Single Tier Reproduction and License Agreement among
+Stellent, Adobe Systems Inc. and Adobe Systems Benelux, B.V. attached hereto as
+Attachment E (the "Adobe Agreement"). The ASP hereby agrees to indemnify
+Stellent from and against any and all damages, costs arising out of the ASP's
+failure to so comply.
+
+Stellent hereby agrees that it shall not modify the license fee rates set forth
+in Amendment No. 2 to the Adobe Agreement without first consulting with the ASP.
+
+
+Page 6 of 7
+<PAGE>
+
+
+Pursuant to Item 601(b)(2) of Regulation S-K, certain Attachments, Schedules and
+Exhibits have been omitted from this Agreement. The Registrant will furnish a
+copy of any omitted Attachment, Schedule or Exhibit to the Commission upon
+request.
+
+
+
+
+
+Page 7 of 7
+
+
+

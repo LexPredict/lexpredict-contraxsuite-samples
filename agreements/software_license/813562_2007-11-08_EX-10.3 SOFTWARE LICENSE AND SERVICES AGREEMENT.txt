@@ -1,0 +1,1289 @@
+
+
+
+
+
+
+
+EX-10.3 SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.3
+
+
+
+
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+
+
+
+This software license and services agreement (“Agreement”) is by and between
+inPharmative, Inc. (“inPharmative”), a Nevada corporation, having its principal place of business
+at 10975 Benson Drive, Suite 100, Overland Park, KS 66210, and National Medical Health Card
+Systems, Inc.(“NMHC” or “Client”) a Delaware corporation, having its principal place of business at
+26 Harbor Park Drive, Port Washington, NY 11050.
+
+
+
+This Agreement sets forth the terms and conditions upon which inPharmative will provide a
+limited license for use of it’s proprietary rebate administration and financial modeling software
+(“Software”) and certain support services to NMHC for an agreed upon fee.
+
+
+
+In consideration of the mutual promises, covenants, warranties and representations set forth
+herein, the parties agree as follows:
+
+
+
+General Nature of the Agreement and Agreement of the Parties:
+
+
+
+
+A. inPharmative shall provide a turnkey; outsource solution for a significant part of NMHC’s
+business.
+
+
+
+B. inPharmative’s production shall be stable, accurate, predictable and timely.
+
+
+
+C. The Software shall include full-featured functionality that keeps pace with the
+industry.
+
+
+
+D. inPharmative will function as NMHC’s development department for the Software and will
+develop a mutually agreed upon and reasonable amount of NMHC-specific functionality
+including current & future “gaps” in the Software functionality.
+
+
+
+E. NMHC shall have full access to documentation of NMHC accessible data structures and the
+data housed and / or processed by the Software. NMHC can directly access the data located
+on inPharmative servers, the data will also be replicated onto NMHC servers located at NMHC
+at the option of NMHC and the data will be supplied in the form of periodic data extracts
+in a mutually agreed format and frequency. inPharmative will provide reasonable support
+and training to enable NMHC to access the data.
+
+
+
+F. inPharmative will conduct its operations using robust best practices and controls
+consistent with public company requirements. inPharmative commits to do whatever is
+necessary to keep NMHC in compliance with Sarbanes-Oxley Section 404 including, but not
+limited to obtaining a SAS70 Type II audit within one month from the date of this Agreement
+and annually thereafter.
+
+
+
+G. inPharmative acknowledges that speed of implementation of the Software is of key value
+to NMHC and a key driver of the decision to use the Software. inPharmative will use best
+efforts to implement the Software into production within 30 days of the date of this
+Agreement. Failure to comply within the required timeframe will result in penalties as
+calculated in accordance with the terms of Exhibit A.
+
+
+
+CONFIDENTIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE 1: SCOPE OF LICENSE
+
+
+
+1.1  — Grant of License
+
+inPharmative hereby grants to NMHC a non-exclusive, limited license to use the Software in the
+United States of America and its Territories as set forth in this Agreement.
+
+
+
+1.2 — Intellectual Property Ownership
+
+The Software is the intellectual property of and is owned by inPharmative. The structure,
+organization and code of the Software are the valued trade secrets and confidential information of
+inPharmative. This Agreement does not grant NMHC any intellectual property rights in the Software
+and all rights not expressly granted are reserved by inPharmative. Notwithstanding the foregoing,
+all data is the intellectual property of and owned by NMHC and shall be held in confidence. This
+Agreement provides no intellectual property rights to inPharmative with respect to NMHC data, in
+raw form or aggregated, and provides only for inPharmative’s use of the data strictly for the
+purpose of rebate processing on behalf of NMHC.
+
+
+
+1.3  — Restrictions
+
+NMHC shall not attempt to copy, modify, adapt, duplicate, reproduce or translate the Software
+without the prior written consent of inPharmative. NMHC shall not reverse engineer, decompile,
+disassemble or otherwise attempt to discover the source code of the Software. Notwithstanding the
+foregoing, NMHC is not restricted from independently developing software that is substantially
+similar to the Software.
+
+
+
+1.4  — Transfer
+
+NMHC may transfer its license to the Software to any of its subsidiaries or affiliates or to a new
+entity that results from a merger and / or acquisition of NMHC provided that the new entity agrees
+to abide by the terms of this agreement.
+
+
+
+1.5 — Location and Access to Software
+
+The production Software will reside on inPharmative’s servers located at the First National
+Technology Solutions data center with an address of 12851 Foster Street, Overland Park, KS 66213.
+The hosting location will not be changed by inPharmative without NMHC’s consent, which consent
+shall not be unreasonably withheld. The Software will be accessible to NMHC via a mutually agreed
+upon VPN, Internet or other connection. NMHC has the option to host the Software at an internal
+NMHC site, which fees shall be negotiated between the parties upon NMHC’s exercise of this option.
+
+
+
+
+ARTICLE 2: PERFORMANCE OF SERVICES
+
+
+
+2.1 Contract Management System Hosting
+
+inPharmative shall host all Software applications unless NMHC elects to host the Software
+internally in accordance with Section 1.5. Regardless of hosting location, inPharmative shall
+provide system enhancements, new Software versions and routine system data updates as they become
+available, at no additional cost to NMHC.
+
+
+
+2.2 Software Training
+
+inPharmative will provide to designated NMHC staff, Software training, in the form of one initial
+on-site training session with assistance in initial contract data input. Subsequent staff training
+and on-going support will be provided via on-line and telephone tutorials. At the request of NMHC,
+inPharmative will also provide at least two on-site training sessions per year to update NMHC on
+enhancements/changes the Software.
+
+
+
+2.3 Technical Support
+
+inPharmative will provide on-going technical support via toll-free telephone or e-mail access
+during normal business hours of 8am to 6pm CST and during NMHC’s quarterly rebate processing
+period. inPharmative will provide 24 hour technical support access via toll-free telephone access.
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.4 Report Creation
+
+inPharmative will provide NMHC with web-based standard rebate performance report templates that
+will be updated with each processing cycle. In addition, inPharmative will provide a reasonable
+number of reports designed to NMHC’s specifications to support P&T Committee, contracting, client
+account management and other needs. NMHC may also internally develop reports that access data
+processed and / or stored by the Software. inPharmative will provide reasonable support to assist
+NMHC in developing these reports, if any.
+
+
+
+
+2.5 Software Enhancements
+
+
+
+inPharmative shall provide enhancements to the Software, whenever needed to maintain compliance at
+all times with all governmental regulations and industry standards including, but not limited to
+Sarbanes-Oxley 404, Medicare Part D regulations and the Centers for Medicare and Medicaid Services
+(CMS) regulations, HIPAA, applicable NCPDP standards, and other applicable state and federal
+regulations and requirements.
+
+
+
+inPharmative and NMHC agree to meet no less often than twice per year for the purpose of reviewing
+industry trends and practices and to review inPharmative future development schedule for Software
+enhancements. inPharmative will insure that the Software includes full-featured functionality that
+keeps pace with the industry. inPharmative shall make continuous improvements to the Software which
+collectively add significant levels of functionality no less often than 2 times per year and
+regular additions of lesser levels of functionality no less often than once per quarter.
+
+
+
+inPharmative will insure that enhancements to the Software will accommodate backwards compatibility
+for data extracts and other data structures that are accessed by NMHC for at least 120 days or
+other mutually agreed upon time period.
+
+
+
+2.6 Service Level Standards and Penalties
+
+inPharmative agrees to comply with the service level standards and penalties set forth in Exhibit A.
+
+
+
+
+ARTICLE 3: WARRANTIES
+
+
+
+3.1 — Warranty of Title
+
+inPharmative hereby represents and warrants to NMHC that inPharmative is the owner of the Software
+or otherwise has the right to grant to NMHC the rights set forth in this Agreement, including
+without limitation, any third party software, data and materials included in the Software.
+
+
+
+3.2 — Warranty of Functionality
+inPharmative warrants that, for the entire term of this Agreement, the Software shall perform in
+all material respects according to inPharmative’s specifications concerning the Software when used
+with the appropriate computer equipment. inPharmative will insure that the appropriate computer
+equipment is used at the inPharmative hosting facility to operate the Software. inPharmative will
+insure that the Software will maintain compatibility with current and future versions of Microsoft
+Internet Explorer.
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Confidential Information Has Been Omitted and Filed Separately With the Commission.
+
+
+
+3.3 — Warranty of Performance
+
+inPharmative represents and warrants that all services provided under this Agreement will be
+performed promptly in a good and workmanlike manner consistent with best industry practices and in
+accordance with the service level standards agreed upon in Exhibit A of this Agreement. Failure to
+meet service level standards will result in applicable penalties as defined in Exhibit A.
+
+
+
+3.4 — Warranty of Authority
+
+inPharmative represents and warrants that it has the full right and authority to execute and
+deliver this Agreement and to perform its obligations under this Agreement, and that neither the
+execution nor delivery of this Agreement by inPharmative, nor consummation of the transactions
+contemplated hereby, will result in a breach or default under the terms and conditions of any
+contract, order, license, charter document or other agreement by which inPharmative is bound.
+
+
+
+3.5 — Warranty of Organization
+
+inPharmative represents and warrants that it is a corporation duly organized, validly existing and
+in good standing under the laws of the jurisdiction of its incorporation and has all requisite
+power and authority to own, lease and operate its properties and to carry on its business as it is
+now being conducted.
+
+
+
+
+ARTICLE 4: FEE PAYMENT
+
+
+
+4.1 -Fee Structure
+
+NMHC will pay inPharmative fees for rebate contract administration services and client total paid
+prescription claims that are eligible for rebates processing (“Eligible Paid Claims”) as follows:
+
+
+
+
+a) Provision of Software and Hosting Infrastructure:
+
+
+$[       ]* per Eligible Paid Claim — for first [       ]* Eligible Paid Claims per calendar year
+(minimum of $[       ]* per month). However, the minimum will not apply until the entire NMHC book
+of business has been fully implemented; a full month of Eligible Paid Claims has been processed in
+production mode through the Software.
+
+
+
+$[       ]* per Eligible Paid Claim — for each additional Eligible Paid Claim over [       ]* per
+year.
+
+
+
+Eligible Paid Claims will only include those claims that are eligible for rebates processing.
+Certain types of claims including, but not limited to claims for cash discount card programs are
+not eligible for rebates processing and will be filtered out of processing through the Software.
+All ineligible claims of this nature will be excluded from the counts of Eligible Paid Claims and
+will not incur any fees whether they are filtered out by NMHC before sending to inPharmative or
+filtered out by inPharmative during processing by the Software.
+
+
+
+This fee will be waived for the claims processed for the period January 1, 2007 through June 30,
+2007 for the Medicare Part D business segment, provided that NMHC pays the rebate contract
+administration services fee for that period in accordance with the terms outlined below.
+
+
+
+In the event that there are significant industry events and/or significant changes in NMHC’s
+business that materially reduce revenues available to NMHC from processing rebates then the parties
+will negotiate in good faith to reduce or eliminate the minimum fee as defined above. If such an
+event occurs and the total NMHC Eligible Paid Claims falls below [       ]* per year, then the fee
+will be the actual count of Eligible Paid Claims times the applicable per claim fee and the minimum
+fee will not apply.
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Confidential Information Has Been Omitted and Filed Separately With the Commission.
+
+
+
+
+b) Provision of Manufacturer Rebate Contract Administration Services:
+
+
+For the fee of $[       ]* per month, inPharmative will provide the rebate contract administrative
+services as described herein. NMHC’s engagement of manufacturer rebate contract administration
+services by inPharmative requires an [       ]* fee commitment commencing as of January 1, 2007,
+with the initial payment for the six month period ending June 30, 2007 invoiced concurrent with the
+execution of this agreement.
+
+
+
+
+
+I. Contract Management System Maintenance
+
+
+
+Initial input, of all current and future executed manufacturer rebate agreements and
+continuous update of inPharmative contract management system data requirements, as provided to
+inPharmative by NMHC in an agreed upon format, including NMHC’s manufacturer rebate contract
+terms and associated changes, formulary drug list, membership and group identification,
+relevant co-pay information and prescription claims data. Any modifications to these items
+must be submitted to inPharmative no later than 15 days prior to the end of the quarter to be
+included in that quarters’ claims submission.
+
+
+
+
+II. Quarterly estimates
+
+
+
+inPharmative will provide the following information to support the finance estimation process
+in an agreed upon format within twenty one (21) days from the end of each quarter:
+
+
+
+a). Rebate estimates by manufacturer and NDC;
+
+b). An equivalent to the NMHC 2587 Estimation by mfr-ca.xls - lists out the
+rebate-eligible claim counts (Retail and Mail) and estimated rebate and admin fee
+amounts by customer/client and by manufacturer.
+
+c). An equivalent to the NMHC 2588 Claim counts by CA. xls- lists out
+the paid claim counts (Retail and Mail) by customer/client and by
+manufacturer.
+
+
+
+
+Examples of these reports are being provided separately.
+
+
+
+
+III. Rebate Processing and Manufacturer Submission
+
+
+
+Perform all functions associated with end-of-quarter processing of NMHC rebate reimbursements
+and submission of electronic invoice and prescription claim data requirements to respective
+manufacturers.
+
+
+
+
+IV. Payment Reconciliation
+
+
+
+Reconciliation of invoiced rebate amounts to actual payments with reporting of variances.
+inPharmative will serve as the first line of communication with manufacturers to resolve
+variances.
+
+
+
+
+V. Reporting
+
+
+
+inPharmative will provide NMHC with web-based access to standard rebate performance reporting
+(e.g. manufacturer, units, price, rebate amounts) updated with each processing cycle. In
+addition, inPharmative will provide a reasonable number of reports specifically designed to
+NMHC’s specifications at no additional charge to NMHC.
+
+
+
+
+VI. Audits
+
+
+
+inPharmative will support NMHC in its response to internal, CMS, client and/or manufacturer
+audits as the needs relate to services and/or calculations performed under this agreement
+during the term of this agreement.
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2-Fee Payment Schedule
+
+
+
+NMHC agrees to pay inPharmative the fee on a monthly basis, due on the last day of the following
+month. The first payment will be due after completion of implementation and production processing
+of a full month of Eligible Paid Claims. Interest of 1% per month (12% per annum) will be charged
+on the outstanding balance of any invoice that is not paid by its due date. NMHC agrees to pay
+inPharmative all costs incurred in collecting delinquent payments, including, but not limited to
+reasonable attorney’s fees, court costs and collection agency fees.
+
+
+
+
+ARTICLE 5: CONFIDENTIALITY
+
+
+
+inPharmative recognizes and respects the confidential and competitive nature of such information
+and agrees to limit access to such information to only those officers or employees who shall
+reasonably need to know such information.
+
+
+
+This Agreement and all information contained herein shall be kept confidential by both parties.
+Each party agrees not to disclose to any third party any such information unless the disclosing
+party obtains written release from the other party or is required by court order.
+
+
+
+
+ARTICLE 6: TERM AND TERMINATION
+
+
+
+6.1 — Term of Agreement.
+
+This Agreement shall commence upon January 1, 2007 and remain in effect until May 31, 2010 unless
+terminated sooner pursuant hereto. After this initial term, the contract will automatically renew
+for successive one year terms unless notification is provided by either party that the contract
+will not be renewed. Such notification should occur at least 90 days prior to the expiration of
+the contract.
+
+
+
+6.2  — Termination of Agreement.
+
+This Agreement may be terminated by either party if:
+
+a) The other party becomes insolvent, is dissolved or liquidated, makes a general assignment of the
+benefits of its creditors, files or has filed against it a petition in bankruptcy, or has a
+receiver appointed for a substantial part of its assets.
+
+b) The other party has committed a material breach and such breach has not been cured within thirty
+(30) days of receipt of a written notice of such breach.
+
+c) Any change in law or regulation that would: (i) make this Agreement or material portion of a
+party’s performance under this Agreement illegal, or (ii) require that any material terms of this
+Agreement be extended to any non-party.
+
+d) This Agreement may be terminated by NMHC at any time without cause upon ninety (90) days written
+notice to inPharmative.
+
+
+
+6.3 — Obligations upon Termination.
+
+Upon termination:
+
+a) inPharmative agrees to return to NMHC or destroy all raw data files and a record of all
+transactions executed during the term of this Agreement. inPharmative will notify NMHC before any
+raw data files or transactions are destroyed and NMHC shall have the right to take possession of
+all such files and records in lieu of their destruction.
+
+b) NMHC shall immediately discontinue use of Company’s services and system applications.
+
+c) NMHC shall pay inPharmative any amounts due under this Agreement up to and including the date of
+termination.
+
+d) Parties shall continue to adhere to the confidentiality obligations of Article III.
+
+
+
+6.4 — Change-in-Control of inPharmative
+
+a) Pursuant to Article 5 of this Agreement, inPharmative shall treat all NMHC data and other
+proprietary information as confidential at all times including during any due diligence or other
+activities that may occur at inPharmative as a part of a contemplated sale, merger, joint venture,
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strategic partnership or similar event with regards to ownership and operations of inPharmative. In
+the event of a sale of inPharmative, NMHC shall have the right to internally host the Software and
+to prohibit any acquirer or other third party with an interest in inPharmative from accessing and /
+or processing NMHC data or other information.
+
+
+
+6.5 — Change-in-Control of NMHC
+
+a) Pursuant to Article 5 of this Agreement, NMHC shall treat all inPharmative applications and
+other proprietary information as confidential at all times including during any due diligence or
+other activities that may occur at NMHC as a part of a contemplated sale, merger, joint venture,
+strategic partnership or similar event with regards to ownership and operations of NMHC.
+
+
+
+
+ARTICLE 7: SOURCE CODE ESCROW
+
+
+
+For the protection of the parties, it is agreed that the source code of the Software and all
+documentation necessary to operate and maintain the Software (the “Related Materials”), and any
+updates or modifications thereto, shall be maintained in the hands of in the hands of Payne &
+Jones, located at 11000 King Street, Overland Park, KS 66210, who shall serve as an escrow agent
+for that purpose. NMHC reserves the right to designate another, mutually agreeable escrow agent
+whose services, if used, will be at NMHC’s expense. inPharmative shall deposit Software and
+Related Materials with the escrow agent within 10 days of the receipt of the first payment by NMHC
+and no less often than once per calendar quarter thereafter and upon completion of any significant
+updates or modifications. Escrow agent will notify NMHC when initial and subsequent deposits are
+made into escrow along with a list of contents that are being held in escrow. The costs of said
+escrow shall be paid by inPharmative during the term of this Agreement. Escrow Agent shall hold
+the Software source code and Related Materials and shall not deliver the same to either party
+except as provided herein. In the event that inPharmative becomes insolvent, is dissolved or
+liquidated or files for bankruptcy, Escrow Agent shall deliver the Software source code and Related
+Materials to NMHC upon receipt of all escrow fees plus the sum of one dollar ($1.00). Escrow Agent
+shall provide notice to the other party who shall have ten (10) days to serve written notice of
+objection to the break of escrow. In the event objection is received in a timely manner, Escrow
+Agent agrees to continue to hold in escrow the Software source code and Related Materials until
+such time as the matter has been resolved and Escrow Agent is ordered to deliver the same to one
+party or the other. In the event any objection is timely filed, the parties agree to submit the
+matter to arbitration under the rules of the American Arbitration Association, with each party to
+bear their own costs.
+
+
+
+
+ARTICLE 8: MISCELLANEOUS
+
+
+
+8.1 — Entire Agreement
+
+This Agreement contains the entire agreement and understanding of the parties and shall supersede
+any prior agreements and understandings of the parties with respect to the subject matter hereof.
+
+
+
+8.2 — Compliance with Laws and Severability
+
+In the performance of its duties and obligations under this Agreement, inPharmative and NMHC shall
+each at all times comply with all applicable federal, state and local laws, statutes, regulations,
+rules, orders and ordinances now in effect or as hereafter enacted, amended or promulgated. If any
+clause or provision of this Agreement is held to be invalid or unenforceable by any court of
+competent jurisdiction, the remainder of this Agreement shall not be affected thereby. All other
+clauses or provisions of this Agreement, not found invalid or unenforceable shall be and remain
+valid and enforceable.
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.3 — HIPAA Compliance
+
+inPharmative recognizes that NMHC is a covered entity under HIPAA rules and that inPharmative, when
+performing required services under this Agreement will be considered a business associate.
+inPharmative agrees to comply with all applicable sections of the HIPAA rules and applicable
+compliance dates. inPharmative agrees to ensure that any agent, including a subcontractor, working
+on behalf of inPharmative agrees to the same conditions.
+
+
+
+8.4 — Indemnity
+
+inPharmative recognizes that they serve only to process information relating to contractual
+agreements between NMHC and various pharmaceutical manufacturers. Therefore, NMHC agrees to
+indemnify inPharmative and hold inPharmative harmless from and against any and all liabilities,
+damages, costs or expenses (including reasonable attorney’s fees) claimed by any third party while
+inPharmative is performing services in accordance with the terms of this Agreement; provided,
+however, that said liability, damage, expense, cost was not the result of any act or omission of
+inPharmative.
+
+
+
+inPharmative agrees to indemnify NMHC and hold NMHC harmless from and against any and all
+liabilities, damages, costs or expenses (including reasonable attorney’s fees) claimed by any third
+party as a result of a breach of the terms of this Agreement by inPharamctive; provided, however,
+that said liability, damage, expense, cost was not the result of any act or omission of NMHC.
+
+
+
+8.5 — Limited Liability
+
+Except as otherwise provided in this Agreement, by law or inPharmative’s negligent act, omission or
+misconduct, inPharmative is not responsible for any loss, injury or damage, whether direct,
+indirect, incidental, special or consequential, caused by inPharmative’s services including, but
+not limited to the use of inPharmative’s software. This limitation on liability includes, but is
+not limited to, the transmission of any viruses which may infect a user’s equipment, failure of
+mechanical or electronic equipment or communication lines, telephone or other interconnect
+problems, unauthorized access, theft, operator error, strikes or other labor problems or any other
+cause the result of force majeure.
+
+
+
+8.6 — Enjoinment
+
+If NMHC is enjoined (either temporarily or permanently) from using the Software in the manner
+described herein the inPharamtive shall, at its option, either (1) replace the application, without
+additional charge, with a comparable, functionally equivalent and non-infringing product; (2)
+modify the Software to avoid the infringement; (3) obtain a license for NMHC to continue to use the
+Software for the duration of the term and pay for any additional fee required for such license; or
+(4) if none of the foregoing alternatives are possible even after inPharmactive’s exercise of
+reasonable commercial efforts, inPharmative shall refund to NMHC a pro-rata portion of the fees, if
+applicable, based on the remaining portion of the term.
+
+
+
+8.7 — Amendments and Captions
+
+The terms of this Agreement may only be modified or amended in writing signed by duly authorized
+representatives of both parties. The captions of this Agreement are for convenience and reference
+only and in no way define, limit or describe the scope of this Agreement or the intent of any
+provision hereof.
+
+
+
+8.8 — Notices
+
+Any notice to be given by either party to the other shall be in writing and shall be given by
+sending such notice postage pre-paid by certified mail or by overnight carrier and addressed to the
+other party at the location specified below:
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If to inPharmative:
+
+Bob Rase
+
+inPharmative, Inc.
+
+10975 Benson Dr, Suite 100
+
+Overland Park, KS 66210
+
+
+
+
+If to NMHC:
+
+Chief Information Officer
+
+NMHC
+
+26 Harbor Park Drive
+
+Port Washington, NY 11050
+
+
+
+
+and a copy to
+
+
+
+
+Chief Legal Officer
+
+NMHC
+
+26 Harbor Park Drive
+
+Port Washington, NY 11050
+
+
+
+8.9 — Attorney’s Fees
+
+If any party hereto commences an action to enforce the terms of, or resolve a dispute concerning
+this Agreement, the prevailing party in such action shall be entitled to recover from the other
+party all costs and expenses incurred by such party in connection therewith, including reasonable
+attorney’s fees.
+
+
+
+8.10 — Assignments
+
+inPharmative and NMHC shall not assign this Agreement to a third party without prior written
+consent of the other party except that NMHC shall have the right to transfer its license to
+the Software to a new entity that results from a merger and / or acquisition of NMHC provided that
+the new entity agrees to abide by the terms of this agreement. Any permitted assignee shall
+assume all obligations of its assignor under this Agreement. inPharmative and NMHC shall have the
+right to assign this Agreement to its parent company, subsidiary or affiliated company. This
+Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their
+respective assigns as permitted under this Agreement.
+
+
+
+8.11 — Force Majeure
+
+Neither party shall be considered in default of its obligations hereunder, or be liable for damages
+or otherwise, for failure or delay in performance which is due to, including but not limited to the
+following: (i) Acts of God (ii) regulations or laws of any government (iii) war or civil commotion
+(iv) destruction of facilities (v) fire, earthquake or storm (vi) labor disturbances (vii) failure
+of public utilities or common carrier.
+
+
+
+8.12 — Sales and Use Tax
+
+inPharmative shall pay all sales, service, use taxes, if any, arising from this Agreement.
+
+
+
+8.13 —  No Waiver of Rights
+
+No waiver by either inPharmative or NMHC with respect to any breach or default or of any right or
+remedy and no course of dealing shall be deemed to constitute a continuing waiver of any other
+breach or default or of any other right or remedy, unless such a waiver be expressed in writing by
+the party to be bound.
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.14 —  Record-keeping
+
+inPharmative shall maintain records, including all databases, reports and financial documents for a
+period of the longer of (i) retention requirements mandated by CMS or other state or federal
+regulatory body, or (ii) twenty-five (25) months following receipt of fee payment by NMHC or
+termination of this Agreement, if sooner. InPharmative shall provide historical electronic data and
+other records from archives within three (3) business days from the date of request by NMHC.
+
+
+
+8.15 — Governing Law
+
+The provisions of this Agreement and all questions with respect to the construction and enforcement
+thereof and the rights and liabilities of the parties hereto shall be governed by, and construed
+and enforced in accordance with, the laws of the State of New York. The venue of any action
+construing or enforcing this Agreement initiated by any party hereto shall be filed in the state or
+federal courts servicing New York.
+
+
+
+The parties to this Agreement, by their signatures below, agree to the terms set forth herein.
+
+
+
+
+
+/s/ Jason E. Knaust
+
+
+inPharmative, Inc (signature)
+/s/ Stuart Diamond
+
+
+(NMHC Systems, Inc (signature)
+Jason E. Knaust
+
+
+inPharmative, Inc (printed name)
+Stuart Diamond
+
+
+(NMHC Systems, Inc (printed name)
+President
+
+
+(Title)
+CFO
+
+
+(Title)
+8/7/2007
+
+
+[Date]
+
+
+
+[Date]
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+
+Service Level Standards
+
+
+
+
+
+
+
+
+Service Standard	 	Definition of Standard	 	How measured	 	Penalty
+
+InPharmative website
+
+Availability
+
+Availability of online
+system 99.5% of the
+time during normal
+business hours (6:00am
+— 6:00pm CST),
+excluding scheduled
+downtime for
+maintenance or system
+upgrades.
+Measurement is on a
+monthly basis.
+
+
+Any experienced
+downtime will be
+immediately
+reported by Client
+via email and/or
+telephone.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+
+
+
+Upload of Claims
+Data to
+InPharmative
+databases.
+
+From the time a
+client’s utilization
+file, is received by
+inPharmative that file
+shall be loaded and
+processed by
+inPharmative within 24
+hours of receipt
+excluding weekends.
+Any experienced
+latency will be
+immediately
+reported by
+Client’s via email
+and/or telephone.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+Processing time of
+on-line
+inPharmative
+reports
+
+From the time a link,
+button or other web
+navigation mechanism
+is activated the
+processing time for
+any given report shall
+not exceed 24 hours,
+99% of the time.
+Any experienced
+latency will be
+immediately
+reported by Client
+via email and/or
+telephone.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+Notification of
+InPharmative
+outages or
+performance
+problems.
+
+If InPharmative or
+portions of
+inPharmative are
+unavailable or
+malfunctioning or if
+performance based
+Service Standards are
+not being met,
+customer shall be
+notified within 60
+minutes from the start
+of the problem.
+inPharmative shall
+notify customer
+through phone calls
+and emails -
+distribution list
+provided by Client.
+Any experienced
+notification gaps
+will be immediately
+reported by Client
+via email and/or
+telephone.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service Standard	 	Definition of Standard	 	How measured	 	Penalty
+
+Service Requests
+
+inPharmative will
+respond to all urgent
+requests within 4
+hours and resolve
+within 1 business day
+
+
+inPharmative will
+respond to all
+non-urgent requests
+within 1 business day
+and will resolve
+within 4 business day.
+
+
+Examples of urgent
+requests include but
+are not limited to
+major functional
+errors that prevent
+processing, any errors
+that result in
+incorrect
+calculations.
+Non-urgent request
+include but are not
+limited to questions
+on contract set-up and
+Software
+functionality.
+Tracked via a
+Service Request
+Log. Monthly
+report listing open
+trouble tickets,
+final outcome, and
+turnaround time.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+Accuracy of Data
+Processing
+
+All material Software
+calculations/reports
+/etc will be
+accurate.
+Calculation errors
+will be tracked by
+Client and reported
+back to
+inPharmative on a
+quarterly basis.
+Warning: None
+
+
+Failure to meet
+standard = Penalty
+
+
+
+
+
+
+
+
+Service Level Agreement Penalties Defined
+
+
+
+inPharmative will provide a statement of its compliance with all agreed upon service levels, in a
+format agreed to by the parties, on a quarterly basis signed by an officer of the company.
+Variations from agreed upon service levels, if any, will be noted.
+
+
+
+Penalty — inPharmative will provide Client with a 5% credit of the total InPharmative monthly fees
+for each failure to meet a Service Standard as defined above. Under no circumstances will the
+cumulative monthly Penalties exceed 15% of total monthly fees in a given month, except as set forth
+below.
+
+
+
+If inPharmative receives a Penalty for failing to meet a service standard during three consecutive
+months (“Three Consecutive Months”), then (i) inPharmative will provide Client with an additional
+15% credit and if such service standard failure is not corrected, an additional 15% credit shall be
+provided to Client for each additional month after the Three Consecutive Months and (ii) Client
+shall have the right to terminate this Agreement immediately upon notice to inPharmative. In such
+event, inPharmative shall refund to Client the amount of any unused service credits that exist on
+the date of termination.
+
+
+
+
+
+12
+
+
+
+
+
+
+

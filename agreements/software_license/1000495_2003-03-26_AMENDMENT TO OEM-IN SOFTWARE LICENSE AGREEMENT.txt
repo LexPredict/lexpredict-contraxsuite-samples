@@ -1,0 +1,1017 @@
+
+
+
+
+
+
+
+
+
+
+Amendment No. 1
+To OEM-IN Software License Agreement
+
+This Amendment is the First Amendment ("Amendment No. 1") to the OEM-IN Software
+License Agreement (with Reproduction Rights) dated December 3, 2002 ("License
+Agreement"), by and between Cisco Systems, Inc., a California corporation with
+offices at 170 W. Tasman Dr. San Jose, California 95134 ("Cisco") and Visual
+Networks Operations, Inc., a Delaware corporation with offices at 2092 Gaither
+Road, Rockville, Maryland 20850("Licensor.") and is made retroactive to December
+3, 2002 ("Effective Date"). All defined terms used in this Amendment No. 1 have
+the same meaning as in the License Agreement. The terms and conditions of this
+Amendment No. 1 supersede and replace any terms and conditions of the License
+Agreement, which are inconsistent with these terms and conditions. All other
+terms and conditions of the License Agreement remain in full force and effect.
+
+Whereas, the Parties desire to amend Exhibit A, Software and Royalties, and
+Exhibit G, Licensor Support (Software), of the License Agreement; and
+
+Now therefore, the Parties agree as follows:
+
+1. Exhibit A and Exhibit G, attached hereto, shall replace Exhibit A and Exhibit
+G of the License Agreement, in their respective entirety, retroactive to
+December 3, 2002.
+
+IN WITNESS WHEREOF, the parties have executed this Amendment No. 1, as of the
+date first above written.
+
+Agreed:                                      Agreed:
+
+CISCO SYSTEMS, INC.                          VISUAL NETWORKS OPERATIONS, INC.
+
+By:    /s/ Anson Chen                        By:    /s/ Steven G. Hindman
+
+Name:  Anson Chen                            Name:  Steven G. Hindman
+
+Title:  VP/GM, INSMBU                        Title: Executive Vice President
+
+Date:   December 30, 2002                    Date:  December 19, 2002
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+1
+<PAGE>
+
+
+Exhibit A
+
+SOFTWARE, ROYALTIES, AND SUPPORT COMPENSATION
+
+1. Payment. For each Software copy reproduced and distributed for revenue
+by or under the sublicense rights of Cisco, Cisco shall pay a per copy royalty
+of [***] of Net Invoice Price received by Cisco from the distribution of the
+Software. In the event Software is sold on a stand-alone basis, "Net Invoice
+Price" shall mean the Cisco's actual revenue received from the distribution of
+the Software hereunder, less deductions for refunds, returns, taxes, export fees
+and duties.
+
+In the event Software is bundled with other Cisco products, "Net Invoice Price"
+shall mean the amount equal to Licensor's Proportionate Share (as determined
+below) of Cisco's actual revenue received from the distribution of the Software
+hereunder, less deductions for refunds, returns, taxes, export fees and duties.
+"Licensor's Proportionate Share" shall be determined by dividing the reference
+price of the Software by the sum of the list prices of the bundle components.
+
+[***]
+
+2. Payment Terms. All undisputed royalties will be paid quarterly,
+pursuant to Cisco's fiscal year. Cisco will provide Licensor within forty-five
+(45) days after the end of a Cisco fiscal quarter, (a) a report, substantially
+in the form as follows, showing the total invoices sent to Cisco's customers in
+the previous quarter and the Net Revenue received therefrom; and (b) a payment
+equal to royalties owed to Licensor related thereto (or, if the credits owed to
+Cisco hereunder exceed the amount of royalties owed in a particular quarter, an
+invoice, payable by Visual within thirty (30) days of receipt, for the amount of
+the excess). Cisco shall be entitled to credit for returns of the Software
+within [***] days from the date Cisco ships the Software. Any such credit will
+be offset against or deducted from royalties or other fees due to Licensor
+hereunder. In the event a customer makes a return for which Cisco does not
+receive a credit, Cisco shall be entitled to a credit against a future purchase
+by the same customer of the returned Software (or a subsequent version of such
+Software). To the extent that any royalties are in dispute, the parties agree to
+reasonably cooperate to resolve such dispute as quickly as reasonably possible.
+
+Licensor retains complete discretion to change its software product price list
+or to discount the list price of its products. Notwithstanding any changes in
+Licensor's software product price list, the prices set forth in the Reference
+Price List shall not increase during the term of this Agreement. Licensor shall
+provide Cisco with written notice of a modification to its software product
+price list ninety (90) days before the effective date of any such modification
+unless the parties agree in writing to a shorter notice period. If Licensor's
+list price on its software products is reduced, Licensor will extend the price
+reduction to Cisco as of the date of written notice of such price reduction.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+2
+<PAGE>
+
+CISCO SYSTEMS
+FY (YEAR)
+(QUARTER)
+
+Software         Units Shipped                Net Invoice Price         Royalty
+xxxxx
+
+yyyyy
+TOTALS:
+
+TOTAL ACCRUAL:      $0.0
+
+3. Audit Rights. Cisco shall maintain, for a period of [***] years after
+the end of the year to which they pertain, complete records of the Software
+manufactured and/or distributed by Cisco in order to calculate and confirm
+Cisco's royalty obligations hereunder. Upon reasonable prior notice, Licensor
+will have the right, exercisable not more than once every [***] to appoint an
+independent accounting firm or other agent reasonably acceptable to Cisco, at
+Licensor's expense, to examine such financial books, records and accounts during
+Cisco's normal business hours to verify the royalties due from Cisco to Licensor
+herein, subject to execution of Cisco's standard confidentiality agreement by
+the accounting firm or agent; provided, however, that execution of such
+agreement will not preclude such firm from reporting its results to Licensor. In
+the event an audit discloses an underpayment or overpayment of royalties due
+hereunder, the appropriate party will promptly remit the amounts due to the
+other party. If any such audit discloses a shortfall in payment to Licensor of
+more than five percent (5%) for any quarter, Cisco agrees to pay or reimburse
+Licensor for the expenses of such audit.
+
+4. [***]
+
+5. Support Compensation. Licensor shall be compensated for and shall
+perform Level 1 through Level 3 support, as follows:
+
+(a) Initial Support Agreements: Cisco shall pay Licensor [***] of the net
+revenue received by Cisco of the portion of each initial Single-Year SAS Support
+Agreement, initial Multi-Year SAS Support Agreement and Master SAS Support
+Agreement sold covering support for the Software attributable to support of the
+Software.[***]
+
+(b) Support Agreement Renewals: Cisco shall be responsible for generating all
+renewal sales and shall pay Licensor [***] of net revenue for each Support
+Agreement Renewal, provided that Licensor submits a report to Cisco within
+forty-five (45) days after each Cisco fiscal quarter end, detailing a list of
+Customers and Cisco support contracts expiring in the following quarter. Such
+report shall list the Customer name,
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+3
+<PAGE>
+
+Support Agreement number, term of support, effective date of support, the
+Software identification numbers being renewed, and the total list price. Cisco
+shall thereafter submit a quarterly renewal report to Licensor in accordance
+with subparagraph (e) below. Licensor's obligation to submit support renewal
+reports to Cisco is contingent upon Cisco providing report information
+identified in subparagraph (f) below to Licensor for Licensor to complete
+support renewal reports for otherwise new support contracts. Licensor's
+obligations to submit renewal reports shall cease when Cisco has implemented an
+automated ability to track Support Agreement renewals and has provided Licensor
+thirty (30) days' advance written notice of such automation.
+
+(c) [***]
+
+(d) Shared Support: Although Cisco will endeavor to discourage Support Agreement
+sales and Renewals to Customers by a Cisco service integrator through Cisco's
+SIS'98 or other shared support programs ("Shared Support") when such sale or
+renewals are identified and accepted, the same percentage compensation noted in
+subparagraph (b) above shall be paid to Licensor.
+
+(e) [***]
+
+(f) Quarterly Report: For Initial Support Agreements and Renewals, Cisco shall
+submit (a) a report to Licensor within forty-five (45) days after each Cisco
+fiscal quarter end, detailing each Customer invoiced for support during such
+quarter, the Customer name, Support Agreement number, term of support, effective
+date of support Software identification numbers, and the total list price; and
+(b) a payment equal to support fees owed to Licensor by Cisco in accordance with
+this Section 5. Licensor shall identify and advise Cisco of any issues
+pertaining to the quarterly reports within fifteen (15) business days after
+receipt of Cisco's report. If no issues are raised with such timeframe, the
+report shall be deemed accepted by Licensor. Cisco and Licensor will work in
+good faith to resolve any issues within a further thirty-day period.
+
+(g) Non-Payment: In the event that Cisco is not in receipt of the invoiced
+support fees due from a Customer, Cisco may terminate the support of that
+individual Customer, less a pro-rata amount for the Licensor's agreed support
+compensation commencing on the date support started through the date that Cisco
+notifies Licensor that it has terminated support
+
+(h) Credits: Section 2 of this Exhibit A to the Agreement regarding credit for
+returns or offsets against License fees due to Licensor also will apply with
+regard to maintenance and support fees. In addition, If a Cisco customer cancels
+or terminates its annual maintenance agreement with Cisco for which it has paid
+maintenance fees in advance and Cisco provides a pro-rata credit or refund to
+the customer of the unused portion of the maintenance fees paid, Licensor will
+provide Cisco with a credit or refund in the amount of the unused portion of the
+maintenance fees paid to Licensor as of the date Licensor is notified of such
+cancellation or termination. On a quarterly basis, Cisco will notify Licensor of
+such refund or credit.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+4
+<PAGE>
+
+
+(i) Payment Schedule: Cisco shall pay Licensor the compensation reflected in
+subsection (a), (b), and (e) above, as applicable, for the term of such Support
+Agreement or Support Agreement Renewal together with any additional percentage
+based upon customer satisfaction bonus goals outlined in Exhibit G and any
+additional fees for Shared Support, within forty-five (45) days after Cisco's
+fiscal quarter end. Any supplement payment or credit shall be paid to Licensor
+during the immediate subsequent quarter; whereby Cisco shall make one payment
+during its fiscal quarter to Licensor for all then-current applicable
+compensation. Any credit or refund due Cisco shall be issued or paid by Licensor
+within forty-five (45) days following the Cisco fiscal quarter in which Cisco
+provides notice of such credit or refund to Licensor.
+
+(j) Change in Compensation: At any time after the first twelve (12) months from
+the effective date of Exhibit G, upon thirty (30) days' written notice to
+Licensor, Cisco may, at its election, request additional Software training above
+from Licensor so that Cisco may assume additional support obligations after such
+training. Such additional training shall be offered to Cisco at a [***] discount
+off Licensor's standard pricing for support training. If Cisco assumes
+additional support responsibilities, compensation to Licensor shall be
+negotiated in good faith at a lower compensation percentage.
+
+k) [***]
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+5
+<PAGE>
+
+
+EXHIBIT G
+
+EXHIBIT G to License Agreement
+LICENSOR SUPPORT
+(Software)
+
+This Exhibit G pertains to support for Licensor's Software.
+
+Definitions: The following terms shall have the meaning assigned to them.
+Capitalized terms not defined herein shall have the meaning assigned to them in
+the Agreement.
+
+"Agreement" means that OEM Software License Agreement by and between Licensor
+and Cisco, effective December 3, 2002.
+
+"Customer" means Cisco's end-user of the Software who is requesting support.
+
+"INSMBU" means Cisco's Intelligent Network Services Management Business Unit.
+
+"Error" means a bug in the Software.
+
+"Maintenance Release" means an incremental release of Software that provides
+maintenance fixes and may provide additional Software features. Maintenance
+releases are designated by Cisco as a change in the digit(s) to the right of the
+tenths digit of the Software version number [x.x.(x)].
+
+"Major Release" means a release of Software that provides additional Software
+features and/or functions. Major Releases are designated by Cisco as a change in
+the ones digit of the Software version number [(x).x.x].
+
+"Minor Release" means an incremental release of Software that provides
+maintenance fixes and additional Software features. Minor releases are
+designated by Cisco as a change in the tenths digit(s) of the Software version
+number [x.(x).x].
+
+"Multi-Year Support Agreement" means a Support Agreement having a term greater
+than one (1) year.
+
+"SAS" means Cisco's current standard software application service offering which
+includes Software bug fixes and patches and maintenance Updates (Minor
+Releases).
+
+"Single-Year Support Agreement" means a Customer Support Agreement having a term
+of at least one (1) year, but less than two (2) years.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+6
+<PAGE>
+
+
+"Support Agreement" means a support contract between Cisco and a Customer for
+the provision by Cisco of support and maintenance for the Software and shall
+include contracts for the initial period of support, renewal of such support,
+and reinstatement of expired support.
+
+"Support Agreement Renewals" means Software maintenance, which is purchased by a
+Customer at least twelve (12) months after the initial Support Agreement.
+
+"Updates" means Maintenance Releases, Version Releases, and/or Major Releases
+which contain the same configuration as originally acquired.
+
+"Version Release" means an incremental release of Cisco Software that provides
+maintenance fixes and additional Software features. Version releases are
+designated by Cisco as a change in the tenths digit(s) of the Software version
+number [x.(x).x].
+
+1.    SUPPORT LEVEL DEFINITIONS
+
+1.1 Level 0 Support. Level 0 Support means that Customer shall have access to
+Cisco's Global Call Center and shall have access to Cisco's Technical Assistance
+Center for verifying Software support entitlement. Level 0 Support shall be
+provided directly to Customer customers by Cisco.
+
+1.2 Level 1 Support. Level 1 Support includes the ability to provide general
+Software information and configuration support; collect relevant technical
+problem identification information; perform base problem determination; provide
+basic support on the standard protocols and features. Level 1 Support shall be
+provided directly to Customers by Licensor.
+
+1.3 Level 2 Support. Level 2 Support includes Level 1 Support plus the ability
+to support problem isolation and Software specification defect determination;
+provide lab simulation and interoperability testing; define an action plan;
+analyze traces; provide advanced support on all protocols and features; filter
+non-technical problems from technical problems, reproduce problems in a lab, and
+diagnose problems remotely. Level 2 Support shall be provided directly to
+Customers by Licensor.
+
+1.4 Level 3 Support. Level 3 Support includes fixing or generating workarounds
+for Software bugs and troubleshooting bugs that were not resolved during Second
+Level Support. Level 3 Support shall be provided directly to Customers by
+Licensor.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+7
+<PAGE>
+
+
+2.    PROBLEM PRIORITIES DEFINITIONS
+
+Problem priorities shall be classified as follows:
+
+2.1 Priority 1: Cisco's customer is experiencing problems with the Software,
+which is causing critical impact to business operations if service is not
+restored quickly. No work-around is available. If a work-around is available,
+the priority may be reduced to either a Priority 2, Priority 3 or Priority 4, as
+identified below. Cisco, Cisco's customer, and Licensor will commit full-time
+resources around the clock to resolve the situation.
+
+2.2 Priority 2: Cisco's customer is experiencing problems with the Software,
+which is impacting significant aspects of business operations. No work-around is
+available. If a work-around is available, the priority may be reduced to either
+a Priority 3 or Priority 4, as identified below. Cisco, Cisco's customer, and
+Licensor will commit full-time resources during Business Hours to resolve the
+situation.
+
+2.3 Priority 3: Cisco's customer's network performance is degraded. Network
+functionality is noticeably impaired, but most business operations continue.
+
+2.4 Priority 4: Cisco or Cisco's customer requires information or assistance on
+Software capabilities, installation, or configuration.
+
+2.5 "Business Hours" means 6:00 a.m. to 6:00 p.m., Pacific Standard Time, Monday
+through Friday, excluding Cisco-observed holidays.
+
+3.    ESCALATION GUIDELINES
+
+3.1 The following table sets forth the escalation guidelines by which Licensor
+shall address customer support problems reported by Cisco and involve its
+management personnel to address such problems. Priority 1 problem escalation
+times are measured in calendar hours, twenty-four (24) hours per day, seven (7)
+days per week. Priority 2, Priority 3, and Priority 4 escalation times
+correspond with Business Hours. The Licensor manager to whom the problem is
+escalated will take ownership of the problem and ensure that updates are
+provided to the appropriate Cisco personnel. Cisco-initiated escalation's will
+begin at the Technical Support Group Leader level and proceed upward. This will
+allow those most closely associated with the support resources to correct any
+service problems quickly.
+
+3.2 It is Cisco's policy to work with its customer to establish the Priority for
+a problem and to accept the customer's determination of the Priority. Licensor
+shall accept the Priority designation agreed to by Cisco and Customers and
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+8
+<PAGE>
+
+
+communicated to Licensor by Cisco. Licensor will work with Cisco according to
+the processes and procedures contained in this Exhibit G.
+
+Elapsed       Priority 1         Priority 2       Priority 3       Priority 4
+Time
+
+Technical
+1-Hour        Support
+Group Leader
+Technical          Technical
+4-Hour        Support            Support
+Director           Group Leader
+Vice President     Technical
+24-Hour       Engineering        Support
+Director
+48-Hour       President (CEO)    Vice
+President
+Engineering
+72-Hour                                           Technical
+Support
+Group Leader
+96-Hour                          President        Technical        Technical
+(CEO)            Support          Support
+Director         Group
+Leader
+
+
+1.  Name :  Noel Warnert
+Title:  Technical Support Lead
+Phone:  (301) 296-2414
+Pager or Cell: (240) 401-4227
+Email:  nwarnert@visualnetworks.com
+
+2.  Name :  Linda Vargas
+Title:  Manager of Customer Service
+Phone:  (301) 296-2738
+Pager or Cell: (301) 529-9037
+Email:  lvargas@visualnetworks.com
+
+3.  Name:   Wayne Fuller
+Title:  EVP, Product Operations
+Phone:  (301) 296-2673
+Pager or Cell:  (703) 629-3427
+Email:  wfuller@visualnetworks.com
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+9
+<PAGE>
+
+
+4.   Name:   Peter Minihane
+Title:  President & CEO
+Phone:  (301) 296-2365
+Pager or Cell: (240) 401-4863
+Email:  pminihane.visualnetworks.com
+
+4.    SUPPORT
+
+4.1 Software Support. Licensor will support any release of Software for the
+longer of: (a) the time until the general availability of the release that is
+two releases after such release; and (b) twenty-four (24) months, meaning that
+for that time period, Errors in that release will be corrected either by means
+of a patch or correction to that release. For a period of twelve (12) months
+after the initial Software Support term for a release referenced above, Software
+Support shall be offered to Cisco, if requested by Cisco, at Licensor's
+reasonable and customary time and materials rates. Subject to the prior written
+approval of the Cisco Serviceability Design Engineer for the Software, which
+approval shall not be unreasonably withheld, a subsequent release may be
+substituted to correct an Error in any Software release. Software releases shall
+be downward compatible, so that new releases are compatible with pre-existing
+configurations and data formats. Whenever commercially reasonable, Licensor
+shall have the capability to electronically transfer Software updates, upgrades,
+and patches/fixes to Cisco.
+
+4.2 Customer Support. Cisco will provide Level 0 Support in the same manner that
+it provides such support for its other similar Software. Licensor will provide
+Level 1 Support, Level 2 Support, and Level 3 Support to a Customer by telephone
+and/or e-mail seven (7) days a week, twenty-four (24) hours per day, with a
+maximum one (1) hour telephone response time for all Priority 1 and Priority 2
+problems. In the event that diagnostics and troubleshooting are required at a
+Customer site, as reasonably determined by Cisco, Cisco and Licensor will
+provide, at their own expense, the necessary resources for problem resolution in
+accordance with each party's respective obligations hereunder. Each party shall
+be entitled to recover its actual and reasonable expenses from the other party
+or from the Customer if it is later determined that the cause of the problem is
+so attributable. Cisco shall provide Licensor feedback on any Software bugs and
+potential fixes. Licensor shall use commercially reasonable efforts to resolve
+Software bugs.
+
+4.3 Initial Call Flow Process
+
+(a) Customer contacts Cisco's Global Call Center ("GCC") via Cisco's "800"
+number or the Customer opens their own case on-line via Cisco Case Open Tool.
+The GCC shall perform Level 0 Support by verifying customer support entitlement
+and opening a case in Cisco's CARE database ("Clarify"). The case is then
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+10
+<PAGE>
+
+
+dispatched to the INSMBU-VISUAL NETWORKS CARE queue, which shall generate an
+internal case at nfm-Licensor-support@cisco.com, which shall be forwarded to
+Licensor's support email alias as provided to Cisco by Licensor Technical
+Support Group ("TSG"). INSMBU shall send a page for all P1 and P2 cases to the
+appropriate Licensor technical support pager and make reasonable efforts to send
+an email message and a message to support@visualnetworks.com and a message via
+phone to (800) 708-4784. In that respect, Licensor TSG shall provide its
+technical support schedule to Cisco and update such schedule if there are any
+changes via email.?? ??Licensor TSG shall report the time that it contacted the
+Customer, which is based on the support priority reflected in Section 4.4 below,
+and the associated Licensor case number to INSMBU within twenty-four hours after
+initial case response. Licensor TSG shall provide INSMBU with case updates on a
+weekly basis or more often if reasonably requested by Cisco. In turn, INSMBU
+will update cases in CARE on a weekly basis. While Licensor TSG is working on
+the case, INSMBU will update the case in CARE stating "This case is currently
+being supported by our third-party Licensor. The LICENSOR case reference is:
+XXXX. If you have any questions, please call 1-800-LICENSOR_TSG." Licensor TSG
+will notify INSMBU when the case is ready to be closed. INSMBU will close the
+case when resolved, with case details. A customer satisfaction survey, as
+reflected in Section 9 hereinbelow, will be sent via CARE to the Customer after
+the case is closed.
+
+(b) A troubleshooting tips document for the Software, prepared and maintained by
+Licensor TSG, will be made available to Cisco for Customer's on-line use in
+troubleshooting the problem, without Cisco's or Licensor's assistance. If the
+problem is not resolved, the case will be escalated to Licensor's TSG to perform
+Level 1, Level 2, and Level 3 Support, as appropriate. Licensor TSG may consult
+with INSMBU if necessary, but will work directly with the Customer to resolve a
+Software problem. INSMBU may occasionally call Licensor's TSG directly for case
+status.
+
+(c) When Cisco's Customer Support database is modified by Cisco to allow
+appropriate supplier access, Licensor and Cisco will work in good faith to
+develop a call flow transition plan so that all case information is updated and
+transferred to the Cisco database.
+
+4.4 Support Prioritization and Escalation Guidelines. To ensure that all
+Software problems and technical inquiries are reported in a standard format,
+Licensor will use and comply with the problem priority definitions and
+escalation guidelines herein pursuant to Section 3.2. Based on the priority of a
+Software problem, Licensor will provide to Cisco fixes or work-arounds in the
+following time frames:
+
+o     Priority 1: Fix or work-around within eight (8) hours of problem
+report to Licensor;
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+11
+<PAGE>
+
+
+o     Priority 2: Fix or work-around within two (2) business days of
+problem report to Licensor;
+
+o     Priority 3: Fix or work-around within two (2) weeks of problem
+report to Licensor;
+
+o     Priority 4: Fix or work-around within one (1) month of problem
+report to Licensor.
+
+For Priority 3 or Priority 4 problems, if Licensor is unable to meet the time
+frames listed above, the Licensor will provide to Cisco within that time frame,
+at a minimum, a plan for addressing the problem.
+
+4.5 Support Documentation. Promptly upon Cisco's written request, Licensor will
+supply Cisco with all technical documentation and resources that Cisco
+reasonably determines to be useful or necessary to perform Customer support or
+to analyze the technical benefits and risks of introducing new releases of
+Software into the Customer base. Such support documentation will include,
+without limitation: (i) Software specifications, (ii) release notes, (iii)
+debugging/support tools, and (iv) where available, lists of all error messages
+with explanations as needed and recommended actions. Licensor will regularly
+supply Cisco with all release notes or other documentation defining the relevant
+Software information, symptoms, solutions or work-arounds for Software problems.
+Licensor will keep accurate records of Software bugs and make such reports
+available to Cisco at least quarterly. Licensor will maintain an electronic
+means (e.g., an FTP server) through which Cisco can obtain up-to-date
+information on Software bugs, fixes, and code updates. During the term of this
+Agreement, Licensor will provide such support to Cisco at no charge.
+
+5.    Training.
+
+5.1 Upon Cisco's request, Licensor shall offer, at no cost to Cisco, prior to
+Licensor's first commercial shipment of any major Software release and at least
+annually thereafter, general Software training in the service and maintenance of
+Licensor's Software as mutually agreed by the parties, so that Cisco can perform
+its then-current support obligations hereunder. Cisco shall be responsible for
+all travel expenses, which Cisco may incur in connection with such training.
+Upon Licensor's request and as mutually agreed by the parties Cisco shall offer,
+at no cost to Licensor technical training on its software which is associated
+with Licensor's Software so that Licensor can perform its then-current support
+obligations hereunder. Licensor shall be responsible for all travel expenses,
+which Licensor may incur in connection with such training. The parties shall use
+commercially reasonable efforts to schedule such training concurrently to
+minimize travel costs.
+
+5.2 Upon Cisco's request, more detailed Software training shall be offered to
+Cisco at such time and place as reasonably and mutually agreed, which shall
+include, if necessary, compatibility issues and engineering debug capabilities.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+12
+<PAGE>
+
+
+All of Licensor's reasonable expenses in connection with such additional
+training shall be pre-approved and reimbursed by Cisco, consistent with Cisco's
+standard policies. Such additional training shall be offered to Cisco at a [***]
+discount off Licensor's standard pricing for support training. Cisco shall be
+responsible for all travel expenses, which Cisco may incur in connection with
+such training.
+
+6. Global Business Reviews. Unless otherwise mutually agreed, business reviews
+will be held remotely on a quarterly basis, after the close of Cisco's fiscal
+quarter, to assess Licensor's performance against the support objectives.
+Reviews will include the resetting of support standards for subsequent periods,
+establishing and measuring the performance record of Licensor, reviewing levels
+of call escalations and resolutions, providing general business updates,
+identifying any process improvement opportunities, reviewing forecasts of
+anticipated demand for the next one-hundred and eighty (180) day period,
+reviewing any quality assurance issues, reviewing any customer satisfaction
+issues, and addressing any other issues raised with reasonable advance notice by
+either party. Each party will provide any information, which is reasonably
+requested by the other party and will work with the other party to resolve any
+issues, concerns or problems identified within a reasonable amount of time. The
+location and/or meeting method will be mutually agreed upon by the parties and
+will be attended by the respective parties' Account Representative and by such
+other personnel as are appropriate.
+
+7.    Support Level Requirements:
+
+7.1 Licensor shall:
+
+(a) Provide all the labor, expertise, and skills necessary for the performance
+of the support services in a manner reasonably satisfactory to Cisco and Cisco's
+customers. Licensor shall provide a Technical Tips Sheet for Customer's access
+on-line, describing the top ten support problems and solutions and use Cisco's
+phone support script as provided to Licensor by Cisco . The Technical Tips Sheet
+shall be available to Cisco electronically and shall be updated by Licensor TSG
+from time to time.
+
+(b) [***]
+
+(c) Identify bugs in other Cisco Software, which is associated with the Software
+as well as the Software and communicate those bugs to Cisco's DE on a weekly
+basis.
+
+(d) Employ competent technical support and maintenance organizations, and use
+professional standards in the industry while performing services to Cisco and
+Customers hereunder.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+13
+<PAGE>
+
+
+(e) Provide Software patches and bug fixes to Cisco electronically so that
+Customers can access such updates and upgrades from Cisco's software upgrade
+tool.
+
+(f) Upon Cisco's request, keep Cisco advised on the progress of the Customer
+support cases and the status of the support services.
+
+(g) Keep accurate records of support services performed, evidence of which
+Licensor shall provide to Cisco upon resolution of each customer case.
+
+(h) Upon reasonable advance notice, permit any designated representative of
+Cisco to periodically review during normal business hours Licensor's support
+center and observe the personnel who are performing support services for Cisco.
+
+(i) Establish a problem reporting and tracking mechanism of support services
+performed by Licensor, which is reasonably acceptable to Cisco.
+
+(j) Keep Cisco informed as to any problems, which involve the Software and/or
+Cisco technologies or impact Licensor's ability to deliver service or solutions
+to Cisco's customer, to communicate such problems promptly to Cisco, and to
+assist Cisco in the resolution of such problems.
+
+(k) Appoint a relationship manager whose primary responsibility will be to work
+with the designated Cisco Serviceability Design Engineer or Cisco DE to manage
+the implementation of the support model, act as the focal point for day-to-day
+support issues and problem escalations, and participate in Cisco support-related
+activities.
+
+Licensor shall not:
+
+(a) Subcontract its duties and responsibilities hereunder to any other person or
+entity, in whole or in part, without prior written notice to and approval by
+Cisco, which consent shall not be unreasonably withheld.
+
+(b) Disclose any Cisco customer support information to third parties without
+Cisco's prior written consent.
+
+(c) Assign this support exhibit or any rights hereunder, without Cisco's prior
+written consent.
+
+8.    Customer Satisfaction
+
+8.1 Customer Satisfaction Survey: Cisco will survey its Customers under Software
+Support for the purpose of ensuring customer satisfaction with the Software and
+Licensor's support. For such purposes, Licensor shall provide
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+14
+<PAGE>
+
+
+Cisco with any necessary customer contact information to conduct such a survey.
+Cisco shall accumulate a monthly average of the customer satisfaction scores
+from these surveys (sample attached).
+
+8.2 Customer Satisfaction Scores: Customer satisfaction survey scores are
+defined as follows:
+
+"Delighted Score" means that all survey questions had a response of 5.
+
+"Dissatisfied Score" means that one or more survey questions had a response of 1
+or 2.
+
+"Satisfied Score" encompasses everything else, i.e. no 1's and 2's, but not all
+5's.
+
+8.3 Customer Satisfaction Goals and Bonus: Licensor's customer satisfaction
+goal, at a minimum, shall be to achieve a Satisfied Score. (c) During each Cisco
+fiscal quarter from the effective date of this Exhibit G and continuing through
+subsequent quarters thereafter, in the event that the customer satisfaction
+surveys average at least [***] during any Cisco fiscal quarter, Licensor shall
+receive a customer satisfaction bonus of [***] of the list price from the sale
+of an Initial Support Agreement or Support Agreement Renewal.
+
+8.4 Dissatisfied Score: In the event any customer satisfaction surveys contains
+a Dissatisfied Score in any Cisco fiscal quarter, Licensor shall promptly
+contact the Customer who submitted the Dissatisfied Score to gather input about
+such score and provide Cisco with a case report which contains the details for
+such score and Licensor's corrective action. At any time, if [***] or more of
+the customer satisfaction surveys contain a Dissatisfied Score in any Cisco
+fiscal quarter, Cisco shall notify Licensor and Licensor shall comply with
+subparagraphs (a) and (b) below:
+
+(a) Licensor will have five (5) business days from the date that Cisco gives
+Licensor a written notice of non-compliance to develop and present to Cisco a
+corrective action plan that will enable Licensor to meet the applicable customer
+satisfaction goals.
+
+(b) Licensor will have thirty (30) days from the date that Cisco gives Licensor
+a written notice of non-compliance to initiate the corrective action plan to
+meet the applicable customer satisfaction goals.
+
+8.5 Termination for Dissatisfaction Score: In the event that [***]or more of the
+customer satisfaction surveys contain a Dissatisfaction Score for two (2)
+consecutive Cisco fiscal quarters, at Cisco's option Cisco may (i) immediately
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+15
+<PAGE>
+
+
+terminate Licensor's support services, and (ii) invoke transition training, as
+reflected in Section 12 below. Cisco shall be invoiced for reasonable fees for
+services actually rendered by Licensor prior to termination.
+
+9.    CISCO AND LICENSOR CONTACTS:
+
+Cisco Contact Information
+
+1. For questions concerning this Exhibit:
+
+Name:   Scott Mousley, Serviceability Design Engineer
+(Office) phone number:  408 525-5945
+(Pager) phone number: 800-365-4578
+Email: smousley@cisco.com
+
+2. For questions concerning Software Support:
+
+Name:   Kui Zhang, Mgr. Software Development
+(Office) phone number:408 526-7603
+Email:  kzhang@cisco.com
+
+3. For questions concerning Entitlement:
+
+Name:   Rebecca Sanders,
+Mgr.  Joint Venture Engineering Group - INSMBU
+(Office) phone number: 408 853 9754
+Cell: 512 917-8720
+Pager: (800) 365-4578
+Email: resande@cisco.com
+
+Name:   Andrew Zielinski, Product  Mgr. - INSMBU
+(Office) phone number:  408 527 4831
+Pager:  408 322-9842
+Email:  azielins@cisco.com
+
+4. For legal notices under this Exhibit:
+
+Cisco Systems, Inc.
+170 West Tasman Drive
+San Jose, CA  95134
+Attn:  VP Legal and Government Affairs
+Fax:  (408) 526-7019
+Phone:  (408) 526-4000
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+16
+<PAGE>
+
+
+Licensor Contact Information
+
+1. For questions concerning Software Support:
+
+Name :  Noel Warnert
+Title:  Technical Support Lead
+Phone:  (301) 296-2414
+Pager or Cell: (240) 401-4227
+Email:  nwarnert@visualnetworks.com
+
+Name :  Linda Vargas
+Title:  Manager of Customer Service
+Phone:  (301) 296-2738
+Pager or Cell: (301) 529-9037
+Email:  lvargas@visualnetworks.com
+
+2. For questions concerning this Exhibit:
+
+Name:   Wayne Fuller
+Title:  VP, Engineering
+Phone:  (301) 296-2673
+Pager or Cell:  (703) 629-3427
+Email:  wfuller@visualnetworks.com
+
+3. For legal notices under this Exhibit:
+
+Visual Networks Operations, Inc.
+Attn: Corporate Counsel
+2092 Gaither Road
+Rockville, MD 20850
+301.296.2731 - fax
+301.296.2742 - voice
+
+10. Support Compensation: In exchange for Licensor's support as reflected in
+this Exhibit, Cisco shall compensate Licensor pursuant to the terms of Section 5
+of Exhibit A of the License Agreement.
+
+11.   SUPPORT TERM AND TERMINATION.
+
+11.1 This support exhibit shall be co-terminous with the Agreement. In that
+respect, in addition to this Section, Sections 13.1, 13.3, and 13. 4 of the
+Agreement shall apply to this support exhibit.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+17
+<PAGE>
+
+11.2 Cisco may terminate this support exhibit at any time for its convenience,
+for no reason or for any reason, with sixty (60) days' written notice to
+Licensor. In the event of such termination, Cisco shall be entitled to a
+prorated portion of any unused fees paid for support.
+
+11.3 Transition Training: Upon termination or expiration of Licensor's support
+services herein, if requested by Cisco, Licensor shall provide technical
+training to Cisco at such time and place as is reasonably requested by Cisco and
+shall include, but not be limited to, conventional engineering training and
+instruction classes in the service and maintenance of the Software as well as
+instruction on resolving compatibility issues and engineering debug
+capabilities. Such transition training shall continue until Cisco can
+efficiently perform Level 1 and Level 2 support for the Software. All of
+Licensor's reasonable expenses in connection with such transition training shall
+be pre-approved and reimbursed by Cisco, consistent with Cisco's standard
+policies. Such additional training shall be offered to Cisco at a [***] discount
+off Licensor's standard pricing for support training.
+
+11.4 In the event of any termination or expiration of the Agreement, at Cisco's
+request, Licensor shall make available to Cisco Level 3 support reflected in
+this Exhibit G, or other agreed support, at Licensor's reasonable and customary
+rates for a minimum of two (2) years after such termination or expiration.
+
+11.5 The terms and conditions of this Section 11 supersede any terms and
+conditions of the Agreement, which are inconsistent with these terms and
+conditions.
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+18
+<PAGE>
+
+
+Customer Satisfaction Survey
+
+Subject: Cisco Systems Survey
+
+Recently you contacted the Cisco _To be filled in____.
+We appreciate the opportunity to assist you, and we hope we were responsive to
+your needs.
+
+CASE: CR-XXXXX OPENED: 00-XX-XXXX                         AGENT:
+
+DESCRIPTION:
+
+On a scale of 1 to 5 (1= Unacceptable, 2 = Poor, 3 = Met your needs, 4 - Good, 5
+= Excellent) rate each of the following
+
+(PLACE YOUR ANSWERS IN THE SURVEY AFTER EACH COLON).
+
+(Q1) Ease of Access to Help line.......................................(1-5):
+COMMENTS ON Q1:
+
+(Q2) Timeliness of Information.........................................(1-5):
+COMMENTS ON Q2:
+
+(Q3) Effectiveness of Information......................................(1-5):
+COMMENTS ON Q3:
+
+(Q4) Software Knowledge of the Agent...................................(1-5):
+COMMENTS ON Q4:
+
+(Q5) Courteous Service.................................................(1-5):
+COMMENTS ON Q5:
+
+(Q6) OVERALL satisfaction of customer regarding software support ......(1-5):
+COMMENTS ON Q6:
+What could we do to better support you?
+
+
+Thank you for letting us know how we're doing and giving us the opportunity to
+improve.
+
+Sincerely,
+
+
+
+Cisco Systems, Inc. Confidential Information For Internal Use Only.
+
+*** Confidential Information has been omitted and filed separately with the
+Securities and Exchange Commission pursuant to a confidential treatment request.
+
+
+19
+
+
+

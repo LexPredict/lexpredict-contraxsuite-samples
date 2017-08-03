@@ -1,0 +1,939 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.2
+
+SOFTWARE LICENSE AGREEMENT
+
+
+This SOFTWARE LICENSE AGREEMENT ("Agreement") is entered into as of the
+27th  day of June, 1998, by and between ADVANCED CASINO SYSTEMS CORPORATION
+("ACSC"), ADVANCED CASINO SYSTEMS INTERNATIONAL, INC. ("ACSI"), COMPUTERIZED
+MANAGEMENT SYSTEMS INTERNATIONAL, INC. ("CMSI"), and GREATE BAY HOTEL AND
+CASINO, INC., t/a "Sands Hotel & Casino" ("Greate Bay").
+
+W I T N E S S E T H:
+
+WHEREAS, ACSC is a corporation duly organized and existing under the laws
+of the State of Delaware and maintains its principal place of business at 200
+Decadon Drive, Egg Harbor Township, New Jersey 08234-3899; and,
+
+WHEREAS, Greate Bay is a corporation duly organized and existing under the
+laws of the State of New Jersey and maintains its principal place of business at
+Indiana Avenue and Brighton Park, Atlantic City, New Jersey 08401; and
+
+WHEREAS, ACSI and CMSI are wholly owned subsidiaries of Greate Bay; and
+
+WHEREAS, ACSC presently licenses and Greate Bay presently utilizes a number
+of custom software systems and interfaces including but not limited to the
+following casino management systems: (i) an IBM AS/400 Casino Accounting and
+Management Application ("the Casino Accounting & Management System"), (ii) an
+IBM AS/400 Slot Accounting & Management Application (the "Slot Accounting
+System"), (iii) a Casino Player Tracking System, (iv) a Casino Sales and
+Marketing System, (v) a Table Marketing System, and (vi) a Slot Marketing System
+consisting of certain software programs (the "SMS Software") and certain
+proprietary hardware components ("the SMS Hardware") and intellectual property
+rights in the configuration of the SMS Software with and into the SMS Hardware
+and other commercially available hardware components ("the Configuration") (the
+SMS Software and the SMS Hardware and the Configuration are collectively
+referred to as the "the SMS"); and
+
+WHEREAS, both ACSC and Greate Bay desire to formalize the licensing of the
+systems as set forth below;
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the
+promises, representations, warranties, and undertakings set forth in this
+Agreement, and intending to be legally bound thereby, ACSC, ACSI, CMSI and
+Greate Bay do hereby promise and agree as follows:
+<PAGE>
+
+1.   DEFINITION OF THE SOFTWARE AND THE SMS.  For purposes of this
+Agreement, the "Software" shall consist of (i) the Casino Accounting &
+Management System as generally described on Exhibit "A"; (ii) the Slot
+Accounting System as generally described on Exhibit "B"; (iii) the Casino Player
+Tracking System as generally described on Exhibit "C"; (iv) the Casino Sales and
+Marketing System as generally described on Exhibit "D"; (v) the Table Marketing
+System as generally described on Exhibit "E", (vi) all other software systems
+and interfaces owned by ACSC and utilized by Greate Bay on its IBM AS/400 or on
+other hardware platforms as of the date of this Agreement, including by way of
+example and not limitation the Security Incident Reporting System, MIS Resource
+Request System, Cross System Backup, Data Acquisition, Employee Time and
+Attendance and Casino Analysis as generally described on Exhibit "F", and (vii)
+any trade secret or confidential information in relation to the Software.  For
+purposes of this Agreement, "the SMS" shall consist of the SMS Software and the
+SMS Hardware as generally described on Exhibit "G" and the Configuration, and
+any and all communication protocol(s) now or hereafter developed by or on behalf
+of or used by ACSC to enable, facilitate or improve communications between the
+SMS and the slot machines of any and all slot machine manufacturers that are in
+ACSC's possession or control and for which ACSC has the legal right to provide
+to third parties ("the SMS Protocol"), and any trade secret or confidential
+information in relation to the SMS.  Any and all intellectual property rights in
+the Software and the SMS, including any derivative modifications and extensions,
+shall hereafter be collectively referred to as "the Intellectual Property
+Rights".  The Intellectual Property Rights expressly do not include Greate Bay's
+rights in any internal controls developed or hereafter developed by Greate Bay
+relating to the electronic drop feature of the SMS.
+
+2.   QUITCLAIM ASSIGNMENT/RELEASE.  Greate Bay, CMSI and ACSI, on behalf of
+themselves, their predecessors, successors and assigns (collectively, the
+"Releasing Parties"), do hereby quitclaim and assign to ACSC any and all
+ownership rights the Releasing Parties may have in the Intellectual Property
+Rights, if any, without any warranty or covenants of title, and release ACSC and
+all of its affiliates from any claims any of the Releasing Parties may have
+related to the transfer by the Releasing Parties, or the assumption by ACSC, of
+the Intellectual Property Rights.  Further, the Releasing Parties will cooperate
+with ACSC by communicating to ACSC any facts known to them regarding any such
+rights in the Intellectual Property Rights and by executing additional documents
+to evidence this assignment.  The assignment and release in this Paragraph 2
+shall survive the termination or breach of this Agreement.
+
+<PAGE>
+
+3.   LICENSE GRANT.
+
+(a) License Rights Granted.  Subject to the terms and conditions of
+this Agreement, ACSC hereby grants to Greate Bay and Greate Bay hereby accepts a
+perpetual, non-exclusive and transferable license under the Intellectual
+Property Rights owned or otherwise licensable by ACSC to use the Software and
+the SMS.
+
+(b) Geographical Restriction.  Except as set forth in this Paragraph
+3(b), Greate Bay may only use the Software and the SMS on machines, gaming
+equipment and computer equipment located and to be located, without limitation
+as to number, at Greate Bay's casino/hotel and Greate Bay's associated
+administrative properties in Atlantic City, New Jersey, as existing and
+configured as of the date of this Agreement and/or as may be reconfigured,
+added, expanded, constructed and/or reconstructed provided the same require not
+more than one casino license to operate (without regard to any management
+company) (collectively "the Licensed Facilities") from time to time during the
+term of this Agreement, or, for backup and disaster recovery purposes, at either
+a third party's location or a location controlled by Greate Bay, which location
+may be outside of Atlantic City.  Nothing in this Agreement shall prohibit
+Greate Bay from using the Software and the SMS with alternate computer equipment
+at alternate computer installations in the event of processing failure or for
+the purpose of testing of such alternative computer equipment and installations
+regardless of location.  In addition, nothing in this Agreement shall preclude
+Greate Bay from making a copy of the Software or the SMS Software and operating
+it on alternative processors for program development and testing purposes.
+
+(c) Responsibility of the Parties.  Greate Bay shall be exclusively
+responsible for the supervision, management and control of the use of the
+Software and the SMS and any equipment in connection with which Greate Bay uses
+the Software or the SMS.
+
+4.   TERM OF LICENSE/AGREEMENT.  The license granted under this Agreement
+is effective Nunc Pro Tunc from the first date ACSC or any predecessor in
+interest to ACSC claimed to acquire any ownership or other interest in the
+Intellectual Property Rights and shall remain in force in perpetuity.  This
+license is non-cancelable, in whole or in part, by ACSC or any successor, in
+whole or in part, of the interest or business of ACSC, and any such successor
+must, as a condition of succession, expressly assume the obligations of this
+Agreement and, in the absence of an express assumption, any such successor will
+be deemed to have made such an assumption.  Greate Bay may terminate the license
+granted under this Agreement and discontinue the use of the Software and/or the
+SMS, in whole or in part, or may discontinue the use of the Software and/or the
+SMS, or may elect not to use the services of ACSC, in whole or in part, as
+described in Paragraphs 6(c) and 6(d) without obligation to ACSC.
+
+<PAGE>
+
+5.   OPERATING PROVISIONS.   All use of the Software and the SMS (other
+than by or on behalf of any gaming authority) will be solely by Greate Bay's
+personnel or its agents or contractors, shall be subject to the obligations of
+confidentiality as set forth in Paragraph 10 of this Agreement, and distribution
+of the Software or the SMS, or any part thereof, or reference materials,
+including derivative modifications or extensions of them, is expressly
+prohibited, except for the Licensed Facilities and except as respects a gaming
+authority or persons acting on behalf of a gaming authority.  Greate Bay shall
+not make or permit or otherwise allow others to print, copy, or divulge, in
+whole or in part, the Software or the SMS Software or the Configuration, in any
+form without the prior express written consent of ACSC.
+
+6.   PROVISION OF MATERIALS, UPDATES, HARDWARE, MAINTENANCE AND SUPPORT
+SERVICES AND SUPPLIER LISTS/EQUITABLE REMEDIES.
+
+(a) Terms for the period through Plan Confirmation/Sale.  From the
+date of the signing of this Agreement until the date of the Confirmation of a
+Plan of Reorganization or a sale by Greate Bay of substantially all of its
+assets in Greate Bay's currently pending Chapter 11 proceeding, Case No. B98-
+10001 ("the Chapter 11 Proceeding"), ACSC agrees to continue to provide the
+materials and updates as provided in paragraph 6(c), and hardware, and
+maintenance and Support Services, as hereinafter defined in Paragraph 6(d), for
+the Software and the SMS and such other requested services as are currently
+being provided by or through ACSC under the same economic terms and conditions
+as presently exist between ACSC and Greate Bay, so long as Greate Bay has paid
+all fees and expenses then due and owing to ACSC for services rendered after
+Greate Bay's initial filing of a petition in the Chapter 11 Proceeding ("Post
+Petition") within 45 days of receipt of an invoice therefor and less any sums
+owed to Greate Bay by ACSC for services provided or expenses incurred Post
+Petition on behalf of ACSC.
+
+(b) Terms for the period commencing with Plan Confirmation/Sale.
+Commencing with the date a Plan of Reorganization in the Chapter 11 Proceeding
+is confirmed by the Bankruptcy Court or an order is entered in the Chapter 11
+Proceeding approving a sale by Greate Bay of substantially all its assets, ACSC
+agrees, for so long as ACSC provides such services to third parties or any of
+its affiliates, to provide the materials and updates, as hereinafter described
+in Paragraph 6(c), and the hardware, maintenance and Support Services as
+hereafter defined in paragraph 6(d), and the supplier lists described in
+Paragraph 6(e) and such other services as may now or hereafter be provided by
+ACSC to Greate Bay or affiliates or third parties as may be requested by Greate
+Bay under economic terms the same as, and other terms and conditions no less
+favorable than extended, in that certain Supplemental Agreement dated July 16,
+1997 by and between Logical Solutions International, Inc. and Caesars World,
+Inc. (the "Caesars Agreement") without regard to quantity and volume discounts
+and without discrimination as to Greate Bay,
+
+<PAGE>
+
+and, if such services are not provided for in the Caesars Agreement, then on
+terms no less favorable than would be offered by or through ACSC to ACSC's most
+favored customer and without discrimination as to Greate Bay.
+
+(c) Provision of Materials and Updates.  Greate Bay may retain and,
+upon the signing of this Agreement to the extent Greate Bay is not in
+possession, ACSC shall provide Greate Bay with all basic materials,
+documentation manuals in printed and magnetic format, source codes, including
+but not limited to the source code for all systems and application programs
+running on the AS/400 and in the "HASS" file servers, the "Gearbox" PC's, the
+"Collector" Logic Board, and any other processor utilized in the SMS and the
+Software, and other documentation integral to the SMS Protocol or to the source
+codes or otherwise delineating and explaining the structure, organization,
+sequencing and operation of the source codes relating to the Software and the
+SMS (collectively the "Source Code") that are in ACSC's possession or control
+and for which ACSC has the legal right to provide copies to third parties.  All
+Source Code will be provided in the highest form that allows modification.
+Notwithstanding the foregoing, the Source Code for the Operating System of the
+"Collector" Logic Board shall be placed in Escrow as provided in Paragraph 7 of
+this Agreement.  During the term of this Agreement, ACSC shall make available to
+Greate Bay upon their completion copies of all modifications, improvements, or
+updates ("Updates") to the Software and/or the SMS at the same time or prior to
+the date on which ACSC makes such updates available to other customers of ACSC,
+and shall further provide Greate Bay no later than 10 days after request by
+Greate Bay, with copies of the Source Code for such Updates and revised copies
+of the Source Code for the entire Software and SMS which includes the Source
+Code for such Updates.  Greate Bay shall have the right within the Licensed
+Facilities or at other locations authorized under this Agreement to full and
+unfettered use of the Source Code and may permanently install and maintain the
+Source Code in its computer system for its own internal use.
+
+(d) Provision of Hardware and Maintenance and Support Services.
+During the term of this Agreement and as may be requested by Greate Bay from
+time to time, ACSC shall provide Greate Bay, with SMS Hardware Components and
+Support Services for Software and SMS. Support Services means providing Updates,
+Required Additions and/or Changes (as defined below), providing Error
+Corrections (as hereinafter defined) in the Software and/or SMS and/or in the
+communication between the Software and/or SMS and other systems covered by this
+Agreement or as may be mutually agreed upon the parties, providing telephone
+support and providing programming and project management services and such other
+services as may be required via telephone and at Licensed Facilities to install,
+integrate, maintain and support the Software and SMS. The term Required
+Additions and/or Changes means all changes and additions that must be made to
+Software and/or SMS to keep it in compliance with statutory,
+
+<PAGE>
+
+regulatory, and accounting practices changes. The term Error Correction means a
+modification, change or improvement to the Software or SMS that corrects an
+Error (as defined below). The term Error means a defect, deficiency or other
+problem with the Software or SMS that causes the Software or SMS to fail to
+operate in accordance with the documentation for the Software or SMS, to produce
+incorrect results, to damage data, to incorrectly store, retrieve, sort, present
+or calculate data, or to have a commercially unacceptable response time (i.e.
+time from input to producing a response). ACSC agrees that when Greate Bay
+reports an Error, ACSC will immediately commence work on an Error Correction and
+provide an Error Correction (i) as soon as reasonably possible if no
+commercially acceptable workaround is available to Great Bay or (ii) within a
+reasonable period of time if a commercially acceptable workaround is available
+or (iii) with the next Update or release of the Software or SMS if the Error is
+cosmetic or not material to the use of the Software or the SMS. ACSC agrees to
+provide Required Additions and/or Changes no later than two weeks prior to the
+effective date of such statutory, regulatory and/or accounting practices
+changes.
+
+(e) Provision of Supplier Lists.  Upon the signing of this Agreement,
+ACSC shall provide Greate Bay with a list of SMS Hardware component suppliers
+and shall, upon any addition or change to such supplier list, provide Greate Bay
+with an updated list.  In consideration of being provided with a list of SMS
+Hardware component suppliers, Greate Bay promises not to purchase SMS Hardware
+components directly from such suppliers absent a default by ACSC of its
+obligations under this Paragraph 6.
+
+(f) Equitable Remedies.  The obligations of ACSC in this Paragraph 6
+shall be specifically enforceable and ACSC agrees that (i) any breach of ACSC's
+obligations under this Paragraph 6 would cause irreparable injury to Greate Bay;
+(ii) Greate Bay would have an inadequate remedy at law for any such breach;
+(iii) the balance of interests and hardships would favor an injunction in favor
+of Greate Bay; (iv) the public interest would favor an injunction in favor of
+Greate Bay, and (v) ACSC will make no legal arguments that equitable relief is
+not an appropriate remedy in favor of Greate Bay in the event of a breach of
+ACSC's obligations under this Paragraph.
+
+7.   ESCROW OF THE "COLLECTOR" LOGIC BOARD SOURCE CODE.  The Escrow Agent
+for the Source Code for the operating system of the "Collector" Logic Board
+shall be Greate Bay's General Counsel. ACSC shall cause the Source Code for the
+operating system of the "Collector" Logic Board to be deposited with the Escrow
+Agent within seven (7) days of signing this Agreement. The Escrow Agent shall
+acknowledge receipt of the Source Code and shall keep same in a safe secure
+location. Except as set forth below, the Escrow Agent shall not allow or permit
+any party or third party to have access to, copies of or information concerning
+the Source Code held in escrow. Upon receipt of written certification
+
+<PAGE>
+
+from Greate Bay's Vice President-MIS that ACSC has either ceased doing business
+and there is no successor in interest that has assumed the obligations of ACSC
+or that ACSC is in default of its obligations under this Agreement, the Escrow
+Agent shall release the escrowed material to Greate Bay solely for the purpose
+of allowing Greate Bay to provide itself with support services and to effect the
+repair, replacement, maintenance and/or debugging of the "Collector" Logic Board
+as determined by Greate Bay.
+
+8.   INTELLECTUAL  PROPERTY WARRANTIES.  INDEMNIFICATION.  ACSC represents
+and warrants that ACSC knows of no fact, circumstance or claim that the exercise
+of rights pursuant to this Agreement would infringe any valid and subsisting
+intellectual property right owned by any other persons.  Greate Bay acknowledges
+and understands that Greate Bay must obtain licenses for the serial or other
+protocols from the respective game manufacturers necessary to interface the
+Software and the SMS with the games of each manufacturer.  ACSC will defend at
+its expense or settle at its option, any action brought against Greate Bay to
+the extent that it is based on a claim that the Software, the SMS Hardware or
+the SMS Software or the Configuration, as used within the scope of this
+Agreement, infringes any copyright or United States patent.  ACSC will pay any
+attorneys' fees, costs and damages awarded against or incurred by Greate Bay in
+such actions which are attributable to such claim provided that Greate Bay
+notifies ACSC in writing of the claim within five (5) calendar days of the
+service or other notification of such claim upon Greate Bay and ACSC fully
+controls the defense and settlement of such claims.  Should the Software or the
+SMS or the SMS Software or the Configuration become, or, in ACSC's opinion, be
+likely to become the subject of a claim of infringement of a copyright or
+patent, ACSC may procure for Greate Bay the right to continue using the
+Software, the SMS or the SMS Software or the Configuration or replace or modify
+the Software, the SMS or the SMS Software or the Configuration to make it non-
+infringing, provided that no such replacement or modification shall decrease or
+adversely change the performance of the Software or SMS or the Configuration and
+further provided that no such replacement or modification shall cause Error.
+ACSC shall have no liability for any claim of copyright or patent infringement
+based on the use or combination of the Software, the SMS, SMS Software or the
+Configuration with programs or data not supplied by ACSC.  Any indemnity
+provided herein shall not exceed and shall expressly be limited to Five Hundred
+Thousand Dollars ($500,000.00).
+
+9.   WARRANTY AND LIMITATIONS.
+
+(a) Warranty. ACSC warrants in favor of Greate Bay, SUBJECT TO THE
+REMEDY LIMITATIONS AND WARRANTY LIMITATIONS SET FORTH BELOW, that the Software
+or SMS
+
+<PAGE>
+
+Software, for a period of one (1) year from the execution of this Agreement,
+will conform to ACSC's published specifications and warrants that ACSC has no
+knowledge that the Software or SMS Software has any programming errors or is
+unfit or unsuitable for use by Greate Bay. Such warranty is referred to herein
+as the "As-Documented Warranty." Greate Bay's sole remedies for any breach of
+the As-Documented Warranty, TO THE EXCLUSION OF ALL OTHER REMEDIES THEREFOR, IN
+CONTRACT, TORT, OR OTHERWISE, will be ACSC's obligation to modify the Software
+or SMS Software for Greate Bay, at no charge, so that it conforms to the
+published specifications.
+
+(b)  Warranty Limitations.  ACSC's warranties are limited and apply as
+follows:
+
+-    ACSC's warranties do not extend to operation of the Software or
+the SMS on any hardware configuration, other than as supplied by
+or on behalf of ACSC and other than AS/400 hardware and model
+upgrades, provided the same are compatible with the AS/400 and
+industrial personal computers and all hardware specifications of
+ACSC for the SMS.
+
+-    ACSC's warranties do not extend to operation of the Software or
+the SMS in conjunction with any computer program (e.g "terminate
+and stay resident" utility programs) other than as supplied by
+ACSC.
+
+-    Except as may be expressly agreed in writing by ACSC, ACSC's
+warranties do not apply to any copy of the Software or the SMS
+that is modified by any person other than ACSC; to use of the
+Software or the SMS other than in accordance with the most
+current operating instructions provided by ACSC; to inoperability
+or bugs, in whole or in part, caused by defects, problems, or
+failures of software or hardware not meeting the hardware
+specifications of ACSC for the SMS or Software; or to bugs caused
+by negligence of any person except ACSC or its contractors.
+
+(c)  Warranty Exclusions. Without limiting the generality of the
+limitations set forth above, ACSC's warranties do not include any warranty:
+
+-    that the functions performed either by the Software or the SMS
+will operate in the combinations that may be selected for use by
+Greate Bay.
+
+-    that the operation of the Software and the SMS will be error free
+in all circumstances.
+
+-    that all defects in the Software and the SMS that are not
+material (as determined in the exercise of the good faith
+business judgment of Greate Bay after
+
+<PAGE>
+
+consultation with ACSC) with respect to the functionality thereof
+will be corrected.
+
+-    that the operation of the Software and the SMS will not be
+interrupted for short periods of time that do not exceed twenty-
+four (24) consecutive hours by reason of defects therein or by
+reason of default on the part of ACSC.
+
+-    of any of the Software or the SMS or any part thereof as to which
+any person other than ACSC has made any modifications, without
+the express and specific written permission of ACSC.
+
+(d)  Greate Bay Responsibilities.  Without limiting the generality of
+the foregoing exclusions and limitations, Greate Bay will be exclusively
+responsible as between the parties for, AND ACSC MAKES NO WARRANTY OR
+REPRESENTATION WITH RESPECT TO:
+
+-    determining whether the Software or the SMS will achieve the
+results desired by Greate Bay, notwithstanding such ACSC
+represents and warrants that it has no knowledge that the
+Software or the SMS when delivered to Greate Bay had or has any
+programming errors or is unfit or unsuitable for use by Greate
+Bay.
+
+-    selecting, procuring, installing, operating, and maintaining
+computer hardware to run the Software.
+
+-    ensuring the accuracy of any input data used with the Software or
+the SMS.
+
+-    establishing adequate data backup provisions for backing up
+Greate Bay's data.
+
+-    establishing adequate operational backup provisions (e.g.,
+alternate manual operation plans) in the event of a defect or
+malfunction that impedes the anticipated operation of the
+Software or the SMS.
+
+(e)  Disclaimer of All Other Warranties and Representations.  The
+express warranties and express representations set forth in this Agreement are
+in lieu of, and ACSC DISCLAIMS, ANY AND ALL OTHER WARRANTIES, CONDITIONS, OR
+REPRESENTATIONS, EXPRESS OR IMPLIED, ORAL OR WRITTEN, WITH RESPECT TO THE
+SOFTWARE OR THE SMS OR ANY PART THEREOF, INCLUDING ANY AND ALL IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS
+OR SUITABILITY FOR ANY PURPOSE (WHETHER OR NOT ACSC KNOWS, HAS REASON TO KNOW,
+HAS BEEN ADVISED, OR IS OTHERWISE IN FACT AWARE OF ANY SUCH PURPOSE), WHETHER
+ALLEGED TO ARISE BY LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, OR BY COURSE
+OF
+
+<PAGE>
+
+DEALING. IN ADDITION, ACSC EXPRESSLY DISCLAIMS ANY WARRANTY OR REPRESENTATION TO
+ANY PERSON OTHER THAN GREATE BAY WITH RESPECT TO THE SOFTWARE OR THE SMS.
+
+(f)  Legal Compliance.  ACSC agrees that it is responsible for
+submitting the SMS Hardware and SMS Software to the applicable gaming
+authorities in New Jersey having jurisdiction over the SMS for the approval of
+the logic of all or any portion of the SMS Software or the logic of any SMS
+Hardware components that are required prior to the installation of SMS or
+derivative modifications or extensions at the Licensed Facilities, except as
+provided in the next sentence.  With respect to the Electronic Drop feature of
+the SMS ("EDrop"), ACSC will submit the EDropcode for approval, provided the
+applicable gaming authority has authorized implementation of EDrop on a
+conceptual basis either by established policy or published regulation.  If
+approval of EDrop has been so authorized by the applicable gaming authority,
+ACSC will conform the logic of the EDrop code to any applicable and generally
+applied specifications of the gaming authority.  Greate Bay agrees that it is
+solely responsible for all testing and internal control compliance with respect
+to the SMS, including, but not limited to, security of the computer system
+external to the SMS; provided, however, that ACSC agrees to provide any
+reasonable assistance requested of it by Greate Bay with respect to testing and
+internal control compliance.
+
+10.  CONFIDENTIAL/PROPRIETARY INFORMATION.
+
+(a) Confidential/Propriety Information.  The parties acknowledge that
+the Software, the SMS, the Source Code and all other information supplied by
+ACSC in connection with this Agreement, including but not limited to any know-
+how or expertise, (collectively, the "Confidential Information"), will be deemed
+confidential/proprietary information of ACSC.  Greate Bay agrees that it shall
+maintain the Confidential Information under secure conditions, using reasonable
+security measures and in any event not less than the same security procedures
+used by Greate Bay for the protection of its own confidential/proprietary
+information.
+
+(b)  Non-disclosure Obligation.  Except as may be requested or
+required by or on behalf of any gaming authority, Greate Bay shall not disclose
+any Confidential Information to any third party without the prior written
+consent of ACSC. Notwithstanding the foregoing, Greate Bay may make the Software
+or the SMS Software available, without ACSC's prior express consent, to any
+independent consultant or consulting group retained by Greate Bay solely for
+purposes specifically related to Greate Bay's permitted use, operation and
+application of the Software or the SMS, but only after such independent
+consultant or consulting group has executed a written confidentiality agreement
+pursuant to which it covenants to not use the Confidential Information except
+for Greate Bay as permitted herein and to not
+
+<PAGE>
+
+disclose the Confidential Information under the same conditions of
+confidentiality contained herein. Notwithstanding the foregoing, Greate Bay may
+disclose appropriate portions of Confidential Information to those of its
+personnel who have a need to know the specific information in question in
+connection with Greate Bay's rights or the performance of obligations under this
+Agreement. All such personnel will be instructed by Greate Bay that the
+Confidential Information is subject to the obligation of confidentiality set
+forth by this Agreement. Notwithstanding the foregoing, Greate Bay may disclose
+Confidential Information to an entity that is not a competitor of ACSC and is
+offering (i) a Plan of Reorganization in the Chapter 11 Proceeding or (ii) to
+purchase control of Greate Bay, provided however, that any such entity shall
+enter into a non-disclosure agreement that requires such entity to protect such
+information in the same manner as is required by this Paragraph 10.
+
+(c) Equitable Remedies.  The obligations of Greate Bay in this
+Paragraph 10 shall be specifically enforceable and Greate Bay agrees that (i)
+any breach of Greate Bay's obligations under this Paragraph 10 would cause
+irreparable injury to ACSC; (ii) ACSC would have an inadequate remedy at law for
+any such breach; (iii) the balance of interests and hardships would favor an
+injunction in favor of ACSC; (iv) the public interest would favor an injunction
+in favor of ACSC, and (v) Greate Bay will make no legal arguments that equitable
+relief is not an appropriate remedy in favor of ACSC in the event of a breach of
+Greate Bay's obligations under this Paragraph.
+
+11.  EXCLUSION OF INCIDENTAL AND CONSEQUENTIAL DAMAGES.  NEITHER PARTY WILL
+BE LIABLE TO THE OTHER PARTY (NOR TO ANY PERSON CLAIMING RIGHTS DERIVED FROM THE
+OTHER PARTY'S RIGHTS) FOR INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR
+EXEMPLARY DAMAGES OF ANY KIND, including lost profits or revenue, loss of
+business, or other economic damage, and further including injury to property, AS
+A RESULT OF BREACH OF ANY WARRANTY OR OTHER TERM OF THIS AGREEMENT, REGARDLESS
+OF WHETHER THE PARTY LIABLE OR ALLEGEDLY LIABLE WAS ADVISED OR HAD OTHER REASON
+TO KNOW OR IN FACT KNEW OF THE POSSIBILITY THEREOF.  Independent of, severable
+from, and to be enforced independently of any other enforceable or unenforceable
+provision of this Agreement, IN NO EVENT SHALL ACSC's AGGREGATE LIABILITY TO
+GREATE BAY (INCLUDING TO ANY PERSON OR PERSONS WHOSE CLAIM OR CLAIMS ARE BASED
+ON OR DERIVED FROM A RIGHT OR RIGHT CLAIMED BY GREATE BAY), WITH RESPECT TO ANY
+AND ALL CLAIMS AT ANY AND ALL TIMES ARISING FROM OR RELATED TO THE SUBJECT
+MATTER OF THIS AGREEMENT, IN CONTRACT, TORT OR OTHERWISE, EXCEED ONE MILLION
+DOLLARS ($1,000,000.00).
+
+<PAGE>
+
+12.  SPECIFIC PERFORMANCE.  The obligations of Greate Bay in this Agreement
+shall be specifically enforceable by ACSC and Greate Bay agrees that (i) any
+breach of Greate Bay's obligations under this Agreement would cause irreparable
+injury to ACSC; (ii) ACSC would have an inadequate remedy at law for any such
+breach; (iii) the balance of interests and hardships would favor an injunction
+in favor of ACSC; (iv) the public interest would favor an injunction in favor of
+ACSC, and (v) Greate Bay will make no legal arguments that equitable relief is
+not an appropriate remedy in favor of ACSC in the event of a breach of Greate
+Bay's obligations under this Agreement.
+
+13.  ASSIGNMENT.  Greate Bay may not assign any right under this Agreement
+and any purported assignment will be null and void and a breach of this
+Agreement.  Notwithstanding the preceding sentence, a change of control of
+Greate Bay shall not constitute an assignment, and Greate Bay shall have the
+right to assign its rights under this Agreement to any person or entity
+acquiring substantially all of the assets of Greate Bay or at least 51 percent
+of the equity of Greate Bay through purchase, merger, or reorganization and any
+such person shall in turn have the right to assign to any other person coming
+within the exception provided in this sentence.  ACSC shall have the right to
+assign its rights under this Agreement provided that any such assignee shall
+expressly assume ACSC's obligations to Greate Bay pursuant to this Agreement and
+that the assignment shall include sufficient Intellectual Property, personnel
+and other know how such that ACSC can reasonably expect the Assignee to be able
+to fulfill the obligations to Greate Bay under this Agreement.
+
+14.  AUTHORITY.  Each party represents and warrants to the other that each
+party respectively has full right, power and authority to enter into this
+Agreement and the person executing this Agreement on its behalf has actual
+authority to do so.
+
+15.  PARTIAL INVALIDITY.  If any one or more of the provisions of this
+Agreement should be ruled wholly or partly invalid or unenforceable by a court
+or other government body of competent jurisdiction, the validity and
+enforceability of all provisions of this Agreement not ruled to be invalid or
+unenforceable will be unaffected.
+
+16.  NOTICES.  Notices hereunder will be delivered and effective as
+follows: Every notice required or contemplated by this Agreement to be given by
+either party may be delivered in person or may be sent by a nationally
+recognized overnight delivery courier, or by telecopier, or by express mail, or
+by
+
+<PAGE>
+
+postage prepaid, certified or registered mail, addressed to the party whom it
+is intended at the following address:
+
+To Greate Bay, ACSI or CMSI:  Greate Bay Hotel and Casino, Inc.
+Indiana Avenue and Brighton Park
+Atlantic City, New Jersey 08401
+Attn:  President
+Telecopier:  609-441-4624
+
+With copy to:                 Greate Bay Hotel and Casino, Inc.
+Indiana Avenue and Brighton Park
+Atlantic City, New Jersey 08401
+Attn: Executive Vice President - General Counsel
+Telecopier:  609-441-4937
+
+To ACSC:                      Advanced Casino Systems Corporation
+200 Decadon Drive
+Egg Harbor Township, New Jersey 08234-3899
+Attn:  President
+Telecopier:609-407-2473
+
+With copy to:                 Greate Bay Casino Corporation
+Two Galleria Tower, Suite 2200
+Dallas, Texas 75240
+Attn: President
+Telecopier: 972-386-7411
+
+
+Either party may change its address for notice by giving notice to the other
+party of the change.  Any notice under this Agreement shall be deemed delivered
+when personally delivered, the date telecopied, if electronic confirmation of
+delivery is obtained and retained, the next business day after delivery to a
+nationally recognized courier service or express mail for overnight delivery, or
+three (3) days after any such notice is deposited with the United States Postal
+Service.
+
+17.  CHOICE OF LAW/FORUM SELECTION.  This Agreement will be interpreted and
+enforced in accordance with the law of the State of New Jersey without regard to
+the choice of law principles of the State of New Jersey.  Any action arising
+from this Agreement may only be instituted in the state or federal courts of the
+State of New Jersey.
+
+18. ATTORNEY'S FEES. Except as otherwise provided in Paragraph 8 of this
+Agreement, in the event of any dispute arising out of or relating to this
+Agreement, or the alleged
+
+<PAGE>
+
+breach thereof, each party will be responsible for and pay its own respective
+attorney's fees and expenses.
+
+19.  WAIVER.  None of the terms of this Agreement, including this Paragraph
+19 or any term, right or remedy hereunder shall be deemed waived unless such
+waiver is in writing and signed by party to be charged therewith and the parties
+hereby waive any basis to assert waiver by reason of any delay in asserting any
+such right or remedy or the benefit of any such term.
+
+20.  ENTIRE AGREEMENT/EFFECTIVE DATE.  Except with respect to that certain
+Agreement between Greate Bay Hotel and Casino, Inc., GB Holdings, Inc. GB
+Property  Funding Corp. and Advanced Casino Systems International, Inc., on one
+hand, and Greate Bay Casino Corp., New Jersey Management, Inc., Pratt Casino
+Corporation, PRT Funding Corp., PPI Corporation, Advanced Casino Systems
+Corporation, and Hollywood Casino Corporation, on the other, to which a form of
+this Agreement is an Exhibit ("the Settlement Agreement"), this Agreement
+constitutes the entire agreement and understanding of the parties with respect
+to the subject matter.  No prior or contemporaneous representations,
+inducements, promises or agreements, oral or otherwise, between the parties with
+reference to the subject matter will be of any force or effect.  No modification
+or amendment to this Agreement, including this Paragraph 20, will be valid or
+binding unless reduced to writing and duly executed by the party or parties to
+be bound.  This Agreement may be executed in counterparts and a telecopied
+signature will be as effective as an original.  This Agreement will be effective
+only when signed by all of the parties hereto and only upon and after the
+effective date of the Settlement Agreement, as set forth in Paragraph 11
+thereof, and until such time all of the provisions of this Agreement will be
+deemed part of settlement discussions and inadmissible against any of the
+parties hereto.
+
+[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]
+
+<PAGE>
+
+IN WITNESS WHEREOF AND INTENDING TO BE LEGALLY BOUND the parties have
+executed this Agreement as of the date and year first above written.
+
+Attest:                              ADVANCED CASINO SYSTEMS CORPORATION
+
+
+/s/ Charles F. LaFrano III           /s/ Lawrence C. Cole
+Secretary                            Lawrence C. Cole
+President
+
+
+
+Attest:                              GREATE BAY HOTEL AND CASINO, INC.
+t/a "Sands Hotel & Casino"
+
+
+/s/ Frederick H. Kraus               /s/ Timothy A. Ebling
+Secretary
+
+
+
+Attest:                              ADVANCED CASINO SYSTEMS INTERNATIONAL, INC.
+
+
+/s/ Frederick H. Kraus               /s/ Timothy A. Ebling
+Secretary
+
+
+
+Attest:                              COMPUTERIZED MANAGEMENT SYSTEMS
+INTERNATIONAL, INC.
+
+
+/s/ Frederick H. Kraus               /s/ Timothy A. Ebling
+
+Secretary
+
+<PAGE>
+
+EXHIBIT "A"
+
+CASINO ACCOUNTING AND MANAGEMENT SYSTEM
+
+
+CASINO MANAGEMENT
+The casino management module provides both detailed and summarized
+information to executive level, casino management and administration and
+pit management.  Through integration of the applications outlined as
+follows, management has access to both real time and historical performance
+information from a single source (or menu).
+
+
+TABLE ACCOUNTING & CREDIT
+This system integrates all aspects of table games and cage accounting in
+addition to patron credit activity.  Additional controls provide automated
+and paper less casino credit account review via predefined "triggers" and
+electronic communications with service providers of casino and credit
+bureau information.
+<PAGE>
+
+EXHIBIT "B"
+
+SLOT ACCOUNTING AND MANAGEMENT APPLICATION
+
+
+SLOT ACCOUNTING & MANAGEMENT SYSTEM
+The Slot system is comprised of three modules;
+Slot Configuration - allows recording of individual game
+specifications and is used to maintain the SMS slot network.  Future
+changes to floor configurations may be entered and activated as
+required.
+Slot Accounting - using the metered information received from SMS,
+this module provides complete accounting for all coin, currency and
+electronic fund transfers.
+Slot Data - provides historical and analytical information regarding
+game performance and may be accessed through numerous summary and
+detailed selection criteria.
+<PAGE>
+
+EXHIBIT "C"
+
+CASINO PLAYER TRACKING SYSTEM
+
+
+SUB-SET-RATINGS & COMPLEMENTARIES
+This application also performs as the primary information data bank of
+information specific to individual patrons gaming activity and
+profitability.  Information from both table and slot activity is combined
+with the ability to view this information and either combined or
+independently.  A complimentary decision process has been incorporated so
+that improved customer service may result by removing the requirement for
+executive decisions on all issuances.
+<PAGE>
+
+EXHIBIT "D"
+
+CASINO SALES AND MARKETING SYSTEM
+
+
+ACCOUNT MANAGEMENT
+This module provides the "housekeeping" functions required to maintain an
+accurate data bank of patron information for marketing purposes.  It also
+serves to reduce cost specifically for the direct mail marketing
+application and purging of inactive patrons.
+
+EXTRACT MANAGEMENT
+This is a flexible and robust patron selection module used primarily to
+target specific segments of patrons for various marketing and/or analysis
+functions.  The results of these extracts may be directed towards numerous
+forms of processing.
+
+GROUPS/INVITATION SYSTEM
+The primary purpose of the group system is to enable the analysis of
+profitability, both actual and potential, for up to twenty (20) user
+defined groups or event types.  Expenses and/or complementaries may be
+charged direct to a patrons account or as a percentage of theoretical
+across all players within the group.  Groups may also include Branch
+Offices and Junket Representatives with the ability to compute commissions.
+Historical analysis by group type or monthly rep performance is provided.
+The invitation module enables the booking of patrons responses to specific
+events (i.e. Head liner shows).  Blocking of an event enables analysis
+based on invited segment(s).
+
+SWEEPSTAKES SYSTEM
+The sweepstakes system provided for the controlling and winner selection
+electronically for various promotional sweepstakes.  Entries earned by
+patrons are automatically recorded with randomized winner selection based
+on event, date and time of day.  If required entries may require pre-
+qualification.  Linkage to the direct mail provides for notification of
+entries.
+<PAGE>
+
+EXHIBIT "E"
+
+TABLE MARKETING SYSTEM
+
+TABLE MARKETING SYSTEM (TMS)
+TMS was developed as an extension of the SMS for table games and utilizes
+the same network and controller boards (with function keypads and mark
+sense printers).  The primary purposes of TMS consist of: a) control of
+complementaries at the table games; b) access to patron information for
+ratings, credit and tracking of cash transactions; and c) time and
+attendance for pit personnel.
+<PAGE>
+
+EXHIBIT "F'
+
+CASINO ANALYSIS
+This system provides the analysis department with information on patrons
+gaming history.  Data extraction options allow flexibility in selecting
+patron segments for analysis, and an interface to the Group system allows
+group analysis.  Data can be interpreted in report format, or downloaded to
+a PC for analysis utilizing PC based software, i.e. Foxpro.  Selections
+from PC analysis can also be uploaded to the AS/400 to drive the Sales &
+Marketing extract system.
+
+MIS RESOURCE REQUEST SYSTEM
+The MIS Resource Request system allows the entry and tracking of requests
+for maintenance and new requests for Software, Hardware, and other services
+provided by MIS.  The system utilizes control files to allow flexibility in
+establishing Application areas and allows tracking of the progress of a
+request from initial request entry through completion.  For Software
+revisions, the system incorporates source and object movement to control
+the development/testing cycle and movement to a production environment.
+Tracking and reporting of man hours by request is also available.
+
+SECURITY INCIDENT REPORTING SYSTEM
+This system provides for the entry of Security Incident data to allow
+tracking and reporting of various types of incidents.  Incidents can be
+tracked from initiation through closure, and some limited claim/settlement
+tracking is provided.
+
+CROSS SYSTEM BACKUP (CSB)
+This application is used in a multiple CPU environment to provide a 'hot'
+backup capability, for use in the event of a severe hardware failure.  CSB
+utilizes the Journaling feature of the AS/400 to capture changes to
+designated application system files on a CPU, and transmits the changes to
+another CPU, where the CSB application on this CPU applies the changes to
+the application files residing on that CPU.
+<PAGE>
+
+EXHIBIT "G"
+
+SMS/TM/
+
+
+SMS/TM/ HARDWARE
+
+1.   NT SMS/TM/ slot Controller Board
+256K Memory expandable to 1MB, 16TTL Inputs, 16 TTL Outputs
+
+2.   Card Reader
+Capable of reading standard swipe tracks 1 & 2, with red LED lit throat.
+Custom white exterior bezel.
+
+3.   Side Box (Optional)
+Enclosure for: a) card reader, b) display, c) keypad and d) back lit custom
+logo with tri-color LED.  Additional mini fluorescent back lighting.
+
+4.   Keypad Overlay - Side Mount
+Includes keys zero (0) through (9), Clear, $ (dollar sign), Service, Promo
+(Promotion), and enter. Area for display and card reader precut.  Area
+under card reader for back lighting verbiage and arrows, area for logo with
+back lighting, and additional area for  verbiage with back lit miniature
+fluorescent.
+
+5.   Keypad Overlay - Slant Top
+Includes keys zero (0) through (9), Clear, $ (dollar sign), Service, Promo
+(Promotion), and enter. Size 19 1/2" L x 7/8" H. Area for display and card
+reader precut.  Area above card reader for back lighting verbiage and
+arrows, area for logo with back lighting.
+
+6.   Tri Color LED Board
+1" x 1" square board with Red, Green, and Yellow LED's used for back
+lighting logo.
+
+7.   Green LED Board
+1/2" x 2 3/4" board controlled by card reader interface for back lighting
+card insert verbiage.
+
+8.   Graphic Display
+Overall dimensions 44.5mm H x 134.6 mm L, Dot matrix 64 x 256 pixels.
+
+9.   Base Top
+Board containing two (2) six pin molex connectors and two (2) RJ
+connections.
+
+10.  IBM Industrial Personal Computer(s) with arctic co-processor(s)  -
+"Gearbox(s)"
+
+11.  Optic Isolator(s) with RS232 to RS422 connectors
+
+12.  IBM Industrial Personal Computer(s) - "HAS(s)"
+<PAGE>
+
+SMS/TM/ SOFTWARE
+
+1.   SMS_NT - Controller logic board program which contains specific interface
+logic based on game manufacturer specifications or ACSC proprietary bi-
+directional serial communications logic. Additional logic includes: a) NT
+Operating System, b) Security De-encryption, c) Peripheral device
+interface, d) Personalization parameter storage and verification, e) User
+diagnostics, f) Transaction recall, g) E-Drop, h) Marketing point
+algorithms.
+
+2.   RIC_MAIN - Artic card logic which controls the polling and messaging of
+transactions from and to slot machines and the IBM Industrial Personal
+Computer(s).
+
+3.   SU_MAIN - Primary logic program which controls the messaging from the
+network to the ARTIC ports.  Additional logic includes: a) software
+downloading, b) transaction backup, c) file servers for: 1) asset
+configuration, 2) wiring configuration, and 3) transaction backup, d)
+TCP/IP connectivity and recoverability, e) graphical monitor data source,
+f) game metering, g) TCP/IP socket logic for sending and receiving
+transactions.
+
+4.   HASTCPIP - File Server control program which is the primary "HUB" for
+transactions within the network.  Additional logic includes: a) network
+status monitor display, b) Network protocol translator (if required in
+LU6.2 environment), c) transaction backup file logic, d) in-house patron
+memory mapping, e) network verification for critical transaction
+processing, f) patron point transaction transfer logic.
+
+5.   PPS_SERV - File server logic which records and, as required computes points
+and balance information.  Receives and transfers transaction to the
+HASTCPIP main server program.  Performs time logic for patron being placed
+into and removed from memory.
+
+6.   ENCRYPT.EXE - Stand alone routine which is applied for compiling and
+encrypting SMS_NT programs which are subsequently downloaded to the NT
+controller board.  Employs M68000 C Compiler/Assembler languages.  Embeds
+encrypted passcode into the SMS_NT compiled program while simultaneously
+communicating the AS/400 for NT program verification and security.
+
+7.   TCPMON - Graphical monitor program which provides the following levels: a)
+Networked Gearboxes, b) Individual Gearbox and Artic ports, c) Individual
+Artic port, d) Individual slot machines.  Each level contains the
+appropriate error conditions or interactive metered information.
+
+8.   AS/400 SMS/TM/ Application software for receiving, transmitting and
+processing of transactions bi-directionally to gaming devices.
+

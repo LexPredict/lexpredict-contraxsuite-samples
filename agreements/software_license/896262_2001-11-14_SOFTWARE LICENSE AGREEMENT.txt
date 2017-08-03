@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+EXHIBIT 10.2
+
+SOFTWARE LICENSE AGREEMENT
+
+
+This SOFTWARE LICENSE AGREEMENT (as referred to herein, the
+"Agreement", and as referred to in other instruments or documents by and between
+the parties hereto and/or their respective subsidiaries or affiliates, the
+"Amended License Agreement"), by and between CareSouth Home Health Services,
+Inc. ("Licensor"), and Amedisys, Inc. ("Amedisys"), effective as of this 1st day
+of October, 2001 (the "Effective Date").
+
+RECITALS
+
+WHEREAS, Licensee currently owns and operates, and in the future may
+own and operate additional, Medicare-certified home health agencies
+(hereinafter, individually, an "Agency" and collectively, the "Agencies"); and
+
+WHEREAS, Licensor owns rights in DOS-based and windows-based computer
+programs (the "Software") designed to, among other things, provide billing,
+payroll and collections services for the Agencies; and
+
+WHEREAS, Licensee desires to obtain a non-exclusive, non-transferable
+license to use the Software in its Agencies, and limited rights (1) to
+sublicense the Software to third parties and (2) to transfer such license to, or
+use such license rights in connection with, a joint venture in which Licensee
+participates, all subject to the terms and conditions of this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual promises set forth
+herein, and for other good and valuable consideration the receipt and
+sufficiency of which are hereby acknowledged, Licensor and Licensee agree as
+follows:
+
+AGREEMENT
+
+I. DEFINITIONS
+
+1.1 "Agencies" means each of the agencies identified in Schedule A hereto.
+
+1.2 "Agreement" means this Agreement and the Schedules and Exhibits attached
+hereto.
+
+1.3 "Documentation" means the user and system documentation set forth in
+Schedule B for use with the Software.
+
+1.4 "Error" means a material failure of the Software to function in conformity
+with its specifications.
+
+1.5 "Licensee" means Amedisys and each of its Agencies, whether now or hereafter
+owned and operated.
+
+1
+
+<PAGE>
+
+1.6 "License Fees" means the fees Licensee shall pay as specified in Schedule C
+hereto.
+
+1.7 "Location" means each of the Agency Locations specified in Schedule A hereto
+(as such Schedule shall be amended or modified from time to time to reflect the
+addition or deletion of Agency Locations).
+
+1.8 "Software" means Licensor's Software and related programs and utilities
+specified in Schedule B and all versions, copies, upgrades, improvements,
+modifications, new versions and/or maintenance releases made by Licensor or
+Licensee.
+
+1.9 "Specifications" means any current product specifications published by
+Licensor or Licensee with respect to the Software.
+
+II. LICENSE
+
+2.1 In accordance with the terms herein, Licensor grants to Licensee, and
+Licensee accepts from Licensor, a non-exclusive, non-transferable license to:
+(1) use Licensor's Software and Documentation solely for its internal operations
+at each Location specified in Schedule A; and (2) copy the Software for archival
+and backup purposes only, provided that all titles, trademarks, copyrights,
+proprietary and restricted rights and notices shall be reproduced in all such
+copies, and that all such copies shall be subject to the terms of this
+Agreement. A description of the Software and related Documentation is attached
+as Schedule B hereto.
+
+2.2 Licensee shall not: (1) make available or distribute all or any part of the
+Software or Documentation to any third party by assignment, sub-license, or by
+any other means; or (2) copy, adapt, reverse engineer, decompile, disassemble,
+or modify, in whole or in part, any of the Software or Documentation; or (3)
+allow a third party access to the Software.
+
+2.3 Notwithstanding the provisions of the foregoing Sections 2.1 and 2.2,
+Licensor acknowledges and agrees that, provided no event of default (as herein
+defined) has occurred hereunder, (a) Licensee may upgrade, improve or modify the
+Software or the Documentation, subject to Licensor's rights as provided in
+Section 4.1 hereof, (b) Licensee may sublicense the Software to a third party,
+provided, however, that Licensee shall not be permitted to conduct billing and
+collection functions, or to interfere with the conduct of the same by Licensor,
+with respect to such sublicense(s) for a period of twelve (12) months from the
+date of execution hereof and (c) Licensee may transfer its license to, or use
+its license rights in connection with, a joint venture in which Licensee
+participates, and shall be permitted to conduct billing and collection functions
+in connection with same, provided, however, that the Licensee must at all times
+be the legal and beneficial owner of not less than 30% of the equity ownership
+of such joint venture.
+
+III. LICENSE FEES AND PAYMENT
+
+3.1 Licensee shall pay the License Fees in accordance with the payment schedule
+set forth in Schedule C, in immediately available funds. Payment of the License
+Fees shall be made by Licensee to Licensor in full on each applicable payment
+date without any right of set-off or deduction.
+
+2
+
+<PAGE>
+
+3.2 Licensee shall be responsible for any applicable sales or use taxes or any
+value added or similar taxes payable with respect to the licensing of the
+Software, or arising out of or in connection with this Agreement, other than
+taxes levied or imposed based upon Licensor's income. In the event that Licensor
+pays any such taxes on behalf of Licensee, Licensor shall invoice Licensee for
+such taxes and Licensee agrees to pay such taxes in accordance with this
+Agreement.
+
+3.3 In addition to the remedies set forth in Section 6.5 hereof, the failure by
+Licensee to pay any amounts due under this Agreement in full in accordance with
+this Agreement shall make Licensee liable to pay Licensor interest at the rate
+of two percent (2%) per month on any License Fees due hereunder, or at the
+highest amount permitted by applicable law, such interest to accrue on a daily
+basis after as well as before any judgment relating to collection of the
+amount(s) due.
+
+IV. PROPRIETARY RIGHTS AND CONFIDENTIALITY
+
+4.1 Licensor represents and warrants that it owns the Software, Documentation
+and Specifications, and has the right to license the same to Licensee. Licensee
+acknowledges and agrees that all copyright, patent, trade secret, trademark, and
+all other intellectual property rights of whatever nature in the Software,
+Documentation, and Specifications are and shall remain the property of Licensor,
+and nothing in this Agreement should be construed as transferring any aspects of
+such rights to Licensee or any third party. Any upgrades, improvements or
+modifications to, or new versions of, the Software shall become a part of the
+Software, and, as such, are subject to the terms and conditions of this
+Agreement, whether such upgrades, improvements, modifications or new versions
+are made by Licensor or Licensee. Additionally, Licensor shall own all
+proprietary rights associated with such upgrades, improvements, modifications or
+new versions. Licensee hereby agrees that the foregoing provisions apply
+similarly to upgrades, improvements or modifications to, or new versions of, the
+Software made by Licensee prior to the execution of this Agreement.
+
+4.2 "Confidential Information" shall mean the Software, Documentation, and
+Specifications. Licensee acknowledges the confidential and proprietary nature of
+the Confidential Information and agrees that it shall not reveal or disclose any
+Confidential Information for any purpose to any other person, firm, corporation
+or other entity, other than Licensee's employees with the need to know such
+Confidential Information to perform employment responsibilities consistent with
+Licensee's rights under this Agreement. Licensee shall safeguard and protect the
+Confidential Information from theft, piracy, or unauthorized access in a manner
+at least consistent with the protections Licensee uses to protect its most
+confidential information. Licensee shall inform its employees of its obligations
+under this Agreement, and shall take such steps as may be reasonable in the
+circumstances, or as may be reasonably requested by Licensor, to prevent any
+unauthorized disclosure, copying, or use of the Confidential Information.
+Licensee acknowledges and agrees that in the event of Licensee's breach of this
+provision, Licensor will suffer irreparable injuries not compensated by monetary
+damages and therefore shall not have an adequate remedy at law. Accordingly,
+Licensor shall be entitled to a preliminary and final injunction without the
+necessity of posting bond. This remedy is separate and apart from any other
+remedy Licensor may have.
+
+3
+
+<PAGE>
+
+4.3 Licensee shall notify Licensor immediately upon discovery of any prohibited
+use or disclosure of the Confidential Information or any other breach of these
+confidentiality obligations by Licensee, and shall fully cooperate with Licensor
+to help Licensor regain possession of the Confidential Information and prevent
+the further prohibited use or disclosure of the Confidential Information.
+
+V. WARRANTY DISCLAIMERS
+
+5.1 As of the date hereof, Licensee acknowledges that it has had an opportunity
+to inspect, use and assess the Software and that, as of such date, the Software
+meets all of Licensee's requirements and expectations and operates without
+Errors.
+
+5.2 LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING
+WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. LICENSOR
+DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, OR THAT
+THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. THE ENTIRE
+RISK OF THE SOFTWARE'S QUALITY AND PERFORMANCE IS WITH LICENSEE.
+
+5.3 LICENSOR SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS
+AGREEMENT OR OTHERWISE FOR CONSEQUENTIAL, EXEMPLARY, SPECIAL, INCIDENTAL, OR
+PUNITIVE DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE LIABILITY OF LICENSOR TO LICENSEE FOR ANY REASON AND UPON ANY CAUSE OF
+ACTION SHALL BE LIMITED TO THE AMOUNT PAID TO LICENSOR BY LICENSEE UNDER THIS
+AGREEMENT. THIS LIMITATION APPLIES TO ALL CAUSES OF ACTION IN THE AGGREGATE,
+INCLUDING, WITHOUT LIMITATION, TO BREACH OF CONTRACT, BREACH OF WARRANTY,
+NEGLIGENCE, STRICT LIABILITY, MISREPRESENTATIONS, AND OTHER TORTS.
+
+VI. TERM, TERMINATION AND DEFAULT
+
+6.1 The License granted herein shall remain in effect from the Effective Date
+until May 1, 2004 (the "Termination Date"), unless earlier terminated as
+provided for herein.
+
+6.2 The following shall constitute "events of default" (and each, individually,
+an "event of default") hereunder: (1) any breach by Licensee of any provision of
+this Agreement; (2) failure of the Licensee to provide Licensor with a current
+version of the Software immediately following the release of any new version of,
+or the making of any upgrades, improvements or modifications to, the Software,
+as provided in Section 8.8 hereof; (3) any breach by Licensee of, or any
+occurrence of a default or event of default under, the $1,234,034.85 Promissory
+Note, dated September 10, 1999, made by Licensee and payable to the order of
+Licensor, as amended by the Modification Agreement, of even date herewith (as
+amended, modified, supplemented, extended, renewed or replaced through the date
+hereof, the "Note"), or any occurrence of a default or event of default or a
+failure to pay amounts due in connection with the Promissory Note, of even date
+herewith, made by Licensee and payable to the order of CareSouth Indemnity
+Services, LLC (as amended, modified, supplemented, extended, renewed or replaced
+through the date hereof, the
+
+4
+
+<PAGE>
+
+"Indemnity Note"); (4) any failure by Licensee to pay the License Fees when due,
+provided that such failure shall not constitute an event of default hereunder in
+the event that Licensee pays such amounts within 24 hours after notice of such
+failure given by Licensor to Licensee; and (5) Licensee's making an assignment
+for the benefit of its creditors, the filing of any voluntary or involuntary
+bankruptcy, Licensee's insolvency, or the appointment of a trustee or a receiver
+for Licensee or its property.
+
+6.3 Licensor may terminate this Agreement, the License, or both, immediately and
+without further obligation to Licensee upon the occurrence of an event of
+default. Termination shall not relieve Licensee of its obligation to pay all
+amounts due and payable to Licensor as of the date of termination, including,
+without limitation, all amounts accelerated pursuant to Section 6.5 hereof.
+
+6.4 Upon an event of default under this Agreement, termination of the License or
+termination of this Agreement, Licensee shall immediately cease using the
+Software and Documentation and shall promptly return all copies of the Software,
+Documentation, Specifications and all other Confidential Information in its
+possession or control. Licensee shall delete all copies of such materials
+residing in computer memory, and destroy all copies of such materials that
+incorporate Licensor's Confidential Information.
+
+6.5 In addition to any other remedies the Licensor may have, upon an event of
+default under this Agreement:
+
+(a) the aggregate of the License Fees due and payable to Licensor for
+the entire remainder of the term of this Agreement (together with any License
+Fees that may be past due hereunder) shall become immediately due and payable;
+
+(b) all other indebtedness and obligations of Licensee to Licensor or
+any subsidiary or affiliate of Licensor, now existing or hereafter arising,
+shall become immediately due and payable at the option of Licensor or such
+subsidiary or affiliate of Licensor, as applicable; and
+
+(c) within 90 days after the date Licensor gives notice to Licensee of
+the occurrence of an event of default hereunder, and provided that written
+demand has been made by Licensor, Licensee shall validly authorize, and
+immediately thereafter validly issue, in one or more tranches, to one or more
+third party institutional investors, for the benefit and account of the
+Licensor, that number of duly authorized, fully paid and nonassessable shares of
+the Series A Convertible Preferred Stock of the Licensee, par value $.001 per
+share (the "Series A Preferred Stock") that shall have a value, in the
+aggregate, equal to the total amount payable upon acceleration under paragraphs
+(a) and (b) of this Section 6.5, with cash amounts received by Licensee (net of
+selling expenses, underwriting discounts and related costs) from such investors
+to be paid to Licensor and applied by Licensor to the satisfaction of all
+obligations due to Licensor or its affiliates and subsidiaries from Licensee and
+its subsidiaries and affiliates. Such application shall be deemed satisfaction
+of such obligations to Licensor and its affiliates and subsidiaries only to the
+extent of such value received and so applied. If such amounts paid to Licensor
+by Licensee exceed the total obligations due from Licensee and its affiliates
+and subsidiaries to Licensor and its affiliates and subsidiaries, then Licensor
+shall return the excess to Licensee. To the extent that Licensee fails to issue
+Series A Preferred Stock as of the end of such 90 day period in accordance with
+the foregoing terms, or otherwise satisfy its obligations to
+
+5
+
+<PAGE>
+
+Licensor and its affiliates and subsidiaries, then, on the last day of such
+period, Licensee shall validly authorize, and immediately thereafter begin to
+validly issue, to Licensor or its designee, in one or more tranches, that number
+of duly authorized, fully paid and nonassessable shares of the Series A
+Preferred Stock that shall have a value, in the aggregate, equal to the total
+amount payable upon acceleration under paragraphs (a) and (b) of this Section
+6.5, and a per share value equal to the price per share of the Common Stock on
+the date that such Series A Preferred Stock is issued to Licensor, less 25% of
+such per share price, in accordance with the terms of the Certificate of
+Designations and the Registration Rights Agreement, each of which shall be in
+the form attached hereto as Exhibits B and C, respectively. Licensor agrees that
+within 90 days after such issuance, it shall give Licensee notice of its
+election to either (1) sell its shares of Series A Preferred Stock (or the
+shares of Common Stock into which such shares of Series A Preferred Stock are
+convertible) or (2) retain the shares of Series A Preferred Stock or the Common
+Stock into which such Series A Preferred Stock is convertible. Cash amounts
+received upon transfer or sale by the Licensor (net of selling expenses,
+underwriting discounts and related costs) of such Series A Preferred Stock (or
+the Common Stock into which it is convertible), or the value (on an as-converted
+to Common Stock basis) of any shares retained as provided in clause (2) above,
+shall be applied by the Licensor against amounts due hereunder. Such application
+shall be deemed satisfaction of such obligations to Licensor and its affiliates
+and subsidiaries only to the extent of such value received and so applied.
+Notwithstanding the length of any period specified herein, and regardless of the
+election made by Licensor hereunder, Licensee agrees to continue to issue, and
+Licensor retains its right to require such additional issuances of, Series A
+Preferred Stock, until such time as the aggregate amount of cash received by
+Licensor, or the value of such issued shares of Series A Preferred Stock, as
+applicable in clause (2) above, equals the value of all obligations due to
+Licensor and its affiliates and subsidiaries from Licensee and its affiliates
+and subsidiaries, all in accordance with the terms hereof (such terms to
+include, but not be limited to, the 25% discount with respect to per share
+pricing). If the value received by Licensor exceeds the total obligations due
+from Licensee and its affiliates and subsidiaries to Licensor and its affiliates
+and subsidiaries, then Licensor shall return the excess to Licensee within ten
+(10) days after Licensor receives notice of such overpayment from Licensee.
+Licensee further agrees that it (a) shall appropriately and timely file the
+Certificate of Designations with the Secretary of State of the State of
+Delaware, and shall file such certificates of amendment to same as Licensor
+deems necessary in the exercise of its reasonable discretion; (b) shall obtain
+all requisite approvals from its shareholders, including, without limitation,
+the holders of the Series A Preferred Stock; (c) shall at all times reserve and
+keep available out of its authorized shares of Common Stock (as defined in the
+certificate of incorporation of the Licensee), solely for the purpose of issue
+or delivery upon conversion of the Series A Preferred Stock, the maximum number
+of shares of Common Stock that may be issuable or deliverable upon such
+conversion, and shall issue such shares of Common Stock in accordance with the
+terms of its certificate of incorporation and the Registration Rights Agreement;
+and (d) obtain and provide to Licensor an opinion of counsel (who shall be
+satisfactory to Licensor) to the effect that the shares of Series A Preferred
+Stock shall be duly authorized and validly issued, fully paid and nonassessable.
+
+The rights and remedies of the Licensor contained in this Agreement are
+cumulative and not exclusive of any rights or remedies otherwise provided by
+law.
+
+6
+
+<PAGE>
+
+
+VII. TRANSFER OF LICENSE
+
+7.1 Notwithstanding anything to the contrary contained herein, as of the
+Termination Date or such earlier date as all of Licensee's indebtedness and
+obligations to Licensor and each affiliate or subsidiary of Licensor shall have
+been satisfied, provided that Licensee shall have paid to Licensor all License
+Fees due hereunder and that no event of default hereunder shall have occurred
+and be continuing, Licensee shall have the right to acquire from the Licensor,
+the Software and the Documentation from the Licensor by paying to the Licensor
+the amount of $1 on the Termination Date. Upon the transfer by the Licensor of
+the license pursuant to this Section VII, no upgrades, improvements,
+modifications or new versions of the Software or Documentation shall be subject
+to the provisions of Section 4.1 hereof, and Licensee shall thereafter possess
+all proprietary rights thereto. Licensee further agrees that any other licensees
+of the Software or the Documentation shall be entitled to all existing license
+rights in accordance with the terms of any license agreements or other documents
+governing such rights, and such other license agreements and other documents
+shall remain in effect for a period of 12 months after the transfer of the
+pursuant to this Section VII, provided that such license agreements contain the
+terms and conditions customarily employed by Licensor in similar agreements.
+Licensee shall be entitled to the fees otherwise payable to Licensor pursuant to
+such license agreements and other documents. Licensor hereby agrees that it
+shall not sell, transfer or assign the Software or the Documentation or its
+rights thereto, except as provided in this Section VII, and shall not grant a
+security interest or otherwise encumber the Software or Documentation in such a
+way as would inhibit or impair the right of Licensor to transfer such Software
+or Documentation to Licensee in accordance with the terms of this Section VII.
+
+VIII. MISCELLANEOUS
+8.1 If any section of this Agreement is held to be illegal or unenforceable, the
+validity or enforceability of the remainder of this Agreement shall not be
+affected.
+
+8.2 Licensee may not assign its rights or obligations under this Agreement
+without the prior written consent of Licensor, which consent shall not be
+unreasonably withheld by Licensor.
+
+8.3 Failure by either party to exercise any right or remedy under this Agreement
+does not signify acceptance of the event giving rise to such right or remedy.
+
+8.4 This Agreement will be governed by and construed in accordance with the laws
+of the State of Delaware.
+
+8.5 Any notice required or permitted to be given or delivered under this
+Agreement shall be sent by facsimile (provided that any such facsimile received
+before 5 PM Eastern Standard Time on a given day shall be deemed to be received
+on that business day, while if received after such time, such facsimile shall be
+deemed to be received on the next succeeding business day) or delivered to the
+address set forth in this Agreement, and addressed to the attention of:
+
+7
+
+<PAGE>
+
+If to Licensor:            CareSouth Home Health Services, Inc.
+Augusta Corporate Centre
+2743 Perimeter Parkway
+Building 200, Suite 200
+Augusta, Georgia  30909
+Attention: Rick W. Griffin
+Chief Executive Officer
+Fax: (888) 968-4907
+
+with a copy to:            Capitol Partners
+1000 Wilson Boulevard
+Suite 2700
+Arlington, Virginia  22209
+Attention: T.J. Jubeir
+Managing Partner
+Fax: (703) 248-9611
+
+If to Licensee:            Amedisys, Inc.
+11100 Mead Road
+Suite 300
+Baton Rouge, LA  70816
+Attention: William F. Borne
+Chairman of the Board and CEO
+Fax: (225) 292-8163
+
+with a copy to:            Amedisys, Inc.
+11100 Mead Road
+Suite 300
+Baton Rouge, Louisiana  70816
+Attention: John Joffrion
+Fax:     (___) ____-______
+
+Notice shall be deemed to have been received by any party, and shall be
+effective on the third day after which such notice is deposited, if mailed by
+certified, first-class, postage prepaid, return receipt requested mail.
+
+8.6 Sections 4, 5, and 8 shall survive the termination of this Agreement.
+
+8.7 This Agreement and its Schedules and Exhibits comprise the entire agreement
+between the parties regarding the subject matter hereof and supercedes and
+merges all prior proposals, understandings, and all other agreements, oral or
+written, between the parties relating to the Agreement.
+
+8.8 To induce Licensor to enter into this Agreement, Licensee agrees to provide
+Licensor with a complete copy of the current version of the Software as it
+exists on the Effective Date; Licensee also agrees, during the term of this
+Agreement, to provide Licensor with a current
+
+8
+
+<PAGE>
+
+version of the Software following the release of any new version of, or the
+making of any upgrades, improvements or modifications to, the Software, when and
+as the payment of License Fees is required hereunder.
+
+8.9 In the event that either party resorts to legal action to enforce the terms
+and provisions of this Agreement, the prevailing party shall be entitled to
+recover the actual and demonstrable costs of such action so incurred, including,
+without limitation, reasonable attorney's fees.
+
+[SIGNATURES ON FOLLOWING PAGE]
+
+
+
+
+
+
+
+9
+
+<PAGE>
+
+
+
+
+LICENSOR:                                   LICENSEE:
+
+CARESOUTH HOME HEALTH                       AMEDISYS, INC.
+SERVICES, INC.
+
+By:     /s/ RICK W. GRIFFIN                 By:    /s/ WILLIAM F. BORNE
+Name:   Rick W. Griffin                     Name:  William F. Borne
+Title:  CEO                                 Title: CEO
+Date:   effective 10/1/01                   Date:  10/8/01
+
+
+
+10
+
+
+
+

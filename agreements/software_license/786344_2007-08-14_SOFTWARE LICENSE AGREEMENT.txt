@@ -1,0 +1,779 @@
+
+
+
+
+
+
+
+Software License Agreement
+
+
+
+Exhibit 10.27
+GUIDEWIRE SOFTWARE, INC.
+SOFTWARE LICENSE AGREEMENT
+THIS SOFTWARE LICENSE AGREEMENT (the “Agreement”), is made effective on May 3, 2007
+(“Effective Date”) by and between Guidewire Software, Inc. (“Guidewire”), a Delaware corporation with its principal place of business located at 2121 El Camino Real, 3rd Floor, San Mateo, CA 94403 and MGA Insurance Company, Inc. (“Licensee”), a Texas corporation with its principal place of business located at 3333 Lee
+Parkway, Suite 1200, Dallas, Texas 75219.
+Accordingly, the parties agree as follows:
+AGREEMENT
+
+
+1.	Software, License and Ownership.
+
+a.
+Software. “Software” shall mean the software in object code form specified in Exhibit A to this Agreement or any subsequent order form executed by both parties pursuant to this Agreement that substantially contains the
+information set forth in Exhibit A (each an “Order Form”).
+b. License Grant. Subject to the terms of this Agreement,
+Guidewire hereby grants Licensee a, nonexclusive, nonsublicensable, nontransferable, license to use the Software, solely for Licensee’s internal use in the United States during the term set forth in the applicable Order From and subject to any
+additional terms set forth therein (which shall take precedence and control over any conflicting terms of this Section).
+c.
+Restrictions. Licensee shall not (and shall not allow any end user or third party to) (i) decompile, disassemble, or otherwise reverse engineer the Software or attempt to discover any source code or underlying ideas or algorithms of the
+Software, (ii) remove any product identification, copyright or other notices embedded within the Software, (iii) modify or create a derivative work of the Software (except as otherwise expressly authorized by Guidewire in writing),
+(iv) remove or export any Software from the United States in violation of applicable laws or regulations, (v) relicense, provide, lease or lend the Software to any third party, or use the Software for timesharing or service bureau
+purposes, (vi) copy the Software or any portion thereof except as provided herein, or (vii) disclose any performance information or analysis (including, without limitation, benchmarks) from any source relating to the Software.
+
+d. Ownership. As between the parties, Guidewire shall retain all rights, title and interest in and to the Software including all modifications,
+derivative works or improvements, and all related intellectual property rights. Customer shall retain all rights, title and interest in and to Customer’s claim, policy and other data.
+e. Embedded Software. Licensee acknowledges that third party software may be embedded or otherwise delivered with the Software. Licensee may only
+use such third party software as integrated with and part of the Software. The licensors of the third party software are intended beneficiaries of this Agreement, as it pertains to Licensee’s rights to use such software.
+f. Intellectual Property Rights. Guidewire represents and warrants to Licensee that it has the unencumbered right to grant the license granted herein and
+that there is no claim relating to the Software based on actual or alleged violation of the intellectual property rights of any other person pending or threatened against Guidewire.
+
+
+2.	Fees and Payment.
+
+a. Fees. Licensee shall
+pay Guidewire all license fees (“License Fees”), support and maintenance fees (“Support Fees”) and other fees as set forth in the applicable Order Form. Unless, otherwise set forth in the applicable Order Form, Licensee shall pay
+all invoices in full within thirty (30) days of the date of receipt of the invoice.
+b. Late Fees. Licensee will pay a late fee
+of one percent (1%) per month or the highest rate allowed under the law, whichever is lower, on any overdue amounts.
+
+
+
+
+
+
+
+c. Review. During the term of this Agreement and for one (1) year thereafter, Licensee grants
+Guidewire the right, at Guidewire expense and no more than once per year, after providing to Licensee not less than ten (10) days prior written notice, to examine Licensee’s records and other information relating to the Licensee’s use
+of the Software, provided that such examination is conducted in a manner that is not disruptive to Licensee’s business. If this examination reveals that Licensee has not paid any fees due, then License agrees to promptly pay such fees. If the
+underpaid fees exceed five percent (5%) of the fees actually paid for the applicable period, then Licensee shall also pay Guidewire’s reasonable costs of conducting the examination. Additionally, at Guidewire’s written request, not
+more frequently than annually, Licensee shall furnish Guidewire with a signed certificate verifying that Licensee is using the Software within the terms of this Agreement.
+3. Maintenance and Support. In consideration for Licensee’s payment of the Support Fees specified in the applicable Order Form, if any, Guidewire will provide support and maintenance services for the
+Software as specified in Exhibit B attached hereto (“Support Services”). Professional services relating to implementation of the Software are not provided as part of Support Services and will be governed (if at all) by a separate
+Consulting Services Agreement between the parties.
+4. Confidentiality.
+a. Confidential Information. The parties agree that (i) the Software, Documentation, pricing, discounts and other terms offered to Licensee,
+including, without limitation, the material terms of this Agreement, any functional limitations of, or errors in, the Software, are the confidential property of Guidewire, and (ii) any other confidential business, technical, financial or other
+information disclosed by one party to the other pursuant to this Agreement is the confidential information of the disclosing party (collectively, “Confidential Information”). Except as expressly allowed in Section 4(b) or elsewhere
+herein, each party shall hold in confidence and shall not use or disclose to any third party any Confidential Information of the other party. The restrictions of this Section shall apply for the greater of (i) the term of this Agreement and for
+two years thereafter, (ii) the time period dictated by any applicable law, statute or regulation, or (iii) for any Confidential Information that constitutes a trade secret, as long as such Confidential Information remains a trade secret
+under applicable law.
+b. Permitted Disclosure. A party shall not be obligated under Section 4(a) with respect to information
+that it can document: (i) is or has become readily publicly available without restriction through no fault of such party or its personnel, (ii) is received, without restriction, from a third party lawfully in possession of such information
+and lawfully empowered to disclose such information, (iii) was rightfully in such party’s possession without restriction prior to its disclosure by the other party, (iv) independently developed without use of the Confidential
+Information, or (v) or as otherwise required by law or regulation.
+5. Warranty; Disclaimer. Guidewire warrants that for a period of nine
+months from Licensee’s first acquisition of Software that such Software will materially conform to Guidewire’s user documentation delivered to Customer under this Agreement (“Documentation”). This warranty only covers
+reproducible errors reported to Guidewire in writing during the warranty period. Licensee’s exclusive remedy for breach of this warranty shall be prompt correction or replacement of the Software affected or, if Guidewire is unable to do so,
+then to cancel the license for the defective Software and receive a refund of the License Fees paid for the defective Software. GUIDEWIRE DOES NOT WARRANT THAT THE SOFTWARE IS ERROR FREE. EXCEPT AS SET FORTH ABOVE, GUIDEWIRE DISCLAIMS ALL WARRANTIES
+RELATING TO THE SOFTWARE, SUPPORT SERVICES OR OTHERWISE REGARDING THIS AGREEMENT, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+6. Limitation of Liabilities. EXCEPT FOR A BREACH OF SECTIONS 1 OR 4, IN NO EVENT SHALL EITHER PARTY BE LIABLE WITH RESPECT TO ANY SUBJECT MATTER OF THIS
+AGREEMENT, UNDER ANY LEGAL OR EQUITABLE THEORY, FOR ANY CONSEQUENTIAL, EXEMPLARY, PUNITIVE, INCIDENTAL, INDIRECT, OR SPECIAL DAMAGES, OR FOR ANY LOSS OF PROFITS OR LOSS OF GOODWILL OR LOST DATA, WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES OR COSTS. NOTWITHSTANDING ANYTHING TO THE CONTRARY AND WITH THE EXCEPTION OF GUIDEWIRE’S EXPRESS INDEMNITY OBLIGATIONS UNDER THIS AGREEMENT, GUIDEWIRE’S AGGREGATE LIABILITY TO LICENSEE UNDER THIS AGREEMENT AND
+RELATING TO (A) DEFECTIVE SUPPORT SERVICES, SHALL NOT EXCEED THE FEES PAID BY LICENSEE DURING THE THEN-CURRENT ANNUAL SUPPORT SERVICES TERM; OR (B) THE SOFTWARE OR OTHERWISE RELATING TO THIS AGREEMENT, SHALL NOT EXCEED THE AMOUNT OF
+LICENSE FEES PAID TO GUIDEWIRE WITH RESPECT TO THE SOFTWARE GIVING RISE TO THE CLAIM.
+
+
+2
+
+
+
+
+
+
+
+
+
+7.	Term and Termination.
+
+a. Term. This
+Agreement shall commence on the Effective Date and shall remain in full force and effect until terminated as set forth below. Each Order Form will have its own term as specified therein.
+b. Termination. This Agreement may be terminated as follows: (i) by Guidewire, immediately, for any violation by Licensee of the scope of the
+license rights granted herein; (ii) by either party upon thirty (30) days written notice if the other party shall be in breach or default of any material provision of this Agreement, unless such breach is cured before the end of such
+thirty (30) day period, or (iii) automatically if at the end of the Initial Term or a Renewal Term (as defined in Exhibit A) this Agreement is not renewed as set forth in the applicable Order Form.
+c. Effect of Termination. Upon any termination hereof, (i) all rights and licenses granted to Licensee shall immediately terminate and
+Licensee shall immediately cease use of and return or destroy all copies of the Software, and (ii) any rights to payment, any right of action for breach of the Agreement prior to termination, and the following provisions shall survive: Sections
+1(c), 1(d), 2, 4, 5, 6, 7(c), 8 and 9.
+
+
+8.	Indemnification.
+
+a. Guidewire shall defend or
+settle at its expense any claim or suit (an “Action”) against Licensee, arising out of or in connection with an assertion that the Software or the use thereof as specifically authorized by Guidewire, infringes any U.S. patent in
+existence as of the Effective Date, U.S. copyright or trademark rights or misappropriates a trade secret of any third party; provided that Guidewire shall have no obligation under this Section to the extent any claim of infringement or
+misappropriation results solely from (i) use of the Software in combination with any other hardware or software supplied by any third person or entity other than Guidewire Dependant Products covered in Exhibit B, Section 7.; (ii) any
+alteration or modification of the Software not provided or authorized by Guidewire; or (iii) use of the Software in a way not intended by Guidewire or not provided for or described in the applicable Documentation, if such infringement would not
+have occurred but for such combination, alteration, modification or unintended or unauthorized use of the Software (collectively the “Indemnification Exceptions”).
+b. Licensee shall defend or settle at its expense any Action against Guidewire, and each of its directors, officers, agents, employees and sublicensees
+to the fullest extent permitted by law, arising out of or in connection with or related to any of the foregoing Indemnification Exceptions.
+c. As an express condition to the foregoing indemnity obligations, the party seeking indemnity shall (i) promptly notify the indemnifying party in writing of any such actual or threatened loss, suit, claim, liability, expense or
+proceeding, (ii) allow the indemnifying party, at its own expense, to direct the defense of such suit, claim or proceeding, (iii) give the indemnifying party all information and assistance reasonably necessary to defend such suit, claim or
+proceeding, and (iv) not enter into any settlement of any such suit, claim or proceeding without the indemnifying party’s written consent, which shall not be unreasonably withheld or delayed.
+d. Should Software become, or in Guidewire’s opinion be likely to become, the subject of a claim for which Guidewire is required to indemnify
+pursuant to this Section, Guidewire may, at its discretion, (i) obtain for Licensee, at no additional cost to Licensee, the right to continue using the Software under this Agreement; (ii) modify or replace the Software or part of the
+Software in a manner so that such modified or replacement software provides the same or better functionality as the Software, at no additional cost to Licensee, to avoid such claim, or (iii) if Guidewire determines that neither (i) or
+(ii) is commercially feasible, terminate the license to the applicable Software and refund the License Fees paid for the Software, prorated over a five (5) year term from the Effective Date. THIS SECTION 8 STATES GUIDEWIRE’S
+ENTIRE LIABILITY AND LICENSEE’S EXCLUSIVE REMEDY FOR ANY CLAIMED, POTENTIAL OR ACTUAL INFRINGEMENT.
+
+
+3
+
+
+
+
+
+
+
+
+
+9.	General Provisions.
+
+a. Governing Law. This
+Agreement shall be governed by and construed under the laws of the State of California, without regard to its conflicts of law provisions. In any action to enforce this Agreement, the prevailing party will be entitled to costs and attorneys’
+fees from the non-prevailing party. Unless waived by Guidewire in a particular instance, the parties hereby submit to the exclusive personal jurisdiction of, and agree that any legal proceeding with respect to or arising under this Agreement shall
+be brought in, the United States District Court for the Northern District of California or the state courts of the State of California.
+b.
+Assignment. Neither this Agreement nor any rights, licenses or obligations hereunder, may be assigned by Licensee, by operation of law or otherwise, without the prior written consent of Guidewire, provided that Licensee’s parent
+corporation and any corporate affiliates controlled by such parent shall have the right to use the Software in the United States, subject to all of the provisions of this Agreement; and provided further, that such approval shall not be unreasonably
+withheld. It shall be deemed unreasonable for Guidewire to withhold consent where a requested assignment does not increase the use of the Software (e.g., a transaction which does not result in combining Licensee’s insurance operations with
+additional insurance operations). Licensee shall be responsible for any breach of this agreement by such parties. Guidewire may assign this Agreement in whole or in part. Any attempted assignment in violation of this Agreement shall be void and
+without effect. Subject to the foregoing, this Agreement will benefit and bind the parties’ successors and assigns.
+c. Escrow.
+Upon Licensee’s written request, Guidewire shall place the source code for the Software into escrow with EscrowTech International, Inc. for the benefit of Licensee, subject to Licensee’s execution of (and the terms and conditions of)
+Guidewire’s standard form of Software Escrow Agreement with EscrowTech and subject to Licensee’s payment of all applicable escrow fees.
+d. Intentionally left blank.
+e. Relationship of the Parties. The parties hereto expressly understand and agree that
+each party is an independent contractor in the performance of each and every part of this Agreement, is solely responsible for all of its employees and agents and its labor costs and expenses arising in connection therewith. Neither party nor its
+agents or employees are the representatives of the other party for any purpose and neither party has the power or authority as agent, employee or any other capacity to represent, act for, bind or otherwise create or assume any obligation on behalf
+of the other party for any purpose whatsoever.
+f. Entire Agreement. This Agreement, including the exhibits hereto, contains the
+entire understanding of the parties with respect to the matters contained herein and supersedes all prior agreements or discussions between the parties with respect to the matters contained herein.
+g. Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect any other provision of this Agreement, and
+the remaining provisions shall continue with the same effect as if such unenforceable or invalid provision had not been included in this Agreement.
+h. Modification and Waiver. Except as otherwise expressly provided herein, any provision of this Agreement may be amended and the observance of any provision of this Agreement may be waived (either generally or any particular
+instance and either retroactively or prospectively) only with the written consent of the party against whom such modification or waiver will be enforced. No terms contained in a Licensee purchase order or similar document will be binding on
+Guidewire unless both parties execute the same as an addendum to this Agreement.
+i. Force Majeure. Neither party shall be liable to
+the other for any delay or failure to perform any obligation under this Agreement if the delay or failure is due to unforeseen events, which occur after the signing of this Agreement and which are beyond the reasonable control of the parties
+including but not limited to strikes, blockade, war, revolutions or riots, natural disasters, refusal of license by the government or other governmental agencies or other stipulations or restrictions by the authorities, insofar as such an event
+prevents or delays the affected party from fulfilling its obligations and such party is not able to prevent or remove the force majeure at reasonable costs.
+j. Counterparts. This Agreement may be executed in two counterparts, each of which shall be an original, and which together shall constitute one and the same instrument.
+
+
+4
+
+
+
+
+
+
+
+
+k. Notices. Any notice required or permitted to be given by either party under this Agreement shall be in writing
+and shall be personally delivered or sent by nationally recognized overnight commercial courier service (e.g., FedEx) to the other party at its address set forth herein, or such new address as may from time to time be supplied hereunder by the
+parties.
+10. Marketing
+a. Use of Logos.
+Licensee grants Guidewire a limited, non-exclusive right to place Licensee’s trademarks and logos on Guidewire’s web site and marketing materials solely for the purpose of identifying Licensee as a customer of the Software.
+b. Press releases. Licensee grants Guidewire the right to issue at least two press releases regarding the parties’ relationship: the first when Licensee is
+signed as a customer, and the second when Licensee is operational on the Software. Licensee and Guidewire must mutually agree upon the language in the press release. Both press releases shall have quotes from the CIO/VP of IT and SVP/VP of Claims of
+Licensee.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+
+
+
+Licensee:	 	MGA Insurance Company, Inc.	 		 		 	Guidewire Software, Inc.
+
+Signature:	 	/s/ Glenn W. Anderson	 	Signature:	 		 	/s/ James M. Delvey
+
+Print Name:	 	Glenn W. Anderson	 	Print Name:	 		 	James M. Delvey
+
+Title:	 	President and Chief Executive Officer	 	Title:	 		 	CFO
+
+Date:	 	May 3, 2007	 	Date:	 		 	May 3, 2007
+
+
+
+5
+
+
+
+
+
+
+
+
+EXHIBIT A
+SOFTWARE; LICENSE FEES; SUPPORT FEES AND ADDITIONAL TERMS
+(Initial Order Form)
+Software: Guidewire ClaimCenter is a web-based end-to-end claims management system. The modules are set forth in the Documentation and, at a high level include
+the following:
+
+
+•	 	 Claim Entry and Setup – provides a comprehensive set of capabilities for reporting and triaging losses. A wizard-based direct loss reporting module
+allows claim handlers, call center operators, and potentially agents to enter loss information directly into ClaimCenter. Loss triage and setup module allows claim handlers to import loss notifications received via multiple channels (external call
+center systems, call center outsourcers, faxed ACORD forms, etc.) and set them up properly in ClaimCenter.
+
+
+
+
+•	 	 Segmentation and Assignment – provides for the segmentation and assignment of new claims and exposures. Using the newly entered loss information and the
+user profiles of available adjusters as inputs, ClaimCenter determines (or prompts the user to decide upon) the appropriate claim handling strategy and adjuster.
+
+
+
+
+•	 	 Claim Guidance – provides end-to-end management of all of the activities involved in the claim process. Generates a list of appropriate tasks and
+assigns to various parties, primarily the adjuster owning the claim or the line. Tracks all activities to ensure that they are completed successfully. Monitors the workplan and other files in the claim record to determine when additional tasks are
+necessary, and automatically creates these tasks and assigns them to the appropriate internal or external user based on task attributes and user profiles.
+
+
+
+
+•	 	 Exception Based Notification and Management – provides automated escalation of overdue activities. Flagging of claims based on any criteria. Automated
+exception handling.
+
+
+
+
+•	 	 Claim Desktop – provides a unified view of all of each user’s work across claims. Includes activity queues, unified activity calendar, configurable
+search, and ad hoc reporting with data export.
+
+
+
+
+•	 	 Claim Dashboard – provides real-time views of team workload. Allows drill down through organization to individual level. Claim and exposure aging. Key
+metrics for open and closed claims. Financial performance for open and closed claims.
+
+
+
+
+•	 	 Claim File – provides the main repository that contains or provides pointers to all information about a claim, including basic fields for the claim and
+each exposure (suffix) within the claim, claim notes, pointers to documents (including faxes, correspondence, etc.) stored in a separate imaging system or in another application, people involved (claimant, policyholder, witness, etc.), with links to
+address book entries, vendors (with links to address book entries), imported policy information, tools to help evaluate a claim and manage negotiations, litigation management, association of claims to other related claims, and other features
+described elsewhere (e.g. ClaimFinancials).
+
+
+
+
+•	 	 ClaimFinancials – allows the execution of all standard claim transactions. Reserves are set, adjusted, and managed. Payments are created, managed, and
+pass to downstream systems. Recoveries from salvage, subrogation, or unclaimed property are accepted, tracked, and optionally reserved.
+
+
+
+
+•	 	 ContactCenter – provides a centralized address book for shared contact and vendor information. Includes the ability to link contacts on claims to the
+central address book and to synchronize contacts between the central address book and the claim file.
+
+
+
+
+•	 	 Rules Engine – externalization of most business logic in ClaimCenter, including segmentation, validation, exception, assignment, approval, and other
+functions. Accessed through an installed rule composer, Guidewire Studio, with functionality for composing, versioning, testing/debugging, and searching rules.
+
+
+
+
+•	 	 Other features – various other features, as specified by the documentation, are part of the product. Some examples include a spell checking interface, a
+productized ISO integration, configurable search and filters, and various administration functions (e.g. add new users and groups).
+
+
+
+
+•	 	 Guidewire Platform – rich set of tools and capabilities that allow for configuration, integration, bulk import of converted data, server clustering, and
+much more.
+
+
+
+
+•	 	 Any proprietary tools and software used in conjunction with the Licensed Software, including, but not limited to, Guidewire Studio.
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+1.	License and Support Fees; Exhibit Term:
+
+Licensee shall pay the
+following License Fees for an initial term of five years from the Effective Date of this Agreement (the “Initial Term”):
+
+
+
+Initial Term License Fee Schedule
+
+
+Annual Term
+Support Services	  	Annual License Fees
+Year 1
+Included	  	$	318,815
+Year 2
+Included	  	$	318,815
+Year 3
+Included	  	$	318,815
+Year 4
+Included	  	$	318,815
+Year 5
+Included	  	$	318,815
+
+This Exhibit shall commence on the Effective Date of the Agreement and shall remain in full force and effect for
+Initial Term set forth above. This Exhibit shall automatically renew at the end of the Initial Term (and thereafter) for additional periods of twelve (12) months (each a “Renewal Term”) at Guidewire’s then-current fees (provided
+that Guidewire provides notice of any increase in fees to be applicable during the next Renewal Term at least ninety (90) days prior to the end of the then-current term), unless terminated by either party by written notice no less than thirty
+(30) days prior to the end of the then-current term. Solely for the purposes of this Exhibit, the Initial Term and any Renewal Term(s) are referred to as the “Exhibit Term”.
+The annual License Fee for Year 1 is due on the Effective Date of the Agreement. The annual License Fees for the balance of the Exhibit Term are payable on each
+applicable anniversary of the Effective Date.
+Support Fees are included in the annual License Fees during the Exhibit Term. The annual License Fees are
+subject to adjustments pursuant to the “Growth Rates” Sections of this Exhibit.
+The License Fees in this Exhibit are based on Licensee’s
+direct written premiums (“DWP”) in a calendar year of $200 Million. The level of DWP which will be the basis of calculating incremental License Fees (if any are required pursuant to the terms hereof) is subject to adjustment from time to
+time as set forth in this Exhibit A based on the amount of incremental License Fees paid. Such amount as it may be adjusted from time to time is referred to herein as the “DWP Baseline.” Once the annual level of DWP has reached
+$800,000,000 and Licensee has paid the appropriate fee associated with that level, then no subsequent incremental License Fees shall be imposed for any reason.
+If Licensee’s DWP increases less than twenty-five percent (25%) of the then-applicable DWP Baseline, then Licensee will maintain the current License Fees and no incremental license fees will be incurred pursuant to any of the
+provisions of this Exhibit. For the purposes hereof, the term “Buffer” means the amount which is 125% of the then-applicable DWP Baseline.
+
+
+2.	Incremental License Fees During the Initial Term.
+
+During the
+Initial Term, incremental License Fees are only payable based on DWP growth resulting from Licensee acquiring, purchasing, or merging with any other company or entity or acquisition of assets (“Non-Organic Growth”). However, incremental
+License Fees may be accrued during the Initial Term because of growth not attributable to Non-Organic Growth (“Organic Growth”) and may become payable immediately following the end of the Initial Term. Specifically, at the beginning of the
+first Renewal Term, if any, or upon the exercise by Licensee of the Perpetual Buyout Option as described in Section 4 hereof, Licensee shall pay, in addition to any other amount then due, the amount of any accrued but unpaid incremental License
+Fees that would have resulted during the Initial Term as a result of Licensee’s Organic Growth. The additional License Fee will be calculated using the table that appears in Section 5 hereof.
+
+
+7
+
+
+
+
+
+
+
+
+If during the Initial Term Licensee’s DWP exceeds the Buffer as a result of Non-Organic Growth (after netting out
+any change in DWP that results from Organic Growth), then (i) Licensee will pay an annual, additional License Fee at the end of the year following Licensee’s initial use of the Licensed Software in conjunction with such added DWP resulting
+from Non-Organic Growth and each succeeding year in the Initial Term and any Renewal Term(s), and (ii) for all future calculations of incremental License Fees, the amount of the DWP Baseline shall be adjusted by the amount of DWP for which
+Licensee has paid incremental License Fees. Licensee agrees to report any use of the Software in conjunction with such incremental DWP resulting from Non-Organic Growth to Guidewire within thirty (30) days from initial use. The additional
+License Fee will be calculated using the table that appears in Section 5 hereof.
+3. Incremental License Fees During any Renewal Term.
+
+During any Renewal Term, if Licensee’s DWP surpasses the Buffer for any reason (e.g., Non-Organic Growth or Organic Growth), then
+(i) Licensee will pay an additional, annual, incremental License Fee at the end of such term and any succeeding Renewal Term following Licensee’s initial use of the Licensed Software in conjunction with such added DWP, and (ii) for
+all future calculations of incremental License Fees, the amount of the DWP Baseline shall be adjusted by the amount of DWP for which Licensee has paid incremental License Fees. Licensee agrees to report any use of the Software in conjunction with
+such incremental DWP to Guidewire within thirty (30) days from initial use. The incremental license fee shall apply to all DWP increases once Licensee exceeds the Buffer. The incremental license fee will be calculated using the table that
+appears in Section 5 hereof.
+4. Perpetual Buyout Option. At the end of the Initial Term or at the end of any Renewal Term (provided that
+Licensee has paid all applicable fees during the Initial Term and any applicable Renewal Term), Licensee will have an option to make the license term perpetual by paying the amounts described in this Section 4 (the “Perpetual Buyout
+Option”). Licensee may exercise its Perpetual Buyout Option at the end of the Initial Term or any Renewal Term by paying the following fees:
+
+
+a.	One-time, lump sum License Fee equal to 300% of the annual fee during the last year of the term license (i.e., Year 5 of the Initial Term or the last Renewal Term) to be paid upon
+exercise of the Perpetual Buyout Option, and no subsequent annual License Fees shall ever be payable.
+
+
+
+b.	Support Services not include included in the perpetual License Fee. Licensee may purchase Support Services for the initial, annual Support Fee in an amount equal 50% the annual fee
+during the last year of the term license (i.e., Year 5 of the Initial Term or the last Renewal Term).
+
+
+
+c.	If, after Licensee exercises the Perpetual Buyout Option (the “Perpetual Term”), Licensee’s DWP surpasses the Buffer for any reason (e.g. Non-Organic Growth or
+Organic Growth), then Licensee will pay a one-time incremental License Fee following Licensee’s initial use the Licensed Software in conjunction with such added DWP. Licensee agrees to report any use of the Software in conjunction with such
+incremental DWP to Guidewire within thirty (30) days from initial use. The incremental license fee will be calculated using the table that appears in Section 5 hereof.
+
+
+
+d.	If Licensee is obligated to pay an incremental License Fee as set forth above and purchases Support Services, then Licensee shall also pay incremental Support Fees equal to 20% of
+such incremental License Fees. Licensee shall pay those Support Fees contemporaneously with such incremental license fee. Guidewire will prorate the incremental Support Fees for the then-current Support Services annual term.
+
+
+
+
+e.	Notwithstanding any other term of the Agreement or this Exhibit, if Guidewire consents to the assignment of this Agreement pursuant to Section 9.b. of the Agreement, then
+Guidewire may condition such consent on the Software license being restricted to use in conjunction with the amount of Licensee’s DWP immediately prior to such assignment
+
+
+
+8
+
+
+
+
+
+
+
+
+5. Calculations of Incremental License Fees. For any calculation of any incremental license fee required pursuant
+to the provisions of Sections 2, 3 or 4 hereof, such fees shall be calculated as follows:
+
+
+
+
+Total DWP greater than the then-applicable DWP Baseline	  	Incremental license fee is equal to:
+
+1st Band
+but less than $300,000,000:	  	amount of DWP above the then-applicable DWP Baseline multiplied by $0.00135
+
+2nd Band
+and greater than or equal to $300,000,000 but less than $400,000,000:	  	amount of DWP above the greater of $300,000,000 or then-applicable DWP Baseline multiplied by $0.00111
+
+3rd Band
+and greater than or equal to $400,000,000 but less than $800,000,000:	  	amount of DWP above the greater of $400,000,000 or then-applicable DWP Baseline multiplied by $0.00087.
+
+4th Band
+and greater than $800,000,000:	  	no additional incremental fee is due
+
+In making the calculations pursuant to the above table, if the applicable DWP is in a higher numbered band than
+the band of the then-applicable DWP Baseline, then the incremental license fee will be the sum of the amounts determined with respect to each applicable lower-numbered band and the band of the DWP.
+
+
+9
+
+
+
+
+
+
+
+
+EXHIBIT B
+MAINTENANCE AND TECHNICAL SUPPORT SERVICES
+
+
+1.	SUPPORT SERVICES. Support Services consist of (a) E-Mail Support and Telephone Support provided to designated Licensee technical support contact(s) concerning the installation,
+use, and resolution of Issues relating to Supported Releases of the Software, and (b) the provision of any Updates at no additional cost to Licensee. Licensee may designate up to four (4) Licensee technical support contacts to request
+Support Services. All Licensee support contacts must be trained in the use of Software. Guidewire provides E-Mail Support and Telephone Support Monday through Friday during the following hours: 9:00 am to 8:00 pm EST (Eastern Standard Time),
+excluding holidays. In addition, Guidewire provides support 24 hours per day, 7 days per week, for Severity Level 1 issues only.
+
+
+
+2.	DEFINITIONS.
+
+
+
+2.1.	“Dependent Products” means the third party operating systems, databases or other third party software products with which Software was intended to inter-operate as set
+forth in the Documentation.
+
+
+
+2.2.	“Certified Dependant Products” or “Certify” means Dependant Products that Guidewire has designated for use with Supported Versions of the Software.
+
+
+
+
+2.3.	“E-Mail Support” means electronically generated Support Services provided in response to electronically transmitted inquiries by Licensee.
+
+
+
+2.4.	“Issue” means an error, question, or other issue related to Supported Releases of the Software for which Licensee needs Support Services assistance. Guidewire provides
+Support Services for Issues that are reproducible a Support Release, running unaltered, and on an appropriate hardware, database and operating system configurations, as specified in the Documentation.
+
+
+
+2.5.	“Major and Minor Releases.” Guidewire releases the Software with release numbers in the form x.y.z (e.g., 2.1.5). A “Major Release” is defined as all
+releases with the same first digit in the release number; for example, 2.0.0, 2.0.1 and 2.1.0 are all part of the same Major Release. A “Minor Release” is defined as all releases with the same first and second digits in the release
+number; for example, 2.1.0, 2.1.1, and 2.1.2 are all part of the same Minor Release. A “Maintenance Release” is defined as an individual release with a unique combination of three digits in the release number; for example, 2.1.5 is a
+Maintenance Release.
+
+
+
+2.6.	“Supported Release” means a Major, Minor or Maintenance Release for which Guidewire provides Support Services as set forth in this Section. Guidewire will support all
+releases within a given Major Release for twelve months after general availability of the first subsequent Major Release. For example, Guidewire will support all 2.x.y releases for twelve months after 3.0.0 is generally
+available. Guidewire will also support the last Maintenance Releases within a Major Release until the second subsequent Major Release is generally available. Continuing the previous example, if 2.1.5 is the last Maintenance Release within
+the 2.x.y Major Release, then Guidewire will support 2.1.5 until 4.0.0 is generally available.
+
+
+
+2.7.	“Telephone Support” means Support Services telephone assistance provided by Guidewire to the Licensee technical support contact concerning the installation and use of the
+Software.
+
+
+
+2.8.	“Update(s)” means revisions to the Software that correct defects, errors or bugs or incorporate minor enhancements to the functionality that Guidewire in its discretion
+makes generally available to its customers who subscribe to Support Services in the form of Major Releases, Minor Releases and Maintenance Releases. Guidewire will notify Licensee of all Updates available for the Software licensed by Licensee.
+Guidewire will make such Updates and corresponding Documentation available to Licensee at no additional cost.
+
+
+
+3.	SUPPORT SERVICES REQUESTS. Licensee shall use the methods described in Section 1 above to engage Guidewire Support Services. Guidewire will use commercially reasonable efforts
+to resolve Issues. Guidewire may use any reasonable resolution method available (e.g. fixes, workarounds, etc.) to resolve an Issue. Guidewire will classify and respond to reported Issues according to the Severity Levels and response periods set
+forth in Schedule A to this Exhibit. Guidewire does not guarantee resolution to Issues within the response period, only response to initial calls. Failure to contact a Licensee within the response time period because the Licensee is unavailable
+(e.g. phone busy, no answer, in a meeting, or out of the office) does not constitute Guidewire’s noncompliance with the response commitment.
+
+
+
+4.	 NON-GUIDEWIRE ISSUES. If Guidewire reasonably believes that a problem reported by Licensee may not be due to an Issue related to the Software, Guidewire will notify
+Licensee. At that time, Licensee may (1) instruct Guidewire to proceed
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+with Issue determination at Licensee’s possible expense as set forth below, or (2) instruct Guidewire that Licensee does not wish the Issue
+pursued. If Licensee requests that Guidewire proceed with Issue determination at Licensee’s possible expense and Guidewire reasonably determines that the issue was not due to an Issue in the Software, Licensee shall pay Guidewire’s
+then-current and standard consulting rates for all work performed in connection with such determination, plus reasonable and necessary related expenses incurred therewith. Licensee shall not be liable for (i) Issue determination or repair to
+the extent problems are due to an Issue in the Software, (ii) work performed under this paragraph in excess of Licensee’s instructions, or (iii) work performed after Licensee has notified Guidewire that it no longer wishes work on the
+Issue determination to be continued at its possible expense (such notice shall be deemed given when actually received by Guidewire).
+
+
+
+
+5.	WHAT IS NOT INCLUDED UNDER SUPPORT SERVICES.
+
+
+
+5.1.	Training. Support Services do not cover in-depth training. If training in the use of the Software will take more than thirty minutes of a support engineer’s time,
+Guidewire will refer Licensee to implementation services. Guidewire provides implementation services are on a time and materials basis at Licensee’s request.
+
+
+
+5.2.	Assistance in the configuration of the Software. Support Services do not include assistance in developing Licensee’s specific configuration requirements. Depending upon
+the nature and complexity of the consulting request, Guidewire will refer Licensee to Guidewire implementation services.
+
+
+
+5.3.	Information and assistance on technical issues related to the installation, administration, and use of enabling technologies such as databases, computer networks, and
+communications. Guidewire does not provide these services.
+
+
+
+5.4.	Assistance with the installation and configuration of hardware including, but not limited to computers, hard disks, networks, and printers. Guidewire does not provide these
+services.
+
+
+
+5.5.	Support Services for Non-Supported Releases. Guidewire only provides Support Services for Supported Releases. Licensee may request Support Services for a non-supported
+release on a time and materials basis.
+
+
+
+5.6.	Modified versions of the Software. Unless previously approved by Guidewire in writing, Guidewire shall have no obligation to support: (i) any portion of the Software
+that has been modified; or (ii) Issues caused by use of Software other than as specified or contemplated in the Documentation.
+
+
+
+6.	REPRODUCING ERRORS. In order to resolve an Issue, Guidewire must be able to reproduce the Issue. Both parties will use reasonable efforts to reproduce the Issue. Guidewire provides
+Support Services on a remote basis only. Guidewire will, in Guidewire’s own test facilities and using Guidewire’s own test data, use commercially reasonable efforts to reproduce and diagnose Issues that arise from Licensee’s operation
+of Supported Releases. Guidewire recommends that licensee provide Guidewire with dial-up remote access in such instance if possible. Licensee may request on-site Support Services on a time and materials basis.
+
+
+
+7.	CERTIFIED AND SUPPORTED CONFIGURATIONS.
+
+
+
+7.1.	Guidewire shall not be obligated to provide Support Services for an Issue that arises from the use of the Software in conjunction with any third party software product that
+inter-operates with the Software, unless such third party product is a Dependent Product.
+
+
+
+7.2.	For each Major Release and Minor Release of the Software, Guidewire shall Certify at least one version of each of the Dependent Product(s). Such version of each Dependent Product
+will be generally available for not less than six months and not more than twenty-four months prior to such Major Release or Minor Release of the Software.
+
+
+
+7.3.	If a Certified version of a Dependent Product ceases to be maintained or supported by the Dependent Product Developer, such version will remain Certified and supported by Guidewire
+until sixty days after Guidewire Certifies a subsequent version of such Dependent Product or a substitute Dependant Product.
+
+
+
+8.	SUPPORTED RELEASES.
+
+Guidewire will provide Support Services for specific
+Releases of the Software as follows:
+
+
+8.1.	Guidewire will support each Major Release for thirty-six months from the initial date of general availability. During this thirty-six month period, Guidewire will support at least
+one Minor Release or Maintenance Release; not all releases will necessarily be supported for the entire thirty-six month period.
+
+
+
+11
+
+
+
+
+
+
+
+
+
+8.2.	Guidewire will provide Licensee twelve months notification of its intent to decertify a Major Release of the Licensed Software.
+
+
+
+8.3.	In the event that Licensee encounters an Issue which has been fixed in a newer Maintenance Release of the same Major Release, Licensee agrees to upgrade to the newer Maintenance
+Release in lieu of receiving a patch to fix the Issue.
+
+
+
+12
+
+
+
+
+
+
+
+
+APPENDIX A TO EXHIBIT B OF THE GUIDEWIRE SOFTWARE LICENSE AGREEMENT
+Severity Level Standards – Gold Support
+
+
+
+Severity	  	 Response
+Time
+Action Plan
+Delivery
+Support Mode
+Resolution Target Time
+
+
+1	  	2 hours	  	 Preliminary: 8 hours
+
+Detailed:
+24 hours
+Continuous, dedicated until restored. Thereafter, Guidewire will work during standard operating hours until resolved.	  	As quickly as possible, with updates every 4 hours.
+
+2	  	Next business day	  	 Detailed:
+Next business day
+Non-continuous, Dedicated until restored. Thereafter, vendor will work during standard operating hours until resolved.	  	As quickly as possible, with daily updates.
+
+3	  	Next business day	  	N/A	  	Non-dedicated, non-continuous.	  	Corrected with a normal minor or major product release.
+
+4	  	2 Business days	  	N/A	  	Non-dedicated, non-continuous.	  	None, unless escalated.
+
+Definitions:
+
+Severity Levels:
+
+•	 	 Severity 1 – The Software is unusable, resulting in a critical impact on the operation. No workaround is available. Severity 1 Issues are limited to
+production critical events. Most Issues encountered during the development or implementation phase of a project will be classified as Severity 3 or Severity 4. At times it may be appropriate to escalate a development problem to Severity 2.
+
+
+
+
+
+•	 	 Severity 2 – The Software will operate but its operation is severely restricted. No workaround is available to remedy restrictions.
+
+
+
+
+
+•	 	 Severity 3 – The Software will operate with limitations that are not critical to the overall operation. For example a workaround forces a user and/or a
+systems operator to use a time consuming procedure to operate the system; or removes a non-essential feature.
+
+
+
+
+•	 	 Severity 4 – Licensee can use the Software and all functionality with only slight inconvenience.
+
+
+Action Plan:
+
+•	 	 Preliminary – A preliminary action plan consists of a succinct list of tasks to be performed by Guidewire, Licensee, and in some cases, third-party
+resources. Guidewire delivers he preliminary action plans for Severity 1 Issues to ensure a coordinated response.
+
+
+
+
+•	 	 Detailed – A detailed action plan is a detailed list of tasks that includes task descriptions, task owners, and target delivery/follow-up times.
+
+
+
+Support Modes:
+
+•	 	 Continuous – Guidewire support staff works on the Issue on a 24x7 basis.
+
+
+
+
+•	 	 Non-continuous – Guidewire support staff works on the Issue during normal hours of operation.
+
+
+
+
+•	 	 Dedicated – Guidewire’s support staff assigned works exclusively on the Issue.
+
+
+
+
+•	 	 Non-dedicated – Available Guidewire support staff manages the Issue non-exclusively, simultaneously with other support operation requirements.
+
+
+
+Resolution Status:
+
+•	 	 Restored – the Software or application that it supports is back up and running, although the underlying problem is not yet resolved.
+
+
+
+
+
+•	 	 Resolved – the Issue has been conclusively fixed.
+
+
+
+
+13
+
+
+
+
+
+
+
+
+Escalation: Guidewire escalates Severity Level 1 Issues that are unresolved after the designated period of time as
+follows:
+
+
+
+Escalation Guidelines for Severity Level 1 Technical Support Services
+Requests
+
+Elapsed Time	  	Escalation Contact
+> 8 hours
+Customer Service Manager
+> 24 hours
+Vice President of Services
+> 48 hours
+Vice President of Development
+
+
+
+14
+
+

@@ -1,0 +1,685 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.14
+[ELECTRONIC ARTS LETTERHEAD]
+
+
+SOFTWARE LICENSE
+
+AND CO-MARKETING AGREEMENT
+
+
+This Agreement is made as of June__, 1997 (the "Effective Date") by and between
+ELECTRONIC ARTS INC., a Delaware corporation with offices at 1450 Fashion Island
+Boulevard, San Mateo, California 94404 ("EA") and 3DFX INTERACTIVE, INC., a
+California corporation with offices at 415 Clyde Avenue, Suite 105, Mountain
+View, CA 94043 ("3DFX").
+
+RECITALS
+
+A.    EA designs, develops, publishes and distributes interactive software
+entertainment products.
+
+B.    3DFX develops, manufactures and distributes 3D graphics accelerator
+technology (the "3DFX Technology"), and develops and distributes software
+for incorporation in entertainment software products which is designed to
+facilitate compatibility between such software products and the 3DFX
+Technology.
+
+C.    3DFX desires to have EA incorporate its software into EA's software
+products in order to increase the base of software products compatible
+with the 3DFX Technology and thereby facilitate 3DFX's efforts to market
+such 3DFX Technology.
+
+D.    EA desires to incorporate software of 3DFX in EA's software products, in
+order to establish compatibility between such products and the 3DFX
+Technology.
+
+NOW, THEREFORE, the parties agree as follows:
+
+1.          DEFINITIONS
+
+1.1     "Software" means the software product distributed by 3DFX
+under the current title "Glide" as part of the 3DFX
+Interactive, Inc. Software Development Kit, including any
+updates, enhancements, revised versions, corrections and
+fixes thereto, in both source and object code forms.
+
+1.2     "EA Product" means any software product developed or
+distributed by EA and/or under any trademark or logo of EA
+[*]
+
+[*]
+
+1.4     "Intellectual Property Rights" means any and all rights
+existing from time to time in any jurisdiction under patent
+law, copyright law, moral rights law, trade secret law,
+trademark law, unfair competition law or other similar
+rights existing anywhere in the world.
+
+
+* CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+Page 1
+
+
+<PAGE>   2
+
+
+
+1.5     "Trademarks" means the trademarks of 3DFX as set forth on
+Exhibit A hereto.
+
+1.6     "Advertising Materials" shall have the meaning set forth in
+Exhibit B hereto.
+
+2.          LICENSE
+
+2.1     General. 3DFX hereby grants to EA a perpetual fully paid,
+royalty free, world-wide, non-exclusive, transferable,
+irrevocable, license, with right to sublicense, to do any
+and all of the following: use, modify, localize, prepare
+derivative works of, copy and reproduce, make and have made,
+perform and display (publicly or otherwise) distribute and
+sell the Software as part of any EA Product in any manner
+and embodied in any medium currently existing or hereafter
+conceived.
+
+2.2     Moral Rights. For purposes of this subsection, "Moral
+Rights" means any rights of paternity or integrity, any
+right to claim authorship of the Software, to object to any
+distortion, mutilation or other modification of, or other
+derogatory action in relation to, any Software, whether or
+not such would be prejudicial to 3DFX honor or reputation,
+and any similar rights existing under judicial or statutory
+law of any country in the world, or under any treaty,
+regardless whether or not such right is denominated or
+generally referred to as a "moral" right. 3DFX hereby agrees
+not to assert against EA or any EA licensee or customer any
+and all Moral Rights that 3DFX may have in the Software.
+
+2.3     Execution of Documents. 3DFX will cooperate with EA, at EA's
+expense, in obtaining patent, copyright, trademark or other
+statutory protection for any EA Product which incorporates
+the Software, in each country in which EA Products
+incorporating the Software are sold, distributed or licensed
+and in taking any enforcement action, including any public
+or private prosecution, to protect EA's intellectual
+property rights in or to all EA Products which incorporate
+the Software; provided, however, that any invention in the
+Software and any resulting patent application shall belong
+exclusively to 3DFX, and that any copyright registration by
+EA in any EA Product incorporating the Software shall
+reflect 3DFX as owner of the Software and any trademark
+right or other intellectual property right in the Software
+shall belong exclusively to 3DFX. Each party agrees to
+cooperate with the other in executing and filing applicable
+registrations and recordations by the other party to protect
+such other party's rights and, to the extent needed, to
+assist in bringing enforcement actions initiated by the
+other party to protect such other party's rights.
+
+2.4     Trademark License. 3DFX grants EA a non-exclusive,
+royalty-free, sublicensable, irrevocable right and license,
+with right to sublicense, to use and reproduce the
+Trademarks on and in the EA Products and in any reasonable
+manner in connection with the advertising, promotion and
+marketing thereof; provided that EA's use thereof complies
+with the restrictions set forth in the 3DFX Style Guide as
+such style guide may be reasonably amended from time to time
+by 3DFX.
+
+2.5     Ownership. As between EA and 3DFX, EA is the sole and
+exclusive owner of any and all EA Products and all
+Intellectual Property Rights contained therein. As between
+EA and 3DFX, 3DFX is the sole and exclusive owner of the
+Software, the Trademarks and all Intellectual Property
+Rights contained therein. To the extent that EA creates any
+modifications to the Software, which modifications are not
+particular to all or any of the EA Products, EA shall grant
+3DFX a non-exclusive, perpetual worldwide license to use,
+reproduce, make, sell and distribute such modifications.
+
+
+Page 2
+
+
+<PAGE>   3
+
+
+
+2.6     Restrictions. Notwithstanding anything to the contrary in
+this Agreement, EA have no right to sell, market or
+distribute the source code to the Software.
+
+3.          OBLIGATIONS OF EA
+
+[**]
+
+(a)     EA shall exercise commercially reasonable efforts
+to incorporate the Glide 2.3 version of the
+Software (or such other version of the Software as
+EA deems appropriate in its sole discretion) into
+[*]. Although EA will exercise reasonable efforts
+to activate the Software features appropriate [*],
+EA makes no representation or warranty as to the
+specific features which will be activated [*]. EA
+makes no representation or warranty that EA will
+successfully incorporate the Software into any of
+the EA products, or that the EA products, with
+incorporated 3DFX software, will be compatible with
+the 3DFX Technology.
+
+(b)     The parties acknowledge that, where it is not
+commercially practicable for EA to complete
+incorporation of the Software [*], EA may issue a
+"patch" or a "silent revision" following commercial
+release, [*].
+
+Prior to commercial release [*], EA will exercise
+reasonable efforts to arrange a meeting between
+representatives of 3DFX and the development teams
+[*]. During such meetings, 3DFX shall advise the
+development teams on optimum use of the Software
+and the features of the Software which 3DFX
+recommends activating in the context of a
+particular product.
+
+3.2     Additional Products. EA may, in its sole discretion,
+incorporate the Software into additional EA Products. In
+addition, EA may, in its sole discretion, issue "patches" or
+"silent revisions" for additional EA Products following the
+commercial release of such additional Products. If
+practicable, as determined by EA in its sole discretion, EA
+will exercise reasonable efforts to arrange a meeting
+between representatives of 3DFX and the development teams
+creating each of such additional EA Products. During such
+meetings, 3DFX shall advise the development teams on optimum
+use of the Software and the features of the Software which
+3DFX recommends activating in the context of a particular
+product.
+
+3.3     Marketing Services. EA shall perform the marketing services
+as specified on Exhibit B under the heading "EA Marketing
+Services", at the times and in the manner specified therein.
+
+3.4     Disclaimer of Warranties. EA MAKES NO REPRESENTATIONS OR
+WARRANTIES AS TO THE PERFORMANCE [*] (OR ANY OTHER EA
+PRODUCT), INCLUDING, WITHOUT LIMITATION, AS TO THE
+COMPATIBILITY OF SUCH PRODUCTS WITH THE TECHNOLOGY. EA
+EXPRESSLY DISCLAIMS ALL EXPRESS AND IMPLIED WARRANTIES,
+INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 3
+
+
+<PAGE>   4
+
+
+
+3.5     Restrictions. EA agrees that it will not prior to March 31,
+1998 enter into a co-marketing arrangement with a third
+party developer of graphics accelerator chips on terms and
+conditions similar to those contained in this Agreements,
+and including marketing obligations of a scope similar to
+those contained herein. Notwithstanding the foregoing,
+nothing in this Agreement shall preclude EA from including
+software in all or any of its Products which is designed to
+facilitate compatibility with graphics accelerator chips of
+any third parties, or engaging in any marketing services on
+behalf of such third party which are similar to the services
+set forth in Exhibit A (including, without limitation,
+including the trademark of such third party on the packaging
+of a Product), so long as the aggregate scope of such
+services does not rise to the level of the aggregate scope
+of services set forth herein.
+
+4.          OBLIGATIONS OF 3DFX
+
+[*]
+
+4.2     Cooperation. 3DFX agrees to use good faith and diligent
+efforts to consult with and aid EA in connection with EA's
+fulfillment of its obligations pursuant to Section 3.
+
+4.3     Marketing Services. 3DFX shall perform the marketing
+services as specified on Exhibit B under the heading "3DFX
+Marketing Services", at the times and in the manner
+specified therein.
+
+4.4     New Software; New Technology.
+
+(a)     All improvements, modifications and enhancements to
+the Software that are developed by 3DFX for a
+period of two years following execution of this
+Agreement shall be provided to EA at no cost.
+
+(b)     3DFX shall provide notice to EA as far as
+reasonably possible in advance prior to the
+marketing and distribution of new 3DFX Technology.
+Such notice will include information on the revised
+features of such technology, and the impact on the
+EA Products which have incorporated existing
+versions of the Software. Until EA has fulfilled
+its obligations under Section 3 of this Agreement,
+future versions of the 3DFX Technology, will be
+generally backward compatible with software
+designed for previous versions of 3DFX Technology.
+Thereafter, 3DFX will exercise reasonable efforts
+to ensure that future versions of the 3DFX
+Technology continues to be generally backward
+compatible with software designed for previous
+versions of 3DFX Technology; provided that 3DFX
+makes no representation or warranty that such
+future versions of the 3DFX Technology (distributed
+after EA has fulfilled its obligations under
+Section 3 of this Agreement) will be backward
+compatible with such previous versions of the
+Software.
+
+(c)     3DFX will communicate and provide EA with
+reasonable assistance, with respect to the
+incorporation of future versions of the Software
+into EA Products for the purpose of optimizing
+compatibility between the EA Products and future
+3DFX Technology.
+
+5.           CONFIDENTIALITY
+
+5.1     Definitions.
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 4
+
+
+<PAGE>   5
+
+
+
+(a) "Confidential Information" means the terms and
+conditions (but not the existence) of this Agreement, the
+Confidential Information of 3DFX and the Confidential
+Information of EA, except to the extent any of the following
+may be included therein: (i) information that becomes known
+to the general public without breach of the nondisclosure
+obligations of this Agreement; (ii) information that is
+obtained from a third party or independently developed
+without breach of a nondisclosure obligation and without
+restriction on disclosure; and (iii) information that is
+required to be disclosed in connection with any suit, action
+or other dispute related to this Agreement, provided that
+the receiving party shall notify the disclosing party prior
+to making such disclosure and shall take all reasonable
+measures to obtain confidential treatment.
+
+(b) "Confidential Information of 3DFX" means: (i) the
+concepts and source code of the Software; (ii) any
+information regarding existing or future products of 3DFX;
+and (iii) any other information of 3DFX designated in
+writing as "confidential" or "proprietary" by 3DFX.
+
+(c) "Confidential Information of EA" means: (i) any
+information concerning the EA Products or EA's use of the
+Software in the EA Products, (ii) any information concerning
+existing or future products of hardware manufacturers other
+than Licensee; and (iii) any additional information
+designated orally or in writing as confidential or
+proprietary by EA or its Affiliates.
+
+5.2     Protection of Confidential Information. Each party agrees to
+hold in confidence, and not to use except as expressly
+authorized in this Agreement, all Confidential Information
+of the other party and to use at least the same degree of
+care that it uses to protect its own Confidential
+Information of like importance, but in no event less than
+reasonable care, to prevent the unauthorized disclosure or
+use of the other party's Confidential Information, both
+during and for two (2) years after the term of this
+Agreement. Each party agrees it will not make any public
+statement or comment on the existence or provisions of this
+Agreement, without the written consent of the other, except
+as may be required by the reasonable opinion of its legal
+counsel.
+
+5.3     Use, Development and Marketing of Similar Programs. Nothing
+in this Agreement will impair the right of either party to
+use, develop or market ideas or programs similar to the
+Software so long as such use, development or marketing does
+not infringe on the copyright, trademark, patent, license or
+other rights of the other party.
+
+6.          REPRESENTATIONS AND WARRANTIES
+
+6.1     3DFX Representations. 3DFX represents and warrants to and
+agrees with EA that:
+
+(a) The Software is the original work of 3DFX and the
+Software and the use, modification, reproduction and
+distribution thereof by EA pursuant to this Agreement, do
+not and will not infringe upon any Intellectual Property
+Rights of third parties;
+
+(b) 3DFX is the sole and exclusive owner or valid licensee
+of all Intellectual Property Rights in the Software, the
+Trademarks, the 3DFX Technology and the Advertising
+Materials;
+
+(c) 3DFX has not granted and will not grant any rights in
+the Software, the 3DFX Technology, the Trademarks or the
+Advertising Materials to any third party which are
+inconsistent with the rights assigned to EA herein;
+
+
+Page 5
+
+
+<PAGE>   6
+
+
+
+(d) 3DFX has full power to enter into this Agreement, to
+carry out its obligations hereunder and to grant the rights
+herein granted to EA; and
+
+(e) The Software and the 3DFX Technology (i) are and will
+comply materially with the description of the Software and
+the 3DFX Technology included in any documentation
+distributed by 3DFX in connection with the Software or the
+advertising or marketing thereof, (ii) are and will be free
+of defect in material and workmanship, and (iii) are and
+will be of high quality in all respects.
+
+6.2     EA's Representations. EA represents and warrants to and
+agrees with 3DFX that: EA has full power to enter into this
+Agreement and to carry out its obligations hereunder.
+
+7.          INDEMNIFICATION
+
+Each party will indemnify the other party and its customers and
+sublicensees for, and hold them harmless from, any loss, expense
+(including reasonable fees of attorneys and other professionals),
+damage or liability arising out of any claim, demand or suit
+resulting from an alleged breach of any of the warranties of the
+indemnifying party in Section 6 hereof. In addition, EA will
+indemnify 3DFX and its customers and sublicensees for, and hold them
+harmless from, any loss, expense (including reasonable fees of
+attorneys and other professionals), damage or liability arising out
+of any claim, demand or suit resulting from an allegation by a third
+party [*] infringe the Intellectual Property rights of such third
+party. As a condition to indemnification, the indemnified party will
+promptly inform the indemnifying party in writing of any such claim,
+demand or suit and the indemnified party will fully cooperate in the
+defense thereof. As a condition to indemnification, the indemnified
+party will not agree to the settlement of any such claim, demand or
+suit prior to a final judgment thereon without the consent of the
+indemnifying party, which consent will not be unreasonably withheld.
+
+8.          TECHNICAL SUPPORT
+
+8.1     EA Support of Customers. Except as limited elsewhere in this
+Agreement, EA will be responsible for providing product
+support to end users solely with respect to gameplay [*]. EA
+will provide such support in accordance with its standard
+user support policies which include an EA toll telephone
+number for customers to call during EA's normal business
+hours with technical questions about the EA Products. EA
+will not provide support for any component to the 3DFX
+Technology or the Software.
+
+8.2     3DFX Support of Customers. 3DFX will provide warranty and
+post warranty service for the 3DFX Technology and the
+software at least in accordance with generally accepted
+industry standards. 3DFX shall in all events be solely
+responsible to its customers for support, warranty and
+post-warranty service for the 3DFX Technology and the
+Software and will hold EA harmless from all claims made
+under such warranties.
+
+9.          GENERAL TERMS
+
+9.1     Amendment. No amendment or modification of this Agreement
+will be made except by an instrument in writing signed by
+both parties.
+
+9.2     Independent Contractors. 3DFX is an independent contractor,
+and nothing in this Agreement will be deemed to place the
+parties in the relationship of employer-employee,
+principal-agent, partners or joint venturers.
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 6
+
+
+<PAGE>   7
+
+
+
+9.3     Limitation of Damages. IN NO EVENT SHALL EITHER PARTY BE
+LIABLE FOR INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL
+DAMAGES OF ANY KIND OR THE LOSS OF ANTICIPATED PROFITS
+ARISING FROM ANY BREACH OF THIS AGREEMENT EVEN IF THE OTHER
+PARTY IS NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES AND
+REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF
+ITS ESSENTIAL PURPOSE.
+
+9.4     Force Majeure. Neither party will be deemed in default of
+this Agreement to the extent that performance of its
+obligations or attempts to cure any breach are delayed or
+prevented by reason of any act of God, fire, natural
+disaster, accident, act of government, shortages of material
+or supplies or any other cause reasonably beyond the control
+of such party ("Force Majeure"), provided that such party
+gives the other party written notice thereof promptly and,
+in any event, within fifteen (15) days of discovery thereof,
+and uses its diligent, good faith efforts to cure the
+breach. In the event of such a Force Majeure, the time for
+performance or cure will be extended for a period equal to
+the duration of the Force Majeure but not in excess of six
+(6) months.
+
+9.5     Governing Law; Forum. This Agreement will be deemed entered
+into in San Mateo County, California and will be governed by
+and interpreted in accordance with the substantive laws of
+the State of California. The parties agree that any dispute
+arising under this Agreement will be resolved in the state
+or federal courts within the Northern District of California
+and 3DFX expressly consents to jurisdiction therein.
+
+9.6     Severability. Should any provision of this Agreement be held
+to be void, invalid or inoperative, such provision will be
+enforced to the extent permissible and the remaining
+provisions of this Agreement will not be affected.
+
+9.7     Notices. Any notice required or permitted to be sent
+hereunder will be given by hand delivery, by registered,
+express or certified mail, return receipt requested, postage
+prepaid, or by nationally-recognized private express courier
+or by facsimile to either party at the address listed above,
+or to such other addresses of which either party may so
+notify the other. Notices will be deemed given when hand
+delivered if by hand delivery, or when sent if by any other
+authorized method.
+
+9.8     Complete Agreement. This Agreement constitutes the entire
+agreement between the parties and supersedes all prior
+negotiations, understandings, correspondence and agreements
+with respect to the same subject matter between the parties,
+including without limitation any License Agreement included
+with the packaging of the Software.
+
+
+ELECTRONIC ARTS INC.                                   3DFX
+
+
+By:  /s/ Nancy L. Smith                                By:  /s/ Andy Keane
+Name:  Nancy L. Smith                                  Name:    Andy Keane
+
+Date:   6/6/97                                         Date:       6/18/97
+
+
+Page 7
+
+<PAGE>   8
+
+
+
+EXHIBIT A
+
+
+
+TRADEMARKS
+
+3Dfx Interactive
+Voodoo Graphics
+Voodoo Rush
+Voodoo
+Glide
+
+NOTICES
+
+(C)1997 3Dfx Interactive, Inc. The 3Dfx Interactive logo and Voodoo Graphics are
+a trademark of 3Dfx Interactive, Inc.
+
+[*]
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+Page 8
+
+
+<PAGE>   9
+[*]
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 9
+
+
+<PAGE>   10
+[*]
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 10
+
+
+<PAGE>   11
+
+
+
+EXHIBIT B
+
+MARKETING SERVICES
+
+
+EA Marketing Services
+
+[*]
+
+Trade Show Support
+
+At trade shows attended by EA (including E3), EA will demonstrate [*], and will
+represent to attendees that such [*] have been enhanced for 3DFX. At such
+tradeshows, EA will reasonably display the 3DFX logos.
+
+Web Site Coverage/Hypertext Links
+
+EA will place hypertext links on the sites of [*]. Where reasonably appropriate,
+EA will upload patches for enhancements or updates to the Software, and, where
+appropriate, EA will include the posting of upgrade patches and technology
+information. In addition, on such sites, EA will represent the fact that such
+[*] have been enhanced for the 3DFX Technology.
+
+Press Releases
+
+In press releases [*], EA will announce that such products have been enhanced
+for the 3DFX Software.
+
+[*]
+
+[*]
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 11
+
+
+<PAGE>   12
+
+
+Print Advertisements.
+
+Subject to the approval of any League or other EA licensor with trademark
+approval, EA shall, as EA deems appropriate in its sole discretion, include the
+Trademarks on print advertising, sell sheets, catalogues, and other similar
+materials concerning [*] and which is fully compatible with the 3DFX technology.
+Retail Promotions
+
+Retail Marketing.
+
+Subject to the approval of any League or other EA licensor with trademark
+approval, EA shall, as EA deems appropriate in its sole discretion, exercise
+reasonable efforts to include [*], in co-marketing programs at retail, including
+but not limited to encaps, retail advertising and other special offers.
+
+
+3DFX Marketing Services
+
+[*]
+
+Trade Show Support
+
+At tradeshows attended by 3Dfx, 3Dfx will demonstrate (as appropriate to release
+and timing and whether EA can provide an appropriate demo) EA Products, in which
+EA has successfully incorporated the Software and which is fully compatible with
+the 3DFX technology. At such tradeshows, 3Dfx will display the EA logos with
+reasonable prominence in connection with the EA Products.
+
+WEB Site
+
+3Dfx will place hypertext links to the EA web site. 3Dfx will offer the
+opportunity to EA as appropriate for other promotional activities and
+representations on the 3Dfx web site to represent EA Products, in which EA has
+successfully incorporated the Software and which is fully compatible with the
+3Dfx technology.
+
+Press Releases
+
+3Dfx will include EA in press releases as appropriate for EA Products, in which
+EA has successfully incorporated the Software and which is fully compatible with
+the 3Dfx technology.
+
+*CERTAIN CONFIDENTIAL INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+
+Page 12
+
+
+

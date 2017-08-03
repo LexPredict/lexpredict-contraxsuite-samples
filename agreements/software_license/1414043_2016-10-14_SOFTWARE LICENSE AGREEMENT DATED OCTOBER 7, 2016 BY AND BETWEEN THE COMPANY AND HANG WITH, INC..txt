@@ -1,0 +1,1280 @@
+
+
+
+
+
+
+
+Blueprint
+
+
+
+
+
+
+
+
+EXHIBIT
+10.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+
+This SOFTWARE LICENSE AGREEMENT (this "Agreement") is effective as
+of October 7, 2016 (the
+"Effective Date") by and between Friendable, Inc., a Nevada corporation with offices at 1821 S
+Bascom Ave., Suite 353, Campbell, California 95008
+("FRIEND"), and Hang With,
+Inc., a Nevada corporation with
+its principal office at 7 Studebaker, 1st
+Floor, Irvine, CA 92618
+("LICENSOR") (FRIEND and LICENSOR each, a "Party"; together,
+the "Parties").
+
+
+
+
+
+
+RECITALS
+
+
+
+
+
+WHEREAS, LICENSOR is the sole owner of all rights,
+title, and interest in and to the proprietary live-streaming mobile
+and social application platform generally known as Hang w/,
+described in further detail in Exhibit A
+attached hereto and incorporated
+herein by this reference (the "App"), as well as the "Licensed
+Software" (defined below), which includes any and all related
+documentation, user manuals, and related material (collectively,
+the "App Documentation");
+
+
+
+
+
+WHEREAS,
+LICENSOR desires to grant to FRIEND, and FRIEND desires to obtain
+from LICENSOR, a nonexclusive, worldwide, perpetual, royalty-free,
+fully paid-up right and license to the Licensed Software as stated
+under this Agreement in accordance with the terms of this
+Agreement, for use in any product published under the Friendable
+brand.
+
+
+
+
+
+NOW, THEREFORE, in
+consideration of the foregoing and of the mutual promises,
+representations, warranties, covenants and undertakings made in
+this Agreement by each Party to the other, the Parties hereby agree
+as follows:
+
+
+
+
+
+
+
+
+
+AGREEMENT
+
+
+
+
+
+
+
+1.
+
+DEFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+1.1.
+
+"Derivative Work" has the meaning ascribed to it
+under the United States
+Copyright Law, Title 17 U.S.C. Sec. 101 et. seq., as the same may
+be amended from time to time.
+
+
+
+
+
+
+
+
+
+
+
+1.2.
+
+"Intellectual Property Rights" means all past,
+present and future intellectual property or proprietary rights of
+any kind recognized in
+any country or jurisdiction in the
+world, in each case registered or unregistered, including, without
+limitation, in and to, arising out of, or associated with (a) any
+and all United States and foreign patents and applications
+therefor, as well as any and all patents issuing in the future on
+such patent applications, including any and all reissues,
+divisions, renewals, extensions,
+substitutions, continuations and continuations-in-part thereof
+("Patents"); (b) inventions (whether patentable or not), invention
+disclosures, improvements, trade secrets, proprietary information,
+know-how, technology and technical data ("Trade Secrets"); (c) all
+copyrights, copyright registrations and applications therefor and
+all other rights corresponding thereto throughout the world
+("Copyrights"), (d) names, trademarks, service marks, trade dress,
+symbols and logos ("Trademarks"); and, (e) all other intellectual
+property rights and other rights in any jurisdiction required to
+copy, reproduce, recast, adapt, modify, alter, translate, display,
+broadcast, digitize, transmit, distribute (either directly or
+indirectly, including through any third party distributor or media
+publisher), publish, perform, market, advertise, promote, sell, exploit, vend, manufacture,
+sublicense, improve,
+enhance, update, revise,
+create derivative works, integrate
+into other works, combine with other works, integrate with
+advertising or branding, categorize, index, store and otherwise use
+the Licensed Software and any Derivative Works thereof, through any
+channel and any medium, by any method, and in any media and any
+format, and on any platform now known or hereafter
+devised.
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.3.
+
+"Software" means any and all computer software,
+documentation, code, content, and data, including, without
+limitation: source code, generic code, object code,
+other programming code, compilers, applets, "app engine," game play
+elements, rules and methods of play, graphics, other images and
+visual content, music, sound, other audio content, characters,
+scenes, setting, texts, drawings, 3D models, development tools,
+user interfaces, App Documentation, and other works of art and
+works of authorship with respect to the development and compilation
+of the App, in any form or format, however fixed.
+
+
+
+
+
+
+
+
+
+
+
+1.4.
+
+“Licensed Intellectual Property Rights" means all Intellectual Property
+Rights in and to the Licensed Software.
+
+
+
+
+
+
+
+
+
+
+
+1.5.
+
+"Licensed Software” means all Software and
+related materials utilized in or in connection with the App, as
+more particularly described in Exhibit
+A.
+
+
+
+
+
+
+
+
+
+
+
+2.
+
+GRANT
+OF LICENSE AND OWNERSHIP.
+
+
+
+
+
+
+
+
+
+
+
+2.1.
+
+License.
+LICENSOR hereby grants to FRIEND a nonexclusive, transferable,
+worldwide, perpetual, royalty-free, fully paid-up right and license
+to the Licensed Software and Licensed Intellectual Property Rights
+for use in the Friendable Mobile Application.
+
+
+
+
+
+
+
+
+
+
+
+2.2.
+
+Ownership.
+Subject to the rights granted to FRIEND under this Agreement, all
+right, title, and interest in and to the Licensed Software are and
+shall remain at all times the sole and exclusive property of
+LICENSOR.
+
+
+
+
+
+
+
+
+
+
+
+3.
+
+DELIVERY.
+LICENSOR shall deliver to FRIEND the following in the event of a
+liquidation, bankruptcy, or asset sale of LICENSOR:
+
+
+
+
+
+
+
+
+
+
+
+3.1.
+
+Licensed Software. The Licensed Software via FTP
+(File Transfer Protocol) download, as more particularly described
+in Exhibit
+A, or in a form suitable for
+FRIEND's reproduction and use under this
+Agreement.
+
+
+
+
+
+
+
+
+
+
+
+3.2.
+
+Alterations.
+After such delivery, if LICENSOR makes any alterations,
+modifications, improvements, or other changes to the Licensed
+Software (collectively, "Alterations"), LICENSOR, when prompted by
+by FRIEND, shall deliver to FRIEND complete copies of the Licensed
+Software, as updated or altered, on completion of such Alterations,
+and in any event no later than the time LICENSOR commences
+utilizing the updated or altered Licensed Software in its own
+operations, or delivers the same to any third party.
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.
+
+TITLE.
+LICENSOR represents and warrants that it owns all right, title, and
+interest in and to the Licensed Software. LICENSOR warrants that
+the Licensed Software hereby furnished or to be furnished to
+Licensee do not and shall not misappropriate, violate or infringe
+upon or violate any patent, copyright, trade secret, or any other
+proprietary right of any third party.
+
+
+
+
+
+
+
+
+
+
+
+5.
+
+PAYMENTS.
+
+
+
+
+
+
+
+
+
+
+
+5.1.
+
+Purchase
+Price. By way of monetary investment into Hangwith, Inc., the
+parties have agreed that is full and complete consideration for the
+License, the receipt of which LICENSOR hereby
+acknowledges.
+
+
+
+
+
+
+
+
+
+
+
+6.
+
+SUPPORT. LICENSOR warrants that, for a period of ninety
+(90) calendar days after the date of FRIEND's receipt of Licensed
+Software (the "Support Period"), the Licensed Software will conform
+to the performance standards and specifications set forth in the
+App Documentation if properly installed and used in the operating
+environment specified in such App Documentation. LICENSOR does not
+warrant that the functions contained in the Licensed Software will
+meet FRIEND's requirements or will operate in the combination that
+FRIEND selects for use, or that the operation of the Licensed
+Software will be uninterrupted or error free, or that all defects
+in the Licensed Software will be corrected by Licensor. Licensor's
+responsibility under this warranty shall be limited to correcting
+the portion of the Licensed Software that fails to perform
+substantially in accordance with the said specifications or, at the
+option of Licensor, refunding the applicable license fees in which
+event Licensee shall return all copies of the Licensed Software.
+This provision does not apply if FRIEND modifies, alters or changes
+the Licensed Software.
+
+
+
+
+
+
+
+
+
+
+
+7.
+
+VIRUSES.
+LICENSOR warrants that, to the best of its knowledge, the Licensed
+Software when physically delivered under this Agreement does not
+contain any programming code or instruction constructed with the
+ability to damage, interfere with, or otherwise adversely affect
+computer programs, data files, or hardware (collectively
+"Viruses"). LICENSOR also warrants that it has exercised its best
+efforts to assure that Viruses have not been introduced into the
+Licensed Software while the Licensed Software was in its
+possession. Further, LICENSOR warrants that the Licensed Software
+shall not contain any disabling code that will activate on a
+predetermined date or that can be remotely activated by LICENSOR
+without FRIEND's prior written consent. In the event that it is
+determined that such a Virus or disabling code exists, LICENSOR
+shall, at FRIEND's option, immediately replace any portion of the
+Licensed Software that cannot be corrected or cured within a
+reasonable period of time or shall immediately reestablish the
+affected portion of the Licensed Software to be functionally
+equivalent to their performance prior to the introduction of the
+Virus or disabling code. If neither of the foregoing alternatives
+is reasonably available to LICENSOR, then FRIEND may terminate this
+Agreement immediately on written notice to LICENSOR, and Licensor
+shall refund to FRIEND any license fees paid for the Licensed
+Software.
+
+
+
+
+
+
+
+
+
+
+
+8.
+
+REPRESENTATIONS
+AND WARRANTIES. Each Party represents and warrants to the other
+that: (a) such Party has all necessary rights and authority to
+execute and deliver this Agreement and perform its obligations
+hereunder, (b) nothing contained in this Agreement or in the
+performance of this Agreement will place such Party in breach of
+any other contract or obligation, and (c) this Agreement
+constitutes a binding and enforceable Agreement.
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.
+
+REMEDY
+LIMITATIONS. IN NO EVENT SHALL LICENSOR BE LIABLE TO FRIEND,
+WHETHER FORESEEABLE OR NOT, FOR ANY INDIRECT, SPECIAL, RELIANCE,
+INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OR LOST
+PROFITS ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE
+PERFORMANCE OR BREACH THEREOF, INCLUDING BUT NOT LIMITED TO LOST
+PROFITS, REVENUE, GOODWILL, OR ANY DAMAGES OR SUMS PAID TO THIRD
+PARTIES.
+
+
+
+
+
+
+
+
+
+
+
+10.
+
+INDEMNIFICATION.
+
+
+
+
+
+
+
+
+
+
+
+10.1.
+
+LICENSOR
+shall indemnify, defend and hold harmless FRIEND and its
+affiliates, officers, directors, employees, agents,
+representatives, successors and assigns against any and all losses,
+damages, liabilities, claims, obligations, costs, charges and
+expenses (including, without limitation, reasonable attorneys' fees
+and court costs) of any third party based on or arising out of any
+breach or alleged breach by LICENSOR of any of its representations,
+warranties or obligations under this Agreement.
+
+
+
+
+
+
+
+
+
+
+
+10.2.
+
+FRIEND
+shall indemnify, defend and hold harmless LICENSOR and its
+affiliates, officers, directors, employees, agents,
+representatives, successors and assigns against any and all losses,
+damages, liabilities, claims, obligations, costs, charges and
+expenses (including, without limitation, reasonable attorneys' fees
+and court costs) of any third party based on or arising out of any
+breach or alleged breach by LICENSOR of any of its representations,
+warranties or obligations under this Agreement.
+
+
+
+
+
+
+
+
+
+
+
+11.
+
+GENERAL
+PROVISIONS.
+
+
+
+
+
+
+
+
+
+
+
+11.1.
+
+Notices. All notices, approvals and other
+communications to be given under this Agreement shall be in writing
+and shall be sent by email to the email address of the other Party
+set out in the signature block of this Agreement (or to such other
+email address as either Party may notify to the other under the
+provisions of this provision). Notices shall be deemed delivered on
+the date of transmission.
+
+
+
+
+
+
+
+
+
+
+
+11.2.
+
+Variations.
+No addition to or modification of any provision of this Agreement
+shall be binding upon the Parties unless made by a written
+instrument signed by a duly authorized representative of each of
+the Parties.
+
+
+
+
+
+
+
+
+
+
+
+11.3.
+
+Waiver.
+No failure on the part of either Party to exercise or to enforce
+any right given under this Agreement or at law or any custom or
+practice of the Parties at variance with the terms of this
+Agreement shall constitute a waiver of either of the Parties'
+respective rights under this Agreement or operate so as to prevent
+the exercise or enforcement of any such right at any
+time.
+
+
+
+
+
+
+
+
+
+
+
+11.4.
+
+Arbitration
+
+
+
+
+
+
+
+
+
+
+
+11.4.1.
+
+General. The Parties further agree to submit any
+dispute, claim or controversy among the Parties arising out of or
+relating to this Agreement to a binding arbitration proceeding to
+be conducted under the rules of the American
+Arbitration Association (the "AAA"), at the County of Orange,
+California. This arbitration provision, however, shall not deprive
+the Parties of any right they may otherwise have to seek
+provisional injunctive relief from a court of competent
+jurisdiction. The arbitration proceeding shall be conducted in as
+expedited a manner as is then permitted by the commercial
+arbitration rules of the AAA. Both the foregoing agreement of the
+Parties to arbitrate any and all such disputes, claims and
+controversies, and the results, determinations, findings, judgments
+and/or awards rendered through any such arbitration shall be final
+and binding on the Parties and may be specifically enforced by
+legal proceedings in any court of competent
+jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.4.2.
+
+Governing
+Law. The arbitrator(s) shall follow any applicable federal law and
+California state law with respect to all matters of substantive law
+in rendering an award.
+
+
+
+
+
+
+
+
+
+
+
+11.4.3.
+
+Costs
+of Arbitration. The cost of the arbitration proceeding and any
+proceeding in court to confirm or to vacate any arbitration award,
+as applicable (including, without limitation, each Party's Party
+or, at the discretion of the arbitrators, may be prorated between
+the Parties in such proportion as the arbitrator(s) determines to
+be equitable and shall be awarded as part of the arbitrator's
+award.
+
+
+
+
+
+
+
+
+
+
+
+11.5.
+
+Partial
+Invalidity. If any provision of this Agreement is held by a court
+of competent jurisdiction to be invalid, void, or unenforceable,
+the remaining provisions shall nevertheless continue in full force
+and effect without being impaired or invalidated in any
+way.
+
+
+
+
+
+
+
+
+
+
+
+11.6.
+
+No
+Partnership or Joint Venture. FRIEND and LICENSOR are independent
+contractors and neither Party is the legal representative, agent,
+joint venturer, partner, or employee of the other Party for any
+purpose whatsoever. Neither Party has any right or authority to
+assume or create any obligations of any kind or to make any
+representation or warranty on behalf of the other Party, whether
+express or implied, or to bind the other Party in any respect
+whatsoever.
+
+
+
+
+
+
+
+
+
+
+
+11.7.
+
+Assignment.
+This Agreement and the exhibits and attachments hereto shall be
+binding on the Parties' respective permitted assigns. LICENSOR may
+assign this Agreement or any rights or obligations hereunder.
+FRIEND may not assign this Agreement and FRIEND's rights or
+obligations
+
+
+
+
+
+
+
+
+
+
+
+11.8.
+
+Successors.
+This Agreement shall inure to the benefit of and be binding on the
+successors of the Parties.
+
+
+
+
+
+
+
+
+
+
+
+11.9.
+
+Headings.
+The Section headings used in this Agreement are for reference only
+and shall not determine the construction or interpretation of this
+Agreement or any portion hereof.
+
+
+
+
+
+
+
+
+
+
+
+11.10.
+
+Counterparts.
+This Agreement may be executed in two (2) or more counterparts,
+each of which shall be deemed an original, and all of which
+together shall constitute one and the same instrument.
+
+
+
+
+
+
+
+
+
+
+
+11.11.
+
+Further
+Assurances. From and after the Execution Date, LICENSOR shall
+cooperate with FRIEND, and shall execute and deliver such
+instruments and documents and take such other actions as the grant
+of right and license under the Agreement, putting FRIEND in
+possession and control of all of the assets licensed under this
+Agreement, and effecting this Agreement and carrying out its
+provisions.
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.12.
+
+Entire Agreement. This Agreement (including the
+exhibits and attachments hereto) sets out the entire agreement and
+understanding between the Parties and supersedes all prior
+agreements, understandings or arrangements (whether oral or
+written) regarding the subject matter of this Agreement. Each Party
+acknowledges that it has not entered into this Agreement in
+reliance on any representations, warranties and promises except for
+those expressly set out in this Agreement, and neither Party shall
+be liable in respect of any other representation, warranty or
+promise made prior to the date of this
+Agreement.
+
+
+
+
+
+
+
+
+
+
+
+11.13.
+
+Survival of Certain Provisions. Termination of
+this Agreement for any reason shall not release either Party from
+any liabilities or obligations set forth in this Agreement that (a)
+the Parties have expressly agreed shall survive any such
+termination or (b)
+remain to be performed or by their
+nature would be intended to be applicable following any such
+termination. The provisions of Sections 1, 4, and 7
+through 11, shall survive the
+any termination of this Agreement.
+
+
+
+
+
+
+
+
+
+
+
+11.14.
+
+Rights of Third Parties. The Parties hereby agree
+that the rights of third parties, including but not limited to any
+of FRIEND's customers existing at the date this Agreement
+terminates for any reason, shall not be prejudiced by any such
+termination and the customer's right to continuing using the
+Licensed Software shall continue notwithstanding any such
+termination.
+
+
+
+
+
+
+
+
+
+IN
+WITNESS WHEREOF, the Parties have executed this Agreement as of the
+day and year first written above.
+
+
+
+
+
+
+
+
+FRIENDABLE, INC.
+
+
+
+
+LICENSOR: HANG WITH, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+/s/ Robert
+Rositano
+
+
+
+
+
+
+By:
+/s/ Andrew
+Maltin
+
+
+
+
+
+
+
+Its: CEO
+
+
+
+
+
+
+Its: CEO
+
+
+
+
+
+
+
+Email: ____________________
+
+
+
+
+
+Email: _________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+
+
+
+
+
+
+Licensed Software and Delivery
+
+
+
+
+
+
+
+
+
+LICENSED SOFTWARE: The components of the Licensed Software are
+further described as:
+
+
+
+
+
+
+Hang w/ live-streaming mobile and social application
+platform (the
+'APP').
+
+
+
+
+
+
+The LICENSOR will provide:
+
+
+
+
+●
+
+Sourcecode
+of the Hang w/ Apps
+
+
+
+
+
+
+
+
+●
+
+Access
+to LICENSOR Github
+
+
+
+
+
+
+
+
+●
+
+Access
+to Amazon and Google cloud code
+
+
+
+
+
+
+
+
+
+
+DELIVERY: On the Delivery Date, LICENSOR shall make the Licensed
+Software and any related documentation and materials available at
+an agreed upon secure Web site for FTP (File Transfer Protocol)
+download to FRIEND.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+

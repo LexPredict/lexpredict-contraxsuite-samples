@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.2
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+THIS SOFTWARE LICENSE AGREEMENT (this "Agreement") is entered into as
+of December 10, 1996, between Integrated Payment Systems Inc., a Delaware
+corporation ("IPS"), and MoneyGram Payment Systems, Inc., a Delaware corporation
+(the "Company").
+
+WHEREAS, IPS, First Data Technologies, Inc., a Delaware corporation
+("FDT"), and the Company are parties to the Operations Agreement dated as of the
+date hereof (the "Operations Agreement"), pursuant to which IPS and FDT will
+provide, inter alia, certain data processing services to the Company; and
+
+WHEREAS, IPS wishes to grant to the Company a license to use the
+Utility Software (as hereafter defined) on the terms and conditions set forth
+herein.
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants,
+representations, conditions and agreements hereafter expressed, the Parties (as
+hereafter defined) agree as follows:
+
+1.  Definitions.  In this Agreement, unless the context shall
+otherwise require, the capitalized terms used herein shall have the respective
+meanings specified or referred to in this Section 1. Each agreement referred to
+in this Agreement shall mean such agreement as amended, supplemented and
+modified from time to time to the extent permitted by the applicable provisions
+thereof and hereof. Each definition in this Agreement includes the singular and
+the plural, and reference to the neuter gender includes the masculine and
+feminine where appropriate. References to any statute or regulations means such
+statute or regulations as amended at the time and include any successor
+legislation or regulations. The headings to the sections hereof are for
+convenience of reference and shall not affect the meaning or interpretation of
+this Agreement. Except as otherwise stated, reference to Sections and Exhibits
+means the Sections and Exhibits of this Agreement. The Exhibits are hereby
+incorporated by reference into and shall be deemed a part of this Agreement.
+Unless the context clearly indicates otherwise, the word "including" means
+"including but not limited to".
+
+"Affiliate" means, with respect to any Person, any other Person which,
+directly or indirectly, controls, is controlled by or is under common control
+with such Person;
+<PAGE>
+
+provided, however, that IPS and its Affiliates shall not be deemed Affiliates of
+the Company and the Company and its Affiliates shall not be deemed Affiliates of
+IPS.
+
+"Agreement" shall have the meaning set forth in the first paragraph
+hereof.
+
+"Business" means the Consumer Money Wire Transfer Services marketed
+under the name "MoneyGram"(SM) and the sales and distribution of a "MoneyGram"
+phonecard.
+
+"Company" shall have the meaning set forth in the first paragraph of
+this Agreement.
+
+"Consequential Damages" means any liability, Loss, Expense or damage,
+whether in an action arising out of breach of warranty, breach of contract,
+delay, negligence, theory of tort, strict liability or other legal or equitable
+theory, for indirect, special, reliance, incidental, punitive or consequential
+damages or commercial loss, injury or damage, including loss of revenues,
+profits or use of capital or production.
+
+"Consumer Money Wire Transfer Services" means the service of
+transferring the right to money using computer or telephone lines, or any
+technology now existing or later developed, from one person to a different
+person through a MoneyGram Agent and the services marketed under the phrases
+"Express Payment" and "Cash Advance."
+
+"Contribution Agreement" means the Contribution Agreement dated as of
+the date hereof among the Company, IPS and First Data Corporation, a Delaware
+corporation.
+
+"Costs" means all direct costs, expenses and charges plus all indirect
+costs, expenses and charges, excluding allocations of overhead.
+
+"Data Processing Services" means the data processing services provided
+by IPS and its Affiliates to the Company under the Operations Agreement.
+
+"Dispute" means any and all disputes, controversies or claims between
+the Parties arising from or in connection with this Agreement or the
+relationship of the Parties whether based on contract, tort, common law, equity,
+statute, regulation, order or otherwise.
+
+"Expenses" means any and all reasonable expenses incurred in
+connection with investigating, defending or asserting
+
+2
+<PAGE>
+
+any claim, action, suit or proceeding incident to any matter indemnified against
+hereunder (including court filing fees, court costs, witness fees and reasonable
+fees and disbursements of legal counsel, investigators, expert witnesses,
+accountants and other professionals).
+
+"FDT" shall have the meaning set forth in the first recital to this
+Agreement.
+
+"Force Majeure Event" shall have the meaning specified in Section
+10(c).
+
+"Governmental Body" means any foreign, federal, state, local or other
+governmental authority or regulatory body.
+
+"Intellectual Property" means any United States patent, trademark,
+service mark, trade dress, logo, trade name, copyright, mask work, trade
+secret, confidential information, publicity and privacy rights or other similar
+or related property right.
+
+"IPS" shall have the meaning set forth in the first paragraph of this
+Agreement.
+
+"Losses" means any and all losses, Costs, obligations, liabilities,
+settlement payments, awards, judgments, fines, penalties, damages, deficiencies
+or other charges.
+
+"MoneyGram Agent" means a Person that has contracted with Travel
+Related Services, IPS or the Company, as the case may be, to provide the
+Consumer Money Wire Transfer Services provided by the Business.
+
+"MoneyGram Application Software" shall have the meaning set forth in
+the Contribution Agreement.
+
+"Operations Agreement" shall have the meaning set forth in the first
+recital to this Agreement.
+
+"Party" means a party to this Agreement and its permitted successors
+and assigns.
+
+"Person" means any individual, corporation, partnership, limited
+liability company, joint venture, association, joint-stock company, trust,
+unincorporated organization or Governmental Body.
+
+"PC MoneyGram Application Software" shall have the meaning set forth
+in the Contribution Agreement.
+
+3
+<PAGE>
+
+"Services" shall have the meaning set forth in Section 5(a).
+
+"Travel Related Services" means American Express Travel Related
+Services Company, Inc., a New York corporation.
+
+"Utility Software" means that certain software owned by or licensed to
+IPS or its Affiliates used in the Business, together with the documentation (if
+any) relating thereto as described in Exhibit A.
+
+2.  License Grant.
+
+(a)  Utility Software.  IPS hereby grants to the Company a perpetual,
+irrevocable, worldwide, nonexclusive, royalty-free license to use the Utility
+Software in the Business or for any other purpose.  The foregoing license shall
+include the right to assign, transfer and modify the Utility Software and to
+distribute, license or sublicense derivative works incorporating the Utility
+Software.
+
+(b)  Reservation.  All right, title and interest in and to the Utility
+Software, other than those rights expressly granted herein, shall remain in IPS
+and its licensors.
+
+(c)  Assignment.  The Company may assign any of its rights under this
+Agreement (whether by operation of law or otherwise), including the license
+granted pursuant to this Section 2, in accordance with the provisions of Section
+10(e).
+
+(d)  Company Covenants.  The Company hereby agrees that it will use
+reasonable efforts to cause any licensee, sublicensee or assignee with respect
+to the Utility Software licensed to the Company pursuant to this Agreement to
+comply with the terms and conditions of this Agreement.
+
+3.  Delivery of Software.
+
+(a)  Initial Delivery.  Within 90 days of the Parties' execution of
+this Agreement, IPS shall deliver to the Company the Utility Software (including
+the source code, object code, JCLs and existing documentation) in the form and
+format set forth in Exhibit B.
+
+(b)  Final Delivery.  Upon (i) the termination of all of the Data
+Processing Services, whether as a result of the termination of the Operations
+Agreement, in whole or in
+
+4
+<PAGE>
+
+part, and (ii) the Parties having executed and delivered an amendment to
+Exhibit A, in form and substance reasonably acceptable to each Party, which
+amendment shall set forth a description of the Utility Software as of the
+date of such amendment, IPS shall deliver to the Company the Utility
+Software in the form and format set forth in Exhibit B, such delivery to
+include all modifications, enhancements, updates and revisions made by IPS
+on behalf of the Company through the date of such final delivery.
+
+4.  Ownership (and Distribution) of Software and Modifications Thereto
+Developed by the Company.  As between the Company and IPS, the Parties
+acknowledge and agree that IPS and its licensors shall own all right, title and
+interest in and to the Utility Software.  Subject to such ownership rights in
+the Utility Software, as between IPS and its licensors and the Company, the
+Company shall own all right, title and interest in and to all modifications it
+creates to the Utility Software.
+
+5.  Transition Responsibilities.
+
+(a)  Services.  IPS or its Affiliates shall provide the Company with
+up to 500 hours of training and application support relating to the Utility
+Software (the "Services") at locations and times agreed to by IPS and the
+Company over the period beginning on the date hereof through the date that
+is 90 days after final delivery of the Utility Software pursuant to Section
+3(b). The Parties agree that an hour of Services shall mean any hour during
+which one or more employees of the Company are receiving Services. At the
+request of the Company, IPS shall provide the Company additional Services,
+provided that the Company shall pay IPS for each such additional hour of
+Services on a time and materials basis (i.e., not including allocations of
+overhead associated with delivery of such Services) and for the travel and
+lodging expenses of its employees who perform the Services.
+
+(b)  No Other Services.  Except as contemplated by Section 5(a), IPS
+shall have no responsibility to update, maintain or support the Utility
+Software.
+
+6.  Representations and Warranties; Disclaimers.
+
+(a)  By IPS.  IPS represents and warrants to the Company that: (i) IPS
+has all right, power and authority to enter into and perform its
+obligations set forth in this Agreement in accordance with its terms
+without the consent of any third Person; (ii) the Utility Software as
+delivered
+
+5
+<PAGE>
+
+to the Company will not infringe or violate any Intellectual Property of
+any third Person; (iii) all Services provided herein shall be provided in a
+professional and workmanlike manner; and (iv) the Utility Software, the PC
+MoneyGram Application Software and the MoneyGram Application Software
+constitute all of the software required to process Consumer Money Wire
+Transfer Service transactions for the Business as conducted on the date
+hereof.
+
+(b)  By the Company.  The Company represents and warrants to IPS that
+the Company has all right, power and authority to enter into and perform
+its obligations set forth in this Agreement in accordance with its terms
+without the consent of any third Person.
+
+(c)  No Other Warranties; Disclaimer.  EXCEPT FOR THE EXPRESS
+WARRANTIES SET FORTH HEREIN, THE UTILITY SOFTWARE AND THE SERVICES PROVIDED
+TO THE COMPANY HEREUNDER ARE PROVIDED ON AN "AS-IS" BASIS WITHOUT ANY
+REPRESENTATION OR WARRANTY OF ANY KIND WHATSOEVER.  EXCEPT AS SET FORTH
+HEREIN OR IN ANY OTHER AGREEMENT TO WHICH IPS AND THE COMPANY ARE PARTIES,
+IPS MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, TO THE
+COMPANY OR ANY OTHER PERSON, INCLUDING ANY WARRANTIES REGARDING THE
+MERCHANTABILITY, SUITABILITY, ORIGINALITY, FITNESS FOR A PARTICULAR PURPOSE
+OR OTHERWISE (IRRESPECTIVE OF ANY PREVIOUS COURSE OF DEALINGS BETWEEN THE
+PARTIES OR CUSTOM OR USAGE OF TRADE), OR RESULTS TO BE DERIVED FROM THE USE
+OF THE SOFTWARE OR THE SERVICES PROVIDED HEREUNDER.
+
+7.  Disclaimer of Liability.  NOTWITHSTANDING ANY OTHER PROVISION TO
+THE CONTRARY SET FORTH IN THIS AGREEMENT, IN NO EVENT SHALL IPS, ANY OF ITS
+AFFILIATES, OR ANY OF THEIR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR
+SUBCONTRACTORS BE LIABLE FOR ANY CONSEQUENTIAL DAMAGES UNDER THIS AGREEMENT,
+WHICH ARE HEREBY EXCLUDED BY AGREEMENT OF THE PARTIES REGARDLESS OF WHETHER
+EITHER PARTY OR ANY OTHER SUCH PERSON HAS BEEN ADVISED, OR COULD HAVE FORESEEN,
+OF THE POSSIBILITY OF SUCH DAMAGES.  THE FOREGOING REPRESENTS AN EXPRESS
+ALLOCATION OF RISK BETWEEN THE PARTIES.
+
+8.  Indemnification.
+
+(a)  Indemnification by IPS.  Subject to Section 9, IPS shall
+indemnify and hold the Company harmless against any and all Losses and
+Expenses arising out of or related to (i) the breach of any warranty or the
+inaccuracy of any representation of IPS contained in this Agreement, (ii)
+the breach by IPS of any of its covenants in this Agreement or
+
+
+6
+<PAGE>
+
+(iii) any claim that the Company's use or possession of the Utility
+Software or the license granted hereunder, infringes or violates the
+Intellectual Property of any third Person. If a final injunction is
+obtained against the Company's use of the Utility Software by reason of
+such infringement, or if in IPS' opinion the Utility Software is likely to
+become the subject of a claim for such infringement, IPS shall, at its sole
+option and expense: (i) procure for the Company the right to continue using
+the Utility Software, or any portion thereof, in the manner permitted
+hereunder; or (ii) replace or modify the Utility Software, or any portion
+thereof, so that it becomes noninfringing.
+
+(b)  Indemnification by the Company. Subject to Section 9, the Company
+shall indemnify and hold IPS and its Affiliates harmless against any and
+all Losses and Expenses arising out of or related to the breach by the
+Company of any of its covenants in this Agreement.
+
+(c)  Limitation of Indemnification Obligations. Notwithstanding
+anything to the contrary set forth in this Agreement: (i) the remedies in
+Section 8(a) shall be the Company's sole remedies in the event of a
+successful claim of Intellectual Property infringement; and (ii) IPS shall
+have no liability to the Company under this Section 8 if (1) any
+infringement is based upon the Company's use of the Utility Software in
+combination with any software not furnished by IPS, (2) the Utility
+Software is used in a manner for which it is not designed or (3) the
+infringement is based upon modifications of the Utility Software made by or
+for the Company.
+
+(d)  Procedure.  IPS or the Company, as the case may be (the
+"Indemnifying Party"), shall indemnify the indemnified party under this
+Section 8 (the "Indemnified Party") as set forth in this Section 8 provided
+that: (i) the Indemnified Party promptly notifies the Indemnifying Party in
+writing of the claim; (ii) the Indemnifying Party has sole control of the
+defense and all related settlement negotiations with respect to the claim,
+provided, however, that the Indemnified Party has the right, but not the
+obligation, to participate in the defense of any such claim or action
+through counsel of its own choosing and at it's sole expense; and (iii) the
+Indemnified Party cooperates fully to the extent reasonably necessary, and
+executes all documents reasonably necessary for the defense of such claim.
+
+
+7
+<PAGE>
+
+9.  Dispute Resolution.  Any Dispute shall be resolved in accordance
+with Article 11 of the Operations Agreement, the provisions of which are
+incorporated herein by reference.
+
+10.    Miscellaneous.
+
+(a)  Expenses.  Except as otherwise provided herein, each of the
+Parties shall pay all Costs incurred by it or on its behalf in connection
+with its performance and compliance with all its obligations under this
+Agreement, including fees and expenses of its own financial consultants,
+accountants and counsel.
+
+(b)  Relationship of Parties.  IPS, in furnishing Services to the
+Company under this Agreement, is acting only as an independent contractor.
+Except as set forth in this Agreement, IPS does not and shall not undertake
+by this Agreement or otherwise to perform any obligation of the Company,
+whether regulatory or contractual, or assume any responsibility for the
+Company's business or operations.  IPS has the sole and exclusive right and
+obligation to supervise, manage, contract, direct, procure, perform or
+cause to be performed, all work to be performed by IPS under this
+Agreement, unless otherwise provided herein.
+
+(c)  Force Majeure.  Each Party shall be excused from the performance
+of obligations (other than payment obligations) under this Agreement, for
+any period and to the extent that it is prevented, restricted or delayed
+from or interfered with in performing any of its obligations under this
+Agreement, in whole or in part, as a result of labor disputes, strikes,
+work stoppages or delays, acts of God, severe weather, failures or
+fluctuations in utilities or telecommunications equipment or service,
+shortages of materials or rationing, civil disturbance, acts of public
+enemies, blockade, embargo or any law, order, proclamation, regulation,
+ordinance or court order or requirement having legal effect of any judicial
+authority or Governmental Body, or any other act or omission whatsoever,
+whether similar or dissimilar to the foregoing, which are beyond the
+reasonable control of such Party (each, a "Force Majeure Event"), and such
+nonperformance shall not be a breach or default under this Agreement, or a
+ground for termination of this Agreement.  Each Party shall give the other
+Party immediate notice of any Force Majeure Event affecting the notifying
+Party's ability to perform under this Agreement and shall promptly update
+the other Party regarding the notifying Party's efforts to mitigate and
+resolve such Force Majeure Event.
+
+
+8
+<PAGE>
+
+(d)  Entire Agreement.  This Agreement, including the Exhibits hereto,
+and the provisions of the Operations Agreement expressly referenced herein,
+constitute the entire agreement among the Parties with regard to the
+subject matter hereof and thereof, and supersede all other prior
+agreements, understandings or discussions among the Parties concerning the
+subject matter hereof and thereof.  This Agreement may not be amended or
+modified except in writing signed by an authorized representative of each
+Party.
+
+(e)  Assignment.  IPS may assign its rights and delegate its duties
+and obligations hereunder to any of its Affiliates, provided such Affiliate
+remains an Affiliate of IPS after such an assignment and that
+notwithstanding such assignment IPS shall remain primarily liable for all
+of its obligations hereunder.  The Company may assign, transfer, sublicense
+and/or delegate its rights and duties under this Agreement, in whole or in
+part, in accordance with the license grant set forth in Section 2(a),
+provided that such assignee, transferee, sublicensee or delegatee agrees to
+be bound in writing to the terms and conditions of this Agreement, and,
+notwithstanding such assignment, the Company shall remain primarily liable
+for all of its obligations hereunder.  Subject to the foregoing, this
+Agreement shall extend to and be binding upon and inure to the benefit of
+the Parties and their respective successors and permitted assigns.  Except
+as contemplated by Section 8 in respect of an Indemnified Party, nothing in
+this Agreement is intended to or shall be construed to confer upon any
+Person other than the Parties, and their respective successors and
+permitted assigns, any right, remedy or claim under or by reason of this
+Agreement.
+
+(f)  Notices.  All notices which any Party may be required or desire
+to give to any other Party shall be in writing and shall be given by
+personal service, telecopy, registered mail or certified mail (or its
+equivalent) or overnight courier to the other Party at its respective
+address or telecopy telephone number set forth below.  Mailed notices and
+notices by overnight courier shall be deemed to be given upon actual
+receipt by the Party to be notified.  Notice delivered by telecopy shall be
+confirmed in writing by overnight courier and shall be deemed to be given
+upon actual receipt by the Party to be notified.
+
+9
+<PAGE>
+
+In the case of IPS:
+
+Integrated Payment Systems Inc.
+6200 So. Quebec St., Suite 320AK
+Englewood, CO  80111
+Attention:  Brent Willing
+Telephone Number:  303-488-8190
+Telecopy Number:   303-488-8631
+
+With a copy to:
+
+First Data Corporation
+2121 N. 117th Ave. NP 30
+Omaha, Nebraska  68164
+Attention:  General Counsel
+Telephone Number: 402-498-4085
+Telecopy Number:  402-498-4123
+
+In the case of the Company:
+
+MoneyGram Payment Systems, Inc.
+7401 West Mansfield Ave.
+Lakewood, Colorado  80235
+Attention: Chief Executive Officer
+Telephone Number: 303-716-6800
+Telecopy Number:  303-716-6997
+
+With a copy to:
+
+MoneyGram Payment Systems, Inc.
+7401 West Mansfield Ave.
+Lakewood, Colorado  80235
+Attention: General Counsel
+Telephone Number: 303-716-6800
+Telecopy Number:  303-716-6997
+
+A Party may from time to time change its address for notification purposes
+by giving the other Party prior written notice of the new address and the
+date upon which it shall become effective.
+
+(g)  Counterparts.  This Agreement may be executed in several
+counterparts, each of which shall be deemed an original but all of which
+together shall constitute one and the same instrument.
+
+(h)  Governing Law.  Subject to the provisions referenced in Section
+9, this Agreement shall be governed by and construed in accordance with the
+internal laws (as
+
+10
+<PAGE>
+
+opposed to the conflict of laws provisions) of the State of New York.
+
+(i)  Waiver.  Any term or provision of this Agreement may be waived,
+or the time for its performance may be extended, by the Party entitled to
+the benefit thereof.  Any such waiver shall be validly and sufficiently
+authorized for the purposes of this Agreement if, as to any Party, it is
+authorized in writing by an authorized representative of such Party.  The
+failure of any Party hereto to enforce at any time any provision of this
+Agreement shall not be construed to be a waiver of such provision, nor in
+any way to affect the validity of this Agreement or any part hereof or the
+right of any Party thereafter to enforce each and every such provision.  No
+waiver of any breach of this Agreement shall be held to constitute a waiver
+of any other or subsequent breach.  Except as specifically provided
+otherwise, all remedies provided for in this Agreement shall be cumulative
+and in addition to and not in lieu of any other remedies available to any
+Party at law, in equity or otherwise.
+
+(j)  Severability.  Wherever possible, each provision hereof shall be
+interpreted in such manner as to be effective and valid under applicable
+law, but in case any one or more of the provisions contained herein shall,
+for any reason, be held to be invalid, illegal or unenforceable in any
+respect, such provision shall be ineffective to the extent, but only to the
+extent, of such invalidity, illegality or unenforceability without
+invalidating the remainder of such invalid, illegal or unenforceable
+provision or provisions or any other provisions hereof, unless such a
+construction would be unreasonable.
+
+11
+<PAGE>
+
+IN WITNESS WHEREOF, each of the Parties hereto has caused this Agreement to
+be signed and delivered by its duly authorized officer as of the date first
+written above.
+
+MONEYGRAM PAYMENT SYSTEMS, INC.
+
+
+By /s/ James F. Calvano
+Name:  James F. Calvano
+Title: Chairman and CEO
+
+
+INTEGRATED PAYMENT SYSTEMS INC.
+
+
+By /s/ Charles W. Brooks
+Name:  Charles W. Brooks
+Title: President
+
+
+12
+

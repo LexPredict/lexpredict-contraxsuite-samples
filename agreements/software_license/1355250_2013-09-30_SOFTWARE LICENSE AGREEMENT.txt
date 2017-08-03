@@ -1,0 +1,596 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+BETWEEN
+
+
+POLYMEDIX, INC.
+
+
+AND
+
+
+THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+This
+Software License Agreement (this “Agreement”) is made on May 30, 2003 (the “Effective Date”), by and between
+The Trustees of the University of Pennsylvania, a Pennsylvania nonprofit corporation, with offices located at 3160 Chestnut Street,
+Suite 200, Philadelphia, Pennsylvania 19104-3147 (“Penn”), and Polymedix, Inc., a Delaware corporation (“Licensee”),
+with its principal offices at 5 Radnor Corporate Center, 100 Matsonford Road, Suite 520, Radnor, PA 19087.
+
+
+BACKGROUND
+
+
+A.
+Penn owns or has rights to license certain software developed in the laboratories of Drs. Michael Klein, William DeGrado and Jeffrey
+Saven of Penn’s School of Arts and Sciences, which software is used or useful in the practice of certain inventions being
+licensed by Penn to Licensee under a Patent License Agreement between them dated as of the date hereof (the “Patent License
+Agreement”);
+
+
+B.
+Licensee desires to obtain license rights to use, copy, perform, display, distribute, modify and prepare derivative works based
+on such software, and a first option to negotiate with Penn to obtain a license to certain improvements and modifications directly
+related thereto; and
+
+
+C.
+The exploitation of the software developed in the laboratories of Drs. Klein, DeGrado and Saven is in the best interest of Penn
+and is consistent with their educational and research missions and goals.
+
+
+NOW, THEREFORE, in consideration of the promises and covenants
+contained in this Agreement and intending to be legally bound, the parties agree as follows:
+
+
+1.     DEFINITIONS
+
+1.1     “Affiliate” means any legal entity directly or indirectly controlling, controlled by or under common control with Licensee that has executed (a) this Agreement or (b) a written joinder agreement, in a form satisfactory to Penn, agreeing to be bound by all of the terms and conditions of this Agreement as if such Affiliate were an original party to this Agreement. For purposes of this Agreement, “control” means the direct or indirect ownership of at least fifty percent (50%) of the outstanding voting securities of a legal entity, or the right to receive more than fifty percent (50%) of the profits or earnings of a legal entity, or the right to control the policy decisions of a legal entity, or the right to appoint a majority of its board of directors or the maximum percentage allowed by law in the country of the controlled entity.
+
+1.2     “Agreement” shall have the meaning given in the first paragraph hereof.
+
+1.3     “Change of Control” means an assignment of the License, an exclusive sublicense of all of the intellectual property and any other rights granted to Licensee under this Agreement, a direct merger or other change in corporate structure where Licensee is not the surviving entity, a sale or transfer of the capital stock of Licensee representing more than fifty percent (50%) of the voting power of the stockholders of Licensee immediately prior to such sale, or an initial public offering of securities by Licensee. For clarity, a Change of Control shall not include a financing event in which Licensee may transfer more than fifty percent (50%) of the voting power of the stockholders to venture capital or other similar investors who do not exercise control over day-to-day operations of Licensee.
+
+
+
+
+
+
+
+
+
+
+
+1.4     “Confidential Information” means and includes all technical information, inventions, developments, discoveries, software (including the source code for the Penn Software), know-how, methods, techniques, formulae, data, processes and other proprietary ideas, whether or not patentable or copyrightable, regardless whether Penn identifies such information as confidential or proprietary at the time it is delivered or communicated to Licensee. Confidential Information shall include all disclosures hereunder in writing and identified as being “Confidential”, or if disclosed orally, which are reduced in writing within thirty (30) days of oral disclosure and clearly identified as being “Confidential.”
+
+1.5     “Default” shall have the meaning given in Section 5.2.
+
+1.6     “Effective Date” shall have the meaning given in the first paragraph of this Agreement.
+
+1.7     “Indemnified Party” shall have the meaning given in Section 7.5.
+
+1.8     “Liability” and “Liabilities” shall have the meaning given in Section 7.5.
+
+1.9     “License” shall mean the license granted by Penn to Licensee pursuant to Section 2.1.
+
+1.10     “Licensee” shall have the meaning given in the first paragraph of this Agreement.
+
+1.11     “Patent License Agreement” shall have the meaning given in the recitals above.
+
+1.12     “Penn Software” means the application, demonstration and/or system software developed in the Penn labs of Drs. Klein, DeGrado and/or Saven that is useful in connection with practicing under the Penn Patent Rights (as such term is defined in the Patent License Agreement), in both object and source code forms, as applicable, including any associated documentation, all as described further in Attachment 1.
+
+1.13     “Sublicense” shall have the meaning given in Section 2.4.1.
+
+1.14     “Sublicense Assignment” shall have the meaning given in Section 2.4.2.
+
+1.15     “Sublicensee” shall have the meaning given in Section 2.4.1.
+
+1.16     “Trigger Event” means any of the following:
+
+
+
+
+
+
+
+
+
+
+
+1.16.1     If Licensee: becomes insolvent, bankrupt or generally fails to pay its debts as such debts become due; is adjudicated insolvent or bankrupt; admits in writing its inability to pay its debts; or shall suffer a custodian, receiver or trustee for it or substantially all of its property to be appointed and, if appointed without its consent, not be discharged within sixty (60) days; makes an assignment of all or substantially all of its assets for the benefit of creditors; or suffers proceedings under any law related to bankruptcy, insolvency, liquidation or the reorganization, readjustment or the release of debtors to be instituted against it and, if contested by it, not dismissed or stayed within thirty (30) days;
+
+1.16.2     If proceedings under any law related to bankruptcy, insolvency, liquidation, or the reorganization, readjustment or the release of debtors are instituted or commenced by Licensee; or
+
+1.16.3     If any order for relief is entered relating to any of the proceedings described in Sections 1.16.1 or 1.16.2; or
+
+1.16.4     If Licensee shall call a meeting of its creditors with a view to arranging a composition or adjustment of its debts; or
+
+1.16.5     If Licensee shall by any act or failure to act indicate its consent to, approval of or acquiescence in any of the proceedings described in Sections 1.16.1, 1.16.2, 1.16.3 or 1.16.4.
+
+2.     LICENSE GRANT
+
+2.1     License Grant. Penn hereby grants to Licensee and its Affiliates, to the extent Penn has the right to do so, a license to use, copy, perform, display, distribute, modify and prepare derivative works based on the Penn Software, with the qualified right to sublicense in the United States and throughout the world to the extent permitted under Section 2.4. Penn shall use reasonable and diligent efforts to obtain in writing, within thirty (30) days following the Effective Date, appropriate assignments of all copyright and other interests in the Penn Software from Drs. Klein, DeGrado and Saven, and such other persons in their laboratories who developed any material portions of thereof. To the extent that any Affiliate exercises any rights granted by Penn hereunder, Licensee remains primarily liable to Penn for the duties and obligations of any Affiliate hereunder, and any act or omission of an Affiliate would be deemed to be a breach by Licensee of this Agreement. Licensee will produce on all copies of the Penn Software a valid copyright notice. No other rights or licenses are granted except as expressly set forth herein.
+
+2.2     Exclusivity. The License is non-exclusive, but Penn shall not grant any additional licenses to the Penn Software to any other persons or entities. Notwithstanding the foregoing, Penn may use the Penn Software solely for educational and non-commercial research purposes and for Penn’s internal business purposes. Upon request, Licensee agrees to sublicense the Penn Software (excluding, to the extent applicable, any of the new software described in Section 2.5) to other academic investigators solely for their use in conducting educational and non-commercial research, said sublicenses to be granted on such terms and conditions as are reasonably acceptable to Licensee.
+
+2.3     U.S. Government Rights. Licensee or its Affiliates acknowledge that pursuant to Public Laws 96-517, 97-256 and 98-620, codified at 35 U.S.C. 200-212, the United States government retains certain rights in intellectual property funded in whole or part under any contract, grant or similar agreement with a Federal agency. Pursuant to these laws, the government may impose certain requirements regarding such intellectual property, including but not limited to the requirement that products resulting from such intellectual property sold in the United States must be substantially manufactured in the United States. The License is expressly subject to all applicable United States government rights as provided in the above-mentioned laws and any regulations issued under those laws, as those laws or regulations may be amended from time to time.
+
+
+
+
+
+
+
+
+
+
+
+2.4     Sublicense Conditions. The right to sublicense granted to Licensee under Section 2.1 is subject to the following conditions:
+
+2.4.1     Licensee may sublicense the rights granted in this Agreement by written sublicense agreement which form shall (a) prohibit the sublicensee (“Sublicensee”) from further sublicensing, (b) require that the Sublicensee be subject to the applicable terms and conditions of the license granted to Licensee under this Agreement, and (c) to the extent separate license fees are paid for sublicense rights to the Penn Software, disclaim all consequential damages as to claims with respect to the Penn Software and limit liability to no more than the actual license fees paid by the Sublicense for such sublicense rights (each, a “Sublicense”).
+
+2.4.2     Within thirty (30) days after Licensee enters into any Sublicense: (a) Licensee must deliver to Penn a complete copy of the Sublicense (after redacting any confidential information that is not reasonably relevant to Penn’s administration of this Agreement) written in the English language (Penn’s receipt of the Sublicense shall not constitute an approval of the Sublicense or a waiver of any of Penn’s rights or Licensee’s obligations under this Agreement); (b) an executed assignment and security agreement in form acceptable to Penn (each, a “Sublicense Royalty Assignment”) granting Penn, as security for the payment of Licensee’s obligations hereunder, an assignment of and security interest in any royalties, fees or other proceeds generated by such Sublicense, exercisable upon occurrence and during the continuance of a Default under Section 5.2; and (c) such executed forms of UCC-1 and UCC-3 or other documents as may be necessary to perfect Penn’s interest in such Sublicense Royalty Assignment. In addition to any rights or remedies provided for under this Agreement, Penn shall have all of the rights and remedies of a secured party under the Uniform Commercial Code. Upon request, Licensee shall execute all such documents as are reasonably necessary to evidence and perfect in any jurisdiction Penn’s interest in and to such Sublicense Royalty Assignment. If Licensee fails to execute such documents in a timely manner, Licensee hereby grants Penn, effective during the period during which this Agreement or any Sublicense is in effect, an irrevocable power of attorney to execute in the name of Licensee all such documents as are reasonably necessary to evidence and perfect in any jurisdiction Penn’s interest in and to such Sublicensee Royalty Assignment. Penn hereby agrees that its assignment of and security interest in such royalties, fees and other proceeds shall be subordinated to any security interest and/or assignment that Licensee may grant to any lender to Licensee, and Penn shall execute and deliver any such documents as may be reasonably requested by Licensee to confirm and document the foregoing. Upon satisfaction of Licensee’s payment obligations hereunder, Penn shall execute such UCC termination statements with respect to the Sublicensee Royalty Assignment as Licensee shall reasonably request.
+
+2.4.3     In the event of the continuance of a Default under Section 5.2 hereunder, all payments then or thereafter due to Licensee or its Affiliates from each Sublicensee shall, upon notice from Penn to any such Sublicensee, become owed directly to Penn for the account of Licensee or its Affiliate; provided that Penn shall remit to Licensee or its Affiliate the amount by which such payments in the aggregate exceed the total amount owed by Licensee to Penn.
+
+
+
+
+
+
+
+
+
+
+
+2.4.4     Even if Licensee enters into Sublicenses, Licensee remains primarily liable to Penn for all of Licensee’s duties and obligations contained in this Agreement, and any act or omission of an Affiliate or Sublicensee that would be a breach of this Agreement if performed by Licensee shall be deemed to be a breach by Licensee of this Agreement.
+
+2.5     New Software.
+
+2.5.1     In the event that software is developed in the Penn labs of Drs. Klein, DeGrado or Saven that is a modification, improvement or enhancement to the Penn Software, Penn shall notify Licensee within 45 days after becoming aware of such development. Licensee shall within 30 days notify Penn that Licensee desires to obtain a license to such software. If Licensee so elects, then Penn and Licensee shall promptly thereafter negotiate in good faith for Licensee to take a license such software under terms substantially the same as those set forth herein; provided, however, that no additional consideration shall be payable to Penn in connection therewith. Notwithstanding the foregoing sentence, Penn reserves the right to renegotiate in good faith the consideration payable to Penn as it pertains to such software as may be required to protect Penn’s tax exempt status under the provisions of the Tax Reform Act of 1986.
+
+2.5.2     Penn shall not be obligated to license any software to Licensee under this Section 2.5 to the extent it is obligated to license such software to another party by reason of a sponsored research agreement entered into with such other party; provided, however, that Penn shall in good faith negotiate with Licensee for Licensee to sponsor any research that is specifically directed towards the development of software that is a modification or improvement to the Penn Software for a period of at least 150 days prior to entering into any such sponsored research agreement with another party. Any such sponsored research agreement with Penn that is specifically directed towards the development of software covered by this Section 2.5 shall require the payment of no more than “nominal” consideration to Penn.
+
+2.5.3     If the parties are unable to agree on the terms of a license and Penn subsequently licenses any such software to a third party, Penn shall promptly reimburse Licensee for all costs and expenses that Licensee has paid to Penn in connection with the filing and prosecution of any copyright or other registrations with respect to such software.
+
+2.5.4     The rights described in this Section will expire as to any software developed (as determined based on invention disclosure submissions to Penn) after the fifth anniversary of the Effective Date, or the date of a Change of Control, whichever occurs sooner.
+
+2.6     Additional Provisions for Penn Software. Penn shall deliver to Penn complete copies of all of the Penn Software promptly following the Effective Date. Licensee acknowledges that the Penn Software is protected by United States copyright laws and international treaty provisions, and that Penn retains sole and exclusive title to all such copyrights. Licensee acknowledges that Penn is not in the business of commercial distribution of software, has not prepared the Penn Software for commercial distribution and does not provide any support or upgrades for the Penn Software. Licensee will devote its own resources to completing the development of the Penn Software prior to commercial distribution and to provide any services necessary to distribute the Penn Software. Licensee will also be responsible for selecting and protecting its own trademarks and service marks in connection with commercial distribution of the Penn Software.
+
+
+
+
+
+
+
+
+3.     FEES
+
+3.1     License Fees. In consideration of the License, Licensee shall pay to Penn an one-time license fee of One Thousand Dollars ($1000.00).
+
+3.2     Currency, Place of Payment, Interest, Payment of Expenses.
+
+3.2.1     All dollar amounts referred to in this Agreement are expressed in United States dollars. All payments to Penn under this Agreement shall be made in United States dollars by check payable to “The Trustees of the University of Pennsylvania.”
+
+3.2.2     Amounts that are not paid when due shall accrue interest from the due date until paid, at a rate equal to one and one-half percent (1.5%) per month or part thereof (or the maximum allowed by law, if less).
+
+4.     CONFIDENTIALITY
+
+4.1     Non-Disclosure by Licensee. Licensee shall maintain in confidence and not disclose to any third party any Confidential Information of Penn; provided, however, that Licensee may disclose Confidential Information to its Sublicensees (including prospective Sublicensees) and Affiliates to use in a manner consistent with the manner in which Licensee may use such Confidential Information hereunder. Licensee shall ensure that its employees, and shall require that its Sublicensees and Affiliates ensure that their employees, have access to Confidential Information only on a need-to-know basis and are obligated in writing to abide by Licensee’s obligations under this Agreement. Licensee’s, Sublicensee’s and Affiliate’s obligations of confidentiality as recipients under this Agreement shall be limited to a period of ten (10) years from receipt of Confidential Information, provided that for each item of Confidential Information received, such ten (10) year period shall run only once, from the date such Confidential Information is first received by Licensee. The foregoing obligation shall not apply to:
+
+4.1.1     Information that is known to Licensee or any Sublicensee or Affiliate, or independently developed by Licensee or any Sublicensee or Affiliate, prior to the time of disclosure, in each case, to the extent evidenced by written records promptly disclosed to Penn upon receipt of the Confidential Information;
+
+4.1.2     Information disclosed to Licensee or any Sublicensee or Affiliate, by a third party that has a right to make such disclosure;
+
+4.1.3     Information that becomes patented, published or otherwise part of the public domain as a result of acts by Penn, acts of Licensee or any Sublicensee or Affiliate that have been approved by Penn, such approval not to be unreasonably withheld, or acts of a third person obtaining such information as a matter of right;
+
+
+
+
+
+
+
+
+
+
+
+4.1.4     Information reasonably required to be disclosed in order to obtain or maintain regulatory or other approvals for Penn Licensed Products;
+
+4.1.5     Information that is required to be disclosed by law, rule, regulation or order of a United States governmental authority or agency (including the SEC), or a court of competent jurisdiction; provided that Licensee shall use reasonable efforts to obtain confidential treatment of such information by such authority, agency or court;
+
+4.1.6     Information that is disclosed to accountants, banks or other financing sources (or their advisors) or in connection with a merger, acquisition, strategic alliance or securities offering, subject to a nondisclosure and confidentiality agreement.
+
+4.2     Limited Non-Disclosure by Penn. Penn shall use reasonable and diligent efforts to keep, and shall permit Licensee to require Penn’s researchers to agree to keep, the Penn Software confidential and not to disclose the Penn Software to any third party; provided, however, that nothing herein shall prohibit the publication or presentation of any reasonably appropriate scientific papers or study results with respect to the Penn Software. Penn bears no institutional responsibility for maintaining the confidentiality of any other information of Licensee.
+
+5.     TERM AND TERMINATION
+
+5.1     Term. This Agreement, unless sooner terminated as provided in this Agreement, shall expire upon the termination (but not expiration) of the Patent License Agreement.
+
+5.2     Termination by Penn. Penn may terminate this Agreement on written notice to Licensee if any of the following events of default (“Default”) occur:
+
+5.2.1     Licensee is more than sixty (60) days late in paying to Penn any undisputed amounts due under this Agreement and Licensee does not pay Penn in full within thirty (30) days of written notice thereof;
+
+5.2.2     Licensee experiences a Trigger Event; or
+
+5.2.3     Licensee materially breaches this Agreement (other than a breach solely under Section 5.2.1) and does not cure such breach within sixty (60) days after written notice of the breach;
+
+5.3     Effect of Termination. In the event of a termination under Section 5.2 hereof, the License shall immediately terminate without the necessity of any action being taken either by Penn; provided, however, that Penn shall, upon the request of any Sublicensee not then in material breach of any provisions of this Agreement applicable to such Sublicensee, promptly enter into a direct license agreement with such Sublicensee on terms substantially the same as the terms of this Agreement.
+
+
+
+
+
+
+
+
+
+
+
+5.4     Return of Confidential Information. Upon termination of this Agreement, Licensee and any Affiliate and/or Sublicensee shall, at Penn’s request, return to Penn or destroy all Confidential Information and any copies of the Penn Software in their possession or control, except as may be necessary for Licensee and any Affiliate and/or Sublicensee to exercise any of its retained rights under this Article 5. Licensee and any Affiliate and/or Sublicensee may retain one copy of Confidential Information and the Penn Software in their files for reference purposes only.
+
+5.5     Advertising Materials. Upon the termination of this Agreement, Licensee shall, at its own expense forthwith remove, efface or destroy all references to Penn from all advertising or other materials used in the promotion of Licensee’s business or the business of any Affiliate or Sublicensee and Licensee and any Affiliate and/or Sublicensee shall not thereafter represent in any manner that it has rights in or to the Penn Software, except as may be necessary for Licensee and any Affiliate and/or Sublicensee to exercise any of its retained rights under this Article 5.
+
+5.6     Survival. Licensee’s obligation to pay all monies owed accruing under this Agreement prior to the date of expiration or termination of this Agreement (or thereafter in accordance with the provisions of this Article 5) shall survive such expiration or termination. In addition, the provisions of Article 4 – CONFIDENTIALITY, Article 5 – TERM AND TERMINATION, Article 7 – DISCLAIMER OF WARRANTIES; INDEMNIFICATION, Article 8 – USE OF PENN’S NAME, and Article 9 – ADDITIONAL PROVISIONS shall survive such expiration or termination.
+
+6.     INFRINGEMENT AND LITIGATION
+
+6.1     Notification of Infringement. Penn and Licensee are responsible for notifying each other promptly of any infringement of any copyrights in the Penn Software which may come to their attention. Penn and Licensee shall consult one another in a timely manner concerning any appropriate response to the infringement, including, without limitation, whether Penn needs to join any action taken against the infringing party.
+
+6.2     Prosecution by Licensee. Licensee may prosecute such infringement at its own expense and, if legally necessary, may join Penn as a party to such action. Licensee shall not settle or compromise any such suit in a manner that imposes any obligations or restrictions on Penn or grants any rights to the Penn Software without Penn’s prior written permission, not to be unreasonably withheld. Except as otherwise provided in Section 6.3, financial recoveries from any such litigation will first be applied to reimburse Licensee for its litigation expenditures with additional recoveries being paid to Licensee.
+
+6.3     Intervention by Penn. Licensee’s rights under Section 6.2 are subject to the continuing right of Penn to intervene at Penn’s own expense and join Licensee in any claim or suit for infringement of any copyrights in the Penn Software. Any consideration received by Licensee in settlement of any claim or suit in which Penn has intervened shall first be applied to reimburse Licensee and Penn for their respective litigation expenditures, with additional recoveries being shared between Penn and Licensee in proportion with their share of the litigation expenses in such infringement action.
+
+
+
+
+
+
+
+
+
+
+
+6.4     Prosecution by Penn. If Licensee fails to prosecute any infringement, then Penn may prosecute such infringement at its own expense. In such event, financial recoveries will be entirely retained by Penn.
+
+6.5     Cooperation. In any action to enforce any copyrights in the Penn Software, either party, at the request and expense of the other party shall cooperate to the fullest extent reasonably possible. This provision shall not be construed to require either party to undertake any activities, including legal discovery, at the request of any third party except as may be required by lawful process of a court of competent jurisdiction.
+
+7.     WARRANTIES; DISCLAIMER OF WARRANTIES; INDEMNIFICATION
+
+7.1     NO ADDITIONAL WARRANTIES. THE PENN SOFTWARE LICENSED UNDER THIS AGREEMENT IS PROVIDED ON AN “AS IS” BASIS, AND PENN MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT THERETO, EXCEPT AS SET FORTH IN SECTION 7.3 AND 7.4. BY WAY OF EXAMPLE BUT NOT OF LIMITATION, PENN MAKES NO REPRESENTATIONS OR WARRANTIES: (a) OF COMMERCIAL UTILITY, ACCURACY OR COMPLETENESS; (b) OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE; (c) THAT THE USE OF THE PENN SOFTWARE WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADE SECRET OR TRADEMARK OR OTHER PROPRIETARY OR PROPERTY RIGHTS OF OTHERS; OR (d) THAT THE OPERATION OF THE PENN SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+7.2     LIMITATION OF LIABILITY. PENN SHALL NOT BE LIABLE TO LICENSEE, LICENSEE’S AFFILIATES OR SUBLICENSEES, OR THEIR RESPECTIVE SUCCESSORS OR ASSIGNS, OR ANY THIRD PARTY CLAIMING THROUGH THEM WITH RESPECT TO: ANY CLAIM ARISING FROM USE OF THE PENN SOFTWARE; OR ANY CLAIM FOR LOSS OF PROFITS, LOSS OR INTERRUPTION OF BUSINESS, OR FOR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES OF ANY KIND.
+
+7.3     Ownership; No Pending Action. Penn represents and warrants that it has identified to Licensee all persons known to Penn as of the Effective Date as having any rights in or to any material portions of the Penn Software or any copyrights therein. Penn represents and warrants that there are no pending actions, nor to the best of its knowledge, threatened or other claims, whether or not embodied in an action past or present, of infringement of any copyright or other intellectual property rights that has been made or is pending against Penn or any entity from which Penn has obtained such rights relative to the Penn Software.
+
+7.4     Authority. Penn represents and warrants that: (i) it has full authority to execute and deliver this Agreement and to carry out the transactions contemplated hereby; (ii) this Agreement has been duly authorized, executed and validly delivered by Penn and is binding and enforceable upon Penn in accordance with its terms; (iii) the execution and delivery of this Agreement by Penn will not violate any law, regulation or court order, or breach or cause a default under any agreement to which Penn is a party; and (iv) Penn has the right to grant the licenses granted to Licensee hereunder.
+
+
+
+
+
+
+
+
+
+
+
+7.5     Indemnification. Licensee shall indemnify, defend and hold harmless Penn, its trustees, officers, agents and employees (individually, an “Indemnified Party”, and collectively, the “Indemnified Parties”), from and against any and all claims, suits, actions or proceedings brought against the Indemnified Parties by any third party, and for any and all liability, loss, damage, or expense suffered or incurred by the Indemnified Parties in connection therewith (including reasonable attorneys’ fees and expenses) (individually, a “Liability”, and collectively, the “Liabilities”), that results from or arises out of: (a) the development, use, manufacture, promotion, sale or other disposition of any Penn Software by Licensee, its Affiliates, its assignees, Sublicensees, its vendors or other third parties acting under their authority; (b) any breach by Licensee or its Affiliates or Sublicensees of this Agreement; and (c) the enforcement by an Indemnified Party of this Section 7.5. Without limiting the foregoing, Licensee shall defend, indemnify and hold harmless the Indemnified Parties from and against any Liabilities resulting from:
+
+7.5.1     Any product liability or other claim of any kind related to the use by a third party of Penn Software that was manufactured, sold or otherwise disposed by Licensee, its Affiliates, its assignees, its Sublicensees, its vendors or other third parties acting under their authority;
+
+7.5.2     A claim by a third party that the Penn Software infringes or violates any patent, copyright, trade secret, trademark or other intellectual property rights of such third party (except to the extent such claim arises from a breach by Penn of any of its warranties under Section 7.3 and 7.4 above); and
+
+7.5.3     Clinical trials or studies conducted by or on behalf of Licensee, its Affiliates, its assignees, its Sublicensees or their agents relating to the Penn Software, including, without limitation, any claim by or on behalf of a human subject of any such clinical trial or study, any claim arising from the procedures specified in any protocol used in any such clinical trial or study, any claim of deviation, authorized or unauthorized, from the protocols of any such clinical trial or study, and any claim resulting from or arising out of the manufacture or quality control by a third party of any substance administered in any such clinical trial or study.
+
+7.6     Rights of Penn in Liability Action. Licensee is not permitted to settle or compromise any claim or action giving rise to Liabilities in a manner that imposes any restrictions or obligations on Penn or grants any rights to the Penn Software that are inconsistent with the rights granted to Licensee hereunder without Penn’s prior written consent. If Licensee fails or declines to assume the defense of any such claim or action within thirty (30) days after notice thereof, then Penn may assume the defense of such claim or action for the account and at the risk of Licensee. The indemnification rights of Penn or other Indemnified Party contained herein are in addition to all other rights that such Indemnified Party may have at law or in equity or otherwise.
+
+7.7     Procedures for Indemnification. Penn shall (a) provide Licensee with prompt written notice of each claim for which any Indemnified Party seeks indemnification under Section 7.5, (b) grant Licensee sole authority to defend and/or settle each such claim using attorneys selected by it and reasonably acceptable to Penn, and (c) cooperate in all reasonable respects with Licensee in connection with its performance of such activities.
+
+
+
+
+
+
+
+
+
+
+
+7.8     Insurance.
+
+7.8.1     Licensee and any Affiliate shall procure and maintain a policy or policies of comprehensive general liability insurance, including broad form and contractual liability, in a minimum amount of $2,000,000 combined single limit per occurrence and in the aggregate as respects personal injury, bodily injury and property damage arising out of such party’s performance of this Agreement.
+
+7.8.2     The policy or policies of insurance described in this Section 7.8 shall be issued by an insurance carrier with an A.M. Best rating of “A” or better and shall name Penn as an additional insured with respect to Licensee’s performance of this Agreement. Licensee and any Affiliate shall provide Penn with certificates evidencing the insurance coverage required herein and all subsequent renewals thereof. Such certificates shall provide that the insurance carrier(s) notify Penn in writing at least 30 days prior to cancellation or material change in coverage.
+
+7.8.3     Penn may periodically review the adequacy of the minimum limits of liability insurance specified in this Section, and Penn reserves the right to require Licensee and any Affiliate to adjust the liability insurance coverages within commercially reasonable levels. Any such determination shall be made reasonably by Penn in good faith. The specified minimum insurance amounts do not constitute a limitation on the obligation of Licensee and any Affiliate to indemnify Penn under this Agreement.
+
+8.     USE OF PENN’S NAME
+
+
+Licensee
+and its Affiliates and agents shall not use, and Licensee shall require its Affiliates and Sublicensees not to use, Penn’s
+name or any adaptation thereof, or any Penn seal, logotype, trademark, or service mark, or the name, mark, or logotype of any Penn
+representative or organization in any way without the prior written consent of Penn in its sole discretion. Notwithstanding the
+foregoing, Licensee and its Affiliates, Sublicensees and agents may refer to the fact that the Penn Software was developed in the
+laboratories of Drs. Klein, DeGrado and Saven. Licensee and its Affiliates, Sublicensees and agents may also refer to the existence
+of this Agreement and may describe its material terms in filings under the securities laws and in securities offering materials
+prepared in accordance with applicable securities laws and in its Sublicense Agreements and other materials provided to Sublicensees
+and prospective Sublicensees. In addition, Licensee and its Affiliates, Sublicensees and agents may refer to Penn’s name
+in biographical information of their officers, directors and employees, so long as Penn has had the opportunity to review the references
+to Penn prior to the use thereof.
+
+
+9.     ADDITIONAL PROVISIONS
+
+9.1     No Agency. Nothing in this Agreement shall be deemed to establish a relationship of principal and agent between Penn and Licensee or its Affiliates or Sublicensees, nor any of their agents or employees for any purpose whatsoever, nor shall this Agreement be construed as creating any other form of legal association or arrangement which would impose liability upon one party for the act or failure to act of the other party.
+
+
+
+
+
+
+
+
+
+
+
+9.2     No Assignment. Licensee is not permitted to assign this Agreement or any part of it, either directly or by merger or other operation of law, without the prior written consent of Penn in its sole discretion. Prior consent for assignment by Licensee shall not be necessary in the event that (i) Licensee is sold or merged in its entirety, or Licensee sells all or substantially all of its assets provided that the assignee or purchaser agrees to abide by the terms of this Agreement in its entirety and (ii) Licensee provides written notice to Penn within ten (10) business days following the date on which the sale or merger is publicly announced. Any prohibited assignment of this Agreement or the rights hereunder shall be null and void. No assignment relieves Licensee, its Affiliates and/or Sublicensees of responsibility for the performance of any accrued obligations that Licensee, its Affiliates and/or Sublicensees has prior to such assignment.
+
+9.3     No Waiver. No waiver of any breach or condition of this Agreement shall be deemed to be a waiver of any other subsequent breach or condition, whether of like or different nature.
+
+9.4     Notices. All notices, requests, consents and other communications hereunder shall be in writing and shall be delivered in person, sent via overnight delivery by a nationally-recognized overnight courier, or sent by certified or registered mail, return receipt requested, and shall be deemed to have been given when hand delivered, one (1) business day after mailing by overnight courier, or five (5) business days after mailing by registered or certified mail, as follows (provided that notice of change of address shall be deemed given only when received):
+
+
+If
+to Penn:
+
+
+University
+of Pennsylvania
+
+Center for Technology
+Transfer
+
+3160 Chestnut
+Street, Suite 200
+
+Philadelphia,
+PA 19104-3147
+
+Attention: Managing
+Director
+
+
+With
+a required copy to:
+
+
+Office
+of General Counsel
+
+University of
+Pennsylvania
+
+133 South 36th St,
+Suite 300
+
+Philadelphia,
+PA 19104-6303
+
+Attention: General
+Counsel
+
+
+If
+to Licensee:
+
+
+Polymedix,
+Inc.
+
+P.O. Box 130
+
+Bryn Mawr, PA
+19010-0130
+
+Attention: Chief
+Executive Officer
+
+
+
+
+
+
+
+
+With
+a copy to:
+
+
+Morgan,
+Lewis & Bockius, LLP
+
+1701 Market
+Street
+
+Philadelphia,
+PA 19103
+
+Attention: Stephen
+A. Jannetta, Esq.
+
+
+or to such other names or addresses as Licensee or Penn, as
+the case may be, shall designate by notice to each other person entitled to receive notices in the manner specified in this Section 9.4.
+
+
+9.5     Governing Law and Jurisdiction. This Agreement shall be construed and governed in accordance with the laws of the Commonwealth of Pennsylvania, without giving effect to conflict of law provisions of any jurisdiction. In the event that a party to this Agreement perceives the existence of a dispute with the other party concerning any right or duty provided for herein, the parties will, as soon as practicable, confer in an attempt to resolve the dispute. If the parties are unable to resolve such dispute amicably, then the parties hereby submit to the exclusive jurisdiction of and venue in the state and federal courts located in the Eastern District of the Commonwealth of Pennsylvania with respect to any and all disputes concerning the subject of, or arising out of, this Agreement.
+
+9.6     No Discrimination. Penn and Licensee, its Affiliates and Sublicensees shall not discriminate against any employee or applicant for employment because of race, color, sex, sexual or affectional preference, age, religion, national or ethnic origin, handicap, or because he or she is a disabled veteran or a veteran of the Vietnam Era.
+
+9.7     Compliance with Laws. Licensee, its Affiliates and Sublicensees shall comply with all prevailing laws, rules and regulations that apply to its activities or obligations under this Agreement. Without limiting the foregoing, it is understood that this Agreement may be subject to United States laws and regulations controlling the export of technical data, computer software, laboratory prototypes and other commodities, articles and information, including the Arms Export Control Act as amended in the Export Administration Act of 1979, and that the parties’ obligations are contingent upon compliance with applicable United States export laws and regulations. The transfer of certain technical data and commodities may require a license from the cognizant agency of the United States Government and/or written assurances by Licensee, its Affiliates and/or Sublicensees that Licensee shall not export data or commodities to certain foreign countries without prior approval of such agency. Penn neither represents that a license is not required nor that, if required, it will issue.
+
+9.8     Binding Nature of Agreement. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors and assigns, except that any assignment by Licensee must comply with Section 9.2 to be effective.
+
+9.9     Counterparts, Headings and Exhibits. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. The headings used in this Agreement are for convenience only and are not to be considered in construing or interpreting any term or provision of this Agreement. All Schedules and Exhibits hereto are hereby incorporated in this Agreement and made a part hereof.
+
+
+
+
+
+
+
+
+
+
+
+9.10     Integration and Amendment. This Agreement and the other Transaction Documents embody the entire agreement and understanding among the parties hereto and thereto and supersede all prior agreements and understandings relating to the subject matter hereof or thereof. This Agreement may not be changed, modified, extended or terminated except by written amendment executed by an authorized representative of each party.
+
+9.11     Severability. If any provision of this Agreement shall be held to be illegal, invalid or unenforceable, then such illegality, invalidity or unenforceability shall attach only to such provision and shall not in any manner affect or render illegal, invalid or unenforceable any other provision of this Agreement, and this Agreement shall be carried out as if any such illegal, invalid or unenforceable provision were not contained herein.
+
+9.12     Number of Days. In computing the number of days for purposes of this Agreement, all days shall be counted, including Saturdays, Sundays and holidays; provided that if the final day of any time period falls on a Saturday, Sunday or holiday on which Federal banks are or may elect to be closed, then the final day shall be deemed to be the next day which is not a Saturday, Sunday or such holiday.
+
+9.13     Force Majeure. If the performance of any part of this Agreement by either party (other than the payment of monies due and owing hereunder) is prevented, restricted, interfered with or delayed by reason of any cause beyond the reasonable control of such party that could not, with the exercise of reasonable due diligence, have been avoided (a “Force Majeure Event”), the party so affected shall be excused from such performance to the extent of and for so long as such Force Majeure Event continues, provided that the affected party shall use all reasonable efforts to avoid or remove the causes of such Force Majeure Event with the utmost dispatch and to continue its performance under this Agreement whenever such causes are removed. When such circumstances arise, the affected party shall provide the other party with prompt notice thereof and shall regularly update the other party as to its efforts to remove the causes of such Force Majeure Event until full performance under this Agreement has resumed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties, intending to be legally bound,
+have caused this Agreement to be executed by their duly authorized representatives.
+
+
+THE TRUSTEES OF THE
+
+UNIVERSITY OF PENNSYLVANIA	LICENSEE:
+
+POLYMEDIX, INC.
+
+By: /s/ Louis P. Berneman               	By: /s/ Nicholas Landekic
+
+Name: Louis P. Berneman          	Name: Nicholas Landekic
+
+Title: Managing Director Center for Technology Transfer     	Title: President and CEO
+
+Date:                                                   	Date:
+
+
+
+
+
+
+
+
+
+
+
+
+ATTACHMENT 1
+
+
+Description of Penn Software
+
+
+
+
+
+
+Penn Docket #	Author(s)	Software Title	Version
+
+
+
+
+P3121	Moore, Preston  	Coarse Grain
+
+Modeling
+
+Routines	As burned on
+
+CD-ROM
+
+entitled
+
+“CGMR –
+
+030703”
+
+
+
+
+P3122	Summa, Chris
+
+and Nanda,
+
+Vikas	ProtCAD	V 0.2 (As
+
+burned on CD-
+
+ROM
+
+December
+
+2002)
+
+
+
+
+P3123	Kono,
+
+Hidetoshi	Predseq	V 1.0 (As
+
+burned on CD-
+
+ROM 7 March
+
+2003)
+
+
+
+
+
+
+
+
+
+
+
+
+

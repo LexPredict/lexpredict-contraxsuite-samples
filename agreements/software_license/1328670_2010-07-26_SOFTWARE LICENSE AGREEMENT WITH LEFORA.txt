@@ -1,0 +1,705 @@
+
+
+
+
+
+
+
+crwgex102.htm
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.2
+
+
+
+
+
+
+EXHBIT B
+
+
+To the Asset Purchase Agreement
+
+
+Dated July 23,2010
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+
+
+This Software License Agreement (“Agreement”) is entered into as of July 23, 2010 (the "Effective Date") by and between Team Awesome Productions, Inc.  d/b/a “Lefora” ("Licensor") and CrowdGather, Inc. ("Licensee") and is attached to that certain Asset Purchase Agreement by and between Licensor and Licensee of even date (“Asset Purchase Agreement”). Capitalized terms not otherwise defined herein shall have the same meanings ascribed to them in the Asset Purchase Agreement.
+
+
+
+
+
+
+
+RECITALS
+
+
+
+
+
+
+
+A.  Licensor develops and/or distributes software products.
+
+
+
+
+
+
+
+B.  Licensor and Licensee have entered into the Asset Purchase Agreement whereby Licensee is acquiring substantially all of the business assets of Licensor;
+
+
+
+
+
+
+
+C.  As a material condition of the Asset Purchase Agreement, Licensee is acquiring a license to certain software owned by Licensor pursuant to the terms of this Agreement.
+
+
+
+
+
+
+
+THEREFORE, Licensee and Licensor agree as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.  DEFINITIONS
+
+
+
+
+
+
+
+The following terms shall have the meanings set forth below:
+
+
+
+
+
+
+
+1.1  "Confidential Information" means data and information relating to a party's products,  inventions, discoveries, trade secrets, secret processes, software, knowledge databases and applications which access knowledge databases, financial data, personnel records, patient and member records and information, medical records, health information, test results, proprietary computer programs, marketing information, and any other similar information which is (a) clearly marked to indicate its confidential or proprietary status, if disclosed by one party to the other in written, graphic, recorded, photographic or any machine readable form, or (b) by its nature proprietary or non-public, even if not marked and regardless how it is disclosed.  Licensee's Confide
+ntial Information shall include Confidential Information of Licensee and its consultants, agents, and Licensors, provided that, for avoidance of doubt, Licensor's Confidential Information shall not be deemed Licensee Confidential Information.
+
+
+
+
+
+
+
+1.2  "Documentation" means any user manuals, technical manuals, installation instructions, specifications, and other explanatory or descriptive materials of any type, whether in paper or electronic form, provided by Licensor with respect to the Software.
+
+
+
+
+
+
+
+1.3  "Receiving Party" means a party that receives another party's Confidential Information.
+
+
+
+
+
+
+
+1.4  "Software" means the computer software program(s) generally known as “Talki” that is owned and being utilized in Licensor’s business as of the date hereof, which conforms to its written Specifications, and includes Source Code.
+
+
+
+
+
+
+
+1.5  "Source Code" means computer programming code that may be displayed in a form readable and understandable by a programmer of ordinary skill together with associated technical information and documentation as described in Article 10 hereof.
+
+
+
+
+
+
+
+1.6  "Specifications" means Licensor's written Documentation for the Software that describes its features, functions, and operations, and the interoperability of the Software with other hardware and software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. DELIVERY AND ACCEPTANCE OF SOFTWARE
+
+
+
+
+
+
+
+2.1  Deliverables. Licensor will, upon execution of this Agreement or as soon as practicable following the execution of this Agreement, deliver to Licensee: (a) at least one complete copy of the Software in Source Code format and in executable format on a live hosted installation on a server account controlled by Licensee (the installation will not be publically accessible); (b) at least one complete copy of the Documentation; and (c) a complete list of all known errors in the Software as of the date of its delivery to Licensee and any error corrections available to address said errors, if any.
+
+
+
+
+
+
+
+2.2  Electronic Delivery of Software and Documentation. Licensor will deliver all Software and Documentation to Licensee electronically in accordance with the delivery procedures determined by Licensee in its sole reasonable discretion.
+
+
+
+
+
+
+
+2.3  Acceptance of Software.  Software delivered by Licensor to Licensee hereunder will be subject to inspection and testing to verify that the Software conforms to its written Specifications. Licensee shall have one (1) business day, after the Software is installed, to perform acceptance testing regarding the Software.  Licensee shall provide Licensor with a written notice of acceptance or rejection of the Software within one (1) business day after the end of this acceptance testing period.  If Licensee does not provide written notice of acceptance or rejection to Licensor within (1) business day of the end of the acceptance testing period, the Software shall be deemed to be accepted by Licensee.  In rejecting the Software, Licensee
+may, at its option, either (i) return the Software that does not comply with the acceptance criteria and receive a refund of all fees paid with respect thereto, or (ii) require Licensor to repair or replace such Software, without charge and in a timely manner (in which case Acceptance of the Software shall not occur until Licensor has provided repairs or a replacement which conforms to the Specifications and acceptance criteria as reasonably determined by Licensee).  The Software may not be rejected by Licensee on the grounds that it contains any errors or omissions that are specified or listed in the error list offered by Licensor to Licensee pursuant to Section 2.1(c) above, and as such is provided on an “as-is” basis.
+
+
+
+
+
+
+
+
+
+
+3.  LICENSES GRANTED
+
+
+
+
+
+
+
+3.1  Grant of License.  Licensor hereby grants Licensee an exclusive, irrevocable, transferable, worldwide, perpetual, royalty-free and fully paid up license for Licensee to install, load, display, access, store, modify, sell, sub-license (through multiple tiers), create derivative works from and exploit the Software in any manner whatsoever; provided however, neither Licensee nor its sub-licensees or assignees may offer or sell any product that competes directly with the standalone, embeddable, hosted forum product  currently offered by Licensor; and provided further that any transfer, assignment, sublicense, conveyance or other transfer of rights with respect to this license shall contain the identical restriction set forth in the preceding sentence.&#
+160; The foregoing license is exclusive to Licensee, provided, however, Licensor shall be entitled to use the Software for its current “Talki” business whereby its users can use the Software as a forum building application for the user’s own website.
+
+
+
+
+
+
+
+
+
+
+4.  CONSIDERATION
+
+
+
+
+
+
+
+The consideration for the license and warranties granted by Licensor hereunder shall be Ten Thousand Dollars ($10,000), payable to Licensor solely in shares of the Licensee’s voting common stock (“Shares”). The number of Shares to be issued to the Licensor shall be calculated by dividing Ten Thousand Dollars ($10,000) by the 15-day volume weighted average price of the Licensee’s common stock, the 15th day of which shall be the Trading Day (as defined below) immediately preceding the Effective Date. Trading Day shall mean a day on which the New York Stock exchange is open for business. Licensee shall deliver the Shares within ten (10) days of the Effective Date subject to compliance with the applicable federal and state securities laws.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.  WARRANTIES
+
+
+
+
+
+
+
+5.1  Title, Authority, and Compliance.  Licensor represents and warrants that it owns or has sufficient rights and licenses to the Software to grant the licenses set forth in this Agreement and that the Software and Documentation shall not infringe upon or violate the intellectual property, trade secrets or other rights of any third party. Licensor further represents and warrants that it has the right to enter into this Agreement and in its performance of this Agreement Licensor will comply with the terms of any contract, obligation, law, regulation or ordinance to which Licensor is or becomes subject, including, without limitation, all applicable data privacy laws and regulations.  Without limitation of the foregoing, Licensor agrees to comply with all
+applicable state and federal laws regarding the confidentiality of individually identifiable information and personal health information which may become known to Licensor, its agents or employees while performing under this Agreement.
+
+
+
+
+
+
+
+5.2  No Disruption.  Licensor represents and warrants that, to Licensor’s knowledge, the Software will not contain any lock, key, time-out function, or other function that would render the Software unusable or inoperable. Licensor shall be liable for, and shall indemnify Licensee from and against, all liabilities, claims, losses, damages, costs, and expenses, including without limitation, reasonable attorneys' fees, arising from the Software being unusable or inoperable.
+
+
+
+
+
+
+
+5.3  Harmful Code.  Licensor further represents and warrants that its quality assurance procedures include using reasonable efforts, including testing the Software using commercially available virus testing utilities, to ensure that the Software supplied hereunder is free of viruses, contaminants, and other malicious code that may harm the Software or Licensee's systems.
+
+
+
+
+
+6.  INDEMNITIES
+
+
+
+
+
+
+
+6.1  General Indemnification.  Licensor will indemnify, defend, and hold harmless Licensee, and its officers, employees, and agents from and against all liabilities, claims, actions, losses, damages, judgments, awards, costs, and expenses, including reasonable attorneys' fees and costs, ("Liabilities") arising out of or resulting from this Agreement to the extent that any such Liabilities are caused by any negligent acts or omissions of Licensor, its officers, employees, agents or consultants; provided, however, if there also is fault on the part of Licensee, any entity or individual indemnified under this Agreement, or any entity or individual acting on Licensee's behalf, the foregoing indemnification shall be administered on a comparative fault basis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.2 Intellectual Property Rights Indemnification.  Licensor will indemnify, defend, and hold harmless Licensee, and their respective officers, employees, and agents from and against all Liabilities, arising out of claims that the Software infringes upon or violates any patent, copyright, trade secret, trademark, service mark, or other intellectual property right (collectively "Intellectual Property Rights") of any third party.  Licensee will give Licensor reasonable notice upon learning of any such claims and will reasonably assist Licensor in the defense and settlement of such claims, provided that Licensor reimburses Licensee for any costs, expenses, and other fees reasonably incurred by Licensee in providing such assistance.  Licensor shall have sole
+control of the defense and settlement of such claims; provided that Licensor shall only settle any claims or actions in which Licensee is named as a party with Licensee's reasonable consent.  Licensee shall, at its option, have the right to participate in the defense of such claims with counsel of its choosing at its own expense.  If the Software is or will become the subject of a claim of infringement or violation of the Intellectual Property Rights of a third party, in addition to Licensor’s indemnity obligations hereunder, Licensor shall, at its sole expense:  (i) procure for Licensee the right to continue using the Software; or (ii) replace or modify the Software so that no infringement or other violation of Intellectual Property Rights occurs, provided that Licensee reasonably determines that the replaced or modified Software will operate in all material respects in conformity with its Specifications and the use and performance of the Software is not impaired thereby.
+Licensor's obligations under this Agreement will continue with respect to the replaced or modified Software as if it were the original Software.
+
+
+
+
+
+
+
+
+
+
+7.  LIMITATION OF LIABILITY
+
+
+
+
+
+7.1 Limitation of Liability.  EXCEPT FOR DAMAGES RESULTING FROM A BREACH OF SECTION 8 (“CONFIDENTIALITY”), INDEMNIFICATION UNDER SECTION 6.2 ABOVE,  OR A BREACH OF WARRANTIES SET FORTH IN ARTICLE 5 ABOVE, TO THE FULL EXTENT ALLOWED BY LAW NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR TO ANY THIRD PARTIES FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL, OR PUNITIVE DAMAGES (INCLUDING LOSS OF USE, DATA, BUSINESS, PROFITS, GOODWILL OR OTHER ECONOMIC LOSS) OR FOR THE COST OF PROCUREMENT OF SUBSTITUTE PRODUCTS, TECHNOLOGY OR SERVICES, OR ANY DAMAGES THAT ARE
+NON-DIRECT, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF ANY TECHNOLOGY PROVIDED UNDER THIS AGREEMENT, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, AND WHETHER OR NOT A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+
+
+
+
+7.2 Dollar Cap.  EXCEPT FOR DAMAGES RESULTING FROM A BREACH OF SECTION 8 (“CONFIDENTIALITY”), INDEMNIFICATION UNDER SECTION 6.2 ABOVE, OR A BREACH OF WARRANTIES SET FORTH IN ARTICLE 5 ABOVE, EACH PARTY’S MAXIMUM LIABILITY TO THE OTHER PARTY FOR DAMAGES HEREUNDER, IF ANY, SHALL NOT EXCEED AN AMOUNT EQUAL TO THE GREATER OF : (A) FIVE TIMES THE AMOUNT OF REVENUE DIRECTLY ATTRIBUTABLE TO LICENSEE’S USE OF THE SOFTWARE LICENSED HEREUNDER DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE INCIDENT
+GIVING RISE TO THE COMPLAINT, OR (B) THE VALUE OF CONSIDERATION PAID TO LICENSOR UNDER THIS AGREEMENT.
+
+
+
+
+
+7.3 Acknowledgment.  EACH PARTY ACKNOWLEDGES AND AGREES THAT BOTH PARTIES HAVE ENTERED INTO THIS AGREEMENT IN RELIANCE ON THE ABOVE DISCLAIMERS AND LIMITATIONS OF LIABILITY, AND THAT THE SAME CONSTITUTE A BASIS OF THE BARGAIN BETWEEN THE PARTIES.  THE PARTIES AGREE THAT THE DISCLAIMERS AND LIMITATIONS SPECIFIED ABOVE WILL APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.  PROPRIETARY RIGHTS
+
+
+
+
+
+
+
+Title to the Software and Documentation and all copies thereof shall remain with Licensor.
+
+
+
+
+
+
+
+
+
+
+9.  CONFIDENTIALITY
+
+
+
+
+
+
+
+9.1  Obligations.  Except as provided in Section 9.4 below, a Receiving Party shall hold another party's Confidential Information in confidence and shall not use or duplicate such information except for the purpose of performing this Agreement.  The Receiving Party shall permit access to Confidential Information only to its principals, directors, officers, employees, contractors, and subcontractors having a need to know such information in order to perform the Receiving Party's obligations under this Agreement.  The Receiving Party shall ensure (by instruction or agreement) that such individuals are informed of the confidential or proprietary status of the Confidential Information and of the restrictions on its use, disclosure and duplication c
+ontained in this Agreement.
+
+
+
+
+
+
+
+9.2  Licensor Confidential Information.  Except to the extent the Software comprises Confidential Information, Licensor shall not disclose Licensor's Confidential Information to Licensee unless and until (a) Licensor describes in writing the nature of Licensor's Confidential Information to the Licensee contact; and (b) Licensor receives written approval from such Licensee contact that Licensee is willing to receive such information.  Unless the foregoing requirements are completed prior to disclosure of Confidential Information, Licensee shall not be under any obligation to treat such information as confidential.
+
+
+
+
+
+
+
+9.3  No IP Rights.  Except as otherwise expressly set forth in this Agreement, no license or other right or property interest under any trademark, patent, copyright, trade secret or other legal theory is granted, transferred or implied with respect to Confidential Information furnished by one party to the other pursuant to this Agreement.  Licensor shall return to Licensee or, if requested by Licensee, destroy all Confidential Information of Licensee and all copies thereof received or developed in performance of this Agreement upon termination of this Agreement or at any prior time within five (5) days after receipt of Licensee's written request.  Upon request by Licensee, an authorized representative of Licensor shall certify to Licensee in wr
+iting that all copies of Licensee's Confidential Information have been returned or destroyed.
+
+
+
+
+
+
+
+9.4  Exceptions.  A Receiving Party's confidentiality and nondisclosure obligations, as set forth in this Agreement shall not apply to any information, or any portion thereof:
+
+
+
+
+
+
+
+(a) which now is or hereafter becomes publicly available other than as a result of breach of this Agreement (including, without limitation, any information filed with any governmental agency and available to the public);
+
+
+(b) which is disclosed to the Receiving Party by a third party that is legally entitled to disclose such information;
+
+
+(c) which the Receiving Party demonstrates through documented records was known by it prior to its receipt from the disclosing party;
+
+
+(d) which is developed by the Receiving Party independently of any disclosures  made by the disclosing party of such information as demonstrated by the Receiving Party's documented records; or
+
+
+(e) to the extent such information is required to be disclosed by order of a court of competent jurisdiction, administrative agency or governmental body, or by subpoena, summons or other legal process, or by law, rule or regulation, or by applicable regulatory or professional standards.  The Receiving Party shall promptly notify the disclosing party so as to allow the disclosing party a sufficient and reasonable period of time to challenge such order, subpoena, summons or other legal process.  Each Party shall reasonably cooperate with the disclosing party in any such challenge.
+
+
+
+
+
+
+
+
+
+
+10.  MISCELLANEOUS
+
+
+
+
+
+
+
+Incorporation by this Reference. Article 12 of the Asset Purchase Agreement shall be incorporated in its entirety by this reference. Any references to the “Buyer” in the Article 12 shall mean “Licensee” as set forth in this Agreement and references to “Seller” in Article 12 shall mean “Licensor.”
+
+
+
+
+
+
+
+[signatures on following page]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Software License Agreement as of the Effective Date.
+
+
+
+
+
+
+
+
+
+
+
+
+Licensee
+
+
+CROWDGATHER, INC.
+
+
+By: /s/ Sanjay Sabnani
+
+
+Print Name: Sanjay Sabnani
+
+
+Title: CEO
+
+
+
+
+
+Licensor
+
+
+TEAM AWESOME PRODUCTIONS, INC.
+
+
+By: /s/ Paul Bragiel
+
+
+Print Name : Paul Bragiel
+
+
+Title : CEO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
