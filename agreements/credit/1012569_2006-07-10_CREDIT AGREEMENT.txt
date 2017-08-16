@@ -1,0 +1,1060 @@
+
+
+
+
+
+
+
+CREDIT AGREEMENT
+
+
+
+Exhibit 10.48
+CUSIP Number: 29273SAC1
+Execution Copy
+
+
+CREDIT AGREEMENT
+
+Dated as of May 31, 2006
+among
+
+ENERGY TRANSFER PARTNERS, L.P.,
+as the Borrower,
+CREDIT SUISSE, CAYMAN ISLANDS BRANCH,
+as Administrative Agent,
+and
+The Other Lenders Party Hereto,
+CREDIT SUISSE SECURITIES (USA) LLC
+
+and
+BANC OF AMERICA SECURITIES LLC,
+
+as Joint Lead Arrangers
+and
+
+Co-Documentation and Syndication Agents
+$250,000,000 Revolving Credit Facility
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+
+
+Section
+Page
+
+ARTICLE I. DEFINITIONS AND ACCOUNTING TERMS
+1
+1.01
+Defined Terms
+1
+1.02
+Incorporation by Reference from the Other Credit Agreement; Interpretive Provisions
+5
+
+ARTICLE II. THE COMMITMENTS AND CREDIT EXTENSIONS
+6
+2.01
+Loans
+6
+2.02
+[Intentionally Omitted]
+6
+2.03
+Requests for New Loans
+6
+2.04
+Continuations and Conversions of Existing Loans
+7
+2.05
+Use of Proceeds
+8
+2.06
+Repayments and Prepayments of Loans
+8
+2.07
+[Intentionally Omitted]
+9
+2.08
+[Intentionally Omitted]
+9
+2.09
+[Intentionally Omitted]
+9
+2.10
+[Intentionally Omitted]
+9
+2.11
+[Intentionally Omitted]
+9
+2.12
+Interest Rates and Fees
+9
+2.13
+Evidence of Debt
+10
+2.14
+Payments Generally; Administrative Agent’s Clawback
+10
+2.15
+Sharing of Payments by Lenders
+10
+2.16
+Reductions in Commitment
+11
+
+ARTICLE III. TAXES, YIELD PROTECTION AND ILLEGALITY
+11
+
+ARTICLE IV. CONDITIONS PRECEDENT TO CREDIT EXTENSIONS
+11
+4.01
+Conditions of Initial Credit Extension
+11
+4.02
+Conditions to all Credit Extensions
+12
+
+ARTICLE V. REPRESENTATIONS AND WARRANTIES
+12
+
+ARTICLE VI. AFFIRMATIVE COVENANTS
+13
+
+ARTICLE VII. NEGATIVE COVENANTS
+13
+
+ARTICLE VIII. EVENTS OF DEFAULT AND REMEDIES
+13
+8.01
+Events of Default
+13
+8.02
+Remedies Upon Event of Default
+13
+8.03
+Application of Funds
+14
+
+ARTICLE IX. ADMINISTRATIVE AGENT
+14
+
+ARTICLE X. MISCELLANEOUS
+15
+10.01
+Amendments, Etc.
+15
+10.02
+Notices; Effectiveness; Electronic Communication
+16
+10.03
+No Waiver; Cumulative Remedies
+16
+10.04
+Expenses; Indemnity; Damage Waiver
+16
+10.05
+Payments Set Aside
+16
+10.06
+Successors and Assigns
+16
+
+
+
+i
+
+
+
+
+
+
+
+
+
+
+10.07
+Treatment of Certain Information; Confidentiality
+19
+10.08
+Right of Setoff
+19
+10.09
+Interest Rate Limitation
+19
+10.10
+Counterparts; Integration; Effectiveness
+19
+10.11
+Survival of Representations and Warranties
+19
+10.12
+Severability
+19
+10.13
+Replacement of Lenders
+19
+10.14
+Governing Law; Jurisdiction; Etc.
+19
+10.15
+Waiver of Jury Trial
+20
+10.16
+USA PATRIOT Act Notice
+20
+10.17
+Time of the Essence
+21
+
+SIGNATURES
+S-1
+
+
+
+ii
+
+
+
+
+
+
+
+
+Execution Copy
+CREDIT AGREEMENT
+This CREDIT AGREEMENT (“Agreement”) is entered into as of May 31,
+2006, among ENERGY TRANSFER PARTNERS, L.P., a Delaware limited partnership (the “Borrower”), CREDIT SUISSE, CAYMAN ISLANDS BRANCH, as Administrative Agent, each lender from time to time party hereto (collectively, the
+“Lenders” and individually, a “Lender”), and CREDIT SUISSE SECURITIES (USA) LLC and BANC OF AMERICA SECURITIES LLC, as Joint Lead Arrangers and Co-Documentation and Syndication Agents.
+In consideration of the mutual covenants and agreements contained herein and in consideration of the loans which may hereafter be made by Lenders to the
+Borrower, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto do hereby agree as follows:
+ARTICLE I.
+DEFINITIONS AND ACCOUNTING TERMS
+1.01 Defined Terms. As used in this Agreement, the following terms shall have the meanings set forth below and capitalized terms used herein
+without definition shall have the same meanings herein as set forth in the Other Credit Agreement (as defined herein) and, subject to the provisions of Section 1.02, such terms are incorporated herein by reference as if fully set forth herein:
+
+“Administrative Agent” means Credit Suisse, Cayman Islands Branch, in its capacity as administrative agent for the
+Lenders hereunder.
+“Administrative Agent’s Office” means the Administrative Agent’s address and, as
+appropriate, account as set forth on Schedule 10.02, or such other address or account as the Administrative Agent may from time to time notify to the Borrower and the Lenders.
+“Administrative Questionnaire” means an Administrative Questionnaire in a form supplied by the Administrative Agent.
+“Aggregate Commitments” means the Commitments of all the Lenders. The initial amount of the Aggregate Commitments is $250,000,000,
+subject to optional reductions pursuant to Section 2.16.
+“Agreement” means this Credit Agreement, as amended
+or supplemented from time to time in accordance with the terms hereof.
+“Applicable Percentage” means with respect to any
+Lender, the percentage of the Aggregate Commitments represented by such Lender’s Commitment. If the Commitments have terminated or expired, the Applicable Percentages shall be determined based upon the Commitments most recently in effect,
+giving effect to any assignments.
+
+
+
+
+
+
+
+“Approved Fund” means any Fund that is administered or managed by (a) a Lender,
+(b) an Affiliate of a Lender or (c) an entity or an Affiliate of an entity that administers or manages a Lender.
+“Assignment and Assumption” means an assignment and assumption entered into by a Lender and an Eligible Assignee (with the consent of any party whose consent is required by Section 10.06(b)), and accepted by the
+Administrative Agent, in substantially the form of Exhibit A or any other form approved by the Administrative Agent.
+“Base Rate Loan” means a Loan or portion of a Loan that bears interest based on the Base Rate.
+“Borrower” means Energy Transfer Partners, L.P., a Delaware limited partnership.
+“Borrowing”
+means Loans of the same Type, made, Converted or Continued on the same date and, in the case of Eurodollar Loans, as to which a single Interest Period is in effect.
+“Business Day” means any day other than a Saturday, Sunday or other day on which commercial banks are authorized to close under the Laws of, or are in fact closed in, the state where the
+Administrative Agent’s Office is located and, if such day relates to any Eurodollar Loan, means any such day on which dealings in Dollar deposits are conducted by and between banks in the London interbank eurodollar market.
+“Change in Law” means the occurrence, after the date of this Agreement, of any of the following: (a) the adoption or taking effect
+of any law, rule, regulation or treaty, (b) any change in any law, rule, regulation or treaty or in the administration, interpretation or application thereof by any Governmental Authority or (c) the making or issuance of any request,
+guideline or directive (whether or not having the force of law) by any Governmental Authority.
+“Closing Date” means the
+first date all the conditions precedent in Section 4.01 and Section 4.02 are satisfied or waived in accordance with Section 10.01.
+“Commitment” means, as to each Lender, its obligation to make Loans to the Borrower pursuant to Section 2.01, in an aggregate principal amount at any one time outstanding not to exceed the
+Commitment amount set forth opposite such Lender’s name on Schedule 1 or in the Assignment and Assumption pursuant to which such Lender becomes a party hereto, as applicable, as such amount may be adjusted from time to time in accordance
+with this Agreement.
+“Commitment Period” means the period from and including the Closing Date to the earliest of
+(a) the Maturity Date, (b) the date of termination of the Aggregate Commitments pursuant to Section 2.06 or 2.16, and (c) the date of termination of the Commitment of each Lender to make Loans pursuant to
+Section 8.02.
+“Credit Extension” means a Borrowing.
+
+
+2
+
+
+
+
+
+
+
+
+“Eligible Assignee” means (a) a Lender; (b) an Affiliate of a Lender;
+(c) an Approved Fund; and (d) any other Person (other than a natural person) approved by (i) the Administrative Agent, and (ii) unless an Event of Default has occurred and is continuing, the Borrower (each such approval not to be
+unreasonably withheld or delayed); provided that notwithstanding the foregoing, “Eligible Assignee” shall not include the Borrower or any of the Borrower’s Affiliates or Subsidiaries.
+“Eurodollar Loan” means a Loan or portion of a Loan that bears interest at a rate based on the Eurodollar Rate.
+“Excluded Taxes” means, with respect to the Administrative Agent, any Lender, or any other recipient of any payment to be made by or on
+account of any obligation of the Borrower hereunder, (a) taxes imposed on or measured by its overall net income (however denominated), and franchise taxes imposed on it (in lieu of net income taxes), by the jurisdiction (or any political
+subdivision thereof) under the laws of which such recipient is organized or in which its principal office is located or, in the case of any Lender, in which its applicable Lending Office is located, (b) any branch profits taxes imposed by the
+United States or any similar tax imposed by any other jurisdiction in which the Borrower is located and (c) in the case of a Foreign Lender (other than an assignee pursuant to a request by the Borrower under Section 10.13), any
+withholding tax that is imposed on amounts payable to such Foreign Lender at the time such Foreign Lender becomes a party hereto (or designates a new Lending Office) or is attributable to such Foreign Lender’s failure or inability (other than
+as a result of a Change in Law) to comply with Section 3.01(e), except to the extent that such Foreign Lender (or its assignor, if any) was entitled, at the time of designation of a new Lending Office (or assignment), to receive
+additional amounts from the Borrower with respect to such withholding tax pursuant to Section 3.01(a).
+“Facility
+Usage” means, at the time in question, the aggregate amount of outstanding Loans at such time.
+“Foreign Lender”
+means any Lender that is organized under the laws of a jurisdiction other than that in which the Borrower is resident for tax purposes. For purposes of this definition, the United States, each State thereof and the District of Columbia shall be
+deemed to constitute a single jurisdiction.
+“Guarantors” means any Subsidiary of the Borrower that now or hereafter
+executes and delivers a Guaranty to the administrative agent under the Other Credit Agreement pursuant to Section 6.11 of the Other Credit Agreement or that would have been required to deliver a Guaranty pursuant to such provision but
+for the fact that the Other Credit Agreement no longer remains in effect.
+“Guaranty” means, collectively, one or more
+Guarantees of the Obligations made by the Guarantors in favor of the Administrative Agent and the Lenders, substantially in the form of Exhibit C to the Other Credit Agreement, including any supplements to an existing Guaranty in
+substantially the form that is a part of such Exhibit C.
+“Indemnified Taxes” means Taxes other than Excluded
+Taxes.
+
+
+3
+
+
+
+
+
+
+
+
+“Indemnitees” has the meaning given to such term in Section 10.04(b).
+
+“Lender” has the meaning given to such term in the introductory paragraph hereto.
+“Lending Office” means, as to any Lender, the office or offices of such Lender described as such in such Lender’s Administrative
+Questionnaire, or such other office or offices as a Lender may from time to time notify the Borrower and the Administrative Agent.
+“Loan” means a Loan made pursuant to Section 2.01; and “Loans” means all loans made by the Lenders to the Borrower pursuant to this Agreement.
+“Loan Documents” means this Agreement, each Note, each Guaranty and all other agreements, certificates, documents, instruments and
+writings at any time delivered in connection herewith or therewith (exclusive of term sheets and commitment letters).
+“Loan
+Notice” means a notice of (a) a Borrowing, (b) a Conversion of Loans from one Type to the other, pursuant to Section 2.04, or (c) a Continuation of Eurodollar Loans, pursuant to Section 2.04, which, if
+in writing, shall be substantially in the form of Exhibit B.
+“Majority Lenders” means, as of any date of
+determination, Lenders having more than 50% of the Aggregate Commitments or, if the Commitment of each Lender to make Loans have been terminated pursuant to Section 8.02, Lenders holding in the aggregate more than 50% of the Facility
+Usage.
+“Material Adverse Effect” means a material adverse effect on (i) the financial condition, operations,
+properties or prospects of the Borrower and its Restricted Subsidiaries, taken as a whole, or (ii) the ability of the Borrower to perform its obligations under this Agreement and the Notes or the ability of the Restricted Subsidiaries, taken as
+a whole, to perform their respective obligations under the Guaranty, or (iii) the validity or enforceability of this Agreement, the Guaranty or the Notes.
+“Maturity Date” means December 1, 2006.
+“Note” means a promissory
+note made by the Borrower in favor of a Lender evidencing Loans made by such Lender, substantially in the form of Exhibit C.
+“Obligations” means all advances to, and debts, liabilities, obligations, covenants and duties of, any Restricted Person, arising under any Loan Document or otherwise with respect to any Loan, whether direct or indirect
+(including those acquired by assumption), absolute or contingent, due or to become due, now existing or hereafter arising and including interest and fees that accrue after the commencement by or against any Restricted Person or any Affiliate thereof
+of any proceeding under any Debtor Relief Laws naming such Person as the debtor in such proceeding, regardless of whether such interest and fees are allowed claims in such proceeding.
+“Other Credit Agreement” means that certain Credit Agreement dated as of December 12, 2005, among Borrower, Wachovia Bank, National
+Association, as Administrative Agent, LC
+
+
+
+4
+
+
+
+
+
+
+
+
+
+Issuer and Swingline Lender, Bank of America, N.A. and Citibank, N.A., as co-syndication agents, BNP Paribas and The Royal Bank of Scotland plc, as
+co-documentation agents, Credit Suisse, Cayman Islands Branch, Deutsche Bank AG, New York Branch, and UBS Securities LLC, as senior managing agents, Fortis Capital Corp., SunTrust Bank, and Wells Fargo, N.A., as managing agents, Wachovia Capital
+Markets, LLC, as sole lead arranger and sole book manager, and a syndicate of lenders party thereto, as amended or supplemented from time to time in accordance with the terms thereof.
+“Other Taxes” means all present or future stamp or documentary taxes or any other excise or property taxes, charges or similar levies
+arising from any payment made hereunder or under any other Loan Document or from the execution, delivery or enforcement of, or otherwise with respect to, this Agreement or any other Loan Document.
+“Participant” has the meaning given to such term in Section 10.06(d).
+“Prime Rate” means the rate of interest per annum publicly announced from time to time by Credit Suisse as its prime rate in effect at
+its principal office in New York City. Each change in the Prime Rate shall be effective as of the opening of business on the date such change is announced as being effective. The Prime Rate is a reference rate and does not necessarily represent the
+lowest or best rate actually available.
+“Register” has the meaning given to such term in Section 10.06(c).
+
+“Request for Credit Extension” means with respect to a Borrowing, Conversion or Continuation of Loans, a Loan Notice.
+
+1.02 Incorporation by Reference from the Other Credit Agreement; Interpretive Provisions. Provisions herein that incorporate by
+reference terms and provisions of the Other Credit Agreement adopt such terms and/or provisions as if fully set forth herein and such incorporation by reference shall govern and remain in effect until the Commitments have been terminated and the
+Obligations indefeasibly paid in full, regardless of whether or not the Other Credit Agreement remains in effect and shall survive termination of the commitments under the Other Credit Agreement and the repayment, satisfaction or discharge of the
+obligations thereunder; provided however that when used herein the term “Eurodollar Rate” shall be modified with the effect that the rate quotations for interest rates applicable to dollar deposits in the London interbank market shall be
+selected by reference to the British Bankers’ Association Interest Settlement Rates for deposits in dollars. The provisions set forth in the Other Credit Agreement corresponding to Sections 1.02 through 1.05 and 2.14, Article III, Article IX,
+and Sections 10.02 through 10.05 and 10.07 through 10.13 are incorporated herein by reference as if fully set forth herein and shall be interpreted, construed and applied in accordance with the following: (i) any capitalized terms
+contained therein that are defined in Section 1.01 hereof shall have the meaning assigned hereby; (ii) references to the term “Revolving Credit Loan” shall be deemed to be references to the term “Loan” as defined
+herein; (iii) references to the following defined terms, and the operative provisions relating thereto, shall be deemed to have been omitted: “Cash Collateralize,” “Fee Letter,” “Issuer Documents,” “LC
+Collateral,” “LC Credit Extension,” “LC Issuer,” “LC Obligations,” “Letter of Credit,” “Letter of Credit Application,”
+
+
+
+5
+
+
+
+
+
+
+
+
+
+“LIBOR Reference Rate,” “Matured LC Obligations,” “Swingline Commitment,” “Swingline Lender” and “Swingline
+Loan”; and (iv) references to Schedule 1 and Schedule 10.02 shall be deemed to be references to Schedule 1 and Schedule 10.02 annexed to this Agreement. References in the Other Credit Agreement to Wachovia Bank, National Association shall
+be deemed to refer herein to Credit Suisse, Cayman Islands Branch. No amendment or modification of the Other Credit Agreement or waiver in respect of the provisions thereof shall be effective with respect to the terms hereof (including any term
+incorporated by reference herein) unless such amendment, modification or waiver is separately consented to by Majority Lenders or all Lenders as required under Section 10.01.
+ARTICLE II.
+THE COMMITMENTS AND CREDIT EXTENSIONS
+2.01 Loans. Subject to the terms and conditions hereof, each Lender agrees to make Loans (“Loans”) to the Borrower upon the
+Borrower’s request from time to time during the Commitment Period, provided that (a) subject to Sections 3.03, 3.04 and 3.06, all Lenders are requested to make Loans of the same Type in accordance with their respective
+Applicable Percentages and as part of the same Borrowing, and (b) after giving effect to such Loans, the Facility Usage does not exceed the Aggregate Commitments, and the Loans of any Lender do not exceed such Lender’s Commitment. The
+aggregate amount of all Loans that are Base Rate Loans in any Borrowing must be equal to $5,000,000 or any higher integral multiple of $1,000,000. The aggregate amount of all Eurodollar Loans in any Borrowing must be equal to $5,000,000 or any
+higher integral multiple of $1,000,000. The Borrower may have no more than twelve (12) Borrowings of Eurodollar Loans outstanding at any time. Subject to the terms and conditions of this Agreement, the Borrower may borrow, repay, and reborrow
+under this Section 2.01.
+2.02 [Intentionally Omitted]
+2.03 Requests for New Loans. The Borrower must give to the Administrative Agent written notice (or telephonic notice promptly confirmed in
+writing) of any requested Borrowing of Loans to be funded by Lenders. Each such notice constitutes a “Loan Notice” hereunder and must:
+(a) specify (i) the aggregate amount of any such Borrowing of Base Rate Loans and the date on which such Base Rate Loans are to be advanced, or (ii) the aggregate amount of any such Borrowing of Eurodollar Loans, the date on which
+such Eurodollar Loans are to be advanced (which shall be the first day of the Interest Period which is to apply thereto), and the length of the applicable Interest Period; and
+(b) be received by the Administrative Agent not later than 11:00 a.m. on (i) the day on which any such Base Rate Loans are to be made, or
+(ii) the third Business Day preceding the day on which any such Eurodollar Loans are to be made.
+Each such written request or
+confirmation must be made in the form and substance of the Loan Notice, duly completed. Each such telephonic request shall be deemed a representation,
+
+
+
+6
+
+
+
+
+
+
+
+
+
+warranty, acknowledgment and agreement by the Borrower as to the matters which are required to be set out in such written confirmation. Upon receipt of any
+such Loan Notice, the Administrative Agent shall give each Lender prompt notice of the terms thereof. If all conditions precedent to such new Loans have been met, each Lender will on the date requested promptly remit to the Administrative Agent at
+the Administrative Agent’s Office the amount of such Lender’s Loan in immediately available funds, and upon receipt of such funds, unless to its actual knowledge any conditions precedent to such Loans have been neither met nor waived as
+provided herein, the Administrative Agent shall promptly make such Loans available to the Borrower.
+2.04 Continuations and Conversions
+of Existing Loans. The Borrower may make the following elections with respect to Loans already outstanding: to Convert, in whole or in part, Base Rate Loans to Eurodollar Loans, to Convert, in whole or in part, Eurodollar Loans to Base Rate
+Loans on the last day of the Interest Period applicable thereto, and to Continue, in whole or in part, Eurodollar Loans beyond the expiration of such Interest Period by designating a new Interest Period to take effect at the time of such expiration.
+In making such elections, the Borrower may combine existing Loans made pursuant to separate Borrowings into one new Borrowing or divide existing Loans made pursuant to one Borrowing into separate new Borrowings, provided, that
+(i) the Borrower may have no more than twelve (12) Borrowings of Eurodollar Loans outstanding at any time, (ii) the aggregate amount of all Base Rate Loans in any Borrowing must be equal to $1,000,000 or any higher integral
+multiple of $500,000, and (iii) the aggregate amount of all Eurodollar Loans in any Borrowing must be equal to $5,000,000 or any higher integral multiple of $1,000,000. To make any such election, the Borrower must give to the Administrative
+Agent written notice (or telephonic notice promptly confirmed in writing) of any such Conversion or Continuation of existing Loans, with a separate notice given for each new Borrowing. Each such notice must:
+(a) specify the existing Loans which are to be Continued or Converted;
+(b) specify (i) the aggregate amount of any Borrowing of Base Rate Loans into which such existing Loans are to be Continued or Converted and the date on which such Continuation or Conversion is to occur, or
+(ii) the aggregate amount of any Borrowing of Eurodollar Loans into which such existing Loans are to be Continued or Converted, the date on which such Continuation or Conversion is to occur (which shall be the first day of the Interest Period
+which is to apply to such Eurodollar Loans), and the length of the applicable Interest Period; and
+(c) be received by the Administrative
+Agent not later than 11:00 a.m. on (i) the day on which any such Conversion to Base Rate Loans is to occur, or (ii) the third Business Day preceding the day on which any such Continuation or Conversion to Eurodollar Loans is to occur.
+
+Each such written request or confirmation must be made in the form and substance of the Loan Notice, duly completed. Each such telephonic
+request shall be deemed a representation, warranty, acknowledgment and agreement by the Borrower as to the matters which are required to be set out in such written confirmation. Upon receipt of any such Loan Notice, the Administrative Agent shall
+give each Lender prompt notice of the terms thereof. Each Loan
+
+
+
+7
+
+
+
+
+
+
+
+
+
+Notice shall be irrevocable and binding on the Borrower. During the continuance of any Default, the Borrower may not make any election to Convert existing
+Loans into Eurodollar Loans or Continue existing Loans as Eurodollar Loans beyond the expiration of their respective and corresponding Interest Period then in effect. If (due to the existence of a Default or for any other reason) the Borrower fails
+to timely and properly give any Loan Notice with respect to a Borrowing of existing Eurodollar Loans at least three days prior to the end of the Interest Period applicable thereto, such Eurodollar Loans, to the extent not prepaid at the end of such
+Interest Period, shall automatically be Converted into Base Rate Loans at the end of such Interest Period. No new funds shall be repaid by the Borrower or advanced by any Lender in connection with any Continuation or Conversion of existing Loans
+pursuant to this section, and no such Continuation or Conversion shall be deemed to be a new advance of funds for any purpose; such Continuations and Conversions merely constitute a change in the interest rate, Interest Period or Type applicable to
+already outstanding Loans.
+2.05 Use of Proceeds. The Borrower shall use the proceeds of all Loans (a) for working capital
+purposes, (b) purchases of common Equity Interests of the Borrower, (c) acquisitions of assets or Equity Interests otherwise permitted under the terms of this Agreement, and (d) for general business purposes. No part of the proceeds
+of any Loan will be used, whether directly or indirectly, for any purpose that entails a violation of any of the Regulations of the Board of Governors of the Federal Reserve System, including Regulations T, U and X. The Borrower represents and
+warrants that the Borrower is not engaged principally, or as one of the Borrower’s important activities, in the business of extending credit to others for the purpose of purchasing or carrying such margin stock.
+2.06 Repayments and Prepayments of Loans. The Borrower hereby unconditionally promises to pay to the Administrative Agent for the account of each
+Lender the then unpaid principal amount of each Loan on the Maturity Date. Prior thereto, the Borrower may, upon three Business Days’ notice to the Administrative Agent (which notice shall be irrevocable, and the Administrative Agent will
+promptly give notice to the other Lenders), from time to time and without premium or penalty (other than Eurodollar Loan breakage costs, if any, pursuant to Section 3.05) prepay the Loans, in whole or in part, so long as the aggregate amounts
+of all partial prepayments of principal on the Loans equals $5,000,000 or any higher integral multiple of $1,000,000. The Borrower shall pay to the Administrative Agent for the account of the applicable Lenders, on the date of each prepayment of
+principal or commitment termination or reduction pursuant to this Section or Section 2.16, interest then accrued and unpaid on the principal so prepaid and commitment fees then accrued and unpaid on the amount of the Commitments so terminated
+or reduced. Any principal, interest or commitment fees prepaid pursuant to this section shall be in addition to, and not in lieu of, all payments otherwise required to be paid under the Loan Documents at the time of such prepayment.
+In the event that the Borrower or any of its Subsidiaries receives proceeds of senior notes or senior subordinated notes issued pursuant to
+Section 7.01(c) of the Other Credit Agreement (or proceeds of other similar Indebtedness issued in the capital markets), the Borrower shall, substantially simultaneously with (and in any event not later than the third Business Day next
+following) the receipt of such proceeds, cause the Aggregate Commitments to be permanently reduced, in an amount equal to the cash proceeds of such debt issuance (net of all taxes and
+
+
+
+8
+
+
+
+
+
+
+
+
+
+reasonable and customary fees, commissions, costs and other expenses incurred by the issuer thereof in connection therewith); provided that, for the
+avoidance of doubt, the amount of the Aggregate Commitments shall not be reduced below zero.
+In the event of a termination in whole of the
+Commitments, the Borrower shall, on the date of such termination, repay or prepay all its outstanding Loans. If as a result of any partial reduction of the Commitments the Facility Usage would exceed the Aggregate Commitments after giving effect
+thereto, the Borrower shall, on the date of such reduction, repay or prepay Loans in an amount sufficient to eliminate such excess.
+Unless
+previously terminated in accordance with the terms hereof, the Commitments shall automatically terminate on the Maturity Date.
+Each
+reduction in the Aggregate Commitments made pursuant to this Section or Section 2.16 shall be made ratably among the Lenders in accordance with their respective Applicable Percentages.
+2.07 [Intentionally Omitted]
+2.08 [Intentionally Omitted]
+2.09 [Intentionally Omitted]
+2.10 [Intentionally Omitted]
+2.11 [Intentionally Omitted]
+2.12 Interest Rates and Fees.
+(a) Interest Rates. Interest accrued on each Loan shall be due and payable in arrears on each Interest Payment Date. Unless the Default Rate shall
+apply, (i) each Base Rate Loan shall bear interest on each day outstanding at the Base Rate plus the Applicable Rate for Base Rate Loans in effect on such day, and (ii) each Eurodollar Loan shall bear interest on each day during the
+related Interest Period at the related Eurodollar Rate plus the Applicable Rate for Eurodollar Loans in effect on such day. During a Default Rate Period, all Loans shall bear interest on each day outstanding at the applicable Default Rate. The
+interest rate shall change whenever the applicable Base Rate, the Eurodollar Rate or the Applicable Rate for Eurodollar Loans changes. In no event shall the interest rate on any Loan exceed the Maximum Rate.
+(b) Commitment Fees. In consideration of each Lender’s commitment to make Loans, the Borrower will pay to the Administrative Agent for the
+account of each Lender a commitment fee determined on a daily basis equal to the Applicable Rate for commitment fees in effect on such day times such Lender’s Applicable Percentage of the unused portion of the Aggregate Commitments on each day
+during the Commitment Period, determined for each such day by deducting from the amount of the Aggregate Commitments at the end of such day the Facility Usage. This commitment fee shall be due and payable in arrears on the last day of each Fiscal
+Quarter and at the end of the Commitment Period.
+
+
+9
+
+
+
+
+
+
+
+
+(c) [Intentionally Omitted]
+(d) Calculations and Determinations. All calculations of interest chargeable with respect to the Eurodollar Rate and of fees shall be made on the
+basis of actual days elapsed (including the first day but excluding the last) and a year of 360 days. All calculations under the Loan Documents of interest chargeable with respect to the Base Rate shall be made on the basis of actual days elapsed
+(including the first day but excluding the last) and a year of 365 or 366 days, as appropriate.
+(e) Past Due Obligations. The
+Borrower hereby promises to each Lender to pay interest at the Default Rate on all Obligations (including Obligations to pay fees or to reimburse or indemnify any Lender) which the Borrower has in this Agreement promised to pay to such Lender and
+which are not paid when due. Such interest shall accrue from the date such Obligations become due until they are paid.
+2.13 Evidence of
+Debt.
+(a) Credit Extensions. The Credit Extensions made by each Lender shall be evidenced by one or more accounts or records
+maintained by such Lender and by the Administrative Agent in the ordinary course of business. The accounts or records maintained by the Administrative Agent and each Lender shall be conclusive absent manifest error of the amount of the Credit
+Extensions made by the Lenders to the Borrower and the interest and payments thereon. Any failure to so record or any error in doing so shall not, however, limit or otherwise affect the obligation of the Borrower hereunder to pay any amount owing
+with respect to the Obligations. In the event of any conflict between the accounts and records maintained by any Lender and the accounts and records of the Administrative Agent in respect of such matters, the accounts and records of the
+Administrative Agent shall control in the absence of manifest error. Upon the request of any Lender made through the Administrative Agent, the Borrower shall execute and deliver to such Lender (through the Administrative Agent) a Note, which shall
+evidence such Lender’s Loans in addition to such accounts or records. Each Lender may attach schedules to its Note and endorse thereon the date, Type (if applicable), amount and maturity of its Loans and payments with respect thereto.
+
+(b) [Intentionally Omitted]
+2.14 Payments Generally; Administrative Agent’s Clawback.
+[See Section 1.02]
+
+2.15 Sharing of Payments by Lenders. If any Lender shall, by exercising any right of setoff or counterclaim or otherwise, obtain payment
+in respect of any principal of or interest on any of the Loans made by it, resulting in such Lender’s receiving payment of a proportion of the aggregate amount of such Loans and accrued interest thereon greater than its pro rata
+share thereof as provided herein, then the Lender receiving such greater proportion shall (a) notify the Administrative Agent of such fact, and (b) purchase (for cash at face value) participations in the Loans of the other Lenders, or make
+such other adjustments as shall be equitable, so that the
+
+
+
+10
+
+
+
+
+
+
+
+
+
+benefit of all such payments shall be shared by the Lenders ratably in accordance with the aggregate amount of principal of and accrued interest on their
+respective Loans and other amounts owing them, provided that:
+(a) if any such participations are purchased and all or any portion
+of the payment giving rise thereto is recovered, such participations shall be rescinded and the purchase price restored to the extent of such recovery, without interest; and
+(b) the provisions of this Section shall not be construed to apply to (i) any payment made by the Borrower pursuant to and in accordance with the
+express terms of this Agreement or (ii) any payment obtained by a Lender as consideration for the assignment of or sale of a participation in any of its Loans to any assignee or participant, other than to the Borrower or any Subsidiary or
+Affiliate thereof (as to which the provisions of this Section shall apply).
+Each Restricted Person consents to the foregoing and agrees,
+to the extent it may effectively do so under applicable law, that any Lender acquiring a participation pursuant to the foregoing arrangements may exercise against such Restricted Person rights of setoff and counterclaim with respect to such
+participation as fully as if such Lender were a direct creditor of such Restricted Person in the amount of such participation.
+2.16
+Reductions in Commitment. The Borrower shall have the right from time to time to permanently reduce the Aggregate Commitments, provided that (i) notice of such reduction is given not less than two Business Days prior to such
+reduction, (ii) the resulting Aggregate Commitments are not less than the Facility Usage, and (iii) each partial reduction shall be in an amount at least equal to $5,000,000 and in multiples of $1,000,000 in excess thereof.
+ARTICLE III.
+TAXES, YIELD
+PROTECTION AND ILLEGALITY
+[See Section 1.02]
+ARTICLE IV.
+CONDITIONS PRECEDENT TO CREDIT EXTENSIONS
+4.01 Conditions of Initial Credit Extension. The obligation of each Lender to make its initial Credit Extension hereunder is subject to the
+Administrative Agent having received counterparts of this Agreement executed by the Borrower and each Lender, sufficient in number for distribution to the Administrative Agent, each Lender and the Borrower, together with all other items relating
+thereto of the type set forth in Section 4.01(a) of the Other Credit Agreement, each dated the Closing Date, provided that (i) in the case of certificates of governmental officials, such items may be dated a recent date (which may be up to
+30 days prior to the Closing Date) before the Closing Date, (ii) the Compliance Certificate delivered in connection with closing under the Other Credit Agreement shall be sufficient to satisfy the requirements hereof, and (iii) delivery of
+the evidence of insurance delivered in connection with closing under the Other Credit Agreement shall be sufficient to satisfy the requirements hereof. The Borrower
+
+
+
+11
+
+
+
+
+
+
+
+
+
+shall have paid all fees, charges and disbursements of counsel to the Administrative Agent to the extent invoiced prior to or on the Closing Date, plus such
+additional amounts of such fees, charges and disbursements as shall constitute its reasonable estimate of such fees, charges and disbursements incurred or to be incurred by it through the closing proceedings (provided that such estimate shall
+not thereafter preclude a final settling of accounts between the Borrower and the Administrative Agent).
+4.02 Conditions to all Credit
+Extensions. No Lender has any obligation to make any Loan (including its first) unless the following conditions precedent have been satisfied:
+(a) The representations and warranties of the Borrower set forth in this Agreement shall be true and correct in all material respects on and as of the date of such Borrowing, provided, however, for
+purposes of this Section 4.02, (i) to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct as of such earlier date, (ii) the representations and warranties
+contained in Section 5.06(a) of the Other Credit Agreement shall be deemed to refer to the most recent financial statements furnished pursuant to Section 6.02 of the Other Credit Agreement, and (iii) the representation
+and warranty contained in Section 5.06(b) of the Other Credit Agreement shall not need to be true and correct on any date that the Rating maintained by at least two of the Rating Agencies is BBB-/Baa3/BBB- or better; and
+(b) At the time of and immediately after giving effect to such Borrowing, no Default shall have occurred and be continuing.
+Each Borrowing shall be deemed to constitute a representation and warranty by the Borrower on the date thereof as to the matters specified in paragraphs
+(a) and (b) of this Section.
+ARTICLE V.
+REPRESENTATIONS AND WARRANTIES
+The representations and warranties of the Borrower set forth in the
+Other Credit Agreement (including in Article V thereof) are incorporated herein by reference as if fully set forth herein. To confirm each Lender’s understanding concerning Restricted Persons and Restricted Persons’ businesses, properties
+and obligations and to induce each Lender to enter into this Agreement and to extend credit hereunder, the Borrower represents and warrants to each Lender that the representations and warranties of the Borrower set forth in the Other Credit
+Agreement (including in Article V thereof) are true and correct in all material respects, provided, however, (i) to the extent that such representations and warranties refer to the Closing Date under the Other Credit Agreement,
+they shall be true and correct as of the Closing Date hereunder, (ii) to the extent that any such representation or warranty specifically refers to a date earlier than the Closing Date under the Other Credit Agreement, it shall be true and
+correct as of such earlier date, and (iii) the representations and warranties contained in Section 5.06(a) of the Other Credit Agreement shall be deemed to refer to both the Initial Financial Statements and the most recent financial
+statements furnished pursuant to Section 6.02 of the Other Credit Agreement.
+
+
+12
+
+
+
+
+
+
+
+
+ARTICLE VI.
+AFFIRMATIVE COVENANTS
+The provisions of Article VI of the Other Credit Agreement are incorporated
+herein by reference as if fully set forth herein To conform with the terms and conditions under which each Lender is willing to have credit outstanding to the Borrower, and to induce each Lender to enter into this Agreement and extend credit
+hereunder, the Borrower covenants and agrees that, unless Majority Lenders or all Lenders as required under Section 10.01 have previously agreed otherwise, it shall be in compliance with all of the terms and conditions contained in
+Article VI of the Other Credit Agreement. Within ten Business Days after the Closing Date, Borrower shall deliver to the Administrative Agent a Guaranty executed by each Guarantor, sufficient in number for distribution to the Administrative Agent,
+each Lender and the Borrower, together with appropriate corporate authorizations, organizational documentation, officers certificates, good standing certificates and legal opinions of the type described in Section 4.01. Subsidiaries of the
+Borrower shall become Guarantors of the Obligations to the same extent that such Subsidiaries are required to deliver Guarantees to the administrative agent pursuant to Section 6.11 of the Other Credit Agreement or would have been so
+required if the Other Credit Agreement were in effect, regardless of whether or not the Other Credit Agreement in fact remains in effect.
+ARTICLE VII.
+NEGATIVE COVENANTS
+The provisions of Article VII of the Other Credit Agreement are incorporated herein by reference as if fully set forth herein To conform with the terms and conditions under which each Lender is willing to have credit
+outstanding to the Borrower, and to induce each Lender to enter into this Agreement and extend credit hereunder, the Borrower covenants and agrees that, unless Majority Lenders or all Lenders as required under Section 10.01 have
+previously agreed otherwise, it shall be in compliance with all of the terms and conditions contained in Article VII of the Other Credit Agreement.
+ARTICLE VIII.
+EVENTS OF DEFAULT AND REMEDIES
+8.01 Events of Default. Failure to deliver Guarantees in accordance with the terms of Article VI and each of the events set forth in
+Section 8.01 of the Other Credit Agreement constitutes an Event of Default under this Agreement (each an “Event of Default”) and the provisions of such Section 8.01 are incorporated herein by reference as if fully set
+forth herein.
+8.02 Remedies Upon Event of Default. If any Event of Default occurs and is continuing, the Administrative Agent
+shall, at the request of, or may, with the consent of, the Majority Lenders, take any or all of the following actions:
+(a) declare the
+commitment of each Lender to make Loans to be terminated, whereupon such commitments shall be terminated;
+
+
+13
+
+
+
+
+
+
+
+
+(b) declare the unpaid principal amount of all outstanding Loans, all interest accrued and unpaid
+thereon, and all other amounts owing or payable hereunder or under any other Loan Document to be immediately due and payable, without presentment, demand, protest or other notice of any kind, all of which are hereby expressly waived by the Borrower;
+and
+(c) [Intentionally Omitted]
+(d) exercise on behalf of itself and the Lenders all rights and remedies available to it and the Lenders under the Loan Documents;
+provided, however, that upon the occurrence of an Event of Default described in subsections (j)(i), (j)(ii) or (j)(iii) of Section 8.01 of the Other Credit Agreement, the obligation of each
+Lender to make Loans shall automatically terminate, and the unpaid principal amount of all outstanding Loans and all interest and other amounts as aforesaid shall automatically become due and payable, in each case without further act of the
+Administrative Agent or any Lender.
+8.03 Application of Funds. After the exercise of remedies provided for in
+Section 8.02 (or after the Loans have automatically become immediately due and payable as set forth in the proviso to Section 8.02), any amounts received on account of the Obligations shall be applied by the Administrative
+Agent in the following order:
+First, to payment of that portion of the Obligations constituting fees, indemnities, expenses and
+other amounts (including fees, charges and disbursements of counsel to the Administrative Agent and amounts payable under Article III) payable to the Administrative Agent in its capacity as such;
+Second, to payment of that portion of the Obligations constituting fees, indemnities and other amounts (other than principal and interest) payable
+to the Lenders (including fees, charges and disbursements of counsel to the respective Lenders (including fees and time charges for attorneys who may be employees of any Lender) and amounts payable under Article III), ratably among them in
+proportion to the amounts described in this clause Second payable to them;
+Third, to payment of that portion of the
+Obligations constituting accrued and unpaid interest on the Loans and other Obligations, ratably among the Lenders in proportion to the respective amounts described in this clause Third payable to them;
+Fourth, to payment of that portion of the Obligations constituting unpaid principal of the Loans and other Obligations, ratably among the Lenders
+in proportion to the respective amounts described in this clause Fourth held by them; and
+Last, the balance, if any, after
+all of the Obligations have been indefeasibly paid in full, to the Borrower or as otherwise required by Law.
+ARTICLE IX.
+
+ADMINISTRATIVE AGENT
+[See
+Section 1.02]
+
+
+14
+
+
+
+
+
+
+
+
+ARTICLE X.
+MISCELLANEOUS
+10.01 Amendments, Etc. No amendment or waiver of any provision of this
+Agreement or any other Loan Document, and no consent to any departure by the Borrower or any other Restricted Person therefrom, shall be effective unless in writing signed by the Majority Lenders and the Borrower or the applicable Restricted Person,
+as the case may be, and acknowledged by the Administrative Agent, and each such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given; provided, however, that no such amendment,
+waiver or consent shall:
+(a) waive any condition set forth in Section 4.01(a) without the written consent of each Lender;
+
+(b) extend or increase the Commitment of any Lender (or reinstate any Commitment terminated pursuant to Section 8.02) without
+the written consent of such Lender;
+(c) postpone any date fixed by this Agreement or any other Loan Document for any payment of principal,
+interest, fees or other amounts due to the Lenders (or any of them) hereunder or under any other Loan Document without the written consent of each Lender directly affected thereby;
+(d) reduce the principal of, or the rate of interest specified herein on, any Loan, or any fees or other amounts payable hereunder or under any other
+Loan Document, or change the manner of computation of any financial ratio (including any change in any applicable defined term) used in determining the Applicable Leverage Level that would result in a reduction of any interest rate on any Loan or
+any fee payable hereunder without the written consent of each Lender directly affected thereby; provided, however, that only the consent of the Majority Lenders shall be necessary to amend the definition of “Default Rate” or
+to waive any obligation of the Borrower to pay interest or letter of credit fees at the Default Rate;
+(e) change Section 2.15
+or Section 8.03 in a manner that would alter the pro rata sharing of payments required thereby without the written consent of each Lender;
+(f) change any provision of this Section or the definition of “Majority Lenders” or any other provision hereof specifying the number or percentage of Lenders required to amend, waive or otherwise modify any
+rights hereunder or make any determination or grant any consent hereunder, without the written consent of each Lender; or
+(g) except as
+provided in Section 9.10, release all or substantially all of the Guarantors from the Guaranty without the written consent of each Lender;
+and, provided further, that no amendment, waiver or consent shall, unless in writing and signed by the Administrative Agent in addition to the Lenders required above, affect the rights or duties of the Administrative Agent under this
+Agreement or any other Loan Document.
+
+
+15
+
+
+
+
+
+
+
+
+10.02 Notices; Effectiveness; Electronic Communication.
+[See Section 1.02]
+10.03 No
+Waiver; Cumulative Remedies.
+[See Section 1.02]
+10.04 Expenses; Indemnity; Damage Waiver.
+[See Section 1.02]
+10.05 Payments Set Aside.
+[See
+Section 1.02]
+10.06 Successors and Assigns.
+(a) Successors and Assigns Generally. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted hereby,
+except that the Borrower may not assign or otherwise transfer any of its rights or obligations hereunder without the prior written consent of the Administrative Agent and each Lender and no Lender may assign or otherwise transfer any of its rights
+or obligations hereunder except (i) to an Eligible Assignee in accordance with the provisions of subsection (b) of this Section, (ii) by way of participation in accordance with the provisions of subsection (d) of this Section, or
+(iii) by way of pledge or assignment of a security interest subject to the restrictions of subsection (f) of this Section (and any other attempted assignment or transfer by any party hereto shall be null and void). Nothing in this
+Agreement, expressed or implied, shall be construed to confer upon any Person (other than the parties hereto, their respective successors and assigns permitted hereby, Participants to the extent provided in subsection (d) of this Section and,
+to the extent expressly contemplated hereby, the Related Parties of each of the Administrative Agent and the Lenders) any legal or equitable right, remedy or claim under or by reason of this Agreement.
+(b) Assignments by Lenders. Any Lender may at any time assign to one or more Eligible Assignees all or a portion of its rights and
+obligations under this Agreement (including all or a portion of its Commitment and the Loans at the time owing to it); provided that:
+(i) except in the case of an assignment of the entire remaining amount of the assigning Lender’s Commitment and the Loans at the time owing to it or in the case of an assignment to a Lender or an Affiliate of a
+Lender or an Approved Fund with respect to a Lender, the aggregate amount of the Commitment (which for this purpose includes Loans outstanding thereunder) or, if the Commitment is not then in effect, the principal outstanding balance of the Loans of
+the assigning Lender subject to each such assignment, determined as of the date the Assignment and Assumption with respect to such assignment is delivered to the Administrative Agent or, if “Trade Date” is specified in the Assignment and
+Assumption, as of the Trade Date, shall not be less than
+
+
+
+16
+
+
+
+
+
+
+
+
+
+$5,000,000 unless each of the Administrative Agent and, so long as no Event of Default has occurred and is continuing, the Borrower otherwise consents (each
+such consent not to be unreasonably withheld or delayed);
+(ii) each partial assignment shall be made as an assignment of a
+proportionate part of all the assigning Lender’s rights and obligations under this Agreement with respect to the Loans or the Commitment assigned;
+(iii) any assignment of a Commitment must be approved by the Administrative Agent unless the Person that is the proposed assignee is itself a Lender (whether or not the proposed assignee would otherwise qualify as an
+Eligible Assignee); and
+(iv) the parties to each assignment shall execute and deliver to the Administrative Agent an
+Assignment and Assumption, together with a processing and recordation fee of $3,500 (which fee may be waived or reduced in the sole discretion of the Administrative Agent), and the Eligible Assignee, if it shall not be a Lender, shall deliver to the
+Administrative Agent an Administrative Questionnaire.
+Subject to acceptance and recording thereof by the Administrative Agent pursuant to subsection
+(c) of this Section, from and after the effective date specified in each Assignment and Assumption, the Eligible Assignee thereunder shall be a party to this Agreement and, to the extent of the interest assigned by such Assignment and
+Assumption, have the rights and obligations of a Lender under this Agreement, and the assigning Lender thereunder shall, to the extent of the interest assigned by such Assignment and Assumption, be released from its obligations under this Agreement
+(and, in the case of an Assignment and Assumption covering all of the assigning Lender’s rights and obligations under this Agreement, such Lender shall cease to be a party hereto) but shall continue to be entitled to the benefits of
+Sections 3.01, 3.04, 3.05, and 10.04 with respect to facts and circumstances occurring prior to the effective date of such assignment. Upon request, the Borrower (at its expense) shall execute and deliver a Note
+to the assignee Lender. Any assignment or transfer by a Lender of rights or obligations under this Agreement that does not comply with this subsection shall be treated for purposes of this Agreement as a sale by such Lender of a participation in
+such rights and obligations in accordance with subsection (d) of this Section.
+(c) Register. The Administrative Agent,
+acting solely for this purpose as an agent of the Borrower, shall maintain at the Administrative Agent’s Office a copy of each Assignment and Assumption delivered to it and a register for the recordation of the names and addresses of the
+Lenders, and the Commitments of, and principal amounts of the Loans owing to, each Lender pursuant to the terms hereof from time to time (the “Register”). The entries in the Register shall be conclusive, and the Borrower, the
+Administrative Agent and the Lenders may treat each Person whose name is recorded in the Register pursuant to the terms hereof as a Lender hereunder for all purposes of this Agreement, notwithstanding notice to the contrary. The Register shall be
+available for inspection by each of the Borrower at any reasonable time and from time to time upon reasonable prior notice. In addition, at any time that a request for a consent for a material or substantive change to the Loan Documents is pending,
+any Lender
+
+
+
+17
+
+
+
+
+
+
+
+
+
+wishing to consult with other Lenders in connection therewith may request and receive from the Administrative Agent a copy of the Register.
+(d) Participations. Any Lender may at any time, without the consent of, or notice to, the Borrower or the Administrative Agent, sell
+participations to any Person (other than a natural person or the Borrower or any of the Borrower’s Affiliates or Subsidiaries) (each, a “Participant”) in all or a portion of such Lender’s rights and/or obligations under
+this Agreement (including all or a portion of its Commitment and/or the Loans owing to it); provided that (i) such Lender’s obligations under this Agreement shall remain unchanged, (ii) such Lender shall remain solely
+responsible to the other parties hereto for the performance of such obligations and (iii) the Borrower, the Administrative Agent and the Lenders shall continue to deal solely and directly with such Lender in connection with such Lender’s
+rights and obligations under this Agreement.
+Any agreement or instrument pursuant to which a Lender sells such a participation shall
+provide that such Lender shall retain the sole right to enforce this Agreement and to approve any amendment, modification or waiver of any provision of this Agreement; provided that such agreement or instrument may provide that such Lender
+will not, without the consent of the Participant, agree to any amendment, waiver or other modification described in the first proviso to Section 10.01 that affects such Participant. Subject to subsection (e) of this Section, the
+Borrower agrees that each Participant shall be entitled to the benefits of Sections 3.01, 3.04 and 3.05 to the same extent as if it were a Lender and had acquired its interest by assignment pursuant to subsection
+(b) of this Section. To the extent permitted by law, each Participant also shall be entitled to the benefits of Section 10.08 as though it were a Lender, provided such Participant agrees to be subject to
+Section 2.15 as though it were a Lender.
+(e) Limitations upon Participant Rights. A Participant shall not be
+entitled to receive any greater payment under Section 3.01 or 3.04 than the applicable Lender would have been entitled to receive with respect to the participation sold to such Participant, unless the sale of the participation to
+such Participant is made with the Borrower’s prior written consent. A Participant that would be a Foreign Lender if it were a Lender shall not be entitled to the benefits of Section 3.01 unless the Borrower is notified of the
+participation sold to such Participant and such Participant agrees, for the benefit of the Borrower, to comply with Section 3.01(e) as though it were a Lender.
+(f) Certain Pledges. Any Lender may at any time pledge or assign a security interest in all or any portion of its rights under this Agreement
+(including under its Note, if any) to secure obligations of such Lender, including any pledge or assignment to secure obligations to a Federal Reserve Bank; provided that no such pledge or assignment shall release such Lender from any of its
+obligations hereunder or substitute any such pledgee or assignee for such Lender as a party hereto.
+(g) Electronic Execution of
+Assignments. The words “execution,” “signed,” “signature,” and words of like import in any Assignment and Assumption shall be deemed to include electronic signatures or the keeping of records in electronic
+form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of
+
+
+
+18
+
+
+
+
+
+
+
+
+
+a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures
+in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+10.07 Treatment of Certain Information; Confidentiality.
+[See Section 1.02]
+10.08 Right of Setoff.
+[See Section 1.02]
+10.09 Interest
+Rate Limitation.
+[See Section 1.02]
+10.10 Counterparts; Integration; Effectiveness.
+[See Section 1.02]
+10.11 Survival of Representations and Warranties.
+[See Section 1.02]
+10.12 Severability.
+[See Section 1.02]
+10.13
+Replacement of Lenders.
+[See Section 1.02]
+10.14 Governing Law; Jurisdiction; Etc.
+(a) GOVERNING LAW. THIS AGREEMENT SHALL BE
+GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+(b) SUBMISSION TO JURISDICTION. THE BORROWER
+IRREVOCABLY AND UNCONDITIONALLY SUBMITS, FOR ITSELF AND ITS PROPERTY, TO THE NONEXCLUSIVE JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY AND OF THE UNITED STATES DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK,
+AND ANY APPELLATE COURT FROM ANY THEREOF, IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT, OR FOR RECOGNITION OR ENFORCEMENT OF ANY JUDGMENT, AND EACH OF THE PARTIES HERETO IRREVOCABLY AND
+UNCONDITIONALLY AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH ACTION OR PROCEEDING MAY BE HEARD AND DETERMINED IN
+
+
+
+19
+
+
+
+
+
+
+
+
+
+SUCH NEW YORK STATE COURT OR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN SUCH FEDERAL COURT. EACH OF THE PARTIES HERETO AGREES THAT A FINAL
+JUDGMENT IN ANY SUCH ACTION OR PROCEEDING SHALL BE CONCLUSIVE AND MAY BE ENFORCED IN OTHER JURISDICTIONS BY SUIT ON THE JUDGMENT OR IN ANY OTHER MANNER PROVIDED BY LAW. NOTHING IN THIS AGREEMENT OR IN ANY OTHER LOAN DOCUMENT SHALL AFFECT ANY RIGHT
+THAT THE ADMINISTRATIVE AGENT OR ANY LENDER MAY OTHERWISE HAVE TO BRING ANY ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT AGAINST THE BORROWER OR ITS PROPERTIES IN THE COURTS OF ANY JURISDICTION.
+(c) WAIVER OF VENUE. THE BORROWER IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY OBJECTION
+THAT IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT IN ANY COURT REFERRED TO IN PARAGRAPH (B) OF THIS SECTION. EACH OF THE PARTIES HERETO
+HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH ACTION OR PROCEEDING IN ANY SUCH COURT.
+(d) SERVICE OF PROCESS. EACH PARTY HERETO IRREVOCABLY CONSENTS TO SERVICE OF PROCESS IN THE MANNER PROVIDED FOR NOTICES IN
+SECTION 10.02. NOTHING IN THIS AGREEMENT WILL AFFECT THE RIGHT OF ANY PARTY HERETO TO SERVE PROCESS IN ANY OTHER MANNER PERMITTED BY APPLICABLE LAW.
+10.15 Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR
+INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE,
+AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE
+BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+10.16 USA PATRIOT Act Notice. Each Lender that is subject to the Act (as hereinafter defined) and the Administrative Agent (for itself and not on behalf of any Lender) hereby notifies the Borrower that
+pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “Act”), it is required to obtain, verify
+
+
+
+20
+
+
+
+
+
+
+
+
+
+and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow
+such Lender or the Administrative Agent, as applicable, to identify the Borrower in accordance with the Act.
+10.17 Time of the
+Essence. Time is of the essence of the Loan Documents.
+10.18 No Recourse. The parties hereto hereby acknowledge and agree
+that neither the General Partner nor any director, officer, employee, limited partner or shareholder of the Borrower or the General Partner shall have any personal liability in respect of the obligations of the Borrower and the Guarantors under this
+Agreement and the other Loan Documents by reason of his, her or its status.
+[THE REMAINDER OF
+THIS PAGE IS INTENTIONALLY LEFT BLANK.]
+
+
+21
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the
+date first above written.
+
+
+
+ENERGY TRANSFER PARTNERS, L.P.
+By: Energy Transfer Partners GP, L.P., its general partner
+By: Energy Transfer Partners, L.L.C., its general partner
+
+By:
+Name: H. Michael Krimbill
+Title:   President
+
+
+Signature Page to Credit Agreement –
+Energy Transfer Partners, L.P.
+
+
+S-1
+
+
+
+
+
+
+
+
+
+
+CREDIT SUISSE, CAYMAN ISLANDS BRANCH, as Administrative Agent and a Lender
+
+By:
+Name:
+Title:
+
+
+Signature Page to Credit Agreement –
+Energy Transfer Partners, L.P.
+
+
+S-2
+
+
+
+
+
+
+
+
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+By:
+Name:
+Title:
+
+
+Signature Page to Credit Agreement –
+Energy Transfer Partners, L.P.
+
+
+S-3
+
+
+
+
+
+
+
+
+Schedule 1
+COMMITMENTS
+
+
+
+Lender
+Commitment
+Bank of America, N.A.
+$	125,000,000
+Credit Suisse, Cayman Islands Branch
+$	125,000,000
+TOTAL:
+$	250,000,000
+
+
+
+Schedule 1-1
+
+
+
+
+
+
+
+
+Schedule 10.02
+Notices
+If to the Borrower:
+Energy Transfer Partners, L.P.
+8801 South Yale Avenue, Suite 310
+Tulsa, Oklahoma 74137
+Attention: Chief Financial Officer
+Telephone: (918) 492-7272
+Facsimile: (918) 493-7290
+If to the Administrative Agent:
+Credit Suisse
+Eleven Madison Avenue
+New York, New York 10010
+Attention: Thomas Lynch, Agency Group Manager
+Telephone: (212) 325-9205
+
+Facsimile: (212) 325-8304
+
+
+Schedule 10.02-1
+
+

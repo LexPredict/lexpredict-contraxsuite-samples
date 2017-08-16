@@ -1,0 +1,1805 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.4
+
+
+
+
+
+
+
+
+
+CREDIT AGREEMENT
+
+
+<PAGE>
+
+
+TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+
+<S>                                                                                                                              <C>
+ARTICLE I.   DEFINITIONS...........................................................................................................1
+
+ARTICLE II. LETTERS OF CREDIT......................................................................................................9
+2.1         ISSUANCE OF LETTERS OF CREDIT..................................................................9
+2.2         LETTER OF CREDIT FEE..........................................................................10
+2.3         SPECIAL ACCOUNT.  ............................................................................10
+
+ARTICLE III.   REVOLVING LOAN.....................................................................................................11
+3.1         NATURE OF LOAN COMMITMENT/MAXIMUM OF ADVANCES.................................................11
+3.2         TYPES OF ADVANCES; CERTAIN LIMITATIONS........................................................11
+3.3         PURPOSE FOR ADVANCES..........................................................................11
+3.4         COMPUTATION OF INTEREST.......................................................................11
+3.5         MATURITY.  ...................................................................................11
+3.6         RECORDKEEPING.  ..............................................................................11
+3.7         NON-USE FEES..................................................................................12
+3.8         ACTIVATION OF CONTINGENT COMMITMENT. .........................................................12
+
+ARTICLE IV.  DISBURSEMENT OF REVOLVING CREDIT COMMITMENT ADVANCES.................................................................12
+4.1         REQUESTS FOR ADVANCES.........................................................................12
+4.2         CONVERTING FLOATING RATE ADVANCES TO LIBOR RATE ADVANCES; PROCEDURES..........................12
+4.3         PROCEDURES AT END OF INTEREST PERIOD..........................................................12
+(a)         AUTOMATIC CONVERSION..................................................12
+(b)         EXTENSION.............................................................13
+(c)         PAYMENT...............................................................13
+
+ARTICLE V.  PAYMENTS AND PREPAYMENTS OF ADVANCES..................................................................................13
+5.1         PRINCIPAL PAYMENTS UNDER REVOLVING CREDIT COMMITMENT..........................................13
+(a)         PAYMENT OF LIBOR RATE ADVANCES; FINAL PAYMENT.........................13
+(b)         OPTIONAL PREPAYMENT...................................................13
+(c)         MANDATORY PREPAYMENT; APPLICATION.....................................13
+(d)         APPLICATION OF PAYMENTS AND PREPAYMENTS...............................13
+(e)         INDEMNITY PAYMENT.....................................................14
+(f)         INTEREST..............................................................14
+5.2         INTEREST PAYMENTS UNDER REVOLVING CREDIT COMMITMENT...........................................14
+5.3         PAYMENT METHOD AND RELATED MATTERS............................................................14
+(a)         PAYMENTS BY BORROWER. ................................................14
+(b)         AUTHORIZATION OF PAYMENTS/ADVANCES....................................14
+5.4         NO SETOFF OR DEDUCTION........................................................................14
+5.5         PAYMENT ON NON-BUSINESS DAY...................................................................14
+5.6         ILLEGALITY AND IMPOSSIBILITY..................................................................14
+(a)         REPAYMENT.............................................................14
+(b)         CONVERSION OF LIBOR RATE ADVANCES TO FLOATING RATE ADVANCES...........15
+5.7         LIBOR RATE INDEMNITY..........................................................................15
+
+<PAGE>
+
+
+ARTICLE VI. WARRANTIES AND COVENANTS..............................................................................................15
+6.1         ACCURACY OF INFORMATION.......................................................................15
+6.2         ORGANIZATION AND AUTHORITY; LITIGATION.  .....................................................15
+6.3         CORPORATE EXISTENCE; BUSINESS ACTIVITIES; ASSETS..............................................16
+6.4         USE OF PROCEEDS; MARGIN STOCK; SPECULATION....................................................16
+6.5         ENVIRONMENTAL MATTERS.........................................................................16
+6.6         ENVIRONMENTAL PERMITS.........................................................................17
+6.7         COMPLIANCE WITH LAWS..........................................................................17
+6.8         PENSION PLANS.................................................................................17
+6.9         RESTRICTION ON INDEBTEDNESS...................................................................17
+6.10        RESTRICTION ON LIENS..........................................................................17
+6.11        RESTRICTION ON CONTINGENT LIABILITIES.........................................................18
+6.12        RESTRICTED PAYMENTS...........................................................................18
+6.13        CHANGE IN CONTROL.............................................................................18
+6.14        INTENTIONALLY OMITTED.........................................................................18
+6.15        NOTICE OF MATERIAL EVENTS/SEC REPORTS.........................................................18
+6.16        INSURANCE.....................................................................................18
+6.17        TAXES AND OTHER LIABILITIES...................................................................18
+6.18        FINANCIAL STATEMENTS AND REPORTING............................................................18
+6.19        INSPECTION OF PROPERTIES AND RECORDS; FISCAL YEAR; ACCOUNTING METHODS.........................19
+6.20        FINANCIAL STATUS..............................................................................20
+6.21        CAPITAL ADEQUACY..............................................................................20
+6.22        REAFFIRMATION WITH ADVANCES...................................................................20
+6.23        ACQUISITIONS, LOAN, INVESTMENTS...............................................................20
+6.24        CHANGE NAME OR OFFICE.........................................................................21
+6.25        CHANGE IN NATURE OF BUSINESS..................................................................21
+6.26        NEGATIVE PLEDGES..............................................................................21
+6.27        BANK ACCOUNTS.................................................................................21
+
+ARTICLE VII. COLLATERAL AND GUARANTIES............................................................................................21
+7.1         COLLATERAL....................................................................................21
+7.2         CREDIT BALANCES; SETOFF.......................................................................21
+
+ARTICLE VIII. DEFAULTS............................................................................................................22
+8.1         EVENTS OF DEFAULT. ...........................................................................22
+(a)         NONPAYMENT............................................................22
+(b)         NONPERFORMANCE........................................................22
+(c)         MISREPRESENTATION.....................................................22
+(d)         DEFAULT ON OTHER OBLIGATIONS..........................................22
+(e)         JUDGMENTS.............................................................22
+(f)         INABILITY TO PERFORM; BANKRUPTCY/INSOLVENCY...........................22
+(g)         GARNISHMENTS/LEVIES...................................................22
+8.2         TERMINATION OF LOANS; ADDITIONAL BANK RIGHTS..................................................22
+8.3         ACCELERATION OF OBLIGATIONS...................................................................23
+8.4         OTHER REMEDIES................................................................................23
+
+ARTICLE IX. CONDITIONS PRECEDENT TO CLOSING AND BORROWING.........................................................................23
+9.1         CONDITIONS TO BORROWING.......................................................................23
+
+<PAGE>
+
+
+ARTICLE X. MISCELLANEOUS..........................................................................................................23
+10.1        EXPENSES AND ATTORNEYS' FEES..................................................................23
+10.2        DELAY; CUMULATIVE REMEDIES....................................................................24
+10.3        RELATIONSHIP TO OTHER DOCUMENTS...............................................................24
+10.4        PARTICIPATIONS; GUARANTORS....................................................................24
+10.5        SUCCESSORS....................................................................................24
+10.6        INDEMNIFICATION...............................................................................24
+10.7        NOTICE OF CLAIMS AGAINST BANK; LIMITATION OF CERTAIN DAMAGES..................................25
+10.8        NOTICES.......................................................................................25
+10.9        PAYMENTS......................................................................................25
+10.10       APPLICABLE LAW AND JURISDICTION; INTERPRETATION; JOINT LIABILITY..............................25
+10.11       COPIES; ENTIRE AGREEMENT; MODIFICATION........................................................25
+10.12       WAIVER OF JURY TRIAL..........................................................................26
+
+</TABLE>
+
+<PAGE>
+
+
+CREDIT AGREEMENT
+
+
+This Credit Agreement (the "AGREEMENT") is made and entered into by and
+between Transport Corporation of America, Inc., a Minnesota corporation having
+its principal place of business in Eagan, Minnesota (the "BORROWER") and the
+undersigned bank (the "BANK") as of the date set forth on the last page of this
+Agreement.
+
+
+ARTICLE I. DEFINITIONS
+
+For purposes of this Agreement, the following terms shall have the
+following meanings (such meanings to be applicable to both the singular and
+plural forms of the terms defined):
+
+"ACCOUNT" and "ACCOUNT DEBTOR" shall have the meanings assigned to such
+terms under the Uniform Commercial Code in the state where the Bank's main
+office is located.
+
+"ACTIVATED CONTINGENT COMMITMENT" shall mean the portion of the Contingent
+Commitment that has been activated by the Borrower pursuant to Section 3.8.
+
+"ADJUSTED LIBOR RATE" shall mean, for any Interest Period and the
+applicable LIBOR Rate Advance, the per annum rate of interest equal to the sum
+of (a) one hundred eighty-five basis points (1.85%), plus (b) the per annum rate
+(rounded up, if necessary, to the nearest one-sixteenth of one percent (1/16%))
+determined by dividing (i) the LIBOR Rate for such LIBOR Rate Advance and
+related Interest Period, by (ii) an amount equal to one minus the stated maximum
+rate (expressed as a decimal) of all reserve requirements (including any basic,
+marginal, emergency, supplemental, special or other reserves) that is specified
+from time to time during an Interest Period by the Board of Governors of the
+Federal Reserve System (or any successor agency) for funding "Eurocurrency
+Liabilities" pursuant to Regulation D of such Board or any other then applicable
+successor regulation, without benefit of credit or prorations, exemptions or
+offsets which might otherwise be available to the Bank from time to time under
+Regulation D.
+
+"ADVANCES" shall mean loans made by the Bank to the Borrower under this
+Agreement, including amounts previously repaid to the Bank and thereafter
+re-loaned to the Borrower, including, without limitation, the conversion of an
+Advance by the Bank from a Prime Rate Advance or a Federal Funds Rate Advance to
+a LIBOR Rate Advance (or vice versa), and the extension of a LIBOR Rate Advance
+for an additional Interest Period.
+
+"AFFILIATE" shall include, with respect to any party, any Person which
+directly or indirectly controls, is controlled by, or is under common control
+with, such party, whether through the ownership of voting securities, by
+contract or otherwise, including, without limitation, any Subsidiary, and, in
+addition, in the case of the Borrower, each officer, director, shareholder,
+joint venturer or partner of Borrower.
+
+"BASE COMMITMENT AMOUNT" shall mean $10,000,000.
+
+
+
+<PAGE>
+
+
+
+"BORROWING BASE" shall mean an amount equal to the sum of (a) eighty
+percent (80%) of all Eligible Accounts, plus (b) seventy-five percent (75%) of
+the net book value of Eligible Equipment, each as determined as of the last day
+of the most recent calendar month and at such other times as may be required by
+the Bank.
+
+"BORROWING BASE CERTIFICATE" shall mean the certificate in the form of
+Exhibit A described in Section 6.18 hereof.
+
+"BUSINESS DAY" shall mean any day on which the Bank is open for the
+transaction of business of the kind contemplated by this Agreement.
+
+"CAPITAL EXPENDITURES" shall have the meaning ascribed to it by GAAP.
+
+"CAPITAL LEASE" shall mean a lease of (or other agreement conveying the
+right to use) real or personal property with respect to which at lease a portion
+of the rent or other amounts thereon constitute Capitalized Lease Obligations.
+
+"CAPITALIZED LEASE OBLIGATIONS" shall mean, as to any Person, the
+obligations of such Person to pay rent or other amounts under a lease of (or
+other agreement conveying the right to use) real or personal property which
+obligations are required to be classified and accounted for as capital lease on
+the balance sheet of such Person under GAAP.
+
+"CHATTEL PAPER" shall have the meaning ascribed to such term in Article 9
+of the Commercial Code.
+
+"CHANGE IN CONTROL" shall mean the occurrence of any of the following (i) a
+majority of the Borrower's directors as of the Closing Date shall cease to be
+directors; or (ii) a material change in the Borrower's senior management as of
+the Closing Date, as reasonably determined by the Bank.
+
+"CLOSING DATE" shall mean the Business Day on which the conditions
+precedent to the obligation of the Bank to make the initial Revolving Loan or to
+issue the initial Letter of Credit, as set forth in Article IX, have been
+satisfied.
+
+"COLLATERAL" shall have the meaning set forth in the Security Agreement.
+
+"COMMERCIAL CODE" shall mean the Uniform Commercial Code as enacted in the
+State of Minnesota, as amended from time to time.
+
+"CONTINGENT COMMITMENT AMOUNT" shall mean the $5,000,000 lending commitment
+under this Agreement in excess of the $10,000,000 Base Commitment Amount.
+
+"CURRENT ASSETS" shall mean the aggregate amount of assets of the Borrower
+which in accordance with GAAP may be properly classified as current assets,
+after deducting adequate reserves where proper, but in no event including any
+real estate.
+
+"CURRENT LIABILITIES" shall mean the amount of all liabilities which under
+GAAP would appear as current liabilities on the balance sheet of the Borrower,
+including all indebtedness payable on demand or maturing (whether
+
+
+<PAGE>
+
+
+
+by reason of specified maturity, fixed prepayment, sinking funds or accruals of
+any kind, or otherwise, within 12 months or less from the date of the relevant
+statement and including customer advances and progress billings on contracts.
+
+"DEFAULT" shall mean any event which, with the giving of notice or passage
+of time, or both, would constitute an Event of Default.
+
+"ELIGIBLE ACCOUNTS" shall mean an Account owing to the Borrower which meets
+the following requirements at the time it comes into existence and continues to
+meet the same until it is collected in full:
+
+(i)       it is not outstanding at any time more than sixty (60) days past
+its invoice date;
+
+(ii)      it is not an Account owing by an Affiliate or a Subsidiary of the
+Borrower;
+
+(iii)     it is not subject to any prior assignment, claim, lien or
+security interest whatsoever, other than the perfected security
+interest of the Bank;
+
+(iv)      it is a valid, legally enforceable obligation of an Account
+Debtor;
+
+(v)       it is not subject to setoff, counterclaim, credit allowance or
+adjustment by the Account Debtor thereunder, or to any claim by
+such Account Debtor denying liability thereunder in whole or in
+part, and such Account Debtor has not refused to accept and has
+not returned or offered to return any of the goods that are the
+subject matter of such Account;
+
+(vi)      it arose in the ordinary course of the Borrower's business and no
+notice of the bankruptcy, insolvency or any event or circumstance
+which could have a material adverse effect on the financial
+condition of the Account Debtor thereunder has been received by
+the Borrower;
+
+(vii)     it is not an Account that arises from a sale to a governmental
+entity or to an Account Debtor outside the United States, unless
+the sale is on terms acceptable to the Bank in its sole
+discretion.
+
+An Account which is at any time an Eligible Account, but which subsequently
+fails to meet any of the foregoing requirements, shall forthwith cease to
+be an Eligible Account.
+
+"ELIGIBLE EQUIPMENT" shall mean all certificated tractors and trailers
+owned by the Borrower as equipment and used for transport in the ordinary course
+of the Borrower's business and listed on Schedule B to the Security Agreement or
+any schedule of pledged equipment delivered by the Borrower to the Bank pursuant
+to Section 6.18(h) of the Credit Agreement, provided such trucks and trailers:
+
+(a)    are subject to a perfected, first priority security
+interest in favor of the Bank in accordance with all
+applicable state titling statutes and are free and clear
+of all other Liens;
+
+(b)    are in good condition free from any defects that would
+negatively affect the market value thereof in a material
+way;
+
+
+<PAGE>
+
+
+
+(c)        are not, as reasonably determined by the Bank,
+unusable in the ordinary course of Borrower's
+business; and
+
+(d)        are insured against loss or damage in accordance with
+the provisions of the Security Agreement.
+
+"ENVIRONMENTAL LAWS" shall have the meaning assigned to such term in
+Section 6.5 hereof.
+
+"ERISA" shall mean the Employee Retirement Income Security Act of 1974, as
+the same may from time to time be amended, and the rules and regulations
+promulgated thereunder by any governmental agency or authority, as from time to
+time in effect.
+
+"ERISA AFFILIATE" shall mean any corporation, trade or business that is,
+along with the Borrower, a member of a controlled group of corporations or a
+controlled group of trades or businesses, as described in Sections 414(b) and
+414(c), respectively, of the Internal Revenue Code of 1986, as amended.
+
+"EURODOLLAR BUSINESS DAY" shall mean a Business Day upon which commercial
+banks in London, England are open for domestic and international business.
+
+"EVENT OF DEFAULT" shall mean any one or more of the Events of Default set
+forth in Section 8.1 hereof.
+
+"FEDERAL FUNDS RATE" means the floating per annum rate of interest then
+most recently reported in Federal Reserve Statistical Release H.15 as the
+"Federal Funds Effective Rate."
+
+"FEDERAL FUNDS RATE FLOATING ADVANCE" shall mean any Advance which bears
+interest at or by reference to the Federal Funds Rate.
+
+"FIXED CHARGE" shall mean, for each fiscal quarter-end, the sum of (i)
+Interest Expense for the four fiscal quarters ending on such date, plus (ii)
+rental payments on Operating Leases for the four fiscal quarters ending on such
+date, plus (iii) 20% of Interest-bearing Indebtedness as of such date, all as
+determined in accordance with GAAP.
+
+"FIXED CHARGE COVERAGE RATIO" shall mean, on each fiscal quarter-end, the
+relationship, expressed as a numerical ratio, between:
+
+(a)    Operating Cash Flow for the four fiscal quarters ending on
+such date and
+
+(b)    Fixed Charge for such date.
+
+"FLOATING RATE ADVANCE(S)" shall mean Federal Funds Floating Rate Advances
+and Prime Rate Floating Rate Advances, or either, as the context may require.
+
+"FUNDING DATE" shall mean any Business Day designated by the Borrower as a
+day on which an Advance is to be made, or any Eurodollar Business Day on which a
+LIBOR Rate Advance is made, or an Interest Period for a LIBOR Rate Advance is to
+be extended, in each case in accordance with this Agreement.
+
+
+
+<PAGE>
+
+
+
+"GAAP" shall mean generally accepted accounting principles (as in effect
+from time to time) consistently applied and maintained throughout the period
+indicated and consistent with the audited financial statements delivered to the
+Bank. Whenever any accounting term is used herein which is not otherwise
+defined, it shall be interpreted in accordance with GAAP.
+
+"GENERAL INTANGIBLES" shall mean all General Intangibles (as defined in the
+Commercial Code) of the Borrower, whether now owned or hereafter acquired,
+including (without limitation) all present and future domestic and foreign
+patents, patent applications, trademarks, trademark applications, copyrights,
+trade names, trade secrets, patent and trademark licenses (whether Borrower is
+licensor or licensee), shop drawings, engineering drawings, blueprints,
+specifications, parts lists, manuals, operating instructions, customer and
+supplier lists, licenses, permits, franchises, the right to use the Borrower's
+corporate name and the goodwill of Borrower's business.
+
+"GOVERNMENTAL AUTHORITY" shall mean the government of the United States or
+any foreign government or any state, province, municipality or other political
+subdivision thereof or therein or any court, agency, instrumentality, regulatory
+authority or commission of any of the foregoing, including any taxing authority.
+
+"GOVERNMENTAL REGULATIONS" shall mean any and all laws, statutes,
+ordinances, rules, regulations, judgments, writs, injunctions, decrees, orders,
+awards and standards, or any similar requirement, of any Governmental Authority.
+
+"GUARANTOR(S)" shall mean TCA of Ohio, Inc., a Minnesota corporation, and
+any other Person who enters into a Guaranty of any of the Obligations.
+
+"GUARANTY(IES)" shall mean that certain Guaranty by Subsidiary Corporation
+dated as of the date hereof from TCA of Ohio, Inc., a Minnesota corporation, and
+any other agreement whereby a Person guarantees the payment or performance of
+any of the Obligations.
+
+"HAZARDOUS SUBSTANCES" shall have the meaning assigned to such term in
+Section 6.5 hereof.
+
+"INDEBTEDNESS" shall mean, at the time of any determination, (a) all
+obligations for borrowed money, (b) all obligations evidenced by bonds,
+debentures, notes or other similar instruments, (c) all obligations upon which
+interest charges are customarily paid or accrued, (d) all obligations under
+conditional sale or other title retention agreements relating to property
+purchased by the Borrower, (e) all obligations issued or assumed as a deferred
+purchase price of property or services, (f) all Capitalized Lease Obligations,
+(g) all obligations, actual or conditional, as an account party in respect of
+letters of credit (including the Letters of Credit), (h) all obligations of the
+type described in clauses (a) through (g) above of any partnership or joint
+venture as to which the Borrower is or may become personally liable, and (i) all
+contingent obligations of the Borrower relating to obligations of the type
+described in clauses (a) through (g) above.
+
+"INDEBTEDNESS TO OPERATING CASH FLOW RATIO" shall mean, on any date of
+determination, the relationship, expressed as a numerical ratio, between:
+
+
+<PAGE>
+
+
+
+(i)       the sum of (a) the aggregate outstanding amount of Indebtedness
+of the Borrower on such date, plus (b) five times the amount of
+rental payments on Operating Leases made by the Borrower during
+the four consecutive fiscal quarters ending on such date; and
+
+(ii)      the aggregate of Operating Cash Flow for the four consecutive
+fiscal quarters ending on such date.
+
+"INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS" shall mean any firm of
+independent certified public accountants which are acceptable to the Bank
+including the firm currently retained by the Borrower.
+
+"INTEREST PERIOD" shall mean, with respect to each LIBOR Rate Advance, the
+period commencing on the Funding Date of such LIBOR Rate Advance and ending on a
+date 30, 60 or 90 days thereafter as selected by the Borrower in a related
+notice pursuant to Section 5.1 hereof, subject in all cases to the following:
+
+
+(a)    if the Interest Period would otherwise end on a day which
+is not a Eurodollar Business Day, that Interest Period
+shall be extended to the next succeeding Eurodollar
+Business Day, unless the result of such extension would be
+to extend such Interest Period into another calendar
+month, in which event such Interest Period shall end on
+the immediately preceding Eurodollar Business Day;
+
+(b)    an interest rate option request selecting a particular
+Interest Period once received by the Bank and accepted by
+the Borrower whether orally or in writing is irrevocable
+and binding on the Borrower;
+
+(c)    no Interest Period shall extend beyond the maturity
+date of the Revolving Note; and
+
+(d)    each Interest Period may vary in regard to the length of
+the period, in accordance with the customs and practices
+of the international inter-bank markets.
+
+"L/C AMOUNT" means the sum of the aggregate face amount of any undrawn
+issued and outstanding Letters of Credit.
+
+"L/C APPLICATION" means an application and agreement for Letters of Credit
+in the Bank's or Firstar Milwaukee's, as the case may be, then-current standard
+form.
+
+"LETTER OF CREDIT" or "LETTERS OF CREDIT" shall have the meaning specified
+in Section 2.1 hereof.
+
+"LIBOR RATE" shall mean, for any LIBOR Rate Advance and the related
+Interest Period, the per annum rate of interest equal to the offered rate for
+deposits in Dollars for the applicable Interest Period commencing on the first
+day of such Interest Period (a "Reset Date") which appears on U.S. Telerate
+Screen page 3750 (British Bankers' Association LIBOR setting) at approximately
+11:00 a.m., London Time, on the day that is two Business Days preceding such
+Reset Date, except as provided below. If two or more such offered rates appear
+on the Telerate Screen on the applicable date, the rate will be the arithmetic
+mean of such rates. If the source referred to in the first sentence of this
+definition is not reasonably available to the Bank, the LIBOR Rate for a
+particular LIBOR Rate Advance and the related Interest Period shall be the per
+annum rate of interest at which deposits in U.S. Dollars for such Interest
+
+
+<PAGE>
+
+
+
+Period and in an aggregate amount comparable to the principal amount of such
+LIBOR Rate Advance are offered to the Bank by other prime banks in the London
+interbank market, at approximately 11:00 a.m., London time, on the day that is
+two Business Days preceding the applicable Reset Date, as determined by the
+Bank.
+
+"LIBOR RATE ADVANCE" shall mean any Advance which bears interest at or by
+reference to the Adjusted LIBOR Rate.
+
+"LOAN DOCUMENT(S)" shall mean individually or collectively, as the case may
+be, this Agreement, the Revolving Note, the Security Agreement, each L/C
+Application, and any and all other documents held, executed, delivered or
+referred to herein, as originally executed and as amended, revised and
+supplemented from time to time.
+
+"MINIMUM TANGIBLE NET WORTH AMOUNT" shall mean, on any date of
+determination occurring (i) before December 31, 1997, $40,000,000 and (ii) on or
+after December 31 of any fiscal year ending on or after December 31, 1997,
+$40,000,000 plus 100% of the net income of all fiscal years after December 31,
+1996.
+
+"OBLIGATION OF REIMBURSEMENT" shall collectively mean, as of any date in
+question, all amounts drawn under any Letters of Credit, plus any and all
+charges and expenses that the Bank or Firstar Milwaukee, as the case may be, may
+pay or incur relative to such draw, plus interest on all such amounts, charges
+and expenses as set forth in the applicable L/C Application.
+
+"OBLIGATIONS" shall mean all present and future sums loaned or advanced by
+the Bank to or for the benefit of the Borrower and all other obligations now or
+hereafter chargeable to the Borrower hereunder, under any L/C Application and
+all other obligations and liabilities of any and every kind of the Borrower to
+the Bank, each whether due or to become due, direct or indirect, absolute or
+contingent, joint or several, howsoever created, arising or evidenced, now
+existing or hereafter at any time created, arising or incurred including,
+without limitation, amounts owed under the Revolving Note.
+
+"OPERATING CASH FLOW" shall mean, for any period of determination, the net
+income of the Borrower before deductions for income taxes, interest expense,
+depreciation, amortization and rental payments under Operating Leases, all as
+determined in accordance with GAAP.
+
+"OPERATING LEASES" shall mean all leases of real or personal property to
+which the Borrower is a party as lessee other than Capital Leases.
+
+"PARTICIPANT" shall have the meaning assigned to such term in Section 10.4
+hereof.
+
+"PERSON" shall mean any natural person, corporation, firm, partnership,
+association, government, governmental agency or any other entity, whether acting
+in an individual, fiduciary or other capacity.
+
+"PLAN" shall mean each employee benefit plan or other class of benefits
+covered by Title I or IV of ERISA, in either case whether now in existence or
+hereafter instituted, of Borrower.
+
+
+
+<PAGE>
+
+
+
+"PRIME RATE" shall at any time mean the rate publicly announced by the Bank
+as its prime rate. Borrower acknowledges that the Bank Rate may not be the
+lowest rate made available by the Bank to its customers and that the Bank may
+lend to its customers at rates that are at, above or below the Bank Rate.
+
+"PRIME RATE FLOATING ADVANCE" shall mean any Advance which bears interest
+at or by reference to the Bank Rate.
+
+"REMEDIAL ACTION" shall have the meaning assigned to such term in Section
+6.5 hereof.
+
+"RESTRICTED PAYMENTS" shall mean all dividends or other distributions of
+any nature (cash, securities other common stock of the Borrower, assets or
+otherwise), and all payments on any class of equity securities (including
+warrants, options or rights therefor) issued by the Borrower, whether such
+securities are authorized or outstanding on the Closing Date or at any time
+thereafter, and any redemption or purchase of, or distribution in respect of,
+any of the foregoing, whether directly or indirectly, provided, however, that
+payments made pursuant to the Borrower's stock repurchase plans shall not be
+included within the definition of Restricted Payments.
+
+"REVENUE EQUIPMENT" shall mean tractors and trailers of all types
+(including dry vans and refrigeration trailers) used by the Borrower for the
+transportation of goods for its customers in the ordinary course of its
+business.
+
+"REVOLVING CREDIT COMMITMENT" shall have the meaning provided in
+Section 3.1.
+
+"REVOLVING NOTE" shall mean the Revolving Credit Note of even date herewith
+made payable by the Borrower to the order of the Bank in the original principal
+amount of $15,000,000.
+
+"SECURITY AGREEMENT" shall mean the Business Security Agreement of even
+date herewith executed by the Borrower, as debtor, in favor of the Bank, as
+secured party.
+
+"SECURITY INTEREST" shall mean any lien, pledge, mortgage, encumbrance,
+charge or security interest of any kind whatsoever (including, without
+limitation, the lien or retained security title of a conditional vendor) whether
+arising under a security instrument or as a matter of law, judicial process or
+otherwise or the agreement by Borrower to grant any lien, security interest or
+pledge, mortgage or encumber any asset.
+
+"SPECIAL ACCOUNT" shall mean a deposit account belonging to the Bank into
+which the Borrower may be required to make deposits pursuant to Section 2.3.
+
+"STOCK PLEDGE AGREEMENT" shall mean the Stock Pledge Agreement of even date
+herewith executed by the Borrower, as pledgor, in favor of the Bank, as pledgee.
+
+"SUBSIDIARY" or "SUBSIDIARIES" shall mean, with respect to any Person, a
+corporation of which such Person and/or its other Subsidiaries own, directly or
+indirectly, such number of outstanding shares of capital stock as have more than
+50% of the ordinary voting power for the election of directors.
+
+
+
+<PAGE>
+
+
+
+"TANGIBLE NET WORTH" shall mean the total of all assets properly appearing
+on the balance sheet of the Borrower in accordance with GAAP, less the sum of
+the following:
+
+(a)    the book amount of all such assets which would be treated
+as intangibles under GAAP, including, without limitation,
+all such items as good will, trademarks, trademark rights,
+trade names, trade-name rights, brands, copyrights,
+patents, patent rights, licenses, deferred charges and
+unamortized debt discount and expense;
+
+(b)    any write-up in the book value of any such assets
+resulting from a revaluation thereof subsequent to
+December 31, 1996;
+
+(c)    all reserves, including reserves for depreciation,
+obsolescence, depletion, insurance, and inventory
+valuation, but excluding contingency reserves not
+allocated for any particular purpose and not deducted from
+assets;
+
+(d)    the amount, if any, at which any shares of stock of the
+Borrower appear on the asset side of such balance sheet;
+
+(e)    all liabilities of the Borrower shown on such balance
+sheet; and
+
+(f)    all investments in foreign Affiliates and nonconsolidated
+domestic Affiliates.
+
+"TERMINATION DATE" shall mean the earlier of May 31, 1999 or the date on
+which an Event of Default has occurred and the Bank determines to extinguish its
+commitment hereunder.
+
+"THIRD PARTY SECURITY AGREEMENT" shall mean the Third Party Business
+Security Agreement of even date herewith executed by the Guarantor, as debtor,
+in favor of the Bank, as secured party.
+
+"TOTAL COMMITMENT AMOUNT" shall mean $15,000,000.
+
+"TOTAL LIABILITIES" of any Person shall mean those items which, in
+accordance with GAAP, would appear as Liabilities on a balance sheet.
+
+"TOTAL LIABILITIES TO TANGIBLE NET WORTH RATIO" shall mean, on any date of
+determination, the relationship, expressed as a numerical ratio, between:
+
+(i)       the aggregate outstanding amount of Total Liabilities of the
+Borrower on such date; and
+
+(ii)      Tangible Net Worth.
+
+
+ARTICLE II. LETTERS OF CREDIT
+
+
+<PAGE>
+
+
+
+2.1       ISSUANCE OF LETTERS OF CREDIT.
+
+(a) The Bank agrees, on the terms and subject to the conditions
+herein set forth, to issue or cause Firstar Bank Milwaukee, National
+Association ("Firstar Milwaukee") to issue one or more standby or
+documentary letters of credit for the account of the Borrower (each a
+"Letter of Credit" and collectively, "Letters of Credit") from time to time
+during the period from the date hereof until the Termination Date, or the
+earlier date of termination of the Revolving Credit Commitment or this
+Agreement pursuant to Article VIII hereof, in an aggregate amount at any
+time outstanding not to exceed the lesser of (i) Five Million Dollars
+($5,000,000.00) or (ii) Borrowing Base less the sum of (aa) all outstanding
+and unpaid Advances hereunder, (bb) the L/C Amount, and (cc) the Obligation
+of Reimbursement. Each Letter of Credit, if any, shall be issued pursuant
+to a separate L/C Application entered into between the Borrower and the
+Bank or Firstar Milwaukee, as the case may be, completed in a manner
+satisfactory to the Bank or Firstar Milwaukee, as the case may be. All
+outstanding and unpaid draws under any Letter of Credit shall accrue
+interest at the Prime Rate. In the event that any amounts are drawn under
+any Letter of Credit, the Borrower agrees that the Bank is authorized, but
+is not obligated, to make Advances evidenced by the Revolving Note to
+satisfy Borrower's Obligation of Reimbursement relating to such Letter of
+Credit, whether the Letter of Credit is issued by the Bank or by Firstar
+Milwaukee. The terms and conditions set forth in each such L/C Application
+shall supplement the terms and conditions hereof, but in the event of
+inconsistency between the terms of any such L/C Application and the terms
+hereof, the terms hereof shall control. In the connection with the issuance
+of each Letter of Credit and in addition to the fee set forth in Section
+2.2 below, the Borrower agrees to pay the Bank and/or Firstar Milwaukee, as
+the case may be, on demand, such administrative and issuance fees as are
+customarily charged by the Bank or Firstar Milwaukee in the ordinary course
+of business in connection with issuing Letters of Credit, the honoring of
+drafts thereunder or in connection with processing any amendments thereto,
+transfers thereof, or any other activity with respect to said Letters of
+Credit. If at any time the sum of the face amounts of all issued and
+outstanding Letters of Credit would exceed the Borrowing Base less the sum
+of (i) all outstanding and unpaid Advances under Section 3.1, including
+Advances by the Bank to satisfy any of Borrower's Obligation of
+Reimbursement, and (ii) the amount of the Obligation of Reimbursement for
+which the Bank has not made an Advance, the Borrower agrees to immediately
+deposit with the Bank the amount of such excess to be held by the Bank as
+additional collateral security for the obligations of the Borrower under
+the applicable L/C Application and which may be applied to such Obligations
+or any other Obligations upon the occurrence of any Event of Default.
+
+(b) No Letter of Credit shall be issued with an expiry date later
+than the earlier of one year or May 31, 1999.
+
+(c) Each letter of Credit may only be used for working capital
+and other general business purposes.
+
+2.2 LETTER OF CREDIT FEE. Upon the issuance, and any renewal, of any Letter
+of Credit, the Borrower shall pay to the Bank a fee in the amount of one percent
+(1%) of the face amount thereof.
+
+2.3 SPECIAL ACCOUNT. If (i) this Agreement is terminated pursuant to
+Article VIII, or if (ii) the Termination Date occurs, while any Letter of Credit
+is outstanding, the Borrower shall thereupon either (a) pay the Bank in
+immediately available funds for deposit in the Special Account an amount equal
+to the maximum aggregate amount available to be drawn under all such Letters of
+Credit then outstanding, assuming compliance with all conditions for drawing
+thereunder, or (b) provide to the Bank an irrevocable standby letter of credit
+issued for the benefit and in the name
+
+
+<PAGE>
+
+
+of the Bank in an amount equal to that required to be deposited into the Special
+Account in clause (a) above and which shall be issued by a financial institution
+and contain such terms and conditions as are acceptable to the Bank in its sole
+and absolute discretion. Amounts in the Special Account, if applicable, may be
+invested as Bank shall determine, including in certificates of deposit issued by
+Bank. Any interest and earnings on such amounts shall be credited to the Special
+Account. The Borrower shall not be responsible for any losses from the
+investment or use of funds in the Special Account. Amounts on deposit in the
+Special Account may be applied by the Bank at any time or from time to time to
+the Borrower's Obligation of Reimbursement or any other Obligations, in the
+Bank's sole discretion, and shall not be subject to withdrawal by the Borrower
+so long as the Bank maintains a security interest therein. The Bank agrees to
+transfer any balance in the Special Account to the Borrower at such time as the
+Bank is required to release its security interest in the Special Account under
+applicable law.
+
+
+
+ARTICLE III. REVOLVING LOAN
+
+3.1 NATURE OF LOAN COMMITMENT/MAXIMUM OF ADVANCES. Subject to the terms and
+conditions of this Agreement, the Bank shall make Advances to the Borrower from
+time to time from the date hereof to the Termination Date in an aggregate
+principal amount not to exceed at any time the lesser of (i) Fifteen Million
+Dollars ($15,000,000) less the sum of (a) the L/C Amount and (b) the Obligation
+of Reimbursement or (ii) the Borrowing Base less the sum of (a) the L/C Amount
+and (b) the Obligation of Reimbursment (the "Revolving Credit Commitment"). All
+Advances pursuant to the Revolving Credit Commitment, including Advances made by
+the Bank pursuant to Section 2.1 for Borrower's Obligation of Reimbursement,
+shall be evidenced by the Revolving Note; provided that the Borrower shall be
+obligated to pay only the amount that is actually disbursed hereunder, together
+with accrued interest on the outstanding balance at the rates provided in
+Section 3.4 hereof. The Borrower may borrow, prepay and reborrow within such
+limit pursuant to this Agreement and the Revolving Note.
+
+3.2 TYPES OF ADVANCES; CERTAIN LIMITATIONS. Each Advance by the Bank under
+the Revolving Credit Commitment may be either a LIBOR Rate Advance, a Prime Rate
+Floating Advance, or a Federal Funds Rate Floating Advance. LIBOR Rate Advances
+and Floating Rate Advances may be outstanding at the same time; provided,
+however, that no more than eight (8) LIBOR Rate Advances may be outstanding at
+any one time. The principal amount of each LIBOR Rate Advance shall be not less
+than $100,000 or an integral multiple thereof.
+
+3.3 PURPOSE FOR ADVANCES. Except with the prior written consent of the
+Bank, all Advances under Article IV shall be used exclusively for the Borrower's
+working capital and other general business purposes.
+
+3.4 COMPUTATION OF INTEREST. The Advances under the Revolving Credit
+Commitment shall bear interest on the unpaid principal amount thereof as
+follows:
+
+(a) For LIBOR Rate Advances, at a fluctuating rate per annum
+equal to the Adjusted LIBOR Rate, and
+
+(b) For Floating Rate Advances, at a fluctuating rate per annum
+equal to the Prime Rate Floating Rate or the Federal Funds Rate Floating
+Rate plus one hundred eighty-five basis points (1.85%), as the case may be.
+
+<PAGE>
+
+
+All interest payable on Advances shall be computed on the basis of actual
+days elapsed and a year of 360 days.
+
+3.5 MATURITY. The Revolving Note shall be expressed to mature on the
+earlier of: (i) May 31, 1999 or (ii) upon the occurrence of an Event of Default.
+All amounts outstanding under the Revolving Note shall be immediately due and
+payable at maturity (whether by acceleration or otherwise).
+
+3.6 RECORDKEEPING. Bank shall record in its records, the date and amount of
+each Advance made thereon by Bank, and each repayment thereof. The aggregate
+unpaid principal amount so recorded shall be presumptive evidence of the
+principal amount of the Advances owing and unpaid by the Borrower thereon. The
+failure to so record any such amount or any error in so recording any such
+amount shall not, however, limit or otherwise affect the Obligations of the
+Borrower hereunder or under the Revolving Note to repay the principal amount of
+the Advances together with all interest accrued thereon.
+
+3.7 NON-USE FEES. The Borrower agrees to pay the Bank, not later than ten
+(10) days after receipt of a statement therefor, a fee equal to (a) one-quarter
+percent (1/4 %) per annum times the average daily unused portion of Base
+Commitment Amount plus the Activated Contingent Amount; plus (b) one-eighth (1/8
+%) per annum times the remaining Contingent Commitment amount, if any, payable
+quarterly in arrears commencing July 1, 1997, and as of the maturity date of the
+Revolving Note.
+
+3.8 ACTIVATION OF CONTINGENT COMMITMENT. The Borrower shall have the right,
+upon at least five Business Days' notice to the Bank, to activate in whole or in
+part the unused portion of the Contingent Commitment Amount, provided that each
+activation shall be in the amount of $1,000,000 or an integral multiple thereof.
+Once activated, that portion of the Contingent Commitment Amount shall remain
+activated for purposes of calculation until the Termination Date.
+
+
+ARTICLE IV. DISBURSEMENT OF REVOLVING CREDIT COMMITMENT ADVANCES
+
+4.1 REQUESTS FOR ADVANCES. The Borrower shall give notice to the Bank of
+each proposed Advance under the Revolving Credit Commitment, in the case of an
+Advance that is to bear interest initially at a Floating Rate, not later than
+12:00 p.m., Minneapolis time, on the proposed Funding Date or, in the case of an
+Advance that is to bear interest initially at an Adjusted LIBOR Rate, at least
+three Eurodollar Business Days prior to the proposed Funding Date of such
+Advance. Each such request shall be effective upon receipt by the Bank, shall be
+in writing or by telephone to be promptly confirmed in writing (in either case,
+to be in the form of Exhibit C), shall specify whether the Advance is to bear
+interest initially at a Floating Rate or an Adjusted LIBOR Rate, shall specify
+the Funding Date and amount of the requested Advance(s) for each type of
+Advance, and, in the case of each LIBOR Rate Advance, the Interest Period
+therefor.
+
+4.2 CONVERTING FLOATING RATE ADVANCES TO LIBOR RATE ADVANCES; PROCEDURES.
+Subject to the terms and conditions of this Agreement, the Borrower may convert
+all or any part of any outstanding Floating Rate Advances into LIBOR Rate
+Advances by giving notice to the Bank of such conversion not later than 12:00
+p.m., Minneapolis time, on a Business Day which is at least three Eurodollar
+Business Days prior to the date of the requested conversion. Each such notice
+shall be effective upon receipt by the Bank, shall be in writing or by telephone
+to be promptly
+
+
+<PAGE>
+
+
+
+confirmed in writing (in either case, to be in the form of Exhibit C), shall
+specify the date and amount of such conversion, the total amount of Advances to
+be so converted and the Interest Period therefor. Each conversion of Advances
+shall be on a Business Day, and the aggregate amount of each such conversion
+shall be subject to the applicable limitations specified in Section 4.2 and
+elsewhere herein.
+
+4.3       PROCEDURES AT END OF INTEREST PERIOD.
+
+(a) AUTOMATIC CONVERSION. Unless the Borrower requests a new
+LIBOR Rate Advance in accordance with Section 4.3(b) or makes a payment of
+principal and interest in accordance with Section 4.3(c), each LIBOR Rate
+Advance (or portion thereof not so extended or paid) shall automatically,
+and without request by the Borrower, be converted to a Prime Rate Floating
+Advance on the last day of the applicable Interest Period for such LIBOR
+Rate Advance.
+
+(b) EXTENSION. Subject to the terms and conditions of this
+Agreement, the Borrower may cause all or any part of any outstanding LIBOR
+Rate Advance to continue to bear interest at an Adjusted LIBOR Rate at the
+end of the then-applicable Interest Period, by notifying the Bank not later
+than 12:00 p.m., Minneapolis time, on a Business Date which is at least
+three Eurodollar Business Days prior to the first day of the new Interest
+Period. Each such notice shall be effective upon receipt by the Bank, shall
+be in writing or by telephone to be promptly confirmed in writing (in
+either case to be in the form of Exhibit C), and shall specify the first
+day of the applicable Interest Period, the amount of the new LIBOR Rate
+Advance and the Interest Period therefor. Each new Interest Period shall
+begin on a Business Day and the aggregate amount of the Advances bearing
+the new Adjusted LIBOR Rate shall be subject to the applicable limitations
+specified in Section 3.2 and elsewhere herein.
+
+(c) PAYMENT. If the Borrower so elects, it may repay all or a
+portion of the principal of any LIBOR Rate Advance on the last day of the
+Interest Period in accordance with the terms of Section 4.3; provided that
+(i) such payment shall be accompanied by interest on the entire principal
+balance of the LIBOR Rate Advance in accordance with Section 5.2, (ii)
+payment of any portion of a LIBOR Rate Advance shall be in a minimum amount
+of $100,000 or an integral multiple thereof, and (iii) the Borrower may not
+make any payment of principal in respect of the portion, if any, of a LIBOR
+Rate Advance as to which a request for a new LIBOR Rate Advance has been
+made in accordance with Section 4.3(b).
+
+
+ARTICLE V. PAYMENTS AND PREPAYMENTS OF ADVANCES
+
+5.1       PRINCIPAL PAYMENTS UNDER REVOLVING CREDIT COMMITMENT.
+
+(a) PAYMENT OF LIBOR RATE ADVANCES; FINAL PAYMENT. The Borrower
+may, at its option, make payments of principal on the LIBOR Rate Advances
+on the last day of each Interest Period in accordance with Section 4.3(c).
+Unless earlier payment is required under this Agreement, the Borrower shall
+pay to the Bank, the outstanding principal amount of the Advances on the
+Termination Date.
+
+(b) OPTIONAL PREPAYMENT. The Borrower may at any time and from
+time to time prepay all or a portion of the Floating Rate Advances without
+premium or penalty. Except as otherwise required by this Agreement,
+
+
+<PAGE>
+
+
+LIBOR Rate Advances may only be prepaid in whole, and not in part, and
+shall, in any case, be accompanied by the indemnity payment determined in
+accordance with Section 5.7.
+
+(c) MANDATORY PREPAYMENT; APPLICATION. If at any time the
+aggregate outstanding principal amount of the Revolving Note shall exceed
+(i) the Base Commitment Amount plus the Activated Contingent Amount less
+the sum of (a) the L/C Amount and (b) the Obligation of Reimbursement, or
+(ii) the Borrowing Base less the sum of (a) the L/C Amount and (b) the
+Obligation of Reimbursement , then the Borrower shall immediately pay to
+the Bank an amount not less than the amount of any such excess under clause
+(i) or (ii), in each case for application to the outstanding principal
+amount of the Revolving Note.
+
+(d) APPLICATION OF PAYMENTS AND PREPAYMENTS. Unless the Borrower
+shall direct the Bank in writing to apply any payments or prepayments of
+principal in a different manner, all such payments and prepayments on the
+Revolving Note shall be applied first to collection costs and other amounts
+due under the Loan Documents (excluding payments of principal and
+interest), second against interest and principal of all Floating Rate
+Advances, and lastly to interest and principal of all LIBOR Rate Advances.
+
+(e) INDEMNITY PAYMENT. Any prepayment, whether optional or
+mandatory, or whether required by acceleration or otherwise, of all or part
+of a LIBOR Rate Advance prior to the expiration of the applicable Interest
+Period shall be accompanied by the indemnity payment determined in
+accordance with Section 5.7.
+
+(f) INTEREST. The Borrower shall also pay to the Bank, together
+with any payments or prepayments of principal, all accrued interest to the
+date of payment on any Advances so paid or prepaid.
+
+5.2 INTEREST PAYMENTS UNDER REVOLVING CREDIT COMMITMENT. The Borrower shall
+pay interest to the Bank on the unpaid principal amount of each Advance of the
+Revolving Credit Commitment, for the period commencing on the date such Advance
+is made until such Advance is paid in full, on the first Business Day of each
+calendar month and at maturity (whether at stated maturity, by acceleration or
+otherwise), at the Adjusted LIBOR Rate or the Floating Rate, as applicable to
+such Advance.
+
+5.3       PAYMENT METHOD AND RELATED MATTERS.
+
+(a) PAYMENTS BY BORROWER. All payments to be made by the Borrower
+hereunder will be made in U.S. Dollars and in immediately available funds
+to the Bank not later than 12:00 p.m. Minneapolis time on the date on which
+such payment shall become due. Payments received after 12:00 p.m.
+Minneapolis time shall be deemed to be payments made prior to 12:00 p.m.
+Minneapolis time on the next succeeding Business Day.
+
+(b) AUTHORIZATION OF PAYMENTS/ADVANCES. If the Borrower shall not
+otherwise have made payment of any of the Obligations as provided in this
+Agreement, the Bank is expressly authorized to charge any such Obligations,
+when due, to the Borrower's demand deposit account maintained with the Bank
+or, if any such account shall not contain sufficient funds, to any other
+account maintained by the Borrower with the Bank or any of its affiliates,
+or in lieu thereof, the Bank may extend an additional Advance to the
+Borrower under the Revolving Credit Commitment without further direction or
+action by the Borrower.
+
+
+
+<PAGE>
+
+
+5.4 NO SETOFF OR DEDUCTION. Except for actual payments made, Borrower
+waives all rights of setoff, counterclaim or other deduction to any claim by the
+Bank for payment of the Obligations.
+
+5.5 PAYMENT ON NON-BUSINESS DAY. Except as otherwise provided in this
+Agreement, whenever any installment of principal of, or interest on, any Advance
+or any other Obligation becomes due and payable on a day which is not a Business
+Day, the maturity thereof shall be extended to the next succeeding Business Day
+and, in the case of any installment of principal, interest shall be payable
+thereon at the rate per annum determined in accordance with this Agreement
+during such extension.
+
+5.6       ILLEGALITY AND IMPOSSIBILITY.
+
+(a) REPAYMENT. In the event that any Governmental Regulation now
+or hereafter in effect and whether or not presently applicable to the Bank,
+or any interpretation or administration thereof by any Governmental
+Authority charged with the interpretation or administration thereof, or
+compliance by the Bank with any request or directive of such Authority
+(whether or not having the force of law), including exchange controls,
+shall make it unlawful or impossible for the Bank to maintain any LIBOR
+Rate Advance at the Adjusted LIBOR Rate under this Agreement, the Borrower
+shall upon receipt of notice thereof from the Bank, repay in full to the
+Bank the then outstanding principal amount of such LIBOR Rate Advance,
+together with all accrued interest thereon to the date of payment and all
+amounts due to the Bank under Section 5.7, (i) on the last day of the then
+current Interest Period applicable to the LIBOR Rate Advances if the Bank
+may lawfully continue to maintain the LIBOR Rate Advances to such day, or
+(ii) immediately if the Bank may not continue to maintain the LIBOR Rate
+Advances to such day.
+
+(b) CONVERSION OF LIBOR RATE ADVANCES TO FLOATING RATE ADVANCES.
+Notwithstanding Section 5.6(a), if such Section would otherwise be
+applicable but the Bank could lawfully maintain the LIBOR Rate Advances at
+the Prime Rate or the Federal Funds Rate plus 1.85% per annum then, during
+such period as the Bank cannot maintain the LIBOR Rate Advances at the
+Adjusted LIBOR Rate, the LIBOR Rate Advances shall bear interest at a per
+annum rate equal to the Prime Rate or the Federal Funds Rate plus 1.85% per
+annum in effect from time to time. If the Bank determines that all events
+or conditions making it unlawful or impossible for the Bank to maintain the
+LIBOR Rate Advances at the Adjusted LIBOR Rate cease to exist, then
+Advances may again bear interest at the Adjusted LIBOR Rate, subject to the
+other terms and conditions of this Agreement.
+
+5.7 LIBOR RATE INDEMNITY. If the Borrower fails to make any payment of
+principal or interest in respect of any LIBOR Rate Advance when due or makes any
+payment or prepayment of the principal of any LIBOR Rate Advance, for any
+reason, on any date other than the last day of the Interest Period applicable
+thereto, or if the Borrower fails to borrow any LIBOR Rate Advance after
+requesting the same in accordance with this Agreement, or if any LIBOR Rate
+Advance shall be converted in accordance with Section 5.6(b), the Borrower shall
+reimburse the Bank on demand for any resulting loss or expense incurred by the
+Bank, including any loss incurred in obtaining, liquidating or employing
+deposits from third parties. A statement as to the amount of such loss or
+expense, prepared in good faith and in reasonable detail and submitted by the
+Bank to the Borrower, shall be conclusive and binding for all purposes absent
+manifest error in computation.
+
+
+
+
+<PAGE>
+
+
+
+ARTICLE VI. WARRANTIES AND COVENANTS
+
+During the term of this Agreement, and while any part of the credit granted
+the Borrower is available or any obligations under any of the Loan Documents are
+unpaid or outstanding, the Borrower warrants and agrees as follows:
+
+6.1 ACCURACY OF INFORMATION. All information, certificates or statements
+given to the Bank pursuant to this Agreement and the other Loan Documents will
+be true and complete when given.
+
+6.2 ORGANIZATION AND AUTHORITY; LITIGATION. The Borrower is a validly
+existing corporation in good standing under the laws of its state of
+organization, and has all requisite power and authority, corporate or otherwise,
+and possesses all licenses necessary, to conduct its business and own its
+properties. The Borrower has no Subsidiaries except TCA of Ohio, Inc., a
+Minnesota corporation, which is a wholly owned subsidiary of the Borrower. The
+Borrower shall immediately notify the Bank of any new Subsidiaries, including
+without limitation Transport International Express, Inc., and shall cause such
+Subsidiaries promptly to execute and deliver to the Bank such guaranties,
+security agreements, UCC financing statements and other security documents
+required by the Bank. The execution, delivery and performance of this Agreement
+and the other Loan Documents (i) are within the Borrower's power; (ii) have been
+duly authorized by proper corporate action; (iii) do not require the approval of
+any governmental agency; and (iv) will not violate any law, agreement or
+restriction by which the Borrower is bound. This Agreement and the other Loan
+Documents are the legal, valid and binding obligations of the Borrower,
+enforceable against the Borrower in accordance with their terms. There is no
+litigation or administrative proceeding threatened or pending against the
+Borrower which would, if adversely determined, have a material adverse effect on
+the Borrower's financial condition or its property.
+
+6.3 CORPORATE EXISTENCE; BUSINESS ACTIVITIES; ASSETS. The Borrower will (i)
+preserve its corporate or partnership (as applicable) existence, rights and
+franchises; (ii) carry on its business activities in substantially the manner
+such activities are conducted as of the date of this Agreement; (iii) not
+liquidate, dissolve, merge or consolidate with or into another entity; (iv) not
+sell, lease, transfer or otherwise dispose of any or all of its assets
+constituting Collateral in violation of the Security Agreement and (v) not sell,
+lease, transfer or otherwise dispose of all or substantially all of the assets
+of the Borrower.
+
+6.4 USE OF PROCEEDS; MARGIN STOCK; SPECULATION. Advances by the Bank
+hereunder shall be used exclusively by the Borrower for working capital and
+other regular and valid purposes. The Borrower will not use any of the loan
+proceeds to purchase or carry "margin" stock (as defined in Regulation U of the
+Board of Governors of the Federal Reserve System). No part of any of the
+proceeds shall be used for speculative investment purposes, including, without
+limitation, speculating or hedging in the commodities and/or futures market.
+
+6.5 ENVIRONMENTAL MATTERS. Except as disclosed in Schedule 6.5 attached to
+this Agreement, to the Borrower's knowledge there exists no uncorrected
+violation by the Borrower (which if uncorrected could have a material adverse
+effect on the Borrower and for purposes hereof, a violation shall be deemed to
+be material if it shall impose a liability on the Borrower in excess of
+$100,000) of any federal, state or local laws (including statutes, regulations,
+ordinances or other governmental restrictions and requirements) relating to the
+discharge of air pollutants, water pollutants or process waste water or
+otherwise relating to the environment or Hazardous Substances, whether currently
+existing or enacted in the future (collectively "ENVIRONMENTAL LAWS"). The term
+"HAZARDOUS SUBSTANCES" will mean any
+
+
+<PAGE>
+
+
+hazardous or toxic wastes, chemicals or other substances, the generation,
+possession or existence of which is prohibited or governed by any Environmental
+Laws. The Borrower is not subject to any judgment, decree, order or citation, or
+a party to (or threatened with) any litigation or administrative proceeding,
+which asserts that the Borrower (i) has violated any Environmental Laws; (ii) is
+required to clean up, remove or take remedial or other action with respect to
+any Hazardous Substances (collectively "REMEDIAL ACTION"); or (iii) is required
+to pay all or a portion of the cost of any Remedial Action, as a potentially
+responsible party. To the Borrower's knowledge, there are not now, nor have
+there ever been during the periods that the Borrower owned or occupied such real
+estate, any Hazardous Substances (or tanks or other facilities for the storage
+of Hazardous Substances) stored, deposited, recycled or disposed of on, under or
+at any real estate owned or occupied by the Borrower which if present on the
+property or in soils or ground water, could require Remedial Action except for
+Hazardous Substances used in the ordinary course of the Borrower's business in
+accordance with applicable Environmental Laws. To the Borrower's knowledge,
+there are no proposed or pending changes in Environmental Laws which would
+adversely affect the Borrower or its business, and there are no conditions
+existing currently or likely to exist while the Loan Documents are in effect
+which would subject the Borrower to Remedial Action or other liability. The
+Borrower currently complies with and will continue to timely comply with all
+applicable Environmental Laws; and will provide the Bank, immediately upon
+receipt, copies of any correspondence, notice, complaint, order or other
+document from any source asserting or alleging any circumstance or condition
+which requires or may require a financial contribution by the Borrower or
+Remedial Action or other response by or on the part of the Borrower under
+Environmental Laws, or which seeks damages or civil, criminal or punitive
+penalties from the Borrower for an alleged violation of Environmental Laws.
+
+6.6 ENVIRONMENTAL PERMITS. The Borrower has all permits, licenses and
+approvals required under Environmental Laws, all of which are listed in Schedule
+6.6/Environmental Required Permits attached hereto (if no Schedule 6.6 is
+attached, the Borrower warrants that no permits are necessary).
+
+6.7 COMPLIANCE WITH LAWS. The Borrower has complied in all material
+respects with all laws applicable to its business and its properties, and has
+all permits, licenses and approvals required by such laws, copies of which have
+been provided to the Bank.
+
+6.8 PENSION PLANS. Each Plan as to which the Borrower or any ERISA
+Affiliate may have any liability complies in all material respects with all
+applicable requirements of law and regulations, and (i) no Reportable Event has
+occurred with respect to any Plan sponsored by the Borrower or any ERISA
+Affiliate which will have the effect of creating a liability of the Borrower or
+any ERISA Affiliate which will be material to the Borrower and its Subsidiaries
+on a consolidated basis; (ii) neither the Borrower nor any ERISA Affiliate has
+withdrawn from or terminated any Plan or initiated steps to do so, except in
+accordance with applicable requirements of law and regulations and in a manner
+which will not create a liability of the Borrower or any ERISA Affiliate which
+would be material to the Borrower and its Subsidiaries on a consolidated basis;
+(iii) during the twelve consecutive months prior to any date on which this
+representation may be made or remade, no contribution failure has occurred with
+respect to any Plan sufficient to give rise to the lien under Section 302(f)(1)
+of ERISA, (iv) the assets of each Plan exceed the accrued liability of all
+accrued benefits payable under each Plan, and (v) no Plan has been amended so as
+to require the Borrower or any ERISA Affiliate to provide security as under 26
+U.S.C. ss. 401(a)(28). The Borrower has no continued liability with respect to
+any post-retirement benefits under a Plan other than liability for continuance
+coverage described in Part 6 of Title I of ERISA.
+
+
+
+<PAGE>
+
+
+6.9 RESTRICTION ON INDEBTEDNESS. The Borrower will not create, incur,
+assume or have outstanding any Indebtedness for borrowed money (including
+Capitalized Leases) except:
+
+(a)    The Obligations;
+
+(b) Indebtedness existing as of 3/31/97 and disclosed on Schedule
+6.9 of the Agreement or subsequent Indebtedness otherwise disclosed on
+Schedule 6.9;
+
+(c) Indebtedness (otherwise in compliance with this Agreement)
+incurred to finance the acquisition of Revenue Equipment in the ordinary
+course of business;
+
+(d) Current liabilities, other than for borrowed money, incurred
+in the ordinary course of business.
+
+6.10 RESTRICTION ON LIENS. The Borrower will not create, incur, assume or
+permit to exist any mortgage, pledge, encumbrance or other lien or levy upon or
+security interest in any Collateral (as that term is defined in the Security
+Agreement) or on any real property now owned or hereafter acquired, except (i)
+taxes and assessments which are either not delinquent or which are being
+contested in good faith with adequate reserves provided; (ii) liens in favor of
+the Bank; (iii) other liens disclosed in writing to the Bank prior to the date
+hereof; (iv) purchase money liens to secure indebtedness permitted by Section
+6.9(c); (v) deposits or pledges to secure payment of workers' compensation,
+unemployment insurance, old age pensions or other social security obligations,
+in the ordinary course of business of the Borrower; (vi) liens of carriers,
+warehousemen, mechanics and materialmen, and other like Liens in the ordinary
+course of business of the Borrower, for sums not yet due or which are being
+contested in good faith with adequate reserves provided; or (vii) Liens incurred
+or deposits or pledges made or given in connection with, or to secure payment
+of, indemnity, performance or other similar bonds.
+
+6.11 RESTRICTION ON CONTINGENT LIABILITIES. The Borrower will not guarantee
+or become a surety or otherwise contingently liable for any obligations of
+others, except pursuant to the deposit and collection of checks and similar
+matters in the ordinary course of business. This Section 6.11 shall not prohibit
+the Borrower from incurring remarketing obligations for tractors and trailers
+owned by its employees and independent contracts and assisting in the collection
+of accounts payable by those persons to third party lenders.
+
+6.12 RESTRICTED PAYMENTS. The Borrower shall not make any Restricted
+Payments.
+
+6.13 CHANGE IN CONTROL. The Borrower shall not permit a Change in Control.
+
+6.14 INTENTIONALLY OMITTED.
+
+6.15 NOTICE OF MATERIAL EVENTS/SEC REPORTS. The Borrower agrees to (i)
+immediately notify the Bank of the loss of any key customer or any key
+personnel, (ii) deliver to the Bank all press releases immediately upon their
+publication, and (iii) within fifteen (15) days after filing the same with the
+Securities and Exchange Commission ("SEC"), deliver to the Bank copies of the
+10Q quarterly reports, 10K annual reports and such other reports and
+information, (or copies of such portions of any of the foregoing as the SEC may
+by rules and regulations prescribed) which the Borrower is required to file with
+the SEC pursuant to applicable securities laws.
+
+
+<PAGE>
+
+6.16 INSURANCE. The Borrower will maintain insurance to such extent,
+covering such risks and with such insurers as is usual and customary for
+businesses operating similar properties, and as is satisfactory to the Bank,
+including insurance for fire and other risks insured against by extended
+coverage, public liability insurance and workers' compensation insurance; and
+designate the Bank as "Additional Insured" (if applicable) and "Lender's Loss
+Payee" on such policies and take such other action as the Bank may reasonably
+request to ensure that the Bank will receive (subject to no other interests) the
+insurance proceeds on the Bank's collateral. Without limitation of the
+foregoing, the Borrower agrees to maintain insurance coverages of all of the
+types described above in coverage amounts and scope that are as protective or
+more protective in all material respects that the policies in force on the
+Closing Date, which policies are accurately summarized on Schedule 6.16 hereto.
+
+6.17 TAXES AND OTHER LIABILITIES. The Borrower will pay and discharge, when
+due, all of its taxes, assessments and other liabilities, except when the
+payment thereof is being contested in good faith by appropriate procedures which
+will avoid foreclosure of liens securing such items, and with adequate reserves
+provided therefor.
+
+6.18 FINANCIAL STATEMENTS AND REPORTING. The financial statements and other
+information previously provided to the Bank or provided to the Bank in the
+future are or will be complete and accurate and prepared in accordance with
+generally accepted accounting principles. There has been no material adverse
+change in the Borrower's financial condition since such information was provided
+to the Bank. The Borrower will (i) maintain accounting records in accordance
+with generally recognized and accepted principles of accounting consistently
+applied throughout the accounting periods involved; (ii) provide the Bank with
+such information concerning its business affairs and financial condition
+(including insurance coverage) as the Bank may reasonably request; and (iii)
+without request, provide the Bank with the following:
+
+(a) annual audited financial statements of the Borrower prepared
+and certified without qualification by an accounting firm acceptable to the
+Bank within ninety (90) days after the end of each fiscal year;
+
+(b) monthly management-prepared financial statements of the
+Borrower within thirty (30) days after the end of each calendar month;
+
+(c) an accounts receivable aging within thirty (30) days after
+the end of each calendar month;
+
+(d) within thirty (30) days after the end of each month and at
+such other times as the Bank may request, completed Borrowing Base
+Certificate in the form of Exhibit A, certified as correct by the
+Borrower's chief financial officer;
+
+(e) within thirty (30) days after the end of each fiscal quarter,
+provide the Bank with a completed Covenant Compliance Certificate in the
+form of Exhibit B, certified as correct by the Borrower's chief financial
+officer;
+
+(f) within thirty (30) days after the end of each fiscal quarter,
+a complete schedule of all trucks and trailers in which the Borrower has
+granted the Bank a security interest as of the end of such fiscal quarter,
+setting forth the net depreciated book value of each such truck or trailer,
+certified as correct by the Borrower's chief financial officer;
+
+
+<PAGE>
+
+
+(g) when requested by the Bank from time to time and at least
+annually, a schedule of any additional trucks and trailers in which the
+Borrower has granted the Bank a security interest pursuant to the Security
+Agreement since the previous such report, and a schedule of all trucks and
+trailers released from the Bank's security interest since the previous such
+report, setting forth the net depreciated book value of each such truck or
+trailer, certified as correct by the Borrower's chief financial officer,
+accompanied by such documents as the Bank may be required to file to note
+its security interest on the title for each such truck or trailer (except
+to the extent such security interest has already been so noted,) duly
+executed by the Borrower;
+
+(h) immediately upon any officer of the Borrower becoming aware
+of any Default or Event of Default, a notice describing the nature thereof
+and what action the Borrowers propose to take with respect thereto; and
+
+(i) from time to time, such other information regarding the
+business, operation and financial condition of the Borrower as the Bank may
+reasonably request.
+
+6.19 INSPECTION OF PROPERTIES AND RECORDS; FISCAL YEAR; ACCOUNTING METHODS.
+The Borrower will permit representatives of the Bank to visit and inspect any of
+the properties and examine any of the books and records of the Borrower at any
+reasonable time and as often as the Bank may reasonably desire. The Bank shall
+be entitled to charge the Borrower a reasonable fee for any audits performed by
+agents of the Bank. The Borrower will not change its fiscal year except with the
+prior written consent of the Bank, which will not be unreasonably withheld. The
+Borrower will not make any change in its method of depreciating trucks and
+trailers.
+
+6.20      FINANCIAL STATUS.  The Borrower will maintain at all times:
+
+(i)      a Fixed Charge Coverage Ratio of not less than 1.20 to
+1.00.
+
+(ii)     a Total Liabilities to Tangible Worth Ratio of not more
+than 2.50 to 1.00.
+
+(iii)    an Indebtedness to Operating Cash Flow Ratio of not more
+than 4.00 to 1.00.
+
+(iv)     Tangible Net Worth of at least the Minimum Tangible Net
+Worth.
+
+6.21      CAPITAL ADEQUACY.
+
+(a) In the event the Bank shall have determined that the adoption
+of any generally applicable law, rule or regulation regarding capital
+adequacy, or any generally applicable change therein or in the
+interpretation or application thereof or compliance by the Bank with any
+requests or directive regarding capital adequacy (whether or not having the
+force of law) from any central bank or Governmental Authority, does or
+shall have the effect of reducing the rate of return on the Bank's capital
+as a consequence of its obligations hereunder to a level below that which
+the Bank could have achieved but for such adoption, change or compliance
+(taking into consideration the Bank's policies with respect to capital
+adequacy) by an amount deemed by the Bank, in its sole reasonable
+discretion, to be material, then from time to time, after submission by the
+Bank to Borrower of a written demand therefor, the Borrower shall pay to
+the Bank such additional amount or amounts as will compensate the Bank for
+such reduction.
+
+
+<PAGE>
+
+
+(b) A certificate of the Bank claiming entitlement to payment as
+set forth above shall be conclusive in the absence of manifest error. Such
+certificate shall set forth the nature of the occurrence giving right to
+such payment, the additional amount or amounts to be paid to the Bank, and
+the method by which such amounts were determined. In determining such
+amounts, the Bank may use any reasonable averaging and attribution method.
+
+(c) In no contingency or event whatsoever shall the aggregate of
+all amounts payable by Borrower to the Bank pursuant to this Section 6.21
+exceed the highest rate of interest permissible under any law which a court
+of competent jurisdiction shall, in a final determination, deem to be
+applicable hereto. To the full extent permitted under applicable law,
+Borrower and the Bank shall characterize any payments made pursuant to this
+Section as an expense, fee or premium rather than as interest.
+
+(d) The benefits of this Section shall run in favor of any
+Participant.
+
+6.22 REAFFIRMATION WITH ADVANCES. Each representation and warranty set
+forth in this Article VI shall be deemed to be restated and reaffirmed by the
+Borrower to the Bank on and as of the date of each Advance under this Agreement,
+except that (i) any reference to the financial statements referred to in Section
+6.18 shall be deemed to refer to the financial statements then most recently
+delivered to the Bank pursuant to said Section.
+
+6.23 ACQUISITIONS, LOAN, INVESTMENTS. The Borrower shall not (i) enter into
+any new business or purchase or otherwise acquire any business enterprise or any
+substantial assets of any Person the cost of which, when aggregated with all
+other such transactions during any calendar or fiscal year of the Borrower would
+be material with respect to Borrower's financial condition; (ii) make any loans
+to any Person ( other than loans or advances to directors or officers provided
+the aggregate amount outstanding at any one time does not exceed $250,000); or
+(iii) purchase any shares of stock of, or similar interest in, or make any
+capital contribution to or investment in, any Person. Borrower may make advances
+to truck owner/operators and employees for operating expenses in the ordinary
+course of business and in accordance with the past practices of the Borrower.
+
+6.24 CHANGE NAME OR OFFICE. The Borrower shall not change its name (nor use
+any other name), the location of its chief executive office or the place where
+it keeps its books and records, without ten (10) days' prior written notice to
+the Bank.
+
+6.25 CHANGE IN NATURE OF BUSINESS. The Borrower shall not make any material
+change in the nature of the Borrower's business, taken as a whole, as carried on
+as of the date hereof, without the prior written consent of the Bank.
+
+6.26 NEGATIVE PLEDGES. The Borrower will not enter any agreement, bond,
+note or other instrument with or for the benefit of any Person that would
+prohibit the Borrower from granting, or otherwise limit the ability of the
+Borrower to grant, to the Bank any Lien on any assets or properties of the
+Borrower.
+
+6.27 BANK ACCOUNTS. Maintain Borrower's primary business accounts at the
+Bank.
+
+
+
+
+<PAGE>
+
+
+ARTICLE VII. COLLATERAL AND GUARANTIES
+
+7.1 COLLATERAL. This Agreement and the Note are secured by any and all
+security interests, pledges, mortgages or liens now or hereafter in existence
+granted to the Bank to secure indebtedness of the Borrower to the Bank,
+including without limitation as described in the following documents:
+
+(a)    The Security Agreement;
+(b)    The Stock Pledge Agreement;
+(c)    The Guaranty; and
+(d)    The Third Party Security Agreement
+
+The information in this Article VII is for information only and the
+omission of any reference to an agreement shall not affect the validity or
+enforceability thereof. The rights and remedies of the Bank outlined in this
+Agreement and the documents identified above are intended to be cumulative.
+
+7.2 CREDIT BALANCES; SETOFF. As additional security for the payment of the
+Obligations, the Borrower hereby grants the Bank a security interest in, a lien
+on and an express contractual right to set off against all depository account
+balances, cash and any other property of the Borrower now or hereafter in the
+possession of the Bank. The Bank may, at any time upon the occurrence of a
+Default hereunder (notwithstanding any notice requirements or grace/cure periods
+under this or other agreements between the Borrower and the Bank) set off
+against Obligations WHETHER OR NOT THE OBLIGATIONS (INCLUDING FUTURE
+INSTALLMENTS) ARE THEN DUE OR HAVE BEEN ACCELERATED, ALL WITHOUT ANY ADVANCE OR
+CONTEMPORANEOUS NOTICE OR DEMAND OF ANY KIND TO THE BORROWER, SUCH NOTICE AND
+DEMAND BEING EXPRESSLY WAIVED.
+
+
+ARTICLE VIII. DEFAULTS
+
+8.1 EVENTS OF DEFAULT. NOTWITHSTANDING ANY CURE PERIODS DESCRIBED BELOW,
+THE BORROWER WILL IMMEDIATELY NOTIFY THE BANK IN WRITING WHEN THE BORROWER
+OBTAINS KNOWLEDGE OF THE OCCURRENCE OF ANY EVENT OF DEFAULT SPECIFIED BELOW. It
+shall be an Event of Default if:
+
+(a) NONPAYMENT. The Borrower shall fail when due any interest
+and/or principal due on the Notes or any L/C Application, or any fees,
+charges, costs, expenses or other amounts under the Loan Documents.
+
+(b) NONPERFORMANCE. The Borrower shall fail to perform or observe
+any agreement, term, provision, condition, or covenant (other than a
+default occurring under (a), (c), (d), (e), (f) or (g), of this Section
+8.1) required to be performed or observed by the Borrower hereunder or
+under any other Loan Document or other agreement with or in favor of the
+Bank.
+
+(c) MISREPRESENTATION. Any financial information, statement,
+certificate, representation or warranty given to the Bank by the Borrower
+(or any of their representatives) in connection with entering into this
+Agreement or the other Loan Documents and/or any borrowing thereunder, or
+required to be furnished under the
+
+
+<PAGE>
+
+
+
+terms thereof, shall prove untrue or misleading in any material respect (as
+determined by the Bank in the exercise of its reasonable judgment) as of
+the time when given.
+
+(d) DEFAULT ON OTHER OBLIGATIONS. The Borrower shall be in
+default under the terms of any loan agreement, promissory note, lease,
+conditional sale contract or other agreement, document or instrument
+evidencing, governing or securing any indebtedness owing by the Borrower to
+the Bank or any indebtedness in excess of $250,000 owing by the Borrower to
+any third party, and the period of grace, if any, to cure said default
+shall have passed.
+
+(e) JUDGMENTS. Any judgment shall be obtained against the
+Borrower, which, together with all other outstanding unsatisfied judgments
+against the Borrower, shall exceed the sum of $250,000 and shall remain
+unvacated, unbonded or unstayed for a period of thirty (30) days following
+the date of entry thereof.
+
+(f) INABILITY TO PERFORM; BANKRUPTCY/INSOLVENCY. (i) the Borrower
+shall cease to exist; or (ii) any bankruptcy, insolvency or receivership
+proceedings, or an assignment for the benefit of creditors shall, be
+commenced under any federal or state law by or against the Borrower (and as
+to the filing of any involuntary bankruptcy petition against the Borrower,
+the same has not been discharged within sixty (60) days after the date of
+filing); or (iii) the Borrower is unable or admits in writing its inability
+to pay its debts as they mature.
+
+(g) GARNISHMENTS/LEVIES. Any property of the Borrower shall be
+garnished, levied upon or attached in any proceeding and such garnishment
+or attachment shall remain undischarged for a period of ten (10) days
+during which execution has not been effectively stayed.
+
+8.2 TERMINATION OF LOANS; ADDITIONAL BANK RIGHTS. Upon the occurrence of
+any of the events identified in Section 8.1, the Bank may at any time
+(notwithstanding any notice requirements or grace/cure periods under this or
+other agreements between the Borrower and the Bank) (i) immediately terminate
+its obligation, if any, to make additional Advances to the Borrower or to issue
+any Letter of Credit; (ii) set off; and/or (iii) take such other steps to
+protect or preserve the Bank's interest in any collateral, including without
+limitation, notifying account debtors to make payments directly to the Bank,
+advancing funds to protect any collateral and insuring collateral at the
+Borrower's expense; all without demand or notice of any kind, all of which are
+hereby waived.
+
+8.3 ACCELERATION OF OBLIGATIONS. Upon the occurrence of an Event of Default
+(excluding Section 8.1(f)) and the passage of any applicable cure period, the
+Bank may at any time thereafter, by written notice to the Borrower, declare the
+unpaid principal balance of any Obligations, together with the interest accrued
+thereon and other amounts accrued hereunder and under the other Loan Documents,
+to be immediately due and payable; and the unpaid balance shall thereupon be due
+and payable, all without presentation, demand, protest or further notice of any
+kind, all of which are hereby waived, and notwithstanding anything to the
+contrary contained herein or in any of the other Loan Documents. Upon the
+occurrence of any event under Section 8.1(f), then the unpaid principal balance
+of any Obligations, together with all interest accrued thereon and other amounts
+accrued hereunder and under the other Loan Documents, shall thereupon be
+immediately due and payable, all without presentation, demand, protest or notice
+of any kind, all of which are hereby waived, and notwithstanding anything to the
+contrary contained herein or in any of the other Loan Documents. NOTHING
+CONTAINED IN SECTION 8.1, SECTION 8.2 OR THIS SECTION WILL LIMIT THE BANK'S
+RIGHT TO SET OFF AS PROVIDED IN THIS AGREEMENT OR UNDER APPLICABLE LAW.
+
+
+<PAGE>
+
+
+8.4 OTHER REMEDIES. Nothing in this Article VIII is intended to restrict
+the Bank's rights under any of the Loan Documents or at law, and the Bank may
+exercise all such rights and remedies as and when they are available.
+
+
+ARTICLE IX. CONDITIONS PRECEDENT TO CLOSING AND BORROWING
+
+9.1 CONDITIONS TO BORROWING. The Bank shall not be obligated to make (or
+continue to make) Advances or to issue any Letter of Credit hereunder unless (i)
+the Bank has received executed copies of the Notes and Loan Documents, each in
+form and content satisfactory to the Bank; (ii) the Bank has received
+confirmation satisfactory to it that the Bank has a properly perfected security
+interest, with the proper priority; (iii) the Bank has received certified copies
+of the Borrower's Articles of Incorporation and By-Laws, certification of
+corporate or partnership status satisfactory to the Bank and all other relevant
+documents; (iv) the Bank has received a certified copy of a resolution or
+authorization in form and content satisfactory to the Bank authorizing the loan
+and all acts contemplated by this Agreement and all related documents, and
+confirmation of proper authorization of all guaranties and other acts of third
+parties contemplated hereunder, (v) the Bank has been provided with an Opinion
+of the Borrower's counsel in form and content satisfactory to the Bank
+confirming the matters outlined in Section 6.2 and such other matters as the
+Bank requests; (vi) no Default or Event of Default exists under this Agreement
+or under any other Loan Documents, or under any other agreements by and between
+the Borrower and the Bank; and (vii) all proceedings taken in connection with
+the transactions contemplated by this Agreement (including any required
+environmental assessments), and all instruments, authorizations and other
+documents applicable thereto, shall be satisfactory to the Bank and its counsel.
+
+
+ARTICLE X. MISCELLANEOUS
+
+10.1 EXPENSES AND ATTORNEYS' FEES. In addition to any other fees payable by
+the Borrower under this Agreement and/or any other Loan Documents, the Borrower
+will reimburse the Bank for all attorneys' fees and all other costs, fees and
+out-of-pocket disbursements (including fees and disbursements of both inside
+counsel and outside counsel) incurred by the Bank in connection with the
+preparation, execution, delivery, administration, defense and enforcement of
+this Agreement or any of the other Loan Documents (defined below), including
+fees and costs related to any waivers or amendments with respect thereto
+(examples of costs and fees include but are not limited to fees and costs for:
+filing, perfecting or confirming the priority of the Bank's lien, title searches
+or insurance, appraisals, environmental audits and other reviews relating to the
+Borrower, any collateral or the loans, if requested by the Bank).
+Notwithstanding the foregoing, the maximum expenses and fees that the Borrower
+shall be required to reimburse to the Bank for the initial collateral audit
+shall not exceed One Thousand Five Hundred Dollars ($1,500.00). The Borrower
+will also reimburse the Bank for all costs of collection before and after
+judgment, and the costs of preservation and/or liquidation of any collateral
+(including fees and disbursements of both inside and outside counsel).
+
+10.2 DELAY; CUMULATIVE REMEDIES. No delay on the part of the Bank in
+exercising any right, power or privilege hereunder or under any of the other
+Loan Documents shall operate as a waiver thereof, nor shall any single or
+partial exercise of any right, power or privilege hereunder preclude other or
+further exercise thereof or the exercise
+
+
+<PAGE>
+
+of any other right, power or privilege. The rights and remedies herein specified
+are cumulative and are not exclusive of any rights or remedies which the Bank
+would otherwise have.
+
+10.3 RELATIONSHIP TO OTHER DOCUMENTS. The warranties, covenants and other
+obligations of the Borrower (and the rights and remedies of the Bank) that are
+outlined in this Agreement and the other Loan Documents are intended to
+supplement each other. In the event of any inconsistencies in any of the terms
+in the Loan Documents, all terms shall be cumulative so as to give the Bank the
+most favorable rights set forth in the conflicting documents, except that if
+there is a direct conflict between any preprinted terms and specifically
+negotiated terms (whether included in an addendum or otherwise), the
+specifically negotiated terms will control.
+
+10.4 PARTICIPATIONS; GUARANTORS. The Bank may, at its option, sell all or
+any interests in the Notes and other Loan Documents to other financial
+institutions (the "PARTICIPANT"), and in connection with such sales (and
+thereafter) disclose any financial information the Bank may have concerning the
+Borrower to any such Participant or potential Participant. From time to time,
+the Bank may, in its discretion and without obligation to the Borrower, any
+guarantor or any other third party, disclose information about the Borrower and
+this loan to any guarantor, surety or other accommodation party. This provision
+does not obligate the Bank to supply any information or release the Borrower
+from its obligation to provide such information, and the Borrower agrees to keep
+all Guarantors advised of its financial condition and other matters which may be
+relevant to the Guarantors' obligations to the Bank.
+
+10.5 SUCCESSORS. The rights, options, powers and remedies granted in this
+Agreement shall extend to the Bank and to its successors and assigns, shall be
+binding upon the Borrower and its successors and assigns and shall be applicable
+hereto and to all renewals and/or extensions hereof.
+
+10.6 INDEMNIFICATION. Except for harm arising from the Bank's willful
+misconduct or gross negligence, the Borrower hereby indemnifies and agrees to
+defend and hold the Bank harmless from any and all losses, costs, damages,
+claims and expenses of any kind suffered by or asserted against the Bank
+relating to claims by third parties arising out of the financing provided under
+the Loan Documents or related to any collateral (including, without limitation,
+the Borrower's failure to perform its obligations relating to Environmental
+Matters described in Section 6.5 above). This indemnification and hold harmless
+provision will survive the termination of the Loan Documents and the
+satisfaction of the Obligations due the Bank.
+
+10.7 NOTICE OF CLAIMS AGAINST BANK; LIMITATION OF CERTAIN DAMAGES. In order
+to allow the Bank to mitigate any damages to the Borrower from the Bank's
+alleged breach of its duties under the Loan Documents or any other duty, if any,
+to the Borrower, the Borrower agrees to give the Bank immediate written notice
+of any claim or defense it has against the Bank, whether in tort or contract,
+relating to any action or inaction by the Bank under the Loan Documents, or the
+transactions related thereto, or of any defense to payment of the Obligations
+for any reason. The requirement of providing timely notice to the Bank
+represents the parties' agreed-to standard of performance regarding claims
+against the Bank. Notwithstanding any claim that the Borrower may have against
+the Bank, and regardless of any notice the Borrower may have given the Bank, THE
+BANK WILL NOT BE LIABLE TO THE BORROWER FOR CONSEQUENTIAL AND/OR SPECIAL DAMAGES
+ARISING THEREFROM, EXCEPT THOSE DAMAGES ARISING FROM THE BANK'S WILLFUL
+MISCONDUCT.
+
+10.8 NOTICES. Although any notice required to be given hereunder or under
+any of the other Loan Documents might be accomplished by other means, notice
+will always be deemed given when placed in the United States Mail,
+
+
+<PAGE>
+
+with postage prepaid, or sent by overnight delivery service, or sent by telex or
+facsimile, in each case to the address et forth below or as amended.
+
+10.9 PAYMENTS. Payments due under the Notes and other Loan Documents shall
+be made in lawful money of the United States, and the Bank is authorized to
+charge payments due under the Loan Documents against any account of the
+Borrower.
+
+10.10 APPLICABLE LAW AND JURISDICTION; INTERPRETATION; JOINT LIABILITY.
+This Agreement and all other Loan Documents shall be governed by and interpreted
+in accordance with the laws of the state where the Bank's main office is
+located, except to the extent superseded by Federal law. Invalidity of any
+provision of this Agreement shall not affect the validity of any other
+provision. THE BORROWER HEREBY CONSENTS TO THE EXCLUSIVE JURISDICTION OF ANY
+STATE OR FEDERAL COURT SITUATED IN HENNEPIN COUNTY, MINNESOTA AND WAIVES ANY
+OBJECTION BASED ON FORUM NON CONVENIENS, WITH REGARD TO ANY ACTIONS, CLAIMS,
+DISPUTES OR PROCEEDINGS RELATING TO THIS AGREEMENT, THE NOTES, THE COLLATERAL,
+ANY OTHER LOAN DOCUMENT, OR ANY TRANSACTIONS ARISING THEREFROM, OR ENFORCEMENT
+AND/OR INTERPRETATION OF ANY OF THE FOREGOING. Nothing herein shall affect the
+Bank's rights to serve process in any manner permitted by law, or limit the
+Bank's right to bring proceedings against the Borrower in the competent courts
+of any other jurisdiction or jurisdictions. This Agreement, the other Loan
+Documents and any amendments hereto (regardless of when executed) will be deemed
+effective and accepted only at the Bank's offices, and only upon the Bank's
+receipt of the executed originals thereof. If there is more than one Borrower,
+the liability of the Borrowers will be joint and several, and the reference to
+"Borrower" will be deemed to refer to all Borrowers.
+
+10.11 COPIES; ENTIRE AGREEMENT; MODIFICATION. The Borrower hereby
+acknowledges the receipt of a copy of this Agreement and all other Loan
+Documents. The provisions of the Loan Documents shall not be altered, amended or
+waived without the express written consent of the Bank (and the Borrower, when
+appropriate).
+
+IMPORTANT. READ BEFORE SIGNING. THE TERMS OF THIS AGREEMENT SHOULD BE READ
+CAREFULLY BECAUSE ONLY THOSE TERMS IN WRITING ARE ENFORCEABLE. NO OTHER TERMS OR
+ORAL PROMISES NOT CONTAINED IN THIS WRITTEN CONTRACT MAY BE LEGALLY ENFORCED.
+YOU MAY CHANGE THE TERMS OF THIS AGREEMENT ONLY BY ANOTHER WRITTEN AGREEMENT.
+THIS NOTICE SHALL ALSO BE EFFECTIVE WITH RESPECT TO ALL OTHER CREDIT AGREEMENTS
+NOW IN EFFECT BETWEEN YOU AND THIS LENDER. A MODIFICATION OF ANY OTHER CREDIT
+AGREEMENTS NOW IN EFFECT BETWEEN YOU AND THIS LENDER, WHICH OCCURS AFTER RECEIPT
+BY YOU OF THIS NOTICE, MAY BE MADE ONLY BY ANOTHER WRITTEN INSTRUMENT. ORAL OR
+IMPLIED MODIFICATIONS TO SUCH CREDIT AGREEMENTS ARE NOT ENFORCEABLE AND SHOULD
+NOT BE RELIED UPON.
+
+10.12 WAIVER OF JURY TRIAL. THE BORROWER AND THE BANK HEREBY JOINTLY AND
+SEVERALLY WAIVE ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR
+PROCEEDING RELATING TO ANY OF THE LOAN DOCUMENTS, THE OBLIGATIONS
+THEREUNDER, ANY COLLATERAL SECURING THE OBLIGATIONS OR ANY TRANSACTION
+ARISING THEREFROM OR CONNECTED THERETO.  THE BORROWER AND THE BANK EACH
+
+
+<PAGE>
+
+
+REPRESENTS TO THE OTHER THAT THIS WAIVER IS KNOWINGLY, WILLINGLY AND
+VOLUNTARILY GIVEN.
+
+IN WITNESS WHEREOF, the undersigned have executed this CREDIT AGREEMENT as
+of May 15, 1997.
+
+TRANSPORT CORPORATION OF AMERICA, INC.
+Borrower Name (Organization)
+
+a Minnesota corporation
+
+By: /s/
+Name and Title:
+
+
+
+FIRSTAR BANK OF MINNESOTA,
+NATIONAL ASSOCIATION
+
+By: /s/
+Name and Title:
+
+T.I.D.         41-1386925
+
+Borrower Address: 1769 Yankee Doodle Road
+Eagan, MN 55121
+
+
+
+
+

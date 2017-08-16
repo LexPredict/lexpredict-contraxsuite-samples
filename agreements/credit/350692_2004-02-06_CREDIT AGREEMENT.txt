@@ -1,0 +1,3053 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 4.7
+
+CREDIT AGREEMENT
+Dated as of February 4, 2004
+
+between
+
+DELPHAX TECHNOLOGIES CANADA LIMITED
+
+as Borrower
+
+and
+
+LASALLE BUSINESS CREDIT, a division of
+ABN AMRO BANK N.V., CANADA BRANCH
+
+as Lender
+
+<PAGE>
+
+TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                                                 <C>
+1.    DEFINITIONS AND INTERPRETATION.............................................................................    4
+
+(a)   General Definitions.....................................................................................    4
+(b)   Accounting Terms and Definitions; Interpretation........................................................   13
+
+2.    LOANS......................................................................................................   14
+
+(a)   Revolving and Term Loan.................................................................................   14
+(b)   Margin and Other Requirements: Revolving Loans..........................................................   14
+(c)   Margin and Other Requirements: Term Loan................................................................   15
+(d)   Loan Accounts...........................................................................................   15
+
+3.    REPAYMENT OF TERM LOANS....................................................................................   15
+
+(a)   Term Loan Facility......................................................................................   15
+(b)   Mandatory Prepayments of the Term Loan..................................................................   16
+(c)   VOLUNTARY PREPAYMENTS...................................................................................   16
+
+4.    INTEREST, FEES AND CHARGES.................................................................................   16
+
+(a)   Rates of Interest.......................................................................................   16
+(b)   Other LIBOR Provisions..................................................................................   17
+(c)   Other BA Equivalent Provisions..........................................................................   19
+(d)   Computation of Interest and Fees........................................................................   20
+(e)   Maximum Interest........................................................................................   20
+(f)   Unused Line Fee.........................................................................................   20
+(g)   Examination and Appraisal Fees..........................................................................   21
+(h)   Capital Adequacy Charge.................................................................................   21
+
+5.    LOAN ADMINISTRATION........................................................................................   21
+
+(a)   Loan Requests...........................................................................................   21
+(b)   Disbursement............................................................................................   22
+
+6.    SECURITY...................................................................................................   22
+
+7.    COLLECTIONS................................................................................................   23
+
+(a)   Blocked Accounts and Lock Boxes.........................................................................   23
+(b)   Rights of LaSalle.......................................................................................   24
+(c)   Application of Collections..............................................................................   24
+(d)   Dealings by LaSalle.....................................................................................   25
+(e)   Receipts by Borrower....................................................................................   25
+
+8.    SCHEDULES AND REPORTS......................................................................................   25
+
+(a)   Activity Reports........................................................................................   25
+(b)   Borrowing Base Certificate..............................................................................   25
+(c)   Inventory Reports.......................................................................................   26
+(d)   Financial Reports.......................................................................................   26
+(e)   Authorized Officer......................................................................................   27
+
+9.    TERMINATION................................................................................................   27
+
+(a)   Survival of Security Interests, Liens, etc..............................................................   27
+(b)   Prepayment..............................................................................................   27
+
+10.      REPRESENTATIONS AND WARRANTIES..........................................................................   28
+</TABLE>
+
+<PAGE>
+
+2.
+<TABLE>
+<S>                                                                                                                 <C>
+11.      COVENANTS...............................................................................................   33
+
+12.      CONDITIONS PRECEDENT....................................................................................   40
+
+(a)   Closing Deliveries......................................................................................   40
+(b)   Post Closing Deliveries.................................................................................   42
+
+13.      DEFAULT.................................................................................................   42
+
+14.      REMEDIES UPON AN EVENT OF DEFAULT.......................................................................   44
+
+15.      INDEMNIFICATION.........................................................................................   46
+
+(a)   General Indemnity.......................................................................................   46
+(b)   Environmental Indemnity.................................................................................   47
+
+16.      MISCELLANEOUS...........................................................................................   47
+
+(a)   Notices.................................................................................................   47
+(b)   Choice of Governing Law and Construction................................................................   48
+(c)   Forum Selection and Service Of Process..................................................................   48
+(d)   Modification and Benefit of Agreement...................................................................   48
+(e)   Headings of Subdivisions................................................................................   48
+(f)   Power of Attorney.......................................................................................   49
+(g)   Waiver of Jury Trial, Other Waivers, Confidentiality....................................................   49
+(h)   Timing of Payments......................................................................................   49
+(i)   Canadian Currency.......................................................................................   49
+(j)   Judgment Currency.......................................................................................   50
+(k)   Severability............................................................................................   50
+(l)   Conflicts...............................................................................................   50
+(m)   Counterparts............................................................................................   51
+</TABLE>
+
+SCHEDULES AND EXHIBITS
+
+Schedule A                           Authorized Officers
+Schedule B                           Business and Collateral Locations
+Schedule C                           Permitted Liens
+Schedule 10(c)                       Borrower Furniture, Fixtures and Equipment
+Schedule 10(i)                       Actions and Proceedings
+Schedule 10(q)                       Indebtedness
+Schedule 10(s)                       Affiliates, Joint Ventures and Partnerships
+Schedule 10(w)                       Intellectual Property
+Schedule 10(z)                       Environmental Matters
+Schedule 12(a)(iii)                  Closing Documents List
+
+Exhibit 2(d)(ii)                     Form of Revolving Promissory Note
+Exhibit 2(d)(ii)A                    Form of Term Note
+Exhibit 5(a)                         Form of Notice of Borrowing
+Exhibit 8(a)                         Form of Collateral Loan Report
+Exhibit 8(b)                         Form of Borrowing Base Certificate
+Exhibit 8(b)(ii)                     Form of Statutory Payables Report
+Exhibit 8(d)                         Form of Financial Reporting Certificate
+
+<PAGE>
+
+3.
+
+Exhibit 12(a)(ix)                    Form of Closing Certificate
+
+<PAGE>
+
+CREDIT AGREEMENT dated as of February 4, 2004 between DELPHAX
+TECHNOLOGIES CANADA LIMITED, a corporation duly incorporated under the laws of
+the province of Ontario (the "BORROWER") and LASALLE BUSINESS CREDIT, a division
+of ABN AMRO BANK N.V., CANADA BRANCH, a Canadian branch of a Netherlands bank
+(such bank herein referred to as "LASALLE"), with its head office at Maritime
+Life Tower, 15th Floor, 79 Wellington Street West, Toronto (Ontario), M5K 1G8.
+
+RECITALS
+
+WHEREAS, the Borrower desires that LaSalle extend certain
+loans, advances and other financial accommodations to the Borrower in order to
+refinance existing indebtedness and to provide for working capital and the
+parties wish to provide for the terms and conditions upon which such loans,
+advances and other financial accommodations shall be made;
+
+NOW, THEREFORE, in consideration of the premises and the
+mutual covenants hereinafter contained and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged by
+the Borrower, the parties hereto agree as follows:
+
+1.                DEFINITIONS AND INTERPRETATION
+
+(a)               General Definitions.
+
+The following terms have the following meanings when used
+herein:
+
+"ACCOUNT", "CHATTEL PAPER", "DOCUMENT OF TITLE", "EQUIPMENT",
+"INTANGIBLE", "GOODS", "INSTRUMENT", and "INVENTORY" shall have the respective
+meanings assigned to such terms without initial capitals, as of the date of this
+Agreement, in the Ontario Personal Property Security Act ("PPSA").
+
+"ACCOUNT DEBTOR" shall mean in respect of any Account the
+debtor obligated to make payment thereof.
+
+"AGGREGATE COMMITMENT" shall mean the sum of four million U.S.
+Dollars (US $4,000,000) or the Canadian Dollar Equivalent Amount thereof plus
+the outstanding principal balance of the Term Loan on the date hereof.
+
+"AGREEMENT" shall mean this Credit Agreement as it may be
+amended, supplemented, extended or restated from time to time.
+
+"AUTHORIZED OFFICER" shall mean in respect of the Borrower
+each person whose name appears on SCHEDULE A hereto.
+
+"BA" shall mean a bill of exchange in Canadian Dollars made by
+the Borrower and accepted by LaSalle at the Borrower's request.
+
+<PAGE>
+
+5.
+
+"BA EQUIVALENT LOAN" shall mean a Loan bearing interest at the
+applicable BA Equivalent Rate.
+
+"BA EQUIVALENT RATE" means at any time in respect of any
+dollar amount and any term of a BA Equivalent Loan, the rate of interest per
+annum, as determined by LaSalle in its sole discretion, which reflects the cost
+to LaSalle of obtaining funds at such time (whether or not any funds are
+actually obtained) in such dollar amount for a term substantially the same as
+such term.
+
+"BA PERIOD" shall have the meaning ascribed thereto in
+SUBSECTION 4(c)(ii).
+
+"BLOCKED ACCOUNT" shall have the meaning ascribed thereto in
+SUBSECTION 7(a) hereof.
+
+"BORROWING" shall mean a borrowing or advance of credit
+hereunder consisting of any loans made to the Borrower on the same day by
+LaSalle.
+
+"BORROWING BASE" shall mean at any time the lesser of the
+amounts then calculated as specified in SUBSECTIONS 2(b)(i) AND (ii) hereof.
+
+"BORROWING BASE CERTIFICATE" shall have the meaning ascribed
+thereto in SUBSECTION 8(b) hereof and shall be in substantially the form of
+EXHIBIT 8(b) hereto.
+
+"BUSINESS DAY" shall mean any day other than a Saturday,
+Sunday, or (i) with respect to all matters, determinations, fundings and
+payments in connection with LIBO Rate Loans, any day on which banks in London,
+England or Toronto, Ontario are authorized or required to be closed for
+business, and (ii) with respect to all other matters any other day as banks in
+Toronto, Ontario are authorized or required to be closed for business.
+
+"CANADIAN DOLLARS" or "CDN. $" shall mean the lawful currency
+of Canada.
+
+"CANADIAN DOLLAR EQUIVALENT AMOUNT" shall mean, on any given
+date, the amount of Canadian Dollars which could be purchased with the relevant
+amount of a currency at the then applicable Spot Rate at 11:00 a.m. Toronto time
+on such date (and if such date is not a Business Day, on the preceding Business
+Day) for the purchase of Canadian Dollars with such currency.
+
+"CAPITAL ADEQUACY CHARGE" shall have the meaning ascribed
+thereto in SUBSECTION 4(h).
+
+"CAPITAL ADEQUACY DEMAND" shall have the meaning ascribed
+thereto in SUBSECTION 4(h).
+
+"CAPITAL EXPENDITURES" shall mean, with respect to any period,
+the aggregate of all expenditures (whether paid in cash or accrued as
+liabilities and including expenditures for capitalized lease obligations) by the
+Borrower during such period that are required by GAAP to be included in or
+reflected by the property, plant or equipment or similar fixed asset accounts
+(or in intangible accounts subject to amortization) in the balance sheet of the
+Borrower.
+
+<PAGE>
+
+6.
+
+"CLOSING CERTIFICATE" shall have the meaning ascribed thereto
+in SUBSECTION 12(a)(ix) and shall be in substantially the form of EXHIBIT
+12(a)(ix) hereto.
+
+"CLOSING DATE" shall mean the date upon which the initial
+Revolving Loan is made.
+
+"COLLATERAL" shall mean all of the undertaking, property and
+assets, present and future, real and personal, of the Borrower, including that
+specifically described in SECTION 6 hereof and all other undertaking, property
+and assets of any other Loan Party or any other Person now or hereafter pledged
+to LaSalle to secure, either directly or indirectly, repayment of any of the
+Liabilities.
+
+"CONTAMINANT" shall mean all Hazardous Materials and all those
+substances which are regulated by or form the basis of liability under
+Environmental Laws or any other material or substance which constitutes a
+material health, safety or environmental hazard to any person or property.
+
+"DEFAULT" shall mean any event, condition or default which
+with the giving of notice, the lapse of time or both would be an Event of
+Default.
+
+"ELIGIBLE EQUIPMENT" shall mean machinery and Equipment of the
+Borrower which is acceptable to LaSalle in its sole discretion. Without limiting
+LaSalle's discretion, LaSalle shall, in general, consider Equipment to be
+Eligible Equipment if it meets, and so long as it continues to meet, all of the
+following requirements:
+
+(i)      it is owned by the Borrower and the Borrower has the
+right to subject it to a security interest in favour
+of LaSalle;
+
+(ii)     it is located on the premises listed on SCHEDULE B
+and is not in transit (except as consented by in
+writing by LaSalle);
+
+(iii)    it is not subject to any prior assignment, claim,
+lien, security interest or encumbrance whatsoever,
+other than Permitted Liens, and is subject to a valid
+first ranking security interest in favour of LaSalle
+which is properly perfected in the province in which
+such Equipment is located;
+
+(iv)     LaSalle has determined in accordance with LaSalle's
+customary business practices that it is not
+unacceptable due to immateriality, obsolescence, age,
+type, category, condition or quality; for greater
+certainty, damaged or defective Equipment shall not
+be acceptable as Eligible Equipment; and
+
+(v)      it is not Equipment (A) with respect to which any of
+the representations and warranties contained in this
+Agreement or any Security Agreement are untrue or (B)
+which violates any of the covenants of the Borrower
+contained in this Agreement or any Security
+Agreement.
+
+"ELIGIBLE INVENTORY" shall mean Inventory of the Borrower
+which is acceptable to LaSalle in its sole discretion. Without limiting
+LaSalle's discretion, LaSalle shall, in general,
+
+<PAGE>
+
+7.
+
+consider Inventory to be Eligible Inventory if it meets, and so long as it
+continues to meet, all of the following requirements:
+
+(i)      it is finished goods or raw material inventory owned
+by the Borrower and the Borrower has the right to
+subject it to a security interest in favour of
+LaSalle;
+
+(ii)     it is located on the premises listed on SCHEDULE B
+hereto or such other premises from time to time
+accepted in writing by LaSalle;
+
+(iii)    it is not subject to any prior assignment, claim,
+lien, security interest or encumbrance whatsoever,
+other than Permitted Liens, has not given rise to an
+Account and is subject to a valid first ranking
+security interest in favour of LaSalle which is
+properly perfected in the province where such
+Inventory is located;
+
+(iv)     it is not work in process, stores, parts, samples,
+display or slow moving Inventory, and is held for
+sale or furnishing under contracts of service; it is
+(except as LaSalle may otherwise consent in writing)
+unspoiled and free from deficiencies which would, in
+LaSalle's sole determination, affect its market
+value;
+
+(v)      it is not in transit (except as consented to in
+writing by LaSalle), or stored with a bailee,
+consignee, warehouseman, processor or similar party
+or located on any leased premises unless LaSalle has
+given its prior written approval and the Borrower has
+caused any such bailee, consignee, warehouseman,
+processor, similar party or lessor to issue and
+deliver to LaSalle, in form and substance acceptable
+to LaSalle in its absolute discretion, such financing
+statements, warehouse receipts, waivers and other
+documents as LaSalle shall require;
+
+(vi)     LaSalle has determined that it is not unacceptable
+due to obsolescence, age, type, category, quantity,
+expiry or other factors; for greater certainty any
+packaging materials and any used or old, returned,
+damaged or defective or spoiled Inventory, Inventory
+unfit for intended usage or not readily saleable, and
+Inventory held or placed on consignment shall not be
+acceptable as Eligible Inventory; and
+
+(vii)    it is not Inventory (A) with respect to which any of
+the representations and warranties contained in this
+Agreement or any Security Agreement are untrue or (B)
+which violates any of the covenants of the Borrower
+contained in this Agreement or any Security Agreement
+or (C) with a demonstration unit.
+
+"ENVIRONMENTAL CLAIMS" shall mean any written notice of
+violation, claim, deficiency, demand, abatement or other order or prosecution by
+any governmental authority or any person for personal injury (including
+sickness, disease or death), tangible or intangible property damage, damage to
+the environment, nuisance, pollution, contamination or other
+
+<PAGE>
+
+8.
+
+adverse effects on the environment, or for fines, penalties, convictions or deed
+or use restrictions, resulting from or based upon (i) the existence, or the
+continuation of the existence, of a Release (including, without limitation,
+sudden or non-sudden, accidental or non-accidental Releases), of, or exposure
+to, any Contaminant at, in, by or from any of the properties of the Borrower or
+any Loan Party, (ii) the environmental aspects of the transportation, storage,
+treatment or disposal of Contaminants in connection with the operation of any of
+the properties of the Borrower or any Loan Party or (iii) the violation, or
+alleged violation by Borrower or any Loan Party, of any statutes, ordinances,
+orders, rules, regulations, permits or licenses of or from any Governmental
+Authority, agency or court relating to environmental matters connected with any
+of the properties of the Borrower or any Loan Party, under any applicable
+Environmental Laws.
+
+"ENVIRONMENTAL LAWS" includes, without limitation, the
+Environmental Protection Act (Ontario), the Canadian Environmental Protection
+Act, the Canadian Transportation of Dangerous Goods Act, the Ontario Water
+Resources Act, the Dangerous Goods Transportation Act (Ontario), the
+Occupational Health and Safety Act (Ontario), the Fisheries Act (Canada) and the
+Gasoline Handling Code and Gasoline Handling Act (Ontario) and regulations
+thereunder, and laws and regulations respecting pesticides, fisheries regulation
+and water resource management, as all of the aforesaid laws and regulations have
+been and hereafter may be amended or supplemented, and any related or analogous
+present or future federal, provincial or local, statutes, rules having the force
+of law, regulations, ordinances, licenses, permits and interpretations having
+the force of law, orders of regulatory and administrative bodies and guidelines.
+
+"EVENT OF DEFAULT" shall have the meaning ascribed thereto in
+SECTION 13 hereof.
+
+"EXCESS AVAILABILITY" shall mean, as of any date of
+determination by LaSalle, the excess, if any, of (i) the Borrowing Base over
+(ii) the aggregate of the outstanding Revolving Loans as of the close of
+business on such date. For purposes of calculating Excess Availability and the
+amount of the Borrowing Base relating thereto, LaSalle may, in the exercise of
+its sole discretion, and without prejudice to its ability to establish other
+reserves as set out in this Agreement, establish a reserve in an aggregate
+amount based on the Borrower's outstanding debt which is not current (in
+accordance with its terms of payment as verified by LaSalle) or which is past
+due as of such date of determination, to the extent thereof, and a reserve in an
+aggregate amount based on outstanding cheques issued by the Borrower, to the
+extent thereof.
+
+"FINANCIAL REPORTING CERTIFICATE" shall mean a certificate in
+substantially the form of EXHIBIT 9(d) hereto.
+
+"GAAP" shall mean at any time generally accepted accounting
+principles and policies as in effect at such time in Canada.
+
+"GOVERNMENTAL AUTHORITY" shall mean any nation or government,
+any state, province or other political subdivision thereof, any central bank (or
+similar monetary or regulatory authority) thereof, any entity exercising
+executive, legislative, judicial, regulatory or administrative functions of or
+pertaining to government, and any corporation or other entity owned or
+controlled, through stock or capital ownership or otherwise, be any of the
+foregoing.
+
+<PAGE>
+
+9.
+
+"GUARANTOR" shall mean Delphax Technologies, Inc., a Minnesota
+corporation.
+
+"HAZARDOUS MATERIALS" shall mean any pollutant, contaminant,
+chemical, or industrial or hazardous, toxic or dangerous goods, waste, substance
+or material, defined or regulated as such in (or for purposes of) any
+Environmental Laws and any other toxic, reactive, or flammable chemicals,
+including (without limitation) any friable asbestos, any petroleum (including
+crude oil or any fraction), any radioactive substance and any polychlorinated
+biphenyls; provided, that in the event that any Environmental Law is amended so
+as to broaden the meaning of any term defined thereby, such broader meaning
+shall apply subsequent to the effective date of such amendment; and provided
+further that, without limitation, to the extent that the applicable laws of any
+province establish a meaning for "waste", "hazardous material," "hazardous
+substance," "hazardous waste," "solid waste" or "toxic substance" which is
+broader than that specified in any federal Environmental Laws, such broader
+meaning shall apply in the relevant province.
+
+"INDEMNIFIED PARTY" shall have the meaning ascribed thereto in
+SECTION 15 hereof.
+
+"LIABILITIES" shall mean any and all present and future
+obligations, liabilities and indebtedness of the Borrower to LaSalle or to any
+parent, affiliate or subsidiary of LaSalle of any and every kind and nature,
+howsoever created, arising or evidenced and howsoever owned, held or acquired,
+whether now or hereafter existing, whether now due or to become due, whether
+primary, secondary, direct, indirect, absolute, contingent or otherwise
+(including, without limitation, obligations of performance), whether several,
+joint or joint and several, and whether arising or existing under written or
+oral agreement or by operation of law.
+
+"LIBO INTEREST PERIOD" shall have the meaning ascribed thereto
+in SECTION 4(a) hereof.
+
+"LIBO RATE" shall mean , with respect to any LIBO Rate Loan
+for any LIBO Interest Period, a rate per annum equal to (a) the offered rate for
+deposits in United States Dollars for a period equal to such LIBO Interest
+Period as it appears on Telerate page 3750 as of 11:00 a.m. (London time) two
+(2) Business Days prior to the first day of such LIBO Interest Period. "Telerate
+page 3750" means the display designated as "Page 3750" on the Telerate Service
+(or such other page as may replace page 3750 of that service or such other
+service as may be nominated by the British Bankers' Association as the vendor
+for the purpose of displaying British Bankers' Association interest settlement
+rates for United States Dollar deposits) divided by (b) a number equal to 1.0
+minus the maximum reserve percentages (expressed as a decimal fraction)
+including, without limitation, basic supplemental, marginal and emergency
+reserves under any regulations of the Board of Governors of the Federal Reserve
+System or other governmental authority having jurisdiction with respect thereto,
+as now and from time to time in effect, for Eurocurrency funding (currently
+referred to as "Eurocurrency Liabilities" in Regulation D of such Board) which
+are required to be maintained by LaSalle Business Credit, LLC by the Board of
+Governors of the Federal Reserve System. The LIBO Rate shall be adjusted
+automatically on and as of the effective date of any change in such reserve
+percentage.
+
+<PAGE>
+
+10.
+
+"LIBO RATE LOANS" shall mean the Loans bearing interest with
+reference to the LIBO Rate.
+
+"LOAN" or "LOANS" shall mean any and all Revolving Loans and
+the Term Loan made by LaSalle pursuant to SECTION 2 hereof and all other loans,
+advances and financial accommodations made by LaSalle to or on behalf of the
+Borrower hereunder.
+
+"LOAN PARTY" shall mean each Person who is or shall become
+primarily or secondarily liable for any of the Liabilities, including without
+limitation the Guarantor.
+
+"LOCK BOX" shall have the meaning ascribed thereto in
+SUBSECTION 7(a) hereof.
+
+"MATERIAL ADVERSE EFFECT" shall mean with respect to any
+Person, and with respect to any event, act, condition or occurrence of whatever
+nature (including, without limitation, a labour union strike or lockout and any
+adverse determination in any litigation, arbitration or governmental
+investigation or proceeding), whether singly or in conjunction with any other
+event or events, act or acts, condition or conditions, occurrence or
+occurrences, whether or not related, a material adverse change in, or a material
+adverse effect upon, any of the business, property, assets, operations,
+condition (financial or otherwise) or prospects of such Person.
+
+"MATURITY DATE" shall mean January 30, 2007.
+
+"MISSISSAUGA PROPERTIES" shall mean the properties municipally
+known as 5030 Timberlea Boulevard, Mississauga, Ontario and 5050 Tomken Road,
+Mississauga, Ontario.
+
+"NET ORDERLY LIQUIDATION VALUE" means the net value of
+unencumbered (except to LaSalle) Eligible Equipment based on definitions and
+assumptions acceptable to LaSalle in its sole discretion and confirmed in an
+appraisal report by an accredited appraiser satisfactory to LaSalle in its sole
+discretion.
+
+"NOTE" shall mean the Revolving Note or the Term Note.
+
+"NOTICE OF BORROWING" shall have the meaning ascribed thereto
+in SUBSECTION 5(a).
+
+"OTHER AGREEMENTS" shall mean all agreements, instruments and
+documents including, without limitation, guarantees, mortgages, hypothecs, trust
+deeds, pledges, powers of attorney, consents, assignments, contracts, notices,
+security agreements, leases, financing statements and all other writings
+heretofore, now or from time to time hereafter executed by or on behalf of the
+Borrower or any other Person (including any Loan Party) and delivered to LaSalle
+or to any parent, affiliate or subsidiary of LaSalle in connection with the
+Liabilities or the transactions contemplated hereby as each of the same may be
+amended, restated, modified or supplemented from time to time.
+
+"PERMITTED LIENS" shall mean (i) statutory liens of landlords,
+carriers, warehousemen, mechanics, materialmen or suppliers incurred in the
+ordinary course of business and securing amounts not yet due or declared to be
+due by the claimant thereunder, (ii) liens or
+
+<PAGE>
+
+11.
+
+security interests in favour of LaSalle or the U.S. Lender, (iii) zoning
+restrictions and easements, rights of way, licenses, covenants and other
+restrictions affecting the use of real property that do not individually or in
+the aggregate have a material adverse effect on the ability of the owner or user
+thereof to use such real property for its intended purpose in connection with
+its business, (iv) liens and prior claims securing the payment of taxes or other
+governmental charges not yet delinquent or being contested in good faith and by
+appropriate proceedings, (v) liens securing a purchase money obligation or liens
+incurred or deposits made in the ordinary course of business in connection with
+capitalized leases for purchase of, and in each case applying only to, Equipment
+permitted as Capital Expenditures under SUBSECTION 11(o), the documents relating
+to such liens to be in form and substance acceptable to LaSalle, (vi) deposits
+to secure performance of bids, trade contracts, leases and statutory obligations
+(to the extent not excepted elsewhere herein); (vii) liens set forth on SCHEDULE
+C or specifically permitted by LaSalle in its sole discretion and in writing
+from time to time; (viii) any lien arising out of the refinancing, extension,
+renewal or refunding of any indebtedness secured by a lien permitted by any of
+the foregoing SECTIONS (i) THROUGH (vii) inclusive; provided, that (A) such
+indebtedness is not secured by any additional assets, and (B) the amount of such
+indebtedness is not increased, (ix) pledges or deposits in connection with
+worker's compensation, unemployment insurance and other social security
+legislation, (x) rights of setoff, banker's lien and other similar rights
+arising solely by operation of law, and (xi) liens subordinated to the liens and
+security interests described in (ii) above by agreements satisfactory in form
+and substance to LaSalle in its absolute discretion.
+
+"PERSON" shall mean any individual, sole proprietorship,
+partnership, joint venture, trust, unincorporated organization, association,
+corporation, institution, entity, party or foreign or local government (whether
+federal, provincial, county, city, municipal or otherwise), including, without
+limitation, any instrumentality, division, agency, body or department thereof.
+
+"PRIME RATE" shall mean the floating annual rate of interest
+established from time to time by LaSalle as the reference rate for determining
+interest rates on commercial loans made in Canada in the lawful currency of
+Canada and designated as its prime rate; provided that under no circumstances
+shall the Prime Rate be less than the market bid rate determined by LaSalle as
+the average of bid rates for 30 day Canadian dollar bankers' acceptances that
+appear on the Reuters Screen CDOR Page at 10:00 a.m. (Toronto time) on the
+applicable day plus one and one half percent (1.5%) per annum. The Prime Rate is
+not intended to be the lowest or most favourable rate of LaSalle in effect at
+any time. It shall vary from time to time as determined by LaSalle.
+
+"PRIME RATE LOAN" shall mean a Loan in the lawful currency of
+Canada that bears interest based on the Prime Rate. "PRIME RATE REVOLVING LOAN"
+shall mean a Revolving Loan that is a Prime Rate Loan and "PRIME RATE TERM LOAN"
+shall mean a Term Loan that is a Prime Rate Loan.
+
+"RELEASE" shall mean any releasing, spilling, leaking,
+seepage, pumping, pouring, emitting, emptying, discharging, injecting, escaping,
+leaching, disposing or dumping, in each case as defined in Environmental Laws,
+and shall include any threatened Release, as defined in Environmental Laws;
+provided, that in the event that any Environmental Law is amended so as
+
+<PAGE>
+
+12.
+
+to broaden the meaning of any term defined thereby, such broader meaning shall
+apply subsequent to the effective date of such amendment.
+
+"REGULATORY CHANGE" shall have the meaning ascribed thereto in
+SUBSECTION 4(b)(iii).
+
+"REVOLVING CREDIT COMMITMENT" shall mean Four Million U.S.
+Dollars (U.S. $4,000,000) or the Canadian Dollar Equivalent Amount thereof.
+
+"REVOLVING LOANS" shall have the meaning ascribed thereto in
+SUBSECTION 2(a) hereof.
+
+"REVOLVING NOTE" shall mean the revolving promissory note
+executed by the Borrower in favour of LaSalle pursuant to SUBSECTION 2(d)(ii) in
+substantially the form of EXHIBIT 2(d)(ii) hereto.
+
+"SECURITY" shall have the meaning ascribed thereto in SECTION
+6 hereof.
+
+"SECURITY AGREEMENT" shall mean any security agreement
+executed by the Borrower or any other Loan Party from time to time regarding the
+pledge and grant of mortgages, charges, assignments, hypothecs, pledges and
+security interests to LaSalle of Collateral.
+
+"SPOT RATE" shall mean in respect of a currency, the rate
+determined by LaSalle by reference to applicable currency markets to be the spot
+rate for the purchase by LaSalle of such currency with another currency through
+its main Toronto branch at approximately 11:00 a.m. (Toronto time) on the date
+as of which the foreign exchange computation is made; provided that if at the
+time of any such determination, no such spot rate can be reasonably quoted,
+LaSalle may use any method as it deems applicable to determine such rate
+hereunder, and such determination shall be conclusive absent manifest error.
+
+"STATUTORY PAYABLES REPORT" shall have the meaning ascribed
+thereto in SUBSECTION 8(b)(ii).
+
+"TANGIBLE NET WORTH" shall have the meaning ascribed thereto
+in the U.S. Loan and Security Agreement.
+
+"TAX" shall mean, in relation to any LIBO Rate Loan and the
+applicable LIBO Rate, any tax, levy, impost, duty, deduction, withholding or
+charges of whatever nature required to be paid by LaSalle and/or to be withheld
+or deducted from any payment otherwise required hereby to be made by the
+Borrower to LaSalle; provided, that the term "Tax" shall not include any taxes
+imposed upon the net income of LaSalle.
+
+"TERM LOAN FACILITY" shall have the meaning ascribed thereto
+in SUBSECTION 2(c).
+
+"TERM LOAN" shall have the meaning ascribed thereto in
+SUBSECTION 2(a) hereof.
+
+<PAGE>
+
+13.
+
+"TERM NOTE" shall mean the term promissory note executed by
+the Borrower in favour of LaSalle pursuant to SUBSECTION 2(d)(ii) in
+substantially the form of EXHIBIT 2(d)(ii)A hereto.
+
+"TYPE" shall mean, with respect to any Loan, whether such Loan
+is a Prime Rate Loan, LIBO Rate Loan, BA Equivalent Loan or a U.S. Base Rate
+Loan.
+
+"UNITED STATES" or "U.S." shall mean the United States of
+America.
+
+"UNITED STATES DOLLARS" or "U.S. DOLLARS" shall mean the
+lawful currency of the United States.
+
+"U.S. BASE RATE" shall mean the floating annual rate of
+interest established from time to time by LaSalle as the reference rate for
+determining interest rates on commercial loans made in Canada in U.S. Dollars
+and designated as its U.S. Base Rate. The U.S. Base Rate is not intended to be
+the lowest or most favourable rate of LaSalle in effect at any time. It shall
+vary from time to time as determined by LaSalle.
+
+"U.S. BASE RATE LOAN" shall mean a Revolving Loan or a Term
+Loan in U.S. Dollars that bears interest based on the U.S. Base Rate.
+
+"U.S. LENDER" shall mean LaSalle Business Credit, LLC.
+
+"U.S. LOAN AND SECURITY AGREEMENT" shall mean that certain
+loan and security agreement dated February 4, 2004 between the U.S. Lender and
+the Guarantor, as the same may be amended, restated, supplemented or otherwise
+modified from time to time.
+
+(b)               Accounting Terms and Definitions; Interpretation.
+
+Unless otherwise defined or specified herein, all defined
+terms in SUBSECTION 1(a) as used in this Agreement shall have the meanings set
+out in such subsection, and all accounting terms used in this Agreement shall be
+construed in accordance with GAAP, applied on a basis consistent in all material
+respects with the financial statements delivered by the Borrower to LaSalle on
+or before the Closing Date. The financial statements required to be delivered
+hereunder from and after the Closing Date, and all financial records, shall be
+maintained in accordance with GAAP. If GAAP shall change from the basis used in
+preparing the audited financial statements delivered to LaSalle by the Borrower
+on or before the Closing Date, the certificates required to be delivered
+pursuant to SUBSECTION 8(d) demonstrating compliance with the covenants
+contained herein shall include, upon the request of LaSalle, calculations
+setting forth the adjustments necessary to demonstrate how the Borrower is in
+compliance with the financial covenants based upon GAAP as in effect on the
+Closing Date. References herein to sections and subsections hereof shall include
+such sections and subsections as amended or modified. Nothing in this Agreement
+or in any Other Agreement providing for Permitted Liens or otherwise permitting
+the existence or granting of any lien, charge, security interest or other
+encumbrance (each an "ENCUMBRANCE") shall or shall be deemed to grant any
+subordination or postponement in favour of the holder of any Encumbrance, the
+priority of all such Encumbrances to be determined by other applicable law.
+
+<PAGE>
+
+14.
+
+2.                LOANS
+
+Subject to the terms and conditions of this Agreement and the
+Other Agreements, absent the existence of a Default:
+
+(a)               Revolving and Term Loan.
+
+LaSalle shall make such revolving loans and advances as part
+of the revolving facilities hereunder (the "REVOLVING LOANS") in whatever Type,
+and a term loan and advance under the Term Loan Facility (the "TERM LOAN") to or
+for the account of the Borrower as the Borrower shall from time to time request,
+in accordance with the terms hereof. Subject to the provisions hereof requiring
+earlier repayment, all Revolving Loans and the Term Loan shall be repaid in full
+upon the earlier to occur of (i) the end of the term of this Agreement and (ii)
+their acceleration pursuant to SECTION 14 of this Agreement. If at any time the
+outstanding aggregate principal balance of the Revolving Loans and the Term Loan
+made to the Borrower exceeds any limit expressed herein (whether or not such
+excess results from any change in exchange rates between U.S. Dollars and
+Canadian Dollars), the Borrower shall immediately, and without the necessity of
+a demand by LaSalle, pay to LaSalle (or cause to be paid to LaSalle) such amount
+as may be necessary to eliminate such excess, and LaSalle shall apply any such
+payment to it against the outstanding principal balance of the Revolving Loans
+and the Term Loan as it may determine in its sole discretion. In particular, if
+at any time the outstanding principal balance of the Loans, expressed as the
+Canadian Dollar Equivalent Amount thereof, exceeds the Aggregate Commitment or
+the amount of Revolving Loans, expressed as the Canadian Dollar Equivalent
+Amount thereof, exceeds the amount of the Borrowing Base, the Borrower shall
+immediately pay to LaSalle such amount as may be necessary to eliminate such
+excess, and LaSalle shall apply such payment in such order as LaSalle shall
+determine in its sole discretion. The Borrower hereby authorizes LaSalle to
+charge any of the Borrower's accounts to make any payments, whether of
+principal, interest or otherwise, required by this Agreement.
+
+(b)               Margin and Other Requirements: Revolving Loans.
+
+LaSalle shall make Revolving Loans to the Borrower in U.S.
+Dollars by way of U.S. Base Rate Loans and/or LIBO Rate Loans and/or in Canadian
+Dollars by way of BA Equivalent Loans and/or Prime Rate Loans. The Canadian
+Dollar Equivalent Amount of all such Revolving Loans outstanding at any time
+shall not exceed the lesser of the following:
+
+(i)      the sum of the following amounts at such time
+expressed as the Canadian Dollar Equivalent Amount
+thereof:
+
+A.       an amount in LaSalle's discretion up to
+eighty-five percent (85%) of the value of
+Eligible Inventory, calculated on the basis
+of the net recovery value as determined by
+an appraiser acceptable to LaSalle; minus
+
+B.       such reserve amount(s) as LaSalle elects to
+establish from time to time in the exercise
+of its sole discretion including, without
+limitation, reserves for potential
+preferential creditor items
+
+<PAGE>
+
+15.
+
+(including, without limitation, if needed in
+LaSalle's sole discretion, amounts in
+respect of suppliers' repossession rights
+pursuant to the Bankruptcy and Insolvency
+Act (Canada) or similar suppliers' rights in
+Quebec pursuant to the Quebec Civil Code,
+and amounts in respect of payments that may
+become owing to landlords that have not
+entered into an agreement with LaSalle
+satisfactory to LaSalle); and
+
+(ii)     the Revolving Credit Commitment.
+
+(c)               Margin and Other Requirements: Term Loan.
+
+LaSalle shall make a Term Loan to the Borrower as set out
+below in U.S. Dollars by way of U.S. Base Rate Loan and/or LIBO Rate Loan. The
+amount of such Term Loan outstanding at any time shall not exceed the following
+amounts at such time under a facility (the "TERM LOAN FACILITY") of the lesser
+of (x) One Million Forty-Two Thousand U.S. Dollars (U.S.$ 1,042,000) and (y) an
+amount in LaSalle's discretion up to eighty percent (80%) of the Net Orderly
+Liquidation Value of Eligible Equipment.
+
+There shall be only one advance under the Term Loan Facility,
+which shall be fully advanced on the Closing Date and there shall be no right to
+further Term Loans thereafter under such facility. Notwithstanding the
+foregoing, the Borrower may draw a Term Loan that is a LIBO Rate Loan to replace
+a Term Loan that is a U.S. Base Rate Loan and draw a Term Loan that is a U.S.
+Base Rate Loan to replace a Term Loan that is a LIBO Rate Loan.
+
+(d)               Loan Accounts.
+
+(i)      The accounts or records maintained by LaSalle shall
+be conclusive evidence, absent manifest error, of the
+amount of the Loans made by LaSalle to the Borrower,
+and the interest and payments thereon. Any failure so
+to record or any error in doing so shall not,
+however, limit or otherwise affect the obligation of
+the Borrower hereunder to pay any amount owing with
+respect to the Loans.
+
+(ii)     The Borrower shall execute and deliver to LaSalle a
+Note in respect of Revolving Loans and in respect of
+Loans made or to be made under the Term Loan
+Facility.
+
+3.                REPAYMENT OF TERM LOANS.
+
+(a)               Term Loan Facility.
+
+The Borrower shall on the first day of each month, commencing
+on the first day of March, 2004, pay to LaSalle a principal repayment of the
+Term Loan under the Term Loan Facility in the amount of Fourteen Thousand Four
+Hundred Seventy Three U.S. Dollars. (US $14,473).
+
+<PAGE>
+
+16.
+
+(b)               Mandatory Prepayments of the Term Loan.
+
+(i)      Sale of Assets. Upon receipt of the proceeds of the
+sale or other disposition of any Equipment or real
+property of the Borrower which is subject to a
+mortgage in favour of LaSalle, or if any of the
+Equipment or real property subject to such mortgage
+is damaged, destroyed or taken by a condemnation in
+whole or in part, the proceeds thereof shall be paid
+by the Borrower to the LaSalle as a mandatory
+prepayment of the Term Loan, such payment to be
+applied against the remaining installments of
+principal of the Term Loan in the inverse order of
+their maturities until repaid in full, and then
+against the other Liabilities, in each case as
+determined by LaSalle, in its sole discretion.
+
+(c)               VOLUNTARY PREPAYMENTS.
+
+Subject to SUBSECTIONS 4(c)(iii), (e) AND 9(b), upon payment
+to LaSalle of a prepayment fee equal to the amount of any prepayment multiplied
+by the percentage in SUBSECTION 9(b) that would apply if this Agreement were
+then terminated, the Borrower may prepay the Term Loan at any time, so long as
+the amount of such prepayment is equal to or greater than $500,000.
+
+4.                INTEREST, FEES AND CHARGES
+
+(a)               Rates of Interest.
+
+Interest accrued on all Loans shall be due and be paid by the
+Borrower on the earliest of: (i) the last day of each month (for such month)
+and, in the case of LIBO Rate Loans and BA Equivalent Loans the last day of the
+applicable LIBO Interest Period or BA Period, computed through the immediately
+preceding day; (ii) the date of acceleration following the occurrence of an
+Event of Default in consequence of which LaSalle elects to accelerate their
+maturity and payment; or (iii) termination of this Agreement pursuant to SECTION
+9 hereof. Interest shall accrue on the principal amount of the Revolving Loans
+made to the Borrower outstanding at the end of each day at a fluctuating rate
+per annum equal to one and three quarters percent (1.75%) above the Prime Rate
+in the case of Prime Rate Loans, three and one quarter percent (3.25%) above the
+BA Equivalent Rate on the first day of the applicable BA Period in the case of
+BA Equivalent Loans which rate shall apply during such BA Period, one quarter of
+one percent (0.25%) above the U.S. Base Rate in the case of U.S. Base Rate Loans
+and three and one quarter percent (3.25%) above the LIBO Rate for the applicable
+LIBO Interest Period in the case of LIBO Rate Loans. "LIBO INTEREST PERIOD"
+shall mean any continuous period of thirty (30), sixty (60), ninety (90) or one
+hundred eighty (180) days, as selected from time to time by the Borrower by
+irrevocable notice (in writing, by telecopy, telex, telegram, electronic mail or
+cable) given to LaSalle not less than three (3) Business Days prior to the first
+day of each respective LIBO Interest Period; provided that: (A) each such period
+occurring after such initial period shall commence on the day on which the
+immediately preceding period expires; (B) the final LIBO Interest Period shall
+be such that its expiration occurs on or before the end of the Maturity Date;
+and (C) if for any reason the Borrower shall fail to timely select a period,
+then such Loans shall continue as, or revert to, U.S. Base Rate Loans.
+
+<PAGE>
+
+17.
+
+Interest shall accrue on the principal amount of the Term Loan
+made to the Borrower outstanding at the end of each day at a fluctuating rate
+per annum equal to one half of one percent (0.50%) above U.S. Base Rate in the
+case of U.S. Base Rate Loans and three and one half percent (3.50%) in excess of
+the LIBO Rate for the applicable LIBO Interest Period in the case of LIBO Rate
+Loans.
+
+The rate of interest payable on Prime Rate or U.S. Base Rate
+Loans shall increase or decrease by an amount equal to any increase or decrease
+in the Prime Rate or U.S. Base Rate, effective as of the opening of business on
+the day that any such change in the Prime Rate or U.S. Base Rate occurs. Upon
+and following the occurrence of an Event of Default, and during the continuation
+thereof, the principal amount of all Loans shall bear interest payable on demand
+at a rate per annum equal to the rate of interest then in effect under this
+SUBSECTION 4(a) plus two percent (2%) per annum.
+
+(b)               Other LIBOR Provisions.
+
+(i)      Subject to the provisions of this Agreement, the
+Borrower shall have the option (A) as of any date, to
+convert all or any part of the U.S. Base Rate Loans
+to, or request that new Revolving Loans denominated
+in U.S. Dollars be made as, LIBO Rate Loans of
+various LIBO Interest Periods, (B) as of the last day
+of any LIBO Interest Period, to continue all or any
+portion of the relevant LIBO Rate Loans as LIBO Rate
+Loans; (C) as of the last day of any LIBO Interest
+Period, to convert all or any portion of the LIBO
+Rate Loans to U.S. Base Rate Loans; and (D) at any
+time, to request new Revolving Loans as U.S. Base
+Rate Loans; provided, that Loans may not be continued
+as or converted to LIBO Rate Loans if the
+continuation or conversion thereof would violate the
+provisions of SUBSECTIONS 4(b)(ii) or 4(b)(iii) of
+this Agreement of if an Event of Default has
+occurred.
+
+(ii)     LaSalle's determination of the LIBO Rate as provided
+above shall be conclusive, absent manifest error.
+Furthermore, if LaSalle determines, in good faith
+(which determination shall be conclusive, absent
+manifest error), prior to the commencement of any
+LIBO Interest Period that (A) U.S. Dollar deposits of
+sufficient amount and maturity for funding the Loans
+are not available to LaSalle in the London Interbank
+Eurodollar market in the ordinary course of business,
+or (B) by reason of circumstances affecting the
+London Interbank Eurodollar market, adequate and fair
+means do not exist for ascertaining the rate of
+interest to be applicable to the Loans requested by
+the Borrower to be LIBO Rate Loans or the Loans
+bearing interest at the rates set forth in SUBSECTION
+4(a) of this Agreement shall not represent the
+effective pricing to LaSalle for U.S. Dollar deposits
+of a comparable amount for the relevant period (such
+as for example, but not limited to, official reserve
+requirements required by any Governmental Authority
+to the extent not given effect in determining the
+rate), LaSalle shall promptly notify the Borrower and
+(1) all existing LIBO Rate Loans shall convert to
+U.S. Base Rate Loans upon the end of
+
+<PAGE>
+
+18.
+
+the applicable LIBO Interest Period, and (2) no
+additional LIBO Rate Loans shall be made until such
+circumstances are cured.
+
+(iii)    If, after the date hereof, the introduction of, or
+any change in any applicable law, treaty, rule,
+regulation or guideline or in the interpretation or
+administration thereof by any Governmental Authority
+or any central bank or other fiscal, monetary or
+other authority having jurisdiction over LaSalle or
+its lending offices (a "REGULATORY CHANGE"), shall,
+in the opinion of counsel to LaSalle, make it
+unlawful for LaSalle to make or maintain LIBO Rate
+Loans, then LaSalle shall promptly notify the
+Borrower and (A) the LIBO Rate Loans shall
+immediately convert to U.S. Base Rate Loans on the
+last Business Day of the then existing LIBO Interest
+Period or on such earlier date as required by law and
+(B) no additional LIBO Rate Loans shall be made until
+such circumstance is cured.
+
+(iv)     If, for any reason, a LIBO Rate Loan is paid prior to
+the last Business Day of any LIBO Interest Period or
+if a LIBO Rate Loan does not occur on a date
+specified by the Borrower in its request (other than
+as a result of a default by LaSalle), the Borrower
+agrees to indemnify LaSalle against any loss
+(including any loss on redeployment of the deposits
+or other funds acquired by LaSalle to fund or
+maintain such LIBO Rate Loan) cost or expense
+incurred by LaSalle as a result of such prepayment.
+
+(v)      If any Regulatory Change (whether or not having the
+force of law) shall (A) impose, modify or deem
+applicable any assessment, reserve, special deposit
+or similar requirement against assets held by, or
+deposits in or for the account of or loans by, or any
+other acquisition of funds or disbursements by,
+LaSalle; (B) subject LaSalle or the LIBO Rate Loans
+to any Tax or change the basis of taxation of
+payments to LaSalle of principal or interest due from
+the Borrower to LaSalle hereunder (other than a
+change in the taxation of the overall net income of
+LaSalle); or (C) impose on LaSalle any other
+condition regarding the LIBO Rate Loans or LaSalle's
+funding thereof, and LaSalle shall determine (which
+determination shall be conclusive, absent any
+manifest error) that the result of the foregoing is
+to increase the cost to LaSalle of making or
+maintaining the LIBO Rate Loans or to reduce the
+amount of principal or interest received by LaSalle
+hereunder, then the Borrower shall pay to LaSalle, on
+demand, such additional amounts as LaSalle shall,
+from time to time, determine are sufficient to
+compensate and indemnify LaSalle from such increased
+cost or reduced amount.
+
+(vi)     LaSalle shall receive payments of amounts of
+principal of and interest with respect to the LIBO
+Rate Loans free and clear of, and without deduction
+for, any Taxes. If (A) LaSalle shall be subject to
+any Tax in respect of any LIBO Rate Loan or any part
+thereof or, (B) the Borrower shall be required to
+withhold or deduct any Tax from any such amount, the
+
+<PAGE>
+
+19.
+
+LIBO Rate applicable to such LIBO Rate Loans shall be
+adjusted by LaSalle to reflect all additional costs
+incurred by LaSalle in connection with the payment by
+LaSalle or the withholding by the Borrower of such
+Tax and the Borrower shall provide LaSalle with a
+statement detailing the amount of any such Tax
+actually paid by the Borrower. Determination by
+LaSalle of the amount of such costs shall be
+conclusive, absent manifest error. If, after any such
+adjustment, any part of any Tax paid by LaSalle is
+subsequently recovered by LaSalle, LaSalle shall
+reimburse the Borrower to the extent of the amount so
+recovered. A certificate of an officer of LaSalle
+setting forth the amount of such recovery and the
+basis therefore shall be conclusive, absent manifest
+error.
+
+(vii)    Each request for LIBO Rate Loans shall be in an
+amount less than One Million U.S. Dollars (U.S.
+$1,000,000), and in integral multiples of, One
+Hundred Thousand U.S. Dollars (U.S. $100,000).
+
+(viii)   Unless otherwise specified by the Borrower, all Loans
+in U.S. Dollars shall be U.S. Base Rate Loans.
+
+(ix)     No more than five LIBO Interest Periods may be in
+effect with respect to outstanding LIBO Rate Loans at
+any one time.
+
+(c)               Other BA Equivalent Provisions.
+
+(i)      Subject to the provisions of this Agreement, the
+Borrower shall have the option (A) as of any date, to
+convert all or any part of the Prime Rate Loans to,
+or request that new Revolving Loans denominated in
+Canadian Dollars be made as, BA Equivalent Loans of
+various BA Periods; (B) as of the last day of any BA
+Period, to continue all or any portion of the
+relevant BA Equivalent Loans as BA Equivalent Loans ;
+(C) as of the last day of any BA Period to convert
+all or any portion of the BA Equivalent Loans to
+Prime Rate Loans. Any BA Equivalent Loan not repaid
+in full on the end of the applicable BA Period or its
+acceleration pursuant to SECTION 14 of this Agreement
+shall be deemed to be a Prime Rate Loan and shall be
+subject to the provisions of this Agreement
+applicable to Prime Rate Loans.
+
+(ii)     LaSalle shall not be obliged to advance or convert to
+any BA Equivalent Loan during the continuance of any
+Default of Event of Default or if such Loan: (A)
+matures on a day which is not a Business Day; (B)
+matures subsequent to the Maturity Date; (C) has a
+term of less than thirty (30) days or more than
+ninety (90) days (each such term a "BA PERIOD"); or
+(D) is less than One Million Canadian Dollars (Cdn.
+$1,000,000), or an integral multiple of One Hundred
+Thousand Canadian Dollars (Cdn. $100,000) in excess
+thereof.
+
+<PAGE>
+
+20.
+
+(iii)    Subject to the provisions of this Agreement requiring
+earlier repayment, no prepayment of any BA Equivalent
+Loan shall be made prior to the maturity date of such
+BA Equivalent Loan.
+
+(iv)     If, for any reason, a BA Equivalent Loan is paid
+prior to the last Business Day of any BA Period or if
+a BA Equivalent Loan does not occur on a date
+specified by the Borrower in its request (other than
+as a result of a default by LaSalle), the Borrower
+agrees to indemnify LaSalle against any loss
+(including any loss on redeployment of the deposits
+or other funds acquired by LaSalle to fund or
+maintain such BA Equivalent Loan) cost or expense
+incurred by LaSalle as a result of such prepayment.
+
+(v)      Unless otherwise specified by the Borrower, all Loans
+in Canadian Dollars shall be Prime Rate Loans.
+
+(d)               Computation of Interest and Fees.
+
+Interest hereunder shall be determined daily, and calculated
+monthly not in advance and (in the case of LIBO Rate Loans) at the end of any
+applicable LIBO Interest Period, both before and after default and judgment. In
+the case of U.S. Base Rate Loans and LIBO Rate Loans, interest shall be computed
+on the actual number of days elapsed over a year consisting of three hundred and
+sixty (360) days. In the case of Prime Rate Loans or BA Equivalent Loans,
+interest shall be computed on the actual number of days elapsed over a year
+consisting of three hundred and sixty-five (365) days. For the purpose of the
+Interest Act (Canada) only, the yearly rate of interest to which any rate for a
+period less than a year is equivalent is such rate, divided by the number of
+days in such period, and multiplied by the actual number of days in the year.
+Notwithstanding any other provision hereof, all determinations and calculations
+of interest rates and amounts hereunder by LaSalle shall be conclusive absent
+(in the case of any calculation of an amount based on a particular rate)
+manifest mathematical error in calculating such amount. For the purpose of
+computing interest hereunder, all items of payment received by LaSalle shall be
+deemed applied by LaSalle on account of the related Loan (subject to final
+payment of such items) upon receipt by LaSalle of good funds in LaSalle's
+account located in Toronto, Ontario.
+
+(e)               Maximum Interest.
+
+It is the intent of the parties that the rate of interest and
+the other charges under this Agreement shall be lawful; therefore, if for any
+reason the interest or other charges payable under this Agreement are found by a
+court of competent jurisdiction, in a final determination, to exceed the limit
+which LaSalle may lawfully charge, then the obligation to pay interest and other
+charges shall automatically be reduced to such limit and, if any amount in
+excess of such limit shall have been paid, then such amount shall be refunded to
+the payor thereof.
+
+(f)               Unused Line Fee.
+
+The Borrower shall pay to LaSalle monthly in arrears on the
+first Business Day of each month, an unused line fee equal to three-eighths of
+one percent (.375%) per annum on the daily average amount by which the Revolving
+Credit Commitment exceeds the outstanding principal balance of the Revolving
+Loans, all as defined in this Agreement and all expressed as
+
+<PAGE>
+
+21.
+
+the Canadian Dollar Equivalent Amount thereof. The unused line fee shall accrue
+from the Closing Date until the last day of the term of this Agreement.
+
+(g)               Examination and Appraisal Fees.
+
+In addition to the costs and expenses described in SUBSECTION
+11(p) hereof, the Borrower shall pay to LaSalle an examination fee equal to
+Seven Hundred and Fifty U.S. Dollars (U.S. $750) per person per day for any
+audit, inspection or other activity described in the first sentence of
+SUBSECTION 11(c) hereof and conducted or undertaken before or after the date of
+this Agreement, plus all out-of-pocket expenses incurred by LaSalle including,
+without limitation, travel expenses, payable as incurred.
+
+(h)               Capital Adequacy Charge.
+
+If LaSalle shall have determined that the adoption of any law,
+rule or regulation regarding capital adequacy, or any change therein or in the
+interpretation or application thereof, or compliance by LaSalle with any request
+or directive regarding capital adequacy (whether or not having the force of law)
+from any central bank or Governmental Authority enacted after the Closing Date,
+does or shall have the effect of reducing the rate of return on LaSalle's
+capital as a consequence of its obligations hereunder to a level below that
+which LaSalle could have achieved but for such adoption, change or compliance
+(taking into consideration LaSalle's policies with respect to capital adequacy)
+by a material amount, then from time to time, after submission by LaSalle to the
+Borrower of a written demand therefor (the "CAPITAL ADEQUACY DEMAND") together
+with the certificate described below, the Borrower shall pay to LaSalle such
+additional amount or amounts (the "CAPITAL ADEQUACY CHARGE") as will compensate
+LaSalle for such reduction in respect of its Loans hereunder. A certificate of
+LaSalle claiming entitlement to payment as set forth above shall be conclusive
+in the absence of manifest error. Such certificate shall set forth the nature of
+the occurrence giving rise to such reduction, the amount of the Capital Adequacy
+Charge to be paid to LaSalle, and the method by which such amount was
+determined. In determining such amount, LaSalle may use any averaging and
+attribution method, applied on a non-discriminatory basis.
+
+5.                LOAN ADMINISTRATION
+
+(a)               Loan Requests.
+
+A request for a Loan shall be made or shall be deemed to be
+made, each in the following manner: (i) the Borrower shall give LaSalle same day
+notice, no later than 12:00 noon (Toronto time) on such day, of its intention to
+borrow a Prime Rate Loan, BA Equivalent Loan or U.S. Base Rate Loan and at least
+three (3) Business Days prior notice of its request of a Revolving Loan as a
+LIBO Rate Loan, which notice shall be substantially in the form of EXHIBIT 6(a)
+hereto (each a "NOTICE OF BORROWING"), provided, however, that no such request
+may be made at a time when there exists a Default or an Event of Default; and
+(ii) the coming due of any amount required to be paid under this Agreement or
+any Note, whether on account of interest or for any other liability, shall be
+deemed irrevocably to be a request for a Prime Rate Loan or U.S. Base Rate Loan
+as applicable on the due date thereof in the amount required to pay such
+interest or other liability. As an accommodation to the Borrower, LaSalle may
+permit telephone requests
+
+<PAGE>
+
+22.
+
+for Loans and electronic transmittal of instructions, authorizations, agreements
+or reports to LaSalle. Unless the Borrower specifically directs LaSalle in
+writing not to accept or act upon telephonic or electronic communications,
+LaSalle shall have no liability to the Borrower for any loss or damage suffered
+as a result of LaSalle's honouring of any requests, execution of any
+instructions, authorizations or agreements or reliance on any reports
+communicated to it telephonically or electronically and purporting to have been
+sent to LaSalle by the Borrower and LaSalle shall have no duty to verify the
+origin of any such communication or the authority of the Person sending it. Each
+Notice of Borrowing shall be irrevocable by and binding on the Borrower. The
+Borrower, at its option, may choose BA Equivalent Loans, LIBO Rate Loans, Prime
+Rate Loans or U.S. Base Rate Loans for Revolving Loans, and LIBO Rate Loans or
+U.S. Base Rate Loans for the Term Loan.
+
+(b)               Disbursement.
+
+The Borrower hereby irrevocably authorizes LaSalle to disburse
+the proceeds of each Loan requested by the Borrower, or deemed to be requested
+by the Borrower and to be disbursed or paid by LaSalle, as follows: (i) the
+proceeds of each Loan requested under SUBSECTION 5(a)(i) and to be disbursed or
+paid by LaSalle, shall be disbursed by LaSalle in Canadian Dollars or U.S.
+Dollars as applicable in immediately available funds, in the case of the initial
+borrowing, in accordance with the terms of the written disbursement letter from
+the Borrower, and in the case of each subsequent borrowing, by wire transfer or
+otherwise to such bank account or directly to a supplier as may be agreed upon
+by the Borrower and LaSalle from time to time; and (ii) the proceeds of each
+Revolving Loan deemed requested under SUBSECTION 5(a)(ii) shall be disbursed by
+LaSalle by way of direct payment of the relevant interest or other liability.
+
+6.                SECURITY
+
+Security. As security for the payment of all Liabilities and
+for the payment or other satisfaction of all other indebtedness and liabilities
+of the Borrower, the Borrower agrees to deliver or cause to be delivered to
+LaSalle each of the following (collectively, the "SECURITY"):
+
+(a)               Debenture in the principal amount of $15,000,000 in favour of
+LaSalle by the Borrower charging all present and future property, assets and
+undertaking of the Borrower;
+
+(b)               Charge/Mortgage of Land in the principal amount of $15,000,000
+in favour of LaSalle by the Borrower (with debenture attached) and registered on
+title to the Mississauga Properties in respect of the charge of the Borrower's
+leasehold interest therein.
+
+(c)               Delivery Agreement in favour of LaSalle by the Borrower in
+respect of its Debenture;
+
+(d)               Security under Section 427 of the Bank Act from the Borrower
+in favour of and in the forms provided by LaSalle including, without limitation,
+a notice of intention, an agreement to give security, an application for credit
+and promise to give security, etc. and a grant of security under section 427;
+
+<PAGE>
+
+23.
+
+(e)               Guarantee by the Guarantor in favour of LaSalle in respect of
+all Liabilities;
+
+(f)               General Security Agreement by the Guarantor in favour of
+LaSalle;
+
+(g)               Assignments of Insurance Monies which may become payable in
+respect of the property of each of the Borrower and the Guarantor (as
+acknowledged by the insurer) in favour of LaSalle; and
+
+(h)               such other security and supporting documents, certificates or
+instruments in respect of the Borrower and the Guarantor (including third party
+postponement and subordinations, landlord and mortgagee waivers) as may be
+required by LaSalle from time to time.
+
+7.                COLLECTIONS
+
+(a)               Blocked Accounts and Lock Boxes.
+
+Until a notice is received by the Borrower from LaSalle as
+provided hereinafter, the Borrower shall collect and enforce all of its
+Accounts. At and following such time as LaSalle, in its sole discretion, so
+notifies the Borrower, the Borrower shall establish U.S. Dollar and Canadian
+Dollar accounts (each a "BLOCKED ACCOUNT") in LaSalle's name with a financial
+institution acceptable to LaSalle, into which the Borrower will immediately
+deposit all payments received by the Borrower (including all payments made for
+Inventory or services sold or rendered by the Borrower), in the identical form
+in which such payments were made, whether by cash or cheque. At and following
+such time as LaSalle, in its sole discretion, so notifies the Borrower, the
+Borrower shall direct all of its Account Debtors to make all payments on the
+Accounts directly to a post office box (each a "LOCK BOX") with a financial
+institution acceptable to, and in the name and under exclusive control of,
+LaSalle. All payments received in the Lock Box shall be deposited in the Blocked
+Account. If the Borrower, any affiliate or subsidiary corporation of the
+Borrower, or any shareholder, officer, director, employee or agent of the
+Borrower or any affiliate or subsidiary corporation, or any other Person acting
+for or in concert with the Borrower shall receive any monies, cheques, notes,
+drafts or other payments relating to or as proceeds of Accounts or other
+Collateral, the Borrower and each such Person shall receive all such items in
+trust for, and as the sole and exclusive property of, LaSalle and, immediately
+upon receipt thereof, shall remit the same (or cause the same to be remitted) in
+kind to the appropriate Blocked Account. Each financial institution with which a
+Lock Box and Blocked Account are established shall acknowledge and agree, in a
+manner satisfactory to LaSalle, that the amounts on deposit in such Lock Box and
+Blocked Account are the sole and exclusive property of LaSalle, that such
+financial institution has no right to set off against such Lock Box or Blocked
+Account or against any other account maintained by such financial institution
+into which the contents of such Blocked Account are transferred, and that such
+financial institution shall wire, or otherwise transfer in immediately available
+funds in a manner satisfactory to LaSalle, funds deposited in the Blocked
+Account on a daily basis as such funds are collected. The Borrower agrees that
+all payments made to each Blocked Account established by the Borrower or
+otherwise received by LaSalle, whether in respect of the Accounts of the
+Borrower or as proceeds of other Collateral of the Borrower or otherwise, will
+be applied on account of the Liabilities of the Borrower in accordance with the
+terms of this Agreement. The Borrower
+
+<PAGE>
+
+24.
+
+agrees to pay all fees, costs and expenses which the Borrower incurs in
+connection with opening and maintaining a Lock Box and Blocked Accounts. All of
+such fees, costs and expenses which remain unpaid by the Borrower pursuant to
+any Lock Box or Blocked Account agreement with the Borrower, to the extent same
+shall have been paid by LaSalle hereunder, shall constitute Revolving Loans
+hereunder, shall be payable to LaSalle by the Borrower upon demand, and, until
+paid, shall bear interest at the highest rate then applicable to the Revolving
+Loans hereunder. All cheques, drafts, instruments and other items of payment or
+proceeds of Collateral delivered to LaSalle in kind shall be endorsed by the
+Borrower to LaSalle, and, if that endorsement of any such item shall not be made
+for any reason, LaSalle is hereby irrevocably authorized to endorse the same on
+the Borrower's behalf. For the purpose of this paragraph, the Borrower
+irrevocably hereby makes, constitutes and appoints LaSalle (and all Persons
+designated by LaSalle for that purpose) as the Borrower's true and lawful
+attorney and agent-in-fact (i) to endorse the Borrower's name upon said items of
+payment and/or proceeds of Collateral of the Borrower and upon any Chattel
+Paper, document, instrument, invoice or similar document or agreement relating
+to any Account of the Borrower or goods pertaining thereto; (ii) to take control
+in any manner of any item of payment or proceeds thereof; (iii) to have access
+to any lock box or postal box into which any of the Borrower's mail is
+deposited; and (iv) open and process all mail addressed to the Borrower and
+deposited therein; provided, however, that LaSalle shall not exercise any such
+powers described in SUBPARAGRAPHS (i), (ii) (except for routine Lock Box
+payments/proceeds or through any Blocked Account), (iii) AND (iv) unless and
+until an Event of Default has occurred.
+
+(b)               Rights of LaSalle.
+
+LaSalle may, at any time after the occurrence of an Event of
+Default, and from time to time thereafter, whether before or after notification
+to any Account Debtor and whether before or after the maturity of any of the
+Liabilities, (i) enforce collection of any of the Borrower's Accounts or
+contract rights by suit or otherwise; (ii) exercise all of the Borrower's rights
+and remedies with respect to proceedings brought to collect any Accounts; (iii)
+surrender, release or exchange all or any part of any Accounts of the Borrower,
+or compromise or extend or renew for any period (whether or not longer than the
+original period) any indebtedness thereunder; (iv) sell or assign any Account of
+the Borrower upon such terms, for such amount and at such time or times as
+LaSalle deems advisable; (v) prepare, file and sign the Borrower's name on any
+proof of claim in bankruptcy or other similar document against any Account
+Debtor indebted on an Account of the Borrower; and (vi) do all other acts and
+things which are necessary, in LaSalle's sole discretion, to fulfill the
+Borrower's obligations under this Agreement and to allow LaSalle to collect the
+Accounts. In addition to any other provision hereof, LaSalle may at any time on
+or after the occurrence of an Event of Default, at the Borrower's expense,
+notify any parties obligated on any of the Accounts of the Borrower to make
+payment directly to LaSalle of any amounts due or to become due thereunder.
+
+(c)               Application of Collections.
+
+LaSalle shall, upon receipt by LaSalle at its office in
+Toronto, Ontario of cash or other immediately available funds from collections
+of items of payment and proceeds of any Collateral, apply the whole or any part
+of such collections or proceeds against the Liabilities in such order as LaSalle
+shall determine in its sole discretion.
+
+<PAGE>
+
+25.
+
+(d)               Dealings by LaSalle.
+
+In its sole credit judgment, without waiving or releasing any
+obligation, liability or duty of the Borrower under this Agreement or the Other
+Agreements or any Event of Default, at any time or times hereafter, LaSalle may
+(but shall not be obligated to) pay, acquire or accept an assignment of any
+security interest, lien, encumbrance or claim asserted by any Person in, upon or
+against the Collateral. All sums paid by LaSalle in respect thereof and all
+costs, fees and expenses (including, without limitation, legal fees and
+disbursements (on a solicitor-client basis) for both inside and outside counsel,
+all court costs and all other charges relating thereto) incurred by LaSalle
+shall constitute Revolving Loans, payable by the Borrower to LaSalle on demand
+and, until paid, shall bear interest at the highest rate then applicable to
+Revolving Loans hereunder.
+
+(e)               Receipts by Borrower.
+
+Immediately upon the Borrower's receipt of any portion of the
+Collateral consisting of an agreement, Instrument, Document of Title or Chattel
+Paper, the Borrower shall deliver the original thereof to LaSalle together with
+an appropriate endorsement or other specific evidence of assignment thereof to
+LaSalle (in form and substance acceptable to LaSalle). If an endorsement or
+assignment of any such items shall not be made for any reason, LaSalle is hereby
+irrevocably authorized, as the Borrower's attorney and agent-in-fact, to endorse
+or assign the same on the Borrower's behalf.
+
+8.                SCHEDULES AND REPORTS
+
+(a)               Activity Reports.
+
+The Borrower shall deliver to LaSalle prior to any Borrowing,
+and in any event not less frequently than weekly (subject to more frequent
+reporting at the discretion of LaSalle) by telefacsimile at an address and
+number advised by LaSalle from time to time, a report, substantially in the form
+of EXHIBIT 8(a) hereto, of the Borrower's inventory activity, invoice activity
+and details of credit memos and credit notes issued by the Borrower, and a
+schedule showing cash receipts, all for the previous week or lesser period which
+shall be accompanied by copies of the Borrower's sales journal, cash receipts
+journal and credit memo journal for the relevant period.
+
+(b)               Borrowing Base Certificate.
+
+Within twenty (20) days after the close of each calendar
+month, and at such other times as may be requested by LaSalle from time to time
+hereafter, the Borrower shall deliver to LaSalle a certificate for such month,
+which shall include calculations of the Borrowing Base (excluding reserves but
+including calculations of Eligible Inventory) (a "BORROWING BASE CERTIFICATE"),
+and shall also deliver to LaSalle (and electronically to Collateral Services
+Inc. in the case of accounts payable and Accounts trial balances) (i) an aged
+trial balance of the Borrower's accounts payable as of the end of such month,
+together with a listing of any cheques prepared but not sent in respect of any
+accounts payable (ii) a report substantially in the form of EXHIBIT 8(b)(ii)
+hereto in respect of all statutory payables coming due during such month from
+
+<PAGE>
+
+26.
+
+the Borrower, identifying all such payables by type and amount and indicating
+date of payment of each, such payables to include unemployment insurance, Canada
+Pension Plan and income tax employee withholdings, goods and services and retail
+sales taxes, and all other payables in respect of which any statutory lien or
+trust arises (a "STATUTORY PAYABLES REPORT"), and (iii) a trial balance
+identifying by age each Account of the Borrower, a reconciliation thereof to the
+above Borrowing Base calculations, and copies of the invoices when requested by
+LaSalle (with evidence of shipment attached) pertaining to each such Account,
+for the month (or other applicable period) immediately preceding. At such times
+as may be requested by LaSalle from time to time hereafter, the Borrower shall
+deliver to LaSalle; (x) copies of all account statements received in respect of
+its chequing and any other accounts held with any financial institution; (y)
+such additional schedules, certificates, reports and information with respect to
+the Collateral as LaSalle may from time to time require and (z) a collateral
+assignment of any or all items of Collateral. LaSalle, through its officers,
+employees or agents, shall have the right, at any time and from time to time in
+LaSalle's name, in the name of a nominee of LaSalle or in the Borrower's name,
+to verify the validity, amount or any other matter relating to any of the
+Borrower's Accounts, by mail, telephone, telegraph or otherwise. The Borrower
+shall reimburse LaSalle, on demand, for all costs, fees and expenses incurred by
+LaSalle in this regard.
+
+(c)               Inventory Reports.
+
+Without limiting the generality of the foregoing, the Borrower
+shall deliver to LaSalle, at least once a month within twenty (20) days after
+the close of each month (or more frequently when requested by LaSalle), a report
+with respect to the Borrower's Inventory (including a warehouse month end stock
+status report if applicable), including a reconciliation thereof to the above
+Borrowing Base calculations, a reconciliation of any perpetual inventory report
+to the general ledger and an inventory declaration in form and substance
+satisfactory to LaSalle in its absolute discretion. The Borrower shall
+immediately notify LaSalle of any event causing loss or depreciation in value of
+the Borrower's Inventory.
+
+(d)               Financial Reports.
+
+The Borrower agrees to deliver to LaSalle the following
+financial information, all of which shall be prepared in accordance with GAAP
+consistently applied: (i) no later than twenty (20) days after the end of each
+calendar month, copies of internally prepared financial statements of the
+Borrower (individually and on a consolidated basis with the Guarantor) on a
+monthly and year-to-date basis with a comparison to the prior year and budget
+including, without limitation, balance sheets and statements of income, retained
+earnings and cash flow certified by the chief financial officer of the Borrower
+and accompanied by a Financial Reporting Certificate, (ii) no later than sixty
+(60) days before the end of the Borrower's fiscal year, a detailed budget and
+statement of cash flow projections for it during the following fiscal year, in
+such detail as LaSalle may require, and (iii) no later than ninety (90) days
+after the end of the Borrower's fiscal year, annual audited financial statements
+of the Borrower (individually and on a consolidated basis with the Guarantor)
+certified by independent chartered accountants satisfactory to LaSalle, together
+with such accountants' report thereon to management if such is made.
+
+<PAGE>
+
+27.
+
+(e)               Authorized Officer.
+
+Unless otherwise provided for herein, all schedules,
+certificates, reports and assignments and other items delivered by the Borrower
+to LaSalle hereunder shall be executed by an Authorized Officer and shall be in
+such form and contain such information as LaSalle shall request. The Borrower
+shall deliver from time to time such other schedules and reports pertaining to
+the Collateral of the Borrower, and all such other financial information, as
+LaSalle may request.
+
+9.                TERMINATION
+
+(a)               Survival of Security Interests, Liens, etc.
+
+This Agreement shall be in effect from the date hereof until
+January 30, 2007 unless the due date of the Liabilities is accelerated pursuant
+to SECTION 14 hereof in which event this Agreement shall terminate on the date
+thereafter that the Liabilities are paid in full, provided, however, that the
+security interests and liens created under this Agreement and the Other
+Agreements shall survive such termination until the date upon which full and
+final payment and satisfaction in full of the Liabilities shall have occurred.
+At such time as the Borrower has repaid all of the Liabilities and this
+Agreement has terminated, (i) the Borrower shall deliver to LaSalle a release,
+in form and substance satisfactory to LaSalle, of all obligations and
+liabilities of LaSalle and its officers, directors, employees, agents, parents,
+subsidiaries and affiliates to the Borrower, and if the Borrower is obtaining
+new financing from another lender, the Borrower shall deliver such lender's
+indemnification of LaSalle, in form and substance satisfactory to LaSalle, for
+cheques which LaSalle has credited to the Borrower's account held at LaSalle,
+but which subsequently are dishonoured for any reason and (ii) upon the
+Borrower's request and upon receipt of the release and indemnification described
+in SUBPARAGRAPH (i) above, LaSalle shall deliver to the Borrower a release in
+form and substance satisfactory to LaSalle.
+
+(b)               Prepayment.
+
+If the Borrower terminates this Agreement or reduces the
+amount of the Revolving Credit Commitment at any time before the end of the term
+hereof, the Borrower agrees to pay to LaSalle, as a prepayment fee, in addition
+to the payment of all other Liabilities owing by the Borrower (in the case of
+any such termination), an amount equal to: (i) three percent (3%) of the amount
+of the Aggregate Commitment, or of the amount of the applicable reduction in the
+Revolving Credit Commitment, if this Agreement is terminated or such reduction
+is made (as applicable) during the first year of the term of this Agreement;
+(ii) two percent (2%) of the amount of the Aggregate Commitment, or of the
+amount of the applicable reduction in the Revolving Credit Commitment, if this
+Agreement is terminated or such reduction is made (as applicable) during the
+second year of the term of this Agreement; or (iii) one percent (1%) of the
+amount of the Aggregate Commitment, or of the amount of the applicable reduction
+in the Revolving Credit Commitment, if this Agreement is terminated or such
+reduction is made (as applicable) during the third year of the term of this
+Agreement or at any time thereafter. The Borrower and LaSalle acknowledge and
+agree that, as a direct and proximate result of the termination of this
+Agreement under the aforesaid circumstances, or prepayment otherwise, or
+reduction as aforesaid, LaSalle will suffer a loss in an amount which is
+
+<PAGE>
+
+28.
+
+difficult to calculate and determine with certainty and, therefore, as a result
+of the Borrower's and LaSalle's reasonable endeavour to ascertain and agree in
+advance to the amount necessary to compensate LaSalle for said loss, the
+Borrower has agreed to pay the aforesaid prepayment and other fees set out
+herein.
+
+10.               REPRESENTATIONS AND WARRANTIES
+
+The Borrower hereby makes the following representations,
+warranties and covenants to LaSalle:
+
+(a)               the financial statements delivered or to be delivered by the
+Borrower to LaSalle at or prior to the date of this Agreement and at all times
+subsequent thereto accurately reflect the financial condition of the Borrower
+and each other Loan Party for which such statements are delivered, and since the
+date of such financial statements delivered to LaSalle most recently prior to
+the date of this Agreement, no event or condition has occurred which has had, or
+is reasonably likely to have, a Material Adverse Effect with respect to the
+Borrower or any other Loan Party;
+
+(b)               the office where the Borrower keeps its books, records and
+accounts (or copies thereof) concerning the Collateral, the Borrower's principal
+place of business and all other places of business, locations of Collateral and
+post office boxes of the Borrower are as set forth in SCHEDULE B hereto; the
+Borrower shall promptly (but in no event less than ten (10) days prior thereto)
+advise LaSalle in writing of the proposed opening of any new place of business,
+the closing of any existing place of business, any change in the location of the
+Borrower's books, records and accounts (or copies thereof) or the opening or
+closing of any post office box of the Borrower;
+
+(c)               SCHEDULE 10(c) contains a complete list of all Equipment of
+the Borrower having a purchase price exceeding $5,000 as at the date of this
+Agreement; the Collateral, including without limitation the Borrower's Equipment
+is, and shall be kept, or, in the case of vehicles, based, only at the addresses
+set forth on SCHEDULE B, and at other locations within Ontario of which LaSalle
+has been advised by the Borrower in writing;
+
+(d)               if any of the Collateral consists of Goods of a type normally
+used in more than one province, whether or not actually so used, the Borrower
+shall immediately give written notice to LaSalle of any use of any such Goods in
+any province other than a province in which the Borrower has previously advised
+LaSalle such Goods shall be used, and such Goods shall not, unless LaSalle shall
+otherwise consent in writing, be used outside of Ontario;
+
+(e)               no security agreement, financing statement or analogous
+instrument exists or shall exist with respect to any of the Collateral or any
+property or asset of a Loan Party other than any security agreement, financing
+statement or analogous instrument evidencing Permitted Liens;
+
+(f)               each item of Inventory which the Borrower shall, expressly or
+by implication, request LaSalle to classify as Eligible Inventory, respectively,
+shall, as of the time when such request is made, conform in all respects to the
+requirements of such classification as set forth in the definition of Eligible
+Inventory and as otherwise established by LaSalle from time to time, and the
+Borrower shall promptly notify LaSalle in writing if any such Eligible Inventory
+shall
+
+<PAGE>
+
+29.
+
+subsequently become ineligible; no Accounts owing from any party related to or
+affiliated with the Borrower, the Guarantor or any of their respective direct or
+indirect shareholders, directors, officers or employees is or shall be due and
+payable more than thirty (30) days after the stated invoice date thereof;
+
+(g)               the Borrower is and shall at all times be the lawful owner of
+all Collateral now purportedly owned or hereafter purportedly acquired by the
+Borrower, and the Guarantor has good and marketable title to its property
+charged as security for its guarantee in favour of LaSalle and is and shall at
+all times be the lawful owner of all of its property and assets now purportedly
+owned or hereafter purportedly acquired by it, free from all liens, claims,
+security interests and encumbrances whatsoever, whether voluntarily or
+involuntarily created and whether or not perfected, other than the Permitted
+Liens;
+
+(h)               the Borrower and each other Loan Party has the right and power
+and is duly authorized and empowered to enter into, execute and deliver this
+Agreement and the Other Agreements to which it is a party and perform its
+obligations hereunder and thereunder as applicable; their execution, delivery
+and performance of this Agreement and the Other Agreements does not and shall
+not conflict with the provisions of any statute, regulation, ordinance or rule
+of law, or any agreement, contract or other document which may now or hereafter
+be binding on any of them, and their execution, delivery and performance of this
+Agreement and the Other Agreements as applicable shall not result in the
+imposition of any lien or other encumbrance upon any of their property under any
+existing indenture, mortgage, deed of trust, loan or credit agreement or other
+agreement or instrument by which any of them or any of their property may be
+bound or affected;
+
+(i)               except as otherwise disclosed on SCHEDULE 10(i), there are no
+actions or proceedings which are pending or, to the best of the Borrower's
+knowledge, threatened against the Borrower or any other Loan Party and the
+Borrower shall, and shall cause each other Loan Party to, promptly upon becoming
+aware of any such pending or threatened action or proceeding, give written
+notice thereof to LaSalle;
+
+(j)               the Borrower and each of the other Loan Parties has obtained
+all licenses, authorizations, approvals and permits required or desirable in
+their respective businesses, and the Borrower is and shall remain in compliance
+in all material respects with all applicable federal, provincial, local and
+foreign statutes, orders, regulations, rules and ordinances (including, without
+limitation, statutes, orders, regulations, rules and ordinances relating to
+taxes, employer and employee contributions and similar items, securities,
+employee retirement and welfare benefits, employee health and safety or
+environmental matters), the failure to comply with which would have a Material
+Adverse Effect with respect to the Borrower, and there are no conditions with
+respect to such licenses, authorizations, approvals and permits that materially
+affect or restrict the transferability of such licenses, authorizations,
+approvals and permits;
+
+(k)               all written information now, heretofore or hereafter furnished
+by the Borrower or any other Loan Party to LaSalle is and shall be true and
+correct as of the date with respect to which such information was or is
+furnished (except for financial projections, which have been and shall be
+prepared in good faith based upon reasonable assumptions);
+
+<PAGE>
+
+30.
+
+(l)               except as otherwise permitted hereby, the Borrower is not
+conducting, permitting or suffering to be conducted, nor shall it conduct,
+permit or suffer to be conducted, any activities pursuant to or in connection
+with which any of the Collateral is now, or will (while any Liabilities remain
+outstanding) be owned by any affiliate corporation;
+
+(m)               the Borrower was formed by incorporation under the Ontario
+Business Corporations Act on October 21, 2002. The Borrower shall notify LaSalle
+in writing within ten (10) days of the change of its name or that of any other
+Loan Party or the use of any tradenames or division names not previously
+disclosed to LaSalle in writing. The Guarantor is a corporation duly
+incorporated and subsisting under the laws of Minnesota;
+
+(n)               with respect to the Borrower's Equipment: (i) subject to
+Permitted Liens, the Borrower has good and indefeasible and merchantable title
+to and ownership of all Equipment; (ii) the Borrower shall keep and maintain the
+Equipment in good operating condition and repair and shall make all necessary
+replacements thereof and renewals thereto so that the value and operating
+efficiency thereof shall at all times be preserved and maintained, ordinary wear
+and tear excepted; (iii) the Borrower has not permitted and shall not permit any
+such items to become a fixture to real estate or an accession to other personal
+property; (iv) from time to time the Borrower may sell obsolete, unused or worn
+out Equipment, so long as the proceeds of disposition shall be paid to LaSalle
+to be applied to such Loans then outstanding as LaSalle shall determine at its
+discretion; and (v) the Borrower, immediately on demand by LaSalle, shall
+deliver to LaSalle any and all evidence of ownership of, including, without
+limitation, certificates of title and applications of title to, any of the
+Equipment;
+
+(o)               this Agreement and the Other Agreements to which the Borrower
+or another Loan Party is a party are the legal, valid and binding obligations of
+the Borrower or such Loan Party as applicable and are enforceable against the
+Borrower or such Loan Party as applicable in accordance with their respective
+terms, except to the extent that such enforceability may be limited by
+applicable bankruptcy, insolvency, reorganization, moratorium and similar laws
+affecting the rights of creditors generally;
+
+(p)               the Borrower and each other Loan Party is solvent, is able to
+pay its debts as they become due and has capital sufficient to carry on its
+business, now owns property having a value both at fair valuation and at present
+fair saleable value greater than the amount required to pay its debts, and will
+not be rendered insolvent by the execution and delivery of this Agreement or any
+of the Other Agreements or by completion of the transactions contemplated
+hereunder or thereunder;
+
+(q)               the Borrower is not now obligated, whether directly or
+indirectly, for any loans (including shareholder loans) or other indebtedness or
+liability (contingent or otherwise) other than (i) the Liabilities; (ii)
+indebtedness and liabilities disclosed to LaSalle on SCHEDULE 10(q); (iii)
+unsecured indebtedness to trade creditors arising in the ordinary course of the
+Borrower's business and (iv) unsecured indebtedness arising from the endorsement
+of drafts and other instruments for collection, in the ordinary course of the
+Borrower's business. The Borrower is not in arrears in payment of any amount to
+any supplier of Inventory or any governmental body or agency including, without
+limitation, amounts owing or to be remitted with respect to
+
+<PAGE>
+
+31.
+
+employee withholdings for income tax or Canada Pension Plan, goods and services
+tax or provincial sales taxes.
+
+(r)               the Borrower does not own any margin securities, and none of
+the proceeds of the Revolving Loans hereunder shall be used for the purpose of
+purchasing or carrying any margin securities or for the purpose of reducing or
+retiring any indebtedness which was originally incurred to purchase any margin
+securities;
+
+(s)               except as otherwise disclosed on SCHEDULE 10(s), the Borrower
+has no subsidiary corporation or affiliate corporation or divisions, nor is the
+Borrower engaged in any joint venture or partnership with any other Person;
+
+(t)               each of the Borrower and each other Loan Party that is a
+corporation is duly organized and in good standing in its country, province or
+state of organization. The Borrower is subject to a unanimous shareholder
+agreement with the Guarantor under which the Guarantor assumes all of the powers
+of the Borrower's directors and each other Loan Party, has and shall at all
+times have in place a duly constituted board of directors or single director
+overseeing its affairs, is not and shall not be at any time subject to a
+unanimous shareholder agreement or declaration affecting the powers of such
+director or directors, and is duly qualified and in good standing in all
+provinces or states where the nature and extent of the business transacted by it
+or the ownership of its assets makes such qualification necessary, except for
+such other provinces or states in which the failure to so qualify would not have
+a Material Adverse Effect with respect to any of them;
+
+(u)               except as disclosed in writing and acceptable to LaSalle, none
+of the Borrower or any other Loan Party is in default under any material
+contract, lease or commitment to which it is a party or by which it is bound,
+nor does the Borrower know of any dispute regarding any contract, lease or
+commitment which is material to the continued financial success and well-being
+of any of them;
+
+(v)               there are no controversies pending or threatened between the
+Borrower or any other Loan Party and any of its employees or any union
+representing any employees, other than employee grievances arising in the
+ordinary course of business which are not, in the aggregate, likely to have a
+Material Adverse Effect with respect to the Borrower or such Loan Party. The
+Borrower and each of the other Loan Parties is in compliance in all material
+respects with all state, federal and provincial laws respecting employment and
+employment terms, conditions and practices, except where the failure to so
+comply would not have a Material Adverse Effect with respect to the Borrower or
+such Loan Party;
+
+(w)               the Borrower possesses, and shall continue to possess,
+adequate licenses, patents, patent applications, copyrights, service marks,
+trademarks, trademark applications, tradestyles and tradenames to continue to
+conduct its business as heretofore conducted by it, details of all of which are
+described on SCHEDULE 10(w);
+
+(x)               the Guarantor is the registered and beneficial owner of 100%
+of the issued and outstanding shares in the capital of the Borrower, being 1
+common share;
+
+<PAGE>
+
+32.
+
+(y)               except as disclosed in SCHEDULE 10(y) hereto: (i) the
+operations and properties of the Borrower and each Loan Party comply with all
+applicable Environmental Laws except for any non-compliance which would not have
+a Material Adverse Effect with respect to any of them; (ii) the Borrower and
+Loan Party and all of their present facilities or operations and properties, as
+well as to the knowledge of the Borrower and each Loan Party their past
+facilities or operations and properties, are not subject to any judicial
+proceeding or administrative proceeding or any outstanding written order or
+agreement with any Governmental Authority or private party respecting (a) any
+Environmental Law or; (b) any Environmental Claim arising from the Release of a
+Contaminant into the environment; (ii) to the best of the knowledge of the
+Borrower and each Loan Party, none of their operations or properties is subject
+to any federal, provincial or state investigation evaluating whether any
+remedial work is needed to respond to a Release of any Contaminant into the
+environment in each case which would have a Material Adverse Effect with respect
+to any of them; (iv) none of the Borrower or any Loan Party nor any predecessor
+of any of the Borrower or any Loan Party has, to the best of the knowledge of
+the Borrower and each Loan Party, carried on the past or present facilities or
+operations or properties of the Borrower or any of the Loan Parties, any past or
+present treatment, storage, or disposal of a Hazardous Material, nor have the
+Borrower or any Loan Party or any prior owner or operator on any of the
+properties of the Borrower or any Loan Party reported a spill or Release of a
+Contaminant into the environment in each case which would have a Material
+Adverse Effect with respect to any of them; (v) none of the Borrower or any Loan
+Party has been notified that it has any liability in connection with any Release
+of any Contaminant into the environment in each case which would have a Material
+Adverse Effect with respect to any of them; (vi) none of the operations or
+properties, past or present, of the Borrower or any Loan party involve the
+generation, transportation, treatment or disposal of Hazardous Materials in
+violation of Environmental Laws in each case which would have a Material Adverse
+Effect with respect to any of them; (vii) none of the Borrower or any Loan Party
+have disposed of any Contaminant by placing it in or on the ground or waters of
+any premises owned, leased or used by any of them and to the knowledge of the
+Borrower or any Loan Party neither has any lessee, prior owner, prior operator
+or occupant or other person in each case which would have a Material Adverse
+Effect with respect to the Borrower or any Loan Party; (viii) no underground
+storage tanks or surface impoundments are on any properties of the Borrower or
+any Loan Party; and (ix) to the best of the knowledge of the Borrower and any
+Loan Party, no lien in favour of any Governmental Authority for (A) any
+liability under any Environmental Laws, or (B) damages arising from or costs
+incurred by such Governmental Authority in response to a Release of a
+Contaminant into the environment, has been filed or attached to the property of
+the Borrower or any Loan Party;
+
+(z) all employee pension benefit plans are registered under, and in compliance
+with, all requirements of law, all payments, reports, returns and filings
+required to be made thereunder have been made and there is no obligation on the
+part of the Borrower under any such plan that is in arrears. All such plans have
+been administered in accordance with their terms and the provisions of
+applicable law. There are no unfunded liabilities under any such plans and,
+without limiting the generality of the foregoing, there is no going concern
+unfunded actuarial liability, past service unfunded actuarial liability or
+solvency deficiency.
+
+The Borrower represents, warrants and covenants to LaSalle that all
+representations, warranties and covenants of the Borrower and of any other Loan
+Party contained in this Agreement or any
+
+<PAGE>
+
+33.
+
+of the Other Agreements (whether appearing in SECTIONS 10 OR 11 hereof or
+elsewhere) shall be true at the time of the Borrower's execution of this
+Agreement, shall survive the execution, delivery and acceptance hereof and
+thereof by the parties hereto and thereto and the closing of the transactions
+described herein or related hereto, shall remain true until the repayment in
+full of all of the Liabilities and termination of this Agreement, and shall be
+remade by the Borrower and each such Loan Party at the time each Revolving Loan
+is made pursuant to this Agreement.
+
+11.               COVENANTS
+
+Until payment or satisfaction in full of all Liabilities and
+termination of this Agreement, unless the Borrower obtains LaSalle's prior
+written consent waiving or modifying any of the Borrower's covenants hereunder
+in any specific instance, the Borrower agrees as follows:
+
+(a)               the Borrower shall at all times keep accurate and complete
+books, records and accounts with respect to all of the Borrower's business
+activities, in accordance with sound accounting practices and GAAP consistently
+applied, and shall keep such books, records and accounts, and any copies
+thereof, only at the addresses indicated for such purpose on SCHEDULE B;
+
+(b)               the Borrower shall promptly advise LaSalle in writing of any
+Material Adverse Effect in respect of the Borrower or any other Loan Party or
+the occurrence of any Default or Event of Default;
+
+(c)               LaSalle, or any Persons designated by it, shall have the
+right, at any time (including, without limitation, through audits (including any
+audit of the Borrower's Inventory or Equipment) scheduled within forty-five (45)
+days after the Closing Date and thereafter quarterly and more frequently during
+the continuance of a Default or Event of Default) to call at the Borrower's
+places of business or at any warehouse or storage facility where property or
+assets of the Borrower are located at any times, and, without hindrance or
+delay, to inspect the Collateral and to inspect, check and make extracts from
+the Borrower's books, records, journals, orders, receipts, properties and any
+correspondence and other data relating to the Borrower's business, the
+Collateral or any transactions between the parties hereto, and shall have the
+right to make such verification concerning the Borrower's business as LaSalle
+may consider reasonable under the circumstances. LaSalle shall also have the
+right to have Persons designated by it conduct such appraisals of Collateral as
+it shall require from time to time, including without limitation net orderly
+liquidation value appraisals of Inventory not less than semi-annually. The
+Borrower shall furnish to LaSalle such information relevant to LaSalle's rights
+under this Agreement (including without limitation information on sales,
+receivables, collections, accounts payable and inventory aging) as LaSalle shall
+at any time and from time to time request. The Borrower authorizes LaSalle to
+discuss the affairs, finances and business of the Borrower with any officers or
+directors of the Borrower or any affiliate corporation and with those employees
+of the Borrower with whom LaSalle has determined it to be necessary or desirable
+to converse, and to discuss the financial condition of the Borrower with the
+Borrower's independent public accountants. Any such discussions shall be without
+liability to LaSalle or to such accountants. The Borrower shall pay to or
+reimburse LaSalle for all fees, costs, and out-of-pocket expenses incurred by
+LaSalle in the exercise of its rights hereunder (in addition to the fees payable
+by the
+
+<PAGE>
+
+34.
+
+Borrower pursuant to SUBSECTION 4(g) hereof in connection with LaSalle's
+examination of Borrower's books and records and Collateral), including without
+limitation reimbursing LaSalle on the last day of each month, in arrears, for
+the amount of a monitoring fee charged by Collateral Services Inc. (currently
+U.S. $65 per month, but subject to change), and all of such costs, fees and
+expenses shall constitute Revolving Loans hereunder, shall be payable on demand
+and, until paid, shall bear interest at the highest rate then applicable to
+Revolving Loans hereunder;
+
+(d)               (i)      the Borrower shall keep the Collateral properly
+housed and shall keep the Collateral insured against
+such risks and in such amounts as LaSalle may require
+and under policies in such form as shall be
+satisfactory to LaSalle. Originals or certified
+copies of such policies of insurance have been, or on
+the Closing Date, shall be, delivered to LaSalle
+together with evidence of payment of all premiums
+therefor, and shall contain, inter alia, an
+endorsement, in form and substance acceptable to
+LaSalle, showing loss under such insurance policies
+payable to LaSalle. Such endorsement, the other terms
+of the said policies, or an independent instrument
+furnished to LaSalle, shall provide that the
+insurance company shall give LaSalle at least thirty
+(30) days written notice before any such policy of
+insurance is materially altered or cancelled and
+shall include a standard mortgage clause providing,
+inter alia, that no act or omission, whether wilful
+or negligent, or default of the Borrower or any other
+Person shall affect the right of LaSalle to recover
+under such policy of insurance in case of loss or
+damage. The Borrower hereby directs all insurers
+under such policies of insurance to pay all proceeds
+payable thereunder directly to LaSalle. The Borrower
+irrevocably, makes, constitutes and appoints LaSalle
+(and all officers, employees or agents designated by
+LaSalle) as the Borrower's true and lawful attorney
+(and agent-in-fact) for the purpose of making,
+settling and adjusting claims under such policies of
+insurance, endorsing the name of the Borrower on any
+cheque, draft, instrument or other item of payment
+for the proceeds of such policies of insurance and
+making all determinations and decisions with respect
+to such policies of insurance; provided, however,
+that LaSalle shall exercise such rights only upon and
+following the occurrence of an Event of Default;
+
+(ii)     the Borrower shall maintain or shall cause to be
+maintained, at its expense, such public liability and
+third party property damage insurance and business
+interruption insurance as is customary for Persons
+engaged in businesses similar to that of the Borrower
+with such companies and in such amounts, with such
+deductibles and under policies in such form as shall
+be satisfactory to LaSalle and originals or certified
+copies of such policies have been, or on the Closing
+Date, shall be, delivered to LaSalle together with
+evidence of payment of all premiums therefor; each
+such policy shall contain an endorsement showing
+LaSalle as additional insured thereunder and
+providing that the insurance company shall give
+LaSalle at least thirty (30) days written notice
+before any such policy shall be materially altered or
+cancelled;
+
+<PAGE>
+
+35.
+
+(iii)    if the Borrower at any time or times hereafter shall
+fail to obtain, maintain or cause to be maintained
+any of the policies of insurance required above or to
+pay any premium in whole or in part relating thereto,
+then LaSalle, without waiving or releasing any
+obligation or default by the Borrower hereunder, may
+(but shall be under no obligation to) obtain and
+maintain such policies of insurance and pay such
+premiums and take such other actions with respect
+thereto as LaSalle deems advisable. All sums
+disbursed by LaSalle in connection with any such
+actions, including, without limitation, court costs,
+expenses, other charges relating thereto and legal
+fees and disbursements (on a full indemnity basis),
+shall constitute Revolving Loans hereunder and, until
+paid, shall bear interest at the highest rate then
+applicable to Revolving Loans hereunder;
+
+(e)               the Borrower shall not use the Collateral, or any part
+thereof, in any unlawful business or for any unlawful purpose or use or maintain
+any of the Collateral in any manner that does or could result in material damage
+to the environment or a violation of any applicable Environmental Laws, or that
+does or could result in an Environmental Claim; the Borrower shall keep the
+Collateral in good condition, repair and order, ordinary wear and tear excepted;
+the Borrower shall not permit the Collateral, or any part thereof, to be levied
+upon under execution, attachment, writs of enforcement, distraint or other legal
+process; the Borrower shall not sell, lease, grant a security interest in or
+otherwise encumber or dispose of any of the Collateral except as expressly
+permitted by this Agreement and the Borrower shall not permit any liens (other
+than Permitted Liens) or security interests to attach to the Collateral that
+could rank either in priority to, or pari passu to the Security; and the
+Borrower shall not secrete or abandon any of the Collateral, or remove or permit
+removal of any of the Collateral from any of the locations listed on SCHEDULE B
+or in any written notice to LaSalle pursuant to SECTION 10(d) hereof, except for
+the removal of Inventory sold in the ordinary course of the Borrower's business
+as permitted herein;
+
+(f)               all monies and other property obtained by the Borrower from
+LaSalle pursuant to this Agreement will be used solely to pay out existing
+indebtedness to Harris Trust and Savings Bank and for ongoing operational
+requirements of the Borrower;
+
+(g)               the Borrower shall, at the request of LaSalle, indicate on its
+records concerning the Collateral a notation, in form satisfactory to LaSalle,
+of the security interest of LaSalle, and the Borrower shall not maintain
+duplicates or copies of such records at any address other than the Borrower's
+principal place of business set forth on the first page of this Agreement;
+provided, however, that the Borrower, in the ordinary course of its business,
+may furnish copies of such records to its accountants, attorneys and other
+agents or advisors as it may determine to be necessary or desirable, in the
+exercise of its commercially reasonable judgment;
+
+(h)               the Borrower shall file all required tax returns and pay all
+of its taxes when due, including, without limitation, taxes imposed by federal,
+provincial or municipal agencies, and shall cause any liens for taxes to be
+promptly released; provided, that the Borrower shall have the right to contest
+the payment of such taxes in good faith by appropriate proceedings so long as
+(i) the amount so contested is shown on the Borrower's financial statements,
+(ii) the contesting of any such payment does not give rise to a lien for taxes,
+(iii) upon the occurrence of an Event of
+
+<PAGE>
+
+36.
+
+Default, the Borrower keeps on deposit with LaSalle (such deposit to be held
+without interest) an amount of money which, in the sole judgment of LaSalle, is
+sufficient to pay such taxes and any interest or penalties that may accrue
+thereon, and (iv) if the Borrower fails to prosecute such contest with
+diligence, LaSalle may apply the money so deposited in payment of such taxes. If
+the Borrower fails to pay any such taxes and in the absence of any such contest
+by the Borrower, LaSalle may (but shall be under no obligation to) advance and
+pay any sums required to pay any such taxes and/or to secure the release of any
+lien therefor, and any sums so advanced by LaSalle shall constitute Revolving
+Loans hereunder, shall be payable by the Borrower to LaSalle on demand, and,
+until paid, shall bear interest at the highest rate then applicable to Revolving
+Loans hereunder;
+
+(i)               the Borrower shall not, without the prior written consent of
+LaSalle, (i) incur, create, assume or suffer to exist any indebtedness other
+than (A) indebtedness arising under this Agreement, (B) unsecured indebtedness
+owing in the ordinary course of business to the Borrower's trade suppliers, (C)
+indebtedness to the Guarantor up to an aggregate amount not to exceed Ten
+Million U.S. Dollars (U.S. $10,000,000) outstanding at any time, so long as (i)
+such loan is permitted under all applicable laws; (ii) no Event of Default shall
+have occurred prior to the time of, or would occur as a result of such loan;
+(iii) if requested by LaSalle, such loan is evidenced by a note which shall be
+delivered to Lender to be held as Collateral; and (iv) the proceeds of such loan
+are used for working capital purposes or to pay out existing indebtedness to
+Harris Trust and Savings Bank, and (D) any other indebtedness described in
+SECTION 10(q)(ii) hereof; or (ii) assume, guarantee or endorse, or otherwise
+become liable in connection with, the obligations of any Person, except by
+endorsement of instruments for deposit or collection or similar transactions in
+the ordinary course of the Borrower's business and except for a guarantee of the
+indebtedness, liabilities and obligations of the Guarantor to the U.S. Lender
+pursuant to the U.S. Loan and Security Agreement;
+
+(j)               the Borrower shall not, without the prior written consent of
+LaSalle, enter into any merger, amalgamation or consolidation, or sell, lease or
+otherwise dispose of all or substantially all of its assets or create any new
+subsidiary or affiliate or issue any shares of, or warrants or other rights to
+receive or purchase any shares of, any class of its stock; the Borrower shall
+not enter into any transaction outside the ordinary course of the Borrower's
+business;
+
+(k)               the Borrower shall not make any distribution of funds or
+property and, without limitation, the Borrower shall not (i) declare or pay any
+bonus, dividend or other distribution (whether in cash or in kind) on, purchase,
+redeem or retire any shares of any class of its stock, or make any payment on
+account of, or set apart assets for the repurchase, redemption, defeasance or
+retirement of, any class of its stock; or (ii) make any optional payment or
+prepayment on or redemption (including without limitation by making payments to
+a sinking fund or analogous fund) or repurchase of any indebtedness for borrowed
+money other than indebtedness pursuant to this Agreement, or (iii) make any
+payment on or in respect of any indebtedness, or any interest, fee or other
+payment, to any parent, subsidiary, affiliate corporation or other related
+Person other than payments on or in respect of indebtedness permitted under
+SUBSECTION 11(i) of this Agreement;
+
+(l)               the Borrower shall not make any loans to, or investments in,
+any Person, whether in cash, securities or other property of any kind, other
+than investments that are direct obligations
+
+<PAGE>
+
+37.
+
+of Canada or the United States pledged and delivered to LaSalle pursuant to
+documentation satisfactory to LaSalle in its absolute discretion, except for
+loans to the Guarantor up to an aggregate amount not to exceed Ten Million U.S.
+Dollars (U.S. $10,000,000) outstanding at any time, so long as (i) such loan is
+permitted under all applicable laws; (ii) no Event of Default shall have
+occurred prior to the time of, or would occur as a result of such loan; (iii) if
+requested by LaSalle, such loan is evidenced by a note which shall be delivered
+to Lender to be held as Collateral; and (iv) such loans shall be made for
+working capital purposes;
+
+(m)               the Borrower shall not except with the prior written consent
+of LaSalle, amend its organizational documents or change its fiscal year;
+
+(n)               the Borrower shall not (a) pay any management or consulting
+fees to any Persons, except in the ordinary course of business or pay any bonus
+to any of its directors, officers or employees except that, the Borrower may pay
+bonuses to its directors, officers and employees in accordance with its
+Incentive Plan Program as summarized on Schedule 13(k) of the U.S. Loan and
+Security Agreement, in any case, so long as (a) no Event of Default is
+continuing or would result therefrom and (b) immediately before paying any such
+bonuses, the aggregate of Excess Availability (as such term is defined in the
+U.S. Loan and Security Agreement) and Excess Availability hereunder is not less
+than U.S. $1,000,000 or the Canadian Dollar Equivalent Amount thereof and (c)
+immediately after paying any such bonuses, the aggregate of Excess Availability
+(as such term is defined in the U.S. Loan and Security Agreement) and Excess
+Availability hereunder is not less than U.S. $500,000 and (d) Excess
+Availability hereunder shall not be less than Cdn. $500,000 immediately after
+paying such bonuses.
+
+(o)               the Borrower shall caused to be maintained and kept in full
+force and effect each of the financial covenants set forth in the U.S. Loan and
+Security Agreement, including without limitation the covenants to:
+
+(i)      Tangible Net Worth. Maintain Tangible Net Worth at or
+above the level set out in Section 14(a) thereof;
+
+(ii)     Debt Service Coverage. Maintain a debt service
+coverage ratio in excess of that set out in Section
+14(b) thereof; and
+
+(iii)    Interest Coverage. Maintain an interest coverage
+ratio of not less than that set out in Section 14(c)
+thereof.
+
+Further, the Borrower shall not, during any fiscal year, make Capital
+Expenditures which together with the Capital Expenditures (as such term is
+defined in the U.S. Loan and Security Agreement) of the Guarantor exceed the
+Canadian Dollar Equivalent Amount of an aggregate amount:
+
+(a) in its fiscal year ending September 30, 2004, One Million
+Seven Hundred Thousand U.S. Dollars (U.S. $1,700,000); and
+
+(b) in each of its fiscal years thereafter (on a
+non-cumulative basis), Two Million U.S. Dollars (U.S.
+$2,000,000);
+
+<PAGE>
+
+38.
+
+(p)               the Borrower shall reimburse LaSalle for all costs and
+expenses (including, without limitation, legal fees and disbursements (on a full
+indemnity basis) for both in-house and outside counsel), relating to it and
+incurred by LaSalle in connection with the documentation and consummation of
+this transaction and any other transactions between the Borrower and LaSalle
+including, without limitation, personal property security and other public
+record searches, lien filings, express mail or similar express or messenger
+delivery, appraisal costs, surveys, title insurance and environmental audit or
+review costs, and in seeking to collect, protect or enforce any rights in or to
+the Collateral or incurred by LaSalle in seeking to collect any Liabilities and
+to administer and enforce any of LaSalle's rights under this Agreement. The
+Borrower shall also pay all normal service charges with respect to accounts
+maintained by LaSalle for the benefit of the Borrower. All such costs, expenses
+and charges shall constitute Revolving Loans hereunder, shall be payable to
+LaSalle on demand and, until paid, shall bear interest at the highest rate then
+applicable to Revolving Loans hereunder;
+
+(q)               the Borrower shall maintain all banking relationships with a
+financial institution acceptable to LaSalle in its discretion;
+
+(r)               the Borrower shall not make any material change in the
+operation of the business of the Borrower and shall purchase Inventory only from
+parties at arms-length to the Borrower, its officers and directors and its
+direct or indirect shareholders;
+
+(s)               the Borrower shall conduct its business and occupy its
+premises and shall cause each Loan Party to conduct their respective businesses
+and occupy their respective premises in full compliance with all Environmental
+Laws applicable to them, including, without limitation, those relating to the
+Borrower's or any Loan Party's generation, handling, use, storage, and disposal
+of Hazardous Materials; the Borrower shall take and shall cause each Loan Party
+to take prompt and appropriate action to respond to any non-compliance or
+alleged non-compliance with any Environmental Laws and shall regularly report to
+LaSalle on such non-compliance or alleged non-compliance and the Borrower's
+response. Without limiting the generality of the foregoing, whenever the
+Borrower gives the notice to LaSalle contemplated by SUBSECTION 11(t) the
+Borrower shall at LaSalle's request and at the Borrower's expense:
+
+(i)      cause an independent environmental engineer
+acceptable to LaSalle to conduct such tests of the
+site where the Borrower's or such Loan Party's
+non-compliance or alleged non-compliance with
+Environmental Laws has occurred and prepare and
+deliver to LaSalle a report addressed to LaSalle and
+on which LaSalle may rely without qualifications
+setting forth the results of such tests, a proposed
+plan for responding to any environmental problems
+described therein, and an estimate of the costs
+thereof; and
+
+(ii)     provide to LaSalle a supplemental report of such
+engineer whenever the scope of the environmental
+problems, or the Borrower's response thereto or the
+estimated costs thereof shall change. Such reports
+shall also be addressed to LaSalle and shall, as
+requested by LaSalle, set out the results of such
+engineers' review of, inter alia:
+
+<PAGE>
+
+39.
+
+A.       the internal policies and procedures of the
+Borrower or such Loan Party relating to
+environmental regulatory compliance to
+ensure that all appropriate steps are being
+taken by or on behalf of the Borrower or
+such Loan Party to comply with all
+applicable requirements of Environmental
+Laws;
+
+B.       progress of compliance deficiencies;
+
+C.       all other environmental audit reports which
+the Borrower or any Loan Party, or any
+predecessor thereof has commissioned in the
+normal conduct of its business; and
+
+D.       all environmental reports which have been
+commissioned by or made available to the
+Borrower or any Loan Party in connection
+with new acquisitions, and the engineers'
+report and recommendations on results of
+tests performed or samples taken by it
+during the course of its review,
+irregularities or steps which may be taken
+to ensure continued compliance, as well as
+such other matters as the Borrower and/or
+LaSalle may request from time to time;
+
+(t)               the Borrower shall provide written notice to LaSalle no later
+than five (5) days after the happening of any of the following:
+
+(i)      the receipt of a notice of non-compliance, violation
+or contravention from any Governmental Authority with
+respect to the activities carried on by the Borrower
+or any other Loan Party or as to any other matter
+whatsoever;
+
+(ii)     there has been a spill or other Release of Hazardous
+Materials upon, under or about or affecting any of
+the properties owned, operated, leased or occupied by
+the Borrower or any other Loan Party in amounts that
+are required to be reported under Environmental Laws,
+or Hazardous Materials at levels or in amounts that
+are required to be reported, remedied or responded to
+under Environmental Laws are detected on or in the
+soil or groundwater;
+
+(iii)    the Borrower or any other Loan Party is or may be
+liable for any costs of cleaning up or otherwise
+remedying a Release of Hazardous Materials;
+
+(iv)     any part of the properties owned, operated, managed,
+possessed, leased or occupied by the Borrower or any
+other Loan Party or of which the Borrower or any
+other Loan Party otherwise have charge, management or
+control, are subject to a lien, charge, mortgage or
+other type of encumbrance under, or may be subject to
+any order, direction or other administrative
+proceeding under, any Environmental Laws; or
+
+<PAGE>
+40.
+
+(v)      the Borrower or any other Loan Party undertakes any
+remedial work with respect to any Hazardous
+Materials; and
+
+(u)               Within thirty (30) days of the date hereof, the Borrower shall
+enter into interest rate hedging arrangements with respect to the Liabilities
+with LaSalle, an affiliate of LaSalle, or such other party as may be approved by
+LaSalle in writing, in each case acceptable to LaSalle in its sole discretion.
+
+12.               CONDITIONS PRECEDENT
+
+(a)               Closing Deliveries.
+
+The obligation of LaSalle to fund the initial Loans is subject
+to the satisfaction or waiver on or before the Closing Date of the following
+conditions precedent:
+
+(i)      Completion by LaSalle to its sole satisfaction of its
+review of the management prepared interim financial
+statements (including individual and consolidated
+balance sheets, cash flow statements and profit and
+loss statements) as at December 31, 2003 with respect
+to the Borrower, and any other information and
+material requested by LaSalle to ensure that, among
+other things, no changes have occurred that would
+result in an amendment to any of the financial
+forecasts and other information provided by the
+Borrower to LaSalle.
+
+(ii)     No material adverse change in LaSalle's understanding
+of the facts and information presented to it by the
+Borrower or others on the Borrower's behalf has
+occurred and no material litigation or claims (in the
+sole judgment of LaSalle) with respect to any aspect
+of Borrower's or any other Loan Party's business or
+assets shall have occurred.
+
+(iii)    LaSalle shall have received, in form and substance
+satisfactory to it in its absolute discretion, each
+of the security documents, agreements, opinions,
+reports, approvals, consents, certificates and other
+documents set forth on the closing document list
+attached hereto as 12(a)(iii), including without
+limitation evidence of all registrations as required
+and confirmation of its first priority lien, charge
+and security interest in the Collateral (subject only
+to Permitted Liens).
+
+(iv)     Since November 30, 2003, no event shall have occurred
+which has had or could be expected to have a Material
+Adverse Effect with respect to the Borrower or the
+Guarantor, as determined by LaSalle in its sole
+discretion.
+
+(v)      LaSalle shall have received payment in full of all
+fees and expenses payable to it by the Borrower,
+including, without limitation, legal fees and
+expenses incurred by LaSalle in connection with this
+Agreement and the consummation of the transactions
+contemplated hereby, on or before the Closing Date.
+
+<PAGE>
+41.
+
+(vi)     LaSalle shall have determined that immediately after
+giving effect to (A) the making of the initial
+Revolving Loans requested to be made on the Closing
+Date, and (B) the payment or reimbursement by the
+Borrower of LaSalle for all closing costs and
+expenses incurred in connection with the transactions
+contemplated hereby, on a pro forma basis Excess
+Availability hereunder shall not be less than Five
+Hundred Thousand U.S. Dollars (U.S. $500,000).
+
+(vii)    LaSalle shall have received evidence of repayment of
+all of the Borrower's and the Guarantor's
+indebtedness owing to creditors other than the
+Borrower's indebtedness to unsecured trade creditors
+incurred in the normal course of business and on
+normal payment terms and other than indebtedness to
+those creditors which LaSalle has agreed may continue
+as creditors of the Borrower or the Guarantor after
+the Closing Date (which creditors include those
+holding Permitted Liens).
+
+(viii)   No request of the Minister of National Revenue for
+payment pursuant to Section 224(1.1), or any
+successor section, of the Income Tax Act (Canada)
+shall have been received by LaSalle in respect of
+Borrower.
+
+(ix)     LaSalle shall have received a Borrowing Base
+Certificate as at February 3, 2004 together with a
+certificate from an Authorized Officer of the
+Borrower (the "CLOSING CERTIFICATE") pursuant to
+which such Authorized Officer shall certify that: (A)
+in calculating the Excess Availability described in
+clause (vi) above, the Borrower's outstanding debt
+was (and is) current and not past due in any respect;
+(B) all representations and warranties contained
+herein are true and correct; (C) no Default or Event
+of Default has occurred and is continuing; and (D) no
+event has occurred and is continuing that would have
+a Material Adverse Effect with respect to the
+Borrower or the Guarantor.
+
+(x)      The Borrower and any other Loan Party shall have or
+cause to be executed and delivered to LaSalle all
+documents which LaSalle determines in its absolute
+discretion are necessary to consummate the
+transactions contemplated hereby.
+
+(xi)     Completion of tax, lien, judgment and other searches
+and investigations with respect to the Collateral and
+all security provided by the Borrower and any other
+Loan Party, with results satisfactory to LaSalle, and
+completion of a review to its satisfaction of the
+management, creditworthiness, financial position,
+systems and procedures of the Borrower.
+
+(xii)    LaSalle shall have received, reviewed and determined
+as satisfactory all appraisals, all third party
+documentation (including landlord and mortgagee
+waivers and debt and security subordinations and
+postponements it may require) and all contracts
+entered or to be entered
+
+<PAGE>
+42.
+
+into by or binding on the Borrower or any other Loan
+Party (including all supply, service, purchase and
+rental contracts and all collective agreements with
+employees or their union) as it may consider material
+in its absolute discretion.
+
+(xiii)   Completion of final pre-closing collateral
+roll-forward, ineligibles and Borrowing Base
+calculations to the satisfaction of LaSalle.
+
+(xiv)    LaSalle shall have confirmed that the U.S. Lender's
+loan documents with the Guarantor have been
+consummated and that the Guarantor is entitled to
+receive the proceeds of the initial loans thereunder.
+
+(xv)     Without limiting the generality of SUBSECTION
+12(a)(iii), LaSalle shall have received a legal
+opinion from the Borrower's counsel, in form and
+substance satisfactory to LaSalle and its counsel,
+opining with respect to, but not limited to, the
+Borrower's and each Loan Party's incorporation and
+subsistence, the Borrower's and each Loan Party's
+corporate power and capacity to enter into this
+Agreement and the Other Agreements, the Borrower's
+and each Loan Party's due authorization, execution
+and delivery and performance of this Agreement and
+the Other Agreements, and the enforceability of this
+Agreement and the Other Agreements against the
+Borrower and each Loan Party, as applicable.
+
+(b)               Post Closing Deliveries.
+
+After the Closing Date, the obligation of LaSalle to make any
+requested Loan is subject to the satisfaction of the conditions precedent set
+forth in SUBSECTIONS 12(a)(ii), (iii), (iv), (viii), (x) AND (xii) above and
+also as set forth below. Each such request shall constitute a representation and
+warranty that such conditions are satisfied:
+
+(i)      All representations and warranties contained in this
+Agreement and the Other Agreements shall be true and
+correct on and as of the date of such request, as if
+then made, other than representations and warranties
+that relate solely to an earlier date; and
+
+(ii)     No Default or Event of Default shall have occurred,
+or would result from the making of the requested
+Revolving Loan, which has not been waived in writing
+by LaSalle.
+
+13.               DEFAULT
+
+The occurrence of any one or more of the following events
+shall constitute an "EVENT OF DEFAULT" hereunder:
+
+(a)               the failure of the Borrower or any other Loan Party to pay
+when due, declared due, or demanded by LaSalle in accordance with the terms
+hereof or thereof, any of the Liabilities;
+
+<PAGE>
+43.
+
+(b)               the failure of the Borrower or any other Loan Party to
+perform, keep or observe any of the covenants, conditions, promises, agreements
+or obligations (other than as described in SUBSECTION 13(a) above) of the
+Borrower or such Loan Party under this Agreement or any of the Other Agreements;
+provided that any such failure by the Borrower under SUBSECTIONS
+11(a),(f),(g),(h),(p),(q),(s) AND (u) of this Agreement shall not constitute and
+Event of Default until the fifth (5th) day following the occurrence thereof;
+
+(c)               the making or furnishing by the Borrower or any other Loan
+Party or any director, officer, employee or other representative thereof to
+LaSalle of any representation, warranty, certificate, schedule, report or other
+communication within or in connection with this Agreement or the Other
+Agreements or in connection with any other agreement between the Borrower or
+such Loan Party and LaSalle, which is untrue or misleading in any respect, or
+the failure of the Borrower or any other Loan Party to perform, keep or observe
+any of the covenants, conditions, promises, or agreements of the Borrower or
+such Loan Party under any other agreement with any Person if such failure, in
+the opinion of LaSalle, has or is likely to have a Material Adverse Effect with
+respect to the Borrower or any other Loan Party;
+
+(d)               the creation (whether voluntary or involuntary) of, or any
+attempt to create, any lien or other encumbrance upon any of the Collateral or
+any property or assets of the Borrower or any other Loan Party, other than the
+Permitted Liens, or the making or any attempt to make any levy, seizure or
+attachment thereof or (except as permitted hereby) sale, lease or furnishing
+under a contract of service of, any of the Collateral or any property or asset
+of the Borrower or any other Loan Party, or the loss, theft, damage or
+destruction of all or a substantial portion of the property and assets of the
+Borrower or a Loan Party;
+
+(e)               the making of an assignment or proposal in bankruptcy by the
+Borrower or any other Loan Party or the filing by the Borrower or any other Loan
+Party of notice of its intention to make a proposal in bankruptcy or the
+commencement of any proceedings in bankruptcy by or against the Borrower or any
+other Loan Party for the liquidation or reorganization of the Borrower or any
+other Loan Party or alleging that the Borrower or such Loan Party is insolvent
+or unable to pay its debts as they mature or for the readjustment or arrangement
+of the Borrower's or any other Loan Party's debts, whether under the Bankruptcy
+and Insolvency Act (Canada), the Companies' Creditors Arrangement Act (Canada)
+or the United States Bankruptcy Code or under any other law, whether state,
+provincial or federal, now or hereafter existing for the relief of debtors, or
+the commencement of any analogous statutory or non-statutory proceedings
+involving the Borrower or any other Loan Party; provided, however, that if such
+commencement of proceedings against the Borrower or such Loan Party is
+involuntary, such action shall not constitute an Event of Default unless such
+proceedings are not forthwith contested in good faith by the Borrower or such
+Loan Party and dismissed within fifteen (15) days after the commencement of such
+proceedings;
+
+(f)               the appointment of a receiver or trustee for the Borrower or
+any other Loan Party, for any of the Collateral or for any substantial part of
+the Borrower's or any other Loan Party's assets or the institution of any
+proceedings for the dissolution or winding up, or the full or partial
+liquidation, or (without the consent of LaSalle) the merger, amalgamation or
+consolidation, of the Borrower or any other Loan Party which is a corporation or
+a partnership; provided, however, that if such appointment or commencement of
+proceedings against the Borrower or
+
+<PAGE>
+44.
+
+such Loan Party is involuntary, such action shall not constitute an Event of
+Default unless such appointment or proceeding has resulted in a seizure or
+possession of any of the Borrower's or any other Loan Party's property or assets
+by such receiver or trustee, or is not forthwith contested in good faith by the
+Borrower or such Loan Party and revoked or dismissed within fifteen (15) days
+after the commencement of such proceedings;
+
+(g)               the entry of any judgment or the issuance or registration of
+any writ of enforcement or order against the Borrower or any other Loan Party
+which, or the Canadian Dollar Equivalent Amount of which, is in excess of Fifty
+Thousand Canadian Dollars (Cdn. $50,000) and which remains unsatisfied or
+undischarged and in effect for five (5) days after such entry without a stay of
+enforcement or execution;
+
+(h)               the occurrence of a default or an event of default under, or
+the revocation or termination of, any agreement, instrument or document executed
+and delivered by any Person to LaSalle pursuant to which such Person has
+guaranteed to LaSalle the payment of all or any of the Liabilities or has
+granted LaSalle a security interest in or lien upon some or all of such Person's
+real and/or personal property to secure directly or indirectly the payment of
+all or any of the Liabilities;
+
+(i)               the occurrence of a default or an event of default, which
+continues after the passage of any cure period, under any other agreement or
+instrument evidencing indebtedness for borrowed money in excess of Fifty
+Thousand Canadian Dollars (Cdn. $50,000) executed or delivered by the Borrower
+or any other Loan Party or pursuant to which agreement or instrument the
+Borrower or any other Loan Party or its properties is or may be bound;
+
+(j)               the occurrence of any event or condition (including without
+limitation any change in the operations or business of the Borrower or any other
+Loan Party which has or is likely to have a Material Adverse Effect in respect
+of the Borrower or any other Loan Party, or any change in ownership of, or
+pledge, transfer, assignment or disposition of, or grant of security in, any
+shares of, the Borrower, all as determined by LaSalle in its sole discretion; or
+
+(k)               if the Guarantor shall fail to perform, keep or observe any of
+the covenants, conditions, promises, agreements or other obligations of the
+Guarantor to the U.S. Lender under any agreements now or hereafter existing
+between the Guarantor and U.S. Lender including the U.S. Loan and Security
+Agreement or in the event of the termination of the U.S. Loan and Security
+Agreement.
+
+14.               REMEDIES UPON AN EVENT OF DEFAULT
+
+(a)               Upon the occurrence of a Default or Event of Default, LaSalle
+shall have no further obligation to make or extend any Loan hereunder or to
+grant any other financial accommodation to the Borrower.
+
+(b)               Upon the occurrence of an Event of Default described in
+SUBSECTION 13(e) hereof, all of the Liabilities shall immediately and
+automatically become due and payable, without notice of any kind, and upon the
+occurrence of any other Event of Default, any or all of the Liabilities may, at
+the option of LaSalle, and without demand, notice or legal process of any kind,
+be
+
+<PAGE>
+
+45.
+
+declared, and immediately shall become, due and payable. Upon either
+occurrence, LaSalle may, in addition to any other right or remedy which it may
+have at law or in equity, proceed to realize its security hereunder and to
+enforce its rights by:
+
+(i)      entry;
+
+(ii)     the appointment by instrument in writing of a
+receiver or receivers of the Collateral or any part
+thereof (which receiver or receivers may be any
+person or persons, whether an officer or officers or
+employee or employees of LaSalle or not and LaSalle
+may remove any receiver or receivers so appointed and
+appoint another or others in his or their stead);
+
+(iii)    proceedings in any court of competent jurisdiction
+for the appointment of a receiver or receivers or for
+sale of the Collateral or any part thereof; or
+
+(iv)     any other action, suit, remedy or proceeding
+authorized or permitted hereby or by law or by
+equity.
+
+In addition, LaSalle may file such proofs of claim and other
+documents as may be necessary or advisable in order to have its claim lodged in
+any bankruptcy, winding-up or other judicial proceedings.
+
+(c)               Any receiver or receivers so appointed shall have power to:
+
+(i)      take possession of and to use the Collateral of any
+part thereof;
+
+(ii)     carry on the business of the Borrower or any other
+Loan Party (including, but not limited to, the taking
+or defending of any actions or legal proceedings, and
+the doing or refraining from doing all other things
+as to the receiver may seem necessary or desirable in
+connection with the business, operations and affairs
+of the Borrower or any other Loan Party);
+
+(iii)    borrow money required for the maintenance,
+preservation or protection of the Collateral or any
+part thereof or the carrying on of the business of
+the Borrower or any other Loan Party;
+
+(iv)     further charge the Collateral in priority to the
+security interests of this Agreement as security for
+money so borrowed; and
+
+(v)      sell, lease or otherwise dispose of the whole or any
+part of the Collateral on such terms and conditions
+and in such manner as the receiver shall determine.
+
+LaSalle shall not be responsible for any actions or errors of
+omission by the receiver or receivers in exercising any such powers.
+
+In addition, LaSalle may enter upon, use, occupy and possess
+the Collateral or any part thereof, free from all encumbrances, liens and
+charges, except for Permitted Liens, without
+
+<PAGE>
+
+46.
+
+hindrance, interruption or denial of the same by the Borrower or any other Loan
+Party or by any other person or persons save only a landlord pursuant to its
+rights of reversion under any lease of real property on expiry of its term, and
+may lease or sell the whole or any part or parts of the Collateral. Any sale
+hereunder may be made by public auction, by public tender or by private
+contract, with or without notice and with or without advertising and without any
+other formality (except as required by law), all of which are hereby waived by
+the Borrower. Such sale shall be on such terms and conditions as to credit or
+otherwise and as to upset or reserve bid or price as to LaSalle in its sole
+discretion may seem advantageous. Such sale may take place whether or not
+LaSalle has taken possession of the Collateral.
+
+No remedy for the realization of the security interests
+granted pursuant hereto or pursuant to any security held by LaSalle or for the
+enforcement of the rights of LaSalle shall be exclusive of or dependent on any
+other such remedy, but any one or more of such remedies may from time to time be
+exercised independently or in combination. The term "receiver" as used in this
+Agreement includes a receiver and manager.
+
+At LaSalle's request, the Borrower shall, at the Borrower's
+expense, assemble the Collateral and make it available to LaSalle at one or more
+places to be designated by LaSalle. The Borrower recognizes that if the Borrower
+fails to perform, observe or discharge any of its Liabilities under this
+Agreement or the Other Agreements, no remedy at law will provide adequate relief
+to LaSalle, and the Borrower agrees that LaSalle shall be entitled to temporary
+and permanent injunctive relief in any such case without the necessity of
+proving actual damages. Any notification of intended disposition of any of the
+Collateral required by law will be deemed reasonably and properly given if given
+at least fifteen (15) calendar days before such disposition. Any proceeds of any
+disposition by LaSalle of any of the Collateral may be applied by LaSalle to the
+payment of expenses and any borrowings in connection with the Collateral and its
+realization including, without limitation, legal fees and disbursements (on a
+solicitor-client basis) of both in-house and outside counsel and any balance of
+such proceeds may be applied by LaSalle toward the payment of such of the
+Liabilities, and in such order of application, as LaSalle may from time to time
+elect or re-elect.
+
+15.               INDEMNIFICATION
+
+(a)               General Indemnity.
+
+The Borrower agrees to defend (with counsel satisfactory to
+LaSalle), protect, indemnify and hold harmless LaSalle, each affiliate or
+subsidiary of LaSalle, and each of their respective officers, directors,
+employees, attorneys and agents (each an "INDEMNIFIED PARTY") from and against
+any and all liabilities, obligations, losses, damages, penalties, actions,
+judgments, suits, claims, costs, expenses and disbursements of any kind or
+nature (including, without limitation, the disbursements and the fees (on a full
+indemnity basis) of internal and external counsel for each Indemnified Party in
+connection with any investigative, administrative or judicial proceeding,
+whether or not the Indemnified Party shall be designated a party thereto), which
+may be imposed on, incurred by, or asserted against, any Indemnified Party
+(whether direct, indirect or consequential and whether based on any federal,
+state or local laws or regulations including, without limitation, securities,
+environmental and commercial laws and regulations, under common law or in
+equity, or based on contract or otherwise) in any manner
+
+<PAGE>
+
+47.
+
+relating to or arising out of this Agreement or any Other Agreement, or any act,
+event or transaction related or attendant to any of the foregoing, the making
+and the management of the Loans or the use or intended use of the proceeds of
+the Loans. To the extent that the undertaking to indemnify set forth in the
+preceding sentence may be unenforceable because it is violative of any law or
+public policy, the Borrower shall satisfy such undertaking to the maximum extent
+permitted by applicable law. Any liability, obligation, loss, damage, penalty,
+cost or expense covered by this indemnity shall be paid to each Indemnified
+Party on demand, and, failing prompt payment, shall, together with interest
+thereon at the highest rate then applicable to Revolving Loans hereunder from
+the date incurred by each Indemnified Party until paid by the Borrower, be added
+to the Liabilities of the Borrower and be secured by the Collateral. The
+provisions of this SECTION 15 shall survive the satisfaction and payment of the
+other Liabilities and the termination of this Agreement.
+
+(b)               Environmental Indemnity.
+
+Without limiting the generality of SUBSECTION 15(a), the
+Borrower shall at all times indemnify and hold harmless the Indemnified Parties
+from and against any and all liabilities and costs suffered or incurred by such
+Indemnified Parties including, without limitation, any and all orders,
+directions, suits, actions, proceedings, claims, settlements, damages, losses,
+liabilities, costs and expenses (including, without limitation, legal fees and
+disbursements on a solicitor-client basis, litigation costs and any costs of
+settlement), with respect to: (i) any actual or threatened Release of Hazardous
+Materials or the presence of any Hazardous Materials affecting any of the
+properties of the Borrower or any other Loan Party, whether or not the same
+originates or emanates from any such properties or any contiguous property,
+including any loss of value of any such properties as a result of any of the
+foregoing; (ii) any costs of remedial, preventative or similar action which may
+be imposed by any Governmental Authority on the Borrower or any other Loan
+Party, including without limitation, any prosecution initiated or threatened
+with respect to non-compliance with Environmental Laws, (iii) any costs of
+remedial, preventative or similar action incurred by any Governmental Authority
+or any costs incurred by any other person or damages from injury to, destruction
+of, or loss of natural resources, including costs of assessing such injury,
+destruction or loss incurred pursuant to any Environmental Laws; (iv) liability
+for personal injury or property damage arising under any statutory, common law,
+tort, breach of statutory duty, riparian rights, strict liability or any other
+doctrine or theory, including, without limitation, damages assessed for the
+maintenance of a public or private nuisance, trespass or for the carrying on an
+abnormally dangerous activity at or near any of the properties of the Borrower
+or any other Loan Party; (v) any environmental liabilities and costs affecting
+any of the properties of the Borrower or any other Loan Party within the
+jurisdiction of any Governmental Authority; and/or (vi) any other environmental
+liabilities and costs.
+
+16.               MISCELLANEOUS
+
+(a)               Notices.
+
+All written notices and other written communications with
+respect to this Agreement or any of the Other Agreements shall be sent by
+ordinary or registered mail, by telecopy or delivered in person, and in the case
+of LaSalle shall be sent to it at Maritime Life
+
+<PAGE>
+48.
+
+Tower, 15th Floor, P.O. Box 114, 79 Wellington Street West, Toronto, Ontario M5K
+1G8 Attention: Vice President, Asset Based Lending, (if by telecopy to telecopy
+number 416-367-7943) and in the case of the Borrower or any other Loan Party
+shall be sent to or in care of the Borrower at 5030 Timberlea Boulevard,
+Mississauga , Ontario, L4W 2S5, Attention: President (if by telecopy to telecopy
+no. (905) 238-3402). The notice or other communication so sent shall be deemed
+to be received on the day of personal delivery or telecopy, or if mailed, three
+days following the date of such mailing.
+
+(b)               Choice of Governing Law and Construction.
+
+Except as expressly set forth therein, this Agreement and the
+Other Agreements shall be governed and controlled by the laws of the Province of
+Ontario and the laws of Canada applicable therein as to interpretation,
+enforcement, validity, construction, effect, and in all other respects,
+including, without limitation, the legality of the interest rate and other
+charges, but excluding perfection of the security interests in the Collateral,
+which shall be governed and controlled by the laws of the relevant jurisdiction.
+
+(c)               Forum Selection and Service Of Process.
+
+To induce LaSalle to accept this Agreement, the Borrower, for
+itself and the other Loan Parties, irrevocably: (i) agrees that, subject to
+LaSalle's sole and absolute election, all actions or proceedings in any way,
+manner or respect, arising out of or from or related to this Agreement, the
+Other Agreements or the Collateral shall be litigated in courts having situs
+within the city of Toronto, Province of Ontario; (ii) consents and submits to
+the jurisdiction of any local, provincial or federal courts located within said
+city and province; and (iii) hereby waives any right it may have to transfer or
+change the venue of any litigation brought by LaSalle in accordance with this
+paragraph.
+
+(d)               Modification and Benefit of Agreement
+
+This Agreement shall be binding upon the Borrower, the other
+Loan Parties and LaSalle and their respective successors and assigns and shall
+enure to the benefit of the Borrower and LaSalle and their respective successors
+and assigns. This Agreement and the Other Agreements may not be modified,
+altered or amended except by an agreement in writing signed by the Borrower
+and/or the other Loan Parties as applicable and LaSalle. The Borrower may not
+sell, assign or transfer this Agreement, or the Other Agreements or any portion
+thereof including, without limitation, any right, title, interest, remedies,
+powers or duties thereunder. The Borrower, for itself and the other Loan
+Parties, hereby consents to LaSalle's sale, assignment, transfer or other
+disposition, at any time and from time to time hereafter, of this Agreement, or
+the Other Agreements, or of any portion thereof, or participation therein
+including, without limitation, LaSalle's right, title, interest, remedies,
+powers and/or duties thereunder. The Borrower agrees that it shall execute and
+deliver such documents as LaSalle may request in connection with any such sale,
+assignment, transfer or other disposition.
+
+(e)               Headings of Subdivisions.
+
+The headings of subdivisions in this Agreement are for
+convenience of reference only, and shall not govern the interpretation of any of
+the provisions of this Agreement.
+
+<PAGE>
+
+49.
+
+(f)               Power of Attorney.
+
+The Borrower, for itself and the other Loan Parties,
+acknowledges and agrees that its appointment of LaSalle as its attorney and
+agent-in-fact for the purposes specified in this Agreement is an appointment
+coupled with an interest and shall be irrevocable until all of the Liabilities
+are paid in full and this Agreement is terminated.
+
+(g)               Waiver of Jury Trial, Other Waivers, Confidentiality.
+
+LaSalle and the Borrower (for itself and the other Loan
+Parties) hereby waive all rights to trial by jury in any action or proceeding
+which pertains directly or indirectly to this Agreement, any of the Other
+Agreements, the Liabilities, the Collateral or any alleged tortious conduct or
+which, in any way, directly or indirectly, arises out of or relates to the
+relationship between the Borrower and LaSalle. In no event shall LaSalle be
+liable for lost profits or other special or consequential damages. The Borrower
+(for itself and the other Loan Parties) hereby waives all rights to notice and
+hearing of any kind prior to the exercise by LaSalle of its rights to repossess
+the Collateral without judicial process or to replevy, attach or levy upon such
+Collateral without prior notice or hearing, and hereby waives demand,
+presentment, protest and notice of non-payment, and further waives the benefit
+of all valuation, appraisal and exemption laws. LaSalle's failure, at any time
+or times hereafter, to require strict performance of any provision of this
+Agreement or any of the Other Agreements shall not waive, affect or diminish any
+right of LaSalle thereafter to demand strict compliance and performance
+therewith. Any suspension or waiver by LaSalle of an Event of Default under this
+Agreement or any default under any of the Other Agreements shall not suspend,
+waive or affect any other Event of Default under this Agreement or any other
+default under any of the Other Agreements, whether the same is prior or
+subsequent thereto and whether of the same or of a different kind or character.
+No delay on the part of LaSalle in the exercise of any right or remedy under
+this Agreement or any Other Agreement shall preclude other or further exercise
+thereof or the exercise of any right or remedy. None of the undertakings,
+agreements, warranties, covenants and representations contained in this
+Agreement or any of the Other Agreements and no Event of Default under this
+Agreement or default under any of the Other Agreements shall be deemed to have
+been suspended or waived by LaSalle unless such suspension or waiver is in
+writing, signed by two duly authorized officers of LaSalle and directed to the
+Borrower specifying such suspension or waiver.
+
+(h)               Timing of Payments.
+
+Any payment required to be made by the Borrower to LaSalle
+hereunder or under any security shall be made in the currency in respect of
+which the obligation requiring such payment arose. Any payment received by
+LaSalle after 3:00 p.m. (Toronto time) on a Business Day, or on any day that is
+not a Business Day, shall be credited to the account of the Borrower as
+applicable on the next following Business Day.
+
+(i)               Canadian Currency.
+
+All dollar amounts specified herein are in Canadian Dollars
+unless otherwise indicated.
+
+<PAGE>
+50.
+
+(j)               Judgment Currency.
+
+If in the recovery by LaSalle of any amount owing hereunder or
+under any of the Other Agreements in any currency, judgment can only be obtained
+in another currency and because of changes in the exchange rate of such
+currencies between the date of judgment and payment in full of the amount of
+such judgment, the amount of recovery under the judgment differs from the full
+amount owing hereunder, the Borrower shall pay any such shortfall to LaSalle;
+such shortfall can be claimed by LaSalle against the Borrower as an alternative
+or additional cause of action and any surplus received by LaSalle will be repaid
+to the Borrower.
+
+(k)               Severability.
+
+In the event any provision of this Agreement is for any reason
+held by a court of competent jurisdiction to be invalid, illegal or
+unenforceable, such invalidity, illegality or unenforceability shall not affect
+any other provision hereof, and this Agreement shall be construed as if such
+invalid, illegal or unenforceable provision had never been contained herein.
+
+(l)               Conflicts.
+
+In the event there occurs any conflict or inconsistency
+between any provision of this Agreement and any provision of the Other
+Agreements, the provision of this Agreement shall govern.
+
+<PAGE>
+
+51.
+
+(m)               Counterparts.
+
+This Agreement and any amendments, waivers, consents,
+acknowledgements or supplements may be executed in number of counterparts and by
+different parties hereto in separate counterparts, each of which, when so
+executed and delivered, shall be deemed an original, but all of which
+counterparts together shall constitute but one agreement.
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this
+Agreement as of the date set out on the first page hereof.
+
+DELPHAX TECHNOLOGIES
+CANADA LIMITED
+
+By: /s/ Robert M. Barniskis
+Name: Robert M. Barniskis
+Title: CFO and Secretary
+
+ABN AMRO BANK N.V., CANADA BRANCH
+
+By: /s/ Keith Hughes
+Name: Keith Hughes
+Title: Senior Vice President
+
+By: /s/ Darcy Mack
+Name: Darcy Mack
+Title: V.P. Asset Based Lending
+
+<PAGE>
+52.
+
+TO:               ABN AMRO BANK N.V., CANADA BRANCH
+
+The undersigned hereby acknowledges and consents to the
+provisions of the foregoing credit agreement, confirms any covenant,
+representation or warranty in any way relating to it and confirms the continuing
+nature thereof, and covenants and agrees to abide by all covenants and
+agreements of the Borrower to cause any action or thing to be done by it and all
+covenants and agreements otherwise relating to it.
+
+DELPHAX TECHNOLOGIES INC.
+
+By: /s/ Robert M. Barniskis
+Name: Robert M. Barniskis
+Title: Vice President, Chief Financial
+Officer and Secretary
+
+

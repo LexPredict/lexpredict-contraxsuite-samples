@@ -1,0 +1,2360 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.1
+
+================================================================================
+
+
+
+
+CREDIT AGREEMENT
+
+
+dated as of
+
+September 13, 1999
+
+among
+
+NMT MEDICAL, INC.,
+NMT HEART, INC.,
+NMT INVESTMENTS CORP.,
+NMT NEUROSCIENCES (INTERNATIONAL), INC.,
+NMT NEUROSCIENCES (US), INC.,
+NMT NEUROSCIENCES (IP), INC.,
+NMT NEUROSCIENCES INNOVASIVE SYSTEMS, INC.,
+as Borrowers
+
+and
+
+BROWN BROTHERS HARRIMAN & CO.,
+as Lender
+
+
+
+
+================================================================================
+<PAGE>
+
+TABLE OF CONTENTS
+<TABLE>
+<CAPTION>
+
+Page
+<S>            <C>                                                                                             <C>
+
+ARTICLE I      Definitions.....................................................................................  1
+SECTION 1.01.  Defined Terms..............................................................................  1
+SECTION 1.02.  Terms Generally............................................................................  9
+SECTION 1.03.  Accounting Terms; GAAP..................................................................... 10
+
+ARTICLE II     The Credit...................................................................................... 10
+SECTION 2.01.  Commitment................................................................................. 10
+SECTION 2.02.  Note....................................................................................... 10
+SECTION 2.03.  Requests for Revolving Borrowings.......................................................... 10
+SECTION 2.04.  Letters of Credit.......................................................................... 11
+SECTION 2.05.  Funding of Borrowings...................................................................... 13
+SECTION 2.06.  Termination and Reduction of Commitment.................................................... 13
+SECTION 2.07.  Repayment of Loans; Evidence of Debt....................................................... 14
+SECTION 2.08.  Prepayment of Loans........................................................................ 14
+SECTION 2.09.  Fees....................................................................................... 14
+SECTION 2.10.  Interest................................................................................... 15
+SECTION 2.11.  Increased Costs............................................................................ 15
+SECTION 2.12.  Taxes...................................................................................... 16
+SECTION 2.13.  Payments Generally......................................................................... 17
+SECTION 2.14.  Senior Status of Obligations............................................................... 17
+
+ARTICLE III    Representations and Warranties.................................................................. 17
+SECTION 3.01.  Organization; Powers....................................................................... 17
+SECTION 3.02.  Authorization; Enforceability.............................................................. 17
+SECTION 3.03.  Governmental Approvals; No Conflicts....................................................... 18
+SECTION 3.04.  Financial Condition; No Material Adverse Change............................................ 18
+SECTION 3.05.  Properties................................................................................. 18
+SECTION 3.06.  Litigation and Environmental Matters....................................................... 19
+SECTION 3.07.  Compliance with Laws and Agreements........................................................ 19
+SECTION 3.08.  Investment and Holding Company Status...................................................... 19
+SECTION 3.09.  Taxes...................................................................................... 19
+SECTION 3.10.  ERISA...................................................................................... 20
+SECTION 3.11.  Disclosure................................................................................. 20
+SECTION 3.12.  Year 2000.................................................................................. 20
+
+ARTICLE IV     Conditions...................................................................................... 21
+SECTION 4.01.  Effective Date............................................................................. 21
+SECTION 4.02.  Each Credit Event.......................................................................... 22
+</TABLE>
+(i)
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Page
+<S>            <C>                                                                                             <C>
+
+ARTICLE V      Affirmative Covenants........................................................................... 22
+SECTION 5.01.  Financial Statements and Other Information................................................. 22
+SECTION 5.02.  Notices of Material Events................................................................. 24
+SECTION 5.03.  Existence; Conduct of Business............................................................. 24
+SECTION 5.04.  Payment of Obligations..................................................................... 24
+SECTION 5.05.  Maintenance of Properties; Insurance....................................................... 25
+SECTION 5.06.  Books and Records; Inspection Rights....................................................... 25
+SECTION 5.07.  Compliance with Laws....................................................................... 25
+SECTION 5.08.  Use of Proceeds and Letters of Credit...................................................... 25
+SECTION 5.09.  Receipt of Proceeds from French Credit Agreement........................................... 25
+SECTION 5.10.  Grant of Mortgage on Real Property......................................................... 25
+SECTION 5.11.  Subsidiary Guarantees...................................................................... 25
+
+ARTICLE VI     Negative Covenants.............................................................................. 26
+SECTION 6.01.  Indebtedness............................................................................... 26
+SECTION 6.02.  Liens...................................................................................... 27
+SECTION 6.03.  Fundamental Changes........................................................................ 28
+SECTION 6.04.  Investments, Loans, Advances, Guarantees and Acquisitions.................................. 28
+SECTION 6.05.  Hedging Agreements......................................................................... 29
+SECTION 6.06.  Restricted Payments........................................................................ 29
+SECTION 6.07.  Transactions with Affiliates............................................................... 30
+SECTION 6.08.  Restrictive Agreements..................................................................... 30
+SECTION 6.09.  Financial Covenants........................................................................ 30
+
+ARTICLE VII    Events of Default............................................................................... 32
+
+ARTICLE VIII   Miscellaneous................................................................................... 34
+SECTION 8.01.  Notices.................................................................................... 34
+SECTION 8.02.  Waivers; Amendments........................................................................ 35
+SECTION 8.03.  Expenses; Indemnity; Damage Waiver......................................................... 35
+SECTION 8.04.  Successors and Assigns..................................................................... 36
+SECTION 8.05.  Survival; Nature of Obligations............................................................ 36
+SECTION 8.06.  Counterparts; Integration; Effectiveness................................................... 37
+SECTION 8.07.  Severability............................................................................... 37
+SECTION 8.08.  Right of Setoff............................................................................ 37
+SECTION 8.09.  Governing Law; Jurisdiction; Consent to Service of Process................................. 38
+SECTION 8.10.  WAIVER OF JURY TRIAL....................................................................... 38
+SECTION 8.11.  Headings................................................................................... 39
+SECTION 8.12.  Confidentiality............................................................................ 39
+</TABLE>
+(ii)
+<PAGE>
+
+SCHEDULES:
+
+Schedule 3.05 -- Patents and Patent Applications
+Schedule 3.06 -- Disclosed Matters
+Schedule 6.01 -- Existing Indebtedness
+Schedule 6.02 -- Existing Liens
+Schedule 6.04 -- Existing Investments
+Schedule 6.08 -- Existing Investments
+Schedule 6.09(a) -- Net Funded Indebtedness and Adjusted Operating Cash Flow
+Definitions
+Schedule 6.09(b) -- Fixed Charge Coverage Definition
+
+
+EXHIBITS:
+
+Exhibit A -- Form of Note
+Exhibit B -- Form of Opinion of Borrowers' Counsel
+
+
+
+(iii)
+<PAGE>
+
+CREDIT AGREEMENT dated as of September 13, 1999, among NMT Medical, Inc., a
+Delaware corporation, NMT Heart, Inc., a Delaware corporation, NMT Investments
+Corp., a Massachusetts corporation, NMT NeuroSciences (International), Inc., a
+Delaware corporation, NMT NeuroSciences (US), Inc., a Delaware corporation, NMT
+NeuroSciences (IP), Inc., a Delaware corporation, and NMT Neurosciences
+Innovasive Systems, Inc., a Florida corporation, as Borrowers, and Brown
+Brothers Harriman & Co., as Lender.
+
+The parties hereto agree as follows:
+
+
+ARTICLE I
+
+Definitions
+
+SECTION 1.01.  Defined Terms.  As used in this Agreement, the following
+terms have the meanings specified below:
+
+"Affiliate" means, with respect to a specified Person, another Person
+that directly, or indirectly through one or more intermediaries, Controls or is
+Controlled by or is under common Control with the Person specified.
+
+"Alternate Base Rate" means, for any day, a rate per annum equal to
+the greater of (a) the Base Rate in effect on such day, or (b) the Federal Funds
+Effective Rate in effect on such day plus  1/2 of 1%.  Any change in the
+Alternate Base Rate due to a change in the Base Rate or the Federal Funds
+Effective Rate shall be effective from and including the effective date of such
+change in the Base Rate or the Federal Funds Effective Rate, respectively.
+
+"Availability Period" means the period from and including the
+Effective Date to but excluding the earlier of the Maturity Date and the date of
+termination of the Commitment.
+
+"Barclays Debt" means the outstanding Indebtedness of Spembly Medical
+Ltd. to Barclays Bank plc in the principal amount as of the date hereof of
+approximately (Pounds)180,000 pursuant to that certain Barclays Treasury Loan
+Facility, dated as of April 15, 1996, by and between Spembly Medical Ltd. and
+Barclays Bank plc.
+
+"Base Rate" means the rate of interest per annum publicly announced
+from time to time by Brown Brothers Harriman & Co. as its prime rate in effect
+at its principal office in Boston, Massachusetts; each change in the Prime Rate
+shall be effective from and including the date such change is publicly announced
+as being effective.
+
+"Board" means the Board of Governors of the Federal Reserve System of
+the United States of America.
+<PAGE>
+
+"Borrowers" means NMT Medical, Inc., a Delaware corporation, NMT
+Heart, Inc., a Delaware corporation, NMT Investments Corp., a Massachusetts
+corporation, NMT NeuroSciences (International), Inc., a Delaware corporation,
+NMT NeuroSciences (US), Inc., a Delaware corporation, NMT NeuroSciences (IP),
+Inc., a Delaware corporation, and NMT Neurosciences Innovasive Systems, Inc., a
+Florida corporation.
+
+"Borrowing" means each Revolving Loan hereunder.
+
+"Borrowing Request" means a request by any Borrower for a Revolving
+Loan in accordance with Section 2.03.
+
+"Business Day" means any day that is not a Saturday, Sunday or other
+day on which commercial banks in New York, New York or Boston, Massachusetts are
+authorized or required by law to remain closed.
+
+"Capital Lease Obligations" of any Person means the obligations of
+such Person to pay rent or other amounts under any lease of (or other
+arrangement conveying the right to use) real or personal property, or a
+combination thereof, which obligations are required to be classified and
+accounted for as capital leases on a balance sheet of such Person under GAAP,
+and the amount of such obligations shall be the capitalized amount thereof
+determined in accordance with GAAP.
+
+"Change in Control" means (a) the acquisition of ownership, directly
+or indirectly, beneficially or of record, by any Person or group (within the
+meaning of the Securities Exchange Act of 1934 and the rules of the Securities
+and Exchange Commission thereunder as in effect on the date hereof), of shares
+representing more than 25% of the aggregate ordinary voting power represented by
+the issued and outstanding capital stock of NMT Medical, Inc.; (b) occupation of
+a majority of the seats (other than vacant seats) on the board of directors of
+NMT Medical, Inc. by Persons who were neither (i) nominated by the board of
+directors of NMT Medical, Inc. nor (ii) appointed by directors so nominated; or
+(c) the acquisition of direct or indirect Control of NMT Medical, Inc. by any
+Person or group.
+
+"Change in Law" means (a) the adoption of any law, rule or regulation
+after the date of this Agreement, (b) any change in any law, rule or regulation
+or in the interpretation or application thereof by any Governmental Authority
+after the date of this Agreement or (c) compliance by the Lender (or, for
+purposes of Section 2.11(b), by any lending office of the Lender) with any
+request, guideline or directive (whether or not having the force of law) of any
+Governmental Authority made or issued after the date of this Agreement.
+
+"Code" means the Internal Revenue Code of 1986, as amended from time
+to time.
+
+"Commitment" means the commitment of the Lender to make Revolving
+Loans and to issue Letters of Credit hereunder.  The initial amount of the
+Lender's Commitment is $5,000,000.
+
+2
+<PAGE>
+
+"Control" means the possession, directly or indirectly, of the power
+to direct or cause the direction of the management or policies of a Person,
+whether through the ability to exercise voting power, by contract or otherwise.
+"Controlling" and "Controlled" have meanings correlative thereto.
+
+"Default" means any event or condition which constitutes an Event of
+Default or which upon notice, lapse of time or both would, unless cured or
+waived, become an Event of Default.
+
+"Disclosed Matters" means the actions, suits and proceedings and the
+environmental matters disclosed in Schedule 3.06.
+
+"dollars" or "$" refers to lawful money of the United States of
+America.
+
+"Domestic Subsidiary" means each Subsidiary that is incorporated or
+organized in the United States or any state or territory thereof.
+
+"Effective Date" means the date on which the conditions specified in
+Section 4.01 are satisfied (or waived in accordance with Section 8.02).
+
+"Environmental Laws" means all laws, rules, regulations, codes,
+ordinances, orders, decrees, judgments, injunctions, notices or binding
+agreements issued, promulgated or entered into by any Governmental Authority,
+relating in any way to the environment, preservation or reclamation of natural
+resources, the management, release or threatened release of any Hazardous
+Material.
+
+"Environmental Liability" means any liability, contingent or otherwise
+(including any liability for damages, costs of environmental remediation, fines,
+penalties or indemnities), of any Borrower or Subsidiary directly or indirectly
+resulting from or based upon (a) violation of any Environmental Law, (b) the
+generation, use, handling, transportation, storage, treatment or disposal of any
+Hazardous Materials, (c) exposure to any Hazardous Materials, (d) the release or
+threatened release of any Hazardous Materials into the environment or (e) any
+contract, agreement or other consensual arrangement pursuant to which liability
+is assumed or imposed with respect to any of the foregoing.
+
+"ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended from time to time.
+
+"ERISA Affiliate" means any trade or business (whether or not
+incorporated) that, together with any Borrower, is treated as a single employer
+under Section 414(b) or (c) of the Code or, solely for purposes of Section 302
+of ERISA and Section 412 of the Code, is treated as a single employer under
+Section 414 of the Code.
+
+"ERISA Event" means (a) any "reportable event", as defined in Section
+4043 of ERISA or the regulations issued thereunder with respect to a Plan (other
+than an event for which the 30-day notice period is waived); (b) the existence
+with respect to any Plan of an "accumulated funding deficiency" (as
+
+3
+<PAGE>
+
+defined in Section 412 of the Code or Section 302 of ERISA), whether or not
+waived; (c) the filing pursuant to Section 412(d) of the Code or Section 303(d)
+of ERISA of an application for a waiver of the minimum funding standard with
+respect to any Plan; (d) the incurrence by any Borrower or any of its ERISA
+Affiliates of any liability under Title IV of ERISA with respect to the
+termination of any Plan; (e) the receipt by any Borrower or any ERISA Affiliate
+from the PBGC or a plan administrator of any notice relating to an intention to
+terminate any Plan or Plans or to appoint a trustee to administer any Plan; (f)
+the incurrence by any Borrower or any of its ERISA Affiliates of any liability
+with respect to the withdrawal or partial withdrawal from any Plan or
+Multiemployer Plan; or (g) the receipt by any Borrower or any ERISA Affiliate of
+any notice, or the receipt by any Multiemployer Plan from any Borrower or any
+ERISA Affiliate of any notice, concerning the imposition of Withdrawal Liability
+or a determination that a Multiemployer Plan is, or is expected to be, insolvent
+or in reorganization, within the meaning of Title IV of ERISA.
+
+"Event of Default" has the meaning assigned to such term in Article
+VII.
+
+"Excluded Taxes" means, with respect to the Lender or any other
+recipient of any payment to be made by or on account of any obligation of any
+Borrower hereunder, (a) income or franchise taxes imposed on (or measured by)
+its net income by the United States of America, or by the jurisdiction under the
+laws of which such recipient is organized or in which its principal office is
+located or applicable lending office is located, and (b) any branch profits
+taxes imposed by the United States of America or any similar tax imposed by any
+other jurisdiction in which any Borrower is located.
+
+"Federal Funds Effective Rate" means, for any day, the weighted
+average (rounded upwards, if necessary, to the next 1/100 of 1%) of the rates on
+overnight Federal funds transactions with members of the Federal Reserve System
+arranged by Federal funds brokers, as published on the next succeeding Business
+Day by the Federal Reserve Bank of New York, or, if such rate is not so
+published for any day that is a Business Day, the average (rounded upwards, if
+necessary, to the next 1/100 of 1%) of the quotations for such day for such
+transactions received by the Lender from three Federal funds brokers of
+recognized standing selected by it.
+
+"Financial Officer" of any Borrower means the chief financial officer,
+principal accounting officer, treasurer or controller of such Borrower.
+
+"French Credit Agreement"  means that certain credit agreement, dated
+as of the date hereof, by and among NMT NeuroSciences Implants (France) SA, a
+French limited liability company, and NMT NeuroSciences Instruments (France)
+SARL, a French limited liability company, as Borrowers, and Brown Brothers
+Harriman & Co., as Lender.
+
+"GAAP" means generally accepted accounting principles in the United
+States of America.
+
+"Governmental Authority" means the government of the United States of
+America, any other nation or any political subdivision thereof, whether state or
+local, and any agency, authority,
+
+4
+<PAGE>
+
+instrumentality, regulatory body, court, central bank or other entity exercising
+executive, legislative, judicial, taxing, regulatory or administrative powers or
+functions of or pertaining to government.
+
+"Guarantee" of or by any Person (the "guarantor") means any
+obligation, contingent or otherwise, of the guarantor guaranteeing or having the
+economic effect of guaranteeing any Indebtedness or other obligation of any
+other Person (the "primary obligor") in any manner, whether directly or
+indirectly, and including any obligation of the guarantor, direct or indirect,
+(a) to purchase or pay (or advance or supply funds for the purchase or payment
+of) such Indebtedness or other obligation or to purchase (or to advance or
+supply funds for the purchase of) any security for the payment thereof, (b) to
+purchase or lease property, securities or services for the purpose of assuring
+the owner of such Indebtedness or other obligation of the payment thereof, (c)
+to maintain working capital, equity capital or any other financial statement
+condition or liquidity of the primary obligor so as to enable the primary
+obligor to pay such Indebtedness or other obligation or (d) as an account party
+in respect of any letter of credit or letter of guaranty issued to support such
+Indebtedness or obligation; provided that the term Guarantee shall not include
+endorsements for collection or deposit in the ordinary course of business.
+
+"Hazardous Materials"  means all explosive or radioactive substances
+or wastes and all hazardous or toxic substances, wastes or other pollutants,
+including petroleum or petroleum distillates, asbestos or asbestos containing
+materials, polychlorinated biphenyls, radon gas, infectious or medical wastes
+and all other substances or wastes of any nature regulated pursuant to any
+Environmental Law.
+
+"Hedging Agreement" means any interest rate protection agreement,
+foreign currency exchange agreement, commodity price protection agreement or
+other interest or currency exchange rate or commodity price hedging arrangement.
+
+"Indebtedness" of any Person means, without duplication, (a) all
+obligations of such Person for borrowed money or with respect to deposits or
+advances of any kind, (b) all obligations of such Person evidenced by bonds,
+debentures, notes or similar instruments, (c) all obligations of such Person
+upon which interest charges are customarily paid, (d) all obligations of such
+Person under conditional sale or other title retention agreements relating to
+property acquired by such Person, (e) all obligations of such Person in respect
+of the deferred purchase price of property or services (excluding current
+accounts payable incurred in the ordinary course of business), (f) all
+Indebtedness of others secured by (or for which the holder of such Indebtedness
+has an existing right, contingent or otherwise, to be secured by) any Lien on
+property owned or acquired by such Person, whether or not the Indebtedness
+secured thereby has been assumed, (g) all Guarantees by such Person of
+Indebtedness of others, (h) all Capital Lease Obligations of such Person, (i)
+all obligations, contingent or otherwise, of such Person as an account party in
+respect of letters of credit and letters of guaranty and (j) all obligations,
+contingent or otherwise, of such Person in respect of bankers' acceptances.  The
+Indebtedness of any Person shall include the Indebtedness of any other entity
+(including any partnership in which such Person is a general partner) to the
+extent such Person is liable therefor as a result of such Person's ownership
+interest in or other relationship with such entity, except to the extent the
+terms of such Indebtedness provide that such Person is not liable therefor.
+
+5
+<PAGE>
+
+"Indemnified Taxes" means Taxes other than Excluded Taxes.
+
+"Interest Payment Date" means the last day of each month, and the day
+that the Loans are required to be repaid.
+
+"LC Disbursement" means a payment made by the Lender pursuant to a
+Letter of Credit.
+
+"LC Exposure" means, at any time, the sum of (a) the aggregate undrawn
+amount of all outstanding Letters of Credit at such time plus (b) the aggregate
+amount of all LC Disbursements that have not yet been reimbursed by or on behalf
+of the Borrowers at such time.
+
+"Lender" means Brown Brothers Harriman & Co., and any successors and
+assigns thereof.
+
+"Letter of Credit" means any letter of credit issued pursuant to this
+Agreement.
+
+"Lien" means, with respect to any asset, (a) any mortgage, deed of
+trust, lien, pledge, hypothecation, encumbrance, charge or security interest in,
+on or of such asset, (b) the interest of a vendor or a lessor under any
+conditional sale agreement, capital lease or title retention agreement (or any
+financing lease having substantially the same economic effect as any of the
+foregoing) relating to such asset and (c) in the case of securities, any
+purchase option, call or similar right of a third party with respect to such
+securities.
+
+"Loans" means all loans made by the Lender to any Borrower pursuant to
+this Agreement.
+
+"Material Adverse Effect" means a material adverse effect on (a) the
+business, assets, operations, prospects or condition, financial or otherwise, of
+the Borrowers and the Subsidiaries taken as a whole, (b) the ability of the
+respective borrowers to perform any of their respective obligations under this
+Agreement or the French Credit Agreement or (c) a material portion of the rights
+of or benefits available to the Lender under this Agreement or the French Credit
+Agreement (other than as a result of any action taken or failed to be taken by
+the Lender).
+
+"Material Indebtedness" means Indebtedness (other than the Loans and
+Letters of Credit), or obligations in respect of one or more Hedging Agreements,
+of any one or more of the Borrowers or the Subsidiaries in an aggregate
+principal amount exceeding $100,000.  For purposes of determining Material
+Indebtedness, the "principal amount" of the obligations of any Borrower or
+Subsidiary in respect of any Hedging Agreement at any time shall be the maximum
+aggregate amount (giving effect to any netting agreements) that such Borrower or
+Subsidiary would be required to pay if such Hedging Agreement were terminated at
+such time.
+
+"Maturity Date" means September 13, 2002.
+
+6
+<PAGE>
+
+"Multiemployer Plan" means a multiemployer plan as defined in Section
+4001(a)(3) of ERISA.
+
+"Other Taxes" means any and all present or future stamp or documentary
+taxes or any other excise or property taxes, charges or similar levies arising
+from any payment made hereunder or from the execution, delivery or enforcement
+of, or otherwise with respect to, this Agreement (but expressly excluding
+Excluded Taxes).
+
+"PBGC" means the Pension Benefit Guaranty Corporation referred to and
+defined in ERISA and any successor entity performing similar functions.
+
+"Permitted Encumbrances" means:
+
+(a) Liens imposed by law for taxes that are not yet due or are being
+contested in compliance with Section 5.04;
+
+(b) carriers', warehousemen's, mechanics', materialmen's, repairmen's
+and other like Liens imposed by law, arising in the ordinary course of
+business and securing obligations that are not overdue by more than 30 days
+or are being contested in compliance with Section 5.04;
+
+(c) pledges and deposits made in the ordinary course of business in
+compliance with workers' compensation, unemployment insurance and other
+social security laws or regulations;
+
+(d) deposits to secure the performance of bids, trade contracts,
+leases, statutory obligations, surety and appeal bonds, performance bonds
+and other obligations of a like nature, in each case in the ordinary course
+of business;
+
+(e) judgment liens in respect of judgments that do not constitute an
+Event of Default under clause (k) of Article VII; and
+
+(f) easements, zoning restrictions, rights-of-way and similar
+encumbrances on real property imposed by law or arising in the ordinary
+course of business that do not materially detract from the value of the
+affected property or interfere with the ordinary conduct of business of any
+Borrower or Subsidiary;
+
+provided that the term "Permitted Encumbrances" shall not include any Lien
+securing Indebtedness.
+
+"Permitted Investments" means:
+
+(a) direct obligations of, or obligations the principal of and
+interest on which are unconditionally guaranteed by, the United States of
+America (or by any agency thereof to the extent
+
+7
+<PAGE>
+
+such obligations are backed by the full faith and credit of the United
+States of America), in each case maturing within one year from the date of
+acquisition thereof;
+
+(b) investments in commercial paper maturing within 270 days from the
+date of acquisition thereof and having, at such date of acquisition, the
+highest credit rating obtainable from Standard & Poor's or from Moody's
+Investors Services, Inc.;
+
+(c) investments in certificates of deposit, banker's acceptances and
+time deposits maturing within 180 days from the date of acquisition thereof
+issued or guaranteed by or placed with, and money market deposit accounts
+issued or offered by, any office of Brown Brothers Harriman & Co. or any
+domestic office of any commercial bank organized under the laws of the
+United States of America or any State thereof which has a combined capital
+and surplus and undivided profits of not less than $500,000,000;
+
+(d) fully collateralized repurchase agreements with a term of not more
+than 30 days for securities described in clause (a) above and entered into
+with a financial institution satisfying the criteria described in clause
+(c) above; and
+
+(e) short term investment funds or instruments sponsored or managed by
+the Lender or selected as a short term investment by the Lender in its
+capacity as money manager for any Borrower or Subsidiary.
+
+"Person" means any natural person, corporation, limited liability
+company, trust, joint venture, association, company, partnership, Governmental
+Authority or other entity.
+
+"Plan"  means any employee pension benefit plan (other than a
+Multiemployer Plan) subject to the provisions of Title IV of ERISA or Section
+412 of the Code or Section 302 of ERISA, and in respect of which any Borrower or
+any ERISA Affiliate is (or, if such plan were terminated, would under Section
+4069 of ERISA be deemed to be) an "employer" as defined in Section 3(5) of
+ERISA.
+
+"Related Parties" means, with respect to any specified Person, such
+Person's Affiliates and the respective directors, officers, employees, agents
+and advisors of such Person and such Person's Affiliates.
+
+"Restricted Payment" means any dividend or other distribution (whether
+in cash, securities or other property) with respect to any shares of any class
+of capital stock of NMT Medical, Inc. or any Subsidiary, or any payment (whether
+in cash, securities or other property), including any sinking fund or similar
+deposit, on account of the purchase, redemption, retirement, acquisition,
+cancellation or termination of any such shares of capital stock of NMT Medical,
+Inc. or any option, warrant or other right to acquire any such shares of capital
+stock of NMT Medical, Inc.
+
+"Revolving Loan" means a Loan made pursuant to Section 2.03.
+
+8
+<PAGE>
+
+"subsidiary" means, with respect to any Person (the "parent") at any
+date, any corporation, limited liability company, partnership, association or
+other entity the accounts of which would be consolidated with those of the
+parent in the parent's consolidated financial statements if such financial
+statements were prepared in accordance with GAAP as of such date, as well as any
+other corporation, limited liability company, partnership, association or other
+entity (a) of which securities or other ownership interests representing more
+than 50% of the equity or more than 50% of the ordinary voting power or, in the
+case of a partnership, more than 50% of the general partnership interests are,
+as of such date, owned, controlled or held, or (b) that is, as of such date,
+otherwise Controlled by the parent or one or more subsidiaries of the parent or
+by the parent and one or more subsidiaries of the parent.
+
+"Subsidiary" means any subsidiary of NMT Medical, Inc.
+
+"Taxes" means any and all present or future taxes, levies, imposts,
+duties, deductions, charges or withholdings imposed by any Governmental
+Authority.
+
+"Transactions" means the execution, delivery and performance by the
+Borrowers of this Agreement, and the security documents and pledge agreements
+referred to in Article IV hereof, the borrowing of Loans, the use of the
+proceeds thereof and the issuance of Letters of Credit hereunder.
+
+"U.K. Lease" means the lease of Spembly Medical Ltd. for the premises
+located at Newbury Road, Andover, Hampshire SP104DR, United Kingdom.
+
+"Whitney Agreement" means the Subordinated Note and Common Stock
+Purchase Agreement dated as of July 8, 1998, as amended, by and among NMT
+Medical, Inc. (f/k/a Nitinol Medical Technologies, Inc.), Whitney Subordinated
+Debt Fund, L.P. and J.H. Whitney & Co.
+
+"Whitney Notes" means the 10.101% Subordinated Promissory Notes due
+September 30, 2003 issued by NMT Medical, Inc. in the original principal amount
+of $20,000,000.
+
+"Withdrawal Liability" means liability to a Multiemployer Plan as a
+result of a complete or partial withdrawal from such Multiemployer Plan, as such
+terms are defined in Part I of Subtitle E of Title IV of ERISA.
+
+SECTION 1.02.  Terms Generally.  The definitions of terms herein shall
+apply equally to the singular and plural forms of the terms defined. Whenever
+the context may require, any pronoun shall include the corresponding masculine,
+feminine and neuter forms. The words "include", "includes" and "including" shall
+be deemed to be followed by the phrase "without limitation". The word "will"
+shall be construed to have the same meaning and effect as the word "shall".
+Unless the context requires otherwise (a) any definition of or reference to any
+agreement, instrument or other document herein shall be construed as referring
+to such agreement, instrument or other document as from time to time amended,
+supplemented or otherwise modified (subject to any restrictions on such
+amendments, supplements or modifications set forth herein), (b) any reference
+herein to any Person shall be construed to include such Person's successors
+
+9
+<PAGE>
+
+and assigns, (c) the words "herein", "hereof" and "hereunder", and words of
+similar import, shall be construed to refer to this Agreement in its entirety
+and not to any particular provision hereof, (d) all references herein to
+Articles, Sections, Exhibits and Schedules shall be construed to refer to
+Articles and Sections of, and Exhibits and Schedules to, this Agreement and (e)
+the words "asset" and "property" shall be construed to have the same meaning and
+effect and to refer to any and all tangible and intangible assets and
+properties, including cash, securities, accounts and contract rights.
+
+SECTION 1.03.  Accounting Terms; GAAP.  Except as otherwise expressly
+provided herein, all terms of an accounting or financial nature shall be
+construed in accordance with GAAP, as in effect from time to time; provided
+that, if the Borrowers notify the Lender that the Borrowers request an amendment
+to any provision hereof to eliminate the effect of any change occurring after
+the date hereof in GAAP or in the application thereof on the operation of such
+provision (or the Lender notifies the Borrowers that it requests an amendment to
+any provision hereof for such purpose), regardless of whether any such notice is
+given before or after such change in GAAP or in the application thereof, then
+such provision shall be interpreted on the basis of GAAP as in effect and
+applied immediately before such change shall have become effective until such
+notice shall have been withdrawn or such provision amended in accordance
+herewith.
+
+
+ARTICLE II
+
+The Credit
+
+SECTION 2.01.  Commitment.  Subject to the terms and conditions set forth
+herein, the Lender agrees to make Revolving Loans to the Borrowers from time to
+time during the Availability Period in an aggregate principal amount that will
+not result in the aggregate amount of all outstanding Revolving Loans plus the
+LC Exposure exceeding the Commitment. Within the foregoing limit and subject to
+the terms and conditions set forth herein, the Borrowers may borrow, prepay and
+reborrow Revolving Loans.
+
+SECTION 2.02.  Note.  The obligations of the Borrowers hereunder with
+respect to all Revolving Loans shall be evidenced by a Note in the form of
+Exhibit A hereto made by each of the Borrowers.
+
+SECTION 2.03.  Requests for Revolving Borrowings.  To request a Revolving
+Borrowing, the Borrowers shall notify the Lender of such request by telephone
+not later than 11:00 a.m., Boston time, one Business Day before the date of the
+proposed Borrowing; provided that any such notice of a Borrowing to finance the
+reimbursement of an LC Disbursement as contemplated by Section 2.04(d) may be
+given not later than 10:00 a.m., Boston time, on the date of the proposed
+Borrowing. Each such telephonic Borrowing Request shall be irrevocable and shall
+be confirmed promptly by hand delivery or telecopy to the Lender of a written
+Borrowing Request in a form approved by the Lender and signed by the Borrowers.
+
+10
+<PAGE>
+
+SECTION 2.04.  Letters of Credit.
+
+(a) General.  Subject to the terms and conditions set forth herein,
+the Borrowers may request the issuance of Letters of Credit for their own
+account, in a form reasonably acceptable to the Lender, at any time and from
+time to time during the Availability Period.  In the event of any inconsistency
+between the terms and conditions of this Agreement and the terms and conditions
+of any form of letter of credit application or other agreement submitted by the
+Borrowers to, or entered into by the Borrowers with, the Lender relating to any
+Letter of Credit, the terms and conditions of this Agreement shall control.
+
+(b) Notice of Issuance, Amendment, Renewal, Extension; Certain
+Conditions.  To request the issuance of a Letter of Credit (or the amendment,
+renewal or extension of an outstanding Letter of Credit), the Borrowers shall
+hand deliver or telecopy (or transmit by electronic communication, if
+arrangements for doing so have been approved by the Lender) to the Lender
+(reasonably in advance of the requested date of issuance, amendment, renewal or
+extension) a notice requesting the issuance of a Letter of Credit, or
+identifying the Letter of Credit to be amended, renewed or extended, and
+specifying the date of issuance, amendment, renewal or extension (which shall be
+a Business Day), the date on which such Letter of Credit is to expire (which
+shall comply with paragraph (c) of this Section), the amount of such Letter of
+Credit, the name and address of the beneficiary thereof and such other
+information as shall be necessary to prepare, amend, renew or extend such Letter
+of Credit.  If requested by the Lender, the Borrowers also shall submit a letter
+of credit application on the Lender's standard form in connection with any
+request for a Letter of Credit.  A Letter of Credit shall be issued, amended,
+renewed or extended only if (and upon issuance, amendment, renewal or extension
+of each Letter of Credit the Borrowers shall be deemed to represent and warrant
+that), after giving effect to such issuance, amendment, renewal or extension (i)
+the LC Exposure shall not exceed $500,000 and (ii) the sum of the total
+Revolving Loans and LC Exposure shall not exceed the total Commitment.
+
+(c) Expiration Date.  Each Letter of Credit shall expire at or prior
+to the close of business on the earlier of (i) the date one year after the date
+of the issuance of such Letter of Credit (or, in the case of any renewal or
+extension thereof, one year after such renewal or extension) and (ii) the date
+that is five Business Days prior to the Maturity Date; provided, however, that
+if requested by the Borrowers a Letter of Credit shall automatically be renewed
+and extended for an additional year (but not beyond the date specified in clause
+(ii) above) unless the Lender notifies the Borrowers of its refusal to so renew
+and extend such Letter of Credit within 30 days prior to the date such Letter of
+Credit would otherwise expire.
+
+(d) Reimbursement.  If the Lender shall make any LC Disbursement in
+respect of a Letter of Credit, the Borrowers shall reimburse such LC
+Disbursement by paying to the Lender an amount equal to such LC Disbursement not
+later than 12:00 noon, Boston time, on the date that such LC Disbursement is
+made, if any Borrower shall have received notice of such LC Disbursement prior
+to 10:00 a.m., Boston time, on such date, or, if such notice has not been
+received by the Borrowers prior to such time on such date, then not later than
+12:00 noon, Boston time, on the Business Day immediately following the day that
+any Borrower receives such notice; provided that the Borrowers may, subject to
+the conditions to borrowing set forth herein, request in accordance with Section
+2.03 that such payment be financed with
+
+11
+<PAGE>
+
+a Revolving Loan in an equivalent amount and, to the extent so financed, the
+Borrowers' obligation to make such payment shall be discharged and replaced by
+the resulting Borrowing.
+
+(e) Obligations Absolute.  The Borrowers' obligation to reimburse LC
+Disbursements as provided in paragraph (d) of this Section shall be absolute,
+unconditional and irrevocable, and shall be performed strictly in accordance
+with the terms of this Agreement under any and all circumstances whatsoever and
+irrespective of (i) any lack of validity or enforceability of any Letter of
+Credit or this Agreement, or any term or provision therein, (ii) any draft or
+other document presented under a Letter of Credit proving to be forged,
+fraudulent or invalid in any respect or any statement therein being untrue or
+inaccurate in any respect, (iii) payment by the Lender under a Letter of Credit
+against presentation of a draft or other document that does not comply with the
+terms of such Letter of Credit, or (iv) any other event or circumstance
+whatsoever, whether or not similar to any of the foregoing, that might, but for
+the provisions of this Section, constitute a legal or equitable discharge of, or
+provide a right of setoff against, the Borrowers' obligations hereunder.
+Neither the Lender nor any of its Related Parties shall have any liability or
+responsibility by reason of or in connection with the issuance or transfer of
+any Letter of Credit or any payment or failure to make any payment thereunder
+(irrespective of any of the circumstances referred to in the preceding
+sentence), or any error, omission, interruption, loss or delay in transmission
+or delivery of any draft, notice or other communication under or relating to any
+Letter of Credit (including any document required to make a drawing thereunder),
+any error in interpretation of technical terms or any consequence arising from
+causes beyond the control of the Lender; provided that the foregoing shall not
+be construed to excuse the Lender from liability to the Borrowers to the extent
+of any direct damages (as opposed to consequential damages, claims in respect of
+which are hereby waived by the Borrowers to the fullest extent permitted by
+applicable law) suffered by the Borrowers that are caused by the Lender's
+failure to exercise care when determining whether drafts and other documents
+presented under a Letter of Credit comply with the terms thereof.  The parties
+hereto expressly agree that, in the absence of gross negligence or willful
+misconduct on the part of the Lender, the Lender shall be deemed to have
+exercised care in each such determination.  In furtherance of the foregoing and
+without limiting the generality thereof, the parties agree that, with respect to
+documents presented which appear on their face to be in substantial compliance
+with the terms of a Letter of Credit, the Lender may, in its sole discretion,
+either accept and make payment upon such documents without responsibility for
+further investigation, regardless of any notice or information to the contrary,
+or refuse to accept and make payment upon such documents if such documents are
+not in strict compliance with the terms of such Letter of Credit.
+
+(f) Disbursement Procedures.  The Lender shall, promptly following its
+receipt thereof, examine all documents purporting to represent a demand for
+payment under a Letter of Credit.  The Lender shall promptly notify the
+Borrowers by telephone (confirmed by telecopy) of such demand for payment and
+whether the Lender has made or will make an LC Disbursement thereunder; provided
+that any failure to give or delay in giving such notice shall not relieve the
+Borrowers of their obligation to reimburse the Lender with respect to any such
+LC Disbursement.
+
+(g) Interim Interest.  If the Lender shall make any LC Disbursement,
+then, unless the Borrowers shall reimburse such LC Disbursement in full on the
+date such LC Disbursement is made, the
+
+12
+<PAGE>
+
+unpaid amount thereof shall bear interest, for each day from and including the
+date such LC Disbursement is made to but excluding the date that the Borrowers
+reimburse such LC Disbursement, at the rate provided for in Section 2.10(b).
+Interest accrued pursuant to this paragraph shall be for the account of the
+Lender.
+
+(h) Cash Collateralization.  If any Event of Default shall occur and
+be continuing, on the Business Day that the Borrowers receive notice from the
+Lender demanding the deposit of cash collateral pursuant to this paragraph, the
+Borrowers shall deposit in an account with the Lender, an amount in cash equal
+to the LC Exposure as of such date plus any accrued and unpaid interest and fees
+thereon; provided that the obligation to deposit such cash collateral shall
+become effective immediately, and such deposit shall become immediately due and
+payable, without demand or other notice of any kind, upon the occurrence of any
+Event of Default with respect to any Borrower described in clause (h) or (i) of
+Article VII.  Such deposit shall be held by the Lender as collateral for the
+payment and performance of the obligations of the Borrowers under this
+Agreement.  The Lender shall have exclusive dominion and control, including the
+exclusive right of withdrawal, over such account.  All such deposits shall be
+invested, at the option of the Borrowers, in certificates of deposit issued by
+the Lender or in a Lender sponsored money market fund.  Interest or profits, if
+any, on such investments shall accumulate in such account.  Moneys in such
+account shall be applied by and paid to the Lender as reimbursement for LC
+Disbursements for which it has not been reimbursed and, to the extent not so
+applied, shall be held for the satisfaction of the reimbursement obligations of
+the Borrowers for the LC Exposure at such time or, if the maturity of the Loans
+has been accelerated, be applied to satisfy any other obligations of the
+Borrowers under this Agreement.  If the Borrowers are required to provide an
+amount of cash collateral hereunder as a result of the occurrence of an Event of
+Default, such amount (to the extent not applied as aforesaid) shall be returned
+to the Borrowers within three Business Days after all Events of Default have
+been cured or waived.
+
+SECTION 2.05.  Funding of Borrowings.  The Lender will make Loans
+available to the Borrowers by promptly crediting the amounts so received, in
+like funds, to an account of any Borrower maintained with the Lender in Boston
+and designated by the Borrowers in the applicable Borrowing Request; provided
+that Revolving Loans made to finance the reimbursement of an LC Disbursement as
+provided in Section 2.04(d) shall be remitted to the Lender.
+
+SECTION 2.06.  Termination and Reduction of Commitment.
+
+(a) Unless previously terminated, the Commitment shall terminate on
+the Maturity Date.
+
+(b) The Borrowers may at any time terminate, or from time to time
+reduce, the Commitment; provided that (i) each reduction of the Commitment shall
+be in an amount that is an integral multiple of $100,000 and not less than
+$1,000,000 and (ii) the Borrowers shall not terminate or reduce the Commitment
+if, after giving effect to any concurrent prepayment of the Loans in accordance
+with Section 2.08, the sum of the outstanding amount of all Loans plus the LC
+Exposure would exceed the Commitment.
+
+13
+<PAGE>
+
+(c) The Borrowers shall notify the Lender of any election to terminate
+or reduce the Commitment under paragraph (b) of this Section at least three
+Business Days prior to the effective date of such termination or reduction,
+specifying such election and the effective date thereof.  Each notice delivered
+by the Borrowers pursuant to this Section shall be irrevocable.
+
+SECTION 2.07.  Repayment of Loans; Evidence of Debt.
+
+(a) The Borrowers hereby unconditionally promise to pay to the Lender
+the then unpaid principal amount of each Revolving Loan on the Maturity Date.
+
+(b) The Lender shall maintain in accordance with its usual practice an
+account or accounts evidencing the indebtedness of the Borrowers to the Lender
+resulting from each Loan made by the Lender, including the amounts of principal
+and interest payable and paid to the Lender from time to time hereunder.
+
+(c) The entries made in the accounts maintained pursuant to paragraph
+(b) of this Section shall be prima facie evidence of the existence and amounts
+of the obligations recorded therein; provided that the failure of the Lender to
+maintain such accounts or any error therein shall not in any manner affect the
+obligation of the Borrowers to repay the Loans in accordance with the terms of
+this Agreement.
+
+SECTION 2.08.  Prepayment of Loans.  The Borrowers shall have the right at
+any time and from time to time to prepay without penalty any Borrowing in whole
+or in part.
+
+SECTION 2.09.  Fees.
+
+(a) The Borrowers agree to pay to the Lender a nonusage fee, which
+shall accrue at the rate of 0.375% per annum on the average daily amount of any
+unused portion of the Commitment during the period from and including the date
+hereof to but excluding the date on which such Commitment terminates.  Accrued
+nonusage fees shall be payable in arrears on the last day of March, June,
+September and December of each year and on the date on which the Commitment
+terminates, commencing on the first such date to occur after the date hereof.
+As used herein, usage of the Lender's Commitment includes Revolving Loans and LC
+Exposure.  All nonusage fees shall be computed on the basis of a year of 360
+days and shall be payable for the actual number of days elapsed.
+
+(b) The Borrowers agree to pay to the Lender a fee with respect to all
+outstanding Letters of Credit, which shall accrue at the rate of 1.5% per annum
+on the average daily amount of the Lender's LC Exposure (excluding any portion
+thereof attributable to unreimbursed LC Disbursements), as well as the Lender's
+standard fees with respect to the issuance, amendment, renewal or extension of
+any Letter of Credit or processing of drawings thereunder.  Such fees shall be
+payable in advance upon the issuance of any Letter of Credit.  All such fees
+shall be computed on the basis of a year of 360 days and shall be payable for
+the actual number of days elapsed.
+
+14
+<PAGE>
+
+(c) The Borrowers agree to pay to the Lender a closing fee as set
+forth in the letter from it to NMT Medical, Inc. dated June 18, 1999.
+
+SECTION 2.10.  Interest.
+
+(a) All Loans shall bear interest at the Alternate Base Rate.
+
+(b) Notwithstanding the foregoing, if any principal of or interest on
+any Loan or any fee or other amount payable by the Borrowers hereunder is not
+paid when due, whether at stated maturity, upon acceleration or otherwise, such
+overdue amount shall bear interest, after as well as before judgment, at a rate
+per annum equal to the Alternate Base Rate plus 4%.
+
+(c) Accrued interest on each Loan shall be payable in arrears on each
+Interest Payment Date for such Loan and upon termination of the Commitment;
+provided that interest accrued pursuant to paragraph (b) of this Section shall
+be payable on demand.
+
+(d) All interest hereunder shall be computed on the basis of a year of
+360 days, and shall be payable for the actual number of days elapsed.  The
+applicable Alternate Base Rate shall be determined by the Lender, and such
+determination shall be conclusive absent manifest error.
+
+SECTION 2.11.  Increased Costs.
+
+(a)  If any Change in Law shall:
+
+(i)   impose, modify or deem applicable any reserve, special
+deposit or similar requirement against assets of, deposits with or for the
+account of, or credit extended by, the Lender; or
+
+(ii)  impose on the Lender any other condition affecting this
+Agreement or any Loans made by the Lender or any Letter of Credit issued
+hereunder;
+
+and the result of any of the foregoing shall be to increase the cost to the
+Lender of making or maintaining any Loan (or of maintaining its obligation to
+make any such Loan) or to increase the cost to the Lender of issuing or
+maintaining any Letter of Credit or to reduce the amount of any sum received or
+receivable by the Lender hereunder (whether of principal, interest or
+otherwise), then the Borrowers will pay to the Lender such additional amount or
+amounts as will compensate the Lender for such additional costs incurred or
+reduction suffered.
+
+(b) If the Lender determines that any Change in Law regarding capital
+requirements has or would have the effect of reducing the rate of return on the
+Lender's capital as a consequence of this Agreement or the Loans made by the
+Lender, or the Letters of Credit issued by the Lender, to a level below that
+which the Lender could have achieved but for such Change in Law (taking into
+consideration
+
+15
+<PAGE>
+
+the Lender's policies with respect to capital adequacy), then from time to time
+the Borrowers will pay to the Lender such additional amount or amounts as will
+compensate the Lender for any such reduction suffered.
+
+(c) A certificate of the Lender setting forth in reasonable detail the
+basis for any such additional payment and the amount or amounts necessary to
+compensate the Lender as specified in paragraph (a) or (b) of this Section shall
+be delivered to the Borrowers and shall be conclusive absent manifest error.
+The Borrowers shall pay the Lender the amount shown as due on any such
+certificate within 10 days after receipt thereof.
+
+(d) Failure or delay on the part of the Lender to demand compensation
+pursuant to this Section shall not constitute a waiver of the Lender's right to
+demand such compensation; provided that any such demand shall be made within 90
+days of the event or condition giving rise to the demand on which it is based.
+
+SECTION 2.12.  Taxes.
+
+(a) Any and all payments by or on account of any obligation of the
+Borrowers hereunder shall be made free and clear of and without deduction for
+any Indemnified Taxes or Other Taxes; provided that if the Borrowers shall be
+required to deduct any Indemnified Taxes or Other Taxes from such payments, then
+(i) the sum payable shall be increased as necessary so that after making all
+required deductions (including deductions applicable to additional sums payable
+under this Section), the Lender receives an amount equal to the sum it would
+have received had no such deductions been made, (ii) the Borrowers shall make
+such deductions and (iii) the Borrowers shall pay the full amount deducted to
+the relevant Governmental Authority in accordance with applicable law.  In
+addition, the Borrowers shall pay all Other Taxes to the relevant Governmental
+Authority in accordance with applicable law.
+
+(b) The Borrowers shall indemnify the Lender within 10 days after
+written demand therefor, for the full amount of any Indemnified Taxes or Other
+Taxes paid by the Lender on or with respect to any payment by or on account of
+any obligation of the Borrowers hereunder (including Indemnified Taxes or Other
+Taxes imposed or asserted on or attributable to amounts payable under this
+Section) and any penalties, interest and reasonable expenses arising therefrom
+or with respect thereto, whether or not such Indemnified Taxes or Other Taxes
+were correctly or legally imposed or asserted by the relevant Governmental
+Authority.  A certificate as to the amount of such payment or liability
+delivered to the Borrowers by the Lender shall be conclusive absent manifest
+error.
+
+(c) As soon as practicable after any payment of Indemnified Taxes or
+Other Taxes by the Borrowers to a Governmental Authority, the Borrowers shall
+deliver to the Lender the original or a certified copy of a receipt issued by
+such Governmental Authority evidencing such payment, a copy of the return
+reporting such payment or other evidence of such payment reasonably satisfactory
+to the Lender.
+
+16
+<PAGE>
+
+SECTION 2.13.  Payments Generally.
+
+(a) The Borrowers shall make each payment required to be made by it
+hereunder (whether of principal, interest, fees or reimbursement of LC
+Disbursements, or of amounts payable under Section 2.11 or 2.12, or otherwise)
+prior to 2:00 p.m., Boston time, on the date when due, in immediately available
+funds, without set-off or counterclaim.  Any amounts received after such time on
+any date shall be deemed to have been received on the next succeeding Business
+Day for purposes of calculating interest thereon.  All such payments shall be
+made to the Lender at its offices in Boston, Massachusetts, except that payments
+pursuant to Sections 2.11, 2.12 and 8.03 shall be made directly to the Persons
+entitled thereto. If any payment hereunder shall be due on a day that is not a
+Business Day, the date for payment shall be extended to the next succeeding
+Business Day, and, in the case of any payment accruing interest, interest
+thereon shall be payable for the period of such extension.  All payments
+hereunder shall be made in dollars.
+
+(b) If at any time insufficient funds are received by and available to
+the Lender to pay fully all amounts of principal, unreimbursed LC Disbursements,
+and interest and fees then due hereunder, such funds shall be applied (i) first,
+towards payment of interest and fees then due hereunder, and (ii) second,
+towards payment of principal and unreimbursed LC Disbursements then due
+hereunder.
+
+SECTION 2.14.  Senior Status of Obligations.  All rights of the Lender
+with respect to the payment and performance of all obligations of the Borrowers
+hereunder of every kind and description, whether now existing or hereafter
+arising, shall be senior to all rights of the holders of the Whitney Notes, and
+such rights of the Lender shall not be subordinated in right of payment to any
+other Indebtedness of any Borrower or Subsidiary.
+
+
+ARTICLE III
+
+Representations and Warranties
+
+The Borrowers represent and warrant to the Lender that (provided that, for
+purposes of the Borrowers making the following representations and warranties as
+of the date hereof only, the term "Subsidiary" shall in no event include Image
+Technology Corp.):
+
+SECTION 3.01  Organization; Powers.  Each of the Borrowers and the
+Subsidiaries is duly organized, validly existing and in good standing (where
+applicable) under the laws of the jurisdiction of its organization, has all
+requisite power and authority to carry on its business as now conducted and,
+except where the failure to do so, individually or in the aggregate, could not
+reasonably be expected to result in a Material Adverse Effect, is qualified to
+do business in, and is in good standing in, every jurisdiction where such
+qualification is required.
+
+SECTION 3.02.  Authorization; Enforceability.  The Transactions to be
+entered into by the respective Borrowers are within each of the respective
+Borrower's corporate powers and have been duly
+
+17
+<PAGE>
+
+authorized by all necessary corporate and, if required, stockholder action. This
+Agreement has been duly executed and delivered by each Borrower and constitutes
+a legal, valid and binding obligation of each Borrower, enforceable in
+accordance with its terms, subject to applicable bankruptcy, insolvency,
+reorganization, moratorium or other laws affecting creditors' rights generally
+and subject to general principles of equity, regardless of whether considered in
+a proceeding in equity or at law.
+
+SECTION 3.03  Governmental Approvals; No Conflicts.  The Transactions (a)
+do not require any consent or approval of, registration or filing with, or any
+other action by, any Governmental Authority, except such as have been obtained
+or made and are in full force and effect, (b) will not violate any applicable
+law or regulation or the charter, by-laws or other organizational documents of
+any Borrower or Subsidiary or any order of any Governmental Authority, (c) will
+not violate or result in a default under any indenture, agreement or other
+instrument binding upon any Borrower or Subsidiary or its assets, or give rise
+to a right thereunder to require any payment to be made by any Borrower or
+Subsidiary, and (d) will not result in the creation or imposition of any Lien on
+any asset of any Borrower or Subsidiary.
+
+SECTION 3.04.  Financial Condition; No Material Adverse Change.
+
+(a) The Borrowers have heretofore furnished to the Lender the
+consolidated balance sheet and statements of income, stockholders equity and
+cash flows of NMT Medical, Inc. and its Subsidiaries (i) as of and for each of
+the last three fiscal years ended December 31, 1998, reported on by Arthur
+Andersen LLP, independent public accountants, and (ii) as of and for the fiscal
+quarter and the portion of the fiscal year ended June 30, 1999, certified by its
+chief financial officer.  Such financial statements present fairly, in all
+material respects, the financial position and results of operations and cash
+flows of NMT Medical, Inc. and its Subsidiaries as of such dates and for such
+periods in accordance with GAAP, subject to year-end audit adjustments and the
+absence of footnotes in the case of the statements referred to in clause (ii)
+above.
+
+(b) Since December 31, 1998, there has been no material adverse change
+in the business, assets, operations, prospects or condition, financial or
+otherwise, of NMT Medical, Inc. and its Subsidiaries taken as a whole.
+
+SECTION 3.05.  Properties.
+
+(a) Each of the Borrowers and the Subsidiaries has good title to, or
+valid leasehold interests in, all its real and personal property material to its
+business, except for minor defects in title that do not interfere with its
+ability to conduct its business as currently conducted or to utilize such
+properties for their intended purposes.
+
+(b) Each of the Borrowers and the Subsidiaries owns, or is licensed to
+use, all trademarks, tradenames, copyrights, patents and other intellectual
+property material to its business, and the use thereof by the Borrowers and the
+Subsidiaries does not infringe upon the rights of any other Person, except for
+any such infringements that, individually or in the aggregate, could not
+reasonably be expected
+
+18
+<PAGE>
+
+to result in a Material Adverse Effect. Attached hereto as Schedule 3.05 is a
+complete and accurate list of all of the patents and patent applications owned
+by the Borrowers as of the date hereof.
+
+SECTION 3.06.  Litigation and Environmental Matters.
+
+(a) There are no actions, suits or proceedings by or before any
+arbitrator or Governmental Authority pending against or, to the knowledge of the
+Borrowers, threatened against or affecting any Borrower or Subsidiary (i) as to
+which there is a reasonable possibility of an adverse determination and that, if
+adversely determined, could reasonably be expected, individually or in the
+aggregate, to result in a Material Adverse Effect (other than the Disclosed
+Matters) or (ii) that involve this Agreement or the Transactions.
+
+(b) Except for the Disclosed Matters and except with respect to any
+other matters that, individually or in the aggregate, could not reasonably be
+expected to result in a Material Adverse Effect, no Borrower or Subsidiary (i)
+has failed to comply with any Environmental Law or to obtain, maintain or comply
+with any permit, license or other approval required under any Environmental Law,
+(ii) has become subject to any Environmental Liability, (iii) has received
+notice of any claim with respect to any Environmental Liability or (iv) knows of
+any basis for any Environmental Liability.
+
+(c) Since the date of this Agreement, there has been no change in the
+status of the Disclosed Matters that, individually or in the aggregate, has
+resulted in, or materially increased the likelihood of, a Material Adverse
+Effect.
+
+SECTION 3.07.  Compliance with Laws and Agreements.  Each of the Borrowers
+and the Subsidiaries is in compliance with all laws, regulations and orders of
+any Governmental Authority applicable to it or its property and all indentures,
+agreements and other instruments binding upon it or its property, except where
+the failure to do so, individually or in the aggregate, could not reasonably be
+expected to result in a Material Adverse Effect. No Default has occurred and is
+continuing.
+
+SECTION 3.08.  Investment and Holding Company Status.  No Borrower or
+Subsidiary is (a) an "investment company" as defined in, or subject to
+regulation under, the Investment Company Act of 1940 or (b) a "holding company"
+as defined in, or subject to regulation under, the Public Utility Holding
+Company Act of 1935.
+
+SECTION 3.09.  Taxes.  Each of the Borrowers and the Subsidiaries has
+timely filed or caused to be filed all Tax returns and reports required to have
+been filed and has paid or caused to be paid all Taxes required to have been
+paid by it, except (a) Taxes that are being contested in good faith by
+appropriate proceedings and for which such Borrower or Subsidiary, as the case
+may be, has set aside on its books adequate reserves or (b) to the extent that
+the failure to do so could not reasonably be expected to result in a Material
+Adverse Effect.
+
+19
+<PAGE>
+
+SECTION 3.10  ERISA.  No ERISA Event has occurred or is reasonably
+expected to occur that, when taken together with all other such ERISA Events for
+which liability is reasonably expected to occur, could reasonably be expected to
+result in a Material Adverse Effect. The present value of all accumulated
+benefit obligations under each Plan (based on the assumptions used for purposes
+of Statement of Financial Accounting Standards No. 87) did not, as of the date
+of the most recent financial statements reflecting such amounts, exceed by more
+than $10,000 the fair market value of the assets of such Plan, and the present
+value of all accumulated benefit obligations of all underfunded Plans (based on
+the assumptions used for purposes of Statement of Financial Accounting Standards
+No. 87) did not, as of the date of the most recent financial statements
+reflecting such amounts, exceed by more than $25,000 the fair market value of
+the assets of all such underfunded Plans.
+
+SECTION 3.11  Disclosure.  The Borrowers have disclosed to the Lender all
+agreements, instruments and corporate or other restrictions to which any of them
+or any Subsidiary is subject, and all other matters known to them, that,
+individually or in the aggregate, could reasonably be expected to result in a
+Material Adverse Effect.  None of the reports, financial statements,
+certificates or other information (other than any such information provided in
+draft or preliminary form) furnished by or on behalf of the Borrowers to the
+Lender in connection with the negotiation of this Agreement or delivered
+hereunder (as modified or supplemented by other information so furnished)
+contains any material misstatement of fact or, when taken together, omits to
+state any material fact necessary to make the statements therein, in the light
+of the circumstances under which they were made, not misleading; provided that,
+with respect to projected financial information or other information provided in
+estimated form, the Borrowers represent only that such information was prepared
+in good faith based upon assumptions believed to be reasonable at the time.
+
+SECTION 3.12.  Year 2000.  Any reprogramming required to permit the proper
+functioning, in and following the year 2000, of (i) the Borrowers' and the
+Subsidiaries' computer systems and (ii) equipment containing embedded microchips
+(including systems and equipment supplied by others or with which any of the
+Borrower's or Subsidiary's systems interface) and the testing of all such
+systems and equipment, as so reprogrammed, will be completed by December 1999.
+The cost to the Borrowers and the Subsidiaries of such reprogramming and testing
+and of the reasonably foreseeable consequences of year 2000 to the Borrowers and
+the Subsidiaries (including, without limitation, reprogramming errors and the
+failure of others' systems or equipment) will not result in a Default or a
+Material Adverse Effect.  Except for such of the reprogramming referred to in
+the preceding sentence as may be necessary, the computer and management
+information systems of the Borrowers and the Subsidiaries are and, with ordinary
+course upgrading and maintenance, will continue for the term of this Agreement
+to be, sufficient to permit the Borrowers and the Subsidiaries to conduct their
+respective businesses without Material Adverse Effect.
+
+20
+<PAGE>
+
+ARTICLE IV
+
+Conditions
+
+SECTION 4.01.  Effective Date.  The obligations of the Lender to make
+Loans and issue Letters of Credit hereunder shall not become effective until the
+date on which (x) each of the following conditions is satisfied (or waived in
+accordance with Section 8.02) and (y) each of the conditions set forth in
+Section 4.01 of the French Credit Agreement is satisfied (or waived in
+accordance with the terms thereof):
+
+(a) The Lender (or its counsel) shall have received from each party
+hereto either (i) a counterpart of this Agreement signed on behalf of such
+party or (ii) written evidence satisfactory to the Lender (which may
+include telecopy transmission of a signed signature page of this Agreement)
+that such party has signed a counterpart of this Agreement.
+
+(b) The Lender shall have received a favorable written opinion
+(addressed to the Lender and dated the Effective Date) of Hale and Dorr
+LLP, counsel for the Borrowers, substantially in the form of Exhibit B, and
+covering such other matters relating to the Borrowers, this Agreement or
+the Transactions as the Lender shall reasonably request.  The Borrowers
+hereby request such counsel to deliver such opinion.
+
+(c) The Lender shall have received such documents and certificates as
+it or its counsel may reasonably request relating to the organization,
+existence and good standing of the Borrowers, the authorization of the
+Transactions and any other legal matters relating to the Borrowers and the
+Subsidiaries, this Agreement or the Transactions, all in form and substance
+satisfactory to the Lender and its counsel.
+
+(d) The Lender shall have received a certificate, dated the Effective
+Date and signed by the President, a Vice President or a Financial Officer
+of each of the Borrowers, confirming compliance with the conditions set
+forth in paragraphs (a) and (b) of Section 4.02.
+
+(e) The Lender shall have received security documents in form and
+substance satisfactory to it from each of the Borrowers granting to the
+Lender a first priority Lien on all of their assets (subject to Liens
+permitted hereunder), other than any owned real property.
+
+(f) The Lender shall have received pledge agreements (together with
+the pledged stock certificates and related stock powers executed in blank)
+in form and substance satisfactory to it pursuant to which the Lender shall
+receive a first priority Lien on all outstanding shares or interests of the
+Subsidiaries held by the Borrowers; provided that the pledge by any
+Borrower of any voting stock or interests in any Subsidiary that is not a
+Domestic Subsidiary shall be limited to sixty-five percent (65%) of such
+voting stock or interests.
+
+21
+<PAGE>
+
+(g) The Lender shall have received all fees and other amounts due and
+payable on or prior to the Effective Date, including, to the extent
+invoiced, reimbursement or payment of all out-of-pocket expenses required
+to be reimbursed or paid by the Borrowers hereunder.
+
+(h) The Whitney Agreement and the Whitney Notes shall have been
+amended in form and substance satisfactory to the Lender and all collateral
+securing the Whitney Notes shall have been released and terminated;
+
+provided that, pursuant to a collateral agency agreement in form and
+substance satisfactory to the Lender, the security interests in certain
+foreign patents as in effect on the date hereof shall be maintained solely
+on behalf of the Lender.
+
+(i) All of the collateral securing the Barclays Debt shall have been
+released and terminated, other than the U.K. Lease.
+
+SECTION 4.02.  Each Credit Event.  The obligation of the Lender to make a
+Loan on the occasion of any Borrowing or to issue, amend, renew or extend any
+Letter of Credit is subject to the satisfaction of the following conditions:
+
+(a) The representations and warranties of the Borrowers set forth in
+this Agreement shall be true and correct on and as of the date of such
+Borrowing or the date of issuance, amendment, renewal or extension of such
+Letter of Credit, as applicable.
+
+(b) At the time of and immediately after giving effect to such
+Borrowing or the issuance, amendment, renewal or extension of such Letter
+of Credit, as applicable, no Default shall have occurred and be continuing.
+
+Each Borrowing and each issuance, amendment, renewal or extension of a Letter of
+Credit shall be deemed to constitute a representation and warranty by the
+Borrowers on the date thereof as to the matters specified in paragraphs (a) and
+(b) of this Section.
+
+
+ARTICLE V
+
+Affirmative Covenants
+
+Until the Commitment has expired or been terminated and the principal of
+and interest on each Loan and all fees payable hereunder shall have been paid in
+full and all Letters of Credit shall have expired or terminated and all LC
+Disbursements shall have been reimbursed, the Borrowers covenant and agree with
+the Lender that:
+
+SECTION 5.01.  Financial Statements and Other Information. The Borrowers
+will furnish to the Lender:
+
+22
+<PAGE>
+
+(a) within 90 days after the end of each fiscal year of NMT Medical,
+Inc., its audited consolidated balance sheet and related statements of
+operations, stockholders' equity and cash flows as of the end of and for
+such year, setting forth in each case in comparative form the figures for
+the previous fiscal year, all reported on by Arthur Andersen LLP or other
+independent public accountants of recognized national standing (without a
+"going concern" or like qualification or exception and without any
+qualification or exception as to the scope of such audit) to the effect
+that such consolidated financial statements present fairly in all material
+respects the financial condition and results of operations of NMT Medical,
+Inc. and its consolidated Subsidiaries on a consolidated basis in
+accordance with GAAP consistently applied;
+
+(b) within 45 days after the end of each of the first three fiscal
+quarters of each fiscal year of NMT Medical, Inc., its consolidated balance
+sheet and related statements of operations, stockholders' equity and cash
+flows as of the end of and for such fiscal quarter and the then elapsed
+portion of the fiscal year, setting forth in each case in comparative form
+the figures for the corresponding period or periods of (or, in the case of
+the balance sheet, as of the end of) the previous fiscal year, all
+certified by one of its Financial Officers as presenting fairly in all
+material respects the financial condition and results of operations of NMT
+Medical, Inc. and its consolidated Subsidiaries on a consolidated basis in
+accordance with GAAP consistently applied, subject to normal year-end audit
+adjustments and the absence of footnotes;
+
+(c) concurrently with any delivery of financial statements under
+clause (a) or (b) above, a certificate of a Financial Officer of the
+Borrowers (i) certifying as to whether a Default has occurred and, if a
+Default has occurred, specifying the details thereof and any action taken
+or proposed to be taken with respect thereto, (ii) setting forth reasonably
+detailed calculations demonstrating compliance with Section 6.09 and (iii)
+stating whether any change in GAAP or in the application thereof has
+occurred since the date of the audited financial statements referred to in
+Section 3.04 and, if any such change has occurred, specifying the effect of
+such change on the financial statements accompanying such certificate;
+
+(d) concurrently with any delivery of financial statements under
+clause (a) above, a certificate of the accounting firm that reported on
+such financial statements stating whether they obtained knowledge during
+the course of their examination of such financial statements of any Default
+(which certificate may be limited to the extent required by accounting
+rules or guidelines);
+
+(e) promptly after the same become publicly available, copies of all
+periodic and other reports, proxy statements and other materials filed by
+NMT Medical, Inc. with the Securities and Exchange Commission, or any
+Governmental Authority succeeding to any or all of the functions of said
+Commission, or with any national securities exchange, or distributed by NMT
+Medical, Inc. to its shareholders generally, as the case may be; and
+
+23
+<PAGE>
+
+(f) promptly following any request therefor, such other information
+regarding the operations, business affairs and financial condition of the
+Borrowers and the Subsidiaries, or compliance with the terms of this
+Agreement, as the Lender may reasonably request.
+
+SECTION 5.02.  Notices of Material Events.  The Borrowers will furnish to
+the Lender prompt written notice of the following:
+
+(a) the occurrence of any Default hereunder, including, without
+limitation, as a result of any Default under the French Credit Agreement;
+
+(b) the filing or commencement of any action, suit or proceeding by or
+before any arbitrator or Governmental Authority against or affecting any
+Borrower or Subsidiary or any Affiliate thereof that, if adversely
+determined, could reasonably be expected to result in a Material Adverse
+Effect;
+
+(c) the occurrence of any ERISA Event that, alone or together with any
+other ERISA Events that have occurred, could reasonably be expected to
+result in liability of any Borrower or Subsidiary in an aggregate amount
+exceeding $25,000; and
+
+(d) any other development that results in, or could reasonably be
+expected to result in, a Material Adverse Effect.
+
+Each notice delivered under this Section shall be accompanied by a statement of
+a Financial Officer or other executive officer of the Borrowers setting forth
+the details of the event or development requiring such notice and any action
+taken or proposed to be taken with respect thereto.
+
+SECTION 5.03.  Existence; Conduct of Business.  Each of the Borrowers
+will, and will cause each of the Subsidiaries to, do or cause to be done all
+things necessary to preserve, renew and keep in full force and effect its legal
+existence and the rights, licenses, permits, privileges and franchises material
+to the conduct of its business; provided that the foregoing shall not prohibit
+any merger, consolidation, liquidation or dissolution permitted under Section
+6.03.
+
+SECTION 5.04.  Payment of Obligations.  Each of the Borrowers will, and
+will cause each of the Subsidiaries to, pay its obligations, including Tax
+liabilities, that, if not paid, could result in a Material Adverse Effect before
+the same shall become delinquent or in default, except where (a) the validity or
+amount thereof is being contested in good faith by appropriate proceedings, (b)
+such Borrower or Subsidiary, as the case may be, has set aside on its books
+adequate reserves with respect thereto in accordance with GAAP and any other
+applicable standards for any Subsidiary that is not a Domestic Subsidiary and
+(c) the failure to make payment pending such contest could not reasonably be
+expected to result in a Material Adverse Effect.
+
+24
+<PAGE>
+
+SECTION 5.05.  Maintenance of Properties; Insurance.  Each of the
+Borrowers will (a) keep and maintain all property material to the conduct of its
+business in good working order and condition, ordinary wear and tear excepted,
+and (b) maintain, with financially sound and reputable insurance companies,
+insurance in such amounts and against such risks as are customarily maintained
+by companies engaged in the same or similar businesses operating in the same or
+similar locations.
+
+SECTION 5.06.  Books and Records; Inspection Rights.  Each of the
+Borrowers will, and will cause each of the Subsidiaries to, keep proper books of
+record and account in which full, true and correct entries are made of all
+dealings and transactions in relation to its business and activities. Each of
+the Borrowers will, and will cause each of the Subsidiaries to, permit any
+representatives designated by the Lender, upon reasonable prior notice, to visit
+and inspect its properties, to examine and make extracts from its books and
+records, and to discuss its affairs, finances and condition with its officers
+and independent accountants, all at such reasonable times and as often as
+reasonably requested.
+
+SECTION 5.07  Compliance with Laws.  Each of the Borrowers will, and will
+cause each of the Subsidiaries to, comply with all laws, rules, regulations and
+orders of any Governmental Authority applicable to it or its property, except
+where the failure to do so, individually or in the aggregate, could not
+reasonably be expected to result in a Material Adverse Effect.
+
+SECTION 5.08.  Use of Proceeds and Letters of Credit.  The proceeds of the
+Loans will be used only for the prepayment and retirement of $3,000,000 of the
+Whitney Notes and the balance for general corporate purposes. No part of the
+proceeds of any Loan will be used, whether directly or indirectly, for any
+purpose that entails a violation of any of the Regulations of the Board,
+including Regulations U and X. Letters of Credit will be issued only for the
+payment of suppliers and for other purposes satisfactory to the Lender.
+
+SECTION 5.09.  Receipt of Proceeds from French Credit Agreement.  The
+proceeds of the loans made by the Lender under the French Credit Agreement to
+the Subsidiaries parties thereto, which are received by any Borrower, directly
+or indirectly, as dividends, payment of existing indebtedness or otherwise, will
+be used only toward the prepayment and retirement of the Whitney Notes.
+
+SECTION 5.10.  Grant of Mortgage on Real Property.  At any time upon the
+request of the Lender, the Borrowers will (within 10 days following such
+request) grant to the Lender a first priority mortgage (subject to such
+customary zoning, easement, tax and other interests and encumbrances which do
+not in the aggregate materially decrease the value of or restrict the
+marketability of such property) on any and all real property now owned or
+hereafter acquired by any Borrower. In connection therewith, the Borrowers will
+also provide (within 60 days following such request) to the Lender customary
+title insurance, surveys, zoning documents and other closing documents.
+
+SECTION 5.11.  Subsidiary Guarantees.  At any time upon the request of the
+Lender, the Borrowers will, within a reasonable period after such request, cause
+any Subsidiary that is not a Domestic Subsidiary to execute a guarantee, in form
+and substance satisfactory to the Lender, pursuant to which such
+
+25
+<PAGE>
+
+Subsidiary shall guarantee the payment and performance by the Borrowers of their
+obligations hereunder; provided that such guarantee shall be limited in amount
+and otherwise in a form which does not create any adverse U.S. tax consequences
+to the Borrowers in the reasonable judgment of the Borrowers' tax advisors.
+
+
+ARTICLE VI
+
+Negative Covenants
+
+Until the Commitment has expired or terminated and the principal of and
+interest on each Loan and all fees payable hereunder have been paid in full and
+all Letters of Credit have expired or terminated and all LC Disbursements shall
+have been reimbursed, the Borrowers covenant and agree with the Lender that:
+
+SECTION 6.01  Indebtedness.  The Borrowers will not, and will not permit
+any Subsidiary to, create, incur, assume or permit to exist any Indebtedness,
+except:
+
+(a) Indebtedness created hereunder;
+
+(b) Indebtedness existing on the date hereof and set forth in Schedule
+6.01 and, except as set forth in clauses (f) and (g) of this Section 6.01,
+extensions, renewals and replacements of any such Indebtedness that do not
+increase the outstanding principal amount thereof;
+
+(c) Indebtedness of any Borrower to any Borrower or Subsidiary;
+
+(d) Guarantees existing on the date hereof and set forth in Schedule
+6.01, and extensions, renewals and replacements of such Guarantees that do
+not increase the outstanding amount so guaranteed, and any Guarantee of the
+Whitney Notes by any Subsidiary executed after the date hereof; provided
+that (i) such Guarantee shall be in form and substance satisfactory to the
+Lender, (ii) such Guarantee shall be subordinate and junior to the
+Indebtedness created hereunder and under the French Credit Agreement (and
+any Guarantee thereof by any Borrower or Subsidiary) and (ii) such
+Subsidiary shall have guaranteed the Indebtedness created hereunder and, to
+the extent permitted by applicable law, under the French Credit Agreement;
+
+(e) Indebtedness incurred to finance the acquisition, construction or
+improvement of any fixed or capital assets, including Capital Lease
+Obligations and any Indebtedness assumed in connection with the acquisition
+of any such assets or secured by a Lien on any such assets prior to the
+acquisition thereof, and extensions, renewals and replacements of any such
+Indebtedness that do not increase the outstanding principal amount thereof;
+provided that (i) such Indebtedness is incurred prior to or within 90 days
+after such acquisition or the completion of such construction or
+improvement and (ii) the aggregate principal amount of Indebtedness
+permitted by this clause (e) shall not exceed $300,000 at any time
+outstanding;
+
+26
+<PAGE>
+
+(f) the Barclays Debt, but no extensions, renewals or replacements
+thereof;
+
+(g) the Whitney Notes, but no extensions, renewals or replacements
+thereof; and provided that the Borrowers may not prepay the Whitney Notes
+in whole or in part (other than on the Effective Date in the principal
+amount of up to $14,000,000 and in accordance with the terms hereof and of
+that certain Guarantee, dated as of the date hereof, made by the Borrowers
+with respect to the indebtedness of certain Subsidiaries under the French
+Credit Agreement) without the prior written consent of the Lender;
+
+(h) Indebtedness in an aggregate principal amount of up to $1,200,000
+to be extended after the date hereof to NMT NeuroSciences Implants (France)
+SA by CIC Lyonnaise De Banque upon such terms and conditions as shall be
+approved by the Lender, which approval shall not be unreasonably withheld,
+and solely for the lease of computer equipment, but no extensions, renewals
+or replacements thereof; and
+
+(i)  Indebtedness created under the French Credit Agreement and any
+Guarantee   of such Indebtedness by any Borrower or Subsidiary, and
+extensions, renewals and replacements of such Indebtedness and Guarantees.
+
+SECTION 6.02.  Liens.  The Borrowers will not, and will not permit any
+Subsidiary to, create, incur, assume or permit to exist any Lien on any property
+or asset now owned or hereafter acquired by it, or assign or sell any income or
+revenues (including accounts receivable) or rights in respect of any thereof,
+except:
+
+(a)  Permitted Encumbrances;
+
+(b) any Lien on any property or asset of any Borrower or Subsidiary
+existing on the date hereof and set forth in Schedule 6.02; provided that
+(i) such Lien shall not apply to any other property or asset of any
+Borrower or Subsidiary and (ii) such Lien shall secure only those
+obligations which it secures on the date hereof and, except as otherwise
+set forth herein, extensions, renewals and replacements thereof that do not
+increase the outstanding principal amount thereof;
+
+(c) Liens on fixed or capital assets acquired, constructed or improved
+by any Borrower or Subsidiary; provided that (i) such security interests
+secure Indebtedness permitted by clause (e) of Section 6.01, (ii) such
+security interests and the Indebtedness secured thereby are incurred prior
+to or within 90 days after such acquisition or the completion of such
+construction or improvement, (iii) the Indebtedness secured thereby does
+not exceed 90% of the cost of acquiring, constructing or improving such
+fixed or capital assets and (iv) such security interests shall not apply to
+any other property or assets of any Borrower or Subsidiary;
+
+(d) Liens on any fixed assets (other than real property) owned or
+acquired after the date hereof by NMT NeuroSciences Implants (France) SA;
+provided that (i) such security interests
+
+27
+<PAGE>
+
+secure only the Indebtedness permitted by clause (h) of Section 6.01 and
+(ii) such security interests shall not apply to any other property or
+assets of any Borrower or Subsidiary; and
+
+(e) Liens in favor of the Lender securing the Indebtedness hereunder
+and the Indebtedness permitted by clause (i) of Section 6.01.
+
+SECTION 6.03. Fundamental Changes.
+
+(a) The Borrowers will not, and will not permit any Subsidiary to,
+merge into or consolidate with any other Person, or permit any other Person to
+merge into or consolidate with it, or sell, transfer, lease or otherwise dispose
+of (in one transaction or in a series of transactions) all or substantially all
+of its assets, or all or substantially all of the stock of any of its
+subsidiaries (in each case, whether now owned or hereafter acquired), or
+liquidate or dissolve, except that, if at the time thereof and immediately after
+giving effect thereto no Default shall have occurred and be continuing, (i) any
+Borrower may merge into any other Borrower, (ii) any Borrower or Subsidiary may
+sell, transfer, lease or otherwise dispose of its assets to any Borrower, (iii)
+any Borrower (other than NMT Medical, Inc.) may merge with any other Person in
+connection with an acquisition permitted by Section 6.04 as long as such
+Borrower is the surviving corporation, (iv) any Person in connection with an
+acquisition permitted under Section 6.04 or any Subsidiary may merge into any
+Borrower as long as such Borrower is the surviving corporation and (v) any
+Borrower (other than NMT Medical, Inc.) or any Subsidiary may liquidate or
+dissolve if such Borrower or Subsidiary determines in good faith that such
+liquidation or dissolution is in the best interests of its stockholders and is
+not disadvantageous to the Lender.  No Borrower shall, or shall permit any
+Subsidiary to, create, form or acquire any subsidiary without the prior written
+consent of the Lender; provided that any Borrower may create, form or acquire a
+Domestic Subsidiary if such Borrower notifies the Lender in writing at least 30
+days in advance thereof and, effective on the date it is created, formed or
+acquired, such Domestic Subsidiary becomes a Borrower hereunder, it guarantees
+the Indebtedness created under the French Credit Agreement, it grants the Lender
+a perfected first priority Lien in all of its assets, and all of its capital
+stock is pledged on a perfected first priority basis to the Lender.
+
+(b) The Borrowers will not, and will not permit any Subsidiary to,
+engage to any material extent in any business other than businesses of the
+general type conducted by the Borrowers and the Subsidiaries on the date of
+execution of this Agreement and businesses reasonably related thereto.
+
+SECTION 6.04. Investments, Loans, Advances, Guarantees and Acquisitions.
+The Borrowers will not, and will not permit any Subsidiary to, purchase, hold or
+acquire any capital stock, evidences of indebtedness or other securities
+(including any option, warrant or other right to acquire any of the foregoing)
+of, make or permit to exist any loans or advances to, Guarantee any obligations
+of, or make or permit to exist any investment or any other interest in, any
+other Person, or purchase or otherwise acquire (in one transaction or a series
+of transactions) any assets of any other Person constituting a business unit,
+except:
+
+(a)  Permitted Investments;
+
+28
+<PAGE>
+
+(b)  investments by any Borrower or Subsidiary existing on the date
+hereof   in the capital stock of its subsidiaries;
+
+(c) loans or advances made by any Borrower or Subsidiary to any
+Borrower or, with notice as promptly as practicable to the Lender, to any
+borrower under the French Credit Agreement;
+
+(d) Guarantees constituting Indebtedness permitted by Section 6.01;
+
+(e)  acquisitions by any Borrower as long as (i) the acquired assets
+are used for,   or the acquired Person is engaged in, businesses of the
+type conducted by the Borrowers on the date hereof or businesses reasonably
+related thereto, (ii) if such acquisition involves the formation or
+acquisition by any Borrower of any Person that becomes a Subsidiary as a
+result of or in connection with such acquisition, then such Subsidiary must
+be a wholly-owned Domestic Subsidiary and it must, prior to or
+simultaneously with such acquisition, execute and deliver to the Lender (A)
+documentation causing it to become a Borrower hereunder, (B) a guarantee of
+the Indebtedness created under the French Credit Agreement, (C) security
+documents giving the Lender a first priority perfected Lien in all of its
+assets, and (D) documentation giving to the Lender perfected first priority
+pledge of all of its outstanding capital stock, in each case in form and
+substance satisfactory to the Lender and its counsel, (iii) immediately
+before and immediately after such acquisition, no Default will occur or
+exist and (iv) the Borrowers give the Lender written notice thereof at
+least 20 days in advance of such acquisition;
+
+(f)  investments by any Borrower or Subsidiary existing on the date
+hereof and set forth in Schedule 6.04; provided that the amount of any
+such investment made by such Borrower or Subsidiary shall not increase
+after the date hereof; and
+
+(g)  investments by any Borrower in Image Technology Corp. after the
+date   hereof in a maximum aggregate amount which, when added to the amount
+by which trade payables paid by any Borrower on behalf of Image Technology
+Corp. exceeds trade receivables of Image Technology Corp. collected by any
+Borrower, does not at any time exceed $200,000.
+
+SECTION 6.05. Hedging Agreements.  The Borrowers will not, and will not
+permit any Subsidiary to, enter into any Hedging Agreement, other than Hedging
+Agreements entered into in the ordinary course of business to hedge or mitigate
+risks to which the Borrowers or the Subsidiaries are exposed in the conduct of
+their business or the management of their liabilities.
+
+SECTION 6.06. Restricted Payments.  The Borrowers will not, and will not
+permit any Subsidiary to, declare or make, or agree to pay or make, directly or
+indirectly, any Restricted Payment, except (a) any Borrower may declare and pay
+dividends with respect to its capital stock payable solely in additional shares
+of its common stock, and (b) Subsidiaries may declare and pay dividends ratably
+with respect to their capital stock to any Borrower or Subsidiary.
+
+29
+<PAGE>
+
+SECTION 6.07. Transactions with Affiliates.  The Borrowers will not sell,
+lease or otherwise transfer any property or assets to, or purchase, lease or
+otherwise acquire any property or assets from, or otherwise engage in any other
+transactions with, any of their Affiliates, except (a) in the ordinary course of
+business at prices and on terms and conditions not less favorable to the
+Borrowers or the Subsidiaries than could be obtained on an arm's-length basis
+from unrelated third parties, and (b) any other transaction permitted by this
+Agreement.
+
+SECTION 6.08. Restrictive Agreements.  The Borrowers will not, and will
+not permit any Subsidiary to, directly or indirectly, enter into, incur or
+permit to exist any agreement or other arrangement that prohibits, restricts or
+imposes any condition upon (a) the ability of any Borrower or Subsidiary to
+create, incur or permit to exist any Lien upon any of its property or assets, or
+(b) the ability of any Subsidiary to pay dividends or other distributions with
+respect to any shares of its capital stock or to make or repay loans or advances
+to any Borrower or to Guarantee Indebtedness of any Borrower or any Subsidiary;
+provided that (i) the foregoing shall not apply to restrictions and conditions
+imposed by law or by this Agreement, (ii) the foregoing shall not apply to
+restrictions and conditions existing on the date hereof identified on Schedule
+6.08 (but shall apply to any extension or renewal of, or any amendment or
+modification expanding the scope of, any such restriction or condition), (iii)
+the foregoing shall not apply to customary restrictions and conditions contained
+in agreements relating to the sale of a Subsidiary pending such sale, provided
+such restrictions and conditions apply only to the Subsidiary that is to be sold
+and such sale is permitted hereunder, (iv) clause (a) of the foregoing shall not
+apply to restrictions or conditions imposed by any agreement relating to secured
+Indebtedness permitted by this Agreement if such restrictions or conditions
+apply only to the property or assets securing such Indebtedness and (v) clause
+(a) of the foregoing shall not apply to customary provisions in leases and other
+contracts restricting the assignment thereof.
+
+SECTION 6.09. Financial Covenants.
+
+(a) Total Leverage Test.  The Borrowers shall not permit the ratio of
+consolidated Net Funded Indebtedness of NMT Medical, Inc. and its consolidated
+Subsidiaries as of the last day of any calendar quarter ending on the date or
+during any of the periods set forth below to consolidated Adjusted Operating
+Cash Flow of NMT Medical, Inc. and its consolidated Subsidiaries for the twelve
+(12) month period ending on the last day of such calendar quarter to be greater
+than the ratio set forth below for such period:
+
+<TABLE>
+<CAPTION>
+
+Date or Period                    Ratio
+<S>                                             <C>
+September 30, 1999                  4.0:1.00
+December 31, 1999                   3.0:1.00
+January 1, 2000 and thereafter      2.5:1.00
+</TABLE>
+
+"Net Funded Indebtedness" and "Adjusted Operating Cash Flow" will be
+calculated as illustrated on Schedule 6.09(a).
+
+30
+<PAGE>
+
+(b) Fixed Charge Coverage.  The Borrowers shall not permit
+consolidated Fixed Charge Coverage of NMT Medical, Inc. and its consolidated
+Subsidiaries for any twelve (12) month period ending on the last day of a
+calendar quarter to be less than 1.50 to 1.00.
+
+"Fixed Charge Coverage" will be calculated as illustrated on Schedule
+6.09(b).
+
+(c) Current Ratio.  The Borrowers shall not permit the ratio of
+consolidated Current Assets of NMT Medical, Inc. and its consolidated
+Subsidiaries to consolidated Current Liabilities of NMT Medical, Inc. and its
+consolidated Subsidiaries as of the last day of any calendar quarter to be less
+than 1.25 to 1.00.
+
+As used herein, the following terms shall have the following meanings:
+
+"Current Assets" shall mean, at any date, the aggregate of the current
+assets of NMT Medical, Inc. and its consolidated Subsidiaries determined on a
+consolidated basis as of such date, as determined in accordance with GAAP.
+
+"Current Liabilities" shall mean, at any date, the aggregate of the current
+liabilities of  NMT Medical, Inc. and its consolidated Subsidiaries determined
+on a consolidated basis as of such date, as determined in accordance with GAAP;
+
+provided that at all times all outstanding Loans hereunder and under the French
+Credit Agreement shall be deemed to be Current Liabilities.
+
+(d) Tangible Net Worth.  The Borrowers shall not permit Consolidated
+Tangible Net Worth of NMT Medical, Inc. and its consolidated Subsidiaries as of
+the last day of any calendar quarter during any of the periods set forth below
+to be less than the amount set forth below for such period:
+
+<TABLE>
+<CAPTION>
+
+Period                                Amount
+<S>                                                           <C>
+September 30, 1999 to and including December 30, 1999      $16,250,000
+December 31, 1999 to and including December 30, 2000       $17,750,000
+December 31, 2000 to and including December 30, 2001       $21,000,000
+December 31, 2001 and thereafter                           $25,000,000
+</TABLE>
+
+As used herein, the term "Consolidated Tangible Net Worth" means (a) the total
+assets of NMT Medical, Inc. and its consolidated Subsidiaries on a consolidated
+basis as determined in accordance with GAAP, minus (b) the total liabilities of
+NMT Medical, Inc. and its consolidated Subsidiaries on a consolidated basis as
+determined in accordance with GAAP, minus (c) the total book value of all assets
+of NMT Medical, Inc. and its consolidated Subsidiaries properly classified as
+intangible assets in accordance with GAAP, including such items as good will,
+the purchase price of acquired assets in excess of the fair market value
+thereof, trademarks, trade names, service marks, brand names, copyrights,
+patents and licenses, and rights with respect to the foregoing, minus (d) all
+amounts representing any write-up in the book value of any assets of NMT
+Medical, Inc. and its consolidated Subsidiaries resulting from a revaluation
+thereof
+
+31
+<PAGE>
+
+subsequent to the date hereof, minus (e) to the extent otherwise includable in
+the computation of Consolidated Tangible Net Worth, any subscriptions
+receivable, minus (f) all amounts representing any ownership interest in Image
+Technology Corp.; provided, however, that in calculating Consolidated Tangible
+Net Worth no effect shall be given to any foreign currency translations.
+
+
+ARTICLE VII
+
+Events of Default
+
+If any of the following events ("Events of Default") shall occur:
+
+(a) the Borrowers shall fail to pay any principal of any Loan or any
+reimbursement obligation in respect of any LC Disbursement when and as the
+same shall become due and payable, whether at the due date thereof or at a
+date fixed for prepayment thereof or otherwise;
+
+(b) the Borrowers shall fail to pay any interest on any Loan or any
+fee or any other amount (other than an amount referred to in clause (a) of
+this Article) payable under this Agreement, when and as the same shall
+become due and payable, and such failure shall continue unremedied for a
+period of three Business Days;
+
+(c) any representation or warranty made or deemed made by or on behalf
+of any Borrower or, if applicable, Subsidiary in or in connection with this
+Agreement or any amendment or modification hereof or waiver hereunder, or
+in any report, certificate, financial statement or other document furnished
+pursuant to or in connection with this Agreement or any amendment or
+modification hereof or waiver hereunder, shall prove to have been incorrect
+in any material respect when made or deemed made;
+
+(d) any Borrower shall fail to observe or perform any covenant,
+condition or agreement contained in Section 5.02, 5.03 (with respect to
+such Borrower's existence), 5.08, 5.09, 5.10 or 5.11 or in Article VI;
+
+(e) any Borrower shall fail to observe or perform any covenant,
+condition or agreement contained in this Agreement (other than those
+specified in clause (a), (b) or (d) of this Article), and such failure
+shall continue unremedied for a period of 30 days after notice thereof from
+the Lender to the Borrowers;
+
+(f) any Borrower or Subsidiary shall fail to make any payment (whether
+of principal or interest and regardless of amount) in respect of any
+Material Indebtedness, when and as the same shall become due and payable
+(unless such payment is disputed in good faith and with a reasonable basis
+and the holder of such Material Indebtedness is not exercising any rights
+to enforce such payment);
+
+32
+<PAGE>
+
+(g) any event or condition occurs that results in the acceleration of
+the maturity of or any default or event of default occurring or being
+declared with respect to any Material Indebtedness;
+
+(h) an involuntary proceeding shall be commenced or an involuntary
+petition shall be filed seeking (i) liquidation, reorganization or other
+relief in respect of any Borrower or Subsidiary or its debts, or of a
+substantial part of its assets, under any  Federal, state or foreign
+bankruptcy, insolvency, receivership or similar law now or hereafter in
+effect or (ii) the appointment of a receiver, trustee, custodian,
+sequestrator, conservator or similar official for any Borrower or
+Subsidiary or for a substantial part of its assets, and, in any such case,
+such proceeding or petition shall continue undismissed for 60 days or an
+order or decree approving or ordering any of the foregoing shall be
+entered;
+
+(i) any Borrower or Subsidiary shall (i) voluntarily commence any
+proceeding or file any petition seeking liquidation, reorganization or
+other relief under any Federal, state or foreign bankruptcy, insolvency,
+receivership or similar law now or hereafter in effect, (ii) consent to the
+institution of, or fail to contest in a timely and appropriate manner, any
+proceeding or petition described in clause (h) of this Article, (iii) apply
+for or consent to the appointment of a receiver, trustee, custodian,
+sequestrator, conservator or similar official for such Borrower or
+Subsidiary or for a substantial part of its assets, (iv) file an answer
+admitting the material allegations of a petition filed against it in any
+such proceeding, (v) make a general assignment for the benefit of creditors
+or (vi) take any action for the purpose of effecting any of the foregoing;
+
+(j) any Borrower or Subsidiary shall become unable, admit in writing
+its inability or fail generally to pay its debts as they become due;
+
+(k) one or more judgments for the payment of money in an aggregate
+amount in excess of $100,000 shall be rendered against any Borrower or
+Subsidiary and the same shall remain undischarged for a period of 30
+consecutive days during which execution shall not be effectively stayed, or
+any action shall be legally taken by a judgment creditor to attach or levy
+upon any assets of any Borrower or Subsidiary to enforce any such judgment
+and such attachment shall not be dissolved within 60 days thereafter;
+
+(l) an ERISA Event shall have occurred that, in the opinion of the
+Lender, when taken together with all other ERISA Events that have occurred,
+could reasonably be expected to result in liability of any Borrower or
+Subsidiary in an aggregate amount exceeding (i) $25,000 in any year or (ii)
+$100,000 for all periods;
+
+(m)  a Change in Control shall occur;
+
+(n) any security document executed and delivered in connection
+herewith shall cease to be in full force and effect, or shall cease to give
+the Lender the Liens, rights, powers and
+
+33
+<PAGE>
+
+privileges purported to be created thereby, superior and prior to the
+rights of all third Persons and subject to no other Liens (except in each
+case to the extent expressly permitted herein or in such security
+document);
+
+(o) any Borrower shall fail to observe or perform any covenant,
+condition or agreement contained in any security document executed and
+delivered in connection herewith beyond applicable notice and cure periods;
+or
+
+(p) an Event of Default (as defined therein) shall have occurred under
+the French Credit Agreement;
+
+then, and in every such event (other than an event with respect to any Borrower
+described in clause (h) or (i) of this Article), and at any time thereafter
+during the continuance of such event, the Lender may, by notice to the
+Borrowers, take either or both of the following actions, at the same or
+different times:  (i) terminate the Commitment, and thereupon the Commitment
+shall terminate immediately, and (ii) declare the Loans then outstanding to be
+due and payable in whole (or in part, in which case any principal not so
+declared to be due and payable may thereafter be declared to be due and
+payable), and thereupon the principal of the Loans so declared to be due and
+payable, together with accrued interest thereon and all fees and other
+obligations of the Borrowers accrued hereunder, shall become due and payable
+immediately, without presentment, demand, protest or other notice of any kind,
+all of which are hereby waived by the Borrowers; and in case of any event with
+respect to any Borrower described in clause (h) or (i) of this Article, the
+Commitment shall automatically terminate and the principal of the Loans then
+outstanding, together with accrued interest thereon and all fees and other
+obligations of the Borrowers accrued hereunder, shall automatically become due
+and payable, without presentment, demand, protest or other notice of any kind,
+all of which are hereby waived by the Borrowers.
+
+
+ARTICLE VIII
+
+Miscellaneous
+
+SECTION 8.01. Notices.  Except in the case of notices and other
+communications expressly permitted to be given by telephone, all notices and
+other communications provided for herein shall be in writing and shall be
+delivered by hand or overnight courier service, mailed by certified or
+registered mail or sent by telecopy, as follows:
+
+(a) if to any Borrower, to it at 27 Wormwood Street, Boston,
+Massachusetts 02210-1625, Attention of Chief Financial Officer (Telecopy
+No. 617-737-0924), with a copy to Hale and Dorr LLP, 60 State Street,
+Boston, Massachusetts 02109, Attention of Steven D. Singer, Esq. (Telecopy
+No. 617-526-5000); and
+
+34
+<PAGE>
+
+(b) if to the Lender, to Brown Brothers Harriman & Co., 40 Water
+Street, Boston, Massachusetts 02109-3661, Attention of Victoria W. Evans,
+Assistant Manager (Telecopy No. 617-772-1138), with a copy to Goodwin,
+Procter & Hoar LLP, Exchange Place, Boston, Massachusetts 02109-2881,
+Attention of Raymond C. Zemlin, P.C. (Telecopy No. 617-523-1231);
+
+Any party hereto may change its address or telecopy number for notices and other
+communications hereunder by notice to the other parties hereto.  All notices and
+other communications given to any party hereto in accordance with the provisions
+of this Agreement shall be deemed to have been given on the date of receipt.
+
+SECTION 8.02  Waivers; Amendments.
+
+(a) No failure or delay by the Lender in exercising any right or power
+hereunder shall operate as a waiver thereof, nor shall any single or partial
+exercise of any such right or power, or any abandonment or discontinuance of
+steps to enforce such a right or power, preclude any other or further exercise
+thereof or the exercise of any other right or power.  The rights and remedies of
+the Lender hereunder are cumulative and are not exclusive of any rights or
+remedies that they would otherwise have. No waiver of any provision of this
+Agreement or consent to any departure by any Borrower therefrom shall in any
+event be effective unless the same shall be permitted by paragraph (b) of this
+Section, and then such waiver or consent shall be effective only in the specific
+instance and for the purpose for which given. Without limiting the generality of
+the foregoing, the making of a Loan or issuance of a Letter of Credit shall not
+be construed as a waiver of any Default, regardless of whether the Lender may
+have had notice or knowledge of such Default at the time.
+
+(b) Neither this Agreement nor any provision hereof may be waived,
+amended or modified except pursuant to an agreement or agreements in writing
+entered into by the Lender and the Borrowers.
+
+SECTION 8.03. Expenses; Indemnity; Damage Waiver.
+
+(a) The Borrowers shall pay (i) all reasonable out-of-pocket expenses
+incurred by the Lender, including the reasonable fees, charges and disbursements
+of counsel for the Lender, in connection with the preparation and administration
+of this Agreement or any amendments, modifications or waivers of the provisions
+hereof (whether or not the transactions contemplated hereby or thereby shall be
+consummated), (ii) all reasonable out-of-pocket expenses incurred by the Lender
+in connection with the issuance, amendment, renewal or extension of any Letter
+of Credit or any demand for payment thereunder and (iii) all out-of-pocket
+expenses incurred by the Lender, including the fees, charges and disbursements
+of any counsel for the Lender, in connection with the enforcement or protection
+of its rights in connection with this Agreement, including its rights under this
+Section, or in connection with the Loans made or Letters of Credit issued
+hereunder, including all such out-of-pocket expenses incurred during any
+workout, restructuring or negotiations in respect of such Loans or Letters of
+Credit.
+
+35
+<PAGE>
+
+(b) The Borrowers shall indemnify the Lender, and each Related Party
+of the Lender (each such Person being called an "Indemnitee") against, and hold
+each Indemnitee harmless from, any and all losses, claims, damages, liabilities
+and related expenses, including the fees, charges and disbursements of any
+counsel for any Indemnitee, incurred by or asserted against any Indemnitee
+arising out of, in connection with, or as a result of (i) the execution or
+delivery of this Agreement or any agreement or instrument contemplated hereby,
+the performance by the parties hereto of their respective obligations hereunder
+or the consummation of the Transactions or any other transactions contemplated
+hereby, (ii) any Loan or Letter of Credit or the use of the proceeds therefrom
+(including any refusal by the Lender to honor a demand for payment under a
+Letter of Credit if the documents presented in connection with such demand do
+not strictly comply with the terms of such Letter of Credit), (iii) any actual
+or alleged presence or release of Hazardous Materials on or from any property
+owned or operated by any Borrower or Subsidiary, or any Environmental Liability
+related in any way to any Borrower or Subsidiary, or (iv) any actual or
+prospective claim, litigation, investigation or proceeding relating to any of
+the foregoing, whether based on contract, tort or any other theory and
+regardless of whether any Indemnitee is a party thereto; provided that such
+indemnity shall not, as to any Indemnitee, be available to the extent that such
+losses, claims, damages, liabilities or related expenses are determined by a
+court of competent jurisdiction by final and nonappealable judgment to have
+resulted from the gross negligence or wilful misconduct of such Indemnitee.
+
+(c) To the extent permitted by applicable law, no Borrower shall
+assert, and each Borrower hereby waives, any claim against any Indemnitee, on
+any theory of liability, for special, indirect, consequential or punitive
+damages (as opposed to direct or actual damages) arising out of, in connection
+with, or as a result of, this Agreement or any agreement or instrument
+contemplated hereby, the Transactions, any Loan or Letter of Credit or the use
+of the proceeds thereof.
+
+(d) All amounts due under this Section shall be payable not later than
+five Business Days after written demand therefor.
+
+SECTION 8.04. Successors and Assigns.  The provisions of this Agreement
+shall be binding upon and inure to the benefit of the parties hereto and their
+respective successors and assigns permitted hereby, except that no Borrower may
+assign or otherwise transfer any of its rights or obligations hereunder without
+the prior written consent of the Lender (and any attempted assignment or
+transfer by the Borrower without such consent shall be null and void). Nothing
+in this Agreement, expressed or implied, shall be construed to confer upon any
+Person (other than the parties hereto, their respective successors and assigns
+permitted hereby and, to the extent expressly contemplated hereby, the Related
+Parties of the Lender) any legal or equitable right, remedy or claim under or by
+reason of this Agreement.
+
+SECTION 8.05. Survival; Nature of Obligations.  All covenants, agreements,
+representations and warranties made by any Borrower herein and in the
+certificates or other instruments delivered in connection with or pursuant to
+this Agreement shall be joint and several obligations of all of the Borrowers,
+and shall be considered to have been relied upon by the other parties hereto and
+shall survive the execution and delivery of this Agreement and the making of any
+Loans and issuance of any Letters of Credit, regardless
+
+36
+<PAGE>
+
+of any investigation made by any such other party or on its behalf and
+notwithstanding that the Lender may have had notice or knowledge of any Default
+or incorrect representation or warranty at the time any credit is extended
+hereunder, and shall continue in full force and effect as long as the principal
+of or any accrued interest on any Loan or any fee or any other amount payable
+under this Agreement is outstanding and unpaid or any Letter of Credit is
+outstanding and so long as the Commitment has not expired or terminated. The
+provisions of Sections 2.11, 2.12 and 8.03 shall survive and remain in full
+force and effect regardless of the consummation of the transactions contemplated
+hereby, the repayment of the Loans, the expiration or termination of the Letters
+of Credit and the Commitment or the termination of this Agreement or any
+provision hereof.
+
+SECTION 8.06. Counterparts; Integration; Effectiveness.  This Agreement
+may be executed in counterparts (and by different parties hereto on different
+counterparts), each of which shall constitute an original, but all of which when
+taken together shall constitute a single contract.  This Agreement, the other
+documents contemplated hereby and any separate letter agreements with respect to
+fees payable to the Lender constitute the entire contract among the parties
+relating to the subject matter hereof and supersede any and all previous
+agreements and understandings, oral or written, relating to the subject matter
+hereof. Except as provided in Section 4.01, this Agreement shall become
+effective when it shall have been executed by the Lender and when the Lender
+shall have received counterparts hereof which, when taken together, bear the
+signatures of each of the other parties hereto, and thereafter shall be binding
+upon and inure to the benefit of the parties hereto and their respective
+successors and assigns.  Delivery of an executed counterpart of a signature page
+of this Agreement by telecopy shall be effective as delivery of a manually
+executed counterpart of this Agreement.
+
+SECTION 8.07. Severability.  Any provision of this Agreement held to be
+invalid, illegal or unenforceable in any jurisdiction shall, as to such
+jurisdiction, be ineffective to the extent of such invalidity, illegality or
+unenforceability without affecting the validity, legality and enforceability of
+the remaining provisions hereof; and the invalidity of a particular provision in
+a particular jurisdiction shall not invalidate such provision in any other
+jurisdiction.
+
+SECTION 8.08. Right of Setoff.  If an Event of Default shall have occurred
+and be continuing, the Lender and each of its Affiliates is hereby authorized at
+any time and from time to time, to the fullest extent permitted by law, to set
+off and apply any and all deposits (general or special, time or demand,
+provisional or final) at any time held and other obligations at any time owing
+by the Lender or such Affiliate to or for the credit or the account of any
+Borrower against any of and all the obligations of the Borrowers now or
+hereafter existing under this Agreement, irrespective of whether or not the
+Lender shall have made any demand under this Agreement and although such
+obligations may be unmatured. The rights of the Lender under this Section are in
+addition to other rights and remedies (including other rights of setoff) which
+it may have.
+
+37
+<PAGE>
+
+SECTION 8.09. Governing Law; Jurisdiction; Consent to Service of Process.
+
+(a) This Agreement shall be construed in accordance with and governed
+by the law of the Commonwealth of Massachusetts.
+
+(b) Each of the Borrowers hereby irrevocably and unconditionally
+submits, for itself and its property, to the nonexclusive jurisdiction of the
+Superior Court of the Commonwealth of Massachusetts sitting in Suffolk County
+and of the United States District Court for the District of Massachusetts, and
+any appellate court from any thereof, in any action or proceeding arising out of
+or relating to this Agreement, or for recognition or enforcement of any
+judgment, and each of the parties hereto hereby irrevocably and unconditionally
+agrees that all claims in respect of any such action or proceeding may be heard
+and determined in such Commonwealth of Massachusetts or, to the extent permitted
+by law, such Federal court.  Each of the parties hereto agrees that a final
+judgment in any such action or proceeding shall be conclusive and may be
+enforced in other jurisdictions by suit on the judgment or in any other manner
+provided by law.  Nothing in this Agreement shall affect any right that the
+Lender may otherwise have to bring any action or proceeding relating to this
+Agreement against any Borrower or its properties in the courts of any
+jurisdiction.
+
+(c) Each of the Borrowers hereby irrevocably and unconditionally
+waives, to the fullest extent it may legally and effectively do so, any
+objection which it may now or hereafter have to the laying of venue of any suit,
+action or proceeding arising out of or relating to this Agreement in any court
+referred to in paragraph (b) of this Section.  Each of the parties hereto hereby
+irrevocably waives, to the fullest extent permitted by law, the defense of an
+inconvenient forum to the maintenance of such action or proceeding in any such
+court.
+
+(d) Each party to this Agreement irrevocably consents to service of
+process in the manner provided for notices in Section 8.01.  Nothing in this
+Agreement will affect the right of any party to this Agreement to serve process
+in any other manner permitted by law.
+
+SECTION 8.10. WAIVER OF JURY TRIAL.  EACH PARTY HERETO HEREBY WAIVES, TO
+THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL
+BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR
+RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER
+BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES
+THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED,
+EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF
+LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT
+AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY,
+AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+38
+<PAGE>
+
+SECTION 8.11. Headings.  Article and Section headings and the Table of
+Contents used herein are for convenience of reference only, are not part of this
+Agreement and shall not affect the construction of, or be taken into
+consideration in interpreting, this Agreement.
+
+SECTION 8.12. Confidentiality.  The Lender agrees to maintain the
+confidentiality of the Information (as defined below), except that Information
+may be disclosed (a) to its and its Affiliates' directors, officers, employees
+and agents, including accountants, legal counsel and other advisors (it being
+understood that the Persons to whom such disclosure is made will be informed of
+the confidential nature of such Information and instructed to keep such
+Information confidential), (b) to the extent requested by any regulatory
+authority, (c) to the extent required by applicable laws or regulations or by
+any subpoena or similar legal process, (d) to any other party to this Agreement,
+(e) in connection with the exercise of any remedies hereunder or any suit,
+action or proceeding relating to this Agreement or the enforcement of rights
+hereunder, (f) subject to an agreement containing provisions substantially the
+same as those of this Section, to any assignee of or participant in, or any
+prospective assignee of or participant in, any of its rights or obligations
+under this Agreement, (g) with the consent of the Borrowers or (h) to the extent
+such Information (i) becomes publicly available other than as a result of a
+breach of this Section or (ii) becomes available to the Lender on a
+nonconfidential basis from a source other than any Borrower. For the purposes of
+this Section, "Information" means all information received from the Borrowers or
+any Subsidiary relating to the Borrowers and the Subsidiaries or their
+businesses, other than any such information that is available to the Lender on a
+nonconfidential basis prior to disclosure by the Borrowers or such Subsidiary;
+provided that, in the case of information received from the Borrowers or any
+Subsidiary after the date hereof, such information is clearly identified at the
+time of delivery as confidential.  Any Person required to maintain the
+confidentiality of Information as provided in this Section shall be considered
+to have complied with its obligation to do so if such Person has exercised the
+same degree of care to maintain the confidentiality of such Information as such
+Person would accord to its own confidential information.
+
+[Remainder of Page Intentionally Left Blank]
+
+39
+<PAGE>
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed by their respective authorized officers as of the day and year first
+above written.
+
+
+NMT MEDICAL, INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+NMT HEART, INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+NMT INVESTMENTS CORP.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+NMT NEUROSCIENCES
+(INTERNATIONAL), INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+NMT NEUROSCIENCES (US), INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+40
+<PAGE>
+
+NMT NEUROSCIENCES (IP), INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+NMT NEUROSCIENCES
+INNOVASIVE SYSTEMS, INC.
+
+
+By: /s/ Thomas M. Tully
+Name: Thomas M. Tully
+Title: President
+
+
+BROWN BROTHERS HARRIMAN & CO.
+
+
+By: /s/ A. Heaton Robertson
+Name: A. Heaton Robertson
+Title: Partner
+
+41
+

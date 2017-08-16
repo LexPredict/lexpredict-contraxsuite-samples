@@ -1,0 +1,2296 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.7
+
+EXCEL, INC.
+
+CREDIT AGREEMENT
+
+Dated as of December 21, 1995
+
+
+THIS CREDIT AGREEMENT is made as of December 21, 1995, by and between EXCEL
+INC. (the "Company"), a Massachusetts corporation having its chief executive
+office at 255 Independence Drive, Hyannis, Massachusetts and THE FIRST NATIONAL
+BANK OF BOSTON (the "Bank"), a national banking association having its head
+office at 100 Federal Street, Boston, Massachusetts 02110.
+
+SECTION I
+
+DEFINITIONS
+
+1.1. Definitions.
+
+All capitalized terms used in this Agreement or in the Note or in any
+certificate, report or other document made or delivered pursuant to this
+Agreement (unless otherwise defined therein) shall have the meanings assigned to
+them below:
+
+Adjusted Eurodollar Rate.  Applicable to any Interest Period, shall mean a
+rate per annum determined pursuant to the following formula:
+
+AER = [ IOR ]*
+[1.00-RP]
+
+AER = Adjusted Eurodollar Rate
+IOR = Interbank Offered Rate
+RP = Reserve Percentage
+
+*The amount in brackets shall be rounded upwards, if
+necessary, to the next higher 1/100 of 1%.
+
+Where:
+
+"Interbank Offered Rate" applicable to any Eurodollar Loan for
+any Interest Period means the rate of interest determined by the Bank
+to be the prevailing rate per annum at which deposits in U.S. dollars
+are offered to the Bank by first-class banks in the interbank
+Eurodollar market in which it regularly participates on or about 10:00
+a.m. (Boston time) two Business Days before the first day of such
+Interest Period in an amount approximately equal to the principal
+amount of the Eurodollar Loan to which such Interest Period is to
+apply for a period of time approximately equal to such Interest
+Period.
+<PAGE>
+
+
+"Reserve Percentage" applicable to any Interest Period means
+the rate (expressed as a decimal) applicable to the Bank during such
+Interest Period under regulations issued from time to time by the
+Board of Governors of the Federal Reserve System for determining the
+maximum reserve requirement (including, without limitation, any basic,
+supplemental, emergency or marginal reserve requirement) of the Bank
+with respect to "Eurocurrency liabilities" as that term is defined
+under such regulations.
+
+The Adjusted Eurodollar Rate shall be adjusted automatically as of the effective
+date of any change in the Reserve Percentage.
+
+Affected Loans.  See Section 2.7(a).
+
+Agreement.  This Agreement, as the same may be supplemented or amended from
+time to time.
+
+Bank.  See Preamble.
+
+Base Rate.  The greater of (i) the rate of interest announced from time to
+time by the Bank at its head office at 100 Federal Street, Boston, Massachusetts
+02110 as its Base Rate, and (ii) the Federal Funds Effective Rate plus 1/2 of 1%
+per annum (rounded upwards, if necessary, to the next 1/8 of 1%).
+
+Base Rate Loan.  Any Loan bearing interest determined with reference to the
+Base Rate.
+
+Borrowing Base.  An amount equal to the lesser of (a) the Commitment Amount
+or (b) 75% of the net outstanding amount of Base Accounts.
+
+"Base Accounts" means accounts receivable of the Company as
+to which the Company has furnished to the Bank the information
+required by this Agreement and shall not include (a) accounts payable
+by subsidiaries, affiliates and employees of the Company, (b) accounts
+payable by debtors not located in the United States, unless otherwise
+approved in writing by the Bank or (c) accounts evidenced by
+promissory notes.
+
+The "net outstanding amount of Base Accounts" means the net
+amount of Base Accounts outstanding after eliminating from the
+aggregate amount of outstanding Base Accounts (i) such accounts that
+are more than 90 days past the date of the original invoice date or
+more than 60 days past the due date, whichever is earlier, and (ii)
+all other accounts of any account debtor with 25% or more of its
+accounts that are more than 90 days past the date of the original
+invoice date or more than 60 days past due as aforesaid; and deducting
+from the aggregate face amount of the remaining Base Accounts all
+payments, adjustments and credits applicable thereto and all amounts
+due thereon considered by the Bank difficult to collect or
+uncollectible by reason of return, rejection, repossession, loss or
+damage of or to the merchandise giving rise thereto, a merchandise or
+other dispute,
+<PAGE>
+
+
+insolvency of the account debtor, or any other reason, all as
+determined by the Bank in its discretion, which determination shall be
+final and binding upon the Company.
+
+Business Day.  (i) For all purposes other than as covered by clause (ii)
+below, any day other than a Saturday, Sunday or legal holiday on which banks in
+Boston, Massachusetts are open for the conduct of a substantial part of their
+commercial banking business; and (ii) with respect to all notices and
+determinations in connection with, and payments of principal and interest on,
+Eurodollar Loans, any day that is a Business Day described in clause (i) and
+that is also a day for trading by and between banks in U.S. Dollar deposits in
+the interbank Eurodollar market.
+
+Code.  The Internal Revenue Code of 1986 and the rules and regulations
+thereunder, collectively, as the same may from time to time be supplemented or
+amended and remain in effect.
+
+Commitment Amount.  $5,000,000.00 or any lesser amount, including zero,
+resulting from a termination or reduction of such amount in accordance with
+Section 7.2.
+
+Company.  See Preamble.
+
+Computation Rate.  See Section 2.11.
+
+Consolidated Current Liabilities.  At any date as of which the amount
+thereof shall be determined, all amounts that should, in accordance with
+generally accepted accounting principles, be included as current liabilities on
+the consolidated balance sheet of the Company and its Subsidiaries as at such
+date, plus, to the extent not already included therein, all Loans made under
+this Agreement, and all Indebtedness that is payable upon demand or within one
+year from the date of determination thereof unless such Indebtedness is
+renewable or extendable at the option of the Company or any Subsidiary to a date
+more than one year from the date of determination.
+
+Consolidated Tangible Net Worth.  At any date as of which the amount
+thereof shall be determined, the consolidated total assets of the Company and
+its Subsidiaries minus (i) the sum of any amounts attributable to (a) goodwill,
+(b) intangible items such as unamortized debt discount and expense, patents,
+trade and service marks and names, copyrights, capitalized software development
+costs, and research and development expenses except prepaid expenses, (c) all
+reserves not already deducted from assets, (d) any writeup in the book value of
+assets resulting from any revaluation thereof subsequent to the date of the
+financial statements referred to in Section 4.6 and (e) the value of any
+minority interests in Subsidiaries and (ii) Consolidated Total Liabilities.
+
+Consolidated Total Liabilities.  At any date as of which the amount thereof
+shall be determined, all obligations that should, in accordance with generally
+accepted accounting principles, be classified as liabilities on the consolidated
+balance sheet of the Company and its Subsidiaries, including in any event all
+Indebtedness.
+<PAGE>
+
+
+Controlled Group.  All trades or businesses (whether or not incorporated)
+under common control that, together with the Company, are treated as a single
+employer under Section 414(b) or 414(c) of the Code or Section 4001 of ERISA.
+
+Default.  An Event of Default or event or condition that, but for the
+requirement that time elapse or notice be given, or both, would constitute an
+Event of Default.
+
+Encumbrances.  See Section 6.5.
+
+ERISA.  The Employee Retirement Income Security Act of 1974 and the rules
+and regulations thereunder, collectively, as the same may from time to time be
+supplemented or amended and remain in effect.
+
+Eurodollar Loan.  Any Loan bearing interest at a rate determined with
+reference to the Adjusted Eurodollar Rate.
+
+Event of Default.  Any event described in Section 7.1.
+
+Federal Funds Effective Rate.  For any day, a fluctuating interest rate per
+annum equal to the weighted average of the rates on overnight Federal funds
+transactions with members of the Federal Reserve System arranged by Federal
+funds brokers, as published for such day (or, if such day is not a Business Day,
+for the next preceding Business Day) by the Federal Reserve Bank of New York,
+or, if such rate is not so published for any day that is a Business Day, the
+average of the quotations for such day on such transactions received by the Bank
+from three Federal funds brokers of recognized standing selected by the Bank.
+
+Guarantees.  As applied to the Company and its Subsidiaries, all
+guarantees, endorsements or other contingent or surety obligations with respect
+to obligations of others whether or not reflected on the consolidated balance
+sheet of the Company and its Subsidiaries, including any obligation to furnish
+funds, directly or indirectly (whether by virtue of partnership arrangements, by
+agreement to keep-well or otherwise), through the purchase of goods, supplies or
+services, or by way of stock purchase, capital contribution, advance or loan, or
+to enter into a contract for any of the foregoing, for the purpose of payment of
+obligations of any other person or entity.
+
+Indebtedness.  As applied to the Company and its Subsidiaries, (i) all
+obligations for borrowed money or other extensions of credit, whether or not
+secured, absolute or contingent, including, without limitation, unmatured
+reimbursement obligations in respect of letters of credit or guarantees issued
+for the account of or on behalf of the Company and its Subsidiaries; (ii) all
+obligations representing the deferred purchase price of property, other than
+accounts payable arising in the ordinary course of business; (iii) all
+obligations evidenced by bonds, notes, debentures or other similar instruments;
+(iv) all obligations secured by any mortgage, pledge, security interest or other
+lien on property owned or acquired by the Company or any of its Subsidiaries
+whether or not the obligations secured thereby shall have been assumed; (v) that
+portion of all obligations arising under capital leases that is required to be
+capitalized on the consolidated balance sheet of the Company and its
+Subsidiaries; (vi) all Guarantees; and (vii) all
+<PAGE>
+
+
+obligations that are immediately due and payable out of the proceeds of or
+production from property now or hereafter owned or acquired by the Company or
+any of its Subsidiaries.
+
+Interest Period.
+
+(a)  With respect to each Eurodollar Loan, the period commencing on the
+date of such Eurodollar Loan and ending one, two, three or six months
+thereafter, as the Company may elect the applicable Notice of Borrowing;
+
+(b)  with respect to each Base Rate Loan, the period commencing on the date
+of such Base Rate Loan;
+
+provided that:
+
+(i)  any Interest Period (other than an Interest Period
+determined pursuant to clause (iii) below) that would otherwise end on a
+day that is not a Business Day shall be extended to the next succeeding
+Business Day unless, in the case of Eurodollar Loans, such Business Day
+falls in the next calendar month, in which case such Interest Period shall
+end on the immediately preceding Business Day;
+
+(ii)  any Interest Period applicable to a Eurodollar Loan that
+begins on the last Business Day of a calendar month (or on a day for which
+there is no numerically corresponding day in the calendar month at the end
+of such Interest Period) shall, subject to clause (iii) below, end on the
+last Business Day of a calendar month;
+
+(iii)  any Interest Period during the Revolving Credit Period
+that would otherwise end after the Revolving Credit Termination Date shall
+end on the Revolving Credit Termination Date; and
+
+(iv)  notwithstanding clauses (iii) and (iv) above, no Interest
+Period applicable to a Eurodollar Loan shall have a duration of less than
+one month, and if any Interest Period applicable to such Loans would be for
+a shorter period, such Interest Period shall not be available hereunder.
+
+Investment.  As applied to the Company and its Subsidiaries, the purchase
+or acquisition of any share of capital stock, partnership interest, evidence of
+indebtedness or other equity security of any other person or entity, any loan,
+advance or extension of credit to, or contribution to the capital of, any other
+person or entity, any real estate held for sale or investment, any commodities
+futures contracts held other than in connection with bona fide hedging
+transactions, any other investment in any other person or entity, and the making
+of any commitment or acquisition of any option to make an Investment.
+
+Loan.  A loan made to the Company by the Bank pursuant to Section 11 of
+this Agreement, and "Loans" means all of such loans, collectively.
+<PAGE>
+
+
+Note.  A promissory note of the Company, substantially in the form of
+Exhibit A hereto, evidencing the obligation of the Company to the Bank to repay
+the Loans.
+
+Notice of Borrowing.  See Section 2.2.
+
+Obligations.  Any and all obligations of the Company to the Bank of every
+kind and description, direct or indirect, absolute or contingent, primary or
+secondary, due or to become due, now existing or hereafter arising, regardless
+of how they arise or by what agreement or instrument, if any, and including
+obligations to perform acts and refrain from taking action as well as
+obligations to pay money.
+
+PBGC.  The Pension Benefit Guaranty Corporation or any entity succeeding to
+any or all of its functions under ERISA.
+
+Permitted Encumbrances.  See Section 6.5.
+
+Plan.  At any time, an employee pension or other benefit plan that is
+subject to Title IV of ERISA or subject to the minimum funding standards under
+Section 412 of the Code.
+
+Qualified Investments.  As applied to the Company and its Subsidiaries,
+investments in (i) notes, bonds or other obligations of the United States of
+America or any agency thereof that as to principal and interest constitute
+direct obligations of or are guaranteed by the United States of America; (ii)
+certificates of deposit or other deposit instruments or accounts of banks or
+trust companies organized under the laws of the United States or any state
+thereof that have capital and surplus of at least $100,000,000, (iii) commercial
+paper that is rated not less than prime-one or A-1 or their equivalents by
+Moody's Investors Service, Inc. or Standard & Poor's Corporation, respectively,
+or their successors, and (iv) any repurchase agreement secured by any one or
+more of the foregoing.
+
+Revolving Credit Period.  The period beginning on the date of this
+Agreement and extending through and including the Revolving Credit Termination
+Date or such earlier date on which the commitment to make Loans is terminated or
+the Commitment Amount is reduced to zero in accordance with the terms hereof.
+
+Revolving Credit Termination Date.  December 15,1997.
+
+Subsidiary.  Any corporation, association, joint stock company, business
+trust or other similar organization of which 50% or more of the ordinary voting
+power for the election of a majority of the members of the board of directors or
+other governing body of such entity is held or controlled by the Company or a
+Subsidiary of the Company; or any other such organization the management of
+which is directly or indirectly controlled by the Company or a Subsidiary of the
+Company through the exercise of voting power or otherwise; or any joint venture,
+whether incorporated or not, in which the Company has a 50% ownership interest.
+
+1.2. Accounting Terms.  All terms of an accounting character shall have the
+meanings assigned thereto by generally accepted accounting principles applied on
+a basis consistent with
+<PAGE>
+
+
+the financial statements referred to in Section 4.6 of this Agreement, modified
+to the extent, but only to the extent, that such meanings are specifically
+modified herein.
+
+SECTION 11
+
+DESCRIPTION OF CREDIT
+
+2.1. The Loans.  During the Revolving Credit Period, and subject to the
+terms and conditions hereof, the Bank will make Loans to the Company, from time
+to time until the close of business on the Revolving Credit Termination Date, in
+such sums as the Company may request, provided that the aggregate principal
+amount of all Loans at any one time outstanding hereunder shall not exceed the
+Borrowing Base.  The Company may borrow, repay pursuant to Section 2.8 and
+reborrow, from the date of this Agreement until the Revolving Credit Termination
+Date, the full amount of the Borrowing Base or any lesser sum that is at least
+$100,000.00 and an integral multiple of $100,000.00.  Any Loan not repaid by the
+Revolving Credit Termination Date shall be due and payable on the Revolving
+Credit Termination Date.
+
+2.2. Notice and Manner of Borrowing of Loans.  (a) Whenever the Company
+desires to obtain a Loan hereunder, the Company shall notify the Bank (which
+notice shall be irrevocable) by telephone received no later than 2:00 p.m.
+Boston time on the day on which the requested Loan is to be made as a Base Rate
+Loan, and received no later than 10:00 a.m. Boston time on the date two Business
+Days before the day on which the requested Loan is to be made as a Eurodollar
+Loan.  Such notice shall specify (i) the effective date and amount of each Loan,
+subject to the limitations set forth in Section 2.1, (ii) the interest rate
+option to be applicable thereto, and (iii) with respect to any requested
+Eurodollar Loans, the duration of the applicable Interest Period (subject to the
+provisions of the definition of Interest Period and Section 2.5).  If requested
+by the Bank, such notification (a "Notice of Borrowing") shall be immediately
+followed by a written confirmation thereof, provided that if such written
+confirmation differs in any material respect from the action taken by the Bank,
+the records of the Bank shall control absent manifest error.  Prior to the end
+of the Interest Period applicable to any Eurodollar Loan, the Borrower shall
+deliver a Notice of Borrowing in accordance with this Section 2.2 which shall
+specify the interest rate option and duration of the applicable Interest Period
+to rollover such Eurodollar Loan.  Failure to deliver such Notice of Borrowing
+shall be deemed to be an election of the Base Rate.
+
+(b)  Subject to the terms and conditions hereof, the Bank shall make each
+Loan on the effective date specified therefor by crediting the amount of such
+Loan to the Company's demand deposit account with the Bank; provided that if
+such Loan is to be made on a day on which the Company is to repay all or any
+part of an outstanding Loan, the Bank shall apply the proceeds of such new Loan
+to make such repayment and only an amount equal to the difference (if any)
+between the amount being borrowed and the amount being repaid shall be made
+available by the Bank to the Company.
+
+2.3. Facility Fee.  The Company shall pay to the Bank during the Revolving
+Credit Period an annual facility fee equal to $9,500.00.  The facility fee shall
+be payable quarterly in advance, on the first day of January, April, July and
+October of each year beginning January 1,
+<PAGE>
+
+
+1996. A prorated amount for the period from the date hereof to December 31, 1995
+shall be payable at the closing.
+
+2.4. The Note.  (a) The Loans shall be evidenced by a single Note, payable
+to the order of the Bank and having a final maturity of December 15, 1997.  The
+Note shall be dated on or before the date of the first Loan and shall have the
+blanks, if any, therein appropriately completed.
+
+(b)  The Bank shall, and is hereby irrevocably authorized by the Company
+to, enter on the schedule forming a part of the Note or otherwise in its records
+appropriate notations evidencing the date and the amount of each Loan, the
+interest rate applicable thereto and the date and amount of each payment of
+principal made by the Company with respect thereto; and in the absence of
+manifest error, such notations shall constitute conclusive evidence thereof. The
+Bank is hereby irrevocably authorized by the Company to attach to and make a
+part of the Note a continuation of any such schedule as and when required. No
+failure on the part of the Bank to make any notation as provided in this
+subsection (b) shall in any way affect any Loan or the rights or obligations of
+the Bank or the Company with respect thereto.
+
+2.5. Duration of Interest Periods.  Subject to the provisions of the
+definition of Interest Period, the duration of the Interest Period for each
+Eurodollar Loan shall be as specified in the applicable Notice of Borrowing.
+Notwithstanding the foregoing, the Company may not select an Interest Period
+that would end, but for the provisions of the definition of Interest Period,
+after the final maturity hereof.
+
+2.6. Interest Rates and Payments of Interest.  (a) Each Base Rate Loan
+shall bear interest on the outstanding principal amount thereof at a rate per
+annum equal to the Base Rate, which rate shall change contemporaneously with any
+change in the Base Rate.  Such interest shall be payable on the last day of each
+month commencing December 31, 1995, and when such Base Rate Loan is due (whether
+at maturity, by reason of acceleration or otherwise).
+
+(b)  Each Eurodollar Loan shall bear interest on the outstanding principal
+amount thereof, for the Interest Period applicable thereto, at a rate per annum
+equal to the Adjusted Eurodollar Rate plus two and one half percent (2.5%).
+Such interest shall be payable for such Interest Period on the last day thereof
+and when such Eurodollar Loan is due (whether at maturity, by reason of
+acceleration or otherwise) and, if such Interest Period is longer than three
+months, at intervals of three months after the first day thereof.
+
+2.7. Changed Circumstances.
+
+(a)  In the event that:
+
+(i)  on any date on which the Adjusted Eurodollar Rate would otherwise
+be set the Bank shall have determined in good faith (which determination
+shall be final and conclusive) that, by reason of changes affecting the
+interbank Eurodollar market, adequate and reasonable means do not exist for
+ascertaining the Interbank Offered Rate, or
+<PAGE>
+
+
+(ii) at any time the Bank shall have determined in good faith
+(which determination shall be final and conclusive) that:
+
+(A)  the making of a Eurodollar Loan has been made impracticable
+or unlawful by (1) the occurrence of a contingency that materially and
+adversely affects the interbank Eurodollar market or (2) compliance by the
+Bank in good faith with any applicable law or governmental regulation,
+guideline or order or interpretation or change thereof by any governmental
+authority charged with the interpretation or administration thereof or with
+any request or directive of any such governmental authority (whether or not
+having the force of law); or
+
+(B)  the Adjusted Eurodollar Rate shall no longer represent the effective
+cost to the Bank for U.S. dollar deposits in the interbank market for deposits
+in which it regularly participates;
+
+then, and in any such event, the Bank shall forthwith so notify the Company
+thereof.  Until the Bank notifies the Company that the circumstances giving rise
+to such notice no longer apply, the obligation of the Bank to allow selection by
+the Company of the type of Loan affected by the contingencies described in this
+Section 2.7(a) (herein called "Affected Loans") shall be suspended.  If at the
+time the Bank so notifies the Company, the Company has previously given the Bank
+a Notice of Borrowing with respect to one or more Affected Loans but such Loans
+have not yet gone into effect, such notification shall be deemed to be void and
+the Company may borrow Loans of a nonaffected type by giving a substitute Notice
+of Borrowing pursuant to Section 2.2 hereof.
+
+Upon such date as shall be specified in such notice (which shall not be
+earlier than the date such notice is given) the Company shall, with respect to
+the outstanding Affected Loans, prepay the same, together with interest thereon
+and any amounts required to be paid pursuant to Section 2.11, and may borrow a
+Loan of another type in accordance with Section 2.1 hereof by giving a Notice of
+Borrowing pursuant to Section 2.2 hereof.
+
+(b)  In case any law, regulation, treaty or official directive or the
+interpretation or application thereof by any court or by any governmental
+authority charged with the administration thereof or the compliance with any
+guideline or request of any central bank or other governmental authority
+(whether or not having the force of law):
+
+(i)  subjects the Bank to any tax with respect to payments of
+principal or interest or any other amounts payable hereunder by the Company
+or otherwise with respect to the transactions contemplated hereby (except
+for taxes on the overall net income of the Bank imposed by the United
+States of America or any political subdivision thereof), or
+
+(ii)  imposes, modifies or deems applicable any deposit insurance,
+reserve, special deposit or similar requirement against assets held by, or
+deposits in or for the account of, or loans by, the Bank (other than such
+requirements as are already included in the determination of the Adjusted
+Eurodollar Rate), or
+<PAGE>
+
+
+(iii) imposes upon the Bank any other condition with respect to its
+performance under this Agreement,
+
+and the result of any of the foregoing is to increase the cost to the Bank,
+reduce the income receivable by the Bank or impose any expense upon the Bank
+with respect to any Loans, the Bank shall notify the Company thereof.  The
+Company agrees to pay to the Bank the amount of such increase in cost reduction
+in income or additional expense as and when such cost, reduction or expense is
+incurred or determined, upon presentation by the Bank of a statement in the
+amount and setting forth the Bank's calculation thereof, which statement shall
+be deemed true and correct absent manifest error.
+
+(c)  If the Bank shall have determined that (i) the adoption of or change
+in any law, rule, regulation or guideline, directive or request regarding
+capital requirements for banks or bank holding companies (whether or not having
+the force of law), or any change in the interpretation or application thereof by
+any governmental authority, central bank or comparable authority charged with
+the interpretation or administration thereof, or (ii) compliance by the Bank
+with any of the foregoing, imposes on or increases a requirement of the Bank to
+allocate capital resources to the Bank's commitment to make Loans hereunder that
+has or would have the effect of reducing the return on the Bank's capital as a
+consequence of its commitment to make Loans hereunder to a level below that
+which the Bank could have achieved (taking into consideration the Bank's then
+existing policies with respect to capital adequacy and assuming the full
+utilization of the Bank's capital) but for such adoption, change or compliance
+by any amount deemed by the Bank to be material, then the Bank shall notify the
+Company thereof. The Company agrees to pay to the Bank the amount of such
+reduction of capital as and when such reduction is determined, upon presentation
+by the Bank of a statement in the amount and setting forth the Bank's
+calculation thereof, which statement shall be deemed true and correct absent
+manifest error. In determining such amount, the Bank may use any reasonable
+averaging and attribution methods.
+
+2.8. Payments and Prepayments of the Loans.  (a) Each Loan shall mature,
+and the principal amount thereof shall be due and payable, on the Revolving
+Credit Termination Date.  Eurodollar Loans may not be prepaid.  Base Rate Loans
+may be prepaid at any time, without premium or penalty.  Interest accrued on the
+amounts so paid shall be paid in accordance with Section 2.6.  No prepayment of
+the Loans during the Revolving Credit Period shall affect the Commitment Amount
+or impair the Company's right to borrow as set forth in Section 2.1.
+
+(b)  If at any time the aggregate principal amount of outstanding Loans
+shall exceed the Borrowing Base, the Company shall repay such principal amount
+(together with accrued interest thereon) of the outstanding Loans, if any, as
+may be necessary so that after such repayment the aggregate outstanding
+principal amount of the Loans does not exceed the amount of the Borrowing Base.
+
+2.9. Method of Payment.  All payments and prepayments of principal and all
+payments of interest shall be made by the Company to the Bank at 100 Federal
+Street, Boston, Massachusetts in immediately available funds, on or before 2:00
+p.m. (Boston time) on the due
+<PAGE>
+
+
+date thereof, free and clear of, and without any deduction or withholding for,
+any taxes or other payments. The Bank may, and the Company hereby authorizes the
+Bank to, debit the amount of any payment not made by such time to the demand
+deposit account of the Company with the Bank, followed promptly by notice to the
+Company of such action taken.
+
+2.10.  Overdue Payments.  (a) Overdue principal (whether at maturity, by
+reason of acceleration or otherwise) and, to the extent permitted by applicable
+law, overdue interest and fees or any other amounts payable hereunder or under
+the Note shall bear interest from and including the due date thereof until paid,
+compounded daily and payable on demand, at a rate per annum equal to (i) if such
+due date occurs prior to the end of an Interest Period for Eurodollar Loans, 2%
+above the interest rate applicable to such Loan for such Interest Period until
+the expiration of such Interest Period, and thereafter, 2% above the Base Rate;
+and (ii) in all other cases, 2% above the rate then applicable to Base Rate
+Loans, which interest shall be compounded daily and payable on demand. (b) If a
+payment of principal or interest hereunder is not made within 10 days of its due
+date, the Company will also pay, on demand, a late payment charge equal to 5% of
+the amount of such payment. Nothing in the preceding sentence shall affect the
+Bank's rights to exercise any of its rights or remedies, including those
+provided in Section 7.2, if an Event of Default has occurred.
+
+2.11.  Payments Not at End of Interest Period.  If the Company for any
+reason makes any payment of principal with respect to any Eurodollar Loan on any
+day other than the last day of the Interest Period applicable to such Eurodollar
+Loan, or fails to borrow a Eurodollar Loan after giving a Notice of Borrowing
+pursuant to Section 2.2, the Company shall pay to the Bank an amount computed
+pursuant to the following formula:
+
+L = (R - T) x P x D
+
+360
+
+
+L =  amount payable to the Bank
+R =  interest rate on such Loan
+
+T =  effective interest rate per annum at which any readily marketable bond or
+other obligation of the United States, selected at the Bank's sole
+discretion, maturing on or near the last day of the Interest Period of such
+Loan and in approximately the same amount as such Loan can be purchased by
+the Bank on the day of such payment of principal or failure to borrow
+
+P =  the amount of principal prepaid or the amount of the requested Loan
+D =  the number of days remaining in the Interest Period as of the date of such
+payment or the number of days of the requested Interest Period
+
+The Company shall pay such amount upon presentation by the Bank of a statement
+setting forth the amount and the Bank's calculation thereof pursuant hereto,
+which statement shall be deemed true and correct absent manifest error.
+
+2.12.  Computation of Interest and Fees.  Interest and all fees payable
+hereunder shall be computed daily on the basis of a year of 360 days and paid
+for the actual number of days for
+<PAGE>
+
+
+which due. If the due date for any payment of principal is extended by operation
+of law, interest shall be payable for such extended time. If any payment
+required by this Agreement becomes due on a day that is not a Business Day such
+payment may be made on the next succeeding Business Day (subject to clause (i)
+of the definition of Interest Period), and such extension shall be included in
+computing interest in connection with such payment.
+
+SECTION III
+
+CONDITIONS OF LOANS
+
+3.1. Conditions Precedent to Initial Loan.  The obligation of the Bank to
+make its initial Loan is subject to the condition precedent that the Bank shall
+have received, in form and substance satisfactory to the Bank and its counsel,
+the following:
+
+(a)  this Agreement and the Note, duly executed by the Company;
+
+(b)  a certificate of the Clerk or an Assistant Clerk of the Company with
+respect to resolutions of the Board of Directors authorizing the execution and
+delivery of this Agreement and the Note and identifying the officer(s)
+authorized to execute, deliver and take all other actions required under this
+Agreement, and providing specimen signatures of such officers;
+
+(c)  the certificate of incorporation of the Company and all amendments and
+supplements thereto, filed in the office of the Secretary of The Commonwealth of
+Massachusetts, certified by said Secretary of The Commonwealth as being a true
+and correct copy thereof;
+
+(d)  the Bylaws and articles of incorporation of the Company and all
+amendments and supplements thereto, certified by the Clerk or an Assistant Clerk
+as being a true and correct copy thereof;
+
+(e)  a certificate of the Secretary of The Commonwealth of Massachusetts,
+as to legal existence and good standing in such state and listing all documents
+on file in the office of said Secretary of State;
+
+(f)  an opinion addressed to it from Christopher Stavros, counsel to the
+Company, substantially in the form of Exhibit G hereto; and
+
+(g)  such other documents, and completion of such other matters, as counsel
+for the Bank may deem necessary or appropriate.
+
+3.2. Conditions Precedent to all Loans.  The obligation of the Bank to make
+each Loan, including the initial Loan, is further subject to the following
+conditions:
+
+(a)  timely receipt by the Bank of the Notice of Borrowing as provided in
+Section 2.2;
+
+(b)  the representations and warranties contained in Section IV shall be
+true and accurate in all material respects on and as of the date of such Notice
+of Borrowing and on the effective date of each Loan as though made at and as of
+each such date (except to the extent that
+<PAGE>
+
+
+such representations and warranties expressly relate to an earlier date), and no
+Default shall have occurred and be continuing, or would result from such Loan;
+
+(c)  the resolutions referred to in Section 3.1(b) shall remain in full
+force and effect; and
+
+(d)  no change shall have occurred in any law or regulation or
+interpretation thereof that, in the opinion of counsel for the Bank, would make
+it illegal or against the policy of any governmental agency or authority for the
+Bank to make Loans hereunder.
+
+The making of each Loan shall be deemed to be a representation and warranty
+by the Company on the date of such Loan as to the accuracy of the facts referred
+to in subsection (b) of this Section 3.2.
+
+SECTION IV
+
+REPRESENTATIONS AND WARRANTIES
+
+In order to induce the Bank to enter into this Agreement and to make Loans
+hereunder, the Company represents and warrants to the Bank that:
+
+4.1. Organization and Qualification.  Each of the Company and its
+Subsidiaries (a) is a corporation duly organized, validly existing and in good
+standing under the laws of its jurisdiction of incorporation, (b) has all
+requisite corporate power to own its property and conduct its business as now
+conducted and as presently contemplated and (c) is duly qualified and in good
+standing as a foreign corporation and is duly authorized to do business in each
+jurisdiction where the nature of its properties or business requires such
+qualification.
+
+4.2. Corporate Authority.  The execution, delivery and performance of this
+Agreement and the Note and the transactions contemplated hereby are within the
+corporate power and authority of the Company and have been authorized by all
+necessary corporate proceedings, and do not and will not (a) require any consent
+or approval of the stockholders of the Company, (b) contravene any provision of
+the charter documents or bylaws of the Company or any law, rule or regulation
+applicable to the Company, (c) contravene any provision of, or constitute an
+event of default or event that, but for the requirement that time elapse or
+notice be given, or both, would constitute an event of default under, any other
+agreement, instrument, order or undertaking binding on the Company, or (d)
+result in or require the imposition of any Encumbrance on any of the properties,
+assets or rights of the Company.
+
+4.3. Valid Obligations.  This Agreement and the Note and all of their
+respective terms and provisions are the legal, valid and binding obligations of
+the Company, enforceable in accordance with their respective terms except as
+limited by bankruptcy, insolvency, reorganization, moratorium or other laws
+affecting the enforcement of creditors' rights generally, and except as the
+remedy of specific performance or of injunctive relief is subject to the
+discretion of the court before which any proceeding therefor may be brought.
+<PAGE>
+
+
+
+
+4.4.   Consents or Approvals.  The execution, delivery and performance of
+this Agreement and the Note and the transactions contemplated herein do not
+require any approval or consent of, or filing or registration with, any
+governmental or other agency or authority, or any other party.
+
+4.5.   Title to Properties; Absence of Encumbrances.  Each of the Company
+and its Subsidiaries has good and marketable title to all of the properties,
+assets and rights of every name and nature now purported to be owned by it,
+including, without limitation, such properties, assets and rights as are
+reflected in the financial statements referred to in Section 4.6 (except such
+properties, assets or rights as have been disposed of in the ordinary course of
+business since the date thereof), free from all Encumbrances except Permitted
+Encumbrances or those Encumbrances disclosed in Exhibit B hereto, and, except as
+so disclosed, free from all defects of title that might materially adversely
+affect such properties, assets or rights, taken as a whole.
+
+4.6.   Financial Statements.  The Company has furnished the Bank its
+consolidated balance sheet as of December 31, 1994 and its consolidated
+statements of income, changes in stockholders' equity and cash flow for the
+fiscal year then ended, and related footnotes, audited and certified by Arthur
+Andersen & Co.  The Company has also furnished the Bank its consolidated balance
+sheet as of September 22, 1995 and its consolidated statements of income,
+changes in stockholders' equity and cash flow for the period then ended,
+certified by the principal financial officer of the Company but subject,
+however, to normal, recurring year-end adjustments that shall not in the
+aggregate be material in amount.  All such financial statements were prepared in
+accordance with generally accepted accounting principles applied on a consistent
+basis throughout the periods specified and present fairly the financial position
+of the Company and its Subsidiaries as of such dates and the results of the
+operations of the Company and its Subsidiaries for such periods.  There are no
+liabilities, contingent or otherwise, not disclosed in such financial statements
+that involve a material amount.
+
+4.7.   Changes.  Since the date of the financial statements referred to in
+Section 4.6, there have been no changes in the assets, liabilities, financial
+condition, business or prospects of the Company or any of its Subsidiaries other
+than changes in the ordinary course of business, the effect of which has not, in
+the aggregate, been materially adverse.
+
+4.8.   Defaults.  As of the date of this Agreement, no Default exists.
+
+4.9.   Taxes.  The Company and each Subsidiary have filed all federal,
+state and other tax returns required to be filed, and all taxes, assessments and
+other governmental charges due from the Company and each Subsidiary have been
+fully paid. The Company and each Subsidiary have established on their books
+reserves adequate for the payment of all federal, state and other tax
+liabilities.
+
+4.10.  Litigation.  Except as set forth on Exhibit C hereto, there is no
+litigation, arbitration, proceeding or investigation pending, or, to the
+knowledge of the Company's or any Subsidiary's officers, threatened, against the
+Company or any Subsidiary that, if adversely determined, would result in a
+material judgment not fully covered by insurance or could result in a forfeiture
+of all or any substantial part of the property of the Company or its
+Subsidiaries, or
+<PAGE>
+
+
+would otherwise have a material adverse effect on the assets, business or
+prospects of the Company or any Subsidiary.
+
+4.11.  Use of Proceeds.  No portion of any Loan is to be used for the
+"purpose of purchasing or carrying" any "margin stock" as such terms are used in
+Regulations U and X of the Board of Governors of the Federal Reserve System, 12
+C.F.R. 221 and 224, as amended; and following the application of the proceeds of
+each Loan, the value of all "margin stock" of the Company will not exceed 25% of
+the value of the total assets of the Company that are subject to the
+restrictions set forth in Section 6.5 and 6.6.
+
+4.12.  Subsidiaries.  As of the date of this Agreement, all the
+Subsidiaries of the Company are listed on Exhibit D hereto.  The Company or a
+Subsidiary of the Company is the owner, free and clear of all liens and
+encumbrances, of all of the issued and outstanding stock of each Subsidiary.
+All shares of such stock have been validly issued and are fully paid and
+nonassessable, and no rights to subscribe to any additional shares have been
+granted, and no options, warrants or similar rights are outstanding.
+
+4.13.  Investment Company Act.  Neither the Company nor any of its
+Subsidiaries is subject to regulation under the Investment Company Act of 1940,
+as amended.
+
+4.14   Compliance with ERISA.  The Company and each member of the
+Controlled Group have fulfilled their obligations under the minimum funding
+standards of ERISA and the Code with respect to each Plan and are in compliance
+in all material respects with the applicable provisions of ERISA and the Code,
+and have not incurred any liability to the PBGC or a Plan under Title IV of
+ERISA; and no "Prohibited transaction" or "reportable event" (as such terms are
+defined in ERISA) has occurred with respect to any Plan.
+
+4.15.  Environmental Matters.  The Company and each of its Subsidiaries
+are in material compliance with all Federal, state and local environmental laws
+and ordinances with respect to the conduct of their business or business
+operations and have no knowledge or notice of any material violation of any
+environmental protection law, regulation or order.
+
+SECTION V
+
+AFFIRMATIVE COVENANTS
+
+So long as the Bank has any commitment to lend hereunder or any Loan or
+other Obligation remains outstanding, the Company covenants as follows:
+
+5.1.   Financial Statements and other Reporting Requirements.  The Company
+shall furnish to the Bank:
+
+(a) as soon as available to the Company, but in any event within 90 days
+after the end of each of its fiscal years, a consolidated and consolidating
+balance sheet as of the end of each such year, and a related consolidated and
+consolidating statement of income, changes in stockholders' equity and cash flow
+for such year, audited and certified by Arthur Andersen & Co.
+<PAGE>
+
+
+(or other independent certified public accountants acceptable to the Bank) in
+the case of such consolidated statements, and certified by the chief financial
+officer in the case of such consolidating statements; and, concurrently with
+such financial statements, a copy of said certified public accountants'
+management report;
+
+(b) as soon as available to the Company, but in any event within 30 days
+after the end of each month, (i) a consolidated and consolidating balance sheet
+as of the end of each such fiscal quarter, and a related consolidated and
+consolidating statement of income for the period then ended, certified by the
+principal financial officer of the Company but subject, however, to normal,
+recurring yearend adjustments that shall not in the aggregate be material in
+amount and (ii) a borrowing base report substantially in the form of Exhibit E;
+
+(c) as soon as available to the Company, but in any event within 30 days
+after the end of each of its fiscal quarters, a report in substantially the form
+of Exhibit F hereto signed on behalf of the Company by its chief financial
+officer;
+
+(d) promptly after the receipt thereof by the Company, copies of any
+reports submitted to the Company by independent public accountants in connection
+with any interim review of the accounts of the Company made by such accountants;
+
+(e) promptly alter the same are available, copies of all proxy statements,
+financial statements and reports as the Company may file with the Securities and
+Exchange Commission or any governmental authority at any time having
+jurisdiction over the Company or its Subsidiaries;
+
+(f) if and when the Company gives or is required to give notice to the PBGC
+of any "Reportable Event" (as defined in Section 4043 of ERISA) with respect to
+any Plan that might constitute grounds for a termination of such Plan under
+Title IV of ERISA, or knows that any member of the Controlled Group or the plan
+administrator of any Plan has given or is required to give notice of any such
+Reportable Event, a copy of the notice of such Reportable Event given or
+required to be given to the PBGC;
+
+(g) immediately upon becoming aware of the existence of any condition or
+event that constitutes a Default, written notice thereof specifying the nature
+and duration thereof and the action being or proposed to be taken with respect
+thereto;
+
+(h) promptly upon becoming aware of any investigative proceedings by a
+governmental agency or authority commenced or threatened against the Company or
+any of its Subsidiaries regarding any environmental hazard or condition or any
+spill, release, discharge or disposal of any substance defined or designated by
+any environmental statute, rule or regulation of any governmental entity now in
+effect and applicable to such property, as hazardous or toxic material,
+hazardous or toxic substance or any similar term, written notice thereof and the
+action being or proposed to be taken with respect thereto;
+
+(i) promptly upon becoming aware of any litigation or of any other
+investigative proceedings by a governmental agency or authority commenced or
+threatened against the
+<PAGE>
+
+
+Company or any of its Subsidiaries of which it has notice, the outcome of which
+would or might have a materially adverse effect on the assets, business or
+prospects of the Company or the Company and its Subsidiaries on a consolidated
+basis, written notice thereof and the action being or proposed to be taken with
+respect thereto; and
+
+(j) from time to time, such other financial data and information about the
+Company or its Subsidiaries as the Bank may reasonably request.
+
+5.2.   Conduct of Business.  Each of the Company and its Subsidiaries
+shall:
+
+(a) duly observe and comply in all material respects with all applicable
+laws and valid requirements of any governmental authorities relative to its
+corporate existence, rights and franchises, to the conduct of its business and
+to its property and assets, and shall maintain and keep in full force and effect
+all licenses and permits necessary in any material respect to the proper conduct
+of its business;
+
+(b) maintain its corporate existence; and
+
+(c) remain engaged substantially in the design and manufacture of
+telecommunication platforms, and related software, devices, and services.
+
+5.3.   Maintenance and Insurance.  Each of the Company and its Subsidiaries
+shall maintain its properties in good repair, working order and condition as
+required for the normal conduct of its business.  Each of the Company and its
+Subsidiaries shall at all times maintain liability and casualty insurance with
+financially sound and reputable insurers in such amounts as the officers of the
+Company in the exercise of their reasonable judgment deem to be adequate.  In
+the event of failure to provide and maintain insurance as herein provided, the
+Bank may, at its option, provide such insurance and charge the amount thereof to
+the account of the Company or any of its Subsidiaries with the Bank.
+
+5.4.   Taxes.  The Company shall pay or cause to be paid all taxes,
+assessments or governmental charges on or against it or any of its Subsidiaries
+or its or their properties on or prior to the time when they become due.
+
+5.5.   Inspection by the Bank.  The Company shall permit the Bank or its
+designees, at any reasonable time, and upon reasonable notice (or if a Default
+shall have occurred and is continuing, at any time and without prior notice), to
+(i) visit and inspect the properties of the Company and its Subsidiaries, (ii)
+examine and make copies of and take abstracts from the books and records of the
+Company and its Subsidiaries, and (iii) discuss the affairs, finances and
+accounts of the Company and its Subsidiaries with their appropriate officers,
+employees and accountants.  In handling such information the Bank shall exercise
+the same degree of care that it exercises with respect to its own proprietary
+information of the same types to maintain the confidentiality of any nonpublic
+information thereby received or received pursuant to subsections 5.1(a), (b), or
+(c) except that disclosure of such information may be made (i) to the
+subsidiaries or affiliates of the Bank in connection with their present or
+prospective business relations with the Company, (ii) to prospective transferees
+or purchasers of an interest in the Loans, (iii) as
+<PAGE>
+
+
+required by law, regulation, rule or order, subpoena, judicial order or similar
+order and (iv) as may be required in connection with the examination, audit or
+similar investigation of the Bank.
+
+5.6.   Maintenance of Books and Records.  Each of the Company and its
+Subsidiaries shall keep adequate books and records of account, in which true and
+complete entries will be made reflecting all of its business and financial
+transactions, and such entries will be made in accordance with generally
+accepted accounting principles consistently applied and applicable law.
+
+5.7.   Consolidated Tangible Net Worth.  The Company shall at all times
+maintain Consolidated Tangible Net Worth of at least (i) $5,000,000.00.  Any
+consolidated losses shall not reduce the amount of Consolidated Tangible Net
+Worth required to be maintained pursuant to this Section 5.7.
+
+5.8.   Consolidated Total Liabilities to Consolidated Tangible Net Worth
+Ratio.  The Company shall at all times maintain a ratio of Consolidated Total
+Liabilities to Consolidated Tangible Net Worth of not greater than 1.25 to 1.00.
+
+5.9.   Cash Flow Coverage.  The Company shall at all times maintain
+consolidated Cash Flow Coverage of not less than 2.0 to 1.00.  As used in this
+Section 5.9, "Cash Flow Coverage" shall mean, at any date as of which the amount
+thereof shall be determined and for the period specified, the quotient obtained
+by dividing the total of:  (i) consolidated earnings before income taxes for
+such period, excluding any nonrecurring or extraordinary items, plus (ii)
+consolidated depreciation and amortization expenses for such period, plus (iii)
+consolidated interest expense (including imputed interest on capital lease
+obligations) (collectively, "Interest Expense") minus (iv) capital expenditures
+minus cash taxes minus dividends and distributions; by the total of (i) Interest
+Expense for such period plus (ii) current maturities of long-term Indebtedness
+for such period.
+
+5.10.  Profitability.  The Company shall earn consolidated pretax income of
+at least $1,000,000.00 in every fiscal quarter.
+
+5.11.  Cleanup Provision.  The Company shall reduce its outstanding loan
+balance once each period to a maximum of $500,000 and once each period to
+$300,000, each for 30 consecutive days in the 12 month periods ending December
+31, 1996 and December 31, 1997, respectively.
+
+5.12.  Further Assurances.  At any time and from time to time the Company
+shall, and shall cause each of its Subsidiaries to, execute and deliver such
+further instruments and take such further action as may reasonably be requested
+by the Bank to effect the purposes of this Agreement and the Note.
+
+SECTION VI
+
+NEGATIVE COVENANTS
+<PAGE>
+
+
+So long as the Bank has any commitment to lend hereunder or any Loan or
+other Obligation remains outstanding, the Company covenants as follows:
+
+6.1.   Indebtedness.  Neither the Company nor any of its Subsidiaries shall
+create, incur, assume, guarantee or be or remain liable with respect to any
+Indebtedness other than the following:
+
+(a) Indebtedness of the Company or any of its Subsidiaries to the Bank or
+any of its affiliates;
+
+(b) Indebtedness existing as of the date of this Agreement and disclosed on
+
+Exhibit B hereto or in the financial statements referred to in Section 4.6; and
+
+(c) other Indebtedness of the Company in an aggregate outstanding principal
+amount not exceeding $300,000.00 annually.
+
+6.2.   Contingent Liabilities.  Neither the Company nor any of its
+Subsidiaries shall create, incur, assume, guarantee or remain liable with
+respect to any Guarantees other than in favor of the Bank or its affiliates,
+without the prior written consent of the Bank.
+
+6.3.   Leases.  Neither the Company nor any of its Subsidiaries shall
+during any fiscal year enter into any leases of real or personal property as
+lessee, except for capital leases or leases providing for payments in any one
+fiscal year (whether or not such payments are termed rent) that in the aggregate
+do not increase the aggregate annual lease payments of the Company and its
+Subsidiaries in excess of $100,000.00 over such payments required to be made
+during the immediately preceding fiscal year.
+
+6.4.   Sale and Leaseback.  Neither the Company nor any of its Subsidiaries
+shall enter into any arrangement, directly or indirectly, whereby it shall sell
+or transfer any property owned by it in order to lease such property or lease
+other property that the Company or any such Subsidiary intends to use for
+substantially the same purpose as the property being sold or transferred.
+
+6.5.   Encumbrances.  Neither the Company nor any of its Subsidiaries shall
+create, incur, assume or suffer to exist any mortgage, pledge, security
+interest, lien or other charge or encumbrance, including the lien or retained
+security title of a conditional vendor upon or with respect to any of its
+property or assets including, without limitation, on any of its accounts
+receivable or inventory ("Encumbrances"), or assign or otherwise convey any
+right to receive income, including the sale or discount of accounts receivable
+with or without recourse, except the following ("Permitted Encumbrances"):
+
+(a) Encumbrances in favor of the Bank or any of its affiliates; and
+
+(b) Encumbrances existing as of the date of this Agreement and disclosed in
+Exhibit B hereto;
+<PAGE>
+
+
+6.6.   Merger; Consolidation; Sale or Lease of Assets.  Neither the Company
+nor any of its Subsidiaries shall sell, lease or otherwise dispose of assets or
+properties (valued at the lower of cost or market), other than sales of
+inventory in the ordinary course of business, in the aggregate in excess of
+$500,000 in any fiscal year; or liquidate, merge or consolidate into or with any
+other person or entity, provided that any Subsidiary of the Company may merge or
+consolidate into or with (i) the Company if no Default has occurred and is
+continuing or would result from such merger and if the Company is the surviving
+company, or (ii) any other wholly-owned Subsidiary of the Company.
+
+6.7.   Change in Control.  Robert Madonna, his spouse or issue shall own at
+least 51% of the Equity Securities of the Company, but in any case Robert
+Madonna shall not own less than 51% of the voting stock.  For purposes hereof
+"Equity Securities" shall mean (a) all common stock, preferred stock,
+participations, shares, partnership interests, or other equity interests in and
+of the Company (regardless of how designated and whether or not voting or non-
+voting) and (b) all warrants, options, and other rights to acquire any of the
+foregoing.
+
+6.8.   Equity Distributions.  The Company shall not pay any dividends on
+any class of its capital stock or make any other distribution or payment on
+account of or in redemption, retirement or purchase of such capital stock which
+result in an Event of Default under Sections 5.7, 5.8, 5.9 or 5.10, or violates
+any other provision of this Agreement.
+
+6.9.   Investments.  Neither the Company nor any of its Subsidiaries shall
+make or maintain any Investments other than (i) existing Investments in
+Subsidiaries and (ii) Qualified Investments.
+
+6.10.  ERISA.  Neither the Company nor any member of the Controlled
+Group shall permit any Plan maintained by it to (i) engage in any "prohibited
+transaction" (as defined in Section 4975 of the Code, (ii) incur any
+"accumulated funding deficiency" (as defined in Section 302 of ERISA) whether or
+not waived, or (iii) terminate any Plan in a manner that could result in the
+imposition of a lien or encumbrance on the assets of the Company or any of its
+Subsidiaries pursuant to Section 4068 of ERISA.
+
+SECTION VII
+
+DEFAULTS
+
+7.1.   Events of Default.  There shall be an Event of Default hereunder if
+any of the following events occurs:
+
+(a) the Company shall fail to pay when due (i) any amount of principal of
+any Loans, (ii) any amount of interest thereon or (iii) any fees or expenses
+payable hereunder or under the Note within 10 days following notice; or
+
+(b) The Company shall fail to perform any term, covenant or agreement
+contained in Sections 5.1(g), 5.5, 5.7 through 5.11 or 6.1 through 6.10; or
+<PAGE>
+
+
+(c) the Company shall fail to perform any covenant contained in Sections
+5.1(f, 5.1(h) or 5.2, and such failure shall continue for 30 days; or
+
+(d) the Company shall fail to perform any term, covenant or agreement
+(other than in respect of subsections 7.1(a) through (c) hereof) contained in
+this Agreement and such default shall continue for 30 days after notice thereof
+has been sent to the Company by the Bank; or
+
+(e) any representation or warranty of the Company made in this Agreement or
+in the Note or any other documents or agreements executed in connection with the
+transactions contemplated by this Agreement or in any certificate delivered
+hereunder shall prove to have been false in any material respect upon the date
+when made or deemed to have been made; or
+
+(f) there shall occur any material adverse change in the assets,
+liabilities, financial condition, business or prospects of the Company or the
+Company and its Subsidiaries, taken as a whole, as determined by the Bank acting
+good faith; or
+
+(g) the Company or any of its Subsidiaries shall fail to pay at maturity,
+or within any applicable period of grace, any obligation or obligations which in
+the aggregate exceed $10,000 for borrowed monies or advances, or for the use of
+real or personal property, or fail to observe or perform any term, covenant or
+agreement evidencing or securing such obligations for borrowed monies or
+advances, or relating to such use of real or personal property, the result of
+which failure is to permit the holder or holders of such Indebtedness to cause
+such Indebtedness to become due prior to its stated maturity upon delivery of
+required notice, if any; or
+
+(h) the Company or any of its Subsidiaries shall (i) apply for or consent
+to the appointment of, or the taking of possession by, a receiver, custodian,
+trustee, liquidator or similar official of itself or of all or a substantial
+part of its property, (ii) be generally not paying its debts as such debts
+become due, (iii) make a general assignment for the benefit of its creditors,
+(iv) commence a voluntary case under the Federal Bankruptcy Code (as now or
+hereafter in effect), (v) take any action or commence any case or proceeding
+under any law relating to bankruptcy, insolvency, reorganization, winding-up or
+composition or adjustment of debts, or any other law providing for the relief of
+debtors, (vi) fail to contest within 30 days or in an appropriate manner, or
+acquiesce in writing to, any petition filed against it in an involuntary case
+under the Federal Bankruptcy Code or other law, (vii) take any action under the
+laws of its jurisdiction of incorporation or organization similar to any of the
+foregoing; or
+
+(i) a proceeding or case shall be commenced, without the application or
+consent of the Company or any of its Subsidiaries in any court of competent
+jurisdiction, seeking (i) the liquidation, reorganization, dissolution, winding
+up, or composition or readjustment of its debts, (ii) the appointment of a
+trustee, receiver, custodian, liquidator or the like of it or of all or any
+substantial part of its assets, or (iii) similar relief in respect of it, under
+any law relating to bankruptcy, insolvency, reorganization, winding-up or
+composition or adjustment of debts or any other law providing for the relief of
+debtors, and such proceeding or case shall continue undismissed, or unstayed and
+in effect, for a period of 30 days; or an order for relief shall be entered in
+an involuntary case under the Federal Bankruptcy Code, against the Company or
+such Subsidiary; or action under the laws of the jurisdiction of incorporation
+or organization of the
+<PAGE>
+
+
+Company or any of its Subsidiaries similar to any of the foregoing shall be
+taken with respect to the Company or such Subsidiary and shall continue unstayed
+and in effect for any period of 30 days; or
+
+(j) a judgment or order for the payment of money shall be entered against
+the Company or any of its Subsidiaries by any court, or a warrant of attachment
+or execution or similar process shall be issued or levied against property of
+the Company or such Subsidiary, and such judgment, order, warrant or process
+shall continue undischarged or unstayed for 30 days; or
+
+(k) the Company or any member of the Controlled Group shall fail to pay
+when due any amount or amounts that it shall have become liable to pay to the
+PBGC or to a Plan under Title IV of ERISA; or notice of intent to terminate a
+Plan or Plans shall be filed under Title IV of ERISA by the Company, any member
+of the Controlled Group, any plan administrator or any combination of the
+foregoing; or the PBGC shall institute proceedings under Title IV of ERISA to
+terminate or to cause a trustee to be appointed to administer any such Plan or
+Plans or a proceeding shall be instituted by a fiduciary of any such Plan or
+Plans against the Company and such proceedings shall not have been dismissed
+within 30 days thereafter; or a condition shall exist by reason of which the
+PBGC would be entitled to obtain a decree adjudicating that any; or
+
+7.2.   Remedies.  Upon the occurrence of an Event of Default described in
+subsections 7.1(h) and (i), immediately and automatically, and upon the
+occurrence of any other Event of Default, at any time thereafter while such
+Event of Default is continuing, at the Bank's option and upon the Bank's
+declaration:
+
+(a) the Bank's commitment to make any further Loans hereunder shall
+terminate;
+
+(b) the unpaid principal amount of the Loans together with accrued interest
+and all other Obligations shall become immediately due and payable without
+presentment, demand, protest or further notice of any kind, all of which are
+hereby expressly waived; and
+
+(c) the Bank may exercise any and all rights it has under this Agreement,
+the Note or any other documents or agreements executed in connection herewith,
+or at law or  in equity, and proceed to protect and enforce the Bank's rights by
+any action at law, in equity or other appropriate proceeding.
+
+SECTION VIII
+
+MISCELLANEOUS
+
+8.1.   Notices.  Unless otherwise specified herein, all notices hereunder
+to any party hereto shall be in writing and shall be deemed to have been given
+when delivered by hand, when properly deposited in the mails postage prepaid,
+when sent by electronic facsimile transmission, or when delivered to the
+overnight courier, addressed to such party at its address indicated below:
+
+If to the Company, at
+<PAGE>
+
+
+EXCEL INC.
+255 Independence Drive
+Hyannis, MA 02601
+Attention: Nathan Apatow
+
+If to the Bank, at
+
+The First National Bank of Boston
+100 Federal Street
+Boston, Massachusetts 02110
+Attention: Bradford Egan
+MA Corp. Cape Cod
+
+or at any other address specified by such party in writing.
+
+8.2.   Expenses.  The Company shall, on demand, pay or reimburse the Bank
+for all expenses (including attorneys' fees of outside counsel or allocation
+costs of in-house counsel incurred or paid by the Bank in connection with the
+preparation, negotiation and closing of this Agreement and the Note (whether or
+not the transactions contemplated hereby shall be consummated) or in connection
+with the administration or amendment of this Agreement or the Note (whether or
+not the transactions contemplated hereby shall be consummated) and with the
+enforcement of any Obligation or exercise of any right of the Bank hereunder or
+under the Note.
+
+8.3.   Set-Off.  Regardless of the adequacy of any collateral or other
+means of obtaining repayment of the Obligations, any deposits, balances or other
+sums credited by or due from the head office of the Bank or any of its branch
+offices to the Company may, at any time and from time to time after the
+occurrence of an Event of Default hereunder, without notice to the Company or
+compliance with any other condition precedent now or hereafter imposed by
+statute, rule of law, or otherwise (all of which are hereby expressly waived) be
+set off, appropriated, and applied by the Bank against any and all obligations
+of the Company to the Bank or any of its affiliates in such manner as the head
+office of the Bank or any of its branch offices in their sole discretion may
+determine, and the Company hereby grants the Bank a continuing security interest
+in such deposits, balances or other sums for the payment and performance of all
+such obligations.
+
+8.4.   Term of Agreement.  This Agreement shall continue in force and
+effect so long as the Bank has any commitment to make Loans hereunder or any
+Loan or any Obligation shall be outstanding.
+
+8.5.   No Waivers.  No failure or delay by the Bank in exercising any
+right, power or privilege hereunder or under the Note or under any other
+documents or agreements executed in connection herewith shall operate as a
+waiver thereof; nor shall any single or partial exercise thereof preclude any
+other or further exercise thereof or the exercise of any other right, power or
+privilege. The rights and remedies herein and in the Note provided are
+cumulative and not exclusive of any rights or remedies otherwise provided by
+agreement or law.
+<PAGE>
+
+
+8.6.   Massachusetts Law.  This Agreement and the Note shall be deemed to
+be contracts made under seal and shall be construed in accordance with and
+governed by the laws of The Commonwealth of Massachusetts (without giving effect
+to any conflicts of law provisions contained therein).
+
+8.7.   Amendments.  Neither this Agreement nor the Note nor any provision
+hereof or thereof may be amended, waived, discharged or terminated except by a
+written instrument signed by the Bank and, in the case of amendments, by the
+Company.
+
+8.8.   Binding Effect of Agreement.  This Agreement shall be binding upon
+and inure to the benefit of the Company and the Bank and their respective
+successors and assigns; provided that the Company may not assign or transfer its
+rights or obligations hereunder. The Bank may sell, transfer or grant
+participations in the Note without the prior written consent of the Company, and
+the Company agrees that any transferee or participant shall be entitled to the
+benefits of Sections 2.7, 2.11, 5.5 and 8.3 to the same extent as if such
+transferee or participant were the Bank hereunder; provided that notwithstanding
+any such transfer or participation, the Company may, for all purposes of this
+Agreement, treat the Bank as the person entitled to exercise all rights
+hereunder and under the Note and to receive all payments with respect thereto.
+
+8.9.   Counterparts.  This Agreement may be signed in any number of
+counterparts with the same effect as if the signatures hereto and thereto were
+upon the same instrument.
+
+8.10.  Partial Invalidity.  The invalidity or unenforceability of any one
+or more phrases, clauses or sections of this Agreement shall not affect the
+validity or enforceability of the remaining portions of it.
+
+8.11.  Captions.  The captions and headings of the various sections and
+subsections of this Agreement are provided for convenience only and shall not be
+construed to modify the meaning of such sections or subsections.
+
+8.12.  Termination.  The Company shall have the right to terminate this
+Agreement upon sixty (60) days written notice, without prejudice to any rights
+of the Bank set forth in this Agreement and only to the extent that there is no
+loan Obligation outstanding at the time of termination.
+
+8.13.  WAIVER OF JURY TRIAL.  EXCEPT AS PROHIBITED BY LAW, NEITHER THE
+COMPANY NOR THE BANK, NOR ANY OF THEIR ASSIGNEES OR SUCCESSORS, SHALL (A) SEEK A
+JURY TRIAL IN ANY LAWSUIT, PROCEEDING, COUNTERCLAIM OR ANY OTHER LITIGATION
+PROCEDURE BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY RELATED DOCUMENT OR
+AGREEMENT, OR THE DEALINGS OR THE RELATIONSHIP BETWEEN OR AMONG ANY OF THEM, OR
+(B) SEEK TO CONSOLIDATE ANY SUCH ACTION, IN WHICH A JURY TRIAL HAS BEEN WAIVED,
+WITH ANY OTHER ACTION IN WHICH A JURY TRIAL CAN NOT BE OR HAS NOT BEEN WAIVED.
+THE PROVISIONS OF THIS SECTION HAVE BEEN FULLY DISCUSSED BY THE PARTIES HERETO,
+AND THE PROVISIONS HEREOF SHALL BE SUBJECT TO NO EXCEPTIONS.  NO PARTY HERETO
+HAS IN ANY WAY AGREED
+<PAGE>
+
+
+WITH OR REPRESENTED TO ANY OTHER PARTY THAT THE PROVISIONS OF THIS SECTION 8.12
+WILL NOT BE FULLY ENFORCED IN ALL INSTANCES.
+
+8.14.  Entire Agreement.  This Agreement, the Note and the documents and
+agreements executed in connection herewith constitute the final agreement of the
+parties hereto and supersede any prior agreement or understanding, written or
+oral, with respect to the matters contained herein and therein.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+by their duly authorized officers as of the day and year first above written.
+
+EXCEL INC.
+
+
+By  /s/ Robert P. Madonna
+Title:  President
+
+
+THE FIRST NATIONAL BANK OF BOSTON
+
+
+By  /s/ Bradford P. Egan
+Title:  Vice President
+<PAGE>
+
+EXCEL INC.
+
+
+PROMISSORY NOTE
+
+
+
+$5,000,000.00                                     December 21, 1995
+Boston, Massachusetts
+
+
+For value received, the undersigned hereby promises to pay to The First
+National Bank of Boston (the "Bank"), or order, at the head office of the Bank
+at 100 Federal Street, Boston, Massachusetts 02110, the principal amount of Five
+Million Dollars ($5,000,000.00) or such lesser amount as shall equal the
+aggregate unpaid principal amount of all Loans (as defined in the Agreement
+referred to below) made by the Bank to the undersigned pursuant to the
+Agreement, in lawful money of the United States and in immediately available
+funds, in the amounts and on the dates provided on the schedule attached hereto
+and to pay interest on the unpaid principal amount hereof, at said office, in
+like money and funds, for the period commencing on the date hereof until paid in
+full, at the rates per annum and on the dates provided on such schedule.
+
+Overdue payments of principal (whether at stated maturity, by acceleration
+or otherwise), and, to the extent permitted by law, overdue interest, shall bear
+interest, compounded monthly and payable on demand in immediately available
+funds, at a rate per annum equal to two percent (2%) above greater of (i) the
+rate in effect with respect to such principal prior to its maturity and (ii) the
+rate then applicable to Base Rate Loans under the Agreement.
+
+This Note is issued pursuant to, and entitled to the benefits of, and is
+subject to, the provisions of a certain Credit Agreement dated as of December
+21, 1995 by and between the undersigned and the Bank (herein, as the same may
+from time to time be amended or extended, referred to as the "Agreement"), but
+neither this reference to the Agreement nor any provision thereof shall affect
+or impair the absolute and unconditional obligation of the undersigned maker of
+this Note to pay the principal of and interest on this Note as herein provided.
+
+As provided in the Agreement, this Note is subject to mandatory prepayment
+in certain circumstances.
+
+In case an Event of Default (as defined in the Agreement) shall occur, the
+aggregate unpaid principal of plus accrued interest on this Note shall become or
+may be declared to be due and payable in the manner and with the effect provided
+in the Agreement.
+<PAGE>
+
+The undersigned may at its option prepay all or any part of the principal
+of this Note before maturity upon the terms provided in the Agreement.
+
+The undersigned maker hereby waives presentment, demand, notice of
+dishonor, protest and all other demands and notices in connection with the
+delivery, acceptance, performance and enforcement of this Note.
+
+This instrument shall have the effect of an instrument executed under seal
+and shall be governed by and construed in accordance with the laws of The
+Commonwealth of Massachusetts (without giving effect to any conflicts of laws
+provisions contained therein).
+
+EXCEL INC.
+
+By: /s/ Robert P. Madonna
+Title: President
+<PAGE>
+
+AMENDMENT TO CREDIT AGREEMENT
+AND PROMISSORY NOTE
+
+
+This Amendment to Credit Agreement and Promissory Note (the "Amendment") is
+made as of May 24, 1996 and amends the Credit Agreement dated as of December 21,
+1995 (as amended, the "Agreement"), between EXCEL, INC. (the "Company"), and THE
+FIRST NATIONAL BANK OF BOSTON, a national banking association (the "Bank") and
+the Promissory Note dated as of December 21, 1995 executed by the Company in
+favor of the Bank (as amended, the "Note"). Capitalized terms which are used in
+this Amendment and are defined in the Agreement, shall have the meanings given
+to them in the Agreement unless they are otherwise defined in this Amendment.
+
+WHEREAS, the Bank has made available to the Company a certain $5,000,000
+credit facility as described in the Agreement and evidenced by the Note; and
+
+WHEREAS, the Company and the Bank have agreed to increase the credit
+facility to $10,000,000;
+
+NOW, THEREFORE, the Bank and the Company agree as follows:
+
+I.   AMENDMENTS TO THE AGREEMENT
+
+1.   Section 1.1. of the Agreement is hereby amended by deleting
+"$5,000,000.00" from the definition of "Commitment Amount" set forth
+and substituting "$10,000,000.00" therefor.
+
+2.   Section 2.3 of the Agreement is hereby amended by deleting it in its
+entirety and replacing it with the following:
+
+"2.3 Facility Fee.  The Company shall pay to the Bank during the
+Revolving Credit Period an annual fee equal to (i) $9,500.00 from the
+date of this Agreement until June 30, 1996 and $25,000.00 thereafter.
+The facility fee shall be payable quarterly in advance, on the first
+day of January, April, July and October of each year. The Company
+shall pay $2,375.00 on each of January 1, 1996, and April 1, 1996 and
+$6,250.00 each quarter in advance thereafter commencing on July 1,
+1996. A prorated amount for the period from the date of the Agreement
+to December 31, 1995 shall be payable at the closing."
+
+II.  AMENDMENT TO THE NOTE
+
+The Note is hereby amended by deleting "$5,000,000.00" and "Five Million
+Dollars ($5,000,000.00)" from the first page thereof and substituting
+<PAGE>
+
+"$10,000,000.00" and "Ten Million Dollars $10,000,000.00)", respectively,
+therefor.
+
+III. MISCELLANEOUS AGREEMENTS
+
+1.   Continuing Effect of the Agreement.  This Amendment shall not
+constitute an amendment of any provision of the Agreement or the Note
+not expressly referred to herein and shall not be construed as a
+consent to any action on the part of the Company that would require a
+waiver or consent of the Bank except as expressly stated herein. The
+provisions of the Agreement and the Note that are not expressly
+amended or modified hereby are and shall remain in full force and
+effect, and are hereby ratified and confirmed, including without
+limitation, the negative pledge on assets of the Company as set forth
+in Section 6.5 of the Agreement.
+
+2.   Representations and Warranties.  The Company hereby represents and
+warrants to the bank that the representations and warranties set forth
+in the Agreement and the Note as amended by this Amendment are true
+and correct on and as of the date hereof as if made on and as of the
+date hereof, and that no Event of Default exists on and as of the date
+hereof.
+
+3.   Fees, Costs, Expenses and Taxes.  The Company also agrees to pay on
+demand all costs and expenses of the Bank in connection with the
+preparation, execution and delivery of this Amendment and the other
+instruments and documents to be delivered hereunder, including the
+fees and allocation costs of its in-house counsel.
+
+4.   Effectiveness of Amendment.  This Amendment shall be effective as of
+the date hereof upon receipt by the Bank of (a) this Amendment duly
+executed and delivered by the Company and the Bank and (b) such other
+documents and certificates as the bank or its counsel may have
+requested.
+
+5.   Governing Law.  The Amendment shall be deemed to be a contract under
+seal and for all purposes shall be governed by and construed and
+enforced in accordance with the laws of The Commonwealth of
+Massachusetts.
+
+6.   Counterparts.  The Amendment may be executed in any number of
+counterparts and by the different parties hereto on separate
+counterparts, each of which, when so executed, shall be deemed an
+original, but all such counterparts shall constitute but one and the
+same instrument. The Amendment shall be firmly attached to the Note by
+stapling or other permanent means of attachment and shall constitute
+an integral part of the Note from and after the date first above
+written.
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed
+and delivered by their duly authorized officers as of the date first above
+written.
+
+EXCEL. INC.
+
+By:  /s/ Robert P. Madonna
+Title: President
+
+
+
+THE FIRST NATIONAL BANK OF BOSTON
+
+
+By:  /s/ Bradford P. Egan
+Title: Vice President
+<PAGE>
+
+as of March 20, 1997
+
+Excel, Inc.
+255 Independence Park
+Hyannis, MA 02601
+Attention: Mr. Robert Madonna
+
+RE:  Line of Credit
+
+Gentlemen:
+
+The First National Bank of Boston (the "Bank") has made a certain revolving
+line of credit (the "Line") available to Excel, Inc. (the "Borrower") pursuant
+to a certain credit agreement dated December 21, 1995 (as amended, the
+"Agreement"). All obligations with respect to the Line are evidenced by a
+certain Promissory Note in the principal amount of $5,000,000 dated as of
+December 21, 1995, amended and increased to $10,000,000 (as amended, the
+"Note").
+
+The Borrower has requested, and the Bank has agreed to amend the Borrowing
+Base definition and waive and amend certain covenants as set forth in the
+Agreement.
+
+Now, therefore, for good and valuable consideration, the receipt of which
+is hereby acknowledged, the Borrower and the Bank hereby agree as follows:
+
+1.   The Borrowing Base as defined in the Agreement is hereby amended to
+include 50% of the Net Security Value of Base Inventory net of the obsolescence
+reserve. "Net Security Value of Base Inventory" shall mean the net value of Base
+Inventory, calculated at the lesser of fair market value or cost determined on
+the "first in, first out" basis, after subtracting the value of any Base
+Inventory which is damaged or detective and after taking into account charges
+and liens, other than those of the Bank, of all kinds against the Base
+Inventory, changes in the market value thereof, and transportation, processing
+and other handling charges affecting the value thereof, all as determined by the
+Bank in its discretion, which determination shall be final and binding upon the
+Borrowers. "Base Inventory" shall mean inventory consisting of raw materials as
+to which a Borrower has acquired title, and is otherwise in compliance with
+Section 6.5 Encumbrance, and the Borrowers have furnished to the Bank
+information as required by Section 5.1(b) hereof. Inventory immediately loses
+the status of Base Inventory if and when a Borrower sells it, otherwise passes
+title thereto or consumes it.
+
+2.   Section 5.1(a) of the Agreement requires that audited fiscal year end
+statements be submitted to the Bank within 90 days of the Borrower's fiscal year
+end.  The Borrower has made it known to the Bank that the statement will not be
+available within that set period of time for fiscal 1996.  The Borrower has
+requested a waiver of the covenant default.  Based on the representations made
+by the Borrower, the Bank hereby waives the covenant default referenced above
+for the year ended December 31, 1996 and resets the time period to 180 days from
+the Borrower's fiscal year end.  Thereafter, the time period for said covenant
+will again be 90 days from fiscal year end.
+<PAGE>
+
+
+3.   Section 6.3 of the Agreement requires that the Borrower or any of its
+subsidiaries not enter into any leases of real or personal property as lessee
+which increase the aggregate annual lease payments over $100,000 from the prior
+fiscal year. The Borrower has made it known to the Bank that the Borrower
+entered into new leases requiring annual aggregate lease payments of $225,000 in
+the fiscal year ended December 31, 1996, $125,000 in excess of the permitted
+amount. The Bank hereby waives the covenant default referenced above for the
+year ended December 31, 1996 based on the representations made by the Borrower
+and resets the covenant amending the annual limitation to $300,000 (from the
+previously agreed $100,000) for future periods.
+
+4.   Section 6.4 of the Agreement restricts the Borrower from entering into
+sale or leaseback transactions. The Borrower has made it known to the Bank that
+the Borrower did enter into a $560,000 sale/leaseback transaction in the fiscal
+year ended December 31, 1996. The Bank hereby waives the covenant default
+referenced above for the year ended December 31, 1996, based on the
+representations made by the Borrower and resets the covenant for the periods
+thereafter.
+
+These waivers shall not constitute a waiver of any provision of the Agreement
+other than Section 5.1(a), 6.3, and 6.4 and shall not be construed as a consent
+to any action on the part of the Borrower that would require a waiver or consent
+of the Bank except as expressly stated herein. All of the provisions of the
+Agreement are and shall remain in full force and effect and are hereby ratified
+and confirmed.
+
+Sincerely,
+
+THE FIRST NATIONAL BANK OF BOSTON
+
+
+By: /s/ Bradford P. Egan
+Its: Vice President
+
+Acknowledged:
+
+Excel, Inc.
+
+
+By: /s/ Nathan C. Apatow
+Its: Treasurer
+
+
+<PAGE>
+
+
+Exhibit
+
+MONTHLY BORROWING BASE CERTIFICATE
+
+Company ____________________________
+
+
+1.   Accounts Receivable @ ___________ (date)                 $_____________
+
+a.   Less Accounts over 60 days                               $_____________
+b.   Less Accounts due to Cross Aging Rule (25%)              $_____________
+c.   Less Affiliate Receivables                               $_____________
+d.   Less Foreign Receivables                                 $_____________
+e.   Less Other Ineligibles                                   $_____________
+
+2.   Eligible Accounts Receivable                             $_____________
+
+3.   Advance Rate (75%)                                       $_____________
+
+4.   Accounts Receivable Availability                         $_____________
+
+5.   Raw Material Inventory                                   $_____________
+
+6.   Advance Rate (50%)                                       $_____________
+
+7.   Net Obsolescence Reserve                                 $_____________
+
+8.   Inventory Availability                                   $_____________
+
+9.   Total AIR and Inventory Availability                     $_____________
+
+10.  Less Outstanding Loan Balance (maximum $10,000,000)      $_____________
+
+12.  Net Availability (Overadvance)                           $_____________
+
+
+The undersigned, and the individual signing this certificate on behalf of the
+undersigned, certify that the information contained herein is true, correct, and
+complete as of the date set forth above.
+
+By: ______________________________
+(Authorized Official)
+
+Date: ____________________________
+
+<PAGE>
+
+Exhibit A
+
+EXCEL, INC.
+
+PROMISSORY NOTE
+December 21, 1995
+$5,000,000.00                                              Boston, Massachusetts
+
+
+For value received, the undersigned hereby promises to pay to The First
+National Bank of Boston (the "Bank"), or order, at the head office of the Bank
+at 100 Federal Street, Boston, Massachusetts 02110, the principal amount of Five
+Million Dollars ($5,000,000.00) or such lesser amount as shall equal the
+aggregate unpaid principal amount of all Loans (as defined in the Agreement
+referred to below) made by the Bank to the undersigned pursuant to the
+Agreement, in lawful money of the United States and in immediately available
+funds, in the amounts and on the dates provided on the schedule attached hereto
+and to pay interest on the unpaid principal amount hereof, at said office, in
+like money and funds, for the period commencing on the date hereof until paid in
+full, at the rates per annum and on the dates provided on such schedule.
+
+Overdue payments of principal (whether at stated maturity, by
+acceleration or otherwise), and, to the extent permitted by law, overdue
+interest, shall bear interest, compounded monthly and payable on demand in
+immediately available funds, at a rate per annum equal to two percent (2%) above
+greater of (i) the rate in effect with respect to such principal prior to its
+maturity and (ii) the rate then applicable to Base Rate Loans under the
+Agreement.
+
+This Note is issued pursuant to, and entitled to the benefits of, and
+is subject to, the provisions of a certain Credit Agreement dated as of December
+21, 1995 by and between the undersigned and the Bank (herein, as the same may
+from time to time be amended or extended, referred to as the "Agreement"), but
+neither this reference to the Agreement nor any, provision thereof shall affect
+or impair the absolute and unconditional obligation of the undersigned maker of
+this Note to pay the principal of and interest on this Note as herein provided.
+
+As provided in the Agreement, this Note is subject to mandatory
+prepayment in certain circumstances.
+
+In case an Event of Default (as defined in the Agreement) shall occur,
+the aggregate unpaid principal of plus accrued interest on this Note shall
+become or may be declared to be due and payable in the manner and with the
+effect provided in the Agreement.
+
+The undersigned may at its option prepay all or any part of the
+principal of this Note before maturity upon the terms provided in the Agreement.
+
+The undersigned maker hereby waives presentment, demand, notice of
+dishonor, protest and all other demands and notices in connection with the
+delivery, acceptance, performance and enforcement of this Note.
+<PAGE>
+
+
+This instrument shall have the effect of an instrument executed under
+seal and shall be governed by and construed in accordance with the laws of The
+Commonwealth of Massachusetts (without giving effect to any conflicts of laws
+provisions contained therein).
+
+
+EXCEL INC.
+
+
+By:
+Title:
+<PAGE>
+
+
+SCHEDULE I TO PROMISSORY NOTE
+
+<TABLE>
+<CAPTION>
+
+Type of Loan
+Amount of       Eurodollar                   Interest      Interest                     Notation
+Date           Loan        or Base Loan       Rate        Rate*         Period      Amount Paid      Made By
+<S>         <C>            <C>                <C>        <C>           <C>          <C>             <C>
+
+</TABLE>
+
+* For Base Rate Loans, insert "Base Rate"
+
+** For Eurodollar Loans
+<PAGE>
+
+
+EXHIBIT B
+
+List of Indebtedness and Encumbrances
+
+
+
+1.  $2.6 Million First Mortgage on corporate headquarters building #60 and #70
+at 255 Independence Drive , Hyannis, MA. Seven year note, twenty year
+amortization provided by Cape Cod Bank & Trust.
+
+2.  $300 Thousand Term Note secured by equipment and provided by Cape Cod
+Bank & Trust.
+<PAGE>
+
+
+EXHIBIT C
+
+
+List of litigation. Arbitration, or Investigations Pending
+
+
+
+Litigation:
+
+Melissa Lima v Excel Inc., et al
+(Employment Litigation, discrimination in hiring)
+U.S. District Court Mass. 95-10330-PBS)
+
+Arbitration:
+
+None
+
+Investigations:
+
+None
+<PAGE>
+
+
+EXHIBIT D
+
+List of Subsidiaries
+
+
+NONE
+<PAGE>
+
+
+Exhibit E
+MONTHLY BORROWING BASE CERTIFICATE
+
+Company ____________________
+
+
+1.   Account Receivable @ _________________(date)            $________________
+
+a.   Less Accounts over 60 days                              $________________
+b.   Less Accounts due to Cross Aging Rule (25%)             $________________
+c.   Less Affiliate Receivables                              $________________
+d.   Less Foreign Receivables                                $________________
+e.   Less Other Ineligibles                                  $________________
+
+2.   Eligible Accounts Receivable                            $________________
+
+3.   Advance Rate (75%)                                              X
+
+4.   Accounts Receivable Availability                        $________________
+
+5.   Less Outstanding Loan Balance (Maximum $5,000,000)      $________________
+
+6.   Net Availability or (Overadvance)                       $________________
+
+
+The undersigned, and the individual signing this certificate on behalf of the
+undersigned, certify that the information contained herein is true, correct and
+complete as of the date(s) set forth above.
+
+
+
+By:____________________________
+Authorized Official
+
+Date:__________________________
+<PAGE>
+
+
+EXHIBIT F
+
+REPORT OF CHIEF FINANCIAL OFFICER
+
+EXCEL, INC. (the "Company) HEREBY CERTIFIES that:
+
+This Report is furnished pursuant to the Credit Agreement dated as of
+December 8, 1995 by and between the Company and The First National Bank of
+Boston (the "Agreement"). Unless otherwise defined herein, the terms used in
+this Report have the meanings given to them in the Agreement.
+
+As required by the Agreement, financial statements of the Company for
+the quarter ended ______________ (the "Financial Statements') prepared in
+accordance with generally accepted account principals consistently applied
+accompany this Report. The Financial Statements present fairly the financial
+position of the Company as the date thereof and the results of the operations of
+the Company for the period covered thereby (subject only to normal recurring
+year-end adjustments).
+
+The figures set forth in Schedule I for determining compliance by the
+Company with the financial covenants contained in the Agreement are true and
+complete as of the date thereof.
+
+The activities of the Company during the period covered by the
+Financial Statements have been reviewed by the Chief Financial Officer or by
+employees or agents under his immediate supervision. Based on such review, to
+the best knowledge and belief of the Chief Financial Officer, and as of the date
+of this Report, no Default has occurred.*
+
+WITNESS my hand this ___ day of __________, 199__.
+
+EXCEL, INC.
+
+
+By:
+
+Title:
+
+*If a Default has occurred, this paragraph is to be modified with an appropriate
+statement as to the nature thereof, the period of existence thereof and what
+action the Company has taken, is taking, or proposes to take with respect
+thereto.
+<PAGE>
+
+
+SCHEDULE I TO REPORT OF CHIEF FINANCIAL OFFICER
+
+
+
+Schedule of Compliance as of ___________ with provisions of Section
+5.7, 5.8, 5.9, and 5.10 of the Credit Agreement dated as of December 8, 1995
+(the "Agreement") between Excel, Inc. and the First National Bank of Boston.
+
+
+1.   Consolidated Tangible Net Worth (Section 5.7)
+
+(i)      Total Assets                                  $________________
+
+(ii)     Excluded Items (if any)                       $________________
+
+(iii)    Total Liabilities                             $________________
+
+(iv)     Tangible Net Worth                            $________________
+[(I) minus the sum of (ii) and (iii)]
+
+
+(v)      Minimum Tangible Net Worth
+permitted by Agreement                        $________________
+
+
+2.   Ratio of Total Liabilities to Tangible Net Worth (Section 58)
+
+(i)      Total Liabilities                             $________________
+
+(ii)     Tangible Net Worth                            $________________
+
+(iii)    Ratio of (I) to (ii)                            ________________
+
+
+3.   Cash Flow Coverage (Section 5.9)
+
+(i)      Earnings before interest and income taxes     $________________
+[excluding non-recurring or extraordinary
+items]
+
+(ii)     Depreciation and Amortization                 $________________
+
+(iii)    Capital Expenditures                          $________________
+
+(iv)     Cash Taxes Paid                               $________________
+
+(v)      Dividends and Distributions                   $________________
+<PAGE>
+
+
+(vi)     Total Operating Cash Flow
+(I) plus (ii) minus (iii) minus (iv) minus (v)   $________________
+
+(vii)    Interest Expense                                 $________________
+
+(viii)   Principal on Debt and Capital Leases paid        $________________
+
+(ix)     Total Debt Service
+(vii) plus (viii)                                $________________
+
+(x)      Cash Flow Coverage Ratio
+(vi) divided by (ix)                              ________________
+
+(xi)     Cash Flow Ratio Required by Agreement             ________________
+
+
+4.   Profitability (Section 5. 10)
+
+(i)      Fiscal Quarter Pre-Tax Income
+Required by Agreement                            $________________
+<PAGE>
+
+
+EXHIBIT G
+
+FORM OF OPINION OF COUNSEL TO THE COMPANY
+
+
+The First National Bank of Boston
+100 Federal Street
+Boston, Massachusetts 02110
+
+RE:   Revolving Credit Agreement dated as of ______________ by and
+between The First National Bank of Boston (the "Bank") and [NAME
+OF COMPANY] (the "Company")
+
+Ladies/Gentlemen:
+
+We have acted as counsel to ___________ (the "Company") in connection
+with the preparation, execution and delivery of the Revolving Credit and Term
+Loan Agreement, dated as of __________ (the "Agreement") between The First
+National Bank of Boston (the "Bank") and the Company pursuant to which the
+Company has executed and delivered to the Bank its Note in the principal amount
+of $_________. All terms defined in the Agreement shall have the same meanings
+herein.
+
+We have examined executed counterparts of the Agreement and the Note
+and originals, or copies, the authenticity of which has been established to our
+satisfaction, of such other documents, corporate records, agreements and
+instruments and certificates of public officials and officers of the Company as
+we have deemed necessary as the basis for the opinions herein expressed. As to
+the questions of fact material to such opinions we have, when relevant facts
+were not independently established, relied upon certifications by officers of
+the Company.
+
+Based on the foregoing and having regard for legal considerations as we
+have deemed relevant, it is our opinion that:
+
+1. The Company is a corporation duly organized, validly existing and in
+good standing under the laws of the [State/Commonwealth of ___________], has all
+requisite corporate power to own its property and conduct its business as now
+conducted and is duly qualified and in good standing as a foreign corporation
+and duly authorized to do business in each jurisdiction wherein the nature of
+its properties or business requires such qualification, except where the failure
+to be so qualified would not have a material adverse effect on its business,
+financial condition, assets or properties taken as a whole.
+
+2. The execution and delivery of the Agreement and the Note and
+performance by the Company of its obligations thereunder and of the transactions
+contemplated thereby are within the corporate power and authority of the
+Company, and have been authorized by proper
+<PAGE>
+
+
+corporate proceedings and do not contravene any provision of law of the United
+States or its political subdivisions or the [Certificate of
+Incorporation/Articles of Organization] or ByLaws of the Company, or, to the
+best of our knowledge, contravene any provision of, or constitute an event of
+default or event which, with the lapse of time or the giving of notice, or both,
+would constitute an event of default under, any other agreement, instrument or
+undertaking binding on the Company.
+
+3. The Agreement and the Note have been duly executed and delivered by
+the Company. The Agreement and the Note and all of the terms and provisions
+thereof are the legal, valid and binding obligations of the Company, enforceable
+in accordance with their respective terms except as limited by bankruptcy,
+insolvency, reorganization, moratorium or other laws affecting enforcement of
+creditors' rights generally, and except as the remedy of specific performance or
+of injunctive relief is subject to the discretion of the court before which any
+proceeding therefor may be brought.
+
+4. The execution, delivery and performance of the Agreement and the
+Note and the transactions contemplated thereby do not require any approval or
+consent of, or filing or registration with, any governmental or other agency or
+authority, or any other party.
+
+5. Except as set forth on Exhibit D to the Agreement, there is no
+litigation, proceeding or investigation pending, or, to the best of our
+knowledge after due inquiry, threatened, against the Company or any Subsidiary
+which, if adversely determined, would result in a material judgment not
+substantially covered by insurance or would otherwise have a material adverse
+effect on the assets, business or prospects of the Company or any Subsidiary.
+
+6. Each Subsidiary of the Company is a corporation duly organized,
+validly existing and in good standing under the laws of its jurisdiction of
+incorporation, has all requisite corporate power to own its property and conduct
+its businesses as now conducted and is duly qualified and in good standing as a
+foreign corporation and is duly authorized to do business in each jurisdiction
+where the nature of its properties or businesses requires such qualification,
+except where the failure to be so qualified would not have a material adverse
+effect on its business, financial condition, assets or properties taken as a
+whole.
+
+7. As of the date of the Agreement, all the Subsidiaries of the Company
+are listed on Exhibit E thereto. The Company is the record holder of all of the
+issued and outstanding stock of each of its Subsidiaries. All shares of such
+stock have been validly issued and are fully paid and nonassessable, and no
+rights to subscribe to any additional shares have been granted, and no options,
+warrants or similar rights are outstanding.
+
+8. Neither the Company nor any Subsidiary is subject to regulation
+under the Investment Company Act of 1940, as amended.
+
+9. All state and local recording, franchise, stamp, documentary and
+other taxes and governmental charges and assessments required to be paid in
+connection with the execution,
+<PAGE>
+
+
+delivery, filing or recordation of, or as a condition to the enforcement of, the
+Agreement and the Note and any of the transactions contemplated thereby, have
+been duly paid.
+
+
+
+Very truly yours,
+<PAGE>
+
+EXCEL SWITCHING CORPORATION (f/k/a Excel, Inc.)
+255 Independence Drive
+Hyannis, Massachusetts 02601
+
+
+Dated as of:  December 19, 1997
+
+
+BankBoston, N.A.,
+(f/k/a The First National Bank of Boston)
+100 Federal Street
+Boston, Massachusetts 02110
+
+Re:  Amendment No. 1 to Loan Agreement
+
+Ladies and Gentlemen:
+
+We refer to the Loan Agreement, dated as of December 21, 1995 (as amended,
+the "Agreement"), between Excel Switching Corporation (f/k/a Excel, Inc.), a
+Massachusetts corporation (the "Borrower"), and BankBoston, N.A. (f/k/a The
+First National Bank of Boston), a national banking association (the "Lender").
+
+Terms used in this letter of agreement (this "Amendment") which are not
+defined herein, but which are defined in the Agreement, shall have the same
+respective meanings herein as therein.
+
+We have advised you that, effective September 16, 1997, we have changed the
+legal name of the corporation from Excel, Inc. to Excel Switching Corporation.
+In addition, we have requested you to make certain amendments to the Agreement.
+You have advised us that you are prepared and would be pleased to make the
+amendments so requested by us on the condition that we join with you in this
+Amendment.
+
+Accordingly, in consideration of these premises, the promises, mutual
+covenants and agreements contained in this Amendment, and fully intending to be
+legally bound by this Amendment, we hereby agree with you as follows:
+
+ARTICLE I
+
+AMENDMENTS TO AGREEMENT
+
+Effective December 19, 1997, the Agreement is amended as follows:
+
+(a)  The definition of "Borrowing Base" in Section 1.1 of the Agreement
+(and including the definitions of "Base Accounts" and "net outstanding amount of
+Base Accounts" contained therein) is deleted in its entirety.
+<PAGE>
+
+
+(b)  The definition of "Commitment Amount" in Section 1.1 of the Agreement
+is amended to read in its entirety as follows:
+
+"Commitment Amount.  $15,000,000 or any lesser amount, including zero
+resulting from a termination or reduction of such amount in accordance
+with Section 7.2."
+
+(c)  Section 1.1 is amended by inserting, immediately following the
+definition of "Computation Rate" contained therein, the following new
+definition:
+
+"Consolidated Current Assets.  At any date as of which the amount
+thereof shall be determined, all amounts that should, in accordance
+with generally accepted accounting principles, be included as current
+assets on the consolidated balance sheet of the Company and its
+Subsidiaries at such date."
+
+(d)  The definition of "Revolving Credit Termination Date" in Section 1.1
+of the Agreement is amended to read in its entirety as follows:
+
+"Revolving Credit Termination Date: June 30, 1999".
+
+(e)  Section 2.1 of the Agreement is amended by deleting each reference to
+"Borrowing Base" contained therein, and by inserting in place thereof the
+following:
+
+"Commitment Amount".
+
+(f)  Section 2.4(a) of the Agreement is amended by deleting the reference
+to "December 15, 1997" contained therein, and by inserting in place thereof the
+following:
+
+"June 30, 1999".
+
+(g)  Section 2.6(b) of the Agreement is amended by deleting the reference
+to "two and one half percent (2.5%)" contained therein, and by inserting in
+place thereof the following:
+
+"one and three-quarters percent (1.75%)".
+
+(h)  Section 5.1(b) of the Agreement is amended by deleting the reference
+to the borrowing base report and Exhibit E contained in clause (ii) thereof.
+
+(i)  Section 5.7 of the Agreement is amended to read in its entirety as
+follows:
+
+"[Intentionally Omitted.]"
+
+(j)  Section 5.8 of the Agreement is amended by deleting the reference to
+"1.25" contained therein, and by inserting in place thereof the following:
+
+"1.00".
+<PAGE>
+
+
+(k)  Section 5.9 of the Agreement is amended to read in its entirety as
+follows:
+
+"5.9 Consolidated Current Assets to Consolidated Current Liabilities
+Ratio.  The Company shall at all times maintain a ratio of
+Consolidated Current Assets to Consolidated Current Liabilities of at
+least 2.00 to 1.00, tested quarterly."
+
+(l)  Section 7.1(b) of the Agreement is amended to read in its entirety as
+follows:
+
+"(b) The Company shall fail to perform any term, covenant or agreement
+contained in Sections 5.1(g), 5.5, 5.8 through 5.11, inclusive, or 6.1
+through 6.10, inclusive; or".
+
+(m)  Each reference in the Agreement, the Note and the other documents and
+agreements executed in connection therewith to (i) "Excel, Inc." shall be deemed
+to be a reference to "Excel Switching Corporation" and (ii) "The First National
+Bank of Boston" shall be deemed to be a reference to "BankBoston, N.A."
+
+(n)  Section 2.3 of the Agreement is amended to read in its entirety as
+follows:
+
+"2.3 Facility Fee.  The Company shall pay to the Bank during the
+Revolving Credit Period an annual facility fee, payable quarterly in
+advance on the first Business Day of each quarter, equal to 1/4% per
+annum of the Commitment Amount then in effect."
+
+ARTICLE II
+
+AMENDMENT TO NOTE
+
+Effective December 19, 1997, the Note is amended by deleting each reference
+to "$10,000,000" or "Ten Million Dollars ($10,000,000) contained therein and by
+inserting a reference to "$15,000,000" or "Fifteen Million Dollars
+($15,000,000)", respectively, in place thereof.  In addition, the Schedule
+attached to the Note is amended by inserting a maturity date of June 30, 1999.
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES
+
+The Borrower represents and warrants to you as follows:
+
+(a)  Representations in Agreement.  Each of the representations and
+warranties made by the Borrower to you in the Agreement was true, correct and
+complete when made and is true, correct and complete on and as of the date
+hereof with the same full force and effect as if each of such representations
+and warranties had been made by the Borrower on the date hereof and in this
+Amendment.
+<PAGE>
+
+
+(b)  No Defaults or Events of Default.  No default or Event of Default
+exists on the date of this Amendment (after giving effect to all of the
+arrangements and transactions contemplated by this Amendment).
+
+(c)  Binding Effect of Documents. This Amendment has been duly executed and
+delivered to you by the Borrower and is in full force and effect as of the date
+hereof, and the agreements and obligations of the Borrower contained herein
+constitute legal, valid and binding obligations of the Borrower enforceable
+against the Borrower in accordance with its terms.  The Borrower has delivered
+to you with this Amendment duly executed board resolutions authorizing the
+incurrence of the additional indebtedness evidenced hereby and the other terms
+and conditions of this Amendment.
+
+ARTICLE IV
+
+MISCELLANEOUS
+
+This Amendment may be executed in any number of counterparts, each of which
+when executed and delivered shall be deemed an original, but all of which
+together shall constitute one instrument.  In making proof of this Amendment, it
+shall not be necessary to produce or account for more than one counterpart
+thereof signed by each of the parties hereto.  Except to the extent specifically
+amended and supplemented hereby, all of the terms, conditions and the provisions
+of the Agreement, the Note and each of the other documents and agreements
+executed in connection therewith shall remain unmodified, and the Agreement, the
+Note and each of the other documents, as amended and supplemented by this
+Amendment, are confirmed as being in full force and effect.
+
+If you are in agreement with the foregoing, please sign the form of
+acceptance on the enclosed counterpart of this Amendment and return such
+counterpart to the undersigned, whereupon this Amendment, as so accepted by you,
+shall become a binding agreement between you and the undersigned.
+
+Very truly yours,
+
+EXCEL SWITCHING CORPORATION
+(f/k/a EXCEL, INC.)
+
+
+By: /s/ Stephen S. Galliker
+Title:  Vice President
+<PAGE>
+
+
+The foregoing Amendment is hereby accepted by the undersigned as of
+December 19, 1997
+
+
+BANKBOSTON, N.A.,
+(f/k/a THE FIRST NATIONAL BANK OF BOSTON)
+
+
+By: /s/ Bradford P. Egan
+Title: Vice President
+

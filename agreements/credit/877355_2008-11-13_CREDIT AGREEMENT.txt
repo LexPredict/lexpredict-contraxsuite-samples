@@ -1,0 +1,873 @@
+
+
+
+
+
+
+
+lfgcreditagmt.htm -- Converted by SEC Publisher, created by BCL Technologies Inc., for SEC Filing
+
+
+
+
+
+Exhibit 10.1
+
+_____________________________________________________________________________
+
+CREDIT AGREEMENT
+
+
+
+dated as of November 7, 2008
+
+
+
+by and between
+
+
+
+LANDAMERICA FINANCIAL GROUP, INC.,
+
+as Borrower
+
+
+
+and
+
+
+
+CHICAGO TITLE INSURANCE COMPANY,
+
+as Lender
+
+_____________________________________________________________________________
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+Page
+
+
+ARTICLE 1 - DEFINITIONS  	  	1
+
+1.1  	  	Definitions  	  	1
+1.2  	  	Interpretation  	  	7
+
+ARTICLE 2 - THE LOAN; USE OF PROCEEDS  	  	8
+
+2.1  	  	Credit Facility  	  	8
+2.2  	  	Note  	  	8
+2.3  	  	Principal Repayment Generally  	  	9
+2.4  	  	Mandatory Repayments and Reduction of the Commitment  	  	9
+2.5  	  	Voluntary Prepayment  	  	10
+2.6  	  	Interest  	  	10
+2.7  	  	Use of Proceeds  	  	10
+
+ARTICLE 3 - COLLATERAL  	  	10
+
+3.1  	  	Guarantor Security Interest  	  	10
+
+ARTICLE 4 - CLOSING AND CONDITIONS PRECEDENT TO ADVANCES  	  	11
+
+4.1  	  	Initial Advance  	  	11
+4.2  	  	All Advances  	  	12
+
+ARTICLE 5 - REPRESENTATIONS AND WARRANTIES  	  	13
+
+5.1  	  	Representations of the Borrower  	  	13
+5.2  	  	Reliance on Representations  	  	14
+
+ARTICLE 6 - COVENANTS  	  	14
+
+6.1  	  	Preservation of Collateral  	  	14
+6.2  	  	Information and Notices  	  	14
+6.3  	  	Further Assurances  	  	15
+6.4  	  	Covenants Regarding the Guarantor  	  	15
+
+ARTICLE 7 - DEFAULT  	  	16
+
+7.1  	  	Events of Default  	  	16
+7.2  	  	Acceleration and Termination of Commitment  	  	17
+7.3  	  	Remedies Regarding the Collateral  	  	17
+7.4  	  	No Advances After Default  	  	18
+7.5  	  	Right of Set-Off  	  	18
+7.6  	  	Nature of Remedies  	  	18
+
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE 8 - MISCELLANEOUS  	  	18
+
+8.1  	  	Reference to Statute or Regulation  	  	18
+8.2  	  	Notices  	  	18
+8.3  	  	Amendments  	  	19
+8.4  	  	Survival of Representations and Warranties  	  	19
+8.5  	  	Assignments and Participations  	  	19
+8.6  	  	Successors and Assigns  	  	19
+8.7  	  	Construction  	  	20
+8.8  	  	Severability  	  	20
+8.9  	  	Waiver of Trial by Jury; Jurisdiction  	  	20
+8.10  	  	Entire Agreement  	  	21
+8.11  	  	Multiple Counterparts  	  	21
+8.12  	  	Consent; Waivers  	  	21
+8.13  	  	Indemnity By the Borrower; Expenses  	  	21
+8.14  	  	Waiver of Certain Defenses  	  	22
+8.15  	  	Limitation on Liability; Waiver of Punitive Damages  	  	22
+
+Exhibits, Schedules and Annexes
+
+Annex I  	  	 		List of Auction Rate Securities and Securities Accounts
+
+Exhibit A  	  	                   		Form of Revolving Credit Note
+Exhibit B  	  	                    		Form of Guaranty and Security Agreement
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREDIT AGREEMENT
+
+This CREDIT AGREEMENT, dated November 7, 2008 (this “Agreement”), is by and between LANDAMERICA FINANCIAL GROUP, INC., a Virginia corporation (together with its successors and permitted assigns, the “Borrower”), and CHICAGO T
+ITLE INSURANCE COMPANY, an insurance company organized under the laws of the State of Nebraska (together with its successors and permitted assigns, the “Lender”).
+
+BACKGROUND
+
+A.          Fidelity National Financial, Inc., a Delaware corporation and the ultimate parent of the Lender (“FNF”), and the Borrower are entering into an Agreement and Plan of Merger of even date herewith (the “Merger Agreement”) pursuant to which a wholly owned subsidiary of FNF will merge (the “Merger
+”) with and into the Borrower.
+
+B.          The Lender and the Borrower are entering into this Agreement as a condition and a material inducement to the entering into of the Merger Agreement by FNF and the Borrower.
+
+C.          Concurrently herewith, LandAmerica 1031 Exchange Services, Inc., a Maryland corporation and a wholly-owned subsidiary of the Borrower (together with its successors and permitted assigns, the “Guarantor”) is entering into a Guaranty and Security Agreement (the “Guaranty and Security Agreement”), substantially in the form of Exhibit B, pursuant to which Guarantor irrevocably and unconditionally guarantees the payment and performance of Borrower’s obligations hereunder and grants a security interest in the Collateral (as hereinafter defined) to secure the obligations of the Guarantor under the Guaranty and Security Agreement and the obligations of the Borrower hereunder.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants hereinafter contained, and for other good and valuable consideration, the parties hereto agree as follows:
+
+ARTICLE 1 - DEFINITIONS
+
+1.1      Definitions. When used in this Agreement, the following terms shall have the respective meanings set forth below.
+
+“Account Control Agreement” has the meaning set forth in Section 3.1.
+
+“Additional 1031 Liquidity” means receipt by the Guarantor, or by the Borrower for the benefit of and to be used by the Guarantor, of immediately available funds or readily marketable securities having a market value of not less than US$60,000,000.00 from the exchange after November 6, 2008 and on or prior to November 24, 2008 of auction rate securities with a aggregate par amount of no more than US$75,000,000.00 that are owned by the Guarantor to one or more of the Borrower's title insurance Subsidiaries.
+
+“Advance” means a borrowing under the Commitment pursuant to Section 2.1.
+
+1
+
+
+
+
+
+
+“Advance Date” means the date on which an Advance is made.
+
+“Advance Request” means the written request for an Advance given pursuant to Section 2.1(b).
+
+“Affiliate” means, with respect to any Person, (a) each Person that, directly or indirectly, owns or controls, whether beneficially or as a trustee, guardian or other fiduciary, 10% or more of the equity interests having ordinary voting power in the election of directors of such Person, (b) each Person that controls, is controlled by or is under common control with such Person, (c) each of such Person’s officers, directors, joint venturers and partners and (d) in the case of an individual, the immediate family members, spouses and lineal descendants of individuals who are Affiliates of such individual.
+For the purposes of this definition, “control” of a Person shall mean the possession, directly or indirectly, of the power to direct or cause the direction of its management or policies, whether through the ownership of voting securities, by contract or otherwise.
+
+“Agreement” means this Credit Agreement, as the same may be amended, supplemented, restated or otherwise modified from time to time.
+
+“Applicable Rate” means a rate per annum equal at all times to LIBOR plus four hundred basis points (4.00%), which rate shall fluctuate as and when LIBOR shall fluctuate.
+
+“Auction Rate Securities” means the auction rate securities listed on Annex I hereto, which auction rate securities are held in Securities Account no.170-90010-1-8-777 established at Citi Smith Barney and Securities Account no.156000906 established at SunTrust Bank.
+
+“Availability Period” means, subject to the terms and conditions hereof, the period beginning on the date of receipt by the Borrower of the Additional 1031 Liquidity (but in no event prior to November 24, 2008) and ending on, but not including, the earlier of (i) the fifth (5th) anniversary of the date hereof and (ii) the Termination Date.
+
+“Bank Waivers” means all notices, consents or waivers required (as determined by the Lender in its reasonable discretion, and satisfactory in form and substance to the Lender in its reasonable discretion), pursuant to the terms of the SunTrust Credit Agreement and the Prudential Note Purchase Agreement to (a) permit the execution, delivery and performance of this Agreement, the Guaranty and Security Agreement, the other Loan Documents and (b) waive all defaults under the SunTrust Credit Agreement and the Prudential Note Purchase Agreement in existence prior to the date of the initial Advance.
+
+“Business Day” means any day other than a Saturday, Sunday or day on which banking institutions in New York, New York are authorized or obligated pursuant to legal requirements or executive order to be closed.
+
+“Collateral” means all of the Guarantor’s right, title and interest in, to and under the Auction Rate Securities and the securities accounts in which the Auction Rate Securities are held, together with all replacements, substitutions, distributions, income, profits, products and cash and non-cash Proceeds thereof (including insurance proceeds) in any form and wherever located, and all written or electronically recorded books and records relating to any such
+
+2
+
+
+
+
+
+
+securities held in the securities accounts and other rights relating thereto, provided that “Collateral” shall not include any of the auction rate securities, in a maximum aggregate par amount of USD$75,000,000.00, transferred or to be transferred in order to generate the Additional 1031 Liquidity, and provided, further, that “Collateral” shall also not inclu
+de any other securities or financial assets that are included in the securities accounts referred to above that are not the Auction Rate Securities listed on Annex I or any replacements, substitutions, distributions, income, profits, products and cash and non-cash Proceeds thereof, it being understood that the Borrower will cause the Guarantor to endeavor to remove the non- Auction Rate Securities from the securities accounts prior to the initial Advance hereunder.
+
+“Commitment” means, at any given time, the obligation of the Lender, subject to the terms and conditions herein, to make Advances hereunder, initially in the maximum aggregate principal amount not to exceed Thirty Million United States Dollars (US$30,000,000.00), as reduced from time to time pursuant to the terms hereof, including all Pro Rata Commitment Decreases.
+
+“Debt” of a Person means all obligations for borrowed money of such Person.
+
+“Default” or “default” means any condition or event specified as such in Section 7.1 hereof that, with the giving of notice or the passage of time or the happening of a further condition, event or act or any of these, would, unless cured or waived, become an Event of Default.
+
+“Event of Default” has the meaning ascribed to it in Section 7.1.
+
+“FNF” has the meaning set forth in the preamble of this Agreement.
+
+“GAAP” means the generally accepted accounting principles set forth from time to time in the opinions and pronouncements of the Accounting Principles Board and the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board (or agencies with similar functions of comparable stature and authority within the U.S. accounting profession), which are applicable to the circumstances as of the date of determination and are applied on a consistent basis.
+
+“Guaranty and Security Agreement” has the meaning set forth in the preamble of this Agreement.
+
+“Guarantor” has the meaning set forth in the preamble of this Agreement.
+
+“LIBOR” means, for any day, the British Bankers’ Association Interest Settlement Rate per annum for 1-month deposits in United States Dollars, appearing on the display designated as Page 3750 on the Dow Jones Telerate (or such other page on that service or such other service designated by the British Bankers’ Association for the display of its Interest Settlement Rates for Dollar deposits) as of 11:00 a.m. (London, England time) on such day, or if such day is not a London business day, then the immediately preceding London business day (or if such Page 3750 is unavailable for any reason at such ti
+me, then the rate as determined by the lender from another recognized source or interbank quotation, such as the Reuters Screen ISDA Page).
+
+3
+
+
+
+
+
+
+“Lien” means any mortgage or deed of trust, pledge, hypothecation, collateral assignment, deposit arrangement, lien, charge, claim, security interest, easement or encumbrance, or preference, priority or other security agreement or preferential arrangement of any kind or nature whatsoever whether arising by agreement or under any statute or law or otherwise (including any lease or title retention agreement, any financing lease having substantially the same economic effect as any of the foregoing, and the filing of, or agreement to give, any financing statement perfecting a security interest under the UCC or
+comparable law of any jurisdiction).
+
+“Loan” means, at any time, the aggregate of all Advances outstanding hereunder.
+
+“Loan Documents” means this Agreement, the Guaranty and Security Agreement, the Note, the Account Control Agreements, the Transition Services Agreement, the Advance Requests, the UCC-1 financing statements, and all other agreements, instruments, documents and certificates executed and delivered to, or in favor of, the Lender in connection herewith or therewith. Any reference in this Agreement or any other Loan Document to a Loan Document shall include all appendices, exhibits or schedules thereto, and all amendments, restatements, supplements or other modifications thereto, and shall refer to this
+Agreement or such Loan Document as the same may be in effect at any and all times such reference becomes operative.
+
+“Material Adverse Effect” means (a) a “Material Adverse Effect” as defined in the Merger Agreement, or (b) a material adverse effect on (i) the first priority position of the Lender’s security interest in any of the Collateral, or (ii) the ability of the Lender to effectively exercise its remedies hereunder or under the Guaranty and Security Agreement or under any of the other Loan Documents if an Event of Default occurs.
+
+“Maturity Date” means the earlier to occur of (i) the ninetieth (90th) day after the date on which any party to the Merger Agreement provides written notice to the other party(s) thereto of the termination of the Merger Agreement, and (ii) the fifth (5th) anniversary of the date of this Agreement.
+
+“Merger” has the meaning set forth in the preamble of this Agreement.
+
+“Merger Agreement” has the meaning set forth in the preamble of this Agreement.
+
+“Note” means the Revolving Credit Note dated the date hereof, executed by the Borrower to and in favor of the Lender to evidence its unconditional obligation to repay the Lender for all amounts due hereunder from time to time, substantially in the form of Exhibit A.
+
+“Obligations” means all obligations now or hereafter owed to the Lender or any Affiliate of the Lender by the Borrower related to or arising out of the Loan, including, without limitation, amounts owed or to be owed under the terms of the Loan Documents, or arising out of the transactions described therein, including, without limitation, the Loan and all interest accruing thereon (including any interest accruing after the filing of any petition in bankruptcy or the commencement of any insolvency, reorganization or like proceeding relating to the Borrower or the Guarantor, whether or not a claim fo
+r post-filing or post-petition interest is allowed in such proceeding), all fees, expenses, reimbursement obligations, indemnification payments or obligations, all costs of collection, attorneys' fees and expenses of or advances by the Lender
+
+4
+
+
+
+
+
+
+which the Lender or any of its Affiliates pays or incurs in discharge of obligations of the Borrower or to inspect, repossess, protect, preserve, store or dispose of any Collateral, whether such amounts are now due or hereafter become due, direct or indirect and whether such amounts due are from time to time reduced or entirely extinguished and thereafter re-incurred.
+
+“Permitted Liens” means
+
+(a)          Liens in favor of the Lender,
+
+(b)          Liens imposed by law for tax, fees, assessments or other governmental charges not yet due or which are being contested in good faith by appropriate proceedings and with respect to which adequate reserves are being maintained in accordance with GAAP,
+
+(c)          statutory Liens of landlords, carriers, warehousemen's, mechanics, materialmen and similar Liens arising by operation of law in the ordinary course of business for amounts not yet due or which are being contested in good faith by appropriate proceedings and with respect to which adequate reserves are being maintained in accordance with GAAP, and
+
+(d)          Customary Liens in favor of any securities intermediary holding any Collateral solely to the extent of the regularly-scheduled fees that may be currently owing from time to time for securities intermediary services provided by such securities intermediary with respect to the applicable securities account;
+
+provided that the term “Permitted Liens” shall not include any Lien securing Debt other than Liens in favor of the Lender. Without limiting the foregoing, the Lender agrees that if it consents to any other Permitted Lien on the Collateral, such Lien shall be in a second position and subordinate to the Lien of the Lender, and the Lender and such lienholder will enter into a customary intercreditor agreement with respect to the Collateral, in form and substance satisfactory to Lender.
+
+“Permitted Sale” means, in addition to the sale and transfer in connection with the Additional 1031 Liquidity, any sale, assignment, transfer or other disposition of the Collateral:
+
+(i)          to any Subsidiary of the Borrower that is a regulated insurance subsidiary in exchange for cash, cash equivalents or liquid securities, so long as (i) the aggregate proceeds received by the Guarantor are equal to or greater than the fair value of the Collateral so sold, transferred or disposed of, and (ii) all of the proceeds (net only of reasonable commissions, selling expenses and customary transaction costs) ar
+e utilized to prepay the Loan in accordance with Section 2.4(a), with any remaining proceeds held by the Guarantor to fund its customer withdrawals;
+
+(ii)          at any time after the expiration of FNF's due diligence period under the Merger Agreement, to a bona fide third party so long as either:
+
+5
+
+
+
+
+
+
+(x)          (A) the proceeds realized by the Guarantor from such sale, transfer or disposition are equal to or greater than the fair value of the Collateral transferred, and (B) all of the proceeds (net only of reasonable commissions, selling expenses and customary transaction costs) are utilize
+d to prepay the Loan in accordance with Section 2.4(a), with any remaining proceeds held by the Guarantor to fund its customer withdrawals; or
+
+(y)          the proceeds realized by the Guarantor from such sale, transfer or disposition are suf
+ficient to repay in full the Loan (together with all interest, fees and other amounts owing hereunder and under the Loan Documents), and such net proceeds are used to so repay the Loan in full and the Commitment is then terminated; or
+
+(iii)          in a settlement arrangement with Citi Smith Barney and/or SunTrust Bank, as the securities intermediaries holding possession of the Collateral, including a transfer of the auction rate securities back to such securiti
+es intermediaries, provided, however, that unless the Lender shall have consented thereto, such transfer of Collateral shall be permitted only to the extent that the proceeds are sufficient to repay the Loan in full and the Commitment is then terminated.
+
+“Person” means any individual, sole proprietorship, partnership, joint venture, trust, unincorporated organization, association, corporation, limited liability company, institution, public benefit corporation, other entity or government (whether federal, state, county, city, municipal, local, foreign, or otherwise, including any instrumentality, division, agency, body or department thereof).
+
+“Pro Rata Commitment Decrease” has the meaning set forth in Section 2.4(a).
+
+“Proceeds” means “proceeds” as defined in the UCC from time to time.
+
+“Prudential Note Purchase Agreement” means the Note Purchase and Master Shelf Agreement, dated July 28, 2006, as amended from time to time, with Prudential Investment Management, Inc. and the other purchasers thereunder.
+
+“Regulatory Approvals” means as to each of the Nebraska Department of Insurance and the New Jersey Department of Banking and Insurance either (i) an acknowledgement and acceptance or other response, signed by the Director or the Commissioner or his/her designee, to a letter from the Borrower in form and substance approved by the Lender, agreeing to permit one or more of the Borrower's title insurers to exchange with the Guarantor auction rate securities held by the Guarantor as of the date hereof in an aggregate par amount of no more than US$75,000,000 for an aggregate purchase price of no less th
+an US$60,000,000, paid in cash or readily marketable securities with a market value of not less than US$60,000,000, or (ii) oral or other confirmation to the same effect, in all cases in form and substance satisfactory to the Lender in its sole discretion.
+
+“Required Consents” means the Bank Waivers and the Regulatory Approvals.
+
+6
+
+
+
+
+
+
+“Subsidiary” means, as to any Person, any corporation, partnership or other entity in which such Person, directly or indirectly, owns more than fifty percent (50%) of the stock, capital or income interests, or other beneficial interests, or which is effectively controlled by such Person.
+
+“SunTrust Credit Agreement” means the Revolving Credit Agreement, dated July 28, 2006, as amended from time to time, among the Borrower, as borrower, and SunTrust Bank, as Administrative Agent, and the financial institutions party thereto from time to time.
+
+“Termination Date” means the earlier of (i) the date on which any party to the Merger Agreement provides written notice to the other party(s) of the termination of the Merger Agreement, or (ii) the date on which the Commitment is otherwise terminated pursuant to Section 7.2.
+
+“UCC” means the Uniform Commercial Code (or any successor statute), as adopted and in force in effect in the State of New York from time to time or, when the laws of any other state govern the method or manner of the perfection or enforcement of any security interest in any of the Collateral, the Uniform Commercial Code (or any successor statute) of such state. Any term used in this Agreement and in any financing statement filed in connection herewith which is defined in the UCC and not otherwise defined in this Agreement or in any other Loan Document has the meaning given to the term in the UCC.
+
+
+1.2      Interpretation.
+
+(a)          Unless the context otherwise indicates, words expressed in the singular shall include the plural and vice versa and the use of the neuter, masculine or feminine gender is for convenience only and shall be deemed to mean and include the neuter, masculine and feminine gender, as appropriate.
+
+(b)          Headings of articles and sections herein and the table of contents hereof are solely for convenience of reference. They do not constitute a part hereof and shall not affect the meaning, construction or effect hereof.
+
+(c)          All references herein to “Articles”, “Sections” and other subdivisions are to the corresponding Articles, Sections or subdivisions of this Agreement; the words “herein”, “hereof”, “hereby”, “hereunder” and other words of similar import refer to this Agreement as a whole and not to any particular Article, Section or subdivision hereof.
+
+(d)          All financial and accounting terms used herein and in the Loan Documents shall have the meanings given to them in accordance with GAAP.
+
+(e)          Unless otherwise defined herein, terms defined in Articles 8 and 9 of the UCC are used herein as therein defined.
+
+7
+
+
+
+
+
+
+ARTICLE 2 - THE LOAN; USE OF PROCEEDS
+
+2.1      Credit Facility.
+
+(a)          Advances.  From time to time during the Availability Period, subject to the terms and conditions of this Agreement, the Lender shall make Advances to the Borrower, which the Borrower may repay and reborrow, up to an aggregate outstanding principal amount not to exceed at any time the Commitment then in effect. Without limiting the foregoing, the parties agree that the amounts to be advanced hereunder are available on a stand
+by basis solely to fund customer withdrawal obligations of the Guarantor, as such obligations become due, and shall be available to the Borrower only after the Guarantor has received the Additional 1031 Liquidity and would have less than US$5,000,000.00 of aggregate cash and cash equivalents available after funding the applicable customer withdrawal obligations then due. The Availability Period may be extended upon the mutual written agreement of the Lender and the Borrower. Notwithstanding the foregoing, the Lender may, in its sole and absolute discretion, make or permit to remain outstanding Advances under the Loan in excess of the original principal amount of the Note, and all such amounts shall (i) be part of the Obligations evidenced by the Note, (ii) bear interest as provided herein, (iii) be payable upon demand by the Lender, and (iv) be entitled to all rights and security as provided hereunder and the other Loan Documents.
+
+(b)          Advances shall be made by the Lender upon its receipt from the Borrower of an Advance Request, in form satisfactory to the Lender, delivered to the Lender no later than 12:00 noon (Eastern Time) on the Business Day prior to the date of the requested Advance, setting forth the amount of the Advance requested and the proposed Advance Date (which shall be a Business Day), together with a certificate executed by the Borrower (i) certifying that, as of the proposed Advance Date, the aggregate cash and cash equivalents on hand of the Guarantor would be less than US$5,000,0
+00.00 after giving effect to the payment of the applicable customer withdrawal obligations then due, (ii) setting forth the amount and type of customer withdrawals from the Guarantor that will be funded with the Advance, (iii) certifying that all of the proceeds of the requested Advance will be used to fund the customer withdrawals therein so described, and (iv) certifying as to the other matters set forth in Section 4.2. The Advance Request shall also provide such other information as the Lender may require. The Lender's acceptance of such a request shall be indicated only upon its making the Advance requested.
+
+(c)          All Advances shall be disbursed in immediately available funds directly from the Lender to the Guarantor, and the Borrower hereby authorizes the Lender to disburse directly to the Guarantor any and all Advances.
+
+(d)          Without limiting the foregoing, upon the occurrence of any Default, the Lender may, without notice to the Borrower or the Guarantor, decline to make any additional Advances to or for the benefit of the Borrower or the Guarantor.
+
+2.2      Note.  The indebtedness of the Borrower to the Lender under the Commitment will be evidenced by the Note executed by the Borrower in favor of the Lender. The maximum
+
+8
+
+
+
+
+
+
+principal amount of the Note will be the amount of the Commitment as of the date hereof; provided, however, that notwithstanding the face amount of such Note, the borrowings evidenced thereby shall be limited at all times to its actual indebtedness, principal and interest then outstanding.
+
+2.3      Principal Repayment Generally.
+
+(a)          The Loan shall be repaid in full, together with all accrued and unpaid interest thereon and all fees, expenses and other amounts due hereunder, on the Maturity Date.
+
+(b)          The Borrower shall make each payment of principal of and interest on the Loan and fees, expenses or reimbursements hereunder not later than 2:00 p.m. (Eastern Time) on the date when due, without set off, counterclaim or other deduction, in immediately available funds to the Lender at such address as the Lender may instruct. Whenever any payment of principal of, or interest on, the Loan or of fees, expenses or reim
+bursements shall be due on a day which is not a Business Day, the date for payment thereof shall be extended to the next succeeding Business Day. If the date for any payment of principal is extended by operation of law or otherwise, interest thereon shall be payable for such extended time.
+
+2.4      Mandatory Repayments and Reduction of the Commitment.
+
+(a)          Upon the sale, transfer, assignment or disposition of any of the Collateral, the Guarantor shall provide all of the proceeds therefrom (net only of reasonable commissions, selling expenses and customary transaction costs) to the Borrower to prepay the Loan in an amount equal to all of such cash proceeds. Required prepayments under this
+Section 2.4(a) shall be made within one (1) Business Day after receipt of the proceeds by the Guarantor, provided that the Borrower shall cause the Guarantor to instruct the securities intermediary that is in possession of the securities account in which the sold securities are held to pay such proceeds directly to the Lender in immediately available funds immediately upon receipt. Upon a prepayment pursuant to this Section 2.4(a), the Commitment shall be reduced by an amount (as calculated in accordance with the formula set forth in this Section 2.4(a), the “Pro Rata Commitment Decrease”) equal to the product of:
+
+(x)          (i) the par amount of principal of the Collateral so sold, transferred, assigned or otherwise disposed of divided by (ii) the aggregate par amount of principal of all Collateral
+as of the date thereof, multiplied by
+
+(y)          the Commitment as of the date thereof.
+
+(b)          At any time during the Availability Period that the aggregate cash and cash equivalents on hand of the Guarantor exceeds US$5,000,000.00 by at least US$250,000.00, the Guarantor shall provide such excess (excluding any excess resulting from customer deposits made after the date hereof) to the Borrower to prepay the Loan in an amount equal to such excess. Amounts prepaid pursuant to this Section 2.4(b) shall
+
+9
+
+
+
+
+
+
+not permanently reduce the Commitment unless expressly requested in writing by the Borrower in connection with such prepayment.
+
+(c)          All prepayments shall be in immediately available funds and, unless otherwise agreed to by the Lender at the time of such prepayment, shall be applied as follows:
+
+(i)          First, to the payment of any fees, expenses or reimbursements then owing to the Lender hereunder or under any of the other Loan Documents,
+
+(ii)          Second, to the payment of all accrued but unpaid interest on the Loan, and
+
+(iii)          Third, to repay the principal amount outstanding under the Loan.
+
+2.5      Voluntary Prepayment.
+
+Upon one (1) Business Day’s prior written notice by the Borrower to the Lender, the Borrower may prepay, in whole or in part, the outstanding principal balance of the Loan, together with all interest thereon, without premium or penalty. Amounts prepaid pursuant to this Section 2.5 shall not permanently reduce the Commitment unless expressly requested in writing by the Borrower in connection with such prepayment.
+
+2.6      Interest.
+
+(a)          Rate.  The Loan shall bear interest at the Applicable Rate in effect from time to time, accruing from and including the date on which the pri
+ncipal amounts are advanced to but excluding the date of any repayment thereof.
+
+(b)          Payment and Calculation of Interest.  The Borrower shall pay interest on the outstanding principal amount of the Loan quarterly in
+arrears on the last day of each January, April, July, and October and on the day on which any principal is repaid (including voluntary prepayments), and on the Maturity Date. Interest shall be computed on the basis of a year of 360 days for the actual number of days elapsed.
+
+2.7      Use of Proceeds.  Advances shall be available only during the Availability Period and the proceeds of each Advance shall be used solely to fund customer withdrawal obligations of the Guarantor, as such obligations become due, and shall be available to the Borrower only after the Guarantor has received the Additional 1031 Liquidity and would have less than US$5,000,000.00 of aggregate cash and cash equivalents available after giving effect to the funding of the applicable customer withdrawal obligations then due.
+
+ARTICLE 3 - COLLATERAL
+
+3.1      Guarantor Security Interest.  As security for the payment of any and all of the Obligations and the performance of all other obligations and covenants of the Borrower to the Lender under this Agreement and the Loan Documents, including, without limitation, each Advance and the
+
+10
+
+
+
+
+
+
+Loan due or to become due (together with any extensions, modifications, substitutions, increases and renewals thereof, and substitutions therefor), certain or contingent, now existing or hereafter arising, which are now, or may at any time or times hereafter be owing by the Borrower to the Lender, the Borrower has caused (or prior to making any Advance Request, will cause) the Guarantor to pledge and grant to the Lender (for itself and its successors and permitted assigns) a continuing first lien on and security interest in and upon all of the Guarantor's right, title and interest in, to and under the Collateral, pursuant to the Guaranty and Security Agreement. In addition, the Borrower shall also cause to be delivered to the Lender an account control agreement among the Lender, the Guarantor and each of the securities intermediaries that hold securities accounts in which the securities constituting the Collateral are held (each, an "Account Control Agreement" and collectively, the "Account Control Agreements"). Each Account Control Agreement shall be in favor of the Lender, in the customary form providing the Lender with "control" over the securities accounts in which the securities constituting the Collateral are held, and otherwise in form and substance reasonably satisfactory to the Lender. For the purposes hereof, all lower case terms used in the definition of “Collateral” that are defined in, or referenced in, Article 9 of the UCC, have the meanings provided in the UCC.
+
+ARTICLE 4 - CLOSING AND CONDITIONS PRECEDENT TO ADVANCES
+
+4.1      Initial Advance.  Prior to the initial Advance being made hereunder, the Borrower shall have delivered to the Lender the following:
+
+(a)          this Agreement and any other Loan Documents, including without limitation, the Note, the Guaranty and Security Agreement, and the Account Control Agreements, each properly executed by all parties thereto, all in form and substance reasonably satisfactory to the Lender;
+
+(b)          written evidence of the receipt of the Required Consents, in form and substance satisfactory to the Lender;
+
+(c)          confirmation satisfactory to the Lender that the Additional 1031 Liquidity has been received by the Guarantor;
+
+(d)          all certificates, instruments and other documentation representing or evidencing the Collateral, including copies of the three most recent monthly account statements showing the securities that comprise the Collateral, all in form and substance satisfactory to the Lender;
+
+(e)          if applicable, UCC-1 financing statements covering the Collateral, that have been duly recorded or filed in the manner and places required by law to establish, preserve, protect and perfect the interests and rights created or intended to be created by this Agreement and the Guaranty and Security Agreement;
+
+(f)          a copy of the certified resolutions of the board of directors (or other appropriate governing body) of each of the Borrower and the Guarantor as well as each other Person executing any Loan Documents, certified by the Secretary or another authorized officer of the Borrower, the Guarantor or such other Person, authorizing the
+
+11
+
+
+
+
+
+
+execution, delivery and performance of the Loan Documents to which such Person is a party;
+
+(g)          confirmation from the Borrower and FNF that the Merger Agreement has been executed and delivered by all parties thereto and that no notice of termination
+pursuant to Section 8.1 of the Merger Agreement has been sent by any of the parties thereto; and
+
+(h)          all additional documents, certificates and other assurances that the Lender or its counsel may reasonably require.
+
+4.2      All Advances.  Prior to any Advance requested (including the initial Advance), all of the following conditions shall have been satisfied and the Borrower shall deliver a certificate to the Lender certifying that:
+
+(i)          all of the representations and warranties made by the Borrower or the Guarantor hereunder, in the Guaranty and Security Agreement, or in any Advance Requ
+est, are true and correct in all material respects with the same effect as though made on and as of the proposed Advance Date, except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties shall be true and correct in all material respects as of such earlier date),
+
+(ii)          the Borrower shall be in material compliance with all provisions of this Agreement and the other Loan Documents to which it is a party and the Guarantor
+shall be in material compliance with all provisions of this Agreement and the other Loan Documents to which it is a party,
+
+(iii)          no Default or Event of Default has occurred and is continuing as of the Advance Date,
+
+(iv)          no injunction or judicial or administrative order has been issued, and no suits or proceedings are pending, or to the Borrower’s knowledge threaten
+ed, before any court or by or before any governmental or regulatory authority, commission, bureau or agency or public regulatory body that is reasonably likely to result in a Material Adverse Effect,
+
+(v)          all of the Required Consents remain effective and in full force,
+
+(vi)          the proposed Advance shall not cause the outstanding principal balance of the Loan to exceed the Commitment in effect as of the proposed Advance Date,
+
+(vii)          the customer withdrawal information provided in connection with the Advance Request is true, correct and complete, and the proceeds of the Advance so r
+equested will be used solely for the purposes set forth in the Advance Request, and
+
+12
+
+
+
+
+
+
+(viii)          none of the parties to the Merger Agreement has provided written notice to the other party(s) thereto of the termination of the Merger Agreement.
+
+ARTICLE 5 - REPRESENTATIONS AND WARRANTIES
+
+5.1      Representations of the Borrower. The Borrower warrants and represents to the Lender that:
+
+(a)          It is duly organized, validly existing, and in good standing in the jurisdiction of its incorporation and, except where the failure to do so could not re
+asonably be expected to result in a Material Adverse Effect, each jurisdiction in which the nature of the business conducted by it or the character or location of the properties and assets owned or leased by it makes such licensing or qualification necessary.
+
+(b)          It has the power and authority to make and perform the Loan Documents. It has (i) all requisite power and authority to enter into and perform each Loan D
+ocument and incur the obligations provided for therein, and (ii) taken all proper and necessary action to authorize the execution, delivery and performance of each Loan Document.
+
+(c)          The execution and performance of this Agreement and the other Loan Documents and the consummation of the transactions contemplated by this Agreement or t
+he Loan Documents (including, the pledge of the Collateral by the Guarantor) does not require any consent (other than the Required Consents), approval or authorization of, or filing, registration or qualification with, any governmental authority on the part of the Borrower or the Guarantor, except for the Regulatory Approvals. The execution, delivery and performance of this Agreement and each Loan Document, and the making of the Advances hereunder will not violate any law, government rule or regulation, or any writ, order or decree of any court or governmental authority, or conflict with the organizational documents, minutes or resolutions of the Borrower or the Guarantor or violate or constitute a default under, or (except for the Liens created under the Loan Documents) result in the creation of any Lien upon any of its property or assets pursuant to (immediately or with the passage of time), any law, regulation, contract, agreement or instrument to which the Borrower or the Guarantor is a party, or by whic
+h it is bound. Neither the Borrower nor the Guarantor is in violation of its organizational documents, minutes or bylaws (or any amendments or supplements thereto).
+
+(d)          This Agreement and all other Loan Documents, when delivered by the Borrower, and the Guaranty and Security Agreement when delivered by the Guarantor, wil
+l be valid and binding upon the Borrower and the Guarantor (as applicable), in each case enforceable in accordance with their respective terms, subject to the effect of (i) bankruptcy, insolvency, reorganization, liquidation, moratorium or other similar laws relating to or affecting the rights of creditors generally, and (ii) the application of general principles of equity (regardless of whether enforcement is considered in a proceeding in equity or at law), including, without limitation, concepts of materiality, reasonableness, good faith and fair dealing and the possible unavailability of specific performance or injunctive relief.
+
+13
+
+
+
+
+
+
+(e)          The Collateral consti
+tutes all of the auction rate securities that are held by or for the benefit of the Guarantor, other than the auction rate securities to be transferred in order to generate the 1031 Liquidity. The Auction Rate Securities, together with the auction rate securities to be transferred to generate the 1031 Liquidity, have an aggregate par amount of more than $230 million as of the date hereof, and the Auction Rate Securities in which the Lender has a first priority security interest have an aggregate par amount of not less than approximately $155 million as of the date hereof. Other than its Permitted Lien with respect to its regularly scheduled service fees that are currently owing from time to time, neither of the securities intermediaries who hold the Auction Rate Securities have any right of set-off against the Collateral.
+
+5.2      Reliance on Representations. The Borrower is not relying on any representations or warranties whatsoever, express, implied, at common law, statutory or otherwise, except for the representations or warranties expressly set forth in this Agreement, the Guaranty and Security Agreement, and in the Merger Agreement.
+
+ARTICLE 6 - COVENANTS
+
+6.1      Preservation of Collateral. The Borrower covenants that so long as the Commitment shall be outstanding or any portion of the Obligations shall remain unpaid or unsatisfied, the Borrower shall (i) at all times use commercially reasonable efforts to maintain, preserve and protect the Collateral, including the compliance in all material respects with any laws, ordinances, governmental rules and regulations to which it is subject, and obtaining all material licenses, permits, franchises or other governmental authorizations, necessary to the ownership of the Collateral, provided that the Collateral may be sold or otherwise disposed of in a Permitted Sale, and (ii) not dissolve or liquidate, or discontinue its business.
+
+6.2      Information and Notices.  So long as the Commitment shall be outstanding or any portion of the Obligations shall remain unpaid or unsatisfied, the Borrower shall deliver to the Lender each of the following:
+
+(a)          Notice of Default.  Promptly upon becoming aware of the existence of any condition or event which constitutes a Default or Event of Default, the Borrower shall provide written notice to the Lender specifying the nature and period of existence thereof and what action the Borrower is taking (and proposes to take) with respect thereto;
+
+(b)          Material Adverse Effect.  Promptly (and in any event within three (3) Business Days) upon becoming aware of any development or other information which could reasonably be expected to have a Material Adverse Effect, the Borrower shall give notice to the Lender specifying the nature of such development or information and such anticipated effect;
+
+(c)          Other Information and Events.  Promptly (and in any event within three (3) Business Days) after becoming aware thereof, the Borrower shall give notice to the Lender of the cancellation or termination of, or any default under, the SunTrust Credit Agreement and the Prudential Note Purchase Agreement, which cancellation, termination
+
+14
+
+
+
+
+
+
+or default could reasonably be expected to have a Material Adverse Effect, or any acceleration of the maturity of any of its Debt; and
+
+(d)          Other Information. Any other documents and information, financial or otherwise, reasonably requested by the Lender from time to time.
+
+6.3      Further Assurances. The Borrower agrees that at any time and from time to time, at the expense of the Borrower, the Borrower will, and will cause the Guarantor to, promptly execute and deliver all further instruments and documents, and take all further action, that may be necessary or desirable, or that the Lender may request, in order to perfect and protect any security interest granted or purported to be granted hereby or pursuant to any other Loan Document or to enable the Lender to exercise and enforce its rights and remedies hereunder and thereunder with respect to any Collateral.
+
+6.4      Covenants Regarding the Guarantor. Regarding the Guarantor, the Borrower shall:
+
+(a)          Conduct of Business. Cause the Guarantor to (i) conduct its business in the ordinary and usual course consistent with past practice and in compliance in all material respects with all applicable laws, and (ii) not change in any material respect the procedures and policies employed by the Guarantor as of the date hereof relating to the collection of receivables and the payment of accounts payable (including those relating to aging and timing).
+
+(b)          Forbearances. Cause the Guarantor to:
+
+(i)          not incur any Debt wi
+thout the prior written consent of the Lender;
+
+(ii)          not make, declare or
+pay any dividend (whether in cash, stock or other securities or property), or make any other distribution on, or directly or indirectly redeem, purchase or otherwise acquire, directly or indirectly any shares of the capital stock of the Guarantor or of any of its Subsidiaries or any securities or obligations convertible (whether currently convertible or convertible only after the passage of time or the occurrence of certain events) into or exchangeable for any shares of such capital stock (except dividends paid by any of the Subsidiaries of the Guarantor to the Guarantor or any of its wholly owned Subsidiaries), or cancel, release or assign any indebtedness to any Person or any claims held by any such Person other than in the ordinary course of business consistent with past practice or pursuant to contracts in force at the date of this Agreement, provided, however, that so long as the Commitment shall be outstanding or any portion of the Obligations shall remain unpaid or unsatisfied, in the event that, notwithstanding the restrictions set forth in this Section 6.4(b)(ii), any dividend, distribution, or similar payment that is paid to the Borrower by the Guarantor shall be deemed to have been intended to be monies used by the Borrower to prepay the Loan and shall be received in trust for the benefit of the Lender and shall be segregated from other funds of the Borrower;
+
+(iii)          not sell, transfer,
+pledge, lease, grant, license, mortgage, encumber or otherwise dispose of any of the Collateral, other than a Permitted Sale and in
+
+15
+
+
+
+
+
+
+the event of any sale, transfer or other disposition, immediately transfer all net proceeds thereof to the Borrower to prepay the Loan (provided that in any such event, the Borrower shall cause the Guarantor to instruct the securities intermediary that is in possession of the securities account in which the sold securities are held to pay such proceeds directly to the Lender); or create any lien of any kind with respect to any of the Collateral;
+
+(iv)          not acquire (whether by merger, consolidation or acquisition of stock or assets or otherwise) any corporation, partnership or other business organization or division thereof or, other than in the ordinary course of business consistent with past practice, make any material investment either by purchase of stock or securities, contributions to capital, property transfers, or purchase of any property or assets of any other individual, corporation or other entity; and
+
+(v)          not amend its charter or bylaws (or comparable organizational documents).
+
+ARTICLE 7 - DEFAULT
+
+7.1      Events of Default.  Each of the following events shall constitute an “Event of Default” under this Agreement:
+
+(a)          Any principal amount owing hereunder is not paid as and when due, or any interest due hereunder or any other amount due hereunder or under any of the other Loan Documents is not paid within three (3) Business Days after the date due;
+
+(b)          The Borrower shall default in the material performance of any other agreement or covenant contained in Section 6.4;
+
+(c)          The Borrower or the Guarantor shall default in the material performance of any other agreement or covenant contained herein or in any other Loan Document (other than as provided in subsections (a) and (b) above), and such default shall continue uncured for more than thirty (30) days after written notice thereof is provided to the Borrowers by the Lender;
+
+(d)          Any event or condition shall occur which results in the acceleration of the maturity of the Debt under the SunTrust Credit Agreement or under the Prudential Note Purchase Agreement;
+
+(e)          The Borrower or the Guarantor shall repudiate or revoke in writing this Agreement, the Guaranty and Security Agreement, or the pledge of Collateral thereunder, or any levy, seizure or attachment shall occur with respect to any material portion of the Collateral; or
+
+(f)          The Borrower or the Guarantor is unable or admits in writing its inability to generally pay its debts as they mature, or files a petition in bankruptcy, or commences a proceeding under any bankruptcy, reorganization, arrangement, readjustment of debt,
+
+16
+
+
+
+
+
+
+receivership, dissolution or liquidation law or statute of any jurisdiction, whether now or hereafter in effect, or consents to any such proceeding or has commenced against it any such proceeding, or is adjudicated insolvent or bankrupt, or petitions or applies to any tribunal for the employment of any custodian, receiver, liquidator or trustee for it or any substantial part of its properties or assets or consents to any such appointment, or permits any such appointment to continue undischarged or unstayed for a period of forty-five (45) days.
+
+7.2      Acceleration and Termination of Commitment.
+
+(a)          Upon the occurrence and during the continuance of any Event of Default other than an Event of Default under Section 7.1(f), the Lender may:
+
+(i)          terminate the Commitment and its obligation to make any further Advances to the Borrower, and declare all or any portion of the Obligations to be immediately due and payable whereupon all amounts shall become and be forthwith due and payable, without presentment, demand, protest or further notice of any kind, all of which are hereby expressly waived by the Borrower; and
+
+(ii)          pursue all or any other rights and remedies of the Lender provided for herein or in any other Loan Document, as well as all or any rights and remedies available at law and in equity, including the filing of actions against the Borrower to collect the Obligations. No remedy shall be exclusive of other remedies or impair the right of the Lender to exercise any other remedies.
+
+(b)          Upon the occurrence of an Event of Default specified in Section 7.1(f), the Commitment shall automatically and immediately terminate, and the Obligations shall automatically and immediately become due and payable, in all cases without any action on the part of the Lender. Thereafter, the Lender may pursue all or any other rights and remedies provided for herein or in any other Loan Document, as well as all or any rights and remedies available at law and in equity.
+
+7.3      Remedies Regarding the Collateral. Without waiving any of its other rights hereunder or under any other Loan Document, upon the occurrence and during the continuance of any Event of Default, the Lender shall have all rights and remedies of a secured party under the UCC (and the Uniform Commercial Code of any other applicable jurisdiction) and such other rights and remedies as may be available hereunder, under other applicable law or pursuant to contract. Any cash held by the Lender as the Collateral and all cash proceeds received by the Lender in respect of any sale of, collection from, or other realization upon all or any part of the Collateral may, in the discretion of the Lender, be held by the Lend
+er as collateral for, and/or then or at any time thereafter applied (after payment of any amounts payable to the Lender pursuant to Section 8.13) in whole or in part by the Lender against, all or any part of the Obligations in such order as the Lender shall elect. Any surplus of such cash or cash proceeds held by the Lender and remaining after payment in full of all the Obligations hereunder shall be paid over to the Borrower or to whosoever may be lawfully entitled to receive such surplus. The Lender shall be entitled to apply the proceeds of any sale or other disposition of the Collateral, and the payments received by the Lender with respect to any of the Collateral, to Obligations in such order and manner as
+
+17
+
+
+
+
+
+
+the Lender may determine. Any of the Collateral that is subject to rapid declines in value and is customarily sold in recognized markets may be disposed of by the Lender in a recognized market for such collateral without providing notice of sale. The Borrower waives any and all requirements that the Lender sell or dispose of all or any part of the Collateral at any particular time, regardless of whether the Borrower has requested such sale or disposition. The Borrower shall be liable for any deficiencies in the event the proceeds of the disposition of the Collateral do not satisfy the Obligations in full.
+
+7.4      No Advances After Default.  Upon the occurrence of any Default, Lender may, without notice to the Borrower, decline to make any additional Advances to or for the benefit of the Borrower.
+
+7.5      Right of Set-Off.  Upon the occurrence of an Event of Default, the Lender shall have the right, in addition to all other rights and remedies available to it, to set-off against the unpaid balance of the Obligations.
+
+7.6      Nature of Remedies.  All rights, options and remedies granted to the Lender hereunder and under any agreement referred to herein, or otherwise available at law or in equity, shall be deemed concurrent and cumulative, and not alternative remedies, and the Lender may proceed with any number of remedies at the same time until the Obligations are paid in full. The exercise of any one right, option or remedy shall not be deemed a release of any other right, option or remedy, and upon the occurrence and continuance of an Event of Default, the Lender may proceed against any or all of the Collateral.
+
+ARTICLE 8 - MISCELLANEOUS
+
+8.1      Reference to Statute or Regulation.  A reference herein to a statute or to a regulation issued by a governmental agency includes the statute or regulation in force as of the date hereof, together with all amendments and supplements thereto and any statute or regulation substituted for such statute or regulation, unless the specific language or the context of the reference herein clearly includes only the statute or regulation in force as of the date hereof. A reference herein to a governmental agency, department, board, commission or other public body or to a public officer includes an entity or officer which or who succeeds to substantially the same functions as those performed by such public bod
+y or officer as of the date hereof, unless the specific language or context of the reference herein clearly includes only such public body or public officer as of the date hereof.
+
+8.2      Notices.  All notices, demands, requests or other communications to be sent by one party to the other hereunder or required by law shall be in writing and shall be deemed to have been validly given or served by delivery of the same in person to the intended addressee, or by depositing the same with a reputable private courier service for next Business Day delivery to the intended addressee at its address set forth below or at such other address as may be designated by such party as herein provided, or by depositing the same in the United States mail, postage prepaid, registered or certified mail, return receipt requested, addressed to the intended addressee at its address set forth below or at suc
+h other address as may be designated by such party as herein provided. All notices, demands and requests shall be effective upon such personal
+
+18
+
+
+
+
+
+
+delivery, or two (2) Business Days after being deposited with the private courier service, or three (3) Business Days after being deposited in the United States mail as required above. Rejection or other refusal to accept or the inability to deliver because of changed address of which no notice was given as herein required shall be deemed to be receipt of the notice, demand or request sent. By giving to the other parties hereto and Lender at least fifteen (15) days’ prior written notice thereof in accordance with the provisions hereof, the parties hereto shall have the right from time to time to change their respective addresses and each shall have the right to specify as its address any other address within the United States of America.
+
+If to the Borrower:  	  	LandAmerica Financial Group, Inc.
+5600 Cox Road
+Glen Allen, VA 23060
+Attention: Executive Vice President, Chief Legal Officer
+Phone: 804-267-8899
+Facsimile: 804-267-8830
+
+If to Lender:  	  	Chicago Title Insurance Company
+601 Riverside Drive
+Jacksonville, FL 32204
+Attention: Senior Vice President and Treasurer
+Phone: 904-854-8120
+Facsimile: 904-357-1023
+
+With a copy to:  	  	Fidelity National Financial, Inc.
+4050 Calle Real, Suite 210
+Santa Barbara, CA 93110
+Attention: Executive Vice President, Legal
+Phone: 805- 696-7102
+Fax: 805-696-7831
+
+
+
+8.3      Amendments.  No amendment or waiver of any provision of this Agreement nor any consent to any departure by the Borrower herefrom, shall in any event be effective unless the same shall be in writing and signed by the Lender, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given.
+
+8.4      Survival of Representations and Warranties.  All representations, warranties, covenants and agreements made in this Agreement and in any certificates delivered pursuant hereto shall survive the execution and delivery of this Agreement, the making of Advances under the Loan, and shall continue in full force and effect so long as any Obligation is outstanding, there exists any commitment by the Lender to the Borrower, or until this Agreement is formally terminated in writing.
+
+8.5      Assignments and Participations.  The Lender reserves the right, without any consent thereto or notice thereof by or to the Borrower, to assign all or any of its interest in the Loan and the Loan Documents and any and all Collateral from time to time.
+
+8.6      Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the Borrower and the Lender and their respective successors and assigns, except that the
+
+19
+
+
+
+
+
+
+Borrower may not assign or transfer its rights hereunder without the prior written consent of the Lender.
+
+8.7      Construction.  The Loan Documents and the rights and obligations of the parties hereunder and thereunder shall be governed by, and construed and interpreted in accordance with, the laws of the State of New York without regard to its rules pertaining to conflict of laws except insofar as the laws of another jurisdiction may, by reason of mandatory provisions of law, govern the perfection, priority and enforcement of security interests in the Collateral. The choice of governing law has been made pursuant to Section 5-1401 of the New York General Obligations Law.
+
+8.8      Severability.  Any provision contained in any Loan Document which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provisions in any other jurisdiction.
+
+8.9      Waiver of Trial by Jury; Jurisdiction.
+
+(a)          Each party to this Agreement agrees that any suit, action or proceeding, whether claim or counterclaim, brought or instituted by any party hereto or any successor or assign of any party on or with respect to this Agreement or any other document which in any way relates, directly or indirectly, to the Loan or any event, transaction, or occurrence arising out of or in any way connected with the Loan, or the dealings of the parties with respect thereto, shall be tried only by a court and not by a jury.
+
+(b)          THE PARTIES HERETO HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY THEY MAY HAVE IN ANY ACTION OR PROCEEDING, IN LAW OR IN EQUITY, IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS RELATED HERETO. THE BORROWER REPRESENTS AND WARRANTS THAT NO REPRESENTATIVE OR AFFILIATE OF THE LENDER HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT THE LENDER WILL NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THIS JURY TRIAL WAIVER. THE BORROWER ACKNOWLEDGES THAT THE LENDER HAS BEEN INDUCED TO ACCEPT THIS AGREEMENT BY, AMONG OTHER THINGS, THE PROVISIONS OF THIS SECTION.
+
+(c)          For the purpose of any suit, action or proceeding arising out of or relating to this Agreement, the Collateral or any Loan Document, the Borrower hereby irrevocably consents and submits to the non-exclusive general jurisdiction of the courts of the State of New York, the courts of the United States for the Southern District of New York, and appellate courts from any thereof. The Borrower irrevocably waives any objection which it may now or hereinafter have to the laying of the venue of any suit, action or proceeding brought in such a court has been brought in an inconvenient forum and agrees that service of process in accordance with the foregoing sentence shall be deemed in every respect effective and valid personal service of process upon the
+
+20
+
+
+
+
+
+
+Borrower. The provisions of this Section shall not limit or otherwise affect the right of the Lender to institute and conduct action in any other appropriate manner, jurisdiction or court.
+
+8.10      Entire Agreement. This Agreement and the other Loan Documents represent the entire agreement among the Lender and the Borrower with respect to the financing transactions to which they relate.
+
+8.11      Multiple Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be regarded for all purposes as an original and such counterparts shall constitute but one and the same instrument.
+
+8.12      Consent; Waivers.
+
+(a)          No failure or delay on the part of any party hereto in exercising any right, power or privilege under the Loan Documents shall operate as a waiver of any right, power or privilege, nor shall any single or partial exercise of any right hereunder preclude any other or further exercise thereof or the exercise of any other right except as and to the extent that the assertion of such right, power or privilege shall be barred by an applicable statute of limitations.
+
+(b)          No single or partial exercise of, or abandonment or discontinuance of steps to enforce, any right, power or privilege under the Loan Documents shall preclude any other or further exercise of such right, power or privilege, or the exercise of any other right, power or privilege.
+
+8.13      Indemnity By the Borrower; Expenses.  In addition to all other Obligations, the Borrower agrees to defend, protect, indemnify and hold harmless the Lender and its Affiliates and all of their respective officers, directors, employees, attorneys, consultants and agents from and against any and all losses, damages (specifically excluding special, consequential and incidental, punitive and exemplary damages), liabilities, obligations, penalties, fees, costs and expenses (including, without limitation, reasonable attorneys' and paralegals' fees, costs and expenses) incurred by such indemnitees, whether prior to or from and after the date hereof, as a result of or arising from or relating to (i) the pe
+rfection of the Lender's Liens in the Collateral, (ii) any suit, investigation, action or proceeding by any Person (other than the Borrower), whether threatened or initiated, asserting a claim for any legal or equitable remedy against any Person under any statute, regulation or common law principle, arising from or in connection with the Lender's furnishing of funds to the Borrower under this Agreement, (iii) the Lender's preservation, administration and enforcement of its rights under the Loan Documents, and applicable law, including the fees and disbursements of counsel for the Lender in connection therewith, whether suit be brought or not and whether incurred at trial or on appeal, and all costs of protection and collection of Collateral, in each case other than for such loss, damage, liability, obligation, penalty, fee, cost or expense arising from such indemnitee's negligence or willful misconduct. If the Borrower should fail to pay any tax or other amount required by this Agreement to be paid or which
+may be reasonably necessary to protect or preserve any Collateral or the Borrower's or the Lender's interests therein, then the Lender may make such payment and the amount thereof shall be deemed to be Obligations entitled to the benefit and security of the Loan Documents. The
+
+21
+
+
+
+
+
+
+Borrower’s obligation for indemnification for all of the foregoing losses, damages, liabilities, obligations, penalties, fees, costs and expenses of the Lender shall be part of the Obligations, secured by the Collateral, chargeable against the Loan, and shall survive termination of this Agreement.
+
+8.14      Waiver of Certain Defenses.  To the fullest extent permitted by applicable law, upon the occurrence of any Event of Default, neither the Borrower nor anyone claiming by or under the Borrower will claim or seek to take advantage of any law requiring the Lender to attempt to realize upon any Collateral or collateral of any surety or guarantor, or any appraisement, evaluation, stay, extension, or exemption laws now or hereafter in force in order to prevent or hinder the enforcement of this Agreement. The Borrower, for itself and all who may at any time claim through or under the Borrower, hereby expressly waives to the fullest extent permitted by law the benefit of all such laws. All rights of the L
+ender and all obligations of Borrower hereunder shall be absolute and unconditional irrespective of (i) any lack of validity or enforceability of this Agreement or any other agreement or instrument relating hereto, (ii) any change in the time, manner or place of payment of, or any other term of, all or any of the Obligations, or any other amendment or waiver of or any consent to any departure from any provision of the Loan Documents, (iii) any exchange, release or non-perfection of any other collateral given as security for the Obligations, or any release or amendment or waiver of or consent to departure from any guaranty for all or any of the Obligations, or (iv) any other circumstance which might otherwise constitute a defense available to, or a discharge of, the Borrower or any third party, other than payment and performance in full of the Obligations.
+
+8.15      LIMITATION ON LIABILITY; WAIVER OF PUNITIVE DAMAGES.  EACH OF THE PARTIES HERETO, AGREES THAT IN ANY JUDICIAL, MEDIATION OR ARBITRATION PROCEEDING OR ANY CLAIM OR CONTROVERSY BETWEEN OR AMONG THEM (a “Dispute”) THAT MAY ARISE OUT OF OR BE IN ANY WAY CONNECTED WITH THIS AGREEMENT, THE GUARANTY AND SECURITY AGREEMENT, OR THE OTHER LOAN DOCUMENTS, IN NO EVENT SHALL ANY PARTY HAVE A REMEDY OF, OR BE LIABLE TO THE OTHER FOR, (1) INDIRECT, SPECIAL OR CONSEQUENTIAL DAM
+AGES OR (2) PUNITIVE OR EXEMPLARY DAMAGES. EACH OF THE PARTIES HEREBY EXPRESSLY WAIVES ANY RIGHT OR CLAIM TO PUNITIVE OR EXEMPLARY DAMAGES THEY MAY HAVE OR WHICH MAY ARISE IN THE FUTURE IN CONNECTION WITH ANY DISPUTE, WHETHER THE DISPUTE IS RESOLVED BY ARBITRATION, MEDIATION, JUDICIALLY OR OTHERWISE.
+
+[signature page follows]
+
+22
+
+
+
+
+
+
+IN WITNESS WHEREOF, each party hereto has caused this Credit Agreement to be executed by its duly authorized officer as of the day and year first above written.
+
+
+Borrower:
+
+LANDAMERICA FINANCIAL GROUP, INC.
+
+By: /s/ Theodore L. Chandler, Jr.
+Name: Theodore L. Chandler, Jr.
+Title: Chairman & Chief Executive Officer
+
+Lender:
+
+CHICAGO TITLE INSURANCE COMPANY
+
+By: /s/ Michael L. Gravelle
+Name: Michael L. Gravelle
+Title: Executive Vice President,
+Legal and Corporate Secretary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+Exhibit A
+
+Form of Revolving Credit Note
+
+REVOLVING CREDIT NOTE
+
+US $30,000,000.00	  	  	  	November __, 2008
+New York, New York
+
+
+
+
+FOR VALUE RECEIVED, LANDAMERICA FINANCIAL GROUP, INC., a Virginia corporation (together with its successors and permitted assigns, the "Borrower"), hereby promises to pay to the order of CHICAGO TITLE INSURANCE COMPANY, an insurance company organized under the laws of the State of Nebraska (the "Lender"), at the offices of the Lender located at 601 Riverside Drive, Jacksonville, Florida, 32204 (or at such other place or places as the Lender may designate), at the times and in the manner provided in the Credit Agreement dated as of November __. 2008 (together with any other renewals, amendments, modifications, restatements and/or supplements thereto, the "Credit Agreement"), among the Borrower and the Lender, the principal sum of THIRTY MILLION AND 00/100 UNITED STATES DOLLARS (US$30,000,000.00), or if less, the principal amount outstanding under the terms and conditions of this promissory note (including all renewals, extensions or modifications hereof, this "Note") and the Credi
+t Agreement. The defined terms in the Credit Agreement are used herein with the same meaning. The Borrower also unconditionally promises to pay interest on the aggregate unpaid principal amount of this Note at the per annum rate set forth in the Credit Agreement.
+
+This Note is the Revolving Note referred to in the Credit Agreement and is issued to evidence the Loan made available by the Lender pursuant to the Credit Agreement. All of the terms, conditions and covenants of the Credit Agreement are expressly made a part of this Note by reference, in the same manner and with the same effect as if set forth herein at length, and any holder of this Note is entitled to the benefits of, and remedies provided in, the Credit Agreement and the other Loan Documents. Reference is made to the Credit Agreement for provisions relating to the interest rate, maturity, payment, prepayment and acceleration of this Note.
+
+In the event of an Event of Default as defined in the Credit Agreement, this Note shall become, or may be declared to be, immediately due and payable as provided in the Credit Agreement, without presentation, demand, protest or notice of any kind, all of which are hereby waived by the Borrower.
+
+In the event this Note is not paid when due at any stated or accelerated maturity, the Borrower agrees to pay, in addition to the principal and interest, all costs of collection, including reasonable attorneys' fees.
+
+This Note shall be governed by and construed in accordance with the internal laws and judicial decisions of the State of New York without regard to its rules pertaining to conflicts of
+
+1
+
+
+
+
+
+
+laws. The choice of governing law has been made pursuant to Section 5-1401 of the New York General Obligations Law.
+
+IN WITNESS WHEREOF, the Borrower has caused this Note to be executed by its duly authorized corporate officer as of the day and year first above written.
+
+
+LANDAMERICA FINANCIAL GROUP, INC.
+
+
+
+By:
+Name:
+Title:
+
+
+
+
+2
+
+
+
+
+
+
+Exhibit B
+
+Form of Guaranty and Security Agreement
+
+
+
+[See Exhibit 10.2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+

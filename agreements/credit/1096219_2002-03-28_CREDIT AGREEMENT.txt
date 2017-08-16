@@ -1,0 +1,1104 @@
+
+
+
+
+
+
+
+Prepared by R.R. Donnelley Financial -- Credit Agreement
+
+
+
+
+Exhibit 10.41
+
+CREDIT AGREEMENT†
+
+This Credit Agreement (this “Agreement”) is made and entered into effective as of April 16th, 2001 (the “Effective Date”) by and between VHA Inc., a Delaware corporation
+(“Lender”), and Neoforma.com, Inc., a Delaware corporation (“Borrower”).
+
+WHEREAS, Lender desires to loan certain sums to Borrower from time to time, and Borrower wishes to borrow certain sums from Lender, on and subject to the terms and conditions contained in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual promises, representations, warranties, covenants and conditions set forth in this Agreement, Lender and
+Borrower hereby agree as follows:
+
+1.    CERTAIN DEFINITIONS.    As used
+herein:
+
+1.1    Adjusted Gross Transaction Value.    The term
+“Adjusted Gross Transaction Value” means, with regard to a confirmed purchase, rental or lease on the Novation Exchange * which are related to the product purchased, rented or leased. Adjusted Gross Transaction Value
+shall be calculated in accordance with the terms of the Outsourcing Agreement.
+
+1.2    Borrowing
+Base.    The term “Borrowing Base” means, for any Determination Date, an amount equal to * times the * Transaction Fees.
+
+1.3    Business Day.    The term “Business Day” means any day other than a Saturday, Sunday, or other day on which
+commercial banks in New York City are authorized or required by law to close.
+
+1.4    Change of
+Control.    The term “Change of Control” means (a) any “person” (as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”)), other than Lender or a trustee or other fiduciary holding securities of Borrower under an employee benefit plan of Borrower, becomes the “beneficial owner” (as defined in Rule 13d-3 promulgated under the Exchange Act),
+directly or indirectly, of securities of Borrower representing 50% or more of (A) the outstanding shares of common stock of Borrower or (B) the combined voting power of Borrower’s then-outstanding securities; (b) Borrower is party to a
+merger or consolidation which results in the holders of voting securities of Borrower outstanding immediately prior thereto failing to continue to represent (either by remaining outstanding or by being converted into voting securities of the
+surviving entity) at least 50% of the combined voting power of the voting securities of Borrower or such surviving entity outstanding immediately after such merger or consolidation; (c) the sale or disposition of all or substantially all of
+Borrower’s assets (or consummation of any transaction having similar effect) or (d) the dissolution or liquidation of Borrower.
+
+†  Confidential treatment requested for portions of this exhibit.
+*  Confidential treatment requested.
+
+
+1
+
+
+
+
+
+
+
+
+
+1.5    Credit Period.    The term
+“Credit Period” means that period of time beginning on the Effective Date and ending on the Maturity Date.
+
+1.6    Determination Date.    The term “Determination Date” means the date on which Borrower provides Lender with a Loan Notice pursuant to Section 2.2 below.
+
+
+1.7    Lien.    The term “Lien” means any mortgage,
+pledge, hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or otherwise), charge or other security interest or any preference, priority or other security agreement or preferential arrangement of any kind or nature
+whatsoever.
+
+1.8    Loan Documents.    The term “Loan
+Documents” means, collectively, this Agreement, the Note (as defined in Section 2.3 below) executed and delivered pursuant hereto, the Security Agreement and any other documents executed or delivered by Borrower pursuant to this
+Agreement or in connection with any Loan.
+
+1.9    Maturity Date.    The term
+“Maturity Date” means that date which is the earlier to occur of: (a) May 31, 2002; (b) the date the Commitment (as defined in Section 2.1) is terminated by Lender pursuant to Section 7.2(a); (c) the date on which Lender
+declares the entire unpaid principal amount and all accrued interest on any outstanding Note immediately due and payable in full under Section 7.2(b), or such amount otherwise becomes immediately due and payable in full; (d) the date on which Lender
+and Borrower mutually agree in writing to terminate the Commitment or (e) the date on which a Change of Control occurs.
+
+1.10    Maximum Loan Amount.    The term “Maximum Loan Amount” initially shall mean $25,000,000. The Maximum Loan Amount is subject to adjustment as provided for in
+Section 2.6.
+
+1.11    *Fees.    The term “*Fees” means,
+for any Determination Date, an amount determined by multiplying the *Adjusted Gross Transaction Value by the Target Percentage. By way of example, if for any Determination Date the *Adjusted Gross Transaction Value is equal to $*, then the *Fees
+would equal *% of the initial $* ($*) plus *% of the remaining $* ($*), or $*.
+
+1.12    Novation
+Exchange.    The term “Novation Exchange” means that portion of Neoforma’s online marketplaces accessible only to members of Lender, University Healthsystem Consortium
+(“UHC”) or Healthcare Purchasing Partners International, LLC (“HPPI”).
+
+1.13    Outsourcing Agreement.    The term “Outsourcing Agreement” means that certain Second Amended and Restated Outsourcing and Operating Agreement, dated as of
+January 1, 2001, by and among Borrower, Lender, Novation, LLC, UHC and HPPI.
+
+
+*
+
+Confidential treatment requested.
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+1.14    *Adjusted Gross Transaction
+Value.    The term “*Adjusted Gross Transaction Value” means, for any Determination Date, an amount equal to * times the Adjusted Gross Transaction Value for the preceding 30 calendar days.
+
+
+1.15    *Transaction Fees.    The term “*Transaction
+Fees” means, for any Determination Date, the lesser of (i) the *Fees and (ii) the Target Fee Levels. By way of example, if a Determination Date is in the * of 2001 and the * Adjusted Gross Transaction Value for such Determination Date
+is $*, then the * Transaction Fees would be $*. This result is obtained by determining the lesser of (i) the * Fees of $* (*% of the initial $* ($*) plus *% of the remaining $* ($*)) and (ii) the Target Fee Levels of $*.
+
+1.16    Security Agreement.    The term “Security Agreement” means that certain
+Security Agreement, dated of even date herewith, by and between Borrower and Lender, as such may be amended from time to time, in substantially the form attached hereto as Exhibit B.
+
+1.17    Target Fee Levels.    The term “Target Fee Levels” means, for any Determination Date, (i) $* if the
+Determination Date falls in the * , (ii) $* if the Determination Date falls in the *, (iii) $* if the Determination Date falls in the *, (iv) $* if the Determination Date falls in the *, (v) $* if the Determination Date falls in the *, (vi) $* if
+the Determination Date falls in the * and (vii) $* if the Determination Date falls in the * .
+
+1.18    Target Percentage.    The term “Target Percentage” means (i) *% for a * Adjusted Gross Transaction Value of $* to $*, (ii) *% for a * Adjusted Gross Transaction
+Value of $* to $*, (iii) *% for a * Adjusted Gross Transaction Value of $* to $* and (iv) *% for a * Adjusted Gross Transaction Value in excess of $*.
+
+1.19    Termination Date.    The term “Termination Date” means the later of (a) the Maturity Date or (b) such time as all amounts owing in
+connection with all Loans have been repaid in full.
+
+2.    AMOUNT AND TERMS OF CREDIT.
+
+
+2.1    Commitment to Lend.    Subject to the terms and conditions of this Agreement, and in
+reliance on the representations, warranties and covenants of Borrower set forth in this Agreement, Lender agrees to make loans of funds to Borrower from time to time during the Credit Period on a revolving basis (such loans being collectively
+hereinafter referred to as “Loans” and each individually as a “Loan”), in an aggregate cumulative total principal amount not to exceed the then applicable Maximum Loan Amount. On any
+Determination Date, the Borrower may borrow funds equal to the difference between the Borrowing Base and the aggregate principal and interest outstanding on any Loans that have not been repaid, subject to
+
+*  Confidential treatment requested.
+
+
+3
+
+
+
+
+
+
+
+
+the then applicable Maximum Loan Amount. Lender’s obligation to make Loans to Borrower under this Agreement is hereinafter referred to as the
+“Commitment.” Notwithstanding the foregoing, Lender will not be obligated to advance any Loan to Borrower after the Maturity Date, and Lender’s obligation to advance any Loan to Borrower is subject to satisfaction of all
+relevant terms and conditions of this Agreement, including but not limited to the conditions precedent and other provisions of Sections 4 (with respect to the initial Loan) and 5 (with respect to each Loan).
+
+2.2    Procedures for Borrowing.    Borrower may borrow under the Commitment during the Credit Period on
+any Business Day by (a) giving Lender written notice of Borrower’s request for a Loan hereunder that sets forth the principal amount to be borrowed by Borrower under such requested Loan (a “Loan Notice”) and the date on
+which such Loan is requested to be advanced (the “Loan Request Date”) and (b) executing and delivering to Lender a Note (as defined in Section 2.3 below) for the principal amount of the Loan requested, dated as of the date
+such Loan is actually advanced by Lender to Borrower. If Lender is unable for any reason to advance such Loan to Borrower on the Loan Request Date, Lender shall advance such Loan to Borrower as soon after the Loan Request Date as possible, which
+date shall not be more than two (2) calendar weeks following the date of Lender’s receipt of the applicable Loan Notice.
+
+2.3    Note.    Borrower’s indebtedness to Lender under each Loan advanced by Lender under this Agreement will be evidenced by a promissory note of Borrower in the form attached hereto as
+Exhibit A (the “Note”). The Note will provide that interest on unpaid principal will accrue at a rate equal to ten percent (10%) per annum (calculated on the basis of a 360-day year).
+
+2.4    Maturity.    Unless payment thereof is accelerated or otherwise becomes due earlier under the
+terms of this Agreement (including but not limited to the provisions of Section 7.2) or the terms of the Note, the unpaid principal amount of all Loans and all unpaid interest accrued thereon, together with any other fees, expenses or costs incurred
+in connection therewith, will be immediately due and payable to Lender in full on the Maturity Date.
+
+2.5    Prepayment.    Borrower may at any time and from time to time on any Business Day prepay any Loan, in whole or in part, without premium or penalty, in increments of U.S. $1,000 on at
+least one (1) Business Day’s prior written notice, or telephonic notice promptly confirmed in writing, received by Lender no later than 5:00 p.m. Pacific Time. Each prepayment will be applied as follows: (a) first, to the payment of interest
+accrued on all Loans outstanding and (b) second, to the extent that the amount of such prepayment exceeds the amount of all such accrued interest, to the payment of principal on such Loan or Loans as Borrower may designate.
+
+2.6    Adjustment to Maximum Loan Amount.    In the event that Borrower (i) sells any of its capital
+stock in one or more transactions as part of an equity financing, (ii) obtains funding in connection with a debt financing or other lending transaction that is either unsecured or subordinate to the Lien of Lender under the Security Agreement or
+(iii) enters into a debt financing or other lending transaction secured by assets owned by Borrower as of the Effective Date (provided that Borrower must obtain the prior written consent of Lender, which consent shall not be unreasonably withheld,
+in order to enter into a transaction contemplated by clause (iii)), then the Maximum Loan Amount shall be reduced by an amount equal to the cash proceeds
+
+
+4
+
+
+
+
+
+
+
+
+received by Borrower pursuant to any of the transactions set forth in the preceding clauses (i) through (iii).
+
+3.    REPRESENTATIONS AND WARRANTIES OF BORROWER.    Borrower hereby represents and warrants to Lender
+that:
+
+3.1    Organization and Standing; Charter Documents.    Borrower is a
+corporation duly organized, validly existing and in good standing under the laws of the State of Delaware, and has all requisite corporate power and authority to own, lease and operate its properties and to conduct its business as such is presently
+conducted and as proposed to be conducted. Borrower is duly qualified to do business as a foreign corporation in any state or jurisdiction in the United States in which such qualification is required. True and accurate copies of the Certificate of
+Incorporation and Bylaws of Borrower, each as amended and currently in effect, have been made available to Lender.
+
+3.2    Authorization.    All corporate action on the part of Borrower and its officers, directors and stockholders that is necessary for the authorization, execution, delivery and performance
+of each of the Loan Documents by Borrower has been taken, and each of the Loan Documents, when executed and delivered by Borrower, will constitute valid and legally binding obligations of Borrower, enforceable in accordance with their terms, except
+as enforceability may be limited by bankruptcy and other similar laws affecting the rights of creditors generally and general principles of equity.
+
+4.    CONDITIONS PRECEDENT TO INITIAL LOAN.    The obligation of Lender to make the initial Loan under the Commitment is subject to the satisfaction (or written waiver by
+Lender) of all the following conditions precedent:
+
+4.1    Representations
+True.    All representations and warranties of Borrower contained in this Agreement and all other Loan Documents will be true, correct and complete in all respects with the same effect as though such representations and
+warranties had been made on and as of the date such initial Loan is actually advanced.
+
+4.2    Note.    Lender will have received the Note representing the initial Loan, executed by a duly authorized officer of Borrower.
+
+4.3    Security Agreement.    Borrower shall have delivered the Security Agreement to Lender, executed by a duly authorized officer of
+Borrower.
+
+4.4    Proceedings and Documents.    All corporate and other
+proceedings in connection with the transactions contemplated by this Agreement and all documents incident to such transactions will be in form and substance satisfactory to Lender, and Lender will have received all counterpart originals or certified
+or other copies of such documents as it may reasonably request.
+
+
+5
+
+
+
+
+
+
+
+
+
+5.    CONDITIONS PRECEDENT TO ALL LOANS.    The
+obligation of Lender to make each Loan, including but not limited to the initial Loan, will be subject to the satisfaction of all the following additional conditions precedent:
+
+5.1    No Event of Default.    No event will have occurred and be continuing, and no event would result from the making of such Loan, that
+would constitute an Event of Default as defined herein.
+
+5.2    Representations
+True.    All representations and warranties of Borrower contained in this Agreement or in any other Loan Documents will be true, correct and complete in all respects with the same effect as though such representations and
+warranties had been made on and as of the date such Loan is actually advanced.
+
+5.3    All Agreements
+Performed.    All agreements, obligations, conditions and covenants set forth in this Agreement and all other Loan Documents to be performed by Borrower through the date such Loan is advanced will have been duly performed and
+complied with in all respects.
+
+6.    OTHER COVENANTS OF BORROWER.    Borrower
+hereby covenants and agrees with Lender as follows:
+
+6.1    Financial and Other Information and
+Inspection.    Except as provided in Section 6.2, until the Termination Date, Borrower will provide to Lender all the reports and rights described below in this Section 6.1:
+
+(a)  Annual Financial Information.    As soon as practicable after the end of each fiscal year of Borrower, but no
+later than one hundred twenty (120) days thereafter, an audited consolidated balance sheet of Borrower and its subsidiaries as of the end of such fiscal year, and consolidated statements of income and cash flows of Borrower and its subsidiaries for
+such year, prepared in accordance with generally accepted accounting principles and setting forth in each case in comparative form the financial statements for the previous fiscal year, all in reasonable detail and audited and certified by Arthur
+Andersen LLP or other independent public accountants of nationally recognized standing;
+
+(b)  Quarterly Financial
+Information.    As soon as practicable after the end of each fiscal quarter of Borrower, and in any event within forty-five (45) days thereafter, an unaudited consolidated balance sheet of Borrower and its subsidiaries as of
+the end of such quarter and consolidated statements of income and cash flows of Borrower and its subsidiaries for each such quarter and for the fiscal year to date, prepared in accordance with generally accepted accounting principles, all in
+reasonable detail;
+
+(c)  Inspection Rights.    The right to visit and inspect any of the
+properties of Borrower or any of its subsidiaries, and to discuss its and their affairs and finances with its and their officers, all at such reasonable times and as often as may reasonably be requested by Lender; and
+
+
+6
+
+
+
+
+
+
+
+
+
+(d)  Other Information.    With reasonable promptness,
+such other information and data, including, without limitation, lists of property and accounts, budgets, agreements with insurers, forecasts, tax returns and reports, with respect to Borrower and its subsidiaries as may from time to time may be
+reasonably requested by Lender, and all such other information and communications (including, without limitation, notices of meetings of Borrower’s stockholders) as Borrower will have supplied to its stockholders.
+
+6.2    Termination of Covenants.    The covenants set forth in Section 6.1 will terminate on the
+Termination Date.
+
+6.3    Restriction on Liens.    Borrower covenants and agrees
+that from the Effective Date until the Termination Date, Borrower will not, and will not permit any of its subsidiaries to, create, incur, assume or suffer to exist any Lien upon or with respect to any of their respective property, whether now or
+hereafter owned, leased or acquired, except:
+
+(a)  Liens subordinate to the Lien of Lender under the Security
+Agreement;
+
+(b)  Liens that are not subordinate to the Lien of Lender under the Security Agreement; provided that
+Borrower must obtain the prior written consent of Lender for any Lien permitted by this Section (b), which consent shall not be unreasonably withheld;
+
+(c)  Liens securing indebtedness of Borrower or any of its subsidiaries to finance fixed or capital assets, provided that (a) such Liens shall be created substantially simultaneously with the financing of
+such fixed or capital assets and (b) such Liens do not at any time encumber any property other than the fixed or capital assets financed by such indebtedness;
+
+(d)  Liens for taxes not yet due or that are being contested in good faith by appropriate proceedings;
+
+(e)  carriers’, warehousemen’s, mechanics’, landlords’, materialmen’s, repairmen’s or other like Liens arising in the ordinary course of business that are not overdue for a
+period of more than 30 days or that are being contested in good faith by appropriate proceedings;
+
+(f)  pledges or
+deposits in connection with workers’ compensation, unemployment insurance and other social security legislation;
+
+(g)  easements, rights-of-way, restrictions and other similar encumbrances incurred in the ordinary course of business that, in the aggregate, are not substantial in amount and that do not in any case materially detract from the
+value of the property subject thereto or materially interfere with the ordinary conduct of the business of Borrower or any of its subsidiaries;
+
+(h)  any interest or title of a lessor under any lease entered into by Borrower or any of its subsidiaries in the ordinary course of business and covering only the assets so leased; and
+
+
+
+7
+
+
+
+
+
+
+
+
+
+(i)  Liens not otherwise permitted by this Section so long as neither (a) the
+aggregate outstanding principal amount of the obligations secured thereby nor (b) the aggregate fair market value (determined as of the date such Lien is incurred) of the assets subject thereto exceeds $500,000 at any one time.
+
+
+6.4    Further Assurances.    In addition to the obligations and documents which this
+Agreement expressly requires Borrower to execute, deliver and perform, Borrower will execute, deliver and perform, and will cause its subsidiaries to execute, deliver and perform, any and all further acts or documents which Lender may reasonably
+require in order to carry out the purposes of this Agreement or any of the other Loan Documents.
+
+7.    EVENTS OF DEFAULT OF BORROWER.
+
+7.1    Events of
+Default.    The occurrence of any of the following events will constitute an “Event of Default”:
+
+(a)  Borrower fails to pay any principal or any accrued interest under the Note or any Loan when the same is due and payable, or fails to pay any amount of principal or accrued interest due under the Note or
+any Loan on the Maturity Date therefor, and such failure to pay is not cured by Borrower within fifteen (15) Business Days after Lender gives written notice of such failure to pay to Borrower;
+
+
+(b)  any material representation or warranty made by or on behalf of Borrower in this Agreement or in any other Loan Document, or any statement or certificate that
+Borrower may at any time give in writing pursuant thereto or in connection therewith is false, misleading or incomplete in any material respect when made or deemed to have been made;
+
+(c)  Borrower fails or neglects to perform, keep or observe any covenant set forth in this Agreement or in any of the other Loan Documents, and the same has not been cured
+within fifteen (15) Business Days after Borrower becomes aware thereof;
+
+(d)  Borrower or any of its subsidiaries
+becomes insolvent, or admits in writing its inability to pay its debts as they mature, or makes an assignment for the benefit of creditors, or applies for or consents to the appointment of a receiver, liquidator, custodian or trustee for it or for a
+substantial part of its property or business, or such a receiver, liquidator, custodian or trustee otherwise is appointed and is not discharged within sixty (60) Business Days after such appointment; or
+
+(e)  bankruptcy, insolvency, reorganization or liquidation proceedings or other proceedings for relief under any bankruptcy law or any law for
+the relief of debtors are instituted by or against Borrower or any of its subsidiaries, or any order, judgment or decree is entered against Borrower or any such subsidiary decreeing its dissolution or liquidation; provided, however,
+with respect to an involuntary petition in bankruptcy, such petition is not dismissed within sixty (60) Business Days after the filing of such petition.
+
+7.2    Remedies of Lender.    Upon and after the occurrence of any Event of Default, Lender will have no further obligation to make any Loans to Borrower, and in
+addition,
+
+
+8
+
+
+
+
+
+
+
+
+
+at Lender’s sole option by written notice to Borrower, Lender take any one or more of the following actions:
+
+
+(a)  Lender may immediately terminate the Commitment and all liabilities and obligations of Lender under this
+Agreement, without affecting Lender’s Liens and rights under this Agreement, the Security Agreement or the Note;
+
+(b)  Lender may declare the entire principal amount of and all accrued interest on the Note and all Loans to immediately be due and payable in full, whereupon such amounts will immediately become due and payable in full, provided
+that in the case of an Event of Default listed in paragraph (e) of Section 7.1, the principal and interest will immediately become due and payable without the requirement of any notice or other action by Lender; and
+
+(c)  Exercise all rights and remedies granted under the Loan Documents or the Security Agreement or otherwise available to Lender at law or in
+equity.
+
+8.    MISCELLANEOUS.
+
+8.1    Survival.    The representations and warranties of Borrower contained in or made pursuant to this Agreement and all the other Loan
+Documents will survive the execution and delivery of the Loan Documents.
+
+8.2    Entire
+Agreement.    This Agreement, the Note, the Security Agreement and the exhibits attached hereto and thereto constitute the entire agreement and understanding among the parties with respect to the subject matter thereof and
+supersede any prior understandings or agreements of the parties with respect to such subject matter.
+
+8.3    Assignment.    This Agreement and all the other Loan Documents may not be assigned or delegated by either Lender or Borrower, whether by voluntary assignment or transfer, operation of
+law, merger or otherwise.
+
+8.4    No Third Party Beneficiaries;
+Construction.    Nothing in this Agreement, express or implied, is intended to confer upon any third party any rights, remedies, obligations or liabilities under or by reason of this Agreement, except as expressly provided in
+this Agreement. This Agreement and its exhibits are the result of negotiations between the parties and has been reviewed by each party hereto; accordingly, this Agreement will be deemed to be the product of the parties hereto, and no ambiguity will
+be construed in favor of or against any party.
+
+8.5    Governing Law.    This
+Agreement will be governed by and construed in accordance with the internal laws of the State of California as applied to agreements entered into solely between residents of, and to be performed entirely in, such State, without reference to that
+body of law relating to conflicts of law or choice of law.
+
+8.6    Counterparts.    This Agreement may be executed in two or more counterparts, each of which will be deemed in original, but all of which together will constitute one and the same
+instrument.
+
+
+9
+
+
+
+
+
+
+
+
+
+8.7    Notices.    All notices and other
+communications hereunder shall be in writing and shall be deemed given upon delivery either personally or by commercial delivery service, or sent via facsimile (receipt confirmed) to the parties at the following addresses or facsimile numbers (or at
+such other address or facsimile number for a party as shall be specified by like notice):
+
+
+If to Lender:
+
+VHA Inc.
+220 East Las Colinas Boulevard
+Irving, Texas 75039-5500
+Facsimile: 972-830-0391
+Attn: Chief Financial Officer
+
+
+If to Borrower:
+
+Neoforma.com, Inc.
+3061 Zanker Road
+San Jose, California 95134
+Facsimile: 408-468-4040
+Attn: Chief Financial Officer
+
+
+
+
+8.8    Modification;
+Waiver.    This Agreement may be modified or amended only by a writing signed by both parties hereto. No waiver or consent with respect to this Agreement will be binding unless it is set forth in writing and signed by the
+party against whom such waiver is asserted. No course of dealing between Borrower and Lender will operate as a waiver or modification of any party’s rights under this Agreement or any other Loan Document. No delay or failure on the part of
+either party in exercising any right or remedy under this Agreement or any other Loan Document will operate as a waiver of such right or any other right. A waiver given on one occasion will not be construed as a bar to, or as a waiver of, any right
+or remedy on any future occasion.
+
+8.9    Rights and Remedies Cumulative.    The
+rights and remedies of Lender herein provided will be cumulative and not exclusive of any other rights or remedies provided by law or otherwise.
+
+8.10    Severability; Headings.    Any invalidity, illegality or unenforceability of any provision of this Agreement in any jurisdiction will not invalidate or render
+illegal or unenforceable the remaining provisions hereof in such jurisdiction and will not invalidate or render illegal or unenforceable such provision in any other jurisdiction. The headings in this Agreement are for convenience of reference only
+and will not alter or otherwise affect the meaning of this Agreement.
+
+8.11    Attorneys’
+Fees.    If any party hereto commences or maintains any action at law or in equity (including counterclaims or cross-complaints) against the other party hereto by reason of the breach or claimed breach of any term or
+provision of this Agreement or any other Loan Document, then the prevailing party in said action will be entitled to recover its reasonable attorney’s fees and court costs incurred therein.
+
+
+10
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Agreement as of the
+Effective Date.
+
+
+BORROWER:
+LENDER:
+
+
+
+
+
+Name:
+/S/    ANDREW GUGGENHIME
+
+Name:
+/S/    CURT
+NONOMAQUE
+
+
+
+By:
+Andrew Guggenhime
+
+By:
+Curt Nonomaque
+
+
+
+Title:
+
+CFO
+
+Title:
+CFO AND EVP
+
+
+
+
+
+
+Attachments:
+Exhibit A – Promissory
+Note
+Exhibit B – Security Agreement
+
+
+
+
+
+[SIGNATURE PAGE TO CREDIT AGREEMENT]
+
+
+11
+
+
+
+
+
+
+
+
+
+Exhibit A
+
+SECURED REVOLVING PROMISSORY NOTE
+
+Irving, Texas
+
+
+$
+
+
+
+, 200_
+
+
+
+This Secured Revolving Promissory Note (this “Note”) is made and delivered pursuant to that certain Credit Agreement, dated as of April _, 2001, by and
+between Neoforma.com, Inc., a Delaware corporation (“Borrower”), and VHA Inc., a Delaware corporation, (“Lender”), as such may be amended from time to time (the “Credit
+Agreement”). Unless otherwise defined herein, all capitalized terms used in this Note shall have the same meanings that are given to such terms in the Credit Agreement, the terms of which are incorporated into this Note by reference.
+
+
+1.    Obligation.    Borrower hereby promises to pay to the order of Lender on
+or before May 31, 2002, at Lender’s principal place of business at 220 East Las Colinas Boulevard, Irving, Texas 75039-5500, or at such other place as Lender may direct, the principal sum of Twenty Five Million Dollars ($25,000,000) or so much
+thereof as may be advanced and outstanding, together with all interest accrued on unpaid principal, to be computed on each advance of a Loan from the date of its disbursement to Borrower, at a rate of ten percent (10%) per annum (calculated on the
+basis of a 360-day year), which rate is not less than the minimum rate established pursuant to Section 1274(d) of the Internal Revenue Code of 1986, as amended, as of the date hereof. The outstanding unpaid principal balance of this Note at any time
+shall be the total principal amounts advanced hereunder by Lender less the amounts of payments of principal made hereon by Borrower. If any payment of principal or interest under this Note becomes due and payable on a day other than a Business Day
+(as defined in the Credit Agreement) then the maturity of such payment will be extended to the next succeeding Business Day, and with respect to the payment of principal, interest thereon will be payable at the rate set forth herein during the
+period of such extension.
+
+2.    Recording of Loans and
+Payments.    Lender is authorized to record on Schedule A hereto, and on any continuation(s) of such Schedule that may be attached to this Note: (a) the date and principal amount of each Loan advanced by Lender under
+the Credit Agreement; and (b) the date and amount of each payment or prepayment of principal and/or accrued interest of any Loan; which recordation will constitute prima facie evidence of the accuracy of the information so endorsed on
+Schedule A; provided however, that any failure to record such information on such Schedule or continuation thereof will not in any manner affect the obligations of Borrower to make payments of principal and interest in accordance with
+the terms of this Note. Lender will promptly provide Borrower with a copy of each recordation made by Lender on Schedule A.
+
+3.    Prepayment.    Prepayment of unpaid principal and/or interest due under this Note may be made at any time without penalty as specified in the Credit Agreement. Unless otherwise
+
+
+
+12
+
+
+
+
+
+
+
+
+agreed in writing by Lender, all payments will be made in lawful tender of the United States and will be applied (a) first, to the payment of accrued interest
+and (b) second, to the extent that the amount of such prepayment exceeds the amount of all such accrued interest, to the payment of principal.
+
+4.    Security.    Payment of this Note is secured by a security interest in assets and properties of Borrower granted pursuant to the terms and conditions of a Security
+Agreement dated of even date herewith between Borrower and Lender, as such may be amended from time to time (the “Security Agreement”).
+
+5.    Default; Acceleration of Obligation.    Borrower will be deemed to be in default under this Note and the outstanding unpaid principal balance of this Note, together
+with all interest accrued thereon, will immediately become due and payable in full, without the need for any further action on the part of Lender, upon the occurrence of any Event of Default (as defined in the Credit Agreement).
+
+
+6.    Remedies On Default; Acceleration.    Upon any Event of Default, Lender will have, in
+addition to its rights and remedies under this Note and the Credit Agreement, full recourse against any real, personal, tangible or intangible assets of Borrower, and may pursue any legal or equitable remedies that are available to Lender, and may
+declare the entire unpaid principal amount of this Note and all unpaid accrued interest under this Note to be immediately due and payable in full.
+
+7.    Waiver and Amendment.    Any provision of this Note may be amended or modified only by a writing signed by both Borrower and Lender. Except as provided below with
+respect to waivers by Borrower, no waiver or consent with respect to this Note will be binding or effective unless it is set forth in writing and signed by the party against whom such waiver is asserted. No course of dealing between Borrower and
+Lender will operate as a waiver or modification of any party’s rights or obligations under this Note. No delay or failure on the part of either party in exercising any right or remedy under this Note will operate as a waiver of such right or
+any other right. A waiver given on one occasion will not be construed as a bar to, or as a waiver of, any right or remedy on any future occasion.
+
+8.    Waivers of Borrower.    Borrower hereby waives presentment, notice of non-payment, notice of dishonor, protest, demand and diligence.
+
+9.    Governing Law.    This Note will be governed by and construed in accordance with the internal laws
+of the State of California as applied to agreements between residents thereof to be performed entirely within such State, without reference to that body of law relating to conflict of laws or choice of law.
+
+10.    Severability; Headings.    Any invalidity, illegality or unenforceability of any provision of this
+Note in any jurisdiction will not invalidate or render illegal or unenforceable the remaining provisions hereof in such jurisdiction and will not invalidate or render illegal or unenforceable such provision in any other jurisdiction. The headings in
+this Note are for convenience of reference only and will not alter or otherwise affect the meaning of this Note.
+
+
+13
+
+
+
+
+
+
+
+
+
+11.    Attorneys’ Fees.    If any party
+hereto commences or maintains any action at law or in equity (including counterclaims or cross-complaints) against the other party hereto by reason of the breach or claimed breach of any term or provision of this Note, then the prevailing party in
+said action will be entitled to recover its reasonable attorney’s fees and court costs incurred therein.
+
+11.    Assignment.    This Note may not be assigned or delegated by either Lender or Borrower, whether by voluntary assignment or transfer, operation of law, merger or otherwise.
+
+
+12.    Credit Agreement.    This Note incorporates by reference all the provisions of the
+Credit Agreement, including, but not limited to, all provisions contained therein with respect to Events of Default, waivers, remedies and covenants, and the description of the benefits, rights and obligations of each of Borrower and Lender under
+the Credit Agreement.
+
+
+14
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, Borrower has executed this Note as of the date and year first above
+written.
+
+
+BORROWER
+
+
+By:
+
+
+
+
+Name:
+
+
+
+
+Title:
+
+
+
+
+
+
+Attachment: Schedule A
+
+
+15
+
+
+
+
+
+
+
+
+SCHEDULE A
+to
+REVOLVING PROMISSORY NOTE
+OF
+NEOFORMA.COM, INC.
+
+
+RECORD OF LOANS AND REPAYMENT OF LOANS
+
+
+DATE
+
+AMOUNT
+OF
+LOAN MADE
+
+PRINCIPAL AMOUNT
+OF
+LOAN REPAID
+
+AMOUNT
+OF
+INTEREST PAID
+
+AMOUNT
+OF
+LOAN CONVERTED
+
+UNPAID PRINCIPAL BALANCE
+OF LOAN
+
+NOTATION
+MADE BY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+
+
+
+
+
+
+
+Exhibit B
+
+SECURITY
+AGREEMENT
+
+This Security Agreement (this “Agreement”) is made and entered into effective as of
+April    , 2001 (the “Effective Date”) by and between Neoforma.com, Inc., a Delaware corporation (“Borrower”), and VHA Inc., a Delaware corporation,
+(“Lender”).
+
+RECITALS
+
+A.  Borrower may borrow the principal amount of up to $25,000,000 from Lender pursuant to the terms of a certain Credit Agreement between Borrower and Lender dated of even date
+herewith (the “Credit Agreement”) and a Secured Revolving Promissory Note (the “Note”).
+
+B.  The parties have agreed that Borrower’s obligations under the Credit Agreement and the Note will be secured by Borrower’s grant to Lender of a security interest in and to certain collateral, pursuant to the terms and
+conditions of this Agreement.
+
+NOW, THEREFORE, as a material inducement to Lender to enter into the Credit Agreement, and in
+consideration of loans made or to be made by Lender under the Note and the Credit Agreement, the parties’ agreements herein, and for other good and valuable consideration, the parties hereby agree as follows:
+
+1.    Security.    The payment and performance of Borrower’s obligations under the Credit Agreement
+and the Note (hereinafter collectively referred to as the “Obligations”) will at all times be secured as follows:
+
+(a)  Grant of Security Interest.    As security for the due performance and payment of the Obligations, Borrower hereby grants to Lender a security interest in the
+“Collateral” as defined in Section 1(b).
+
+(b)  Collateral
+Defined.    As used in this Agreement, the term “Collateral” means, collectively, any and all of the assets, properties, goods, inventory, equipment, furniture, fixtures, leases, supplies, records,
+money, documents, instruments, chattel paper, accounts, intellectual property rights (including but not limited to, copyrights, moral rights, patents, patent applications, trademarks, service marks, trade names, trade secrets and other general
+intangibles), whether owned by Borrower on the Effective Date or hereafter acquired, and all proceeds and thereof.
+
+(c)  Financing Statements.    So long as Borrower is indebted to Lender under the Note, Borrower will promptly execute and deliver to Lender such assignments, notices, financing statements or other
+documents and papers as Lender may reasonably require in order to perfect and maintain the security interest in the Collateral granted to Lender hereby and to give any third party notice of Lender’s interest in the Collateral. Upon the full and
+final discharge of all of Borrower’s Obligations, Lender will execute and deliver such documents as may be
+
+
+17
+
+
+
+
+
+
+
+
+reasonably necessary and requested by Borrower to release the Collateral from the security interest granted to Lender in this Agreement
+
+
+2.    Covenants of Borrower.    Borrower hereby covenants and
+agrees with Lender as follows:
+
+(a)  Taxes.    Borrower will pay all
+taxes due and owing by Borrower at such time as they become due. Borrower will keep the Collateral in good condition and repair continuously for so long as Borrower has Obligations to Lender under the Note or under the Credit Agreement.
+
+
+(b)  Notice to Account Debtors.    Upon the request of Lender at any
+time after the occurrence and during the continuance of an Event of Default (as defined below), Borrower shall notify account debtors on all Borrower’s accounts that such accounts have been assigned to Lender and that payments in respect
+thereof shall be made directly to Lender.
+
+(c)  Moving of
+Collateral.    Borrower will not move or relocate any or all of the Collateral that remains owned by Borrower (other than any Collateral that is sold, leased or otherwise transferred by Borrower in a bona fide transaction for
+value) to any location outside the State of California without giving Lender notice of the moving of such Collateral in sufficient time to enable Lender to make all filings necessary to maintain without interruption the continuous perfection of
+Lender’s security interest in such moved or relocated Collateral in the jurisdiction(s) in which such Collateral is moved or relocated. Any notice provided by Borrower relating to the movement of Collateral shall indicate in detail the
+description of the Collateral to be moved or relocated and the location(s) and address(es) to which such Collateral is to be moved.
+
+(d)  Sale of Collateral.    Borrower will not, without Lender’s prior written consent, which may be withheld in Lender’s sole discretion: (i) sell, lease, assign,
+transfer or otherwise dispose of the Collateral, any part thereof or any interest therein, or any of Borrower’s rights therein, to any person, entity or party other than Lender, except for (A) sales of inventory in the ordinary course of
+business, (B) the grant of licenses in the ordinary course of business or (C) the disposition in the ordinary course of business of any item of equipment that has become worn-out or obsolete.
+
+
+3.  Lender’ Rights and Remedies Upon Event of Default.
+
+(a)  General Remedies.    In the event of an occurrence of any Event of Default (as that term is defined in the Credit Agreement),
+in addition to exercising any other rights or remedies Lender may have under the Credit Agreement, at law or in equity, or pursuant to the provisions of the California Commercial Code, Lender may, at its option, and without demand first made,
+exercise any one or all of the following rights and remedies: (i) collect the Collateral and its proceeds; (ii) take possession of the Collateral wherever it may be found, using all reasonable means to do so, or require Borrower to assemble the
+Collateral and make it available to Lender at a place designated by Lender which is reasonably convenient to Borrower; (iii) proceed with the foreclosure of the security interest in the Collateral granted herein and the
+
+
+18
+
+
+
+
+
+
+
+
+sale or endorsement and collection of the proceeds of the Collateral in any manner permitted by law or provided for herein; (iv) sell,
+lease or otherwise dispose of the Collateral at public or private sale, with or without having the Collateral at the place of sale; (v) institute a suit or other action against Borrower for recovery on the Note; (vi) exercise any rights and remedies
+of a secured party under the California Commercial Code and/or (vii) offset, against any payment due from Borrower to Lender, the whole or any part of any indebtedness of Lender to Borrower.
+
+(b)  No Election of Remedies.    The election by Lender of any right or remedy will not prevent Lender from exercising any other
+right or remedy against Borrower.
+
+(c)  Proceeds.    If an Event of
+Default occurs, all proceeds and payments with respect to the Collateral will be retained by Lender (or if received by Borrower will be held in trust and will be forthwith delivered by Borrower to Lender in the original form received, endorsed in
+blank) and held by Lender as part of the Collateral or applied by Lender to the payment of the Obligations.
+
+(d)  Sales of Collateral.    Any item of Collateral may be sold for cash or other value at public or private sale or other disposition and the proceeds thereof collected by or for Lender. Borrower agrees
+to promptly execute and deliver, or promptly cause to be executed and delivered, such instruments, documents, assignments, waivers, certificates and affidavits and supply or cause to be supplied such further information and take such further action
+as Lender may require in connection with any such sale or disposition. Lender will have the right upon any such public sale or sales, and, to the extent permitted by law, upon any such private sale or sales, to purchase the whole or any part of the
+Collateral so sold, free of any right or equity of redemption in Borrower, which right or equity is hereby waived or released. If any notice of a proposed sale, lease, license or other disposition of Collateral shall be required by law, such notice
+shall be deemed reasonable and proper if given at least ten (10) days before such sale, lease, license or other disposition. Lender agrees to give Borrower ten (10) days prior written notice of any sale, lease, license or other disposition of
+Collateral (or any part thereof) by Lender.
+
+(e)  Application of
+Proceeds.    The proceeds of all sales and collections in respect of the Collateral, the application of which is not otherwise specifically herein provided for, will be applied as follows: (i) first, to the payment of the
+costs and expenses of such sale or sales and collections and the attorneys’ fees and out-of-pocket expenses incurred by Lender relating to costs of collection; (ii) second, any surplus then remaining will be applied first, to the payment of all
+unpaid interest accrued under the Note, and then to the payment of unpaid principal under the Note and (iii) third, any surplus then remaining will be paid to Borrower.
+
+4.    Notices.    All notices and other communications hereunder shall be in writing and shall be deemed given upon
+delivery either personally or by commercial delivery service, or sent via facsimile (receipt confirmed) to the parties at the addresses or facsimile numbers set forth in the Credit Agreement (or at such other address or facsimile number for a party
+as shall be specified by like notice).
+
+
+19
+
+
+
+
+
+
+
+
+
+5.    Termination.    When all
+Obligations have been paid and performed in full and discharged, this Agreement and the security interest granted to Lender under this Agreement will terminate.
+
+6.    Modification; Waiver.    This Agreement may be modified or amended only by a writing signed by both parties hereto.
+No waiver or consent with respect to this Agreement will be binding unless it is set forth in writing and signed by the party against whom such waiver is asserted. No course of dealing between Borrower and Lender will operate as a waiver or
+modification of any party’s rights under this Agreement. No delay or failure on the part of either party in exercising any right or remedy under this Agreement will operate as a waiver of such right or any other right. A waiver given on one
+occasion will not be construed as a bar to, or as a waiver of, any right or remedy on any future occasion.
+
+7.    Attorneys’ Fees.    If any party hereto commences or maintains any action at law or in equity (including counterclaims or cross-complaints) against the other party hereto by reason
+of the breach or claimed breach of any term or provision of this Agreement, then the prevailing party in said action will be entitled to recover its reasonable attorney’s fees and court costs incurred therein.
+
+8.    Assignment.    This Agreement may not be assigned or delegated by either Lender
+or Borrower, whether by voluntary assignment or transfer, operation of law, merger or otherwise.
+
+9.    Severability; Headings.    Any invalidity, illegality or unenforceability of any provision of this Agreement in any
+jurisdiction will not invalidate or render illegal or unenforceable the remaining provisions hereof in such jurisdiction and will not invalidate or render illegal or unenforceable such provision in any other jurisdiction. The headings in this
+Agreement are for convenience of reference only and will not alter or otherwise affect the meaning of this Agreement.
+
+10.    Governing Law.    This Agreement will be governed by and construed exclusively in accordance with the internal laws of the State of California as applied to agreements between residents
+thereof and to be performed entirely within such State, without reference to that body of law relating to conflict of laws or choice of law.
+
+11.    Execution in Counterparts.    This Agreement may be executed in two or more counterparts, each of which will be deemed in original, but all of which together will
+constitute one and the same instrument.
+
+
+20
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed and delivered as of
+the Effective Date.
+
+
+BORROWER:
+LENDER:
+
+
+Name:
+
+
+Name:
+
+
+
+
+By:
+
+
+By:
+
+
+
+
+Title:
+
+
+Title:
+
+
+
+
+
+
+
+
+
+[SIGNATURE PAGE TO SECURITY AGREEMENT]
+
+
+21
+
+
+

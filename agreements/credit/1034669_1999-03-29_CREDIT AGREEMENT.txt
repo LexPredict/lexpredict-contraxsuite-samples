@@ -1,0 +1,1553 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.9
+
+CREDIT AGREEMENT
+
+among
+
+FISHER COMPANIES INC.
+
+and
+
+BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSOCIATION,
+DOING BUSINESS AS SEAFIRST BANK
+
+as Agent
+
+and
+
+BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSOCIATION,
+DOING BUSINESS AS SEAFIRST BANK
+
+and
+
+U.S. BANK NATIONAL ASSOCIATION
+
+as Banks
+
+dated May 26, 1998
+
+<PAGE>
+
+TABLE OF CONTENTS
+
+
+EXHIBITS:
+Exhibit A:  Forms of Revolving Notes
+Exhibit B:  Form of CFO Certificate
+
+<PAGE>
+
+CREDIT AGREEMENT
+
+THIS CREDIT AGREEMENT ("Agreement") is made among FISHER COMPANIES INC., a
+Washington corporation ("Borrower"), Bank of America National Trust and Savings
+Association, doing business as SEAFIRST BANK, a national banking association, as
+agent ("Agent"), and the following financial institutions that are individually
+called a "Bank" and collectively called the "Banks," including their respective
+successors and/or assigns: Bank of America National Trust and Savings
+Association, doing business as SEAFIRST BANK (in its capacity as a Bank,
+"Seafirst"), and U.S. BANK NATIONAL ASSOCIATION ("U.S. Bank"). The parties agree
+as follows:
+
+ARTICLE 1
+Definitions
+
+All terms defined below shall have the meaning indicated.  All references
+in this Agreement to:
+
+(a) "dollars" or "$" shall mean U.S. dollars;
+
+(b) "Article," "Section," or "Subsection" shall mean articles,
+sections, and subsections of this Agreement, unless otherwise
+indicated;
+
+(c) terms defined in the Washington version of the Uniform Commercial
+Code, R.C.W. (S)62A.9-101, et seq. ("UCC"), and not otherwise defined
+in this Agreement, shall have the meaning given in the UCC; and
+
+(d) an accounting term not otherwise defined in this Agreement shall
+have the meaning assigned to it under GAAP.
+
+1.1  Adjusted LIBOR Rate
+
+shall mean for any day that per annum rate equal to the sum of (a) the
+LIBOR Margin, and (b) the quotient of (i) the LIBOR Rate as determined for such
+day, divided by (ii) the Reserve Adjustment.  The Adjusted LIBOR Rate shall
+change with any change in the LIBOR Rate on the first day of each Interest
+Period and on the effective date of any change in the Reserve Adjustment.
+
+1.2  Advances
+
+shall mean the disbursement of loan proceeds under the Revolving Loan.  An
+Advance shall not constitute a "payment order" under R.C.W. (S)62A.4A-103.
+
+1.3  Affiliate(s)
+
+shall mean, as to any Person, any other Person which, directly or
+indirectly, is in control of, is controlled by, or is under common control with,
+such Person. A Person shall be deemed to control another Person if the
+controlling Person possesses, directly or indirectly, the power to direct or
+cause the direction of the management and policies of the other Person, whether
+through the ownership of voting securities, membership interests, by contract,
+or otherwise.
+
+1.4  Agent-Related Persons
+
+shall mean Agent, its affiliates, and all officers, directors, and
+employees of Agent and such affiliates.
+
+1.5  Available Amount
+
+shall mean at any time the amount of the Credit Limit, minus the combined
+unpaid balance of the Revolving Notes, minus the principal amount of any
+long-term permanent refinancing obtained by Borrower for the KOMO Block Project.
+
+1.6  Business Day
+
+shall mean any day other than a Saturday, Sunday, or other day on which
+commercial banks in Seattle, Washington, are authorized or required by law to
+close.
+
+1.7  Capitalization Ratio
+
+shall mean the ratio of (a) Funded Debt, to (b) the sum of Funded Debt plus
+shareholders' equity (as determined in accordance with GAAP).
+
+1.8  Commencement Date
+
+shall mean the first day of any Interest Period as requested by Borrower.
+
+1.9  Credit Limit
+
+shall mean $35,000,000, increasing to $75,000,000 on January 1, 1999, to
+$85,000,000 on January 1, 2000, and to $100,000,000 on January 1, 2001,
+contingent on Borrower paying to Agent for the account of Banks at the time of
+each increase a step up fee equal to 0.10% of the principal amount of the
+increase (e.g., 0.10% of $40,000,000 on the increase to $75,000,000).
+
+1.10  Debt
+
+shall mean all consolidated obligations, on a GAAP basis, included in the
+liability section of a balance sheet of Borrower.
+
+<PAGE>
+
+1.11  EBITDA
+
+shall mean earnings before interest expense, taxes, depreciation, and
+amortization for the most recent four quarters.
+
+1.12  ERISA
+
+shall mean the Employee Retirement Income Security Act of 1974, as amended.
+
+1.13  Floating Rate Loans
+
+shall mean those portions of principal of the Revolving Notes accruing
+interest at the Reference Rate.
+
+1.14  Funded Debt
+
+shall mean all consolidated interest-bearing Debt (including capital lease
+obligations) of Borrower and its Subsidiaries, and all interest-bearing
+indebtedness guaranteed (in whole or in part) by Borrower or any of its
+Subsidiaries.
+
+1.15  GAAP
+
+shall mean generally accepted accounting principles as in effect from time
+to time in the United States and as consistently applied by Borrower.
+
+1.16  Interest Payment Dates
+
+shall mean the last Business Day of each month as to each Floating Rate
+Loan and the last day of each Interest Period as to each LIBOR Rate Loan (and if
+the Interest Period is more than three months, the end of the third month of the
+Interest Period shall also be an Interest Payment Date), and upon maturity,
+including upon maturity by acceleration.
+
+1.17  Interest Period
+
+shall mean the period commencing on the date of any Advance at or
+conversion to an Adjusted LIBOR Rate and ending on any date thereafter as
+selected by Borrower, subject to the restrictions of Section 4.3. If any
+Interest Period would end on a day which is not a Business Day, the Interest
+Period shall be extended to the next succeeding Business Day, unless the next
+succeeding Business Day falls in the next month, in which case the Interest
+Period shall be shortened to the preceding Business Day.
+
+1.18  KOMO Block Project
+
+shall mean a new 300,000 square foot complex to house KOMO-TV, other Fisher
+entities, and business tenants.
+
+1.19  LIBOR Rate
+
+shall mean for any Interest Period the per annum rate, calculated on the
+basis of actual number of days elapsed over a year of 360 days, for U.S. Dollar
+deposits for a period equal to the Interest Period appearing on the display
+designated as "Page 3750" on the Telerate Service (or such other page on that
+service or such other service designated by the British Banker's Association for
+the display of that Association's Interest Settlement Rates for U.S. Dollar
+deposits) as of 11:00 a.m., London time, on the day which is two London Banking
+Days prior to the first day of the Interest Period. If there is no applicable
+quote available from the Telerate Service, the LIBOR Rate shall be determined by
+Agent in its sole discretion as the rate of interest at which dollar deposits
+for the applicable Interest Period and in the amount of the LIBOR Rate Loan
+requested would be offered to major banks in the London interbank market at
+approximately 11:00 a.m. (London time) on a London Banking Day two Business Days
+prior to the Commencement Date.
+
+1.20  LIBOR Rate Loans
+
+shall mean those portions of principal of the Revolving Notes accruing
+interest at the Adjusted LIBOR Rate.
+
+1.21  Loan Documents
+
+shall mean collectively this Agreement, the Revolving Notes, and all other
+agreements, documents, and instruments now or later executed in connection with
+this Agreement.
+
+1.22  London Banking Day
+
+shall mean any day other than a Saturday, Sunday, or other day on which
+commercial banks in London, England, are authorized or required by law to close.
+
+1.23  Majority Banks
+
+shall mean Banks holding 67% of the Pro Rata Shares.
+
+1.24  Margin
+
+shall mean (a) as to LIBOR Rate Loans, the "LIBOR Margin" as determined by
+the following chart; and (b) as to the calculation of the commitment fee under
+Section 2.5, the "Fee Margin" as determined by the following chart:
+
+
+======================================================================
+Capitalization Ratio*             LIBOR Margin   Fee Margin
+? .40 to 1                                          0.40%       0.125%
+? .50 to 1                                          0.50%       0.150%
+? .60 to 1                                         0.625%       0.200%
+
+<PAGE>
+
+======================================================================
+Capitalization Ratio*             LIBOR Margin   Fee Margin
+? .65 to 1                                         0.875%       0.275%
+======================================================================
+
+* as determined based on the most recently delivered quarterly consolidated
+financial statement of Borrower.
+
+
+Upon receipt of a quarterly financial statement showing a decrease or increase
+in Capitalization Ratio which places Borrower in a new pricing category, all
+Advances and commitment fees shall begin being calculated at the higher or lower
+margin, as the case may be, for the period beginning on the date 60 days after
+the end of the quarter reported on in such statement.
+
+1.25  Obligations
+
+shall mean the Revolving Notes, and all fees, costs, expenses, and
+indemnifications due to Agent and Banks under this Agreement.
+
+1.26  Person
+
+shall mean any individual, partnership, corporation, business trust,
+unincorporated organization, joint venture, limited liability company, or any
+governmental entity, department, agency, or political subdivision.
+
+1.27  Plan
+
+shall mean any employee benefit plan or other plan maintained for
+Borrower's employees and covered by Title IV of ERISA, excluding any plan
+created or operated by or for any labor union.
+
+1.28  Pro Rata Share(s)
+
+shall mean the following percentages as to the Bank indicated:
+
+SEAFIRST      60%
+U.S. BANK     40%
+
+1.29  Reference Rate
+
+shall mean the rate of interest publicly announced from time to time by
+Agent in San Francisco, California, as its "Reference Rate," calculated on the
+basis of actual number of days elapsed over a year of 365/366 days.  The
+Reference Rate is set based on various factors, including Agent's costs and
+desired return, general economic conditions, and other factors, and is used as a
+reference point for pricing some loans.  Agent may price loans to its customers
+at, above, or below the Reference Rate.  Any change in the Reference Rate shall
+take effect at the opening of business on the day specified in the public
+announcement of a change in the Reference Rate.
+
+1.30  Reserve Adjustment
+
+shall mean as of any day the remainder of one minus that percentage
+(expressed as a decimal) which is the highest of any such percentages
+established by the Board of Governors of the Federal Reserve System (or any
+successor) for required reserves (including any emergency, marginal, or
+supplemental reserve requirement) regardless of the aggregate amount of deposits
+with said member bank and without benefit of any possible credit, proration,
+exemptions, or offsets for time deposits established at offices of member banks
+located outside of the United States or for eurocurrency liabilities, if any.
+
+1.31  Subsidiary(ies)
+
+of a Person shall mean any Person of which more than 50% of the voting
+stock, membership interests, or other equity interests (in the case of Persons
+other than corporations) is owned or controlled directly or indirectly by the
+Person, or one or more of the Subsidiaries of the Person, or a combination
+thereof.  Unless the context otherwise clearly requires, references herein to a
+"Subsidiary" refer to a Subsidiary of Borrower.
+
+1.32  Termination Date
+
+shall mean March 31, 2003, or such earlier date upon which Banks'
+commitment to lend is terminated pursuant to Subsection 10.2(a); provided, that
+Borrower may request Banks to extend the Termination Date by giving written
+notice of such request to Agent by January 31, 2001, which must indicate whether
+such request is for a one-year or two-year extension.  Banks shall give their
+response to such request by March 31, 2001.  Upon the mutual written consent of
+Agent and all Banks, which any one or more of them may withhold in their sole
+discretion, such extension shall be granted upon payment of a fee of $75,000 for
+an extension of one year or $100,000 for an extension of two years.
+
+<PAGE>
+
+ARTICLE 2
+Revolving Loan
+
+2.1  Revolving Loan Facility.
+
+Subject to the terms and conditions of this Agreement and to the extent of
+its Pro Rata Share of the Credit Limit, each Bank shall make Advances to
+Borrower from time to time, until the Termination Date ("Revolving Loan"), with
+the aggregate principal amount at any one time outstanding not to exceed the
+Credit Limit.  Borrower may use the Revolving Loan by borrowing, repaying and
+reborrowing the Available Amount, in whole or in part; provided that Borrower
+shall fully and finally repay the Revolving Loan on the Termination Date.  No
+Bank shall be liable for any failure of any other Bank to fund its Pro Rata
+Share of Advances.  At no time shall any Bank be obligated to make Advances that
+exceed its Pro Rata Share of the Credit Limit.  Each borrowing by Borrower under
+this Agreement shall constitute a representation and warranty by Borrower as of
+the date of each such borrowing that the conditions precedent contained in
+Sections 5.6 and 5.7 of this Agreement have been satisfied.
+
+2.2  Revolving Notes.
+
+The obligation of Borrower to repay the Revolving Loan shall be evidenced
+by two promissory notes (including all renewals, modifications and extensions
+thereof, collectively called the "Revolving Notes") made by Borrower to the
+order of each of the Banks, and shall bear interest as provided in Article 4.
+The Revolving Notes shall be unsecured and shall be in substantially the same
+form as Exhibits A-1 and A-2 attached.  Each of the Banks shall note on its
+internal records each Advance made by it, each payment on its respective
+Revolving Note and any interest rate conversions; provided, however, that the
+failure of a Bank to make, or an error in making, a notation thereon with
+respect to any Revolving Loan shall not limit or otherwise affect the
+obligations of Borrower under this Agreement or under any such Revolving Note to
+such Bank.
+
+2.3  Procedure for Floating Rate Loans.
+
+In accordance with all terms and conditions of this Agreement, Borrower
+may borrow at the Reference Rate under the Revolving Loan on any Business Day.
+Borrower shall give Agent irrevocable notice (written or oral, but with oral
+requests to be confirmed promptly in writing) specifying the amount to be
+borrowed on or before  9:30 a.m., Seattle time, on the day that a Floating Rate
+Loan is requested; all Floating Rate Loans shall be discretionary to the extent
+notification by Borrower is given subsequent to that time.  Agent shall advise
+each Bank by 11:00 a.m., Seattle time, of a request for a Floating Rate Loan,
+and each Bank shall make available to Agent its respective Pro Rata Share of
+such requested Floating Rate Loan no later than 12:00 noon, Seattle time, on the
+date of Floating Rate Loan.  Whether or not any Bank fails to fund its Pro Rata
+Share of a Floating Rate Loan, each Bank shall only be obligated to disburse to
+Agent such Bank's Pro Rata Share of such requested Floating Rate Loan.
+
+2.4  Procedure for LIBOR Rate Loans.
+
+In accordance with all terms and conditions of this Agreement, Borrower
+may borrow at the Adjusted LIBOR Rate under the Revolving Loan on any
+Commencement Date.  In accordance with Section 4.2, Borrower shall give Agent
+irrevocable notice (written or oral, but with oral requests to be confirmed
+promptly in writing), no later than 9:30 a.m. on a London Banking Day three
+Business Days prior to the requested Commencement Date, specifying the amount to
+be borrowed, the Interest Period, and the requested borrowing date, and on the
+Commencement Date each Bank shall make available to Agent its respective Pro
+Rata Share of such requested LIBOR Rate Loan no later than 12:00 noon, Seattle
+time, on the date of the LIBOR Rate Loan.  Whether or not any Bank fails to fund
+its Pro Rata Share of a LIBOR Rate Loan, each Bank shall only be obligated to
+disburse to Agent such Bank's Pro Rata Share of such requested LIBOR Rate Loan.
+At the time that Agent learns of any change in the Reserve Adjustment, Agent
+shall notify Borrower of the change and of the impact on any LIBOR Rate Loans
+then outstanding.
+
+2.5  Facility Fee.
+
+On the last Business Day of each quarter beginning with the quarter ending
+June 30, 1998, and upon termination of Banks' commitment to make Advances either
+by agreement of the parties or by the operation of Section 10.2(a), Borrower
+shall pay to Agent for the account of Banks, in accordance with their respective
+Pro Rata Shares, in arrears a commitment fee equal to Fee Margin per annum
+multiplied by the difference between the Credit Limit and the daily combined
+outstanding principal balance of the Revolving Notes.
+
+<PAGE>
+
+ARTICLE 3
+Guaranties
+
+The Obligations shall be absolutely and unconditionally guaranteed by
+Fisher Broadcasting Inc., Fisher Mills Inc., and Fisher Properties Inc., each a
+Washington corporation, jointly and severally, in form satisfactory to Agent.
+Borrower authorizes Agent to release to any of the aforementioned guarantors all
+information Agent possesses concerning Borrower or any loans, credits, or other
+financial accommodations made to Borrower by Agent or Banks.
+
+
+ARTICLE 4
+Interest Rate Options
+
+4.1  Interest Rates and Payment Date.
+
+The Revolving Notes shall each bear interest from the date of Advance on
+the unpaid principal balance outstanding from time to time at the Reference Rate
+or Adjusted LIBOR Rate as selected by Borrower and all accrued interest shall be
+payable in arrears on each Interest Payment Date.
+
+4.2  Procedure.
+
+Borrower may, on any London Banking Day three London Banking Days before a
+Commencement Date, request Agent to give an Adjusted LIBOR Rate quote for a
+specified loan amount and Interest Period.  Agent will then quote to Borrower
+the then-current Adjusted LIBOR Rate.  Borrower shall have two hours from the
+time of the quote to elect an Adjusted LIBOR Rate by giving Agent irrevocable
+notice of such election.
+
+4.3  Option Restrictions.
+
+Each Interest Period shall be one, two, three, or six months.  In no event
+shall an Interest Period extend beyond the Termination Date.  The minimum amount
+of a LIBOR Rate Loan shall be $1,000,000.  No more than 12 different LIBOR Rate
+Loans may be outstanding at any one time.
+
+4.4  Prepayments.
+
+If Borrower prepays all or any portion of a LIBOR Rate Loan prior to the
+end of an Interest Period, there shall be due at the time of any such prepayment
+the Prepayment Fee, determined in accordance with Form 51-6325, which shall be
+attached as Exhibit 1 to each Revolving Note, based on calculations as
+determined by each Bank.  Each Bank shall notify Agent of its calculation, and
+Agent will invoice Borrower therefor.  Floating Rate Loans may be prepaid on any
+Business Day without premium or penalty.
+
+4.5  Conversion to Reference Rate.
+
+The Revolving Notes shall each bear interest at the Reference Rate unless
+an Adjusted LIBOR Rate is specifically selected.  At the termination of any
+Interest Period, each LIBOR Rate Loan shall convert to a Floating Rate Loan
+unless Borrower directs otherwise pursuant to Section 4.2.
+
+4.6  Inability to Participate in Market.
+
+If Banks in good faith cannot participate in the offshore U.S. dollar
+market for legal or practical reasons, and so notify Agent, the Adjusted LIBOR
+Rate shall cease to be an interest rate option.  Agent shall notify Borrower if
+and when Banks notify Agent that it has again become legal or practical to
+participate in the Eurodollar market, at which time the Adjusted LIBOR Rate
+shall resume being an interest rate option.
+
+4.7  Costs.
+
+Borrower shall, as to LIBOR Rate Loans, reimburse Agent, for the account
+of Banks, for all costs, taxes, and expenses, and defend and hold Banks harmless
+for any liabilities, which Banks may incur as a consequence of any changes in
+the cost of participating in, or in the laws or regulations affecting, the
+Eurodollar market, including any additional reserve requirements, except to the
+extent such costs are already calculated into the Adjusted LIBOR Rate.  This
+covenant shall survive this Agreement and the payment of the Revolving Notes.
+
+4.8  Basis of Quotes.
+
+Borrower acknowledges that Agent or Banks may or may not in any particular
+case actually match-fund a LIBOR Rate Loan.  Whether the mechanism for setting a
+particular rate in fact represents the actual cost to Banks for any particular
+dollar or Eurodollar deposit or any LIBOR Rate Loan will depend upon how such
+Bank actually chooses to fund the LIBOR Rate Loan.  By electing an Adjusted
+LIBOR Rate, Borrower waives any right to object to Agent's means of calculating
+the Adjusted LIBOR Rate quote accepted by Borrower.
+
+
+ARTICLE 5
+Conditions of Lending
+
+Banks' obligation to make the initial Advance is subject to the conditions
+precedent listed in Sections 5.1 through 5.5, and to make subsequent Advances is
+subject to the conditions precedent listed in Sections 5.6 and 5.7, unless
+waived by all Banks in writing:
+
+5.1  Authorization.
+
+Borrower shall have delivered to Agent a certified copy of the resolution
+of Borrower's board of directors authorizing the transactions contemplated by
+this Agreement and the execution, delivery, and performance of all Loan
+Documents, together with appropriate certificates of incumbency.  Each corporate
+guarantor
+
+<PAGE>
+
+shall have delivered to Agent a certified copy of a resolution of such
+guarantor's board of directors, satisfactory in form to Agent, authorizing its
+guaranty.
+
+5.2  Documentation.
+
+Borrower shall have executed and delivered to Agent all documents to
+reflect the existence of the Obligations.
+
+5.3  Guaranties.
+
+Each guarantor shall have executed and delivered its guaranty to Agent,
+and each such guaranty shall remain in full force and effect.
+
+5.4  Closing Fees.
+
+Borrower shall have paid to Agent the upfront fee due on closing described
+in the commitment letter dated November 21, 1997 (revised), from Robert M.
+Ingram III to David D. Hillard; Agent shall have paid to U.S. Bank the fees
+described in the letter dated April 6, 1998, from Dora Brown to Peter Bentley;
+and Borrower shall have paid the costs and expenses required to be paid pursuant
+to Section 11.3.
+
+5.5  Proof of Insurance.
+
+Proof of insurance on the KOMO Block Project, satisfactory to Banks, shall
+have been provided to Agent.
+
+5.6  Representations and Warranties.
+
+The representations and warranties made by Borrower in the Loan Documents
+and in any certificate, document, or financial statement furnished at any time
+shall continue to be true and correct, except to the extent that such
+representations and warranties expressly relate to an earlier date.
+
+5.7  Compliance.
+
+No Default or other event which, upon notice or lapse of time or both
+would constitute a Default, shall have occurred and be continuing, or shall
+exist after giving effect to the advance of credit to be made.
+
+<PAGE>
+
+ARTICLE 6
+Representations and Warranties
+
+To induce Banks to enter into this Agreement, Borrower represents,
+warrants, and covenants to Agent and Banks as follows:
+
+6.1  Existence.
+
+Borrower and its Subsidiaries are each in good standing as a corporation
+under the laws of the state of Washington, has the power, authority, and legal
+right to own and operate its property or lease the property it operates and to
+conduct its current business; and is qualified to do business and is in good
+standing in all other jurisdictions where the ownership, lease, or operation of
+its property or the conduct of its business requires such qualification.
+
+6.2  Enforceability.
+
+The Loan Documents, when executed and delivered by Borrower, shall be
+enforceable against Borrower in accordance with their respective terms, subject
+to rules of equity and to bankruptcy, insolvency, or other similar laws
+affecting the enforcement of creditors' rights in general.
+
+6.3  No Legal Bar.
+
+The execution, delivery, and performance by Borrower and its Subsidiaries
+of the Loan Documents, and the use of the loan proceeds, shall not, to the best
+of Borrower's knowledge, violate any currently-existing law or regulation
+applicable to Borrower or any of its Subsidiaries; any ruling applicable to
+Borrower or any of its Subsidiaries of any court, arbitrator, or governmental
+agency or body of any kind; Borrower's or any of its Subsidiaries'
+organizational documents; any security issued by Borrower or any of its
+Subsidiaries; or any mortgage, indenture, lease, contract, undertaking, or other
+agreement to which Borrower or any of its Subsidiaries is a party or by which
+Borrower or any of its Subsidiaries or any of its respective property may be
+bound.
+
+6.4  Financial Information.
+
+By submitting each of the financial statements required by Subsection 7.4
+(a) and 7.4 (b), Borrower is deemed to represent and warrant that, to the best
+of Borrower's knowledge: (a) such statement is complete and correct and fairly
+presents the financial condition of Borrower as of the date of such statement;
+(b) such statement discloses all liabilities of Borrower that are required to be
+reflected or reserved against under GAAP, whether liquidated or unliquidated,
+fixed or contingent; and (c) such statement has been prepared in accordance with
+GAAP. As of this date, to the best of Borrower's knowledge, there has been no
+adverse change in Borrower's financial condition since preparation of the last
+such financial statements delivered to Banks which would materially impair
+Borrower's ability to repay the Obligations.
+
+6.5  Liens and Encumbrances.
+
+As of this date, Borrower and each of its Subsidiaries has, to the best of
+Borrower's knowledge, good and marketable title to its property free and clear
+of all security interests, liens, encumbrances, or rights of others, except as
+disclosed in writing to Banks, and except for taxes which are not yet delinquent
+and for conditions, restrictions, easements, and rights of way of record which
+do not materially affect the use of any of Borrower's or any such Subsidiary's
+property.
+
+6.6  Litigation.
+
+Except as disclosed in writing to Banks, there is no threatened (to
+Borrower's knowledge) or pending litigation, investigation, arbitration, or
+administrative action which may materially adversely affect Borrower's or any of
+its Subsidiaries' business, property, operations, or financial condition.
+
+6.7  Payment of Taxes.
+
+To the best of Borrower's knowledge, Borrower and each of its Subsidiaries
+has filed or caused to be filed all tax returns when required to be filed; and
+has paid all taxes, assessments, fees, licenses, excise taxes, franchise taxes,
+governmental liens, penalties, and other charges levied or assessed against
+Borrower or any such Subsidiary or any of its respective property imposed on it
+by any governmental authority, agency, or instrumentality that are due and
+payable (other than those returns or payments of which the amount,
+enforceability, or validity are contested in good faith by appropriate
+proceedings and with respect to which reserves in conformity with GAAP are
+provided on Borrower's or any such Subsidiary's books).
+
+6.8  Employee Benefit Plan.
+
+To the best of Borrower's knowledge, Borrower and each of its Subsidiaries
+is in compliance in all respects with the provisions of ERISA and the
+regulations and published interpretations thereunder. Borrower and each of its
+Subsidiaries has not engaged, to the best of Borrower's knowledge, in any acts
+or omissions which would make it liable to the Plan, to any of its participants,
+or to the Internal Revenue Service, under ERISA.
+
+6.9  Misrepresentations.
+
+To the best of Borrower's knowledge, no information, exhibits, data, or
+reports furnished by Borrower or any of its Subsidiaries or delivered to Agent
+or Banks in connection with Borrower's application for credit misstates any
+material fact, or omits any fact necessary to make such information, exhibits,
+data, or reports not misleading.
+
+<PAGE>
+
+6.10  No Default.
+
+To the best of Borrower's knowledge, Borrower is not in default in any
+Loan Document, nor is Borrower nor any of its Subsidiaries in default under any
+material contract, agreement, or instrument to which it is a party.
+
+6.11  Year 2000 Compliance.
+
+Borrower is actively assessing the impact of the upcoming change in the
+century on its computer software and hardware, and on Borrower's products,
+services, and competitive conditions.  Certain software applications have been
+identified for replacement prior to the year 2000.  Based on Borrower's analysis
+to date, Borrower believes that the impact of year 2000 issues will not be
+material to Borrower's business, operations, or financial condition, and that
+the cost of remediating such matters will not be material.  However, the impact
+of the failure of computer systems of customers, vendors, and others with whom
+Borrower does business is uncertain and has not been assessed by Borrower.
+
+6.12  No Burdensome Restrictions.
+
+To the best of Borrower's knowledge, no contract or other instrument to
+which Borrower or any of its Subsidiaries is a party, or order, award, or decree
+of any court, arbitrator, or governmental agency, materially impairs Borrower's
+or any such Subsidiary's ability to repay the Obligations.
+
+6.13  Margin Stock.
+
+Neither Borrower nor any of its Subsidiaries is engaged, nor shall it
+engage, principally or as one of its important activities, in the business of
+extending credit for the purpose of "purchasing" or "carrying" margin stock
+under Regulation U of the Board of Governors of the Federal Reserve System.
+Borrower shall not use any part of the proceeds of any Advance for any purpose
+which violates or is inconsistent with the provisions of Regulation G, T, U, or
+X of such Board of Governors, as the same may be amended, supplemented, or
+modified from time to time.
+
+
+ARTICLE 7
+Affirmative Covenants
+
+So long as this Agreement shall remain in effect, or any liability exists
+under the Loan Documents, Borrower shall, and with respect to Sections 7.5
+through 7.10 Borrower and each of its Subsidiaries shall, unless the Majority
+Banks waive compliance in writing:
+
+7.1  Use of Proceeds.
+
+Use the proceeds of the Revolving Loan for construction financing for the
+KOMO Block Project and for working capital or other general corporate purposes.
+
+7.2  Capitalization Ratio.
+
+Maintain a Capitalization Ratio of not more than 0.65 to 1, measured as of
+each fiscal quarter end.
+
+7.3  EBITDA Ratio.
+
+Maintain a ratio of Funded Debt to EBITDA in a ratio of not more than 3.50
+to 1, measured as of each fiscal quarter end.
+
+7.4  Financial Information.
+
+Maintain a standard system of accounting in accordance with GAAP and
+furnish to Agent, with enough copies for Agent and each Bank, the following:
+
+(a) Quarterly Financial Statements.  As soon as available and, in any
+event, within 60 days after the end of each except the last fiscal
+quarter of each fiscal year, a copy of the consolidated statement of
+income and retained earnings of Borrower for the quarter and for the
+current fiscal year through such quarter, and for each such quarter a
+copy of the consolidated balance sheet, consolidated statement of
+shareholders' equity, and consolidated statement of cash flow of
+Borrower as of the end of such quarter, setting forth, in each case,
+in comparative form, figures for the corresponding period of the
+preceding fiscal year, all in reasonable detail and satisfactory in
+scope to Agent, prepared under the supervision of the chief financial
+officer of Borrower, and in form and substance satisfactory to Agent;
+
+(b) Annual Financial Statements.  As soon as available and, in any
+event, within 120 days after the end of each fiscal year, a copy of
+the consolidated balance sheet, consolidated statement of income and
+retained earnings, consolidated statement of shareholders' equity, and
+consolidated statement of cash flow of Borrower for such year, setting
+forth in each case, in comparative form, corresponding figures from
+the preceding annual statements, each audited by independent certified
+public accountants of recognized standing selected by Borrower and
+satisfactory to Agent certifying that such statement is complete and
+correct, fairly presents without qualification the financial condition
+of Borrower for such period, is prepared in accordance with GAAP, and
+has been audited in conformity with generally accepted auditing
+standards;
+
+<PAGE>
+
+(c) Internal Reports.  Quarterly internal financial reports of each
+guarantor within 60 days of each fiscal quarter end, and annual
+internal financial reports of each guarantor within 120 days of each
+fiscal year end;
+
+(d) Other Certificates.  Together with the delivery of the financial
+statements required by Subsections 7.4(a) and 7.4 (b), a certificate
+of the chief financial officer of Borrower, in the form of Exhibit B
+attached; and
+
+(e) Additional Financial Information.  As soon as available and, in
+any event, within ten days after request, such other financial data,
+information, or documentation as Agent may reasonably request.
+
+7.5  Maintenance of Existence.
+
+Preserve and maintain its existence, powers, and privileges in the
+jurisdiction of its formation, and qualify and remain qualified in each
+jurisdiction in which its presence is necessary or desirable in view of its
+business, operations, or ownership of its property. Borrower and each of its
+Subsidiaries shall also maintain and preserve all of their property which is
+necessary or useful in the proper course of its business, in good working order
+and condition, ordinary wear and tear excepted.
+
+7.6  Books and Records.
+
+Keep accurate and complete books, accounts, and records in which complete
+entries shall be made in accordance with GAAP, reflecting all financial
+transactions of Borrower and any such Subsidiary.
+
+7.7  Access to Premises and Records.
+
+At all reasonable times and as often as Agent or Banks may reasonably
+request, permit any authorized representative designated by Agent or Banks to
+have access to any premises or property of Borrower and each such Subsidiary
+where financial records of Borrower or any such Subsidiary are located,
+including all records relating to the finances, operations, and procedures of
+Borrower and each such Subsidiary, to view financial records and to make copies
+of or abstracts from such records.
+
+7.8  Notice of Events.
+
+Furnish Agent prompt written notice of:
+
+(a) Proceedings.  Any proceeding instituted by or against Borrower or
+any such Subsidiary in any court or before any commission or
+regulatory body, or any proceeding threatened against it in writing by
+any governmental agency which if adversely determined would have a
+material adverse effect on Borrower's or any such Subsidiary's
+business, property, or financial condition, or where the amount
+involved is $3,000,000 or more and not covered by insurance;
+
+(b) Material Development.  Any material development in any such
+proceeding referred to in Subsection 7.8(a);
+
+(c) Defaults.  Any accident, event, or condition which is or, with
+notice or lapse of time or both, would constitute a Default, or a
+default under any other agreement to which Borrower or any such
+Subsidiary is a party; and
+
+(d) Adverse Effect.  Any other action, event, or condition of any
+nature which could result in a material adverse effect on the
+business, property, or financial condition of Borrower or any of its
+Subsidiaries.
+
+7.9  Payment of Debts and Taxes.
+
+Pay all Debt and perform all obligations promptly and in accordance with
+their terms, and pay and discharge promptly all taxes, assessments, and
+governmental charges or levies imposed upon Borrower or any such Subsidiary, its
+property, or revenues prior to the date on which penalties attach thereto, as
+well as all lawful claims for labor, material, supplies, or otherwise which, if
+unpaid, might become a lien or charge upon Borrower's or any such Subsidiary's
+property. Neither Borrower nor or any such Subsidiary shall, however, be
+required to pay or discharge any such obligation, tax, assessment, charge, levy,
+or claim so long as its enforceability, amount, or validity is contested in good
+faith by appropriate proceedings.
+
+7.10  Insurance.
+
+Maintain commercially adequate levels of coverage with financially sound
+and reputable insurers, including, without limitation:
+
+(a) Property Insurance.  Insurance on all property of a character
+usually insured by organizations engaged in the same or similar type
+of business as Borrower or any such Subsidiary against all usually
+insured-against risks, casualties, and losses through extended
+coverage or otherwise and of the kind customarily insured against by
+such organizations;
+
+<PAGE>
+
+(b) Liability Insurance.  Public liability insurance against tort
+claims which may be asserted against Borrower or any such Subsidiary;
+and
+
+(c) Additional Insurance.  Such other insurance as may be required by
+law.
+
+
+ARTICLE 8
+Negative Covenants
+
+So long as Banks have a commitment to make Advances under the Revolving
+Loan, or any Obligations are outstanding, neither Borrower nor any of its
+Subsidiaries shall, without prior written consent of Majority Banks (which
+consent shall not be unreasonably withheld or delayed):
+
+8.1  Securities Portfolio.
+
+Create, incur, or assume, or agree to create, incur, or assume any lien,
+whether consensual or nonconsensual, on any investment securities owned by
+Borrower or any such Subsidiary.
+
+8.2  Disposition of Assets.
+
+Sell, transfer, lease, or otherwise assign or dispose of more than 10% of
+Borrower's consolidated total assets, excluding transactions involving Fisher
+Properties Inc., to any Person, outside the ordinary course of business; nor
+shall Borrower cease to own all common stock of Fisher Broadcasting Inc., Fisher
+Mills Inc., and Fisher Properties Inc.
+
+8.3  Mergers.
+
+Become a party to a merger, consolidation, or like corporate change, other
+than where Borrower or a Subsidiary is the surviving corporation, and neither
+Section 7.2 nor 7.3 is thereby violated.
+
+8.4  ERISA.
+
+Engage in a Prohibited Transaction (as defined under ERISA) or a violation
+of the fiduciary responsibility rules with respect to any Plan which has
+resulted or could reasonably be expected to result in consolidated liability of
+Borrower of $3,000,000 or more.
+
+8.5  Dissolution.
+
+Adopt an agreement or resolution for dissolving Borrower, Fisher
+Broadcasting Inc., Fisher Mills Inc., or Fisher Properties Inc.
+
+8.6  Permissible Investments.
+
+Make any investment outside the ordinary course of Borrower's or any such
+Subsidiary's business, except:
+
+(a) Certificates of Deposit.  Investments in certificates of deposit
+maturing within one year from the date of acquisition from any one or
+more of the top 100 commercial banks in the United States;
+
+(b) Commercial Paper.  Prime commercial paper with maturities of less
+than one year;
+
+(c) U. S. Government Paper.  Obligations issued or guaranteed by the
+United States Government or its agencies; and
+
+(d) Other Investments.  Other investments, including but not limited
+to capital investments in stock, shares, licenses, or other equity
+interests in any businesses, not exceeding $25,000,000 in the
+aggregate.
+
+8.7  Permissible Loans.
+
+Make any loans or other extensions of credit to any individual or entity
+outside the ordinary course of business, except for loans or extensions of
+credit that do not exceed an aggregate amount of $3,000,000 outstanding at any
+one time, on a consolidated basis.
+
+
+ARTICLE 9
+Agent
+
+9.1  Appointment and Authorization; "Agent".
+
+Each Bank hereby irrevocably (subject to Section 9.9) appoints,
+designates, and authorizes Agent to take such action on its behalf under the
+provisions of this Agreement and each other Loan Document and to exercise such
+powers and perform such duties as are expressly delegated to it by the terms of
+this Agreement or any other Loan Document, together with such powers as are
+reasonably incidental thereto.  Notwithstanding any provision to the contrary
+contained elsewhere in this Agreement or in any other Loan Document, Agent shall
+not have any duties or responsibilities, except those expressly set forth in
+this Agreement, nor shall Agent have or be deemed to have any fiduciary
+relationship with any Bank, and no implied covenants, functions,
+responsibilities, duties, obligations, or liabilities shall be read into this
+Agreement or any other Loan Document or otherwise exist against Agent.  Without
+limiting the generality of the foregoing sentence, the use of the term "agent"
+in this Agreement with reference to Agent is not intended to connote any
+fiduciary or other implied (or express) obligations arising under agency
+doctrine of any applicable law.  Instead, such term is used merely as a
+
+<PAGE>
+
+matter of market custom, and is intended to create or reflect only an
+administrative relationship between independent contracting parties.
+
+9.2  Delegation of Duties.
+
+Agent may execute any of its duties under this Agreement or any other Loan
+Document by or through agents, employees, or attorneys-in-fact and shall be
+entitled to advice of counsel concerning all matters pertaining to such duties.
+Agent shall not be responsible for the negligence or misconduct of any agent or
+attorney-in-fact that it selects with reasonable care.
+
+9.3  Liability of Agent.
+
+None of the Agent-Related Persons shall (i) be liable for any action taken
+or omitted to be taken by any of them under or in connection with this Agreement
+or any other Loan Document or the transactions contemplated hereby (except for
+its own gross negligence or willful misconduct), or (ii) be responsible in any
+manner to any of the Banks for any recital, statement, representation, or
+warranty made by Borrower or any Subsidiary or Affiliate of Borrower, or any
+officer thereof, contained in this Agreement or in any other Loan Document, or
+in any certificate, report, statement, or other document referred to or provided
+for in, or received by Agent under or in connection with, this Agreement or any
+other Loan Document, or the validity, effectiveness, genuineness,
+enforceability, or sufficiency of this Agreement or any other Loan Document, or
+for any failure of Borrower or any other party to any Loan Document to perform
+its obligations hereunder or thereunder.  No Agent-Related Person shall be under
+any obligation to any Bank to ascertain or to inquire as to the observance or
+performance of any of the agreements contained in, or conditions of, this
+Agreement or any other Loan Document, or to inspect the properties, books, or
+records of Borrower or any of Borrower's Subsidiaries or Affiliates.
+
+9.4  Reliance by Agent.
+
+(a) Agent shall be entitled to rely, and shall be fully protected in
+relying, upon any writing, resolution, notice, consent, certificate,
+affidavit, letter, telegram, facsimile, telex or telephone message,
+statement, or other document or conversation believed by it to be
+genuine and correct and to have been signed, sent, or made by the
+proper Person or Persons, and upon advice and statements of legal
+counsel (including counsel to Borrower), independent accountants, and
+other experts selected by Agent.  Agent shall be fully justified in
+failing or refusing to take any action under this Agreement or any
+other Loan Document unless it shall first receive such advice or
+concurrence of the Majority Banks as it deems appropriate and, if it
+so requests, it shall first be indemnified to its satisfaction by the
+Banks against any and all liability and expense which may be incurred
+by it by reason of taking or continuing to take any such action.
+Agent shall in all cases be fully protected in acting, or in
+refraining from acting, under this Agreement or any other Loan
+Document, in accordance with a request or consent of the Majority
+Banks and such request and any action taken or failure to act pursuant
+thereto shall be binding upon all of the Banks.
+
+(b) For purposes of determining compliance with the conditions
+specified in Article 5, each Bank that has executed this Agreement
+shall be deemed to have consented to, approved, or accepted or to be
+satisfied with, each document or other matter either sent by the Agent
+to such Bank for consent, approval, acceptance, or satisfaction, or
+required thereunder to be consented to or approved by or acceptable or
+satisfactory to such Bank.
+
+9.5  Notice of Default.
+
+Agent shall not be deemed to have knowledge or notice of the occurrence of
+any Default, except with respect to defaults in the payment of principal,
+interest, and fees required to be paid to Agent for the account of Banks, unless
+Agent shall have received written notice from a Bank or Borrower referring to
+this Agreement, describing such Default, and stating that such notice is a
+"notice of default."  Agent will notify Banks of its receipt of any such notice.
+Agent shall take such action with respect to such Default as may be requested by
+the Majority Banks in accordance with Article 10; provided, however, that unless
+and until Agent has received any such request, Agent may (but shall not be
+obligated to) take such action, or refrain from taking such action, with respect
+to such Default as it shall deem advisable or in the best interest of Banks.
+
+9.6  Credit Decision.
+
+Each Bank acknowledges that none of the Agent-Related Persons has made any
+representation or warranty to it, and that no act by Agent hereinafter taken,
+including any review of the affairs of Borrower and its Subsidiaries, shall be
+deemed to constitute any representation or warranty by any Agent-Related Person
+to any Bank. Each Bank represents to Agent that it has, independently and
+without reliance upon any Agent-Related Person and based on such documents and
+information as it has deemed appropriate, made its own appraisal of and
+investigation into the business, prospects, operations, property, financial, and
+other condition and creditworthiness of Borrower and its Subsidiaries, and all
+applicable bank regulatory laws relating to the transactions contemplated
+hereby, and made its own decision to enter into this Agreement and to extend
+credit to Borrower under this Agreement. Each Bank also represents that it will,
+independently and without reliance upon any Agent-Related Person and based on
+such documents and information as it shall deem appropriate at the time,
+continue to make its own credit analysis, appraisals, and decisions in taking or
+not taking action under this Agreement and the other Loan Documents, and to make
+such investigations as it deems necessary to inform itself as to the business,
+prospects, operations, property, financial, and other condition and
+creditworthiness of Borrower. Except for notices, reports, and other documents
+expressly herein required to be furnished to Banks by Agent, Agent shall not
+have any duty or responsibility to provide any Bank with any credit or other
+information concerning the business, prospects,
+
+<PAGE>
+
+operations, property, financial, and other condition or creditworthiness of
+Borrower which may come into the possession of any of the Agent-Related Persons.
+
+9.7  Indemnification of Agent.
+
+Whether or not the transactions contemplated by this Agreement are
+consummated, Banks shall indemnify upon demand the Agent-Related Persons (to the
+extent not reimbursed by or on behalf of Borrower and without limiting the
+obligation of Borrower to do so), in accordance with their respective Pro Rata
+Share, from and against any and all Indemnified Liabilities; provided, however,
+that no Bank shall be liable for the payment to the Agent-Related Persons of any
+portion of such Indemnified Liabilities resulting solely from such Person's
+gross negligence or willful misconduct. Without limitation of the foregoing,
+each Bank shall reimburse Agent upon demand for its ratable share of any costs
+or out-of-pocket expenses (including outside or in-house attorneys' fees)
+incurred by Agent in connection with the preparation, execution, delivery,
+administration, modification, amendment, or enforcement (whether through
+negotiations, legal proceedings, insolvency proceedings, or otherwise) of, or
+legal advice in respect of rights or responsibilities under, this Agreement, any
+other Loan Document, or any document contemplated by or referred to in this
+Agreement, to the extent that Agent is not reimbursed for such expenses by or on
+behalf of Borrower. The undertaking in this Section shall survive the payment of
+all Obligations and the resignation or replacement of Agent. For purposes of
+this Section, "Indemnified Liabilities" shall mean any and all liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs,
+charges, expenses, and disbursements (including both outside and in-house
+attorneys' fees) of any kind or nature whatsoever which may at any time
+(including at any time following repayment of the Revolving Loan and the
+termination, resignation, or replacement of the Agent or replacement of any
+Bank) be imposed on, incurred by, or asserted against any such Person in any way
+relating to or arising out of this Agreement or any document contemplated by or
+referred to herein, or the transactions contemplated hereby, or any action taken
+or omitted by any such Person under or in connection with any of the foregoing,
+including with respect to any investigation, litigation, or proceeding
+(including any insolvency proceeding or appellate proceeding) related to or
+arising out of this Agreement or the Revolving Loan or the use of the proceeds
+thereof.
+
+9.8  Agent in Individual Capacity.
+
+Seafirst and its Affiliates may make loans to, issue letters of credit for
+the account of, accept deposits from, acquire equity interests in and generally
+engage in any kind of banking, trust, financial advisory, underwriting, or other
+business with Borrower and its Subsidiaries and Affiliates as though Seafirst
+were not Agent hereunder and without notice to or consent of Banks.  Banks
+acknowledge that, pursuant to such activities, Seafirst or its Affiliates may
+receive information regarding Borrower or its Affiliates (including information
+that may be subject to confidentiality obligations in favor of Borrower or such
+Subsidiary) and acknowledge that Agent shall be under no obligation to provide
+such information to them.  With respect to its Revolving Note, Seafirst shall
+have the same rights and powers under this Agreement as any other Bank and may
+exercise the same as though it were not Agent, and the terms "Bank" and "Banks"
+include Seafirst in its individual capacity.
+
+9.9  Successor Agent.
+
+Agent may, and at the request of the Majority Banks shall, resign as Agent
+upon 30 days' notice to Banks. If Agent resigns under this Agreement, the
+Majority Banks shall appoint from among Banks a successor agent for Banks. If no
+successor agent is appointed prior to the effective date of the resignation of
+Agent, Agent may appoint, after consulting with Banks and Borrower, a successor
+agent from among Banks. Upon the acceptance of its appointment as successor
+agent hereunder, such successor agent shall succeed to all the rights, powers,
+and duties of the retiring Agent and the term "Agent" shall mean such successor
+agent; and the retiring Agent's appointment, powers, and duties as Agent shall
+be terminated. After any retiring Agent's resignation hereunder as Agent, the
+provisions of this Article 9 and Section 11.3 shall inure to its benefit as to
+any actions taken or omitted to be taken by it while it was Agent under this
+Agreement. If no successor agent has accepted appointment as Agent by the date
+which is 30 days following a retiring Agent's notice of resignation, the
+retiring Agent's resignation shall nevertheless thereupon become effective and
+the Banks shall perform all of the duties of Agent hereunder until such time, if
+any, as the Majority Banks appoint a successor agent as provided for above.
+
+
+ARTICLE 10
+Events and Consequences of Default
+
+10.1  Events of Default.
+
+Any of the following events shall constitute a default by Borrower and
+each of its Subsidiaries under the terms of this Agreement, the Revolving Notes,
+and all other Loan Documents ("Default"); provided, that no event described in
+Subsections 10.1 (d), (e), (f), or (g)(i) shall be deemed a Default unless such
+event continues unremedied for 30 days after written notice thereof has been
+given to Borrower by Agent; and provided, in the case of Subsection 10.1(b), if
+the event is one which cannot reasonably be remedied within 30 days, such event
+shall not be deemed a Default so long as Borrower is diligently pursuing a cure,
+with such extended cure period to be no longer than six months after notice of
+default has been given to Borrower by Agent:
+
+(a) Nonpayment.  Any payment or reimbursement due or demanded under
+this Agreement or any Loan Document is not made within five days of
+the date when due;
+
+(b) Breach of Warranty.  Any representation or warranty made in
+connection with this Agreement or any other Loan Document, or any
+certificate, notice, or report furnished pursuant
+
+<PAGE>
+
+hereto, is determined by any Bank to be false in any respect when
+made, and is relied upon by such Bank to its detriment, or any of
+Borrower's or any of its Subsidiaries' representations regarding the
+"year 2000 problem" cease to be true, whether or not true when made,
+and as a result Bank reasonably believes that Borrower's or any of its
+Subsidiaries' financial condition or its ability to pay its debts as
+they come due will thereby be materially impaired;
+
+(c) Failure to Perform.  Any other term, covenant, or agreement
+contained in any Loan Document is not performed or satisfied, and, if
+remediable, such failure continues unremedied for 30 days after
+written notice thereof has been given to Borrower by Agent;
+
+(d) Defaults on Other Obligations.  There exists a default in the
+performance of any other agreement or obligation for the payment of
+borrowed money of $3,000,000 or more, for the deferred purchase price
+of property or services, or for the payment of rent under any lease,
+whether by acceleration or otherwise, which would permit such
+obligation to be declared due and payable prior to its stated
+maturity; and such default continues for 30 days after Borrower or the
+Subsidiary so affected receives written notice thereof from the
+creditor so affected;
+
+(e) Guaranties.  Any guarantor of all or any portion of the
+Obligations revokes or attempts to revoke such guaranty, whether with
+respect to future transactions or outstanding Obligations, or
+otherwise breaches the terms and conditions of such guaranty;
+
+(f) Loss, Destruction, or Condemnation of Property.  A portion of
+Borrower's or any of its Subsidiary's property is affected by any
+uninsured loss, damage, destruction, theft, sale, or encumbrance other
+than created herein or is condemned, seized, or appropriated, the
+effect of which materially impairs Borrower's or any such Subsidiary's
+financial condition or its ability to pay its debts as they come due;
+
+(g) Attachment Proceedings and Insolvency.  Borrower, any Subsidiary
+or any of its respective property is affected by any:
+
+(i)  Judgment lien, execution, attachment, garnishment, general
+assignment for the benefit of creditors, sequestration, or forfeiture,
+to the extent Borrower's or any such Subsidiary's financial condition
+or its ability to pay its debts as they come due is thereby materially
+impaired; or
+
+(ii) Proceeding under the laws of any jurisdiction relating to
+receivership, insolvency, or bankruptcy, whether brought voluntarily
+or involuntarily by or against Borrower or any such Subsidiary,
+including, without limitation, any reorganization of assets, deferment
+or arrangement of debts, or any similar proceeding, and, if such
+proceeding is involuntarily brought against Borrower or such
+Subsidiary, it is not dismissed within 60 days;
+
+(h) Judgments.  Final judgment on claims not covered by insurance
+which, together with other outstanding final judgments against
+Borrower or any of its Subsidiaries, exceeds $3,000,000, is rendered
+against Borrower or any such Subsidiary and is not discharged,
+vacated, or reversed, or its execution stayed pending appeal, within
+60 days after entry, or is not discharged within 60 days after the
+expiration of such stay; or
+
+(i) Government Approvals.  Any governmental approval, registration, or
+filing with any governmental authority, now or later required in
+connection with the performance by Borrower or any of its Subsidiaries
+of its obligations under the Loan Documents, is revoked, withdrawn, or
+withheld, or fails to remain in full force and effect, except Borrower
+shall have 60 days after notice of any such event to take whatever
+action is necessary to obtain all necessary approvals, registrations,
+and filings, and provided that any such event shall not be deemed a
+Default unless the financial condition of the Borrower and its
+Subsidiaries, taken as a whole, or the ability of the Borrower and its
+Subsidiaries, taken as a whole, to pay the Obligations, is thereby
+materially impaired.
+
+10.2  Remedies Upon Default.
+
+If any Default occurs under Subsection 10.1 (g) (ii), the Banks'
+commitment to make Advances shall immediately and automatically terminate (but
+Agent shall have no liability to any other Bank for any Advances made by Agent
+prior to Agent receiving actual notice of such occurrence, absent Agent's
+willful misconduct or gross negligence), and all Obligations, including all
+accrued interest, shall immediately and automatically become due and payable,
+without presentment, demand, protest, or notice of any kind, all of which are
+hereby expressly waived by Borrower, and Agent may immediately, upon receiving
+notice of such an occurrence, exercise any or all of the following remedies for
+Default; and if any other Default occurs and is continuing, Agent, upon
+direction of Majority Banks, shall, by notice from Agent to Borrower:
+
+<PAGE>
+
+(a) Terminate Commitments.  Terminate Banks' commitment to make
+Advances;
+
+(b) Suspend Commitments.  Refuse to make further Advances until any
+Default has been cured;
+
+(c) Accelerate.  Declare the Revolving Notes, together with all
+accrued interest, to be immediately due and payable without
+presentment, demand, protest, or notice of any kind, all of which are
+hereby expressly waived by Borrower;
+
+(d) Setoff.  Exercise its right of setoff against deposit accounts of
+Borrower and/or any Subsidiary with Bank, or place an administrative
+freeze on any such accounts; and/or
+
+(e) All Remedies.  Pursue any other available legal and equitable
+remedies.
+
+In addition, each Bank shall have the right to set off against deposit accounts
+of Borrower and/or each Subsidiary at such Bank any amounts owing under the
+Obligations, including amounts in excess of such Bank's Pro Rata Share of the
+outstanding balance of the Obligations. Any such amounts, and any other amounts
+received by any Bank on account of the Obligations, other than from Agent, shall
+be delivered to Agent to be distributed to each Bank in accordance with its
+respective Pro Rata Share; provided, however, that if all or any portion of such
+payment turned over from a Bank to Agent and distributed to each Bank is
+thereafter recovered by Borrower or any such Subsidiary from such Bank, each
+Bank shall, in accordance with its respective Pro Rata Share, reimburse such
+other Bank for the amount so recovered. All of Banks' and Agent's rights and
+remedies in all Loan Documents shall be cumulative and can be exercised
+separately or concurrently. Borrower shall have no liability to any Bank with
+respect to any sum that Agent receives in accordance with this Agreement and
+fails to distribute to such Bank as required by this Agreement.
+
+<PAGE>
+
+ARTICLE 11
+Miscellaneous
+
+11.1  Manner of Payments.
+
+(a) Payments on Nonbusiness Days.  Whenever any event is to occur or
+any payment is to be made under any Loan Document on any day other
+than a Business Day, such event may occur or such payment may be made
+on the next succeeding Business Day and such extension of time shall
+be included in computation of interest in connection with any such
+payment.
+
+(b) Payments.  All payments and prepayments to be made by Borrower
+shall be made to Agent when due, at Agent's office as may be
+designated by Agent, without offsets or counterclaims for any amounts
+claimed by Borrower to be due from Agent or Banks, in U.S. dollars and
+in immediately available funds.
+
+(c) Application of Payments.  All payments made by Borrower shall be
+applied first against fees, expenses, and indemnities due; second,
+against interest due; and third, against principal, with Agent having
+the right, after a Default which is continuing, to apply any payments
+or collections received against any one or more of the Obligations in
+any manner which Banks, by unanimous consent, may choose. Except for
+payments made by Borrower to Agent for fees and indemnities due Agent,
+all payments made by Borrower shall be deemed to be made to Agent, as
+agent for Banks in accordance with each Bank's Pro Rata Share, and
+shall be distributed by Agent to Banks according to their respective
+Pro Rata Share. Any such payments which are received by a Bank shall
+be delivered immediately by such Bank to Agent for distribution to
+Banks in accordance with this subsection.
+
+(d) Recording of Payments.  Agent is authorized to record on a
+schedule or computer-generated statement the date and amount of each
+Advance, all conversions between interest rate options, and all
+payments of principal and interest.  All such schedules or statements
+shall constitute prima facie evidence of the accuracy of the
+information so recorded.
+
+11.2  Notices.
+
+Agent may make Advances and conversions between interest rates based on
+telephonic, telex, and oral requests made by any Person whom Agent in good faith
+believes to be authorized to act on behalf of Borrower.  All other notices,
+demands, and other communications to be given pursuant to any of the Loan
+Documents shall be in writing and shall be deemed received the earlier of when
+actually received, or two days after being mailed, postage prepaid and addressed
+as follows, or as later designated in writing:
+
+
+Agent:                                  Banks:
+
+SEAFIRST BANK                           SEAFIRST BANK
+Seafirst Agency Services                Metropolitan Wholesale, Team 2
+701 Fifth Avenue, 16th Floor            701 Fifth Avenue, 11th Floor
+Seattle, Washington  98104              Seattle, Washington  98104
+Attention:  Dora Brown                  Attention:  Robert M. Ingram III
+
+Borrower:
+
+FISHER COMPANIES INC.                   U.S. BANK NATIONAL ASSOCIATION
+1525 One Union Square                   1420 Fifth Avenue, Floor 11
+600 University Street                   Seattle, Washington  98101
+Seattle, Washington  98101              Attention:  Peter Bentley
+Attention:  David D. Hillard
+
+
+11.3  Documentation Expenses.
+
+Borrower shall pay, reimburse, and indemnify Agent and Banks for all of
+Agent's and Banks' reasonable costs and expenses, including, without limitation,
+all accounting, appraisal, and report preparation fees or expenses, all
+attorneys' fees (including the allocated cost of in-house counsel), legal
+expenses, and recording or filing fees, incurred in connection with the
+negotiation, preparation, and execution of this Agreement and all other Loan
+Documents, and all amendments, supplements, or modifications thereto, and the
+perfection of all security interests, liens, or encumbrances that may be granted
+to Banks.  Borrower acknowledges that any legal counsel retained or employed by
+Agent or Banks acts solely on Agent's and Banks' behalf and not on Borrower's
+behalf, despite Borrower's obligation to reimburse Agent and Banks for the cost
+of such legal counsel, and that Borrower has had sufficient opportunity to seek
+the advice of its own legal counsel with regard to this Agreement.
+
+11.4  Collection Expenses.
+
+The nonprevailing party shall, upon demand by the prevailing party,
+reimburse the prevailing party for all of its costs, expenses, and reasonable
+attorneys' fees (including the allocated cost of in-house
+
+<PAGE>
+
+counsel) incurred in connection with any controversy or claim between said
+parties relating to this Agreement or any of the other Loan Documents, or to an
+alleged tort arising out of the transactions evidenced by this Agreement,
+including those incurred in any action, bankruptcy proceeding, arbitration or
+other alternative dispute resolution proceeding, or appeal, or in the course of
+exercising any judicial or nonjudicial remedies.
+
+11.5  Waiver.
+
+No failure to exercise and no delay in exercising, on the part of Agent or
+Banks, any right, power, or privilege hereunder shall operate as a waiver
+thereof, nor shall any single or partial exercise of any right, power, or
+privilege hereunder preclude any other or further exercise thereof, or the
+exercise of any other right, power, or privilege.  Further, no waiver or
+indulgence by Agent or Banks of any Default shall constitute a waiver of Agent's
+and Banks' right to declare a subsequent similar failure or event to be a
+Default.
+
+11.6  Assignment.
+
+This Agreement is made expressly for the sole benefit of Borrower and for
+the protection of Agent and Banks and their respective successors and assigns.
+The rights of Borrower hereunder shall not be assignable by operation of law or
+otherwise, without the prior written consent of Agent and Banks.  Neither Bank
+may assign its rights to another Bank or to any other financial institution
+without the prior written consent of Borrower and Agent, which consent shall not
+be unreasonably withheld; provided that such consent shall not be required if a
+Default has occurred and is continuing.
+
+11.7  Merger.
+
+The rights and obligations set forth in this Agreement shall not merge
+into or be extinguished by any of the Loan Documents, but shall continue and
+remain valid and enforceable.  This Agreement and the other Loan Documents
+constitute Agent's and Banks' entire agreement with Borrower with regard to the
+Revolving Loan, and supersede all prior writings and oral negotiations.  No oral
+or written representation, covenant, commitment, waiver, or promise of either
+Agent, any Bank, Borrower, or any of its Subsidiaries shall have any effect,
+whether made before or after the date of this Agreement, unless contained in
+this Agreement or another Loan Document, or in an amendment complying with
+Section 11.8.  ORAL AGREEMENTS OR ORAL COMMITMENTS TO LOAN MONEY, TO EXTEND
+CREDIT, OR TO FORBEAR FROM ENFORCING REPAYMENT OF A DEBT ARE NOT ENFORCEABLE
+UNDER WASHINGTON LAW.
+
+11.8  Amendments.
+
+No amendment or waiver of any provision of this Agreement or any other
+Loan Document, and no consent with respect to any departure by Borrower or any
+Subsidiary therefrom, shall be effective unless the same shall be in writing and
+signed by the Majority Banks (or by Agent at the written request of the Majority
+Banks) and Borrower and acknowledged by Agent, and then any such waiver or
+consent shall be effective only in the specific instance and for the specific
+purpose for which given; provided, however, that no such waiver, amendment, or
+consent shall, unless in writing and signed by all the Banks and Borrower and
+acknowledged by Agent, do any of the following:
+
+(a) increase or extend the commitment of any Bank to make Advances (or
+reinstate any such commitment terminated pursuant to Section 10.2(a));
+
+(b) postpone or delay any date fixed by this Agreement or any other
+Loan Document for any payment of principal, interest, fees, or other
+amounts due to Banks (or any of them) hereunder or under any other
+Loan Document;
+
+(c) reduce the principal of, or the rate of interest specified herein
+on any Advance, or (subject to clause (ii) below) any fees or other
+amounts payable hereunder or under any other Loan Document;
+
+(d) change the percentage of total Pro Rata Shares which is required
+for Banks or any of them to take any action hereunder; or
+
+(e) amend this Section or any provision herein providing for consent
+or other action by all Banks;
+
+and, provided further, that (i) no amendment, waiver, or consent shall, unless
+in writing and signed by Agent in addition to the Majority Banks or all Banks,
+as the case may be, affect the rights or duties of Agent under this Agreement or
+any other Loan Document, and (ii) the fee letters referred to in Section 5.4 may
+be amended, or rights or privileges thereunder waived, in a writing executed by
+the parties thereto.
+
+11.9  Mandatory Arbitration.
+
+(a) At the request of Agent, any Bank, or Borrower, any controversy or
+claim between Agent and Banks and Borrower, arising from or relating
+to this Agreement or any of the other Loan Documents, or arising from
+an alleged tort, shall be settled by arbitration in Seattle,
+Washington.  The United States Arbitration Act shall apply even though
+this Agreement is otherwise governed by Washington law.  The
+proceedings shall be administered by the American
+
+<PAGE>
+
+Arbitration Association under its commercial rules of arbitration. Any
+controversy over whether an issue is arbitrable shall be determined by
+the arbitrator(s). Judgment upon the arbitration award may be entered
+in any court having jurisdiction over the parties. The institution and
+maintenance of an action for judicial relief or pursuit of an
+ancillary or provisional remedy shall not constitute a waiver of the
+right of either party, including the plaintiff, to submit the
+controversy or claim to arbitration if such action for judicial relief
+is contested. For purposes of the application of the statute of
+limitations, the filing of an arbitration pursuant to this subsection
+is the equivalent of the filing of a lawsuit, and any claim or
+controversy which may be arbitrated under this subsection is subject
+to any applicable statute of limitations. The arbitrator(s) will have
+the authority to decide whether any such claim or controversy is
+barred by the statute of limitations and, if so, to dismiss the
+arbitration on that basis. The parties consent to the joinder of any
+guarantor, hypothecator, or other party having an interest relating to
+the claim or controversy being arbitrated in any proceedings under
+this Section.
+
+(b) Notwithstanding the provisions of subsection 11.9(a), no
+controversy or claim shall be submitted to arbitration without the
+consent of all parties if at the time of the proposed submission, such
+controversy or claim arises from or relates to an obligation secured
+by real property.
+
+(c) No provision of this subsection shall limit the right of Borrower
+or Agent or Banks to exercise self-help remedies such as set-off,
+foreclosure, retention or sale of any collateral, or obtaining any
+ancillary, provisional, or interim remedies from a court of competent
+jurisdiction before, after, or during the pendency of any arbitration
+proceeding.  The exercise of any such remedy does not waive the right
+of either party to request arbitration.
+
+11.10  Construction.
+
+Each term of this Agreement and each Loan Document shall be binding to the
+extent permitted by law and shall be governed by the laws of the State of
+Washington, excluding its conflict of laws rules.  If one or more of the
+provisions of this Agreement should be invalid, illegal, or unenforceable in any
+respect, the remaining provisions of this Agreement shall remain effective and
+enforceable.  If there is a conflict among the provisions of any Loan Documents,
+the provisions of this Agreement shall be controlling.  The captions and
+organization of this Agreement are for convenience only, and shall not be
+construed to affect any provision of this Agreement.
+
+11.11  Counterparts.
+
+This Agreement may be signed in any number of counterparts, each of which
+shall be an original, with the same effect as if the signatures to such
+counterparts were upon the same instrument.  This Agreement shall become
+effective when Agent shall have received counterparts of the Agreement signed by
+all of the parties to the Agreement.
+
+DATED May 26, 1998.
+
+Borrower:                               Agent:
+
+FISHER COMPANIES INC.                   SEAFIRST BANK
+
+
+By  /s/ David D. Hillard                By  /s/ Dora A. Brown
+
+Title  Senior Vice President            Title  Vice President
+
+Banks:
+
+SEAFIRST BANK                           U.S. BANK NATIONAL ASSOCIATION
+
+
+By  /s/ Robert M. Ingram, III           By  /s/ Peter Bentley
+
+Title  Vice President                   Title  Senior Vice President
+
+
+<PAGE>
+
+Consent of Subsidiaries/Guarantors
+
+The undersigned Subsidiaries, which are also guarantors of the Obligations,
+acknowledge receipt of a copy of the above Agreement, consent to its contents,
+and agree to each representation, warranty, and covenant applicable to them
+therein.
+
+DATED May 26, 1998.
+
+FISHER BROADCASTING INC.                    FISHER PROPERTIES INC.
+
+
+By  /s/ Patrick M. Scott                    By  /s/ Mark A. Weed
+Title  President & CEO                      Title  President
+
+FISHER MILLS INC.
+
+
+By  /s/ Terry Barrans
+Title  President
+
+
