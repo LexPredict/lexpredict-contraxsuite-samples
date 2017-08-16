@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 10.2
+
+WEBB SOFTWARE LICENSE
+
+This Webb Software License Agreement (the "Agreement") is entered into as
+of the 16th day of October 2001 (the "Effective Date") between Webb Interactive
+Services, Inc., a Colorado corporation ("Webb") and Nextron Communications,
+Inc., a California corporation ("Licensee"), (Webb and Licensee individually, a
+"Party" and collectively, the "Parties").
+
+1.  General Background. Webb owns certain software as set forth in Exhibit A
+hereto (the "Software") and associated documentation, including without
+limitation the documentation set forth on Exhibit A hereto (the
+"Documentation"). Webb desires to license to Licensee (i) the Software, in
+object and source code form, and (ii) the Documentation ((i) and (ii)
+collectively, the "Licensed Materials") for any purpose anywhere in the world.
+
+2.  Statement of Agreement. In consideration of the mutual covenants contained
+herein, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Parties agree to the terms,
+conditions and obligations contained in this Agreement.
+
+3.  Grant of License. Webb hereby grants to Licensee and its affiliates,
+successors and assigns an exclusive (subject only to the Existing Licenses (as
+defined below)), irrevocable, transferable, worldwide, perpetual, royalty-free
+license to use, operate, reproduce, display, perform, sell, assign, sublicense,
+transfer, maintain, improve, modify, adapt, enhance and make derivative works of
+all or a portion of the Licensed Materials in any manner and for any purpose.
+The exclusivity of the foregoing license is subject only to the non-exclusive
+licenses of the Software by Webb prior to the Effective Date that are listed in
+Exhibit B hereto (the "Existing Licenses"). Webb represents and warrants that it
+has provided Licensee with accurate and complete copies of the Existing Licenses
+prior to the Effective Date. Webb shall not amend or extend the terms of any of
+the Existing Licenses without Licensee's prior written consent, which consent
+Licensee may withhold in its sole discretion.
+
+4.  Exclusions from Grant of License. There are no exclusions or restrictions on
+this license of the Licensed Materials.
+
+5.  Ownership of Modifications. Any improvements, modifications, adaptations,
+enhancements or derivative works of or to the Licensed Materials or made from
+the source code to the Software (the "Source Code"), including without
+limitation all intellectual property rights with respect thereto, (collectively,
+"Modifications") shall be owned by Licensee or its successors or assigns. Webb
+hereby assigns to Licensee all rights, title and interests in and to
+Modifications. Webb shall deliver to Licensee all copies of Modifications.
+
+6.  Export Control. Licensee will comply with all relevant laws regarding export
+of the Licensed Materials by Licensee.
+
+7.  Deliverables and Shipping. On the Effective Date, Webb shall deliver to
+Licensee all copies of the Licensed Materials (except for copies of the Software
+in object code form in the possession of licensees pursuant to the existing
+licenses), including without limitation instructions for generating any per-copy
+identifying information, computer programs, materials, tapes, know-how, object
+and source codes, written materials, know-how and processes related to the
+Software, with bug fixes, enhancements and upgrades as of the Effective Date.
+Webb shall destroy or delete all copies and files containing the Licensed
+Materials stored electronically or by other means. Webb shall provide
+Documentation in both electronic and printed hard copy form, including without
+limitation artwork if appropriate. Webb shall pay for all costs of shipping,
+delivery and related insurance. Webb shall bear the risk of loss until
+acceptance by Licensee at Licensee's facilities.
+
+8. Fees. In consideration for the rights granted under this Agreement, Licensee
+agrees to pay Webb $1 million on the Effective Date, such funds to be
+transferred to Webb by wire transfer in accordance with instructions provided by
+Webb.
+
+9.  Right to Prosecute Infringers. Webb hereby grants to Licensee, and Licensee
+shall have, the sole and exclusive right to prosecute and sue persons or
+entities that infringe or misappropriate the Licensed Materials or violate any
+copyright or other proprietary right of or associated with the Licensed
+Materials. Webb shall cooperate with Licensee in such prosecution to the extent
+requested by Licensee. Webb shall immediately notify Licensee of any
+infringement, misappropriation or violation of the Licensed Materials. Webb
+represents and warrants that it is under no obligation under contract or
+otherwise to prosecute infringers of the Licensed Materials.
+
+10. Warranties. Webb represents and warrants that:
+
+(i)   Media and Documentation Warranty. The media containing the Licensed
+Materials and Modification shall be free of defects. Webb shall
+replace the defective media as long as any such defect is found
+within three months after acceptance by Licensee at Licensee's
+facilities. All Documentation has been developed in accordance with
+high professional standards.
+
+(ii)  Software Warranty. The software for the SiteBuilder, Connect and
+Promote products performs in accordance with the documentation for
+such products. The Software is in machine-readable and
+human-readable form, contains all current revisions of such
+software, and includes all computer programs, materials, tapes,
+know-how, object and source codes, other written materials, know-how
+and processes related to the Software.
+
+(iii) Licensed Materials. Other than the copies of the object code of the
+Software in the possession of licensees of Existing Licenses under
+Section 3 hereto, there are no copies of the Licensed Materials (in
+any form) other than those delivered to Licensee pursuant to Section
+7 hereto. The copies of the Licensed Materials delivered to Licensee
+pursuant to Section 7 hereto are complete and correct copies and
+contains all of the software and documentation necessary to use and
+operate the software for the SiteBuilder, Connect and Promote
+products.
+
+(iv)  Enhancements, New Products. To Webb's knowledge, neither Webb nor
+any employee or agent thereof has developed or assisted in the
+enhancement of the Licensed Materials except for enhancements
+included in the Licensed Materials as delivered to Licensee pursuant
+hereto or the development of any program or product based on the
+Licensed Materials or any part thereof.
+
+(v)   Development. No employee of Webb is, or is now expected to be, in
+default under any term of any employment contract, agreement or
+arrangement relating to the Licensed Materials, Software or
+noncompetition arrangement, or any other contract or any restrictive
+covenant relating to the Licensed Materials or its development or
+exploitation. To Webb's knowledge, the
+
+<PAGE>
+
+Licensed Materials were developed entirely by either (i) the
+employees of Webb during the time they were employees only of
+Webb and such Licensed Materials do not include any inventions of
+the employees made prior to the time such employees became
+employees of Webb nor any intellectual property of any previous
+employer of such employee; or (ii) by consultants under agreements
+providing that any of the Licensed Materials developed
+by such consultants or their employees was the sole and exclusive
+property of Webb.
+
+(vi)   Title. All right, title and interest in and to the Licensed
+Materials and Modifications is owned by Webb, free and clear of all
+liens, claims, charges or encumbrances and no party other than Webb
+or the Existing Licenses has any interest in the Licensed Materials
+and Modifications, including without limitation any security
+interest, license, contingent interest or otherwise (except for the
+Existing Licenses). To Webb's knowledge, the development, use, sale
+or exploitation of the Licensed Materials by Webb has not and will
+not, and such development, use, sale or exploitation by Licensee as
+contemplated by this Agreement will not, violate, any rights of any
+other person or entity. Webb has not received any communication
+alleging such a violation. Webb does not have any obligation to
+compensate any person or entity for the development, use, sale or
+exploitation of the Licensed Materials nor (except for the Existing
+Licenses) has Webb granted to any other person or entity any
+license, option or other rights to develop, use, sell or exploit in
+any manner the Licensed Materials, whether requiring the payment of
+royalties or not.
+
+(vii)  Protection of Proprietary Nature of Software. Webb has kept secret
+and has not disclosed the Licensed Materials, including without
+limitation the source code for the Software, to any person or
+entity other than employees of Webb and others who are subject to
+the terms of a binding confidentiality agreement with respect
+thereto. Webb has taken appropriate measures to protect the
+confidential and proprietary nature of the Licensed Materials,
+including without limitation the use of confidentiality agreements
+with all of its employees having access to the Software source and
+object code. There have been no patents applied for and no
+copyrights registered for any part of the Software.
+
+(viii) No Disabling Code or Viruses. To Webb's knowledge, neither Webb,
+its employees or any third party has (a) introduced or coded any
+virus or similar item into the Software or (b) inserted into the
+Software any code that would have the effect of disabling or
+otherwise shutting down all or a portion of the Software.
+
+(ix)   Year 2000 Compliance. The Software shall be capable of accounting
+for all calculations using a century and date sensitive algorithm
+prior to, for and after the year 2000 and the fact that the year
+2000 is a leap year.
+
+(x)    Authorization. The performance of the rights and obligations set
+forth under this Agreement will not breach any other agreement or
+arrangement by which Webb is bound. Webb has the right and
+authority to enter into this Agreement and to license the Licensed
+Materials to Licensee in accordance with the terms hereof. Webb has
+all requisite corporate power and authority to execute, deliver and
+perform its obligations under this Agreement.
+
+(xi)   Exclusion of Other Warranties. EXCEPT AS PROVIDED IN THIS SECTION,
+THE SOFTWARE IS PROVIDED "AS IS," AND NEITHER PARTY MAKES ANY OTHER
+WARRANTIES. THE FOREGOING WARRANTY IS EXCLUSIVE OF ALL OTHER
+WARRANTIES, WHETHER WRITTEN, ORAL, EXPRESS OR IMPLIED, INCLUDING
+WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE.
+
+11. Indemnity and Limitation of Liability.
+
+(i)    Webb shall, at its expense, defend any suit or claim brought
+against Licensee or its affiliates and shall indemnify Licensee
+against any damages, fines, penalties, deficiencies, losses,
+liabilities (including without limitation settlements and
+judgments) and expenses (including without limitation interest,
+court costs, reasonable fees and expenses of attorneys, accountants
+and other experts) arising from or in connection with a claim (a)
+that the Licensed Materials or Licensee's use of the Licensed
+Materials infringes a patent, copyright or other proprietary right
+or (b) under or relating to the Existing Licenses, if Licensee: (I)
+promptly notifies Webb in writing of the suit or claim after
+Licensee receives notice; (II) gives Webb authority to defend or
+settle the suit or claim (subject to the last sentence of this
+Section); (III) gives Webb all information in Licensee's control
+concerning the suit or claim; and (IV) reasonably cooperates and
+assists Webb with defense of the suit or claim at Webb's expense.
+This indemnification shall not apply against any suit or claim of
+infringement to the extent based upon the use of the Source Code in
+combination, operation or use with any product not furnished by
+Webb or in a modified state not authorized by Webb.
+
+(ii)   Limitations on Webb's Liability for Infringement. If the Licensed
+Materials become or in Webb's opinion are likely to become the
+subject of a suit or claim of infringement of a patent or
+copyright, Webb shall at its option and expense (a) obtain the
+right for Licensee to use the Licensed Materials, or (b) replace or
+modify the Licensed Materials so that they become non-infringing or
+(c) if it is not possible to do either (a) or (b), terminate this
+Agreement to the extent it relates to the infringing software. In
+the event that this Agreement is terminated under this section,
+Licensee shall cease to use the infringing Software, and Webb shall
+pay Licensee, as Licensee's sole and exclusive remedy against Webb
+for said termination, an amount equal to the Fees paid under this
+Agreement for the infringing Software less any cumulative
+amortization or depreciation of that software by Licensee on its
+financial statements as of the date when Webb terminates this
+Agreement, or portions thereof.
+
+(iii)  Other Limitations of Liability. IN NO EVENT SHALL THE PARTIES BE
+LIABLE TO THE OTHER OR ANY THIRD PARTY FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF PROFITS
+INCURRED BY LICENSEE OR ANY OTHER THIRD PARTY. THE FOREGOING
+LIMITATION OF LIABILITY SHALL APPLY WHETHER IN AN ACTION BASED ON
+CONTRACT, TORT OR ANY OTHER SUCH THEORY, EVEN IF THE PARTY HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12. Confidentiality. Webb shall treat the Licensed Materials, including without
+limitation any know-how, processes and concepts relating thereto or contained
+therein, as confidential information of Licensee and shall hold the Licensed
+Materials in strict confidence and not disclose or otherwise use the Licensed
+Materials, except as expressly approved in writing by Licensee.
+
+13. Assignability. Licensee may assign any and all rights or delegate its
+obligations under this Agreement and the licenses granted hereunder, whether by
+operation of law or otherwise.
+
+14. Term of Agreement. This Agreement and the license is perpetual and
+irrevocable.
+
+15. Waiver. The Party entitled to the benefit of any provision of this Agreement
+may waive said provision. Neither Party shall be deemed, by any act or omission,
+to have waived any of its rights or remedies hereunder unless such waiver is in
+writing and signed by an authorized officer of such Party. Such a waiver shall
+be limited specifically to the extent set forth in said writing. Waiver as to
+one event shall not be construed as waiver of any right or remedy as it relates
+to any subsequent event
+
+16. Governing Law. This Agreement will be governed by the laws of the State of
+Colorado without regard to conflicts of laws principles.
+
+17. No Agency. The Parties are independent contractors. Neither Party is an
+employee, agent, co-venturer or legal representative of the other Party for any
+purpose. Neither Party shall have the authority to enter into any legal or
+equitable obligation for the other Party. Under no circumstances may either
+Party hold itself out to have agency authority for the other Party. The Parties
+agree not to make false or
+
+<PAGE>
+
+misleading statements, claims or representations about the other Party, its
+products or the relationship between the Parties.
+
+18. Severability. If the application of any provision or provisions of this
+Agreement to any particular set of facts or circumstances is held to be invalid
+or unenforceable by a court of competent jurisdiction, the validity of said
+provision or provisions to any other particular set of facts or circumstances
+shall not, in any way, be affected. Such provision or provisions shall be
+reformed without further action by the Parties to the extent necessary to make
+such provision or provisions enforceable when applied to said set of facts or
+circumstances.
+
+19. Rules of Construction. As used in this Agreement. all terms used in the
+singular shall be deemed to include the plural, and vice versa, as the context
+requires. Descriptive headings are inserted for convenience only and shall not
+be utilized in interpreting this Agreement. This Agreement has been reviewed by
+respective counsel for the Parties and shall be interpreted in accordance with
+its terms and without any strict construction in favor or against either Party.
+
+20. Taxes. Webb shall be responsible for any sales or other taxes other than
+income taxes associated with the license granted pursuant to this Agreement.
+
+21. Amendment. This Agreement may not be modified or amended except in a writing
+signed by a duly authorized representative of each Party.
+
+22. Entire Agreement. The Parties, and each of them, represent and warrant that
+this Agreement constitutes the complete and exclusive agreement between the
+Parties with respect to the subject matter hereof. This Agreement supercedes all
+previous or contemporaneous agreements, understandings and representations,
+written or oral, with respect to the subject matter of this Agreement.
+
+<PAGE>
+
+IN WITNESS WHEREOF, the Parties have each caused this Agreement to be
+signed and delivered by its duly authorized officer or representative as of the
+date first set above.
+
+WEBB INTERACTIVE SERVICES, INC.:
+
+By
+
+Its
+
+NEXTRON COMMUNICATIONS, INC.:
+
+By
+
+Its
+
+
+<PAGE>
+
+EXHIBIT A
+
+Description of Webb Software and Documentation
+
+Webb Interactive Object and Source Code Inclusions:
+
+Know how, all of Seller's modifications, adaptations, enhancements, and
+derivative works made prior to the Effective Date, object code and source code
+to all of the software required for the development, testing, demonstration,
+maintenance, customer support and hosted operation of the following software,
+inclusive of design documents, use cases, testing scripts, end-user and
+developer documentation.
+
+SiteBuilder
+Connect
+Promote
+Promotions
+Sign Up
+Contact Center
+Multi Services Page
+Image Center
+Inline Advertising
+
+Common Administration and Provisioning Interface (CAPI)
+All customizations developed for Existing Licenses are likewise transferred
+herein, and all business, marketing and product planning and support materials
+are transferred for all identified products and Existing Licenses.
+License Fees: $1,000,000 to be paid by wire transfer on the Effective Date.
+
+
+<PAGE>
+
+EXHIBIT B
+
+Existing Licenses
+
+<TABLE>
+<CAPTION>
+Support & Maintenance
+Customer               Contract        Software Product or Service                        Renewal Date
+Date
+<S>                             <C>          <C>                                              <C>
+Sympatico Lycos, Inc.*          03/13/00     Site Builder                                     Included in monthly fee
+Qwest Dex, Inc                  05/17/01     Connect                                                  05/16/02
+Swiss Online, AG                02/28/01     Site Builder, Request, & Connect                         5/31/02
+Switchboard Incorporated        07/01/99     Site Builder                                     Included in monthly fee
+Promedia GVC (VNU World         07/17/00     Site Builder, Notify, Request, & Promote         7/16/01 - Did not renew
+Directories)
+British Telecommunications      06/30/00     Site Builder, Notify & Request                   7/31/01 - Did not renew
+plc (thereafter
+transferred to Yell, Ltd.)
+</TABLE>
+
+(*) Master Publishing Product Licensing Agreement between Webb
+Interactive Services Inc. and Bell ActiMedia, Inc. executed March 17,
+2000 and assigned by Bell ActiMedia, Inc. to Sympatico-Lycos Inc., an
+affiliate of ActiMedia, effective as of May 2, 2000, as amended.
+
+
+

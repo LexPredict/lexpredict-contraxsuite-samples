@@ -1,0 +1,2398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.18
+
+
+
+
+
+
+
+SOFTWARE LICENSING AGREEMENT
+
+
+
+
+
+This Software Licensing Agreement (“Agreement”) made and entered into on 9th August 2005
+
+
+(“Effective Date”)  and between:
+
+
+
+
+
+CENEGA PUBLISHING, s.r.o. (“LICENSOR”), having its principal place of business
+
+
+at Naskové 3,150 00 PRAGUE 5, Czech Republic
+
+
+
+
+
+and
+
+
+
+
+
+2WG, LLC.,   (“LICENSEE”), having its principal place at 4975 Preston Park Blvd. #775
+
+
+Plano, TX  75093,Texas, USA
+
+
+
+
+
+RECITALS
+
+
+
+
+
+
+
+(A)
+
+LICENSOR designs, originates, and publishes computer software games.
+
+
+
+
+(B)
+
+LICENSEE is in the business of designing, publishing and distributing interactive software products.
+
+
+
+
+
+(C)
+
+LICENSOR has agreed to grant to LICENSEE the right to distribute and sell the Product(s) as hereinafter defined in APPENDICES in the Territory on the terms and conditions hereinafter contained and LICENSEE desires to receive these rights from LICENSOR.
+
+
+
+
+
+
+
+NOW THEREFORE, the parties hereto agree as follows :
+
+
+
+
+
+
+
+
+
+
+Article 1.
+
+Definitions
+
+
+
+
+
+
+
+As used in this Agreement, the following terms shall have the following respective meanings:
+
+
+
+
+
+
+
+1.1
+
+“ Effective Date “ ,  “LICENSOR “ , and  “LICENSEE “ shall be used herein as defined above.
+
+
+
+
+
+
+
+
+
+1.2
+
+“ Agreement “ means this document including its Appendices or /and Amendments.
+
+
+
+
+
+
+
+
+
+1.3
+
+“ Original Product “ means the full retail product developed in English.
+
+
+
+
+
+
+
+
+
+1.4
+
+“ Product “ or “ Product(s) “ means the Original Product with a master, manual, CD label and retail packaging localised by LICENSEE into the Language indicated in Appendices  and for which LICENSEE is authorized as per the Agreement to publish and/or distribute.
+
+
+
+
+
+
+
+
+
+1.5
+
+“ Language “ means the language mentioned in Appendices into which LICENSEE is authorized to publish and/or distribute the Original Product.
+
+
+
+
+
+
+
+
+
+1.6
+
+“ Territory “ means countries in which the rights subject of the Agreement are granted to LICENSEE as set forth in Appendices.
+
+
+
+
+
+
+
+
+
+1.7
+
+“ Licensed platforms “ mean the platforms  defined in Appendices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.8
+
+“ Alternate platforms “ mean the additional platforms  than these defined in Appendices to this Agreement and for which LICENSOR have or will have the rights (by way of illistration and not of limitation, Alternate platforms shall include X-box, X-box 360, Nintendo GameCube, Nintnedo Revolution, Sony Playstation 2, Sony Playstation 3, Sony PSP Nintendo Gameboy SP, Nintendo Gameboy DS, Palm Pilot and other PDAs, wireless platforms and any other successor products)
+
+
+
+
+
+
+
+
+
+1.9
+
+“ Term “ means the duration of the Agreement as defined in Appendices.
+
+
+
+
+
+
+
+
+
+1.10
+
+“Trademarks “ mean all trademarks as used by LICENSOR on or in relation to the Product at any time during the Term of this Agreement.
+
+
+
+
+
+
+
+
+
+1.11
+
+“ Intellectual Property Rights “ mean any and all intellectual property rights, including without limitation, all copyrights, patents,trademarks, know how, trade secrets and other proprietary rights.
+
+
+
+
+
+
+
+
+
+1.12
+
+“ Localisation kit “ means files, English assets (in game texts, on screen texts,read me files etc..) necessary for the localisation of the Product or the in-game content.
+
+
+
+
+
+
+
+
+
+1.13
+
+“ Localisation artwork materials “ means files necessary for the localisation of the product (s) of the user´s manual, packaging and CD label.
+
+
+
+
+
+
+
+
+
+1.14
+
+“Materials “ means both Localisation Kit and Localisation artwork materials.
+
+
+
+
+
+
+
+
+
+1.15
+
+“Master or Gold Master “ means the media (i.e. CD-Rom, tape or other form of support) which hold the final version of the Original Product suitable for reproduction.
+
+
+
+
+
+
+
+
+
+1.16
+
+“Sell-off Period “ means that LICENSOR allows LICENSEE to continue to sell products ,non-exclusively, to the retail during One-Hundred and eighty (180) days after the termination or expiration of this Agreement.
+
+
+
+
+
+
+
+
+
+1.17
+
+"Samples For Licensor” means finished localised Products (As indicated in the Appendices) given free of charge by LICENSEE to LICENSOR .The quantity should not exceed 50 units for each product.
+
+
+
+
+
+
+
+
+
+1.18
+
+“Add-Ons” means sequel ,datadisk or expansion pack related to the Product and for which LICENSOR has obtained rights .
+
+
+
+
+
+
+
+
+
+1.19
+
+"Net Revenue” is defined as payments for all Product units that are actually received by LICENSEE less Cost of Goods Sold. For purposes of this Agreement, “Cost of Goods Sold” means direct manufacturing costs, and other costs and fulfillment and royalties payable to third parties such as Sony, Nintendo or Microsoft, not to exceed $3.00 for PC products, $12.00 for video game consoles and actual manufacturing costs (including royalties, if any, payable to third party console manufacturers) for all other platforms.
+
+
+
+
+
+
+
+
+
+1.20
+
+“Alpha Build” means version of the Product specified in Apendix B
+
+
+
+
+
+
+
+
+
+1.21
+
+“Beta Build” means means version of the Product specified in Apendix B
+
+
+
+
+
+
+
+
+
+1.22
+
+“Release Candidate “ means version of the Product specified in Apendix B
+
+
+
+
+
+
+
+
+
+1.23
+
+"ETA” shall mean Expected ime of Arrival release date.
+
+
+
+
+
+
+
+
+
+1.24
+
+"Milestone” means version of the Product as specified in the Appendix B of this Agreement (B=by way of illustration and not of limitation of milesotnes shall include Alpha Build, Beta Build, Release Candidate, Gold Master.
+
+
+1.25
+
+"Acceptance Criteria” means criteria that neds to be fulfilled to approve individual Milestone(s). Acceptance Criteria foir individual Milestones are Specified in Appendix B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 2.
+
+Grant Of License Rights
+
+
+
+
+
+
+
+
+
+2.1
+
+LICENSOR shall grant to LICENSEE the exclusive right to use, advertise, promote, produce, reproduce, translate, localise, merchendise sell and distribute the Product(s) in the Territory for the retail stand-alone version on the Licensed Platform (s).Such right shall include the right to use all patents, designs, trademarks, copyrights and other intellectual property associated with the Product, solely for such manufacture, sale and distribution on the Licensed Platform in the Territory during the Term and under the terms and conditions of the Agreement. The authorized channels are mentioned in Appendices. All other distribution channels are reserved by the LICENSOR.
+
+
+
+
+
+
+
+
+
+2.2
+
+All other rights (OEM, bundle, broadband...etc..) are expressely reserved by LICENSOR.Neverthless, LICENSEE is a sole representative in regard of any deals of bundles or OEM but shall obtain expressly LICENSOR´s prior written approval upon such deals. In this event, both parties will discuss and settle in good faith appropriate financial terms and conditions.
+
+
+
+
+
+
+
+
+
+2.3
+
+For the avoidance of doubt nothing in this Agreement shall be interpreted so as to grant to the LICENSEE the right to use the Product(s) in any way except as expressly permitted by this Agreement and all rights not expressly licensed to the LICENSEE pursuant to this Agreement are reserved to the LICENSOR absolutely.
+
+
+
+
+
+
+
+
+
+2.4
+
+LICENSEE shall have to the sole and exclusive right to publish the Product on all platforms (“Alternate Platforms”) other than the Platform. By way of illustration and not of limitation, Alternate Platforms shall include, X-box, X-box 360, Nintendo GameCube, Nintendo Revolution, Sony PlayStation2, Sony Playstation 3, Sony PSP, Nintendo Gameboy SP, Nintendo Gameboy DS, Palm Pilot and other PDAs, wireless platforms and any other successor products.
+
+
+
+
+
+
+
+
+
+2.5
+
+LICENSEE shall have a right of first refusal and last refusal rights (matching rights for all offers made and received) to publish any prequel or sequel to the Product. LICENSEE shall send first proposal for prequel or sequel no later than 45 days after rlease date of the Product in the Territory. The terms of such rights shall be negotiated in good faith.
+
+
+
+
+
+
+
+
+
+Article 3.
+
+Financial Terms
+
+
+
+
+
+
+
+
+
+3.1
+
+In consideration of the rights granted under Article 2, LICENSEE undertakes to pay to LICENSOR a royalty which amount is indicated in Appendices (hereinafter reffered to as the “Royalties Advance”).
+
+
+
+
+The Royalties Advance is non-refundable whatever the number of units of  Product is sold or manufactured by LICENSEE.The Royalties Advance applied as credit before LICENSEE is obligated to make additional royalties payments to LICENSOR.
+
+
+
+
+
+
+
+3.2
+
+Invoicing and related payments shall be made in the currency designated in Appendices. Payment shall be made by wire transfer to the LICENSOR´s bank. All required bank information and details will be supplied on each respective invoice.
+
+
+
+
+
+
+
+
+
+3.3
+
+Any amount payable under this Agreement remaining unpaid after the due date may bear interest at a rate of 1,25% per month from the date such amount is due until the date of actual payment.
+
+
+
+
+
+
+
+
+
+3.4
+
+LICENSEE shall pay the amount invoiced , free and clear of any taxes , other duties and any bank charges except for those charges incurred by LICENSOR’s bank for wire services.
+
+
+
+
+
+
+
+
+
+3.5
+
+In case of outstanding amounts owed by LICENSEE during the Term and/or during the notice period before termination or expiration of the Agreement, LICENSOR reserves the right to implement new payment terms, such as secured payment or payment in advance, which will apply to any new authorized manufactured quantities.
+
+
+
+
+
+
+
+
+
+3.6
+
+LICENSOR may reserve the right to set up and update, pursuant to documents provided by a credit insurance company, a credit limit attached to Licensee’s account. In the event of an excess of such credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+limit and not before 5 (five) days following the day on which Licensor is informed of such excess, Licensor would be free without prejudice to terminate the Agreement in case of late payments or documents showing indications of Licensee’s unsound financial situation, except if Licensee immediately upon Licensor’s written notice pays all sums outstanding, including any interests applicable. In the event Licensor would choose not to terminate the Agreement, any new Licensee’s request to manufacture leading to an excess of such credit limit would be accepted subject to a payment upon Licensor’s prior written authorization and prior manufacturing.
+
+
+
+
+
+
+
+3.8
+
+AUDIT. LICENSOR shall have the right to audit the LICENSEE’s financial statements and records which relate solely to the matters dealt with by this Agreement within normal office hours and with a written notice of at least 30 days annually by independent financial auditors at LICENSOR’s own cost provided that if any such audit shows any underpayment has been made by LICENSEE in excess of 5% of the amounts due to LICENSOR in respect thereof LICENSEE shall be liable for such costs as LICENSOR has reasonably incurred in respect of the audit. Books can be audited maximum two years backwards. Further, LICENSOR agrees to conduct such an audit only twice in any 12 month period.
+
+
+
+
+
+
+
+
+
+Article 4.
+
+Licensee’s Obligation
+
+
+
+
+
+
+
+
+
+4.1
+
+LICENSEE hereby warrants that throughout the Term it shall:
+
+
+
+
+
+
+
+Act in LICENSOR’s best interests as its reseller of the Product(s) in the Territory and use its best
+
+
+endeavours market the Products to customers and prospective customers in the Territory (both before and after the launch thereof in the Territory) with all due care and diligence and maximise sales of the Product(s) in the Territory.
+
+
+
+
+
+Conform with all legislation, rules, regulations and statutory requirements existing in the Territory from time to time in relation to the Products and the performance of its obligations under this Agreement (including, without limitation, obtaining at its own cost all applicable licences, permits and approvals and paying all applicable customs, duties and taxes in respect of the importation of the Products into and their resale in the Territory).
+
+
+
+
+
+
+
+4.2
+
+LICENSEE has to warrant that LICENSOR will receive Manufacturing reports directly from the 3rd
+
+
+
+
+party manufacturer for the Product(s) as specified in Appendices.
+
+
+
+
+
+
+
+4.3
+
+Encryption . LICENSEE shall manufacture all CDs or DVDs for the Product(s) as set out in Appendices according to acceptable industry standards. As it manufactures the Products, LICENSEE undertakes to encrypt the units manufactured of the Products at its own costs and risks in order to provide each copy with an efficient protection against piracy, according to LICENSOR’s requirements.
+
+
+
+
+
+
+
+
+
+4.4
+
+LICENSEE shall promptly and fully notify the LICENSOR against any grey market and software piracy  that is identified in the Territory in order to protect the LICENSOR’s property.
+
+
+
+
+
+
+
+
+
+4.5
+
+LICENSEE undertakes to provide LICENSOR with a monthly Statements according to the  Reporting Process defined in Appendices for three months after commercial release of the Product in the Territory, after this initial period LICENSEE undertskes to provide LICENSOR with quarterly Sales Statement according to the Reporting Process defined in the Appendices, with regard to the distribution of  the Product(s), which LICENSEE will submit to the LICENSOR by the 15th of the month following the end of each quarter.
+
+
+
+
+
+
+
+
+
+4.6
+
+LICENSEE undertakes to provide LICENSOR with a quarterly Royalty Report with regard to the distribution of  the Product(s), which LICENSEE will submit to the LICENSOR by the 15th of the following month after end of each quarter. Each Royalty payment hereunder shall be accompanied by a statement in United States dollars, in accordance with LICENSEE’s regular accounting practices. Royalty statements shall include, without limitation, the number of units sold through, Net Revenues resulting from such sales, Cost of Goods Sold and a listing of all deductions and offsets from royalties, whether due to recoupment or otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.7
+
+LICENSOR shall provide to LICENSEE a complete design document outlining the major features, functions and design of the game.
+
+
+
+
+
+
+
+
+
+4.8
+
+LICENSOR shall devliver to LICENSEE each milestone as set out in Appendices, for approval by LICENSEE. LICNESEE will have Ten (10) business days to examine and test such Unapproved Milstone to determine in its sole discretion whether it conforms in all material respects to the design document provided by LICENSOR, and in the case of the Gold Master, whether it is complete and free from material error. On or before the Tenth day after delivery, LICENSEE will notify LICENSOR in writing of LICENSEE’s acceptance or rejection of the Unapproved Deliverable. In the event LICENSEE fails to provide LICENSOR with such written notification within Ten (10) days of the date of delivery of an Unapproved Deliverable, LICENSEE shall be deemed to have approved such Unapproved Deliverable. In the event of a rejection, LICENSOR will use its best efforts to correct the
+deficiencies (including, without limitation, any material bugs and deficiencies that affect game play and/or compatibility) and will resubmit such Unapproved Deliverable, as corrected, as soon as reasonably practicable following LICENSEE’s rejection. LICENSEE will either accept or reject the corrected Unapproved Deliverables based upon the Acceptance Criteria. This procedure will continue until LICENSEE either (i) accepts the Unapproved Deliverable or (ii) elects to terminate this Agreement for material breach.
+
+
+
+
+
+
+
+
+
+
+
+
+Article 5.
+
+Localisation
+
+
+
+
+
+
+
+
+
+
+
+
+5.1
+
+LICENSOR shall send Gold Master Candidate for testing to LICENSEE for final approval.
+
+
+
+
+The final approved version with the Gold Master is the version of the Product to be used to manufacture and publish in the Territory.
+
+
+
+
+
+
+
+5.2
+
+LICENSOR shall also provide the Localisation Artwork materials in English language to the LICENSEE. LICENSEE is responsible for the DTP and manufacturing of packaging, manual and CD label in the Language. The final version of localised manual is LICENSEE´s responsibility. LICENSEE will provide LICENSOR with localised packaging, manual cover and CD label for approval.
+
+
+
+
+
+
+
+
+
+5.3
+
+LICENSEE acknowledges and agrees that the LICENSOR is the owner of the Localized materials such as localized content (translation or/and recordings), packaging and printed manuals for the Licensed Products. LICENSEE recognizes and accepts that such translation and/or recordings shall not be used by LICENSEE without LICENSOR´s approval.
+
+
+
+
+
+
+
+
+
+
+
+
+Article 6.
+
+Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+6.1
+
+LICENSEE shall prepare a Marketing Plan for each Product(s) to be released in the Territory. LICENSEE shall provide Marlketing Plan to LICENSEOR.
+
+
+
+
+
+
+
+
+
+6.2
+
+LICENSEE shall use its reasonable commercial efforts to market the Product(s).
+
+
+
+
+
+
+
+
+
+6.3
+
+LICENSEE shall pay all marketing costs and shall receive prior written approval on the activities for each Marketing campaign  in the Territory from LICENSOR. LICENSEE shall be responsible for all PR.
+
+
+
+
+
+
+
+
+
+6.4
+
+LICENSEE guarantees to spend minimum percentage of its revenues in marketing of each Product, as specified in Appendices.
+
+
+
+
+
+
+
+
+
+6.5
+
+Copyright and Trademark Notices. LICENSEE shall display the copyright and trademark notices as provided by LICENSOR on all advertising for the Product(s) and other related materials.
+
+
+
+
+
+
+
+
+
+6.6
+
+LICENSOR’s Approval Rights . LICENSEE shall be required to submit to LICENSOR, and LICENSOR shall have the right to review and approve (at its sole discretion) prior to manufacture in production, quantities and prior to dissemination, all creative,marketing and promotional materials for the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product(s). Licensor will have Seven (7) business days to approve or disaaprove such creative,marketing and promotional materials for the Product(s). On or before the Seventh day after delivery, LICENSOR will notify LICENSEE in writing of LICENSORs’s acceptance or rejection of the Unapproved creative,marketing and promotional materials. In the event LICENSOR fails to provide LICENSEE with such notifiation within Seven (7) days of the date of delivery of an unapproved  creative,marketing and promotional materials, LICENSEE shall be deemed to have approved such unapproved creative,marketing and promotional materials. In the event of rejection, LICENSEE will use its best efforts to correct the deficiencies. LICENSEE further agrees to furnish to LICENSOR for its prior approval as to acceptable standards of quality samples of the following :
+
+
+
+
+a)
+
+LICENSEE´s use of Trademarks, copyrights and credits in connection with the Product(s) in the Territory; and
+
+
+
+
+All creative, promotional and publicity materials for the Product(s
+
+
+
+
+
+
+
+6.7
+
+Marketing and PR Package. On the fiftenth (15th) day of each quarter ending during the Term, LICENSEE shall provide to LICENSOR a monthly  marketing package for the Territory that includes samples of advertisements, reviews, press clippings, promotions, photos of store window displays, videos, and all other printed marketing materials featuring LICENSOR´s Product(s), report of the marketing spent per Product, and summary from LICENSEE’s public relations department (or its outside public relations agency) outlining all public relations activities involving LICENSORs Products. LICENSEE agrees to cooperate with LICENSOR´s public relations department in connection with any public relations activities undertaken by LICENSOR in the Territory.
+
+
+
+
+
+
+
+6.8        LICENSEE shall be entitled to distribute or have distributed two hundred and fifty (250) Product units on a promotional basis without payment of any Royalty therefore. Of such promotional units, LICENSOR shall be entitled to fifty (50) units.
+
+
+
+
+
+
+
+Article 7.
+
+Quality Control Of The Product
+
+
+
+
+
+
+
+The quallity of the Product’s maunal, CD and packaging which includes Trademarks shall be in full conformance with applicable laws and regulations.
+
+
+
+
+
+
+
+Article 8.
+
+Quantities Manufactured
+
+
+
+
+
+
+
+8.1        LICENSEE is entitled to have the units of the Product (s) manufactured by a third party  (the “Manufacturer”) as its own costs and risks.
+
+
+
+
+
+Manufactured units. Each time LICENSEE wants to manufacture quantities of the Product ,LICENSEE shall inform LICENSOR in writting about number of units manufactured.
+
+
+
+
+
+
+
+
+
+
+Article 9.
+
+Indication of the right
+
+
+
+
+
+
+
+LICENSEE undertakes to affix upon all Materials including but not limited to advertising of the Product(s) the name and logo of the LICENSOR in the same size of those of LICENSEE, and that the Product (s) is based on the rights granted hereby to LICENSEE. Other logos to appear on the packaging materials and/or any advertising materials, are defined in Appendices. LICENSEE will include LICENSOR copyright, trademark and other proprietary notices in the Products, as necessary to preserve the rights of the LICENSOR and other owners of rights such as developers of each Product(s) in the Territory and any other mention (s) requested by LICENSOR as reasonably requested by LICENSOR. LICENSEE shall have to request in writing and obtain LICENSOR’s prior written approval to such material’s use.
+
+
+
+
+
+All Trademarks, service marks, trade names, logos or other words or symbols identifying the Product(s) (“the Trade Marks”) and LICENSOR business (“the Trade Names”) are and will remain the exclusive property of LICENSOR whether or not specifically recognized or perfected under the laws of the Territory. LICENSEE will not make any registration using LICENSOR name or mark.
+
+
+
+
+
+LICENSEE acknowledges that all property rights included in the Products and any materials in relation thereto or in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relation to this Agreement provided by LICENSOR but without limitation including all Intellectual Property Rights are the sole ownership of Licensor and Licensee further acknowledges that no rights of such nature are granted to Licensee under this Agreement. All translation of the Licensed Products and any intellectual properties with respect to the Licensed Products, such as localized content, packaging and printed manuals for the Licensed Products,  made by LICENSEE or by LICENSEE together with LICENSOR shall be automatically assigned to LICENSOR and remain sole property of LICENSOR.
+
+
+
+
+
+In any event, LICENSEE shall remove from, or obscure upon any Product(s), any LICENSOR’s labels, mentions, reference or note without the prior consent of LICENSOR.
+
+
+LICENSEE undertakes to protect LICENSOR’s trademark(s) and any other trademark(s) belonging to or use by LICENSOR in the Territory.
+
+
+LICENSEE undertakes, immediately upon the expiration or earlier termination of the Agreement, to discontinue all and any use of such trademarks and of any trademark bearing a graphic or phonetic resemblance thereto.
+
+
+
+
+
+
+
+
+
+
+Article 10.
+
+Licensee´s other obligations and prohibitions
+
+
+
+
+
+
+
+LICENSEE undertakes to LICENSOR:
+
+
+
+
+
+(a)         to use commercially reasonable efforts to create, meet and expand the market for the Product (s) and in this connection to supply, promote and publicize the Product (s)
+
+
+(b)         not to promote, directly or indirectly, the sale of the Product (s) outside the Territory, nor to seek customers outside the Territoryor establish a branch or maintain a distribution depot for Product (s) outside the Territory.
+
+
+
+
+For this propose , LICENSEE undertakes :
+
+
+
+
+- not to knowingly sell any Product (s) to third parties for distribution outside the Territory;
+
+
+
+
+- to insert in agreements concluded with sub-licencees (if any) provisions preventing distribution of the Product(s) outside the Territory; and
+
+
+
+
+(c)
+
+not to manufacture, sell or distribute Products on any platform other than the Licensed platform ;
+
+
+
+
+(d) not to modify, reverse engineer or decompile the Products ;
+
+
+(e)to provide end users with technical support for all Product(s) (as hereinafter described in Article 11 distributed in the Territory, such support being provided in the same conditions and quality as the support provided by LICENSEE for its own products, and ;
+
+
+to pay any sales, use, exercise, import or export, value added or similar tax or duty, including penalty interests and all governmental permit licenses, customs or other arising upon the delivery and/or distribution of the Product(s) under this Agreement (The “Taxes). LICENSEE shall make no deduction from any amount to LICENSOR for any Taxes [except as set forth in Appendices of this Agreement]. LICENSEE agrees to provide LICENSOR with appropriate information and/or documentation satisfactory to the applicable taxing authorities to substantiate any claim of exemption from any Taxes.
+
+
+
+
+
+
+
+Article 11.
+
+Technical Assistance
+
+
+
+
+
+
+
+LICENSOR shall, upon request from the LICENSEE, use reasonable efforts to reply to LICENSEE´s questions in connection with the Product (s) and give reasonable technical assistance to LICENSEE.
+
+
+
+
+
+LICENSEE shall set up and maintain at its own expense and in the Language a web suppport accesable throughout the Territory in order to provide the necessary assistance for proper use of Localized Peoducts(s) to users thereof.
+
+
+LICENSOR shall, For a period of one (1) year after first commercial sale of the Product, continue to fix any bugs that materially affect the Product or game play.
+
+
+
+
+
+
+
+
+
+
+Article 12.
+
+Infringement
+
+
+
+
+
+
+
+In the event that either party hereto discovers that a third party infrignes the rights granted hereunder, the party shall give notice to the other party within ten (10) days after the discovery and the party shall discuss the countermeasures etc. that are necessary. Each   party hereto shall be entitled to have the right to file and lawsuit at such party´s absolute discretion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Licencee shall also notify LICENSOR in writing of any claim made or proceeding initiated against LICENSOR or LICENSEE involving the Product(s) within five (5) days after LICENSEE is informed of such claim or proceeding.
+
+
+
+
+
+
+
+Article 13.
+
+Compilance With Law
+
+
+
+
+
+
+
+LICENSEE represents and warrants that :
+
+
+
+
+
+
+
+a)
+
+LICENSEE shall comply with all applicable, local and national laws and regulations; and
+
+
+b)
+
+The Agreement and all of its terms are in full compliance with such laws; and
+
+
+
+
+
+
+
+c)
+
+It shall not act in any fashion or take any action, which will render LICENSOR, its parents, subsidiaries or affiliates, liable for violation of such laws.
+
+
+
+
+
+
+
+
+
+
+
+
+Article 14.
+
+Confidentiality
+
+
+
+
+
+
+
+14.1. Each party hereto shall not disclose the confidential information received from the other party in connection herewith without the other party’s prior written approval.
+
+
+
+
+
+14.2. The following information shall not be included in the confidential information :
+
+
+
+
+
+
+
+(a)
+
+information which at the time of disclosure is in the public domain or after disclosure becomes part of the public domain on account of reason not attributable to the receiving party ;
+
+
+(b)
+
+the information which at the time of disclosure is possessed by the receiving party , or after disclosure is legally acquired from a third party who has the right to disclose the information ; and
+
+
+(c)
+
+the information, which is developed by the receiving party independently of the disclosure by the disclosing party.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 15.
+
+Termination Of The Agreement
+
+
+
+
+
+
+
+
+
+15.1
+
+Either party may terminate this Agreement by written notice to the other party in the event that the other party fails to comply with any material term of this agreement and such breach shall not be corrected within  thirty (30) days after written notice is given by the terminating party complaining of such breach by the other party. For the avoidance of doubt, any failure by the LICENSEE to pay the LICENSOR any sum due under this Agreement or breach of the Article 4.2, 4.6 would be a material breach of this Agreement. Moreover, cure of a breach under this agreement will not discharge any claims for damages by the non-breaching party or parties. If there are conditions for terminating of this Agreement according to this clause, LICENSOR may at its own discretion ex parte cancel an exclusivity of this Agreement by written notice. For the avoidance of doubt LICENSOR
+may cancel an exclusivity without termination of this Agreement.
+
+
+
+
+
+
+
+
+
+15.2
+
+Either Party may immediately terminate the agreement in writing where one or more of the following occur :
+
+
+
+
+
+
+
+
+
+(a)
+
+appointment of a trustee or receiver for all or any of the assets of the other party ;
+
+
+(b)
+
+insolvency or bankruptcy of the other party ;
+
+
+
+
+(c)
+
+assignment of the other party for the benefit of creditor ;
+
+
+
+
+(d)
+
+attachment of the assets of the other party ;
+
+
+
+
+(e)
+
+expropriation of substantially all of the assets of the other party ; or
+
+
+
+
+(f)
+
+dissolution or liquidation of the other party.
+
+
+
+
+
+
+
+
+
+
+If either party is involved in any event enumerated in paragraph (a) through paragraph (f) above, such party shall notify the other immediately, in writing via registered mail, of the occurrence of such event.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 16.
+
+EFFECT OF TERMINATION
+
+
+
+
+
+
+
+Upon termination by LICENSOR for LICENSEE’s failure, all outstanding invoices will become immediately due and payable.
+
+
+
+
+
+LICENSEE will be authorized to distribute ,non-exclusively, under the terms, conditions and restrictions of the Agreement, for up to one-hundred and eighty (180) days (“Sell-off Period) after such termination or expiration, all units of Product(s) in LICENSEE’s inventory at the date of termination or expiration.  I have to be able to liquidate at my discretion. I don’t mind giving Cenega the first option to buy the product to protect the price point.
+
+
+
+
+
+Rights recovered
+
+
+Immediately upon termination or expiration, rights granted herein will cease except to the extent necessary for LICENSEE to sell-off its inventory as permitted hereinabove.
+
+
+
+
+
+Materials
+
+
+Immediately upon termination or expiration, LICENSEE undertakes to send back the Materials and/or Master and undertakes not to keep any copy of them.
+
+
+
+
+
+
+
+
+
+
+Article 17.
+
+INDEMNIFICATION
+
+
+
+
+
+
+
+In the event that one party hereto causes damages to the other party on account of the party violation hereof, the party shall indemnify the other party for such damage.
+
+
+
+
+
+
+
+Article 18.
+
+MISCELLANEOUS
+
+
+
+
+
+
+
+
+
+18.1
+
+Force Majeure
+
+
+
+
+
+
+
+
+
+18.1.1
+
+In the event that any of the Parties is affected by any circumstances beyond the reasonable control of such Party, hereinafter referred to as “force majeure” as more fully defined by the applicable  law, it shall forthwith notify the other Party of the nature and extent of the force majeure.
+
+
+18.1.2
+
+No Party shall be deemed to be in breach of this Agreement or otherwise liable to any other Party by reason of any delay in performance or non-performance of any of its obligations hereunder to the extent that such delay in performance or non-performance is due to any force majeure of which it has notified the other Parties and the time for performance of that obligation shall be extended accordingly.
+
+
+
+
+In the event that force majeure prevails for a continuous period in excess of ten (10) days from the notification date pursuant to this Article, then the Parties shall enter into good faith discussions with a view to alleviating its effects, or to agreeing upon such alternative arrangements as may be fair and reasonable.
+
+
+18.1.3   LICENSEE realizes that Product(s) are still in development process and LICENSOR shall inform LICENSEE in writing if at any time prior to the Release Date of any of the Product(s) LICENSOR is made incapable of delivering any of the Product(s) in accordance with the terms of this Agreement for a reason which is wholly out of its control (such as but not limited to the cancellation or late performance of development of any of the Product(s) by their developers). In such circumstances the Parties shall be entitled to treat this Agreement as frustrated in respect of each or any of the Product(s)s concerned and no payment due related to such a cancelled Product(s) under the terms of this Agreement will be required to be paid by either of the Parties to the other except for the repayment of all Royalties Advance already paid by LICENSEE to LICENSOR in accordance with the
+point 3.1.of this Agreement. In the event the Product is cancelled, LICENSOR shall repay all royalty advances within 15 days of notification and or cancellation of the Product.
+
+
+
+
+18.2
+
+Assignment
+
+
+
+
+
+
+
+This Agreement shall be binding and shall inure to the benefit of the parties hereto and their permitted assigns, except that neither this Agreement nor Licensee’s rights or obligations hereunder shall be assigned or transferred by Licensee without the prior consent of Licensor and any attempted assignment without such consent shall be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void ab initio and of no force and effect; provided, however, that no consent shall be necessary from Licensor in the event of an assignment to a successor entity resulting from a merger, acquisition or consolidation by Licensee or assignment to an entity under common Control with, Controlled by or in Control of Licensee. “Control” means any person or entity that, directly or indirectly, (i) owns more than  50% of the outstanding voting securities or equity interest in an other entity.
+
+
+
+
+
+
+
+
+
+
+18.3
+
+Notices
+
+
+
+
+
+
+
+All notices, requests, demands and other communications made in connection herewith shall be in writing and delivered in person or sent by fax or by certified or registered mail, postage prepaid and shall be deemed to have duly given on the date of delivery, if delivered to the persons identified below, or one (1) day after the faxing if faxed or ten (10) days after the mailing was sent if mailed, addressed as follows :
+
+
+
+
+
+
+
+
+
+
+(a)
+
+If to Licensor:
+
+
+
+
+CENEGA PUBLISHING
+
+
+
+
+
+Naskové 3
+
+
+150 00 Prague 5
+
+
+Czech Republic
+
+
+Attention: Mr. Martin Valkovic
+
+
+Fax: +420 2 57210384
+
+
+
+
+
+
+
+
+
+
+(b)
+
+If to Licensee :
+
+
+
+
+
+
+
+
+
+
+2WG, LLC
+
+
+4975 Preston Park Blvd. #775
+
+
+Plano,
+
+
+TX  75093,
+
+
+Texas, USA
+
+
+
+
+
+Attention: Mr.Robert Westmoreland
+
+
+Fax:
+
+
+
+
+
+
+
+
+
+
+18.4
+
+Governing Law and Governing Language
+
+
+
+
+
+
+
+This Agreement is governed by the applicable laws of the State of Texas.
+
+
+This Agreement shall be signed in English language.
+
+
+
+
+
+
+
+
+
+
+18.5
+
+Entire Agreement
+
+
+
+
+
+
+
+This Agreement shall constitute the entire and sole agreement between the parties hereto with respect to the subject matter hereof, and supersedes all prior agreements or understandings relating hereto, and may not be changed, modified or altered without the written consent of both parties.
+
+
+
+
+
+
+
+
+
+
+18.6
+
+ETA Release
+
+
+
+
+LICENSOR will make all reasonable steps to ensure ETA release date simultaneously with intenational launch of the titles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18.7
+
+Signature
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, each of the Parties hereto has caused this Agreement to be executed in duplicate by its duly authorized officers or representatives as of the date first above written.
+
+
+
+
+
+
+
+
+
+
+Signed on behalf :
+
+Signed on behalf :
+
+
+LICENSOR:
+
+LICENSEE :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature
+
+Signature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name:Martin Valkovi
+
+Name :  Robert Westmoreland
+
+
+Position:Executive Head
+
+Position : CEO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX  A
+
+
+
+
+
+
+
+
+THE PRODUCT (S) :
+
+
+
+
+
+
+
+
+
+
+PRODUCT (S)
+
+PLATFORM
+
+LANGUAGE
+
+PACK AND MANUAL
+
+LANGUAGE
+
+IN GAME TEXTS
+
+LANGUAGE
+
+IN GAME VOICES, LANGUAGE
+
+
+EL MATADOR
+
+PC CD
+
+ENGLISH
+
+ENGLISH
+
+ENGLISH
+
+ENGLISH
+
+
+
+
+
+
+
+
+
+
+TERRITORY :
+
+
+
+
+
+North America
+
+
+
+
+
+DISTRIBUTION CHANNELS :
+
+
+
+
+
+Traditional Retail Channels, OEM,bundle exclusively
+
+
+Broadband,digital distribution non-exclusively
+
+
+
+
+
+TERM:
+
+
+
+
+
+This Agreement shall be effective for a term of five (5) years  from the Effective Date hereof, and should automatically expire thereafter. If both parties agree on conditions for extending the Term , new Appendix will be signed.
+
+
+
+
+
+MINIMUM MARKETING EXPENDITURE :
+
+
+
+
+
+10%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAYMENT TERMS AND CONDITIONS:
+
+
+
+
+
+ROYALTIES ADVANCE:
+
+
+
+
+
+
+
+PRODUCT(S)
+
+PLATFORM
+
+Quantities Committed
+
+Royalty
+
+Non refundable advance USD
+
+
+EL MATADOR
+
+PC CD
+
+
+
+0% from Net Revenue
+
+0
+
+
+Total in USD of a non refundable advance
+
+
+
+
+
+
+
+$               0
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+
+
+
+
+0USD Payment at  signature of the Agreement
+
+
+
+
+0USD Payment at acceptance of Alpha Build
+
+
+
+
+0USD Payment at acceptance of Beta Build
+
+
+
+
+0USD Payment at acceptance of Release Candidate Build
+
+
+0USD Payment at acceptance of Gold Master Candidate
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment after Royalty advance is paid
+
+
+
+
+
+100% of the value reported as per the Royalty report Royalties earned hereunder will be accrued quarterly and paid in United States dollars within thirty (30) days following the last day of January, April, July and October.
+
+
+
+
+
+REPORTING PROCESS
+
+
+
+
+
+Sales Report
+
+
+
+
+
+
+
+Period
+
+Territory
+
+Product
+
+Platform
+
+Units sold into retail
+
+Units returned
+
+Units Sold through
+
+Release Date
+
+Total units sold since release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manufacturing Report
+
+
+
+
+
+
+
+
+
+
+Period
+
+Territory
+
+Product
+
+Platform
+
+Release Date
+
+Units Manufactured
+
+Total units manufactured since release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stock Report
+
+
+
+
+
+
+
+Date
+
+Territory
+
+Product
+
+Platform
+
+Release Date
+
+Units on stock
+
+Estimated units in retail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCRYPTION :
+
+
+Starforce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COPYRIGHTS :
+
+
+
+
+
+EL MATADOR
+
+
+© 2005 CENEGA PUBLISHING.
+
+
+Other produicts and company names mentioned herein maybe trademarks of their respective owners. Developed by Plastic Reality Technologies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 10.20
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement is entered into on August 1, 1997 by and between Duke
+University, a North Carolina educational institution located in Durham, North
+Carolina ("Duke"), and Vital Images, Inc., a corporation with its principal
+place of business at 3100 West Lake Street, Minneapolis, Minnesota ("Licensee").
+
+
+
+1. Definition of Terms.
+
+a) Licensed Software. The term "Licensed Software" means software identified
+as the DICOM Client Library as described in detail in Exhibit A, and any
+subsequent Updates and Enhancements thereto furnished to Licensee by Duke
+under this Agreement. "Licensed Software" does not include Source Code or
+Server Software, as defined below, except as explicitly stated in this
+agreement.
+
+b) Source Code. The term "Source Code" means the source code to be delivered
+by Duke pursuant to this Agreement which corresponds to the Licensed
+Software, and will allow Licensee to produce the compiled version of the
+Licensed Software.
+
+c) Server Software. The term "Server Software" means software provided by
+Duke whose primary function is to manage, store and transmit images under
+DICOM standards on central servers, routers or archive systems, but shall
+not include any software provided by Duke that is necessary for Licensee
+to exercise its rights to use, market, distribute and sell Licensed
+Software in accordance with this Agreement.
+
+d) Field. The term "Field" shall mean the display of medical imaging data on
+computer workstations, including but not limited to research, development,
+marketing, sales, maintenance and support of software and hardware
+products for the visualization of medical imaging data. Field shall not
+include medical image management, storage or transmission on central
+servers, routers or archive systems or products and systems whose primary
+function is to provide such management, storage or transmission.
+
+e) Licensed Products. The term "Licensed Products" shall mean products for
+use in the Field, which incorporate the Licensed Software to which
+Licensee has acquired commercial rights through this Agreement, developed
+either through its own internal efforts, or from third parties, such as
+but not limited to, through development agreements with other companies.
+
+f) Documentation. The term "Documentation" means any support material
+supplied by Duke with the Licensed Software or Source Code which describes
+the operation or structure of the Licensed Software or Source Code, the
+design, testing and other aspects of the Licensed Software or Source Code,
+or tells how to install and use the Licensed Software or Source Code.
+
+g) Updates. The term "Updates" means all bug fixes, changes, modifications,
+and improvements to the Licensed Software which affect its operating
+performance or efficiency, but which do not alter the basic functions
+described in Exhibit A.
+
+h) Enhancements. The term "Enhancements" means all changes and additions to
+the Licensed Software which render it capable of performing additional
+basic functions in the Field that were not provided by the Licensed
+Software originally supplied under this Agreement.
+
+2. License Grant. Duke grants to Licensee a fully paid-up, non-exclusive,
+world-wide license to use, market, distribute and sell Licensed Software
+incorporated into Licensed Products.
+
+3. Limited Rights to Source Code. Duke grants to Licensee a limited, fully paid-
+up, non-exclusive license to the Source Code upon which the Licensed Software
+is based solely for Licensee's internal use in making Updates and
+Enhancements to the Licensed Software. Licensee shall not have the right to
+sell, license, disclose, or
+1
+<PAGE>
+
+otherwise distribute the Source code to others, or to use the Source Code to
+develop or design products outside the Field.
+
+4.  Limited Rights to Server Software. Duke grants to Licensee a limited, fully
+paid-up, non-exclusive license to the Server Software solely for Licensee's
+internal use in developing, evaluating and testing Licensed Software and
+Source Code. Licensee shall not have the right to sell, license, disclose,
+or otherwise distribute the Server Software to others, to use it as the
+basis for new products, or to include the Server Software in Licensee's
+products.
+
+5.  Royalty payment. Licensee agrees to pay Duke a single royalty payment of
+seventy five thousand dollars ($75,000), which payment shall be due thirty
+(30) days after delivery of Source Code to Licensee.
+
+6.  Sublicenses. The Licensee may not grant sublicenses to the Licensed
+Software, except that Licensee may grant sublicenses to third parties in
+connection with its normal business of developing, marketing, distributing,
+supporting, and selling Licensed Products, including conducting such
+activities through direct sales channels, indirect sales channels (dealers
+and distributors), and OEM's. Licensee may not grant sublicenses of any type
+to Source Code.
+
+7.  Right to Copy Licensed Software and Documentation. Licensee may make such
+copies of the Licensed Software and Documentation as are necessary for its
+sales, marketing and development purposes so long as such use does not
+violate the Confidentiality provisions of this Agreement.
+
+8.  Delivery.Licensee acknowledges that it has already received the Licensed
+Software, Server Software and Documentation in an acceptable form. The
+Source Code shall be delivered to Licensee within ____ days of the date of
+this Agreement.
+
+9.  Term. The licenses granted to Vital Images herein, and the other rights and
+obligations of the parties under this Agreement, shall commence on date of
+this Agreement, and shall continue indefinitely unless terminated under the
+provisions of Article 24 of this Agreement.
+
+10. Due Diligence. The Licensee shall use commercially reasonable efforts to
+bring products to market which incorporate the Licensed Software, and to
+pursue required government approvals. During the term of this Agreement,
+Licensee will maintain an active program of developing, marketing,
+maintaining, selling, licensing or servicing Licensed Products. If during
+the term of this Agreement, Licensee shall cease to actively support,
+maintain, market, or sell Licensed Products, then the Licensee will be
+considered to have breached this Agreement, and such breach shall be grounds
+for termination as provided in Article 24 of this Agreement.
+
+11. Taxes. Licensee shall pay all taxes (local, state and federal), including
+all sales and use taxes, which may now or hereafter be imposed upon this
+license, or the possession or use of the Licensed Software; provided,
+however, that Duke shall be responsible for any income tax liability
+incurred by Duke for royalties or other income received by Duke under this
+Agreement.
+
+12. Ownershipof Software. Duke represents that it is the sole and exclusive
+owner of the Licensed Software, Server Software, Source Code, and the
+Documentation. Licensee acknowledges that it has no rights in the Licensed
+Software, Server Software, Source Code or Documentation except those
+expressly granted by this Agreement, and that the Licensed Software, Server
+Software, Source Code and Documentation shall not be used in any way not
+specifically allowed by this Agreement. Duke acknowledges that any Upgrades
+and Enhancements made by Licensee are the property of Licensee, and that
+Duke's rights to such Upgrades or Enhancements are limited to those rights
+granted in Article 15 of this Agreement. Licensee acknowledges that any
+Upgrades and Enhancements made by Duke are the property of Duke, and that
+Licensee's rights to such Upgrades or Enhancements are limited to those
+rights granted in Articles 13 and 14 of this Agreement.
+
+13. Software Updates and Enhancements. If Duke releases any Updates or
+Enhancements to the Licensed Software during the first year of this License,
+then those Updates or Enhancements, and associated revised Source Code, will
+be furnished to Licensee at no additional cost. Thereafter, Duke will
+continue to furnish any Updates or Enhancements released for a reasonable
+fee to be negotiated in good faith. Duke's obligation to provide Updates and
+Enhancements shall be subject to any restrictions placed upon Duke by its
+obligations to others.
+
+2
+<PAGE>
+
+14. Requests for Updates and Enhancements. Licensee may from time to time, and
+at its option, find it desirable to ask Duke to develop Updates or
+Enhancements to the Licensed Software. Upon receiving such request, Duke
+will provide Licensee with timelines and a budget for doing the work. If
+Licensee accepts Duke's proposal, then Duke will proceed to develop,
+evaluate and document the necessary modifications to the Licensed Software,
+and Licensee will reimburse Duke for all direct and indirect costs incurred
+in the performance of that research. Updates or Enhancements developed by
+Duke with Licensee's funding will be incorporated into this Agreement
+without additional fee from Licensee, unless otherwise agreed by the
+parties, and Duke will provide the Licensee with the Source code associated
+with such Updates or Enhancements.
+
+15. Licensee Updates and Enhancements. Licensee shall have the right to modify
+the Licensed Software and Source Code in order to make Updates or
+Enhancements for use in Licensed Products. Licensee shall provide Duke with
+copies of all such Updates and Enhancements to the Licensed Software
+including associated revised Source Code. Duke is hereby granted a paid-up,
+royalty free, non-exclusive license to use Licensee Updates and to
+incorporate them into software for its own internal purposes or in software
+which it may license to others. Duke is hereby granted a paid-up, royalty
+free, non-exclusive license to use Licensee Enhancements for its own
+internal purposes and to incorporate them into software for such internal
+purposes only. Duke may not provide Licensee Enhancements to third parties
+without the written consent of Licensee which may include compensation to
+Licensee. Licensee's obligation to provide Updates and Enhancements to Duke
+shall be subject to any restrictions placed upon Licensee by its obligations
+to others. Updates and Enhancements provided by Licensee to Duke will be
+provided to Duke without any representations or warranties as to the
+performance or safety of the Updates and Enhancements.
+
+16. Confidential Information. "CONFIDENTIAL INFORMATION" will mean all
+information provided by one party to the other and clearly identified as
+"Confidential" by the transmitting party at the time of disclosure,
+including the terms of this agreement. If such transmittal occurs orally,
+the transmitting party will promptly reduce such transmittal in writing,
+mark and identify it as confidential, and promptly provide such record to
+the other party. Specifically excepted from this is all information that:
+(a) was previously known by the receiving party; (b) is publicly disclosed
+except by breach of this AGREEMENT either prior to or subsequent to the
+receiving party's receipt of such information; (c) is rightfully received by
+the receiving party without an express obligation of confidence; (d) is
+documented by contemporaneous, written records to have been independently
+developed by personnel of either party without use of CONFIDENTIAL
+INFORMATION provided by the other; or (e) is disclosed pursuant to any
+judicial or government request, requirement or order, provided that the
+disclosing party takes reasonable steps to provide the other party with
+sufficient prior notice in order to allow the other party to contest such
+request, requirement or order. The recipient of CONFIDENTIAL INFORMATION
+will exert its reasonable best efforts to protect the confidential nature of
+the information and will not disclose it to any third party without
+authorization from the other party. This provision shall remain in effect
+for five (5) years following disclosure of any CONFIDENTIAL INFORMATION
+except in the case of Source Code which will be protected in accordance with
+Article 17 of this Agreement. Duke recognizes the need of the Company to
+provide its customers, dealers, agents and OEM's with sufficient
+documentation and information to support training, operation, development,
+marketing, selling and maintenance of the Licensed Products, and Licensee
+shall be free to provide CONFIDENTIAL INFORMATION, except Source Code, for
+such purposes after entering into a written confidentiality agreement with
+the third party containing terms at least as restrictive as those in this
+provision. Duke acknowledges that Licensed Software and the user and
+maintenance instructions for the Licensed Software are not CONFIDENTIAL
+INFORMATION except for those portions of the Documentation that Duke has
+explicitly indicated to be Confidential.
+
+17. Confidentiality of Source Code. Licensee acknowledges Duke's claim that the
+Source Code is a valuable confidential property of Duke and is an
+unpublished works on which Duke holds the sole and exclusive copyright.
+Licensee agrees to maintain and protect the confidentiality of the Source
+Code and not to disclose it or use it for any purpose not contemplated by
+this Agreement. Licensee agrees to formulate and adopt appropriate
+safeguards, in light of its own operating activities, including, but not
+limited to, a) limiting access to only those employees actively involved in
+making Updates or Enhancements to the Licensed Software as allowed by this
+Agreement, b) making no more copies of the source code than strictly
+necessary for such activities, c) maintaining documentation of those who
+have access to the source code, d) not using the source code for any purpose
+other than making Updates or Enhancements for incorporation into Licensed
+Products as allowed by this Agreement, and e) instituting such other
+measures as Licensee would take to protect it's own proprietary information.
+Notwithstanding the provisions of Article 3 of this Agreement,
+3
+<PAGE>
+
+Licensee may, on a need-to-know basis and only as necessary for Licensee's
+internal development purposes or as may be required for regulatory approval
+for Licensed Products, disclose portions of the Source Code to its
+consultants who have entered into written confidentiality agreements with
+Licensee containing provisions at least as restrictive as those in this
+Agreement. Licensee shall immediately notify Duke of any information which
+comes to its attention which indicates that there has been any loss of
+confidentiality of the Source Code and immediately take steps to rectify
+such loss.
+
+18. Copyright Notices. Licensee shall include Duke's copyright, and
+confidentiality notices on all of its copies of the Licensed Software and
+Source Code, and on all tangible media, such as tapes, disks, or diskettes,
+upon which such copies are stored, in a manner consistent with notices on
+materials received from Duke. Licensee shall include appropriate notices on
+Licensed Products to protect the copyright in the Licensed Software
+incorporated therein.
+
+19. Installation, Maintenance and Training. Duke agrees to provide reasonable
+advice to Licensee on the installation, maintenance and operation of the
+Licensed Software, and on the structure of the Source Code. Duke will have
+no obligation to provide direct user support, training or maintenance for
+the Licensed Software or Licensed Products, or to provide any programming
+services to make Updates or Enhancements to the Licensed Software.
+
+20. Warranty and Limitations.
+
+a) Licensed Software and Documentation. Licensee acknowledges that it has
+received the Licensed Software, Server Software, and Documentation (not
+including the Source Code), found it to be acceptable, and agrees not to
+make any claims against Duke based upon the performance of the Licensed
+Software, Server Software, or adequacy of the Documentation.
+
+b) Source Code. Duke warrants that the Source Code to be delivered to
+Licensee will include code necessary to compile and produce the Licensed
+Software.
+
+c) Licensee's Remedy. In the event that the Source Code fails to perform as
+warranted, as Licensee's sole and exclusive remedy, Duke shall, within a
+reasonable time, provide all reasonable programming services to
+incorporate any missing or defective functions.
+
+d) Warranty Period. This warranty shall be effective for the term of six (6)
+months after the date of this Agreement ("Warranty Period"). All claims
+must be made by Licensee within this Warranty Period.
+
+e) Conditions Voiding Warranty. This warranty shall apply only to Source
+Code that has not been modified by Licensee, and shall not apply to
+Updates or Enhancements whether made by Licensee or Duke.
+
+f) LIMITATIONS OF WARRANTY. THE FOREGOING WARRANTY IS THE ONLY WARRANTY MADE
+BY DUKE. ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, ARE EXPRESSLY DISCLAIMED. Duke does not warrant the
+usefulness, accuracy, or safety of the Licensed Software. Duke represents
+that to the best of its knowledge as of the date of this Agreement that
+the Software and technical information provided therewith does not
+infringe rights of third parties.
+
+21. Indemnification and Insurance.
+
+a) Licensee agrees to indemnify, hold harmless and defend Duke, its
+officers, trustees, employees, and agents, against any and all claims,
+suits, losses, damages, costs, fees, and expenses asserted by third
+parties, both government and non-government, resulting from or arising
+out of Licensee's use of the Licensed Software or Licensee's products
+incorporating the Licensed Software. Notwithstanding the foregoing, the
+Licensee shall not be responsible for the negligence or intentional
+wrongdoing of Duke, or for claims based upon copyright or patent
+infringement by the Licensed Software.
+
+b) Licensee shall maintain in force at its sole cost and expense, with
+reputable insurance companies, general liability insurance and products
+liability insurance coverage in an amount reasonably sufficient
+4
+<PAGE>
+
+to protect against liability under this provision. Duke shall have the
+right to ascertain from time to time that such coverage exists, such
+right to be exercised in a reasonable manner.
+
+c) Duke shall have no obligation, express or implied, to supervise, monitor,
+review or otherwise assume responsibility for the production,
+manufacture, testing, marketing or sale of any product based upon the
+Licensed Software, and Duke shall have no liability whatsoever to
+Licensee or any third parties for or on account of any injury, loss, or
+damage, of any kind or nature, sustained by, or any damage assessed or
+asserted against, or any other liability incurred by or imposed upon
+Licensee or any other person or entity, arising out of or in connection
+with or resulting from:
+
+i)   the production, use, or sale of any product based upon or
+incorporating the Licensed Software;
+
+ii)  the use of any Licensed Software, Server Software, Source Code, or
+Documentation; or
+
+iii) any advertising or other promotional activities with respect to any
+of the foregoing.
+
+Notwithstanding the foregoing, the Licensee shall not be responsible for
+the negligence or intentional wrongdoing of Duke, or for claims based
+upon copyright or patent infringement by the Licensed Software.
+
+22. Use of Name. The Licensee will not use Duke's name or the name of Duke's
+employees in advertising or publicity without Duke's prior written consent,
+such consent not to be unreasonably withheld, such as in regulatory
+disclosure requirements for the Licensee. The Licensee will not represent
+that any product is endorsed by Duke.
+
+23. Reserved Rights. Duke reserves the right to use the Licensed Software and
+Updates and Enhancements created by Duke for its own teaching, research, and
+clinical purposes, and to grant licenses to third parties. Duke reserves the
+full right to decide any matters regarding publication of results generated
+by research conducted at Duke.
+
+24. Termination. The Licensee may terminate this license by giving Duke a ninety
+(90) day notice. Duke may terminate only for cause. In the event Licensee
+breaches any of the material terms of this Agreement including those of
+Confidentiality, Duke may, at any time thereafter, give written notice of
+the breach to Licensee, and demand that the same be cured. In the event that
+such breach is not cured within ninety (90) days after notice, this
+Agreement shall terminate after a Transition Period. Notwithstanding the
+foregoing, in the event Licensee breaches any of its material obligations
+regarding protection of the Source Code, Duke, in addition to all other
+legal remedies available, shall have the right to give immediate notice of
+termination which shall be effective after a Transition Period. In the event
+of termination due to breach by Licensee, Duke shall grant Licensee a six
+month "Termination Period" during which Licensee's rights under this
+agreement will continue for the purpose of allowing Licensee to seek a
+replacement for the Licensed Software and to transition its customer base to
+a new product. This Agreement shall terminate immediately after the
+Termination Period. Not withstanding the foregoing, this Agreement shall
+immediately terminate upon the dissolution or liquidation of Licensee, or if
+Licensee shall cease to exist as an active business except in connection
+with a business combination of Licensee and assignment of this Agreement in
+accordance with Article 26 of this Agreement.
+
+25. Events Upon Termination. Upon the termination of this Agreement, Licensee
+agrees to immediately terminate its use of the Licensed Software, Server
+Software and Documentation, and to return to Duke all copies of the Source
+Code, Server Software and Documentation. Licensee shall thereafter make no
+further use of the Licensed Software, Server Software, Documentation, or
+Source Code. Notwithstanding the foregoing, Termination shall not affect the
+rights of Licensee's customers to continue to use Licensed Software
+incorporated into Licensed Products sold or licensed by Licensee prior to
+the date of Termination. Licensee may retain one copy of the Licensed
+Software and Documentation related thereto for the sole purpose of providing
+support to these customers. Termination of this Agreement shall not relieve
+either party of the obligations arising hereunder before termination,
+including the responsibility for paying previously accrued licensee fees and
+the responsibility for not disclosing the Source Code or Confidential
+Information.
+
+26. Assignment. This Agreement may not be assigned by Licensee to any other
+person, firm, or corporation without the express written approval of Duke
+which will not be unreasonably withheld. Notwithstanding the
+5
+<PAGE>
+foregoing, Licensee may assign this Agreement to it's wholly owned
+subsidiaries or in connection with a business combination of the Licensee by
+or with a third party whether by merger, consolidation, sale of assets, or
+otherwise, without consent of Duke. Subject to the foregoing, this Agreement
+will inure to the benefit of and be binding upon the successors and assigns
+of the parties.
+
+27. Exportation of Technical Information. This license agreement is subject to
+all of the United States laws and regulations controlling the export of
+technical data, computer software, laboratory prototypes and other
+commodities and technology and Licensee shall be responsible for adhering to
+all such laws and regulations.
+
+28. Entire Agreement. The parties have read this Agreement and agree to be bound
+by its terms, and further agree that it constitutes the entire and exclusive
+agreement of the parties and supersedes all previous communications,
+representations, or agreements, either oral or written, between them. No
+representations or statements of any kind made by any representative of Duke
+which are not stated herein shall be binding on Duke.
+
+29. All Amendments in Writing. Any modification or addition to any provision of
+this Agreement must be agreed to in writing by a duly authorized
+representative of each party.
+
+30. Governing Law. This Agreement will be governed by and construed in
+accordance with the laws of the State of North Carolina.
+
+WHEREFORE, the parties hereto have authorized their officers or representatives
+to execute this agreement as of the date and year first above written.
+
+
+DUKE UNIVERSITY                                LICENSEE: Vital Images, Inc.
+
+By:/S/ ROBERT L. TABER                        By:/S/ ANDREW M. WEISS
+Robert L. Taber, Ph.D.                        Andrew Weiss
+Associate Vice Chancellor                     President
+Director, Office of Science
+and Technology
+
+6
+<PAGE>
+
+EXHIBIT A:  DICOM CLIENT LIBRARY
+
+The Client DICOM Library consists of a group of routines available to
+application programmers. It provides the functions needed to manage receipt of
+certain classes of medical images across a TCP/IP network. The client library
+supports the ability to query and retrieve images and associated information
+(Query/Retrieve) from a DICOM server. It also provides a means of storing images
+from a remote server using the move functions, as well as basic DICOM print
+functions as outlined below. Only the basic DICOM features needed to provide the
+conformance as outlined below are included as licensed software.
+
+The DICOM client library provides support for the following DICOM V3.0 SOP
+Classes as a SCP (due to the support of the C-GET service):
+
+SOP Class Name                              SOP Class UID
+Computed Radiography Image Storage SOP Class          1.2.840.10008.5.4.1.1.1
+CT Image Storage SOP Class                            1.2.840.10008.5.4.1.1.2
+MR Image Storage SOP Class                            1.2.840.10008.5.4.1.1.4
+US Image Storage SOP Class                            1.2.840.10008.5.4.1.1.6
+Secondary Capture Image Storage                       1.2.840.10008.5.4.1.1.7
+
+The DICOM client library provides support for the following SOP Classes as a
+SCU:
+<TABLE>
+<CAPTION>
+
+SOP Class Name                                 SOP Class UID
+<S>                                                          <C>
+Patient Root Query/Retrieve Information Model - FIND         1.2.840.10008.5.1.4.1.2.2.1
+Patient Root Query/Retrieve Information Model - GET          1.2.840.10008.5.1.4.1.2.2.3
+Basic Grayscale Print Management Meta SOP Class              1.2.840.10008.5.1.19
+Patient Root Query/Retrieve Information Model - MOVE         1.2.840.10008.5.1.4.1.2.2.2
+</TABLE>
+
+The DICOM client library supports the following presentation contexts:
+<TABLE>
+<CAPTION>
+
+
+Presentation Context Table
+Abstract Syntax                                 Transfer Syntax
+- --------------------------------------------------- -------------------------------------------            Extended
+Name                      UID                       Name                  UID            Role    Negotiation
+<S>                   <C>                                                 <C>                   <C>      <C>
+Study Root            1.2.840.10008.5.1.4.1.2.2.1   DICOM Implicit VR     1.2.840.10008.1.2     SCU      None
+FIND                                                Little Endian
+Study Root            1.2.840.10008.5.1.4.1.2.2.3   DICOM Implicit VR     1.2.840.10008.1.2     SCU      None
+GET                                                 Little Endian
+Verification          1.2.840.10008.1.1             DICOM Implicit VR     1.2.840.10008.1.2     SCU      None
+Little Endian
+CR Image              1.2.840.10008.5.1.4.1.1.1     DICOM Implicit VR     1.2.840.10008.1.2     SCP      See Note+
+Little Endian
+CT Image              1.2.840.10008.5.1.4.1.1.2     DICOM Implicit VR     1.2.840.10008.1.2     SCP      See Note+
+Little Endian
+MR Image              1.2.840.10008.5.1.4.1.1.4     DICOM Implicit VR     1.2.840.10008.1.2     SCP      See Note+
+Little Endian
+US Image              1.2.840.10008.5.1.4.1.1.6     DICOM Implicit VR     1.2.840.10008.1.2     SCP      See Note+
+Little Endican
+Secondary Capture     1.2.840.10008.5.1.4.1.1.7     DICOM Implicit VR     1.2.840.10008.1.2     SCP      See Note+
+Little Endian
+Basic Grayscale       1.2.840.10008.5.1.19          DICOM Implicit VR     1.2.840.10008.1.2     SCU      None
+Print Management                                    Little Endian
+Meta SOP Class
+</TABLE>
+
++Note: SCU/SCP Role Negotiation is required due to the support of the C-GET
+Service
+
+7
+

@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+Exhibit 10.32
+
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement, dated as of September 28, 2004, is made and entered into by and
+between Primus Knowledge Solutions, Inc., a Washington corporation ("Primus HQ")
+and Primus Knowledge Solutions, K.K., a corporation organized under the laws of
+Japan ("Primus KK"), on the other hand. Primus HQ and Primus KK agree as
+follows:
+
+Section l. Definitions
+
+Whenever used in this Agreement, the following terms will have the following
+specified meanings:
+
+"Affiliate" means, with respect to any person or entity, any other person or
+entity (including, without limitation, any officer, director, shareholder,
+partner, employee, agent or representative of such person or entity) that,
+directly or indirectly through one or more intermediaries, controls, is
+controlled by or is under common control with such first person or entity. For
+purposes of this definition, "control" shall mean the possession, directly or
+indirectly, of the power to direct or cause the direction of the management or
+policies of a person or entity, whether through the ownership of voting
+securities or partnership or other ownership interests, by contract, by law or
+otherwise.
+
+"Confidential Information" means the Source Code, together with any and all
+other confidential or proprietary information of Primus HQ, whether of a
+technical, business or other nature (including, but not limited to, trade
+secrets, know-how, technology, and information relating to the customers,
+marketing plans, finances and business affairs of Primus HQ) disclosed by
+written, graphic, oral or other means to or otherwise learned by Primus KK.
+
+"Derivative Work" means any "derivative works" and "compilations" of the
+Licensed Software within the meaning of such terms as defined in the U.S.
+Copyright Act (17 U.S.C. Section 101 et seq.) that are created by or for Primus
+KK as permitted under Section 2.1 below.
+
+"Documentation" shall mean any and all currently available Primus HQ owned
+system and user documentation that describes or relates to the Licensed Software
+and are either necessary or useful for Primus KK to exercise the rights granted
+it under this Agreement, including without limitation manuals of all types;
+training materials; drawings; schematics; technical data; manufacturing and
+production instructions, processes, and techniques; build procedures; testing
+instructions and procedures; specifications; and any other printed or graphic
+material for development, installation, use, operation, maintenance, and support
+of the Licensed Software.
+
+"Improvements" shall mean any modifications or enhancements to, or Derivative
+Works, in each case resulting in a Japanese language product, based upon, any
+part or all of the Licensed Software, Documentation, or Know-How (as defined
+below).
+
+"Know-How" shall mean all Primus HQ owned knowledge in any form conveyed by
+Primus HQ to Primus KK and tangible information whether patentable or not,
+related to the development of the Licensed Software and Documentation, including
+but not limited to trade secrets and other confidential and proprietary
+information, technical information, formulations, data, designs, and research
+and development information.
+
+"Licensed Software" means (a)_the Japanese language version of Primus HQ's
+computer programs known as eServer 4.0f, eServer 4.0 SP1 and SP2 and eServer 5.2
+SP1 and SP2 and the Japanese
+
+
+<PAGE>
+
+language version of eServer 5.2 SP3, if Primus HQ commercially releases eServer
+5.2 SP3 to its customers and Primus KK elects to license eServer 5.2 SP3
+pursuant to Section 3.2; and (b) Documentation; and (c) Know-How.
+
+"Source Code" means the human-readable, uncompiled source code form of the
+Licensed Software.
+
+"TCI" means Trans Cosmos Inc., a Japanese corporation.
+
+"Term" means the term of this Agreement as described in Section 5.1.
+
+"Transition Period" means the time period between the date of this Agreement and
+March 31, 2005.
+
+"Unauthorized Use" means any use, possession, knowledge, viewing, inspection,
+examination, copying or other activity involving any Source Code to the Licensed
+Software, Documentation or Know-How or any portion of original source code
+developed or owned by Primus HQ contained in a Derivative Work that is not
+expressly authorized under this Agreement or otherwise in writing by Primus HQ.
+
+Section 2. License
+
+2.l Grant
+
+Subject to the terms and conditions of this Agreement, Primus HQ grants to
+Primus KK an exclusive (except as provided in Section 2.2) perpetual,
+royalty-free, nontransferable (except as provided in Section 4.4) license to:
+
+(a) use, reproduce, operate, support and maintain, modify or have
+modified (as permitted herein), and make or have made (as permitted
+herein) Improvements to the Source Code of the Licensed Software;
+
+(b) use, reproduce, sublicense and otherwise distribute only in
+Japan in any manner not restricted by this Agreement, including without
+limitation, directly or through resellers either as standalone versions,
+or in combination with other products, as an integrated component of a
+Primus KK product, service, or platform, or as an application service
+provider, Japanese language versions of the Licensed Software, including
+any Improvements incorporated therein and created by (or for, as permitted
+herein) Primus KK in machine-executable, object code form; and
+
+(c) use the terms "Primus" and "eServer" as a brand for the Licensed
+Software in Japan for a period of up to March 31, 2006 (the "Primus Marks
+Usage Period").
+
+2.2 Exclusivity Covenant and Revenue Share
+
+Primus HQ will not grant rights to the Source Code or object code of the
+Japanese language version of eServer 5.2 (or any prior Japanese language
+versions of eServer or any Japanese language Derivative Work based substantially
+on such Source Code) to any third party for use or resale; provided, however,
+that Primus HQ may continue to sell and support the Japanese versions of eServer
+in connection with a sale of additional products and with an obligation to pay
+Primus KK a royalty of fifty percent (50%) of the net proceeds from its license
+of Japanese eServer (where net proceeds equals the amount actually received by
+Primus HQ, less direct costs of sale, including sales commissions and third
+party royalties). Primus HQ will certify its calculations of net proceeds along
+with each royalty report (to accompany each royalty payment) and Primus KK will
+have customary rights to audit Primus HQ's records related to royalty payments
+at Primus KK's expense.
+
+<PAGE>
+
+2.3 Prohibited Use
+
+Without limiting the restrictions set forth elsewhere in this Agreement, Primus
+KK will not have the right to sell, sublicense, market or in any other way
+commercially exploit the Licensed Software or any Derivative Work outside of
+Japan or in any language other that Japanese.
+
+2.4 Delivery
+
+Within five (5) business days after the date of this Agreement, Primus HQ will
+deliver to Primus KK one (1) reproducible electronic copy of the Source Code as
+it exists on the date of this Agreement and related Documentation. Further, if
+Primus HQ commercially releases eServer 5.2 SP3 to its customers and Primus KK
+elects to license eServer 5.2 SP3 pursuant to Section 3.2, within five (5)
+business days after Primus HQ receives payment from Primus KK pursuant to
+Section 3.2, Primus HQ will deliver to Primus KK one (1) copy of the Source Code
+for the Japanese language version of eServer 5.2 SP3 and related Documentation.
+
+2.5 Third Party Software
+
+Primus KK acknowledges that the Licensed Software contains intellectual property
+owned or licensed by third parties. The parties will work together to obtain any
+required consents, assignments or direct licenses to Primus KK from such third
+parties. During the Transition Period, Primus KK shall be deemed to be a
+royalty-free distributor of the Licensed Product and will remit any required
+third party royalty or other charge to Primus HQ for Primus HQ to remit to the
+applicable third party. If, after the Transition Period and despite the mutual
+efforts of the parties to obtain ongoing rights, such licenses are not
+obtainable, then such third party technology will be removed from the Licensed
+Software. All obligations of confidentiality hereunder will apply to such third
+party technology. Primus KK will pay all third party royalties related to its
+use, license or sale of the Licensed Software (whether directly to the
+applicable third party or to Primus HQ if such third party technology is used
+under sublicense).
+
+2.6 Transition Period Assistance
+
+During the Transition Period, Primus HQ will use its reasonable efforts to:
+
+(a) provide engineering consulting services at the cost set forth in Section 3.4
+to assist in knowledge transfer to Primus KK concerning the use and support of
+the Source Code;
+
+(b) assist Primus KK in supporting existing customers in Japan covered under
+existing maintenance agreements with Primus HQ (that is, existing at the date
+this Agreement is signed) until the earlier of the end of the term of such
+maintenance agreements or December 31, 2004, at no additional charge to Primus
+KK. Primus HQ shall have the right to retain any prepaid, but unused maintenance
+and support payments it has received under such agreements; and
+
+(c) With respect to new customers of Primus KK acquired after September 30, 2004
+for which Primus KK requests support, Primus may elect, in its discretion, to
+provide second line support at the cost set forth in Section 3.4 or as otherwise
+separately agreed.
+
+2.7 Transfer of Primus KK Equity Interest
+
+Upon the execution of this Agreement, Primus HQ will transfer to TCI, for the
+agreed consideration of Twenty Five Thousand United States Dollars ($25,000),
+the equity interests held by Primus HQ in Primus KK.
+
+
+<PAGE>
+
+2.8 Bankruptcy Provision
+
+Primus HQ and Primus KK acknowledge that this Agreement and all rights and
+licenses granted to Primus KK under or pursuant to this Agreement are, and will
+otherwise be deemed to be, licenses of rights to "intellectual property" as
+defined under Section 101 of Title 11, United States Code (the "Bankruptcy
+Code"). The parties agree that Primus KK, as a licensee of such rights under
+this Agreement will retain and may fully exercise all of its rights and
+elections under the Bankruptcy Code. Primus HQ acknowledges that if Primus HQ as
+a debtor in possession, or a trustee in bankruptcy in the case under the
+Bankruptcy Code, rejects the licenses granted to Primus KK in this Agreement,
+Primus KK may elect to retain its rights under such licenses as provided in
+Section 365(n) of the Bankruptcy Code. The parties also agree that, after the
+commencement of a case under the Bankruptcy Code by or against Primus HQ and
+unless and until the licenses granted herein are terminated or expired, upon
+written request of Primus KK to Primus HQ or the trustee in bankruptcy, Primus
+HQ or the trustee in bankruptcy will not interfere with the rights of Primus KK
+as provided under this Agreement.
+
+Section 3. Compensation
+
+3.l License Fee
+
+Primus KK will pay to Primus HQ a one-time license fee of One Hundred Thousand
+United States Dollars (US$100,000) due to be received by Primus HQ on or before
+September 30, 2004.
+
+3.2 Additional Fee
+
+If Primus HQ commercially releases eServer 5.2 SP3 to its customers, then upon
+Primus KK's payment to Primus HQ of an additional license fee of Twenty-Five
+Thousand Dollars ($25,000) then the Licensed Software shall include the Japanese
+language version of eServer 5.2 SP3.
+
+3.3 Royalties
+
+Primus KK will pay Five Hundred Thousand United States Dollars (US$500,000)
+representing payment in full of all outstanding guaranteed quarterly minimum
+payments through September 30, 2004. This amount (US $500,000) will be received
+by Primus HQ before September 30, 2004.
+
+3.4 Transition Period Assistance
+
+Primus KK will pay Primus HQ Two Hundred Fifty United States Dollars ($250) per
+hour for any Transition Period assistance requested by Primus KK and provided by
+Primus HQ pursuant to (1) Section 2.6(a); (2) after December 31, 2004 for
+maintenance support of the type described in Section 2.6(b); and (3) for
+maintenance support of the type described in Section 2.6(c) that is requested by
+Primus KK and Primus HQ, in its discretion, elects to provide.
+
+3.5 Payment
+
+Primus KK will pay the payments specified in Section 3.4 to Primus KK within
+thirty (30) days after Primus HQ provides Primus KK an invoice for such payment.
+All payments shall be made in the lawful currency of the United States. All
+payments owed by Primus KK under this Agreement shall be made without set-off of
+any amount or nature whatsoever. Any amounts not paid when due will be subject
+to finance charges at the rate of 1% per month, determined and compounded on a
+daily basis from the date due until the date paid.
+
+
+<PAGE>
+
+3.6 Foreign Withholding Tax
+
+Primus KK acknowledges and confirms that the transaction described in this
+Agreement are being made in the state of Washington. Accordingly, if Primus KK
+is required under the laws of Japan or any other jurisdiction to withhold from
+the amounts payable to Primus HQ under this Section 4 any taxes due in such
+jurisdiction for such payments then the amount subject to such withholding tax
+shall be increased to such amount where the amount payable to Primus HQ net of
+such withheld taxes equals the amounts specified in this Section 3.
+
+Section 4. Proprietary Rights
+
+4.l Ownership
+
+(a) Primus KK acknowledges that the Licensed Software involves valuable
+copyright, trade secret and other proprietary rights of Primus HQ. No title to
+or ownership of the Licensed Software, or the proprietary rights to the Licensed
+Software, is transferred to Primus KK pursuant to this Agreement, and Primus HQ
+reserves all of its copyright, trade secret and other proprietary rights in the
+Licensed Software.
+
+(b) Subject to Primus HQ's ownership of the Licensed Software as set forth
+above, Primus KK shall be the sole owner of any and all inventions, discoveries,
+or Improvements arising out of, resulting from, or related to the Licensed
+Software developed by or on behalf of Primus KK (including without limitation
+Derivative Works), whether in written or unwritten form, and of all
+methodologies, techniques, and know-how resulting from the use of the Licensed
+Software by or on behalf of Primus KK, including, but not limited to, the
+integration of the Licensed Software, or parts thereof, into Primus KK's other
+computer systems. All right, title, and interest, including without limitation
+any copyright, patent, and any other intellectual property or proprietary right,
+in and to such inventions, discoveries, or Improvements (together, such rights
+derived or related in any way to the Licensed Software are referred to as the
+"Primus KK IP Rights") shall not pass to Primus HQ but shall be the exclusive
+property of Primus KK. Primus KK hereby grants a perpetual, non-exclusive,
+worldwide, royalty free license to Primus HQ and its successors to use any
+Primus KK IP Rights in connection with products independently developed by
+Primus HQ or its successors. For the avoidance of doubt, Primus HQ will not have
+a license to use the actual source code or other actual embodiment of the Primus
+KK IP Rights, but shall not in any way be held liable for claimed infringement
+of any Primus KK IP Rights on any Primus HQ independently developed product. As
+a result, Primus HQ agrees not to challenge or assist any other party in
+challenging the validity of, or Primus KK's rights in, the Improvements or any
+applications to register any copyrights, patents, or other intellectual property
+rights related to the Improvements. Primus HQ agrees to cooperate with
+reasonable requests to assist Primus KK, at Primus KK's expense, with any
+applications to register any copyrights, patents or other intellectual property
+rights related to the Improvements.
+
+4.2 Trademarks and Trade Names
+
+(a) Primus HQ reserves title to "Primus", "eServer" and any and all other
+brands, trade names and trademarks which Primus HQ uses in connection with the
+Licensed Software (the "Primus Marks").
+
+
+<PAGE>
+
+(b) At the expiration of the Primus Marks Usage Period, Primus KK shall (i)
+cease to use all Primus Marks associated with the Licensed Software; and (ii)
+cease to use "Primus" as a part of its trade name. At any time prior to the
+expiration of the Primus Marks Usage Period, Primus KK may elect to surrender
+the Primus Marks in connection with the marketing and usage of the Licensed
+Software upon written notice to Primus HQ. After a surrendering of the usage or
+upon expiration of the Primus Marks Usage Period, Primus KK shall re-brand the
+Licensed Software as it deems desirable in its sole discretion; provided however
+that Primus KK shall continue to apply the copyright and proprietary notices set
+forth in Sections 4.3 and 4.4 in any document or medium containing any portion
+of the Source Code.
+
+4.3 Copyright Notices
+
+Primus KK will include on any Licensed Software copied, sublicensed, distributed
+or otherwise used by Primus KK all proprietary notices currently in the Licensed
+Software, including but not limited to, the following notice: "(C) Copyright
+(____) Primus Knowledge Solutions, Inc.. All Rights Reserved."
+
+4.4 Protection of Code
+
+Primus KK will do all things necessary to prevent Unauthorized Use of the
+Licensed Software and to preserve and protect Primus HQ's proprietary rights
+therein. Without limiting the generality of the foregoing, Primus KK will not:
+
+(a) sublicense, transfer, disclose or otherwise make available any
+Licensed Software or Derivative Works in object code form other than to
+Primus KK's distributors and end-users pursuant to a license agreement
+consistent with the terms of this Agreement;
+
+(b) sublicense or otherwise grant to any person or entity the right
+to license, distribute, disclose or otherwise make available any Source
+Code to any person or entity; or
+
+(c) sublicense, transfer, disclose or otherwise make available any
+Source Code to any person or entity other than to Primus KK's employees or
+contractors (provided that no third party contractors may have access to
+the Source Code if such contractor in engaged in any business competitive
+to Primus HQ or its Affiliates, such as developing products for or in
+conjunction with any Primus HQ competitor) who need access to the same for
+the purposes specified in Section 2.1 and who have first executed an
+agreement which (i) contains the same protections of Primus HQ's
+proprietary rights as are set forth in this Agreement, (ii) prohibits any
+Unauthorized Use of the Source Code, (iii) precludes such person from
+disclosing the Source Code to any third party, and (iv) precludes such
+person from using the Source Code other than on behalf of Primus KK for
+the purposes specified in Section 2.1.
+
+Primus KK will maintain records of all agreements referred to in Section 4.4(a)
+and the originals of all agreements referred to in Section 4.4(c) in its
+permanent business records, will use its best efforts to enforce the same, and
+will provide copies of such records and agreements to Primus HQ upon Primus HQ's
+request. In addition, Primus KK will ensure that any document or medium
+containing any portion of the Source Code has prominently displayed thereon the
+following notice: "This item contains confidential information which is the
+property of Primus Knowledge Solutions, Inc.. Primus Knowledge Solutions, Inc.
+owns all proprietary rights to such information, including copyrights and trade
+secret rights. This information will not be disclosed to any person or entity
+outside of this company."
+
+
+<PAGE>
+
+4.5 Additional Protection of Proprietary Rights
+
+Primus KK will not infringe or violate, and will take appropriate steps and
+precautions for the protection of, the proprietary rights referred to in Section
+4.1. Without limiting the generality of the foregoing, Primus KK will keep all
+Source Code secured, under access and use restrictions sufficient to prevent any
+Unauthorized Use, and will otherwise use its best efforts to prevent any
+Unauthorized Use. Primus KK will immediately notify Primus HQ of any
+Unauthorized Use. In the event of any Unauthorized Use relating to the
+activities of Primus KK or any of its employees, agents or representatives, or
+any of Primus KK's subcontractors or transferees of the Licensed Software,
+Primus KK will take all steps reasonably necessary to terminate such
+Unauthorized Use and to retrieve any copy of the Source Code or other Licensed
+Software in the possession or control of the person or entity engaging in such
+Unauthorized Use. Primus KK will immediately notify Primus HQ of any legal
+proceeding initiated by Primus KK in connection with such Unauthorized Use.
+Primus HQ may, at its option and expense, assume control of any such proceeding.
+If Primus HQ assumes such control, Primus HQ will have exclusive control over
+the prosecution and settlement of the proceeding, Primus KK will provide such
+assistance related to such proceeding as Primus HQ may reasonably request, and
+Primus KK will assist Primus HQ in enforcing any settlement or order made in
+connection with such proceeding.
+
+Section 5. Term and Termination
+
+5.1 Term
+
+The Term will commence on the date of this Agreement and will continue in
+perpetuity unless terminated in accordance with Section 5.2.
+
+5.2 Termination
+
+Primus HQ may terminate the Term immediately by giving Primus KK written notice
+of termination in any event that: (a) Primus KK fails to timely make any
+payments under Section 3.1 or 3.6; or (b) Primus KK fails to cure any breach of
+or default under this Agreement by Primus KK within thirty (30) days after
+Primus HQ gives Primus KK written notice of the breach or default; or (c) any of
+the following take place: (i) the making by Primus KK of any general assignment
+or general arrangement for the benefit of creditors; (ii) the filing by or
+against Primus KK of a petition to have Primus KK adjudged a bankrupt or of a
+petition for reorganization or arrangement under any law relating to bankruptcy
+(unless in the case of a petition filed against Primus KK, the same is dismissed
+within sixty (60) days); (iii) the appointment of a trustee or receiver to take
+possession of substantially all of Primus KK's assets or of Primus KK's interest
+in this Agreement, where possession is not restored to Primus KK within thirty
+(30) days; or (iv) the attachment, execution or other judicial seizure of
+substantially all of Primus KK's assets or of Primus KK's interest in this
+Agreement, where such seizure is not discharged within thirty (30) days.
+Liquidation of Primus KK into TCI is not a breach of this Agreement.
+
+5.3 Effect of Termination on License
+
+On termination in accordance with Section 5.2, the license granted under Section
+2 will automatically terminate and Primus KK will immediately cease to (a)
+modify, reproduce or otherwise use the Source Code, and (b) use, reproduce,
+sublicense and otherwise distribute the Licensed Software or any portion of an
+Improvement containing original Source Code
+
+
+<PAGE>
+
+developed or owned by Primus HQ. Primus KK will, within twenty (20) days after
+the end of the Term, return to Primus HQ or destroy any and all copies of the
+Licensed Software or any portion of an Improvement containing original Source
+Code developed or owned by Primus HQ in its possession or control including, but
+not limited to, any modified or merged versions. Any sublicenses of the Licensed
+Software or Derivative Work object code granted by Primus KK pursuant to Section
+2.1(b) prior to the end of the Term will survive the end of the Term.
+
+Section 6. Disclaimer of Warranty, Limitation of Liability and Indemnity
+
+6.1 Warranty Disclaimer
+
+Primus HQ represents and warrants that it is has the right to grant the licenses
+to Primus KK as set forth herein to the Licensed Software. This warranty is not
+to be construed as any warranty against any infringement of any third party
+intellectual property. Primus HQ has no present knowledge of any actual or
+alleged infringement of any third party intellectual property by the Licensed
+Software in Japan. Primus KK acknowledges that the Licensed Software is
+furnished to Primus KK "AS IS" and with all "BUGS, ERRORS, DEFECTS, DEFICIENCIES
+AND FAULTS." PRIMUS HQ MAKES NO OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED,
+INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE SOURCE CODE OR OTHER LICENSED
+SOFTWARE OR ITS USE AND OPERATION ALONE OR IN COMBINATION WITH ANY OTHER
+PRODUCT.
+
+6.2 Limitation of Liability
+
+NEITHER PARTY SHALL BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES INCURRED BY THE OTHER PARTY AND ARISING OUT OF OR IN
+CONNECTION WITH THIS AGREEMENT OF ANY KIND, WHETHER UNDER THEORY OF CONTRACT,
+TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE EVEN IF SUCH PARTY
+WAS ADVISED OF THE POSSIBLITY OF SUCH DAMAGE.
+
+6.3 Indemnity
+
+Primus KK releases and will defend, indemnify and hold harmless Primus HQ from
+and against any and all claims, losses, damages, liens, liabilities, costs and
+expenses (including, but not limited to, reasonable attorneys' fees) arising out
+of or in connection with Primus KK's exercise of the license rights set forth in
+this Agreement or any sale or other distribution of the Licensed Software or any
+Improvement by, through or under Primus KK.
+
+Section 7. Additional Obligations of Primus KK
+
+7.1 Nondisclosure
+
+Any Confidential Information received by Primus KK in performance of this
+Agreement will be treated by Primus KK as confidential and proprietary
+information of Primus HQ and will be used by Primus KK solely for purposes of
+performing its obligations and/or exercising its rights under this Agreement.
+Primus KK will disclose such information only to its employees and contractors
+(subject to Section 4.4(c)) whose duties justify their need to know the same in
+order for Primus KK to perform its obligations and/or exercise its rights under
+this Agreement. Primus KK will not disclose such
+
+
+<PAGE>
+
+information to any other person or entity, unless the information is in the
+public domain at the time of disclosure through no fault of the Primus KK, or
+Primus HQ consents to the disclosure in writing.
+
+7.2 Compliance with Laws
+
+In performing this Agreement, Primus KK will comply with all applicable laws,
+regulations, rules, orders and other requirements, now or hereafter in effect,
+of governmental authorities having jurisdiction. Primus KK will comply with all
+requirements relating to the import, export or re-export of any Licensed
+Software or other items furnished by Primus HQ under this Agreement.
+
+7.3 Restrictions
+
+Except as specifically provided in this Agreement, Primus KK will not and will
+not authorize or permit any other person to: (a) reverse engineer, disassemble,
+copy, reproduce, change, modify or alter any Licensed Software or part thereof;
+or (b) remove, modify or alter any notice of copyright, mask work, trademark,
+trade name or any other notice of Primus HQ or its proprietary rights appearing
+on any Licensed Software.
+
+Section 8. Miscellaneous
+
+8.l Notices
+
+Any notice or other communication under this Agreement will be deemed given if
+delivered in writing to the intended recipient either in person or mailed,
+postage prepaid, to the address specified below the intended recipient's
+signature at the end of this Agreement. Either party may change its specified
+address by giving the other party notice of the change in accordance with this
+Section.
+
+8.2 No Partnership
+
+This Agreement will not be interpreted or construed to create an association,
+joint venture or partnership between the parties or to impose any partnership
+obligation or liability upon either party.
+
+8.3 Nonwaiver
+
+The failure of either party to insist upon or enforce strict performance of any
+of the provisions of this Agreement or to exercise any rights or remedies under
+this Agreement will not be construed as a waiver or relinquishment to any extent
+of such party's right to assert or rely upon any such provisions, rights or
+remedies in that or any other instance; rather, the same will be and remain in
+full force and effect.
+
+8.4 Entire Agreement
+
+This Agreement sets forth the entire agreement, and supersedes any and all prior
+agreements, among the parties with regard to the subject matter hereof. No
+amendment, modification or waiver of any of the provisions of this Agreement
+will be valid unless set forth in a written instrument signed by the party to be
+bound thereby. Any remedy of Primus HQ set forth in this Agreement is in
+addition to any other remedy afforded to Primus HQ under any other contract, by
+law or otherwise. The distribution agreement between the parties and all
+subsequent amendments thereto is hereby terminated and of no further force or
+effect.
+
+8.5 Assignment
+
+(a) Primus KK will not assign all or any part of this Agreement or any of its
+rights hereunder without the prior written consent of Primus HQ; provided,
+however, that no consent of Primus HQ
+
+
+<PAGE>
+
+shall be required to assign this Agreement and the licenses granted hereunder to
+TCI or its controlled Affiliate (but not to any Affiliate that is part of a
+joint venture with any company that is a direct competitor to Primus HQ or its
+successor) provided that such assignee agrees in writing to assume and comply
+with the terms of this Agreement and that such assignee shall not have the right
+thereafter to assign or transfer this Agreement or the license to any other
+third party other than to TCI or one of its controlled Affiliates.
+
+(b) Subject to the foregoing restriction on assignments, this Agreement will be
+fully binding upon, inure to the benefit of and be enforceable by the parties
+hereto and their respective successors, legal representatives and assigns. The
+parties shall cause their successors, legal representatives and assigns, whether
+created voluntarily or by operation of law and including without limitation
+those resulting from merger, acquisition, consolidation or other like events (a
+"Successor-in-Interest"), to perform their respective obligations under this
+Agreement. In the event that either party should engage in negotiations with a
+Successor-in-Interest, that party shall promptly and completely disclose the
+terms of this Agreement to the third party, and the disclosing party shall take
+all necessary steps to ensure the assumption of and compliance with all terms of
+this Agreement by that party's Successor-in-Interest. Upon the request of the
+other party, a party so engaged in potential succession or merger negotiations
+shall provide the requesting party with written assurances of the negotiating
+party's compliance with this Section.
+
+8.6 Unenforceable Provisions
+
+The invalidity or unenforceability of any of the provisions of this Agreement
+will not affect the other provisions hereof, and this Agreement will be
+construed in all respects as if such invalid or unenforceable provision were
+replaced with a valid and enforceable provision as similar as possible to the
+one replaced.
+
+8.7 Survival
+
+Sections 4, 6 and 7.1 and all other provisions of this Agreement which may
+reasonably be interpreted or construed as surviving the expiration or
+termination of the Term, will survive the expiration or termination of the Term.
+
+8.8 Forum Selection
+
+Primus KK will not commence or prosecute any suit, proceeding or claim to
+enforce the provisions of this Agreement, or otherwise arising under or by
+reason of this Agreement, other than in the federal and state courts located in
+King County, State of Washington. Primus KK hereby irrevocably consents to the
+jurisdiction and venue of such courts with regard to any suit, proceeding or
+claim to enforce the provisions of this Agreement, or otherwise arising under or
+by reason of this Agreement.
+
+8.9 Applicable Law
+
+This Agreement will be interpreted, construed and enforced in all respects in
+accordance with the laws of the State of Washington, U.S.A, without reference to
+its choice of law principles. The provisions of the 1980 U.N. Convention on
+Contracts for the International Sale of Goods do not apply to this Agreement.
+
+8.10 Choice of Language
+
+The original of this Agreement has been written in English. Primus KK waives any
+right it may have under the laws of Japan or any other jurisdiction to have this
+Agreement written in any other language.
+
+<PAGE>
+
+8.11 Counterparts
+
+This Agreement may be executed in any number of counterparts and may be
+delivered by facsimile, each of which will be deemed an original and all of
+which when taken together will constitute one and the same instrument binding on
+the parties hereto.
+
+Primus HQ:                                    Primus KK:
+
+PRIMUS KNOWLEDGE SOLUTIONS, INC.              PRIMUS KNOWLEDGE SOLUTIONS, K.K.
+
+By        /ss/                                By          /ss/
+
+Title     President and CEO                   Title         President
+
+Address:                                      Address:
+
+
+
+

@@ -1,0 +1,780 @@
+
+
+
+
+
+
+
+exv2w8
+
+
+
+
+
+Exhibit 2.8
+
+
+EXECUTION VERSION
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+This
+SOFTWARE LICENSE AGREEMENT (the “Agreement”) made
+and entered into this 30th day
+of September, 2008 (“Effective Date”) by and between Hanover Capital Mortgage Holdings,
+Inc., a corporation duly organized and existing under the laws of the State of Maryland and having
+principal offices at 200 Metroplex Drive, Suite 100, Edison, New Jersey 08817 (“Hanover”),
+and JWH Holding Company, LLC, a limited liability company duly organized and existing under the
+laws of the State of Delaware and having principal offices at 4211 W. Boy Scout Boulevard, Tampa,
+Florida 33607 (“JWH”, and together with Hanover, the “Parties” and each a
+“Party”).
+
+
+
+WHEREAS, Hanover or its affiliates own or has licensed intellectual property rights to certain
+computer software, systems and related items; and
+
+
+
+WHEREAS, Hanover wishes to grant to JWH, and JWH wishes to obtain from Hanover, a perpetual
+license to use such software, systems and related items;
+
+
+
+NOW THEREFORE, in consideration of the premises and the mutual promises and covenants
+contained herein and for other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the Parties agree as follows:
+
+
+SECTION 1 — GRANT OF LICENSE
+
+
+
+
+1.1. License. Hanover, on behalf of itself and its affiliates, grants to JWH and its
+affiliates (together with permitted assignees pursuant to Section 7.4, the “Licensees”) a
+perpetual, non-exclusive, non-transferable (except as permitted in Section 7.4) license under all
+of its applicable intellectual property rights to (i) use, copy, distribute, perform, display,
+digitally display and (except for the current system administration module in Asset Onsite) create
+derivative works, upgrades, updates, modifications, enhancements, new releases or improvements
+(“Modifications”) to the software, systems and related items described on Exhibit
+A, including the Source Materials (subject to the conditions on their release to JWH in the
+Escrow Agreement defined in Section 1.3) and all related documentation in existence (collectively,
+the “Software”). Licensees may sublicense the above license to third-party contractors and
+consultants solely in connection with installing, testing, hosting, maintaining, supporting and
+creating Modifications to the Software and/or assisting Licensees’ own exercise of their licensed
+rights, but in no event for other use by (or the independent benefit of) such non-affiliated
+entities.
+
+
+
+1.2. Fees.
+
+
+
+(a) If the merger contemplated in the Agreement and Plan of Merger dated as of the Effective
+Date (“Merger Agreement”) among Walter Industries, Inc., JWH and Hanover is not consummated
+on or prior to December 31, 2008, and the Merger Agreement has not been terminated on or prior to
+such date, JWH shall pay to Hanover a fee of $1 million (one million dollars) for the license in
+Section 1.1 within 10 business days thereafter, and upon such payment the license in Section 1.1
+shall be deemed fully paid-up as of December 31, 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) If the Merger Agreement terminates prior to December 31, 2008 and either the Hanover
+Termination Fee or the Walter Termination Fee referred to in the Merger Agreement has been paid,
+the license in Section 1.1 shall be deemed fully paid-up as of such date of termination.
+
+
+1.3. Source Code. Within 30 days after the Effective Date, Hanover shall deposit with a
+reputable, mutually-agreed escrow agent, pursuant to that agent’s standard escrow agreement (the
+“Escrow Agreement”), which shall contain standard release conditions and other conditions
+or terms agreed upon by the parties and the escrow agent, a complete and current copy of the source
+code and all designs, instructions and related materials sufficient to allow a reasonably skilled
+programmer to maintain, support and update the Software (“Source Materials”). The Escrow
+Agreement shall be considered “an agreement supplementary to” this Agreement (and the license in
+Section 1.1) for purposes of 11 U.S.C. § 365(n)(1)(B). Any fees payable to the escrow agent
+associated with the Escrow Agreement shall be paid by JWH. The Escrow Agreement shall provide,
+among other things, that the Licensees shall be granted access to the Source Materials on the
+earliest date of the following: (i) the date on which the merger contemplated in the Merger
+Agreement is consummated, (ii) December 31, 2008, or (iii) the date the Merger Agreement is
+terminated and either the Hanover Termination Fee or Walter Termination Fee referred to in the
+Merger Agreement has been paid.
+
+
+SECTION 2 — OWNERSHIP
+
+
+2.1. Ownership. JWH agrees that, as between Hanover and Licensees, Hanover is the sole and
+exclusive owner of all rights and intellectual property rights in the Software. Hanover agrees
+that, as between Hanover and Licensees, the Licensees are the sole and exclusive owner of all
+rights and intellectual property rights in those Modifications which are made by a Licensee and/or
+its agents. Each Party shall, upon the reasonable request and expense of the other Party, take
+further actions and execute additional documents to establish and perfect the requesting Party’s
+above rights.
+
+
+
+2.2. No Contest. Each Party agrees not to directly or indirectly question or contest the
+other Party’s intellectual property rights relating to the Software or Modifications, except in an
+Action, as that term is later defined, between the Parties. Neither Party shall contest the
+enforceability of this Agreement, including without limitation in any claim action, suit or
+proceeding (“Action”).
+
+
+
+SECTION 3 — PARTIES’ OBLIGATIONS
+
+
+
+
+3.1. Delivery. Hanover shall deliver to JWH, who shall, at its own cost (and with the
+assistance of third-party contractors, at its discretion), install and test the Software on
+Exhibit A.
+
+
+
+3.2. Legends. JWH shall not remove any copyright or other notice or legend contained or
+included in the Software.
+
+
+
+3.3. Limitations. Hanover is not responsible for providing JWH with any training,
+maintenance, support or help-desk assistance with respect to the Software, other than providing (i)
+the documentation already in existence and included within the Software or Source Materials
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and (ii) reasonable cooperation to JWH and JWH’s third-party contractors in connection with
+their own efforts in installing, testing, maintaining and supporting the Software (provided that
+Hanover is not required to incur any out-of-pocket expenses in this regard and that Hanover is
+entitled to reasonable hourly compensation if such cooperation requires a significant time
+commitment). JWH must procure, at its own expense, all hardware, third-party software licenses or
+other third-party items necessary to operate the Software, at its own expense.
+
+
+
+SECTION 4 — WARRANTIES AND INDEMNITY
+
+
+
+
+4.1. By Each Party. Each Party represents and warrants to the other Party that (i) the
+warranting Party has the requisite corporate or company power and authority to enter into this
+Agreement; (ii) the warranting Party’s execution, delivery and performance of this Agreement has
+been duly authorized by all requisite corporate or company action on its part; (iii) this Agreement
+has been duly executed and delivered by the warranting Party and, assuming due authorization,
+execution and delivery, constitutes a legal, valid and binding agreement, enforceable against the
+warranting Party in accordance with its terms, subject to bankruptcy, insolvency, reorganization,
+moratorium and similar laws of general application relating to or affecting creditors’ rights and
+to general equity principles; and (iv) neither the execution and delivery by the warranting Party
+of this Agreement or compliance and performance with any of the provisions hereof results in a
+default (or an event that, with notice or lapse of time or both, would become a default) or gives
+rise to any right of termination by any third Party, cancellation, amendment or acceleration of any
+obligation or the loss of any benefit under, any contract binding the warranting Party.
+
+
+
+4.2. Ownership/Infringement. Hanover represents and warrants to JWH that (i) it or its
+affiliates own or has licensed rights to intellectual property rights in the Software sufficient to
+grant the license in Section 1.1; (ii) the Software as provided is fully operational, performs in
+material compliance with its documentation and, to Hanover’s knowledge, is free of all bugs,
+errors, defects, viruses and other corruptants; and (iii) the use and enjoyment of the Software (as
+provided) by Licensees after the Effective Date in a manner consistent with past practice, to
+Hanover’s knowledge, will not infringe or violate the rights of any person or entity.
+
+
+
+4.3. Indemnity. Each Party shall defend at its expense, hold harmless and indemnify the other
+Party and its affiliates and their respective directors, officers, shareholders, agents and
+employees against any third-party claims, losses, awards, judgments, settlements, costs, fees,
+expenses, liabilities and damages (including reasonable attorneys’ fees and costs of suit) to the
+extent arising out of or relating to the indemnifying Party’s breach of any representations,
+warranties, covenants or agreements herein.
+
+
+
+4.4. Procedure. The indemnified Party shall give prompt written notice to the indemnifying
+Party of any potential indemnifiable claim. The indemnifying Party shall have sole control of the
+defense or settlement of the claim, provided that it may not settle any claim that adversely
+affects the indemnified party without its prior written consent.
+
+
+
+4.5. Hanover’s Options. Without limiting Hanover’s obligations in Section 4.3, in the event
+of a potential third-party infringement claim against Licensees, Hanover shall have the option, at
+its expense, to (i) modify or replace all or the infringing part of the Software, provided
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+that the Software’s functionality is not materially impaired; (ii) procure for Licensees the
+right to continue using the infringing part of the Software; or if (i) and/or (ii) is not
+reasonably feasible, remove all or the infringing part of the Software, and provide reasonable
+compensation to JWH therefor.
+
+
+
+SECTION 5 — CONFIDENTIALITY
+
+
+
+
+5.1. Obligations. Each Party (a “Receiving Party”) agrees to treat any confidential
+or proprietary information that is furnished to it or its representatives by the other Party or its
+representatives (a “Disclosing Party”) pursuant to this Agreement, regardless of the media
+or form in which such information is provided, created or stored (the “Confidential
+Information”) in confidence. “Confidential Information” shall include any information
+identified as such by the Disclosing Party or which by its nature the Receiving Party should
+reasonably recognize to be confidential or proprietary in nature. The Receiving Party shall protect
+the Confidential Information in the same manner in which it protects its own Confidential
+Information of a similar nature or value and in no event with anything less than reasonable
+measures. The Receiving Party shall not (i) use Confidential Information for any purpose other than
+in connection with this Agreement or (ii) disclose, publish, share or make available any
+Confidential Information to any other person or entities, other than its employees and accountants,
+attorneys or other professionals or providers of services (with respect to whom, other than
+employees or attorneys who are otherwise bound by confidentiality agreements or other obligations
+of confidentiality, the foregoing are made pursuant to written non-disclosure agreements which
+impose obligations as rigorous as those set forth herein) who “need to know” it for the Receiving
+Party to perform under or enjoy the benefits of this Agreement or for the operations of the
+Receiving Party’s business.
+
+
+
+5.2. Exceptions. “Confidential Information” does not include information which (i) is already
+in the Receiving Party’s possession, provided that such information is not known by the Receiving
+Party to be subject to another confidentiality agreement with or other obligation of secrecy to the
+Disclosing Party or another party; or (ii) becomes generally available to the public or industry
+other than as a result of a disclosure by the Receiving Party; (iii) becomes available to the
+Receiving Party on a non-confidential basis from a source other than the Disclosing Party, provided
+that such source is not known by the Receiving Party to be bound by a confidentiality agreement
+with or other obligation of secrecy to the Disclosing Party or another party; or (iv) is required
+to be disclosed pursuant to applicable statute, law, rule, regulation, subpoena, court order or
+legal process, provided that the Receiving Party shall promptly inform the Disclosing Party of any
+such requirement and cooperate with all attempts by the Disclosing Party to obtain a court order or
+similar treatment.
+
+
+
+SECTION 6 — TERM
+
+
+
+
+The term of this Agreement commences as of the Effective Date and lasts in perpetuity.
+Without limiting either Party’s right under Section 7.11, each Party agrees that termination shall
+not be an available remedy for any dispute arising out of this Agreement.
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 7 — MISCELLANEOUS
+
+
+
+
+7.1. Notice.
+All notices hereunder shall be in writing and shall be deemed given upon (a)
+confirmed receipt of a facsimile transmission, (b) confirmed delivery of a standard overnight
+courier or when delivered by hand or (c) five business days after the date mailed by certified or
+registered mail (return receipt requested), postage prepaid, to the Parties at the following
+addresses (or at such other addresses for a Party as shall be specified by like notice):
+
+
+If to Hanover:
+
+
+
+Hanover Capital Mortgage Holdings, Inc.
+
+200 Metroplex Drive Suite 100 Edison, New Jersey 08817
+
+Attention: General Counsel
+
+Facsimile: (732) 548-0286
+
+
+
+with a copy (which shall not constitute effective notice) to:
+
+
+
+Thacher Proffitt & Wood LLP
+
+Two World Financial Center
+
+New York, New York 10281
+
+Attention: Mark I. Sokolow
+
+Facsimile: (866) 890-7725
+
+
+
+If to JWH:
+
+
+
+JWH Holding Company, LLC
+
+4211 W. Boy Scout Boulevard, 10th Floor
+
+Tampa, Florida 33607-5724
+
+Attention: General Counsel
+
+Facsimile: (813) 871-4430
+
+
+
+with a copy (which shall not constitute effective notice) to:
+
+
+
+Simpson Thacher & Bartlett LLP
+
+425 Lexington Avenue
+
+New York, New York 10017
+
+Attention: Peter J. Gordon, Esq. and Lori E. Lesser, Esq.
+
+Facsimile: (212) 455-2502
+
+
+
+
+7.2. Certain Construction Rules. The article and section headings in this Agreement are for
+reference purposes only and shall not affect the interpretation of this Agreement.
+
+
+
+7.3. Severability. If any provision of this Agreement or the application of any such
+provision to any person or entity or circumstance, shall be declared judicially to be invalid,
+unenforceable or void, such decision shall not have the effect of invalidating or voiding the
+remainder of this Agreement, it being the Parties’ intent and agreement that this Agreement shall
+be deemed amended by modifying such provision to the extent necessary to render it valid, legal
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and enforceable while preserving its intent or by substituting another provision that is legal
+and enforceable and that achieves the same objective.
+
+
+
+7.4. Assignment; Binding Effect. Neither this Agreement nor any of the rights, benefits or
+obligations hereunder may be assigned by a Party (whether by operation of law or otherwise) without
+the prior written consent of the other Party, except (i) to an affiliate or (ii) in connection with
+a merger, reorganization (including in bankruptcy), change of control or sale of all or
+substantially all of the assets or business to which this Agreement relates. In the event of a
+permitted assignment hereunder, this Agreement will be binding upon, inure to the benefit of and be
+enforceable by the Parties and their respective successors and permitted assigns.
+
+
+
+7.5. No Third Party Beneficiaries. No person or entity (other than as specified in this
+Agreement) shall be deemed a third party beneficiary under or by reason of this Agreement.
+
+
+
+7.6. Entire Agreement. This Agreement constitutes the entire agreement of the Parties and
+supersedes all prior and contemporaneous agreements and understandings, both written and oral,
+between the Parties with respect to the subject matter hereof. Exhibit A is expressly made
+a part of, and incorporated by reference into this Agreement.
+
+
+
+7.7. Governing Law. This Agreement shall be governed by, and construed in accordance with,
+the laws of the State of New York applicable to contracts made and to be performed therein.
+
+
+
+7.8. Jurisdiction. Each Party irrevocably submits to the jurisdiction of the state or federal
+courts in New York, New York for the purposes of any Action arising out of this Agreement. Each
+party unconditionally waives any right to a trial by jury in respect of any such action.
+
+
+
+7.9. Counterparts. This Agreement may be executed in one or more counterparts, each of which
+shall be deemed to be an original, but all of which together shall constitute one agreement.
+
+
+
+7.10. Specific Performance. The Parties agree that irreparable damage would occur in the
+event that the terms of this Agreement were materially breached. Therefore, each Party shall be
+entitled to seek an injunction to enjoin such breach in the courts set forth in Section 7.8.
+
+
+
+7.11. Bankruptcy. The Parties intend and agree that the license in Section 1.1 shall be
+deemed to be, for purposes of Section 365(n) of the U.S. Bankruptcy Code, 11 U.S.C. § 365(n), to
+the fullest extent permitted by law, a license to rights in “intellectual property” as that term is
+defined in Section 101 of the U.S. Bankruptcy Code. The Parties intend and agree that the
+Licensees shall retain and may fully exercise all of their rights and election under Section 365(n)
+of the Bankruptcy Code, if Hanover enters into bankruptcy and rejects this Agreement.
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the Effective
+Date.
+
+
+
+
+HANOVER CAPITAL MORTGAGE HOLDINGS, INC.
+(on behalf of itself and its affiliates)
+
+
+
+
+By:	 	/s/ John A. Burchett
+
+
+
+Name:
+John A. Burchett
+
+
+
+Title:	 	President and Chief Executive
+Officer
+
+
+JWH HOLDING COMPANY, LLC
+
+
+
+
+By:	 	/s/ Mark J. O’Brien
+
+
+
+Name:
+Mark J. O’Brien
+
+
+
+Title:	 	President and Chief Executive
+Officer
+
+
+
+
+
+
+[Software License Agreement Signature Page]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+
+Asset Manager
+
+
+
+Asset Manager, a companion “tape-cracker” product to Asset OnSite, permits field-to-field mapping
+of asset and pool data from disparate sources (e.g., Excel, MS Access, DBF, ASCII, Fixed Width and
+EBCDIC formats). The user interface is intuitive, mapping data elements side-by-side. The product
+also automates mapping of codes and other non-standard source data to standardized table values as
+well as arithmetic manipulation of values as it converts. Provisions for saving and re-use of
+mapping schemes are also provided. System architecture is Visual C++ connected to Microsoft SQL
+server database
+
+
+
+
+Asset OnSite
+
+
+
+Asset OnSite is a web-based portfolio management tool that can be accessed anywhere an internet
+connection is available. Users can quickly analyze and stratify loan and servicing pools. Standard
+reports relevant to the asset type are available to analyze every aspect of a pool utilizing the
+populated data fields. Users can also easily create their own customized reports using multiple
+cross-tabs, which can be saved for later use or used only once. Custom filters can be applied to
+create sub-pools, which can be named and stored separately. Customized extracts allow for export to
+other databases. Images of loan documents can be loaded and stored adjacent to loan level data.
+System architecture is Microsoft ASP.NET connected to Microsoft SQL server database. The license
+in Section 1.1 includes both the current version of Asset OnSite and the prior version, subject to
+the limitation in Section 1.1 for the current version.
+
+
+
+
+Busch Analytics
+
+
+
+Busch Analytics is a sophisticated servicing analysis tool that can be used to evaluate pools of
+serviced loans and generate pricing and reporting information. System architecture is Microsoft
+ASP and ASP.NET connected to Microsoft SQL server database
+
+
+
+
+Auction Platform
+
+
+
+Hanover owns an auction platform, programmed by ISI (Intraprise Solutions, Inc.) that is used to
+control and support the sale of assets. It provides a real-time bid-ladder that enables bidders
+and sellers to see the bids as they are entered. The system is configured so that the seller can
+see the bidder’s names, but the bidders can only see the bid amount. A version of this platform is
+currently being used by The Debt Exchange for the FDIC. System architecture is Microsoft ASP,
+ASP.NET and Adobe Flash connected to Microsoft SQL server database
+
+
+
+
+Loan Performance Risk Surveillance System (LP RSS)
+
+
+
+Hanover has created a loan surveillance system to manage the loans in our bond portfolios as well
+as track delinquent loans. In addition to the main reporting modules, which create our monthly
+risk books, there are several other modules such as Delinquency tracking, Static Pool Analysis,
+Delinquency Trend Analysis, Disaster Monitoring and Housing Shock Analysis. The delinquency
+tracking modules track the delinquent loans in our securities. The application maintains a
+database of all delinquent loans, BPOs and comments and calculates expected losses based on state
+specific parameters. The static pool analysis allows a user to see historical information on a
+filtered set of loans. Disaster monitoring allows a user to create a disaster area and create a
+collateral profile report based on the disaster area. You can also shock the portfolio and see
+what effect a decline/increase in value may have on our losses. Access to the system is
+
+
+
+A-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+granted via a user name and password that is authenticated to a database. Each user has access to
+specific modules team depending upon their user roles. System architecture is Microsoft Access/VBA
+Data Project and Microsoft ASP.NET connected to Microsoft SQL server database. Reports are
+Microsoft Access.
+
+
+
+
+Hanover Collateral Reporting System
+
+
+
+Reporting system for creating over-concentration reports and acts as an additional report generator
+for running summary stratification reports. This system also contains the filter builder which is
+used throughout the Reporting system and the Surveillance System (LP RSS). The system also has the
+ability to configure different counties for the addition of new criteria in the over-concentration
+reports. The system can run any of the modules off of the main LP database or the LP Bidding
+database. There is also a method to combine the two databases together to see what the effect
+would be on the current portfolio if you purchased a new bond. Access to the system is granted via
+a user name and password that is authenticated to the STARS database. The system also utilizes
+forms authentication to prevent unauthorized access. System architecture is Microsoft ASP.NET /
+VB.NET connected to Microsoft SQL server database. Reporting tool is Crystal Reports for .NET.
+
+
+
+
+STARS
+
+
+
+STARS (Securities Tracking and Reporting System) is a trade ticket based securities tracking and
+reporting application that serves as the sub-ledger to the company’s general ledger (MS Dynamics
+Solomon IV). The application maintains our B Bond and Agency inventory and provides numerous
+reporting capabilities. It runs complex accounting calculations such as repo financing, discount
+accretion, impairments and level yield. STARS has the ability to create transaction ledgers for
+batch input into our accounting system. STARS runs a roles-based security module for access to
+screens along with an approval system for all trades. A trade cannot become part of our inventory
+unless it has past all stages of approval: Trader, Management and Accounting. Access to the system
+is granted via a user name and password that is authenticated to a database. The system also
+utilizes forms authentication to prevent unauthorized access. Passwords conform to Hanover’s
+approved password policy. System architecture is Microsoft ASP.NET / VB.NET connected to Microsoft
+SQL server database. Reporting tool is Crystal Reports for .NET and Microsoft Excel.
+
+
+
+
+Hanover LP / Intex Vector Converter
+
+
+
+Used as a communication tool with our internal trading vendor systems. Creates Intex ramp files
+from Loan Performance Risk Model excel loss vectors. Converts AFT formatted loss arrays to Intex
+ramp files. Converts Loan Performance output formats to Intex ramp files. Also used to convert
+Intex cashflow text files to import into excel or into STARS for calculating level yield. Newest
+version will have an internal loss model for generating loss adjusted cash flows, similar to Intex.
+Access to the system is granted via a user name and password that is authenticated to the STARS
+database. System architecture is Microsoft VB.NET connected to Microsoft SQL server database.
+
+
+
+
+HDMF Pricing Module
+
+
+
+The HDMF pricing module is a sophisticated cash flow generator that is used to price distressed
+loan pools by taking into account projected losses and servicer advances based on state specific
+
+
+
+A-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal guidelines. System architecture is Microsoft ASP.NET connected to Microsoft SQL server
+database.
+
+
+A-3
+
+
+

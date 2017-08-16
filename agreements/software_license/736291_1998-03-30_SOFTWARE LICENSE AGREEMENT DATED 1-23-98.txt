@@ -1,0 +1,707 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10(bb)
+
+SOFTWARE
+LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is entered into and is effective
+as of JANUARY 15, 1998, ("Effective Date") by and between Compaq Computer
+Corporation ("Compaq"), a Delaware corporation with its principal place of
+business at 20555 SH 249, Houston, Texas 77070-2698, and the licensee as defined
+in Exhibit A ("Licensee").
+
+RECITALS
+
+WHEREAS, Licensee is performing hardware and software configuration and testing
+operations in relation to certain Compaq personal computer products ("Product").
+The configuration and testing specifications will be set forth the Channel
+Configuration Partner Agreement entered into by the parties. As part of this
+development effort, Compaq has agreed to license Licensee Compaq's proprietary
+software download, diagnostics, and test software for use by Licensee in its
+configuration operations.
+
+ARTICLE I
+DEFINITIONS
+
+1.1  CERTAIN DEFINITIONS. As used in this Agreement, the following terms shall
+have the following meanings:
+
+(a)  "Compaq" means Compaq Computer Corporation and its subsidiaries.
+
+(b)  "Confidential Information" shall mean:
+
+(i)  Regardless of whether such information is disclosed by design or
+by accident, Confidential Information includes, without
+limitation, all of the following information disclosed by Compaq,
+whether before, on or after the Effective Date of this Agreement,
+in connection with the performance of its rights and obligations
+specifically set forth in this Agreement or any Exhibit to this
+Agreement: the terms and conditions of this Agreement, the
+Licensed software and all portions and components thereof (in any
+stage of development), source code, object code, plans, know-how,
+programs, program materials, programming techniques, flow charts,
+diagrams, notes, outlines, designs, drawings, specifications,
+techniques, models, procedures, functions, formulas, processes,
+algorithms, mask works, ideas, inventions, operations, methods,
+concepts, data (including, without limitation, production data,
+technical and engineering data, test data and results), the
+status and details of research and development of products and
+services, discoveries, documentation (including, but not limited
+to, automation documentation), operations or system manuals,
+sales methods and strategies, customer information, financial
+information, pricing policies, price and cost information,
+marketing techniques, employee information, agreements and other
+information not generally known to the public.
+
+Page 1
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+(ii)  All trade secrets and other proprietary ideas, concepts, know-
+how, methodologies and all information incorporated in the
+Confidential Information.
+
+(iii) All enhancements, upgrades, modifications, revisions and new
+versions of the Confidential Information.
+
+(iv)  Information described or designated as proprietary or
+confidential whether or not owned or developed by Compaq, and
+information disclosed to Compaq by a third party which Compaq is
+obligated to treat as confidential.
+
+Confidential Information shall not include information which belongs
+to the Licensee or is (v) already known by the Licensee without an
+obligation of confidentiality, (w) publicly known or becomes publicly
+known (other than as a result of any breach of this Agreement or any
+other agreement between the parties hereto) through no unauthorized
+act of the Licensee, (x) rightfully received by the Licensee from a
+third party that is not a party to this Agreement without an
+obligation of confidentiality, (y) independently developed by the
+Licensee without use of the Compaq's Confidential Information and the
+Licensee can prove such independent development, or (z) prior to any
+disclosure, is specifically approved in writing for disclosure by the
+Compaq.
+
+(c)  "License Purpose" shall mean the purpose set forth in Exhibit A.
+
+(d)  "Licensed Software" shall mean the software set forth in Exhibit A.
+
+(e)  "Notice Address" shall mean Licensee's address set forth in Exhibit A,
+to which all notices required under the Agreement will be sent.
+
+(f)  "Object Code" shall mean the machine readable form computer
+programming code as opposed to the human readable form of computer
+programming code.
+
+(g)  "Product" shall mean the Compaq products defined in Exhibit A.
+
+(h)  "Site" shall mean the locations set forth in Exhibit A.
+
+(i)  "Source Code" shall mean the human readable form computer programming
+code and related system level documentation, including all comments
+and any procedural code such as job control language.
+
+(j)  "Term" shall mean the term set forth in Exhibit A.
+
+1.2  OTHER DEFINITIONS. Terms used in this Agreement are defined in the context
+in which they are used and shall have the respective meanings there indicated.
+
+
+Page 2
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+ARTICLE II
+LICENSE
+
+2.1  LICENSE. Compaq grants Licensee a non-exclusive, revocable, non-
+transferable, non-assignable, limited license to use the Licensed Software
+internally at the Site solely for the License Purpose and for no other purpose.
+The license granted to Licensee in this Paragraph 2.1 does not authorize
+Licensee to distribute, market, or sublicense the Licensed Software or a product
+containing any portion of the Licensed Software or any modifications derived by
+or resulting from Licensee's access to the Licensed Software under this
+Agreement. No right, license or privilege is granted to any person or entity
+other than Licensee. Specifically, but without limitation, no right, license or
+privilege is granted to any entities related to or associated with Licensee
+including, but not limited to, affiliates, subsidiaries, parent entities or
+agents of Licensee.
+
+ARTICLE III
+PROTECTION OF PROPRIETARY RIGHTS
+
+3.1  CONFIDENTIALITY. The Licensee's obligations with respect to the
+confidential and/or proprietary rights of Compaq are as follows:
+
+(a)  Licensee shall use at least the same means it uses to protect its own
+confidential proprietary information, but in any event not less than
+reasonable means, to prevent the disclosure and to protect the
+confidential and/or proprietary nature of that Confidential
+Information.
+
+(b)  Licensee shall not, directly or indirectly, disclose the Confidential
+Information to third parties.
+
+(c)  Licensee shall maintain the confidentiality of the Confidential
+Information and, without limitation thereon, shall not, other than as
+expressly provided in this Agreement or any Exhibit to this Agreement,
+directly or indirectly, (i) transfer or disclose the Confidential
+Information or any portion thereof to any third party; (ii) use the
+Confidential Information or any portion thereof in any manner except
+for the performance of its rights and obligations specifically set
+forth in this Agreement or in any Schedule to this Agreement; (iii)
+copy or reproduce in any form, or alter or modify, any portion of the
+Confidential Information; or (iv) reverse engineer, decompile,
+disassemble, reengineer or otherwise reproduce in any form or attempt
+to create or permit, allow or assist others to create source code of
+any portion or component of any software that is Confidential
+Information.
+
+(d)  Upon the written request of Compaq, Licensee shall return all copies
+of Confidential Information to Compaq or certify by an officer of
+Licensee, if so requested by Compaq, in writing that all copies of
+Confidential Information have been destroyed. Licensee may return
+Confidential Information, or any part thereof, to Compaq at any time.
+
+
+Page 3
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+(e)  Except as otherwise provided in this Agreement, Compaq does not make
+any representation or warranty, express or implied, with respect to
+any Confidential
+
+(f)  Information disclosed and Compaq shall not be responsible for any
+expenses, losses or actions incurred or undertaken by Licensee as a
+result of the receipt and use by the Licensee of the Confidential
+Information.
+
+(f)  Nothing contained in this Agreement shall be construed as granting or
+conferring any rights by license or otherwise in Confidential
+Information except for the use of such Confidential Information as
+expressly provided herein. This Agreement is not intended, nor shall
+it be construed, to create or convey any right in or upon any person
+or entity not a party to this Agreement.
+
+(g)  Licensee acknowledges that Compaq would suffer irreparable damage in
+the event of any breach of the provisions of this Agreement and that
+monetary damages will be inadequate to compensate Compaq for such
+breach. Accordingly, if Compaq has or would suffer irreparable damage
+as a result of such actual or threatened breach, then Compaq will be
+entitled to preliminary and final injunctive relief, as well as to
+seek any other applicable remedies at law or in equity, against
+Licensee. Licensee further agrees, that upon discovery of any such
+unauthorized reproduction or disclosure of any Licensed Software, it
+will promptly advise Compaq of such events and endeavor remedy the
+situation to Compaq's satisfaction and to prevent any further
+unauthorized reproduction or disclosure of any Licensed Software.
+
+(h)  Licensee acknowledges that any inventions or ideas in whole or in part
+conceived or made by Licensee or any of its employees, representatives
+or agents resulting from the knowledge of or use of any the
+Confidential Information shall belong to Compaq and shall be deemed
+part of the Confidential Information for the purposes of this
+Agreement.
+
+(i)  License shall reproduce all notices, including without limitation,
+copyright and confidentiality notices, on all permitted copies of the
+Confidential Information, including without limitations, the Licensed
+Software.
+
+(j)  Except as expressly provided for in this Agreement, Licensee shall not
+copy or reproduce in any form, alter or modify the Confidential
+Information, including without limitation, the Licensed Software or
+any portion thereof.
+
+(k)  Licensee shall not reverse engineer, decompile, disassemble, re-
+engineer or otherwise reproduce in any form or create or attempt to
+create or permit, allow or assist others to create the source code of
+any portion or component of the Confidential Information, including
+without limitation, the Licensed Software.
+
+Page 4
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+(1)  Licensee may use Confidential Information only for the Licensed
+Purpose and for no other purpose and may disseminate such Confidential
+Information only to its full-time employees who have executed a non-
+disclosure agreement with provisions, at least as stringent as the
+provisions in this Article III (and in form and substance similar to
+the Notice of Confidentiality reproduced as Exhibit B to this
+Agreement), each having a need for access to such Confidential
+Information in connection with the performance of the rights and
+obligations specifically set forth in this Agreement only, and with
+respect to whom the Licensee takes steps no less rigorous than those
+it takes to protect its own proprietary information, but in any event
+not less than reasonable means, to prevent such consultants,
+contractors and employees from acting in a manner inconsistent with
+the terms of this Agreement. Licensee shall assign to Compaq its
+rights under any such non-disclosure agreements insofar as they relate
+to the Confidential Information and assist Compaq in enforcing such
+rights and to be named as a necessary party in any litigation
+thereunder. Licensee agrees to indemnify Compaq for damages Compaq may
+suffer as a result of the failure of Licensee or any of its
+consultants, contractors, or employees who receive Confidential
+Information, including without limitation, the Licensed Software to
+abide by the terms of Licensee's agreement.
+
+3.2  INSPECTION. Licensee grants to Compaq the right, at any time during
+Licensee's normal business hours, upon reasonable notice, to enter into and on
+the premises without causing undue disruption to the business environment where
+any portion or component of the Licensed Software is located for the sole
+purpose of performing its obligations hereunder and/or to verify Licensee's
+compliance with Licensee's obligations hereunder.
+
+ARTICLE IV
+OWNERSHIP; ASSIGNMENT
+
+4.1  OWNERSHIP. Licensee acknowledges and agrees that the Confidential
+Information, including without limitation, the Licensed Software and all
+intermediate and partial versions thereto, including without limitation all
+modifications, enhancements, updates, all program material, flow charts,
+processes, database designs, algorithms, ideas, inventions, know-how, notes,
+outlines, formulas, techniques, as well as all intellectual property rights
+including, without limitation, copyrights, patents, trade secrets, and all other
+information relating thereto are and will remain the sole and exclusive property
+of Compaq or a third party which may license parts of the Confidential
+Information to Compaq, and License shall have no right, title or interest
+therein except as expressly set forth in this License Agreement. With respect to
+any derivative works of Confidential Information, including without limitation,
+the Licensed Software developed by Licensee, including without limitation,
+modifications, improvements and enhancements, and any documentation relating
+thereto, Licensee hereby assigns to Compaq exclusively all right, title and
+interest to such derivative works, and all copies thereof, and all related
+intellectual property rights (including, without limitation, copyrights) without
+further consideration. All such modifications, improvements, or enhancements,
+and any documentation relating thereto, shall be provided to Compaq within seven
+(7) days of creation.
+
+Page 5
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+ARTICLE V
+WARRANTY, DISCLAIMERS, AND INDEMINIFICATION
+
+5.1  WARRANTIES. Licensee represents and warrants that it has full authority to
+enter into this Agreement and all of the terms and conditions herein and that it
+will comply with all applicable laws and when exercising the license granted in
+this Agreement.
+
+5.2  DISCLAIMER. LICENSED SOFTWARE PROVIDED TO LICENSE HEREUNDER IS PROVIDED "AS
+IS" "WHERE IS" WITHOUT ANY WARRANTY WHATSOEVER. THE ENTIRE RISK ASSOCIATED WITH
+THE USE OF MATERIALS RESIDES WITH LICENSEE. ALL OTHER WARRANTIES, EITHER EXPRESS
+OR IMPLIED, ARE DISCLAIMED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, ACCURACY, CONDITION, OWNERSHIP, AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+5.3  LIMITATION OF LIABILITY. EXCEPT AS SET FORTH IN SECTION 5.4 AND FOR
+LICENSEE'S BREACH OF SECTION 3.1, NEITHER PARTY SHALL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES. IN NO EVENT SHALL COMPAQ
+BE LIABLE FOR DIRECT DAMAGES ARISING OUT OF, IN CONNECTION WITH OR RELATED TO
+THIS AGREEMENT.
+
+5.4  INDEMNIFICATION. Licensee agrees to indemnify, defend, and hold Compaq, its
+subsidiaries, successors, officers, suppliers, directors and employees harmless
+from any and all actions, causes of action, claims, demands, costs, liabilities,
+expenses and damages, including reasonable attorneys' fees, arising out of or in
+connection with Licensee's use of the Licensed Software.
+
+ARTICLE VI
+TERM AND TERMINATION
+
+6.1  TERM. The term of this Agreement shall begin on the Effective Date and
+remain in effect through the Term, except that Compaq may terminate this
+Agreement and the rights licensed hereunder for any reason upon notice provided
+five (5) business days before such termination and may terminate the Agreement
+immediately upon the breach by Licensee of any of the terms of the Agreement.
+
+6.2  RETURN OF PROPERTY. In the event this Agreement expires or terminates for
+any reason, Licensee shall (i) immediately turn over to Compaq (a) the original
+media containing the Confidential Information, including without limitation, the
+Licensed Software, and (b) at least one copy of any and all modifications,
+improvements, enhancements, or derivations to the Confidential Information,
+including without limitation, the Licensed Software and any and all
+documentation associated therewith; and (ii) certify that all other copies of
+the Confidential Information, including without limitation, Licensed Software,
+modifications, improvements, enhancements, or derivatives of the Confidential
+Information, including without limitation, the Licensed Software, and/or any
+documentation associated with the Licensed Software have been
+destroyed.
+
+Page 6
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+ARTICLE VII
+GENERAL PROVISIONS
+
+7.1  CHOICE OF LAW. This Agreement shall be treated as if it were executed in
+the County of Harris, State of Texas, and were to have been performed in the
+County of Harris, State of Texas. The rights and obligations under this
+Agreement shall not be governed by the United Nations Convention on Contracts or
+the International Sale of Goods, the application of which is expressly excluded,
+but such rights and obligations will instead be governed by the laws of the
+State of Texas, United States of America. The exclusive jurisdiction for any
+legal proceeding regarding this Agreement shall be Courts of Harris County,
+State of Texas, U.S.A. or the United States District Courts for the Southern
+District of Texas, and the parties hereto expressly submit to the jurisdiction
+of said courts. Licensee specifically consents to extraterritorial service of
+process. This Agreement shall be interpreted in accordance with and governed by
+the laws of the State of Texas, U.S.A. (without regard to conflict of law
+principles).
+
+7.2  NO THIRD PARTY BENEFICIARIES. The parties agree that this Agreement is for
+the benefit of the parties hereto and is not intended to confer any rights or
+benefits on any third party, including any employee of any party, and that there
+are not third party beneficiaries to this Agreement or any part or specific
+provision of this Agreement.
+
+7.3  NOTICES. All notices, requests, demands, and other communications to be
+given or delivered under or by reason of the provisions of this Agreement shall
+be in writing and shall be deemed given when delivered personally upon receipt,
+on the next business day when sent by overnight mail, including without
+limitation, Federal Express, Express Mail or similar service and on the third
+(3rd) business day after being mailed when mailed by certified first class mail,
+return receipt requested, to each party at the following address (or to such
+other address as that party may have specified by notice given to the others
+pursuant to this provision):
+
+If to Compaq:  Compaq Computer Corporation
+Attn:  Legal Department
+20555 S.H. 249
+Houston, Texas 77070-2698
+
+If to Licensee:  Send to Notice Address
+
+
+7.4  ASSIGNMENT. This Agreement and all of the provisions hereof shall be
+binding upon and inure to the benefit of the parties hereto and their respective
+successors and permitted assigns, but neither this Agreement nor any of the
+rights, interests or obligations hereunder shall be assigned by either party
+hereto without the prior written consent of the other. As a condition to any
+assignment, the surviving entity shall be required to assume and agree to be
+bound by the obligations and provisions of the Agreement to the same extent that
+it would have been bound had it been an original party to this Agreement and at
+the discretion of the other party may be required to demonstrate to the
+reasonable satisfaction of the other party that it can fully perform its
+obligations under this Agreement.
+
+Page 7
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+7.5  SEVERABILITY. Whenever possible, each provision of this Agreement will be
+interpreted in such manner as to be effective and valid under applicable law,
+but if any provision of this Agreement is held to be prohibited by or invalid
+under applicable law, the parties will negotiate in good faith to restate such
+provision to reflect the original intentions of the parties as nearly as
+possible in accordance with applicable law and the remaining provisions of this
+Agreement shall be enforced as if this Agreement was entered into with the
+restated provision.
+
+7.6  PRESS RELEASE. No press releases related to this Agreement or the
+transactions contemplated hereby, or other announcements to employees, customers
+and suppliers will be issued without the joint approval of Compaq and Licensee,
+except as required by law on advice of counsel, in which case the party issuing
+the press release shall use its best reasonable efforts to give advance notice
+to the other party.
+
+7.7  TRANSACTION COSTS. Except as expressly provided for in this Agreement or
+any attached Schedules, each party shall bear its own costs and expenses
+(including attorneys' fees and expenses, brokerage and finders fees, and agents
+commissions, if any) separately incurred in connection with the negotiation,
+execution and performance of this Agreement.
+
+7.8  ATTORNEYS' FEES. In the event attorneys' fees or other out-of-pocket costs
+are incurred, to secure performance of any of the obligations herein provided
+for, or to establish damages for the breach thereof, or to obtain any other
+appropriate relief, whether by way of prosecution or defense, any prevailing
+party shall be entitled to recover reasonable attorneys' fees and out-of-pocket
+costs incurred therein.
+
+7.9  CAPTIONS. The captions used in this Agreement are for convenience of
+reference only and do not constitute a part of this Agreement and will not be
+deemed to limit, characterize or in any way affect any provision of this
+Agreement, and all provisions of this Agreement will be enforced and construed
+as if no caption had been used in this Agreement.
+
+7.10 COUNTERPARTS. This Agreement may be executed in one or more counterparts
+all of which taken together will constitute one and the same instrument.
+
+7.11 APPROVALS AND SIMILAR ACTIONS. Where agreement, approval, acceptance,
+consent or similar action by either party hereto is required by any provision of
+this Agreement, such action shall not be unreasonably delayed or withheld.
+
+7.12 MODIFICATION; WAIVER. This Agreement may be modified only by a written
+instrument duly executed by or on behalf of each party hereto. No delay or
+omission by any party hereto to exercise any right or power hereunder shall
+impair such right or power or be construed to be a waiver thereof. A waiver by
+either of the parties hereto of any of the covenants to be performed by the
+other or any breach thereof shall not be construed to be a waiver of any
+succeeding breach thereof or of any other convenant herein contained.
+
+7.13 REMEDIES. Except as otherwise provided in this Agreement, all remedies
+provided for in this Agreement shall be cumulative and in addition to and not in
+lieu of any other remedies available to either party at law, in equity or
+otherwise.
+
+Page 8
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+7.14  INJUNCTIVE RELIEF. Compaq shall be entitled to seek extraordinary
+injunctive and other equitable relief, without necessity of posting bond.
+
+7.15  Entire AGREEMENT. This Agreement, including all exhibits which may be
+added hereto from time to time, each of which is incorporated herein for all
+purposes, constitute the entire agreement among the parties hereto with respect
+to the subject matter hereof and supersede and replace in all respects all other
+prior agreements and understandings between the parties hereto with respect to
+the subject matter hereof.
+
+7.16  RELATIONSHIP OF THE PARTIES. Each party agrees that in performing its
+duties hereunder it is operating as an independent contractor. Nothing contained
+in this Agreement is intended or is to be construed to constitute Compaq and
+Licensee as partners or joint venturers or either party as an employee of the
+other. Neither party hereto shall have any express or implied right or authority
+to assume or create any obligations on behalf of or in the name of the other
+party in connection with any contract, agreement or undertaking with any third
+party.
+
+7.17  NOTICE OF JUDICIAL PROCESS. Each party shall give the other immediate
+notice of any attachment or other judicial process affecting any of the rights
+and obligations under this Agreement, including, but not limited to, Licensed
+Software or any portion or component thereof and shall, whenever requested by
+Compaq, advise Compaq of the exact location of the Licensed or any portion or
+component thereof
+
+7.18  AGREEMENT CONSTRUCTION. All parties to this Agreement and their counsel
+have reviewed and revised this Agreement, and the normal rule of construction
+that any ambiguities in the Agreement are to be resolved against the drafting
+party shall not be employed in the interpretation of this Agreement
+
+7.19  LICENSEE CERTIFICATION. UPON request by Compaq, Licensee shall, on each
+anniversary date of this Agreement, certify that Licensee has complied with all
+terms and conditions of this Agreement.
+
+7.20  EXPORT. The parties agree to adhere to all applicable Export Laws and
+Regulations of the United States and that absent any required prior
+authorization from the Office of Export Licensing, U.S. Department of Commerce,
+they will not knowingly export or re-export (as defined in Part 779 of the
+Export Administration Regulations), directly or indirectly, through their
+affiliates, licensees, or Subsidiaries, any of the Materials (or any product,
+process, or service resulting directly therefrom) they receive under this or any
+ancillary agreements, to Country Groups Dl, El, E2, or Iran, Syria, Sudan or any
+other country hereafter restricted by the U.S. law or governmental order. The
+parties agree that in no event shall Information be exported unless strictly
+necessary to fulfill the purposes of this Agreement.
+
+7.21  SURVIVING OBLIGATIONS. The obligations of Sections 3.1, 4.1, and 5.4 shall
+survive any termination of this Agreement.
+
+Page 9
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+
+COMPAQ COMPUTER CORPORATION                 LICENSEE
+
+
+BY: /s/ WILLIAM  M. RAMSEY                  BY: /s/ JAY SCOTT
+
+Name:  Bill Ramsey                          Name: Jay Scott
+
+Title: V.P. MFG Strategy & Technology       Title: VP Product Services
+
+Date:  2-9-98                               Date:  Jan 15, 1998
+
+
+
+LEFT BLANK INTENTIONALLY
+
+Page 10
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+EXHIBIT A
+LICENSE SPECIFICS
+
+
+
+1.   LICENSEE:   COMPUCOM                                   (Legal Name)
+
+2.   LICENSEE'S PRINCIPAL PLACE OF BUSINESS:
+
+7171 Forest Lane Dallas, Texas 75230
+
+
+
+3.   LICENSEE'S STATE OR COUNTRY OF INCORPORATION:    DELAWARE
+4.   LICENSE PURPOSE: The purpose of the license is to provide Licensee access
+to the CCP Software Download System software sufficient to permit the Licensee
+to configure Compaq Products in accordance with the terms and conditions of the
+Channel Configuration Program Agreement entered into between the parties. The
+license does not convey to Licensee the right (a) to access, decompile, or
+change any code relating to the CCP Software Download System or to permit any
+third party to do so, (b) to copy or transfer the software, (c) to access the
+secured servers where the licensed software is resident, or (d) to use the
+software in connection with any products other than the specified Compaq
+Products.
+
+5.   TERM: The term of this License Agreement shall commence on the Effective
+Date first mentioned above and, unless otherwise terminated in accordance with
+the terms of this License Agreement, shall continue for a period of twelve (12)
+months. Compaq can extend this License Agreement, at its sole option, up to two
+(2) times for twelve (12) months for each extension.
+
+6.   SITE ADDRESS:    1225 Forest Parkway, Suite 500 Paulsboro, New Jersey 08066
+4686 Frontier Way, Stockton, California 92745
+
+7.   LICENSED SOFTWARE: The CCP Software Download System is designed to manage,
+track, deliver, store, install, and configure software at a Channel
+Configuration Program partner's location. In addition, the CCP Software Download
+System stores in the local CCP database information about each Compaq Product
+that receives a software configuration. The CCP Software Download System further
+sends the same information to Compaq (Houston) for use by several organizations
+including Compaq Service and Support and Finance.
+
+The major components of the system are:
+
+CCP Client Program
+CCP Import Program
+CCP Export Program
+CCP Software Download System diskette
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+CCP Image Capture Program
+PRISM Software Delivery System
+
+CCP CLIENT PROGRAM
+
+Provides a means for defining a configuration through a graphical user
+interface.
+
+CCP IMPORT PROGRAM
+
+Provides a means for defining a configuration through a text file.
+
+CCP EXPORT PROGRAM
+
+Transmits "As built" configuration information to Compaq (Houston).
+
+CCP Software Download System diskette
+
+Controls the delivery of software to the CCP units configured.
+
+CCP Image Capture Program
+
+Catalogs the contents of each hard drive in the PRISM and CCP databases. This
+information may be selected on future system configurations.
+
+PRISM Software Delivery System
+
+Controls the copying of software from the PRISM database to the CCP configured
+(UUT) system.
+
+8.   PRODUCTS (i.e., Products with which Licensee is authorized to use the
+Licensed Software): Compaq Computer Corporation personal computer products as
+specified in the Channel Configuration Program Agreement entered into between
+the parties.
+
+9.   NOTICE ADDRESS: 1225 Forest Parkway, Suite 500 Paulsboro, New Jersey 08066
+
+
+<PAGE>
+
+COMPAQ/LICENSEE CONFIDENTIAL
+
+
+EXHIBT B
+NOTICE AND NONDISCLOSURE AGREEMENT REGARDING
+CONFIDENTIALITY OF INFORMATION
+
+
+1.   Licensee is in possession of certain Confidential Information of Compaq
+that Licensee has received pursuant to the following agreements:
+Confidentiality and Non-Disclosure Agreement and a License Agreement.
+
+2.   To further the purposes of the business relationship between Compaq and
+Licensee, and in consideration of the disclosure to you of Compaq's
+proprietary software download, diagnostics, and test software, all of which
+is of a confidential nature and which contains valuable trade secrets, how-
+how, and proprietary information of Compaq (the "Confidential
+Information"), you acknowledge receipt of this Notice and agree to comply
+with the terms of this Notice.
+
+3.   You agree to maintain Compaq's Confidential Information in strictest
+confidence and not to disclose, whether verbally, in writing, or in other
+tangible form, any of the Confidential Information or any information that
+could be used to discover or reverse-engineer any of the Confidential
+Information. You may not download copies of the Confidential Information
+from the secured servers where the Confidential Information is resident or
+from any other component of the systems used to access such Confidential
+Information. You agree not to grant access to the Confidential Information
+or the systems used to store or access the Confidential Information to any
+unauthorized person, whether or not an employee or agent of Licensee.
+
+4.   You agree that Compaq and/or Licensee shall be entitled to enforce the
+terms of this Notice insofar as necessary to protect Compaq' trade secrets
+and Confidential Information. If you fail to comply with the terms of this
+Notice, Compaq and/or Licensee shall be entitled to equitable relief to
+protect their interests, including but not limited to injunctive relief, in
+addition to any other rights and remedies proved by law.
+
+
+
+ACKNOWLEDGED AND AGREED:
+
+/s/ JAY SCOTT
+Signature of employee
+
+Jay Scott  VP  Product Services
+Print Name and Title
+
+Jan 15, 1998
+Date
+
+Page 12
+

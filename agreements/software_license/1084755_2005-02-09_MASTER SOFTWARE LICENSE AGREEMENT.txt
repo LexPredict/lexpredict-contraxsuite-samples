@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+Master Software License Agreement
+
+
+
+Exhibit 10.3
+
+MASTER SOFTWARE LICENSE AGREEMENT
+
+This Master Software License and Services Agreement (the “Agreement”) is made and entered into by and between Ariba, Inc.,
+as identified in the applicable Order Form or SOW (“Ariba”), and SOFTBANK Corp., as identified in the applicable Order Form or SOW (“Customer”).
+
+This Agreement sets forth terms and conditions under which Customer may use certain Ariba Products. The Order Form submitted by Customer
+pursuant to Section 14.13 below shall be governed by this Agreement, in addition to the terms and conditions of the Order Form.
+
+1. DEFINITIONS
+
+1.1 “Ariba Products” means the Ariba software program(s) in object code format as identified in an applicable Order Form and related
+Documentation. Ariba Products are broken into the following categories of individual licensable products:
+
+1.1.1 A “Core” means the core application functionality upon which all subsequent functionality is based, which Ariba generally makes
+available for separate licensing to all customers.
+
+1.1.2 A
+“Module” means an extension of an underlying Core, with separate, unique application functionality different from the overlying Core, which Ariba generally makes available for separate licensing to all customers.
+
+1.1.3 An “Integration Pack” means integration functionality
+associated with a particular Core, configurable for use with a specific third party application, which Ariba generally makes available for separate licensing to all customers.
+
+1.1.4 A “Product Line” means a Core and any subset Modules and/or Integration Packs, which Ariba generally
+makes available for separate licensing to all customers
+
+1.1.5
+A “Product Pack” means a collection of one or more Modules, Integration Packs and Cores which Ariba generally makes available for separate licensing to all customers.
+
+1.2 “Documentation” means the authorized guides and manuals that are delivered or made available by Ariba
+to its customers (including Customer) for use with the Ariba Products.
+
+1.3 “Fees” means the fees stated in an Order Form or SOW.
+
+1.4 “Intellectual Property Right” means any patent, patent application, copyright, moral right, trade name, trademark, service mark, trade secret, and any applications or right to apply for
+registration therefor, internet domain names, logos, designs, slogans, and general intangibles of like nature, computer software programs or applications, tangible or intangible proprietary information, know-how, proprietary processes, formulae,
+algorithms, or any other intellectual property right, whether registered or unregistered, and whether first created before or after the Agreement Effective Date.
+
+1.5 “License Term” means the period of time under which the license for an applicable Ariba Product shall
+be effective, as set forth in the applicable Order Form and commencing upon the applicable Order Form Effective Date.
+
+1.6 “Order Form” means a separate document, governed by this Agreement, by which Customer orders Ariba Products.
+
+1.7 “Order Form Effective Date” means the date identified on
+an applicable Order Form upon which such Order Form becomes effective.
+
+
+
+
+
+
+
+2. LICENSE
+
+2.1 Subject to the terms and conditions of this Agreement and any applicable Order Form, and in consideration of Customer’s payment of all applicable
+Fees, Ariba grants to Customer a non-sublicensable (except as otherwise set forth in this Agreement, an Order Form, or an SOW), nonexclusive, nontransferable right to internally use the Ariba Products designated in an applicable Order Form solely
+for Customer’s business operations as referenced in this Agreement, an Order Form, or a SOW during the License Term. No Customer affiliate and/or subsidiary may use the applicable Ariba Products unless otherwise set forth in an applicable Order
+Form.
+
+2.2 Except for a single back-up copy for disaster
+recovery purposes and a single copy for load balancing, Customer may possess only one (1) copy of any Ariba Products licensed and paid for by Customer under this Agreement. As between the parties, Ariba retains all right, title, and interest to all
+Intellectual Property Rights in all Ariba Products and Ariba Confidential Information, and any copies thereof. Customer shall only be entitled to use the specific Ariba Products (e.g. Core, Module, or other product) specified and licensed under the
+applicable Order Form, regardless of whether additional Ariba Products are delivered to Customer (on CD or otherwise). Nothing in this Agreement grants Customer any right, title, license or interest in or relating to the source code of the Ariba
+Products. Any third party software embedded, included or otherwise provided by Ariba for use with the Ariba Products may only be used in conjunction with such Ariba Products ordered under an applicable Order Form. The Ariba Products are designed for
+use with the equipment and accessories specified in the Documentation. Ariba assumes no responsibility under this Agreement for obtaining or providing such equipment. Customer is also responsible for ensuring a proper environment and proper
+utilities for the computer system with which the Ariba Products will be used.
+
+2.3 Customer shall comply with the license terms and use restrictions stated in the Order Form. Customer agrees to maintain the copyright, trademark, logos, and other notices that appear on the Ariba Products on all
+associated media, screens, and copies thereof. Customer shall not, and shall not allow any third party to: (i) reverse engineer, decompile, translate, disassemble or attempt to discover any source code or underlying ideas or algorithms of any Ariba
+Products (except to the extent such restriction is prohibited by applicable local law in order to obtain interoperability), (ii) except as otherwise set forth in this Agreement, an Order Form, or a SOW, transfer, sell, lease, lend, disclose, or use
+for timesharing or service bureau purposes any Ariba Products, (iii) except as otherwise set forth in this Agreement, an Order Form, or an SOW, use, provide, or allow others to use Ariba Products for the benefit of any third party, (iv) use Ariba
+Products, or allow the transfer, transmission, export, or re-export of any Ariba Products, or portion thereof, in violation of any export control laws or regulations administered by the U.S. Commerce Department’s Bureau of Export
+Administration, the U.S. Department of Treasury’s Office of Foreign Assets Control, or any other applicable government agency, or (v) except as otherwise set forth in this Agreement, an Order Form, or a SOW, reset or disable the Ariba Products.
+
+
+3. INTENTIONALLY LEFT BLANK.
+
+4. FEES AND PAYMENT TERMS
+
+4.1. Customer agrees to pay to Ariba the Fees in the amounts and at the
+times set forth in the applicable Order Form. Except as otherwise provided in this Agreement, the Order Form, or a SOW, all Fees shall be nonrefundable. Except as otherwise provided in the applicable Order Form, all Fees shall be due on the Order
+Form Effective Date and payable by Customer in U.S. dollars net thirty (30) days from the date of invoice.
+
+4.2. All Fees payable under this Agreement are exclusive of tax. Customer shall pay any taxes, including sales, use, personal property, value-added,
+excise, customs fees, import duties or stamp duties or other taxes and duties imposed by governmental agencies of whatever kind and imposed with respect to all transactions under this Agreement, including penalties and interest but specifically
+excluding any income or equivalent taxes payable by Ariba. Such taxes added to the invoice, as prescribed by applicable law, will be paid by Customer “net thirty (30) days” from the date of invoice or other notification. Upon reasonable
+request of Ariba to assist Ariba in obtaining tax credits or
+
+
+
+
+
+
+
+deductions, Customer shall provide to Ariba original or certified copies of all tax payments or other evidence of payment
+of taxes by Customer with respect to transactions or payments under this Agreement. Customer shall take all reasonable actions requested by Ariba that will assist Ariba in reducing its tax liability with respect to transactions under this Agreement,
+which actions include, but are not limited to, applying on its own or on Ariba’s behalf for reduced withholding rates, concessionary tax rates or other favorable tax treatment.
+
+5. DELIVERY
+
+5.1 Ariba Products. Ariba shall deliver the Ariba Products, the Documentation, and any other deliverables under this Agreement, an Order Form, or a SOW
+electronically. All deliveries will be deemed to occur at the Customer’s Ship To Address per the Order Form unless written notification is provided by the Customer of a different download location. Unless otherwise specified in an applicable
+Order Form, all subsequent increases or modifications to Customer’s order hereunder shall be deemed to be delivered under the same terms as the original license. Customer’s right to use each additional authorized copy of the Ariba
+Products, as permitted under this Agreement, shall be deemed to arise at the location where the original was first installed.
+
+6. TERMINATION
+
+6.1 A party (“Terminating Party”) may, by written notice of default to the other party (“Terminated Party”), (i)
+terminate this Agreement, in whole or in part, including any Order Forms or SOWs (a) if the Terminated Party materially breaches this Agreement, and the Terminated Party does not cure such material breach within thirty (30) calendar days after
+receipt of written notice of such breach; or (b) immediately following the failure to resolve the suspension of business, insolvency, institution of bankruptcy, liquidation proceedings by or against the Terminated Party, appointment of a trustee or
+receiver for the Terminated Party’s property or business, or any assignment, reorganization or arrangement by the Terminated Party for the benefit of its creditors; or (c) immediately upon a material breach of Section 2 (License) by the
+Terminated Party, or (ii) terminate any individual Order Form or SOW if the Terminated Party fails to perform any provision of such Order Form or SOW and does not cure the breach within thirty (30) calendar days after receipt of written notice
+thereof.
+
+6.2 Upon expiration or termination of this
+Agreement, all of Customer’s licenses to use the Ariba Products, and all other rights, services and licenses granted by Ariba to Customer as set forth in this Agreement, shall cease immediately (except for those rights, licenses and obligations
+that are expressly stated to survive termination of this Agreement).
+
+6.3 If an Order Form or SOW (but not the Agreement) terminates or if the License Term of an applicable Ariba Product set forth in an Order From expires, all of Customer’s licenses to use the applicable Ariba Products, and all other
+rights, services and licenses granted by Ariba to Customer as set forth in such Order Form or SOW, as applicable, shall cease immediately (except for those rights, licenses and obligations that are expressly stated to survive termination of such
+Order Form). Termination of any single Order Form or SOW shall not result in the termination of this Agreement; however, termination of all Order Forms and SOWs shall result in the termination of this Agreement.
+
+Within ten (10) days from the date of any termination, Customer shall provide
+Ariba with a signed written statement by Customer certifying that Customer has not retained any copies of (i) the applicable Ariba Products and any accompanying Documentation, and (ii) any Ariba Confidential Information.
+
+Termination of this Agreement or any license shall not limit either party
+from pursuing other remedies available to it, including injunctive relief, nor shall such termination relieve Customer’s obligation to pay all fees that have accrued or are otherwise identified as being owed by Customer, now or at some future
+date, under any Order Form or SOW.
+
+7. NO WARRANTIES
+
+THE ARIBA PRODUCTS AND ARIBA SERVICES ARE PROVIDED “AS IS,” WITHOUT ANY WARRANTY
+WHATSOEVER. ARIBA DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, AS TO ANY MATTER WHATSOEVER, INCLUDING ALL IMPLIED
+
+
+
+
+
+
+
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. ARIBA SHALL HAVE NO LIABILITY WITH
+RESPECT TO THE PERFORMANCE OF ANY PRODUCT AND CUSTOMER SHALL HAVE NO REMEDY WITH RESPECT TO PRODUCT PERFORMANCE. ARIBA DOES NOT WARRANT THAT THE ARIBA PRODUCTS OR ARIBA SERVICES, OR ANY PORTION THEREOF, ARE ERROR OR BUG FREE, OR THAT CUSTOMER’S
+USE OF THE ARIBA PRODUCTS OR ARIBA SERVICES WILL BE UNINTERRUPTED.
+
+8.
+LIMITATION OF LIABILITY
+
+EXCEPT FOR (I) A BREACH BY CUSTOMER OF THE
+LICENSE RESTRICTIONS IN SECTION 2.3, OR (II) PAYMENT OF AUDIT COSTS PURSUANT TO SECTION 12 or (III) A BREACH BY CUSTOMER OF SECTION 4.1 SOLELY FOR FAILURE OF CUSTOMER TO PAY THE FEES DUE AND PAYABLE UNDER SECTION 4.1 (IN WHICH CASE CUSTOMER’S
+TOTAL AND AGGREGATE LIABILITY SHALL BE LIMITED TO ONLY THE AMOUNT OF THE FEES STILL DUE AND PAYABLE UNDER SECTION 4.1 IF ANY), A PARTY’S TOTAL AND AGGREGATE LIABILITY UNDER OR IN CONNECTION WITH THIS AGREEMENT, AN ORDER FORM, AND SOW SHALL NOT
+EXCEED ONE DOLLAR. EXCEPT FOR A BREACH BY CUSTOMER OF THE LICENSE RESTRICTIONS IN SECTION 2.3, IN NO EVENT SHALL EITHER PARTY OR ANY OF THEIR AFFILIATES, AGENTS, OR SUPPLIERS BE LIABLE UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL
+OR EQUITABLE THEORY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO DAMAGES RESULTING FROM INTERRUPTION OF USE, COST OF COVER, LOSS OR CORRUPTION OF DATA, LOST
+PROFITS OF THE OTHER PARTY OR ANY OF THE OTHER PARTY’S AFFILIATES, LOSSES RESULTING FROM SYSTEM SHUTDOWN, FAILURE TO ACCURATELY TRANSFER, READ OR TRANSMIT INFORMATION, FAILURE TO UPDATE OR PROVIDE CORRECT INFORMATION, STOLEN OR MISUSED
+PASSWORDS, SYSTEM INCOMPATIBILITY OR PROVIDING INCORRECT COMPATIBILITY INFORMATION, OR BREACHES IN SYSTEM SECURITY, WHETHER OR NOT A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF
+ANY REMEDY, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, AN ORDER FORM, AND SOW. THIS SECTION 8 SHOULD NOT BE CONSTRUED TO AND SHALL NOT PROVIDE ANY PARTY ANY TYPE OR CATEGORY OF DAMAGES, INCLUDING WITHOUT LIMITATION THOSE CATEGORIES LISTED
+ABOVE, NOT OTHERWISE AVAILABLE UNDER APPLICABLE LAW.
+
+9. CONFIDENTIALITY
+
+
+A party (the “Discloser”) may disclose to the other
+party (the “Recipient”) information that the Discloser considers to be confidential and at the time of disclosure is identified as confidential and/or proprietary (“Confidential Information”). Notwithstanding
+anything to the contrary herein, Confidential Information shall be deemed to include the Ariba Products, the terms and conditions of this Agreement (including pricing), and either party’s technical and business information relating to
+inventions or software, research and development, future product specifications, implementation methodologies, engineering processes, costs, profit or margin information, and marketing and future business plans. The parties agree, unless required by
+law, not to use or make each other’s Confidential Information available to any third party for any purpose other than as necessary to perform under this Agreement. Recipient shall protect the Confidential Information of Discloser by using the
+same degree of care, but no less than a reasonable degree of care, that it uses to protect its own confidential information of a like nature to prevent its unauthorized use, dissemination or publication by its employees or agents. Both parties
+acknowledge that any breach of its obligations with respect to Confidential Information may cause the other irreparable injury for which there are inadequate remedies at law and that Discloser shall be entitled to seek equitable relief in addition
+to all other remedies available to it. Customer shall not disclose the results of any performance tests of the Ariba Products to any third party without Ariba’s prior written approval. A party’s Confidential Information shall not include
+information that: (i) is or becomes publicly available through no act or omission of Recipient; (ii) was in the Recipient’s lawful possession prior to the disclosure and was not obtained by Recipient either directly or indirectly from the
+Discloser; (iii) is lawfully disclosed to the Recipient by a third party without restriction on Recipient’s disclosure, and where Recipient was not aware that the information was the confidential information of Discloser; (iv) is independently
+developed by the Recipient without violation of this Agreement; or, (v) which is disclosed by Recipient
+
+
+
+
+
+
+
+as needed to comply with a court order, subpoena, or other government demand (provided that Recipient first notifies
+Discloser and gives Discloser the opportunity to challenge such court order, subpoena, or government demand).
+
+10. TRADEMARKS
+
+Neither party grants
+the other party any rights to use its trademarks, service marks, or other proprietary symbols or designations (“Trademarks”) without the written consent of the other party, except as otherwise described herein. Neither party will combine
+the other’s Trademarks so as to effectively create a unitary composite mark, nor shall it use any product name or trademark in a manner that is confusingly similar to the other party’s Trademark.
+
+11. INTENTIONALLY LEFT BLANK.
+
+12. AUDIT
+
+Customer agrees to allow a mutually acceptable independent certified public accountant to audit and analyze the Customer’s compliance
+with the terms of this Agreement. Any such audit shall be permitted by Customer within thirty (30) days of Ariba’s written request and shall be performed during normal business hours at times mutually agreed upon by Customer and Ariba. Audits
+shall be made no more frequently than once every twelve (12) months, and shall not unreasonably interfere with Customer’s business activities. If an audit should reveal a discrepancy between the Fees owed Ariba and the Fees actually paid by
+Customer, Customer will promptly pay the difference. In the event an audit should establish an underpayment of greater than ten percent (10%) of payments owed Ariba for any particular period, Customer shall be responsible for reimbursement of all
+reasonable, verifiable costs related to the performance of the subject audit (collectively, “Audit Costs”).
+
+13. FORCE MAJEURE
+
+Neither party shall be liable to the other for failure or delay in the performance of a required obligation if such failure or delay is caused by riot, fire, flood, earthquake, natural disaster, electronic virus,
+electronic attack or infiltration, internet disturbance, government act or other similar cause beyond such party’s (the “Affected Party”) control (collectively, a “Force Majeure Event”), provided that Affected Party gives
+prompt notice of such condition, uses reasonable efforts to resume its full performance as soon as possible, and provided further that the other party (the “Non-Affected Party”) may terminate the affected Order Form or SOW if such
+condition continues for a period of one hundred eighty (180) days. During the Force Majeure Event, the Non-Affected Party may similarly suspend its performance obligations, until such time as the Affected Party resumes its performance obligations.
+
+
+14. MISCELLANEOUS
+
+14.1 Customer shall not assign, sublicense or otherwise transfer this
+Agreement, including any license, Order Forms or SOWs, in whole or in part, even in the event of merger or acquisition, without the prior written consent of Ariba.
+
+14.2 The parties hereto are and shall remain independent contractors, and nothing herein shall be deemed to cause this
+Agreement to create an agency, partnership, or joint venture between the parties hereto. Nothing in this Agreement shall be interpreted or construed as creating or establishing the relationship of employer and employee between Customer and either
+Ariba or any employee or agent of Ariba.
+
+14.3 The failure of
+either party to act in the event of a breach of this Agreement by the other shall not be deemed a waiver of such breach or a waiver of future breaches, unless such waiver is provided to the other party in writing and signed by the party against whom
+enforcement is sought.
+
+14.4 The Ariba Products may require a
+license for export from the U.S. Government that requires advance disclosure of the ultimate consignee and all parties to the sale, and prohibits diversion, transshipment, or reexportation out of the United States contrary to U.S. law and
+regulations. Both parties agree to comply with all relevant export laws and regulations. The Customer agrees to furnish
+
+
+
+
+
+
+
+all documentation required by the U.S. Government in connection with obtaining any required export license, and agrees
+that unauthorized diversion, transshipment or reexportation of the Ariba Products in violation of the export license or any applicable law shall not be permitted.
+
+14.5 Any and all provisions or obligations contained in this Agreement which by their nature or effect are required or
+intended to be observed, kept or performed after termination of this Agreement will survive the termination of this Agreement and remain binding upon and for the benefit of the parties, their successors and permitted assignees.
+
+14.6 Any notice given under this Agreement shall be in writing and in the
+English language and shall be delivered by certified or registered mail, postage prepaid, return receipt requested or by an overnight courier service with delivery receipt. All notices to Ariba must be sent to the attention of Ariba at the address
+set forth on the Order Form or SOW to which the matter relates, copy to General Counsel. Notices to Customer shall be sent to the address set forth in the address block in an applicable Order Form or to any other address Customer specifies in
+writing.
+
+14.7 This Agreement and any Order Form or SOW, and
+any disputes arising out of or relating to this Agreement and any Order Form or SOW, shall be governed by and construed in accordance with the laws of the State of California. The Parties shall attempt to resolve all disputes between the Parties
+arising out of or relating to this Agreement and any Order Form or SOW amicably through good faith discussions upon the written request of any Party. In the event that any such dispute cannot be resolved thereby within a period of thirty (30) days
+after such notice has been given, such dispute shall be finally resolved by binding arbitration in San Francisco, California, using the English language in accordance with the Arbitration Rules and Procedures of JAMS then in effect. The Parties
+agree that Hon. Daniel Weinstein (Ret.) shall retain jurisdiction to resolve any disputes arising out of or relating to this Agreement and any Order Form or SOW. In the event Judge Weinstein is not able to preside over the arbitration, the matter
+will be submitted to arbitration before Hon. Charles B. Renfrew (Ret.). If Hon. Charles B. Renfrew (Ret.) is not able to preside, the dispute shall be finally resolved by binding arbitration In San Francisco, California, using the English language
+in accordance with the Arbitration Rules and Procedures of JAMS, including the arbitrator selection procedures, then in effect. The Parties consent to the exercise of personal jurisdiction over each of them by the federal and state courts within the
+State of California for the purposes of enforcing any arbitration award that may result from arbitration proceedings instituted to resolve any disputes arising out of or related to this Agreement and any Order Form or SOW, or to prevent any
+threatened violation of this Agreement and any Order Form or SOW.
+
+14.8 If any end user of the Ariba Products is an agency or department of the U.S. Government (“Government”), the use, duplication, reproduction, release, modification, disclosure, or transfer of the Ariba Products, or any related
+documentation of any kind, including but not limited to technical data or manuals, is restricted in accordance with FAR 12.212 for civilian agencies and DFAR Supplement 227.7202 for military agencies. The Ariba Products are commercial computer
+software and commercial computer software documentation. The use of the Ariba Products by the Government is further restricted in accordance with the terms of this Agreement.
+
+14.9 This Agreement shall not be construed against the party preparing it but shall be construed as if both parties jointly
+prepared this Agreement, and any uncertainty and ambiguity shall not be interpreted against any one party.
+
+14.10 If any provision of this Agreement shall be adjudged to be unenforceable or invalid in accordance with the procedures in 14.7, that provision shall
+be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and remain enforceable between the parties.
+
+14.11 The section headings appearing in this Agreement are inserted only as a matter of convenience and in no way define,
+limit, construe or describe the scope or extent of such section or in any way affect such section.
+
+14.12 This Agreement may be executed simultaneously in two or more counterparts, each of which will be considered an original, but all of which together
+will constitute one and the same instrument. For clarification purposes, the dates contained in the signature blocks of this Agreement
+
+
+
+
+
+
+
+or any documents executed pursuant to this Agreement only indicate the date(s) upon which such document was signed, and
+shall have no effect on any other term of this Agreement. The parties may treat faxed documents as originals; however, this shall not preclude either party from requiring the exchange of original signatures.
+
+14.13 This Agreement envisions the creation of one or more Order Forms or
+SOWs for the purchase of Ariba Products and/or Services, respectively. In the absence of an applicable Order Form or SOW, this Agreement shall have no effect. Such Order Forms may be executed concurrently or subsequently with this Agreement. Each
+Order Form or SOW executed under this Agreement shall incorporate the terms and conditions of this Agreement and, along with any documents incorporated by reference into this Agreement or the applicable Order Form or SOW, shall constitute a
+complete, absolute integration and the entire agreement between the parties of such Order Form or SOW relating to the subject matter thereof, and shall supersede all prior representations, proposals, discussions, and communications, whether oral or
+in writing, and all contemporaneous oral communications related to such matters. Notwithstanding the content of any purchase order, sale order, sale confirmation or any other document or web site relating to the subject matter of this Agreement,
+this Agreement and any Order Form and/or SOW shall take precedence over any such document, and any conflicting, inconsistent, or additional terms contained therein shall be null and void. In the event of a conflict between the terms and conditions
+of this Agreement and any individual Order Form or SOW, the Order Form or SOW shall govern. This Agreement and any Order Form or Sow incorporating this Agreement may be modified only in writing and shall be enforceable in accordance with its terms
+if such written modification is signed by the party to be bound.
+
+Agreement
+Effective Date: October     , 2004
+
+
+
+Ariba, Inc.	 	Customer: SOFTBANK Corp.
+
+By:
+
+By:
+
+
+
+Name:	 	 	 	Name:
+
+Title:	 	 	 	Title:
+
+Date Signed:	 	 	 	Date Signed:
+
+

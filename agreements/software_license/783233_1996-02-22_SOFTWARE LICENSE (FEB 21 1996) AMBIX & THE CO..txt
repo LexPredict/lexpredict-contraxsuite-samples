@@ -1,0 +1,851 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+EXHIBIT 99.6
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+BY AND BETWEEN
+
+
+
+AMBIX ACQUISITION CORP.
+
+
+AND
+
+
+ACC CORP.
+
+
+
+FEBRUARY 21, 1996
+<PAGE>
+
+SOFTWARE LICENSE AGREEMENT
+
+
+THE PARTIES
+
+AGREEMENT between Ambix Acquisition Corp. ("Ambix") of 400 West Ave.,
+Rochester, New York 146111, and ACC Corp. ("ACC"), with its principal office and
+place of business at 400 West Ave., Rochester, New York 14611.
+
+
+RECITALS
+
+I.   Ambix has developed and owns certain computer and systems software in which
+it possesses copyrights and/or rights in the nature of trade secrets and
+confidential know-how.  This Software is referred to herein as the "Software."
+
+II.  Ambix and ACC desire to enter into a License Agreement for the Software on
+the terms and conditions set forth herein.
+
+NOW, THEREFORE the parties agree as follows:
+
+1.   Ambix hereby licenses and ACC agrees to license from Ambix under
+the terms and conditions contained herein, the Software, as defined in Schedule
+II attached hereto.
+
+2.   Each party agrees to abide by the terms and conditions contained
+in this Agreement.
+
+3.   The following schedules are part of this Agreement:
+
+SCHEDULE I:    License Agreement Definitions, Terms and
+Conditions.
+SCHEDULE II:   "The Software"
+
+4.   ACC acknowledges that it has read and agrees to all terms and
+conditions set forth in this Agreement and the attached Schedules.
+
+IN WITNESS WHEREOF the parties have executed this Software License
+Agreement this 21th day of February, 1996.
+
+
+AMBIX ACQUISITION CORP.             ACC CORP.
+
+By:/s/ Andrew P. McIntosh           By:/s/ David K. Laniak
+Andrew P. McIntosh                     David K. Laniak
+President                              Chief Executive Officer
+<PAGE>
+
+
+
+SCHEDULE 1
+
+GENERAL TERMS
+
+1.0  DEFINITIONS.  When used in this Agreement, the capitalized terms listed
+below shall have the following meanings:
+
+1.1  "AFFILIATE" shall mean any majority-owned subsidiary of ACC or
+any joint venture entity, whether in corporate or partnership form, in which ACC
+owns or controls, directly or indirectly, fifty percent or more of the aggregate
+stock or other interest entitled to vote on general decisions reserved to the
+stockholders, partners, or other owners of such entity, provided that any such
+entity shall be deemed an AFFILIATE for so long, and only so long, as ACC
+continues to hold such interest and only so long as any such entity owns and
+operates a business or businesses substantially similar to ACC's line(s) of
+business as conducted at any time during the term of this Agreement.
+
+1.2  "CODE" shall mean computer programming code pertaining solely to
+the SOFTWARE.  If not otherwise specified, CODE shall include only OBJECT CODE
+and not SOURCE CODE.
+
+(a) "OBJECT CODE" shall mean code which is directly machine readable
+and executable by a computer after suitable processing and is in a form that is
+not generally understandable by humans.
+
+(b) "SOURCE CODE" shall mean code other than Object Code and related
+system documentation, comments, and procedural programming statements which may
+be printed out or displayed in a form readable and understandable by a human
+programmer of ordinary or pertinent skill.
+
+1.3  "DELIVERABLE" shall mean any tangible material procured or
+prepared by Ambix and delivered or licensed to ACC pursuant to this Agreement,
+including the SOFTWARE and DOCUMENTATION.
+
+1.4  "DERIVATIVE WORK" shall have the meaning set forth in the
+Copyright Act (Title 17 U.S.C. (S) 101 et seq.).  AMBIX shall own all DERIVATIVE
+WORKS as described in Section 11.
+
+1.5  "DOCUMENTATION" shall mean user manuals and other written
+materials that relate to the SOFTWARE, CODE, or other DELIVERABLE, including
+materials useful for design (for example, logic descriptions, flow charts, class
+definitions, principles of operation, and the like).
+
+1.6  "ENHANCEMENTS" shall mean changes or additions to CODE and
+related DOCUMENTATION made available by Ambix to Ambix
+<PAGE>
+
+
+customers in new releases that improve functions/classes/objects, add new
+functions/classes/objects or improve performance by changes to previously
+released CODE without changes to system architecture, general design methodology
+or method of execution of the object code (e.g. single-threaded or multiple-
+threaded).  Further, ENHANCEMENTS as defined under this Agreement shall pertain
+to improvements upon, or new releases to, the SOFTWARE and do not refer to any
+components, classes or objects licensed to any other Ambix customer which are
+not licensed by ACC pursuant to this Agreement.
+
+1.7  "ERROR" shall mean any error, problem, or defect resulting from
+(1) an incorrect functioning of the SOFTWARE, or (2) an incorrect or incomplete
+statement or diagram in the DOCUMENTATION, if such an error, problem, or defect
+renders the SOFTWARE inoperable, causes the SOFTWARE materially to (i) fail to
+meet the applicable SPECIFICATIONS or the acceptance criteria therefor, (ii) be
+inaccurate or incomplete in any material respect, or (iii) cause incorrect
+functions to occur when any such materials are used.
+
+1.8  "IP RIGHTS" shall mean all intellectual property rights,
+including inventions, discoveries, improvements, copyrights, patents, trade
+secrets, trademarks, and other proprietary rights that are embodied in or used
+in connection with the SOFTWARE, the DOCUMENTATION, or other DELIVERABLE.
+
+1.9  "LICENSE FEE" shall mean the fee referred to in Section 4.0.
+
+1.10 "SOFTWARE" shall mean the computer software, including OBJECT
+CODE as defined above, set forth in Schedule II and licensed hereunder,
+including any ENHANCEMENTS, modifications to, and other DERIVATIVE WORKS of, the
+SOFTWARE as provided under this Agreement.  SOFTWARE shall include any
+applicable CODE.
+
+1.11 "SPECIFICATIONS" shall mean the detailed design and functional
+specifications related to the design and performance of the SOFTWARE and any
+other DELIVERABLE hereunder.
+
+
+2.0  LICENSE OF SOFTWARE.  (a) Ambix grants and ACC accepts a personal,
+perpetual, non-exclusive license to use the SOFTWARE pursuant to the terms of
+this Agreement.  Such license is granted to ACC for its own use at an ACC-site
+location as designated by ACC, and at any AFFILIATE or AFFILIATE-site location
+as designated by ACC, and for purposes substantially similar to the business of
+ACC.  The license is for a term commencing on the date hereof and extending for
+an indefinite period, subject to termination by Ambix pursuant to Section 16.
+ACC acknowledges and agrees that the SOFTWARE is not hereby sold to ACC and that
+ACC does not by virtue of this Agreement acquire any ownership
+<PAGE>
+
+
+rights in the SOFTWARE or the IP RIGHTS (including copyrights, trademarks, trade
+secrets and know-how) embodied in the SOFTWARE, the CODE or in any accompanying
+DOCUMENTATION.
+
+(b) ACC shall have the right to grant sublicenses in the SOFTWARE and
+other DELIVERABLES to its AFFILIATES pursuant to written sublicense agreements,
+provided:
+
+(I) ACC provides Ambix with prior written notice of each sublicense,
+and delivers a copy of the sublicense agreement to Ambix promptly after the same
+is executed (provided that ACC may delete any information which is confidential
+or proprietary to ACC from such sublicense);
+
+(II) Under the terms of the sublicense agreement, the sublicensee is
+barred from transferring or further sublicensing the SOFTWARE without the prior
+written consent of Ambix (which Ambix may withhold in its sole discretion); the
+sublicense contains provisions comparable to Section 10, 11, 14, and 15 hereof
+and grants Ambix audit rights comparable to those set forth in Section 6 hereof;
+and otherwise such sublicense grants to the sublicensee no rights more extensive
+than those granted to ACC hereunder.
+
+(III)  The term of such sublicense is made co-extensive with the term
+of this Agreement and subject to earlier termination by Ambix in the event the
+sublicensee ceases to be an AFFILIATE of ACC and at that time fails to execute a
+separate license agreement and a support and maintenance agreement with Ambix;
+and
+
+(IV) ACC either includes the sublicensee in its then current support
+and maintenance agreement with Ambix or causes the sublicensee to enter into a
+separate support and maintenance agreement for the SOFTWARE.
+
+(c) Ambix will deposit with ACC all SOURCE CODE and all DOCUMENTATION
+and other materials useful or necessary to facilitate the use by ACC or its
+contractors of the SOURCE CODE as described in Section 19.  If Ambix reasonably
+cannot perform its obligations under this Agreement as provided in Section 16,
+Ambix grants to ACC the license and right to use the SOURCE CODE of any or all
+SOFTWARE pursuant to the terms of this Agreement, and "SOFTWARE" (as defined
+herein) shall include both OBJECT CODE and SOURCE CODE.  Should ACC exercise its
+rights to use the SOURCE CODE, all provisions of this Agreement remain in effect
+with respect to limitations upon commercial transfer, licensing, sub-licensing
+and disclosure of IP RIGHTS.  ACC's use of the SOURCE CODE shall include all
+rights and uses reasonably necessary to maintain, support, modify, and enhance
+the SOFTWARE and to develop new works or DERIVATIVE WORKS from the SOFTWARE and
+other DELIVERABLES.
+<PAGE>
+
+
+(d)  If there is a good faith dispute between Ambix and ACC whether
+Ambix has not performed as provided in Section 16, ACC shall be entitled to
+exercise its rights under Section 2.0(c) with respect to the SOURCE CODE.  If it
+is determined in the resolution of such dispute that Ambix had performed and
+will continue to perform all of its obligations in this Agreement, ACC shall
+return the SOURCE CODE and related DOCUMENTATION to the repository identified in
+Section 19; however, if it is determined that Ambix cannot perform, ACC's right
+to use the SOURCE CODE under Section 2.0(c) continues.
+
+
+3.0  DELIVERY.  Ambix shall deliver the SOFTWARE and other DELIVERABLES on, or
+as soon thereafter as is practical, ACC's requested delivery date and to the
+locations designated by ACC.  ACC shall be responsible for assisting Ambix in
+the installation of the SOFTWARE and shall provide all on-site equipment,
+supplies, personnel and computer resource necessary to complete such
+installation.  Ambix shall not be responsible for delays or failure of
+installation resulting directly or indirectly from causes beyond the reasonable
+control of Ambix.
+
+
+4.0  LICENSE FEE.  ACC shall pay and Ambix shall accept a one time LICENSE FEE
+in the amount of $1,600,000 in full payment for this license to use the SOFTWARE
+and other DELIVERABLES and all other rights granted hereunder.  In addition, ACC
+shall pay or reimburse Ambix for all shipping and handling charges and all
+taxes, assessments, fees or charges of any kind imposed by any government,
+however designated, relating to this license of the SOFTWARE; including, but not
+limited to, sales, use, privilege, excise, withholding, value-added, or property
+taxes; excluding, however, taxes based upon the net income of Ambix.
+
+
+5.0  TERMS OF PAYMENT.  ACC shall pay Ambix immediately upon execution of this
+Agreement.
+
+
+6.0  RIGHT TO AUDIT.  Ambix may, at Ambix's cost, from time to time (but not
+more than twice in any calendar year) during ACC's or an AFFILIATE's normal
+business hours, have one of its employees or representatives confirm at ACC's
+offices, or the offices of any AFFILIATE, that ACC is in compliance with the
+terms and conditions of this Agreement, including performing an on-line audit of
+the SOFTWARE and its related databases to assess compliance with IP RIGHTS,
+copyright and trade secret provisions of this Agreement.
+
+
+7.0  DOCUMENTATION.  At the time of the delivery of the applicable SOFTWARE,
+Ambix shall provide ACC with DOCUMENTATION
+<PAGE>
+
+
+for each application or other component or module of the SOFTWARE.  ACC may copy
+and create DERIVATIVE WORKS from all or any part of the DOCUMENTATION provided
+that (a) such items shall be solely for ACC or the applicable AFFILIATE's own
+use at ACC's own facilities or the facilities of an AFFILIATE, and (b) such
+items shall be created only in connection with changes in the applicable
+SOFTWARE or for ease of use and instruction with the SOFTWARE.  ACC or AFFILIATE
+shall reproduce on all such copies all copyright, trademark, trade secret,
+and/or proprietary rights notices or legends which were on the copies delivered
+to ACC or AFFILIATE by Ambix.
+
+
+8.0  SOFTWARE SUPPORT.  For so long as this License Agreement shall remain in
+effect, Ambix shall provide ACC with support and maintenance of the SOFTWARE
+under a separate agreement.  Except as otherwise subject to a fixed fee
+agreement (as planned for the SOFTWARE), ACC shall pay Ambix's then prevailing
+charges for the time spent in servicing such SOFTWARE, including portal to
+portal travel time and reasonable transportation, food, and lodging expenses.
+Such charges shall not be greater than the amounts charged by Ambix to its most
+favored customer for similar or comparable services.
+
+
+9.0  TRAINING.  If requested by ACC, Ambix shall provide training in the use of
+the SOFTWARE for ACC's personnel for up to fifteen (15) days.  Thereafter, Ambix
+will provide such training at mutually agreeable times, at mutually agreeable
+locations (subject to the availability of Ambix personnel), and at mutually
+agreed rates.
+
+
+10.0  IP RIGHTS AND CONFIDENTIALITY.  ACC acknowledges that Ambix has expended
+substantial effort and incurred great expense in designing and developing the
+SOFTWARE and DOCUMENTATION.  ACC further acknowledges that the SOFTWARE and
+DOCUMENTATION incorporate information, concepts, ideas, know-how, techniques,
+and functional characteristics which are confidential and constitute proprietary
+information and trade secrets of Ambix.  Ambix acknowledges that it has and will
+learn of and about confidential business, financial, operating, and technical
+information of ACC and its AFFILIATES, which could include patents, copyrights,
+trade secrets and other proprietary rights.  Each party therefore acknowledges
+that it will become privy to the confidential information ("CONFIDENTIAL
+INFORMATION") of the other.
+
+10.1 The recipient of such CONFIDENTIAL INFORMATION of the discloser
+covenants and agrees the following:
+<PAGE>
+
+
+(a) the recipient will hold the CONFIDENTIAL INFORMATION in the
+strictest confidence and will not assign, license, sublicense, market, transfer,
+or otherwise disclose all or any portion of the CONFIDENTIAL INFORMATION to any
+person or entity without the prior written consent of the discloser, which may
+be withheld in the discloser's sole discretion, except in accordance with
+Section 18.B or as permitted under this Agreement;
+
+(b) the recipient will take all reasonable steps to prevent
+inadvertent or unauthorized disclosure, transfer, or reproduction in any form of
+the CONFIDENTIAL INFORMATION;
+
+(c)  the recipient will notify its employees and agents of the
+confidentiality of the CONFIDENTIAL INFORMATION as well as notify its employees
+of the prohibitions on disclosure, transfer, and reproduction contained herein;
+
+(d)  the recipient will make its best effort to identify those
+employees or agents who may become cognizant of the CONFIDENTIAL INFORMATION of
+the discloser and request those employees or agents to sign an employee-employer
+Confidentiality Agreement;
+
+(e)  the recipient will not remove or alter any copyright, trademark,
+trade secret and/or proprietary rights notice and/or legend placed on the
+CONFIDENTIAL INFORMATION by the discloser, and will reproduce all such notices
+and/or legends on all copies (including partial copies) of the CONFIDENTIAL
+INFORMATION.  The recipient shall immediately notify the discloser of any breach
+of the confidentiality of the CONFIDENTIAL INFORMATION and shall assist the
+discloser in any efforts to control or prosecute any such breach; and
+
+(f)  All right, title, and interest to the IP RIGHTS remain with
+Ambix.  ACC obtains only the license and other rights as specified herein with
+respect to the SOFTWARE and the other DELIVERABLES subject to all the terms and
+conditions hereof.
+
+10.2 Notwithstanding anything in this Section 10 to the contrary, the
+confidentiality provisions shall not apply to any CONFIDENTIAL INFORMATION which
+(a) enters the public domain through no fault of the recipient, (b) is
+observable based on the operation of any OBJECT CODE, (c) was developed by the
+recipient without reliance on such CONFIDENTIAL INFORMATION, (d) was disclosed
+to the recipient by a third party with no known obligation to the discloser to
+keep it confidential, or (e) in the good faith belief of the recipient should be
+disclosed pursuant to operation of law, regulation, or order or rule of any
+court or governmental agency; provided that in the last instance,
+<PAGE>
+
+
+the recipient shall notify the discloser before such disclosure and cooperate in
+good faith to limit such disclosure.
+
+10.3 Ambix represents and warrants that it possesses all the rights,
+licenses, or other authority to use all IP RIGHTS reasonably necessary or
+desirable to conduct its business as presently conducted and to grant ACC the
+license and other rights herein.  Ambix has not received any notice with respect
+to any alleged infringement or unlawful or improper use of any IP RIGHT or other
+intellectual property owned or alleged to be owned by others, and Ambix has no
+knowledge of any infringement (or suspected infringement) of any of the IP
+RIGHTS.  Ambix has no any knowledge of any claim asserted by any other person or
+entity with respect to the use of any IP RIGHT, and Ambix knows of no valid
+basis for any such claim.  No director, officer or employee of Ambix has any
+interest in any IP RIGHT, all of which are free and clear of any lien, security
+interest, claim or encumbrance of any kind.
+
+10.4  Exhibit A sets forth the form and placement of the proprietary
+legends and trademark and copyright notices displayed in or on the SOFTWARE.  In
+no instance has the eligibility of the SOFTWARE or any component thereof for
+protection under applicable patent,copyright, or other law protecting
+proprietary rights been forfeited to a third party or the public domain by
+omission of any required notice or any other action or inaction.
+
+10.5  Ambix has used its best efforts to keep Ambix's trade secrets
+secret, with disclosures being made on a need-to-know basis.  As far as Ambix
+knows there has been no violation of this policy, and all Ambix employees and
+contractors have been advised of the policy.  The SOURCE CODE, DOCUMENTATION,
+and all other trade secrets and confidential information of Ambix related to the
+SOFTWARE (1) have at all times been maintained in confidence and (2) have been
+disclosed only to Ambix employees and contractors in connection with the
+performance of their duties to Ambix.
+
+10.6  All personnel, including employees, agents, consultants, and
+contractors, who have contributed to or participated in the conception and
+development of the IP RIGHTS (including any component thereof), the
+DOCUMENTATION, or the SOFTWARE on behalf of Ambix either (1) have been party to
+a "work-for-hire" arrangement with Ambix, in accordance with applicable law,
+that has accorded Ambix full, effective, exclusive, and original ownership of
+all tangible and intangible property thereby arising (including IP RIGHTS), or
+(2) have executed appropriate instruments of assignment in favor of Ambix as
+assignee that have conveyed to Ambix full, effective, exclusive, and original
+ownership of all tangible and intangible property thereby arising (including IP
+RIGHTS).
+<PAGE>
+
+
+10.7  Ambix has validly and effectively obtained the right and license
+to use, copy, modify, and distribute any third-party programming and materials
+contained in or used in connection with the SOFTWARE.  Except as identified in
+Exhibit B, the SOFTWARE, the DOCUMENTATION, and the other DELIVERABLES contain
+no other programming or materials in which any third party may claim superior,
+joint, or common ownership, including any right or license, nor do they contain
+derivative works of any programming or materials not owned in their entirety by
+Ambix.
+
+
+11.0  MODIFICATION OF SOFTWARE.  ACC may request from Ambix modifications to or
+DERIVATIVE WORKS of the SOFTWARE, including modifications or new versions of the
+SOFTWARE to merge with other software programs or systems, thereby incorporating
+the SOFTWARE into an overall business or information systems process.  ACC shall
+negotiate in good faith with Ambix to prepare such ENHANCEMENTS, modifications,
+versions, or other DERIVATIVE WORKS, of the SOFTWARE.  If ACC and Ambix cannot
+agree on terms for such services, ACC shall be free to seek others to perform
+such work who may use the SOURCE CODE and other DELIVERABLES for such purpose.
+As a condition to any such work, any third party contractor shall agree to keep
+the SOURCE CODE and other DELIVERABLES confidential and shall agree not to use
+or disclose the intellectual property embodied in the SOURCE CODE in competition
+with either ACC or Ambix.  Further, any such modifications to, or other
+DERIVATIVE WORKS of, the SOFTWARE shall belong to Ambix.  Any modified version
+of the SOFTWARE, or any system which incorporates the SOFTWARE in modified form,
+just as in its original form as defined under this Agreement, shall be for ACC
+or its AFFILIATE's own use as specified under this Agreement.  The modified
+version, the newly merged version, or other DERIVATIVE WORK of the SOFTWARE
+shall remain subject to all of the terms and conditions of this Agreement.  In
+addition to the notices required by Section 10 of Schedule I (above), ACC or
+AFFILIATE shall include the following notice in both machine readable form and
+on all DOCUMENTATION for the modified version of the SOFTWARE or merged system
+comprising any part or all of the SOFTWARE:
+
+"This program or system includes information, concepts, ideas,
+know-how, and techniques which are confidential and constitute
+proprietary information and trade secrets of Ambix Acquisition
+Corp. of Rochester, New York and are protected by copyright.
+
+(C) 1995 Ambix Acquisition Corp."
+
+In the event this Agreement is terminated for ACC's default, after any permitted
+transition period, the SOFTWARE shall be completely removed from any system
+containing the SOFTWARE and
+<PAGE>
+
+
+from any information systems process using the SOFTWARE, whether as a modified
+program or modified system integrating Ambix programs in modified or unmodified
+form, and treated as if permission to modify had never been granted and all
+copies of all DOCUMENTATION shall be returned to Ambix.
+
+
+12.0  WARRANTY.  Ambix warrants that it is the rightful owner of the SOFTWARE
+and DOCUMENTATION and that it has the right to license the same to ACC.  During
+the term of this license, Ambix warrants that the SOFTWARE will be free of
+ERRORS.  Ambix further warrants that the SOFTWARE will not contain any CODE that
+would disable or impair its operation.  Ambix, at its expense, will immediately
+correct any ERRORS reported to Ambix.  Ambix's only other obligation under this
+Warranty shall be to amend, revise, modify, or replace the SOFTWARE at Ambix's
+then-current rates for programming and support services, unless Ambix and ACC
+have an agreement for a fixed-price or other reimbursement for such services, in
+which case the latter agreement shall control.  ACC agrees that Ambix shall have
+no other liability of any kind, whether actual, direct, indirect, consequential
+or otherwise.  The warranty contained in this Section 12 shall apply to Ambix
+versions of the SOFTWARE, and Ambix makes no warranty as to any version of the
+SOFTWARE to the extent modified by anyone other than Ambix.  Subject to Ambix's
+warranty obligations or the terms of another agreement with ACC for maintenance,
+support, or other development services, amendment, revision, modification, or
+replacement of the SOFTWARE will be performed at ACC's request at Ambix's then-
+current rates for such services, subject to availability of Ambix personnel.
+AMBIX MAKES NO OTHER WARRANTIES.  WHETHER EXPRESS, IMPLIED OR STATUTORY, AS TO
+ANY MATTER WHATSOEVER, AND DISCLAIMS ALL SUCH WARRANTIES INCLUDING, WITHOUT
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+
+13.0  ACCEPTANCE.  ACC will use the SOFTWARE during the sixty (60) business days
+immediately following installation (the "ACCEPTANCE PERIOD") of the SOFTWARE to
+determine whether or not it conforms to the SPECIFICATIONS and is free from any
+ERROR.  Any failure of the SOFTWARE to conform to the SPECIFICATIONS or to be
+free from ERROR discovered by ACC, during the Acceptance Period, will be
+reported promptly to Ambix.  Ambix will immediately make any corrections
+necessary to make the SOFTWARE conform with the SPECIFICATIONS and to be free
+from ERROR.  The SOFTWARE shall be deemed accepted by ACC upon completion of
+such sixty (60) business day period, unless Ambix shall have been provided
+written notice by ACC of the failure of the SOFTWARE, setting forth the
+particular matters in which the SOFTWARE so fails to conform.  Following receipt
+of any such notice, the SOFTWARE shall be deemed accepted upon the correction of
+any such
+<PAGE>
+
+
+non-conformity by Ambix and the lapse of a similar sixty-day period without a
+report to Ambix by ACC.
+
+
+14.0  LIMITATIONS OF AMBIX'S LIABILITY.  Ambix's liability under this Agreement
+for damages, regardless of the form of action, shall be limited to money damages
+which shall not exceed the total amount paid by ACC for the License and other
+rights granted hereunder.  This shall be ACC's exclusive remedy.  In no event
+shall Ambix be liable for any loss of product, loss of profit, loss of use or
+any other actual, special, incidental, consequential damages, or other damages
+of any kind whether foreseeable or unforeseeable, resulting from or arising out
+of the license or use of the SOFTWARE, even if Ambix shall have been advised of
+possibility of such loss or damages.
+
+
+15.0  INTELLECTUAL PROPERTY INFRINGEMENT.  If notified promptly in writing of
+any action brought against ACC or any AFFILIATE based on a claim that ACC or any
+AFFILIATE's use of the SOFTWARE or other DELIVERABLE infringes the IP RIGHTS of
+a third party, Ambix will defend such action at its expense and pay the costs,
+expenses (including attorneys' fees, whether incurred as the result of such
+action or a claim to enforce this Agreement), and damages awarded in any such
+action.  Ambix will have the sole control of the defense of any such action and
+all negotiations for its settlement or compromise, except that if any right of
+ACC hereunder shall be limited as the result of such settlement or compromise,
+ACC shall have the right to approve such settlement or compromise, but such
+approval cannot be unreasonably withheld.  At any time during the course of any
+litigation arising out of a claim of infringement of an IP RIGHT, or if, in
+Ambix's opinion, an IP RIGHT or any part thereof is likely to become the subject
+of a claim of infringement, Ambix will, at its sole option and at its expense,
+either procure for ACC the right to continue using the DELIVERABLE, replace or
+modify the same with a compatible, functionally equivalent, noninfringing
+product, or grant ACC a full refund of the LICENSE FEE paid herewith, and accept
+its return.  Ambix will not have any liability to ACC under any provision of
+this paragraph to the extent the infringement, or claim thereof, is based upon
+(a) the use of the SOFTWARE in combination with other software not furnished by
+Ambix; or (b) the use of other than the latest supportable version of the
+DELIVERABLE made available to ACC.
+
+ACC will hold Ambix harmless from and against any expense, cost,
+damage, judgment, or loss or other liability of any kind, for infringement of
+any IP RIGHT to the extent it results from Ambix's compliance with ACC's
+designs, specifications, instructions or from the use of the DELIVERABLE as
+altered or modified by anyone other than Ambix.
+<PAGE>
+
+
+ACC is obligated hereby to promptly notify Ambix of any instance of
+infringement or attempted infringement of any IP RIGHTS of Ambix which comes to
+ACC's attention.
+
+The foregoing states the entire liability of Ambix with respect to
+infringements of an IP RIGHT by a DELIVERABLE or any part thereof or by its
+operation.
+
+
+16.0  TERMINATION FOR FAILURE TO PERFORM.  The rights and obligations of the
+parties if the other party defaults or otherwise fails to perform its
+obligations hereunder shall be governed by this Section 16.
+
+16.1  The license granted to ACC hereunder may be terminated by Ambix
+upon not less than sixty (60) days written notice if ACC fails to perform any of
+its material obligations or duties under this Agreement, unless within such
+period ACC cures such failure.  If ACC cannot in good faith cure such failure,
+other than monetary defaults, within the sixty (60) day period, then ACC shall
+be given an additional thirty (30) days in which to cure, provided that ACC must
+commence cure immediately and continue to diligently pursue such cure of any
+such failure(s).  Upon termination of this Agreement, ACC shall immediately
+cease using the SOFTWARE and, at the option of Ambix, ACC shall destroy or
+return to Ambix all tangible forms of the SOFTWARE and the DOCUMENTATION and ACC
+shall erase the SOFTWARE from all storage media in which it has been installed
+or copied; provided, however, if ACC notifies Ambix in writing within 30 days
+after the expiration of any permitted cure period hereunder, ACC shall have a
+transition period not to exceed one year from the date of such notice in which
+to shift from using the SOFTWARE and other DELIVERABLES to new software or other
+computer system.  During such transition period, ACC shall pay the support and
+maintenance fees, and Ambix shall continue to provide support and maintenance.
+Within (30) thirty days after termination of this Agreement, ACC shall certify
+to Ambix in writing that it has destroyed or delivered to Ambix all tangible
+forms of the SOFTWARE and that it has erased the SOFTWARE from all storage
+media.  ACC shall upon request by Ambix permit Ambix such access as shall be
+necessary for Ambix to verify to its satisfaction that ACC has complied with the
+foregoing requirements.
+
+16.2  If Ambix (a) reasonably cannot perform its obligations under
+this Agreement or does not provide support and maintenance for the SOFTWARE, (b)
+does not enter into an agreement for the development of ENHANCEMENTS, DERIVATIVE
+WORKS, modifications, or new versions of the SOFTWARE or other DELIVERABLE
+requested by ACC pursuant to Section 11, or (c) makes an assignment for the
+benefit of creditors, or commences or has commenced against it any proceeding in
+bankruptcy, insolvency, or reorganization pursuant to bankruptcy laws, laws of
+debtor's
+<PAGE>
+
+
+moratorium, or similar laws, Ambix shall deliver the most current version of the
+SOURCE CODE to ACC, and ACC shall have the right to use, modify, and create
+DERIVATIVE WORKS of, the SOURCE CODE and other DELIVERABLES provided that ACC
+continues to observe the obligations contained in Sections 2, 6, 10, 15, and 17.
+
+
+17.0  EXPORT REGULATIONS.  ACC agrees, regardless of permissions granted by
+Ambix, not to export, either directly or indirectly, any SOFTWARE or systems
+incorporating the SOFTWARE without first obtaining any required license to
+export or re-export from the United States Government or appropriate foreign
+government as may be required and to comply with all United States and
+international export regulations as applicable.
+
+
+18.0  MISCELLANEOUS.
+
+18.A Binding Effect.  This Agreement shall be binding upon and inure
+to the benefit of the parties hereto, their personal representatives, and
+permitted successors and assigns.
+
+18.B Assignment.  Either party may, without the prior written consent
+of the other, assign its rights under this Agreement so far as those rights
+constitute part of the sale, merger, consolidation, reorganization, or transfer
+of substantially all of the assigning party's business or assets.
+
+18.C Entire Agreement.  This Agreement, the related maintenance and
+support agreement between the parties, and the Software License Agreement, dated
+March 30, 1995, between ACC and Ambix Systems Corp. (the "NetOps Agreement"),
+contain the entire understanding between or among the parties and supersede any
+prior understanding, memoranda or other written or oral agreements between or
+among any of them with respect to the Agreement's subject matter.  To the extent
+there are conflicts, ambiguities, or inconsistencies between this Agreement and
+the NetOps Agreement, the terms and conditions of this Agreement shall control.
+There are no representations, agreements, arrangements or understandings, oral
+or written, between or among any of the parties relating to the subject matter
+of this Agreement which are not fully expressed herein.
+
+18.D Modifications or Waiver.  No modification or waiver of this
+Agreement or any part of this Agreement shall be effective unless in writing and
+signed by the party or parties sought to be charged therewith.  No waiver of any
+breach of condition of this Agreement shall be deemed to be a waiver of any
+other or subsequent breach or condition, whether of like or different nature.
+No waiver of any breach or condition of this Agreement by or with respect to any
+party hereto shall be deemed to be a waiver of the same breach or condition with
+respect to
+<PAGE>
+
+
+any other party hereto.  No course of dealing between or among any of the
+parties hereto will be deemed effective to modify, amend, or discharge any part
+of this Agreement or the rights or obligations of any party hereunder.
+
+18.E  No Third Party Beneficiary.  None of the provisions of this
+Agreement shall be for the benefit of, or enforceable by, any person or entity
+not a party hereto, except an AFFILIATE.
+
+18.F Partial Invalidity.  If any provision of this Agreement shall be
+held invalid or unenforceable by competent authority, such provision shall be
+construed so as to be limited or reduced to be enforceable to the maximum extent
+compatible with the law as it shall then appear.  The total invalidity or
+unenforceability of any particular provision of this Agreement shall not affect
+the other provisions hereof and this Agreement shall be construed in all
+respects as if such invalid or unenforceable provision were omitted.
+
+18.G Notices.  Any notice or other communication required or permitted
+under this Agreement shall be in writing and shall be deemed to have been duly
+given (a) upon hand delivery, or (b) on the third day following delivery to the
+U.S. Postal Service as certified or registered mail, return receipt requested
+and postage prepaid, or (c) on the first day following delivery to a nationally
+recognized U.S. or foreign overnight courier service, fee prepaid, return
+receipt requested or other confirmation of delivery requested, or (d) when
+telecopied or sent by facsimile transmission if an additional notice is also
+given under (a), (b), or (c) above within three days thereafter.  Any such
+notice or communication shall be delivered or directed to a party at its address
+set forth below or at other address as may be designated by a party in a notice
+given to all other parties hereto in accordance with the provisions of this
+section.
+
+Notice to Ambix shall be sent to:
+
+Ambix Acquisition Corp.
+400 West Ave.
+Rochester, New York  14611
+Attn:  Andrew McIntosh, President
+
+Notice to ACC shall be sent to:
+
+ACC Corp.
+400 West Ave.
+Rochester, New York  14611
+Attn:  Mr. David K. Laniak, Chief Executive Officer
+<PAGE>
+
+
+18.H Governing Law.  This Agreement shall be governed by, and
+construed in accordance with, the laws of the United States and the State of New
+York without reference to any New York conflict or choice of law principle.
+
+18.I Jurisdiction and Venue.  In the event that any legal proceedings
+are commenced in any court with respect to any matter arising under this
+Agreement, the parties hereto specifically consent and agree that:
+
+18.I.a the courts of the State of New York and/or the United States
+Federal Courts located in the State of New York shall have exclusive
+jurisdiction over each of the parties hereto and over the subject matter of any
+such proceedings; and
+
+18.I.b the venue of any such action shall be in Monroe County, New
+York and/or the United States District Court for the Western District of New
+York.
+
+18.J  Injunctive Relief.  In the event of a breach or threatened
+breach of any of the terms of Sections 2, 10, 11, 15 or 17 of this Schedule I by
+a party, the other party shall be entitled to an injunction restraining the
+breaching party from committing any breach of this Agreement without showing or
+proving any actual damages and without diminishing any other right or remedy
+which the nonbreaching party may have at law or in equity to enforce the
+provisions of this Agreement.  The breaching party waives any right it may have
+to require the nonbreaching party to post a bond or other security with respect
+to obtaining or continuing any injunction or temporary restraining order, and
+releases the nonbreaching party and its officers, directors, and shareholders
+from, and waives any claim to, damages against them which the breaching party
+may have with respect to the breaching party's obtaining any injunction or
+restraining order pursuant to this Agreement.  All out-of-pocket expenses
+incurred by the nonbreaching party in a successful application for an injunction
+shall be borne by the breaching party, including without limitation, all fees
+and expenses for agents, representatives, counsel and accountants.
+
+18.K  Effect of Termination.  Unless otherwise specifically agreed in
+writing, the terms of Sections 6, 10, 11, 14, 15, 16, 17 and 18 shall survive
+any termination, cancellation, repudiation or rescission of this Agreement by
+either party for a period of three years after termination, whether or not for
+cause, and under such circumstances either party may continue to enforce such
+terms as if this Agreement were otherwise in full force and effect.
+
+18.L  Confidentiality.  Except as contemplated by this Agreement or as
+necessary to carry out the transactions contemplated by this Agreement, the
+terms of this Agreement, and all information or documents furnished by any party
+to the other,
+<PAGE>
+
+
+shall be kept confidential by the party to whom furnished and shall not be
+otherwise used or disclosed by the recipient except to recipient's accountants
+or attorneys, or as may be required, in the good faith judgment of the
+disclosing party, by law or rule or regulation of any governmental agency,
+without the prior written consent of the other party.  If this transaction is
+not consummated, each party shall return to the other all such documents
+furnished hereunder, including all copies, and shall continue to keep
+confidential, and neither use nor disclose, any such information.
+
+18.M  Headings.  The headings contained in this Agreement are inserted
+for convenience only and do not constitute a part of this Agreement.
+
+18.N  Fair Meaning.  This Agreement shall be construed according to
+its fair meaning.  The language used shall be deemed the language chosen by the
+parties hereto to express their mutual intent, and no presumption or rule of
+strict construction will be applied against any party hereto.
+
+18.O  Gender.  Whenever the context may require, any pronoun used
+herein shall include the corresponding masculine, feminine or neuter forms and
+the singular of nouns, pronouns and verbs shall include the plural and vice
+versa.
+
+18.P  Counterparts.  This Agreement may be executed in several
+counterparts, each of which shall be deemed an original, and all of said
+counterparts together shall constitute but one and the same instrument.
+
+18.Q  Further Assurances.  The parties hereto shall execute and
+deliver any and all additional writings, instruments and other documents and
+shall take all such further actions as shall be reasonably required to effect
+the terms and conditions of this Agreement.
+
+
+19.0  SOURCE CODE DEPOSIT WITH ACC.  ACC shall provide at its headquarters a
+fireproof vault or safe reasonably satisfactory to Ambix to serve as ACC's
+depository for the SOURCE CODE and related DOCUMENTATION.  Immediately upon
+execution of this Agreement, and thereafter each time a new release of the
+SOURCE CODE is made executable into OBJECT CODE (whether or not made available
+in a commercial release) or as ACC may request but not more than twice per
+calendar year, Ambix shall deliver to ACC a complete copy of all SOFTWARE in
+both OBJECT CODE and SOURCE CODE form and with all applicable DOCUMENTATION and
+other tools and materials (e.g., proprietary workbenches, compilers, lists of
+third party software, etc.), which a reasonably skilled programmer would find
+necessary or useful to maintain, support, enhance, and create DERIVATIVE WORKS
+from the SOFTWARE (the
+<PAGE>
+
+
+foregoing are referred to as the "SOURCE MATERIAL").  ACC shall deposit the
+SOURCE MATERIAL into such vault or safe for safekeeping, and such deposit shall
+be witnessed by a representative of Ambix, if requested.  ACC shall have the
+right, but not more than twice per year, to engage a consultant to verify the
+accuracy of the SOURCE MATERIAL, provided such consultant executes a
+confidentiality agreement with ACC regarding the SOURCE MATERIAL.  Except for
+such verification and as otherwise contemplated by the terms of this Agreement,
+ACC shall keep the SOURCE MATERIAL in the vault or safe at all times.  If ACC
+removes the SOURCE MATERIAL to exercise its rights under this Agreement, ACC
+shall continue to observe its obligations under Sections 2, 10, 11, and 15 of
+this Agreement.
+
+20.0 RIGHT OF DEMONSTRATION ON ACC PREMISES.  Upon reasonable notice and with
+the mutual agreement of ACC, Ambix may have access to ACC's operations
+facilities for purposes of demonstrating the use of the SOFTWARE to prospective
+customers of Ambix.  During such visits, ACC at its sole option may withhold
+information it deems proprietary from any visitors.  Ambix will take precautions
+not to disturb or encumber the operations during such visits.  ACC agrees to
+make an employee available to answer questions should questions arise during a
+site visit.
+
+21.0  COMMISSION.  Ambix shall pay ACC a commercially reasonable and customary
+commission upon the sale or license by Ambix or any affiliate of any system
+which uses a significant portion of the CODE or any DERIVATIVE WORK thereof.
+<PAGE>
+
+
+
+SCHEDULE II:  THE SOFTWARE
+
+
+1.0 Intermediation SOFTWARE (Installed at ACC Corp.)
+Full design and operational documentation is already developed.
+
+Intermediation is the automated or semi-automated process of acquiring Call Data
+Records and other data records from telephone switches.  This system includes
+both general purpose data communications SOFTWARE as well as SOFTWARE which
+embodies special knowledge of DSC switches and the operating software of DSC
+which controls those switches.
+
+The SOFTWARE written in C++, using object-oriented design and programming
+methods with easily maintainable class hierarchies and identificatory
+declaration and enumeration of all data types.  Current Version operates on
+commercially available Sun MicroSystems micro computers under the Solaris
+operating system.
+
+2.0 Rating SOFTWARE (Installed in ACC UK Long Distance Ltd)
+Full design and operational documentation is already developed.
+
+3.0 RIT Call Accounting SOFTWARE (Installed for RIT)
+Currently being documented to customer specifications.
+
+4.0 Network Operations SOFTWARE (In Beta Test)
+Currently being documented to customer specification.
+
+5.0 Graphic User Interface Class Library (to be placed in escrow)
+Full design and implementation documentation is proprietary.
+
+6.0 Network Modeling SOFTWARE (final development stage)
+Full design and implementation documentation is proprietary.
+
+7.0 Various ADABASE natural programs (installed in ACC UK Long Distance Ltd).
+Already documented and delivered.
+

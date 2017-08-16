@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+
+EXHIBIT 10.2
+
+CONFIDENTIAL TREATMENT REQUESTED AND
+CONFIDENTIAL PORTIONS FILED SEPARATELY WITH SEC
+
+
+SOFTWARE LICENSE AND DEVELOPMENT AGREEMENT
+BETWEEN
+INTERCEPT SYSTEMS, INC.
+AND
+PHOENIX INTERNATIONAL LTD., INC.
+
+DATED: JANUARY 15, 1998
+
+
+Parties:
+
+Intercept Systems, Inc., a Georgia corporation ("Intercept")
+3150 Holcomb Bridge Road
+Suite 200
+Norcross, Georgia  30071
+
+Phoenix International Ltd., Inc., a Florida corporation ("Phoenix")
+500 International Parkway
+Heathrow, Florida 32746
+
+
+THIS LICENSE AND DEVELOPMENT AGREEMENT (this "Agreement") is
+effective as of the date first set forth above by and between Intercept and
+Phoenix. Intercept has developed software and related documentation for
+financial institutions for the operation and administration of automatic teller
+machines. Phoenix desires to further develop such software and integrate it with
+Phoenix's existing software programs, and to market such modified programs with
+Phoenix's other products. In consideration of the premises set forth above, and
+of the obligations herein made and undertaken and other good and valuable
+consideration, the parties hereby agree as follows:
+
+
+1   DEFINITIONS
+
+Capitalized terms used in this Agreement shall have the following definitions:
+
+1.1 Confidential Information. Any competitively sensitive or secret business,
+marketing, or technical information, disclosed by one party to the other,
+including all source and object code versions of all software, and all
+documentation, technical manuals, design and development documentation, and all
+other non-public information relating to either party's software or business.
+Notwithstanding the foregoing, Confidential Information does not include
+information which (i) becomes generally available to the public other than as a
+result of a disclosure by the receiving party or its representatives, (ii) was
+available to a party prior to its disclosure to such party by the other party or
+its representatives, provided the receiving party has no knowledge that such
+information
+
+
+<PAGE>   2
+
+
+was obtained, directly or indirectly, from a source that was bound by a
+confidentiality agreement with the disclosing party or other obligation of
+secrecy to the disclosing party or its representatives, (iii) becomes available
+to a party, directly or indirectly, from a source other than the other party or
+its representatives, provided that such source is not bound by a confidentiality
+agreement with the disclosing party, or (iv) that is independently developed by
+the receiving party without reference to any Confidential Information of the
+disclosing party.
+
+1.2 Derivative Work. A work that is based upon one or more preexisting works,
+such as a revision, modification, translation, abridgment, condensation,
+expansion, or any other form in which such a preexisting work may be recast,
+transformed, or adapted, and that, if prepared without authorization by the
+owner of the preexisting work, would constitute a copyright infringement.
+
+1.3 Documentation. The printed material relating to the Program, including all
+instructional, technical and development documentation.
+
+1.4 Enhancement. A change or addition to the Program or Documentation, that
+improves its function, adds new function, or enhances its performance, including
+changes, additions, modifications, new releases, new versions, error corrections
+and bug fixes.
+
+1.5 Intellectual Property Rights. All copyrights, patent, patent rights, trade
+secrets, trademarks, service marks, Confidential Information, know-how and other
+intellectual property rights in software or documentation owned or claimed by
+any person under the laws of the United States, or any other country.
+
+1.6 Phoenix Product. Derivative Works of the Program created by Phoenix.
+
+1.7 Program. Computer programming code, including source code (human-readable),
+and object code (machine-readable), and associated procedural code, including
+all current and subsequent Enhancements, as more fully described in Exhibit A.
+
+2   LICENSE GRANT
+
+2.1 Program License. Subject to termination pursuant to Section 5 below,
+Intercept hereby grants Phoenix a non-exclusive worldwide, perpetual,
+irrevocable right and license to install, use, copy, modify, adapt, translate,
+and create Derivative Works of (under sublicense or otherwise) all versions of
+the Program, including all source code and object code, and to authorize others
+to do some or all of the foregoing subject to the limitations set forth herein.
+
+2.2 Documentation. Subject to termination pursuant to Section 5 below, Intercept
+hereby grants Phoenix a non-exclusive worldwide, perpetual, irrevocable right
+and license to translate, change, modify and distribute the Documentation.
+
+2.3 Derivative Works. As part of the above license, Phoenix shall have the right
+to create Derivative Works and Enhancements to the Program and Documentation,
+including without limitation, converting the Program to run in conjunction with
+the Phoenix system, the Sybase relational database, translating the Program and
+Documentation into other languages as required by Phoenix's business practices,
+and modifying the Program to integrate it into Phoenix's software product line.
+The Program and Documentation as so modified shall be referred to herein as the
+"Phoenix Products". Phoenix shall have an exclusive, worldwide, perpetual,
+irrevocable right and
+
+2
+
+<PAGE>   3
+
+
+XXX - CONFIDENTIAL TREATMENT REQUESTED
+AND CONFIDENTIAL PORTIONS FILED
+SEPARATELY WITH THE COMMISSION
+
+license to use, install, market, license, sublicense, and distribute the Phoenix
+Products, and to authorize others to do some or all of the foregoing, provided
+however, that Phoenix may not license or provide the source code of the Program
+to any third party without the written consent of Intercept. Phoenix is
+authorized to use the Phoenix Products and the Program as necessary to
+implement, install, train, support and maintain the Phoenix Products for
+end-users and otherwise as necessary to exercise its rights hereunder.
+
+2.4 Fee. In exchange for the foregoing rights, Phoenix shall pay Intercept a
+total of $XXXXX, due and payable within 45 days following the execution of this
+Agreement.
+
+3   INTERCEPT OBLIGATIONS
+
+3.1 Initial Deliveries. Intercept shall deliver to Phoenix one copy of the
+Program (in object code and source code form) and Documentation within ten days
+following the date of this Agreement.
+
+3.2 Assistance.
+
+(a) Intercept will provide assistance and support to Phoenix at no charge
+for a twelve month period beginning on the date of this Agreement and ending
+on January 15, 1999 as required by Phoenix to create the Phoenix Products,
+provided that Phoenix will pay all of Intercept's reasonable travel and
+lodging expenses.
+
+(b) Intercept will provide additional assistance to Phoenix as reasonably
+requested on a time and materials basis at Intercept's then current rates
+for such assistance, plus reasonable travel and lodging expenses.
+
+4   LIMITED WARRANTY AND LIMITATION OF LIABILITY
+
+4.1 Warranty. Intercept warrants that it is the exclusive owner of all U.S., and
+foreign Intellectual Property Rights in the Program, Documentation, and all
+Enhancements delivered to Phoenix hereunder, and that it has all rights
+necessary for the grant of rights and licenses under this Agreement.
+
+4.2 Disclaimer. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, INTERCEPT DISCLAIMS ALL
+WARRANTIES, EXPRESS OR IMPLIED, ARISING OUT OF OR RELATING TO THE PROGRAM OR
+DOCUMENTATION OR ANY USE THEREOF, INCLUDING (WITHOUT LIMITATION) ANY WARRANTY
+WHATSOEVER AS TO THE FITNESS FOR A PARTICULAR USE OR THE MERCHANTABILITY OF THE
+PROGRAM OR DOCUMENTATION.
+
+4.3 Limitation of Liability. In no event shall either party be liable to the
+other for any indirect, special, incidental, or consequential damages (including
+lost profits).
+
+
+3
+
+
+<PAGE>   4
+
+5   TERMINATION; EFFECT OF TERMINATION
+
+5.1 Agreement Termination. Intercept may terminate the licenses granted under
+this Agreement upon the material breach by Phoenix of its obligations hereunder
+if such breach is not cured within 30 days following notice thereof from
+Intercept.
+
+5.2 Consequences. Upon the termination of the licenses as set forth above,
+Phoenix shall immediately return to Intercept all of the software and
+documentation provided by Intercept. In such case, Phoenix may retain the
+Phoenix Products and a license to use, modify, enhance, and distribute the
+Phoenix Products as necessary to continue to provide maintenance and support for
+its customers who have already licensed the Phoenix Products until all such
+licenses have expired.
+
+6   INDEMNIFICATION
+
+6.1 Intercept Indemnification. Intercept agrees to, and does hereby, indemnify
+and hold harmless Phoenix from any and all claims, demands, or actions alleging
+that the Program or Documentation (including any Enhancements), in the form
+delivered by Intercept, infringes or abridges any third-party Intellectual
+Property Rights in violation of the warranty in Section 4.1 above.
+
+6.2 Phoenix Indemnification. Phoenix agrees to, and does hereby, indemnify and
+hold harmless Intercept from any and all claims, demands, or actions from or
+relating to Phoenix Products, or use by customers of Phoenix Products, and based
+on or related to Phoenix's performance, nonperformance, infringement of
+third-party Intellectual Property Rights, representations or statements made, or
+other actions with respect to the Phoenix Products, but only to the extent such
+claims, demands or actions do not arise from any act or omission of Intercept or
+from infringement of Intellectual Property Rights by the portion of the Phoenix
+Products provided to Phoenix by Intercept.
+
+6.3 Conditions. The foregoing indemnities shall be contingent upon the
+following: The party seeking to enforce the indemnity against the other party
+shall give written notice to the other party of any claim, demand, or action for
+which indemnity is sought; shall fully cooperate in the defense or settlement of
+any such claim, demand, or action; and shall obtain the prior written agreement
+of the indemnifying party to any settlement or proposal of settlement.
+
+7   CONFIDENTIALITY
+
+7.1 Confidentiality. Both parties hereto desire to maintain the confidentiality
+of the Confidential Information and are making it available only upon the terms
+and conditions set forth below and they hereby agree:
+
+(a) Not to use any portion of the Confidential Information for any purpose,
+except pursuant to the rights and obligations set forth in this Agreement;
+and
+
+(b) Not to disclose any portion of the Confidential Information to any
+person except the parties' respective officers, directors, employees, and
+representatives who need to know such information in connection with this
+letter or for the purpose of entering into a definitive agreement and who
+agree to be bound by confidentiality obligations consistent with the
+provisions of this Agreement.
+
+
+4
+
+
+<PAGE>   5
+
+7.2 Exceptions. If either of the parties are requested or required (by oral
+questions, interrogatories, requests for information or documents, subpoena,
+civil investigative demand or similar process) to disclose any Confidential
+Information of the other, the party which is subject to such request will
+provide the other party with prompt notice of such request(s) so that such other
+party may seek an appropriate protective order and/or waive compliance with the
+provisions of this letter agreement. If, in the absence of a protective order or
+the receipt of a waiver hereunder a party is nonetheless, in the opinion of its
+counsel, compelled to disclose the Confidential Information of the other party
+to any tribunal or else stand liable for contempt or suffer other censure or
+penalty, that party may disclose such information to such tribunal without
+liability hereunder.
+
+7.3 Remedies. As money damages would not be a sufficient remedy for any breach
+of this paragraph of this letter agreement the parties hereto shall be entitled
+to specific performance as a remedy for any such breach. Such remedy shall not
+be deemed to be the exclusive remedy for any such breach of this letter
+agreement but shall be in addition to all other remedies available at law or
+equity.
+
+8   MISCELLANEOUS
+
+8.1 Title. It is expressly understood and agreed that, as between Intercept and
+Phoenix, all right, title, and interest in and to the Program and Documentation
+(including any Enhancements) and any other material furnished to Phoenix under
+this Agreement vests solely and exclusively in Intercept, and Phoenix shall
+neither derive nor assert any title or interest in or to such materials except
+for the rights of use or licenses granted under this Agreement. Phoenix shall
+own all changes in the Program and Documentation made by or at the direction of
+Phoenix and shall own the Derivative Works to the extent they are different from
+the Program as delivered.
+
+8.2 Status. Nothing herein shall be construed to create a partnership, joint
+venture, or agency relationship between the parties hereto.
+
+8.3 No Conflict of Interest. Phoenix and Intercept represent and warrant that
+they have full power and authority to undertake the obligations set forth in
+this Agreement and that they have not entered into any other agreement that
+would render them incapable of satisfactorily performing their obligations
+hereunder, or that would place them in a position of conflict of interest or be
+inconsistent or in conflict with their obligations hereunder.
+
+8.4 Compliance with Law. Phoenix agrees that it shall comply with all applicable
+laws and regulations of governmental bodies or agencies in its performance under
+this Agreement.
+
+8.5 No Assignment. Phoenix represents that it is acting on its own behalf and is
+not acting as an agent for or on behalf of any third party and further agrees
+that it may not assign its rights or obligations under this Agreement without
+the prior written consent of Intercept, except that Phoenix may assign its
+rights to a successor to substantially all of its business or assets or any
+owner of 30% or more of its equity or any of its subsidiaries.
+
+
+5
+
+<PAGE>   6
+
+8.6 Notices. All notices and other communications required or permitted to be
+given under this Agreement shall be in writing and shall be considered effective
+upon delivery when deposited with United Parcel Service, FedEx, or in the U.S.
+Mail, return receipt requested, addressed to the appropriate party at the
+address noted above, unless a different address shall have been designated in
+writing.
+
+8.7 No Waiver. Neither party shall by mere lapse of time, without giving notice
+or taking other action hereunder, be deemed to have waived any breach by the
+other party of any of the provisions of this Agreement. Further, the waiver by
+either party of a particular breach of this Agreement by the other shall not be
+construed or constitute a continuing waiver of such breach or of other breaches
+of the same or other provisions of this Agreement.
+
+8.8 Force Majeure. Neither party shall be in default if failure to perform any
+obligation hereunder is caused solely by supervening conditions beyond that
+party's control, including acts of God, civil commotion, strikes, labor
+disputes, and governmental demands or requirements.
+
+8.9 Scope of Agreement; Amendment. The parties hereto acknowledge that each has
+read this Agreement, understands it, and agrees to be bound by its terms. The
+parties further agree that this Agreement is the complete and exclusive
+statement of agreement and supersedes all proposals (oral or written),
+understandings, representations, conditions, warranties, covenants, and other
+communications between the parties relating hereto. This Agreement may be
+amended only by a subsequent writing that specifically refers to this Agreement
+and is signed by both parties, and no other act, document, usage, or custom
+shall be deemed to amend this Agreement.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed by respective duly authorized representatives as set forth below.
+
+INTERCEPT SYSTEMS, INC.                     PHOENIX INTERNATIONAL LTD., INC.
+
+
+By:      /s/ John W. Collins                By:      /s/ Bahram Yusefzadeh
+Signature                                   Signature
+
+John W. Collins                             Bahram Yusefzadeh
+Print Name                                  Print Name
+
+Chairman and CEO                            Chairman and CEO
+Print Title                                 Print Title
+
+
+6
+
+<PAGE>   7
+
+
+EXHIBIT A
+
+SOFTWARE DESCRIPTION
+
+
+Intercept EFT Software and all associated drivers and ancillary software
+
+
+
+7
+

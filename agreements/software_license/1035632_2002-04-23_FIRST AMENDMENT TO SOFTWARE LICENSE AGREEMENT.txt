@@ -1,0 +1,828 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+FIRST AMENDMENT
+TO SOFTWARE LICENSE AGREEMENT
+
+
+April 8, 2002
+
+A.B. Watley Group Inc. ("WATLEY") and E*TRADE Group, Inc. ("E*TRADE") hereby
+agree to amend the Software License Agreement dated November __, 2000 between
+E*TRADE and Watley (the "SOFTWARE LICENSE AGREEMENT"), effective immediately, as
+follows.
+
+The first three sentences of Section 1(a) are deleted and replaced with:
+
+Upon the terms and conditions contained in this Agreement, Watley
+grants to E*TRADE and E*TRADE's Affiliates a limited, worldwide,
+perpetual, irrevocable, fully paid-up license to use the Software (as
+hereinafter defined) on E*TRADE's and E*TRADE's Affiliate's servers and
+to sublicense object code versions of the Software to, and make object
+code versions of the Software available through E*TRADE's service
+offerings for use only by, Authorized Users. An "Authorized User" is an
+E*TRADE customer who has been sublicensed by E*TRADE to use object code
+versions of the Software.
+
+Section 1(b) is deleted and replaced with:
+
+The Software will be provided to E*TRADE in object code and source code
+versions, along with any documentation related thereto.
+
+Sections 1(d)(i) and 1(d)(iv) are deleted. Section 1(d) is amended to further
+include:
+
+To the extent that E*TRADE allows a third party to access source code
+included in the Software, such access shall be governed by the
+provisions of Section 16.
+
+Section 1(e) is deleted.
+
+Section 1(f) is deleted and replaced with:
+
+E*TRADE acknowledges and agrees that, as between Watley and E*TRADE,
+Watley owns the Software (including the source code thereof) and the
+ideas, methods of operation, processes, know-how and intellectual
+property rights, including without limitation, all patent, copyright,
+trade secret and trademark rights, associated therewith, as well as any
+and all derivative works related thereto created by or on behalf of
+Watley and, other than as expressly set forth in this Agreement,
+E*TRADE further acknowledges and agrees that it has no interest
+whatsoever therein. Watley acknowledges and agrees that, as between
+Watley and E*TRADE, E*TRADE owns all derivative works in the Software
+(including the source code thereof) created by or on behalf of E*TRADE
+and the ideas, methods of operation, processes, know-how and
+intellectual property rights, including without limitation, all patent,
+copyright, trade secret and trademark rights, associated therewith, as
+well as any and all derivative works related thereto created by or on
+behalf of E*TRADE and Watley further acknowledges and agrees that it
+has no interest whatsoever therein.
+
+Section 1(g) is deleted.
+
+Section 2(a) is deleted and replaced by:
+
+"Software" includes the object code and source code versions,
+as well as any documentation related thereto, of:
+
+(A) the current version of the E*TRADE Pro platform;
+
+(B) the current version of the Watley UltimateTrader platform;
+and
+
+
+<PAGE>
+
+EXECUTION DRAFT
+
+(C) the current version of the Watley UltimateTrader platform
+(which includes such features as Comtex news, hot keys, the
+Island and Arca ECN books, order entry window/level II window,
+improved chart studies/improved performance, market ticker,
+high and low ticker, position ticker and export order status,
+as such features currently exist) modified to include the
+features and customizations by Watley for E*TRADE included in
+the current version of the E*TRADE Pro platform.
+
+Section 3 is deleted and replaced with:
+
+This Agreement shall become effective as of the date first above
+written and shall remain in effect in perpetuity (the "TERM"), unless
+earlier terminated in accordance with the provisions of Section 4.
+
+Sections 4(a) and (b) are deleted.
+
+Section 5 is deleted and replaced with:
+
+(a)  In consideration for the license and the Transition (as defined
+in Section 13 hereof) provided hereby,
+
+(i)      Upon delivery of the source code for the customized
+version of the UltimateTrader platform provided for
+by Section 13(c)(1)(C), E*TRADE will pay Watley
+$1,000,000.
+
+(ii)     Upon successful completion of the Transition as
+determined in the reasonable judgment of E*TRADE,
+E*TRADE agrees to: (i) issue to Watley $2,400,000 of
+shares of the common stock, par value $.01 per share,
+of E*TRADE (the "SHARES"), with the number of such
+Shares to be issued determined by dividing $2,400,000
+by the average closing price for the shares on the
+New York Stock Exchange for the ten trading days
+prior to the completion of the Transition and (ii)
+pay Watley $1,000,000.
+
+(iii)    Any dispute with respect to successful completion of
+the Transition as determined in the reasonable
+judgment of E*TRADE shall be resolved by arbitration
+under the Commercial Rules of the American
+Arbitration Association. Three arbitrators shall be
+selected. Each party shall select one arbitrator and
+the two chosen arbitrators shall select the third
+arbitrator or, failing agreement on the selection of
+the third arbitrator, the American Arbitration
+Association shall select the third arbitrator. Unless
+otherwise agreed by the parties, arbitration will
+take place in New York City, New York. Any court
+having jurisdiction over the matter may enter
+judgment on the award of the arbitrator(s).
+
+(iv)    Payments made to date (including the payment for
+February 2002) made by E*TRADE to Watley shall not be
+refunded.
+
+(b)  Investment Representations of Watley.
+
+Watley hereby represents and warrants that it is an
+accredited investor within the meaning of Regulation
+D prescribed by the Securities and Exchange
+Commission (the "SEC") pursuant to the Securities Act
+of 1933, as amended (the "SECURITIES ACT"), and that
+it is acquiring the Shares for investment for its own
+account and not with a view to, or for resale in
+connection with, any distribution thereof. Watley
+understands that the transaction in which Watley is
+receiving the Shares has not been registered under
+the Securities Act, that the Shares must be held
+indefinitely unless subsequently registered under the
+Securities Act or an exemption from such registration
+is available, and that the certificates representing
+the Shares shall bear an appropriate legend to such
+effect.
+
+(c)  Registration Rights with respect to the Shares.
+
+(i)   From and after the date that the Shares are issued to
+Watley (the "ISSUE DATE"), E*TRADE agrees to use
+reasonable efforts to file a registration statement
+(the
+
+
+
+
+2
+
+
+
+<PAGE>
+EXECUTION DRAFT
+
+"REGISTRATION STATEMENT") with the SEC to effect the
+registration under the Securities Act of the resale
+by Watley of the Shares (together with any shares of
+E*TRADE common stock issued in connection with any
+stock dividend, split, combination or
+recapitalization on, of or with respect to such
+Shares, collectively, the "REGISTRABLE SHARES"), and
+to respond promptly to any and all comments made by
+the staff of the SEC to such Registration Statement
+so as to cause the Registration Statement to be
+declared effective by the SEC, subject to the
+provisions of subsection (c)(ix) below. E*TRADE will
+use reasonable efforts to file the Registration
+Statement not later than thirty (30) days after the
+Issue Date.
+
+(ii)   E*TRADE agrees that the Registration Statement shall
+comply in all material respects with the requirements
+of the Securities Act and the rules and regulations
+of the SEC promulgated thereunder and shall not
+contain any untrue statement of a material fact or
+omit to state a material fact required to be stated
+therein, or necessary to make the statements therein
+not misleading. The financial statements of E*TRADE
+included in the Registration Statement or
+incorporated by reference therein will comply as to
+form in all material respects with the applicable
+accounting requirements and the published rules and
+regulations of the SEC applicable with respect
+thereto, and will be prepared in accordance with GAAP
+consistently applied during the periods involved
+(except as may be otherwise indicated in the
+financial statements or the notes thereto or, in the
+case of unaudited interim statements, as permitted by
+the SEC) and fairly present the financial position of
+E*TRADE at the dates thereof and the results of
+operations and cash flows for the periods then ended
+(subject, in the case of unaudited interim
+statements, to immaterial year-end adjustments).
+
+(iii)  E*TRADE shall prepare and file with the SEC, as
+promptly as is commercially reasonably practicable,
+such amendments (including post-effective amendments)
+and supplements to the Registration Statement and the
+prospectus used in connection with the Registration
+Statement as may be necessary to keep the
+Registration Statement effective during the
+Registration Period, and, during such period, to
+comply with the provisions of the Securities Act with
+respect to the disposition of all Registrable Shares
+covered by the Registration Statement.
+
+(iv)   E*TRADE shall furnish to Watley promptly after the
+same is prepared and filed with the SEC, one copy of
+the Registration Statement and any amendment thereto
+and each preliminary prospectus and each amendment or
+supplement thereto; (B) on the date of effectiveness
+of the Registration Statement or any amendment
+thereto, a notice to Watley stating that the
+Registration Statement or amendment has been declared
+effective; and (C) such number of copies of a
+prospectus, including a preliminary prospectus, and
+all amendments and supplements thereto and such other
+documents as Watley may reasonably request in order
+to facilitate the disposition of the Registrable
+Shares owned by Watley.
+
+(v)   E*TRADE shall use reasonable efforts to cause all
+Registrable Shares to be listed on each national
+securities exchange or quotation service on which
+securities of the same class or series issued by
+E*TRADE are then listed.
+
+(vi)  As promptly as practicable after becoming aware of
+such event, E*TRADE shall notify Watley of the
+happening of any event, of which E*TRADE has
+knowledge, as a result of which the prospectus
+included in the Registration Statement, as then in
+effect, includes an untrue statement of a material
+fact or omission to state a material fact required to
+be stated therein or necessary to make the statements
+therein not misleading, and use reasonable efforts to
+promptly prepare a supplement or amendment to the
+Registration Statement to correct such untrue
+statement or omission, and deliver such number of
+copies of such supplement or amendment to Watley as
+it may reasonably request.
+
+
+3
+<PAGE>
+
+EXECUTION DRAFT
+
+(vii)  E*TRADE shall use reasonable efforts to prevent the
+issuance of any stop order or other suspension of
+effectiveness of the Registration Statement, and, if
+such an order is issued, to obtain the withdrawal of
+such order as soon as practicable (including in each
+case by amending or supplementing the Registration
+Statement) and to notify Watley of the issuance of
+such order and the resolution thereof, and if the
+Registration Statement is supplemented or amended,
+deliver such number of copies of such supplement or
+amendment to Watley as it may reasonably request.
+
+(viii) E*TRADE will keep the Registration Statement
+effective until the earlier of (A) such date as all
+of the Registrable Shares have been resold or (B) two
+years from the date such Registration Statement is
+declared effective by the SEC (the "REGISTRATION
+PERIOD").
+
+(ix)   Without limiting the generality of subsections (vi)
+and (vii) above, E*TRADE may defer filing of the
+Registration Statement or refuse to permit Watley to
+resell any Registrable Shares pursuant to the
+Registration Statement at any time if E*TRADE
+determines in good faith that such a sale would be in
+violation of the requirements of the Securities Act
+and the regulations promulgated by the SEC thereunder
+or there exists at the time material non-public
+information relating to E*TRADE which, in the
+business judgment of E*TRADE, should not be
+disclosed. E*TRADE shall not under any circumstances
+be entitled to exercise its right to defer filing of
+the Registration Statement or suspend sales under
+this subsection more than two times in any twelve
+(12)-month period, and the period during which the
+Registration Statement under this subsection may be
+withdrawn shall not exceed 90 days each such time.
+
+(x)    Watley agrees that, upon receipt of any notice from
+E*TRADE of the happening of any event of the kind
+described in (vi), (vii) or (ix) above, Watley will
+immediately discontinue disposition of the
+Registrable Shares pursuant to the Registration
+Statement until Watley's receipt of the copies of the
+supplemented or amended prospectus contemplated by
+(vi), (vii) or (ix) above, if so directed by E*TRADE,
+Watley shall deliver to E*TRADE or destroy (and
+deliver to E*TRADE a certificate of destruction) all
+copies in Watley's possession, of the prospectus
+covering such Registrable Shares current at the time
+of receipt of such notice.
+
+(xi)   Watley agrees that E*TRADE shall not be required to
+conduct an underwritten offering and that any sales
+of Registerable Shares shall be made through E*TRADE
+Securities Inc., provided that no commission shall be
+payable by Watley in connection with such sales.
+
+(xii)  Watley, by its acceptance of the Registrable Shares,
+agrees to cooperate with E*TRADE as reasonably
+requested by E*TRADE in connection with the
+preparation and filing of the Registration Statement,
+unless Watley has notified E*TRADE in writing of its
+election to waive the obligations of E*TRADE with
+respect to the Registration Statement, including
+without limitation that (A) Watley will provide
+E*TRADE all information and statements about or
+pertaining to Watley, and shall execute such
+documents in connection with such registration as
+E*TRADE may reasonably request, on such timely basis
+as is reasonably deemed by E*TRADE to be necessary or
+appropriate for the Registration Statement or to
+comply with applicable requirements of the National
+Association of Securities Dealers or other applicable
+regulatory requirements, and (B) Watley will furnish
+promptly to E*TRADE in writing all information
+required from time to time to be disclosed in order
+to make the information previously furnished to
+E*TRADE by Watley not misleading. E*TRADE shall have
+no obligation to register the resale of the
+Registerable Shares or to cause or maintain the
+effectiveness of the Registration Statement unless
+Watley complies with the terms hereof.
+
+(xiii) E*TRADE pay all Registration Expenses (as defined
+below) in connection with any registration,
+qualification or compliance hereunder, and Watley
+shall pay all Selling
+
+
+
+
+
+
+4
+
+
+
+<PAGE>
+
+EXECUTION DRAFT
+
+
+Expenses (as defined below) and other expenses that
+are not Registration Expenses relating to the
+Registrable Shares to be resold by Watley.
+"Registration Expenses" shall mean all expenses,
+except for Selling Expenses, incurred by E*TRADE in
+complying with the registration provisions set forth
+herein, including, without limitation, all
+registration, qualification and filing fees, printing
+expenses, escrow fees, fees and disbursements of
+counsel for E*TRADE, blue sky fees and expenses and
+the expense of any special audits incident to or
+required in connection with any such registration.
+"Selling Expenses" shall mean selling commissions,
+underwriting fees, expenses of counsel to Watley and
+stock transfer taxes applicable to the Registrable
+Shares.
+
+Section 6(c) is amended by deleting the first sentence thereof and replacing
+such first sentence with:
+
+E*TRADE will have sole responsibility for obtaining the third-party
+software licenses needed to host the Software specified as follows:
+Oracle 8i, BEA Tuxedo, BEA Jolt, Veritas, Sonic Software Sonic MQ,
+Rogue Wave Tools.H++, Tools.H++ Professional and Threads.H++.
+
+
+Section 7 is deleted.
+
+Section 8(c) is deleted and replaced with:
+
+EXCEPT FOR BREACHES OF SECTION 16, NEITHER PARTY SHALL HAVE ANY
+LIABILITY WHATSOEVER FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF OR RELATING TO THE LICENSING, DESIGN,
+MANUFACTURE, INSTALLATION OR USE OF THE SOFTWARE, WHETHER DUE TO
+NEGLIGENCE OR ANY OTHER CAUSE INCLUDING, WITHOUT LIMITATION, DAMAGES
+FOR LOSS OF DATA OR GOODWILL, OR THE COST OF PROCUREMENT OF SUBSTITUE
+GOODS. EXCEPT IN THE EVENT OF E*TRADE'S VIOLATION OF WATLEY'S
+INTELLECTUAL PROPERTY RIGHTS IN AND TO THE SOFTWARE (INCLUDING, WITHOUT
+LIMITATION, E*TRADE'S WILLFULL BREACH OF THE RESTRICTIONS ON
+SUBLICENSING THE SOFTWARE AND E*TRADE'S BREACH OF SECTIONS 1(d), 11 OR
+16 HEREOF), EITHER PARTY'S LIABILITY TO THE OTHER FOR ANY CLAIMS
+HEREUNDER SHALL BE LIMITED TO THE AGGREGATE CONSIDERATION PAID WATLEY
+BY E*TRADE.
+
+Section 8(d) is deleted.
+
+Section 9 is deleted.
+
+Section 10 is deleted.
+
+Section 11 is deleted and replaced with:
+
+E*TRADE shall not remove or otherwise change any terms of the End-User
+Agreement or the copyright notice contained in the Software without the
+prior written consent of Watley, provided that E*TRADE may include in
+the Software a copyright notice with respect to any additions to or
+modifications of the Software created by or on behalf of E*TRADE.
+Notwithstanding the foregoing, the Software shall not feature or
+display any trademarks, service marks or trade names of Watley unless
+approved in advance and in writing by E*TRADE.
+
+Section 13(a) is amended to further include:
+
+Watley shall not be responsible for providing Maintenance and Support
+Services in connection with derivative works based on the Software made
+by E*TRADE.
+
+Section 13 is amended to further include:
+
+5
+<PAGE>
+
+EXECUTION DRAFT
+
+(c)
+
+(1) Watley and E*TRADE shall each use reasonable best efforts to effect
+the following transition (the "Transition"):
+
+(A) provide on the date hereof copies of and familiarize
+E*TRADE personnel with the source code and operation of the
+current version of the E*TRADE Pro platform based on the
+Software;
+
+(B) on the date hereof, provide E*TRADE with copies of the
+source code of the current version of the Watley
+UltimateTrader platform;
+
+(C) within sixty (60) days of the date hereof, customize the
+current version of the UltimateTrader platform (which includes
+such features as Comtex news, hot keys, the Island and Arca
+ECN books, order entry window/level II window, improved chart
+studies/improved performance, market ticker, high and low
+ticker, position ticker and export order status, as such
+features currently exist) to include those features unique to
+the current version of the E*TRADE Pro platform (including
+removing Times Ten and replacing it with Oracle) and provide
+copies of and familiarize E*TRADE personnel with the source
+code and operation of such customized version;
+
+(D) on the date hereof, provide all source code and
+documentation related to Super SOES order entry to enable
+E*TRADE to implement Super SOES order entry when its back end
+is ready; and
+
+(E) to the extent required by E*TRADE, provide those services
+necessary to operate the E*TRADE Pro platform (or
+UltimateTrader platform, as appropriate) using competent and
+qualified personnel, including the data feeds and related
+hardware and software.
+
+(2) Until the Transition is completed, Watley shall continue to provide
+the services and access to intellectual property and data feeds
+currently provided by Watley to E*TRADE and its customers and otherwise
+as necessary to allow E*TRADE to continue to operate its E*TRADE Pro
+platform based on the Software ("TRANSITION SUPPORT"). Transition
+Support shall include providing the levels of availability set forth in
+Schedule 3. The Transition shall be completed and no further Transition
+Support shall be required only when:
+
+(A) E*TRADE is able to operate the customized version of the
+UltimateTrader platform (including the data feeds and ticker
+plant) at the same level of functionality and performance as
+currently provided by Watley in an E*TRADE or an E*TRADE
+authorized third party data center (such as the AT&T
+Co-Location center) without assistance from Watley or
+dependence on third-party data feeds to Watley; and
+
+(B) all of the special features unique to E*TRADE's current
+production version of the E*TRADE Pro platform are fully
+integrated into the current Watley production version of the
+UltimateTrader platform such that the E*TRADE specific
+features run as well as on the current E*TRADE production
+version, and the Watley-specific features run as well as on
+the current Watley production version;
+
+provided that:
+
+(C) E*TRADE shall have 21 business days from the date of
+delivery of the source code (as part of a complete CD-ROM
+package or via FTP over a web site) for the current version of
+the E*TRADE Pro platform to compile such source code to
+determine if the resulting object code is equivalent to the
+version of object code currently used by E*TRADE; and
+
+(D) E*TRADE shall have 21 business days from the date of
+delivery of the source code (as part of a complete CD-ROM
+package or via FTP over a web site) for the customized version
+of the UltimateTrader platform to perform acceptance tests in
+accordance with the criteria set forth in subsections (A) and
+(B) above.
+
+6
+<PAGE>
+
+EXECUTION DRAFT
+
+In each case in subsections (C) and (D) above, unless E*TRADE informs
+Watley within such 21 business day period that such source code is not
+acceptable, such source code will be deemed accepted.
+
+(3) For a period of at least six (6) months and until the Transition is
+complete; provided that such period shall not exceed twelve (12)
+months, E*TRADE shall pay $100,000 per month as follows:
+
+(i) E*TRADE shall pay Watley's UltimateTrader
+platform data feed vendors directly on behalf of Watley upon
+presentation of invoices by Watley; then
+
+(ii) E*TRADE shall apply any remaining funds to cover
+E*TRADE's costs of implementing Co-Location (as defined
+below); then
+
+(iii) E*TRADE shall pay any remaining funds to Watley
+to be applied by Watley first to paying for costs associated
+with Watley's technology infrastructure (e.g., servers,
+networks, etc.), maintenance, and technical facilities (either
+owned or leased) to ensure the delivery of the data feeds and
+redundancy necessary to support E*TRADE production trading,
+and second to paying the salaries of employees required to
+support E*TRADE production trading.
+
+(4) Watley represents and warrants that the following activities are
+all of the principal tasks required to co-locate the communications and
+routing equipment necessary to support E*TRADE in the manner in which
+Watley has supported E*TRADE to date ("CO-LOCATION"):
+
+(A) Re-terminating the following circuits inside of the AT&T
+Co-Location space in Allen, TX.
+
+(i) NASDAQ T1 circuit from Worldcom (carries Level I,
+Level II, and NTDS feeds)
+(ii) SIAC T3 circuit from AT&T (carries CQS and CTS
+feeds)
+(iii) E*Trade T1 circuit.
+
+(B) Connecting the above-listed circuits to a router in the
+Co-Location space.
+
+(C) Installing a Sun departmental machine with 4 CPUs (as well
+as a back-machine, which also runs the processes that provides
+the needed market data for the market feed servers located at
+E*Trade's site) to run the ticker plant and distribution
+processes in the facility.
+
+(5) The data feeds required to support the UltimateTrader platform are
+CQS and CTS (both from Siac), Level 1, Level 2 and NTDS (all from
+NASDAQ), the Island ECN book and the Arca ECN book. E*TRADE shall apply
+for such data feeds within 14 days of the date hereof and use
+reasonable best efforts to get them up and running as soon as
+reasonably possible.
+
+(6)  The parties agree that:
+
+(A) in order to assist in the Transition, E*TRADE will send
+one senior Java developer with Swing experience, one senior
+Java developer with Oracle or Times Ten database experience,
+server experience and some C++ experience, and one senior
+developer with real time multi-tasking C++ experience, to work
+with Watley developers during the Transition; and
+
+(B) because the services of personnel with in-depth knowledge
+of the operation of the UltimateTrader platform and the
+E*Trade Pro platform are essential to competing the
+Transition, Watley will make available the services of each of
+Leon Ferguson, Eric Lesatz, Jim Mathieu, Barry Kaplan, Chad
+Hooker, Ashok Kumar and Dale Jensen (along with other
+necessary Watley employees) to assist in the Transition and as
+required by E*TRADE.
+
+(C) because the services of personnel with in-depth knowledge
+of the operation of the E*Trade Pro platform are essential to
+completing the Transition, E*TRADE will make available the
+
+
+7
+
+<PAGE>
+
+EXECUTION DRAFT
+
+services of its personnel with the greatest familiarity with
+the E*Trade Pro platform (along with other necessary E*TRADE
+employees) to assist in the Transition.
+
+(7) Until the Transition is completed, E*TRADE may have an E*TRADE
+employee present on the Watley premises, and such employee shall be
+given access to management and all such information or documents as he
+or she shall reasonably request, to monitor the progress of the
+Transition and the compliance by Watley with the terms of this
+Amendment.
+
+(8) As part of the Transition, Watley will modify its ticker plant to
+allow the use of E*TRADE's existing Bridge data feed to E*TRADE's data
+room for providing index quotes and as a back-up for market feeds.
+
+(e) Watley and E*TRADE agree that E*TRADE shall be entitled to all of
+the benefits of 11 U.S.C. Section 365(n) in connection with this
+license.
+
+Section 14 is deleted and replaced by:
+
+E*TRADE shall have the right to solicit all of Watley's employees;
+provided that E*TRADE may not solicit Leon Ferguson, Eric Lesatz, Barry
+Kaplan, Louis Van Houten or Steve Bate during their employment by
+Watley.
+
+Section 17 is amended to further include:
+
+(d) For purposes of Section 17(a), "Software" shall not include any
+modifications to the Software made by E*TRADE. For purposes of Section
+17(b), "Software" shall include any modifications to the Software made
+by E*TRADE.
+
+Section 18 (m) is deleted and replaced with:
+
+The provisions of Sections 11, 14, 16, 17 and 18 shall survive
+termination or expiration of this Agreement.
+
+Schedule 3 (Preferred Escrow Agreement) is deleted and replaced by:
+
+A.       Infrastructure Services Availability.
+
+Watley will provide the following level of availability for the market
+data feeds, connectivity and Watley technology infrastructure necessary
+to support delivery of market data to E*TRADE (the "WATLEY PLATFORM"):
+
+1. Watley Platform Availability. During Market Hours (as defined
+below), Watley will provide 99.0% average Watley Platform availability
+in any given month and 99.0% average Watley Platform availability in
+any given calendar quarter (not including Scheduled Watley Platform
+Maintenance). "Watley Platform availability" will not be affected by
+failures of E*TRADE developed applications or E*TRADE's systems, or any
+other failures beyond the reasonable control of Watley. The Watley
+Platform is considered unavailable if a Severity 1 Problem or a
+Severity 2 Problem occurs.
+
+2. Definition of Market Hours. "Market Hours" shall mean 8:00 am to
+8:00 pm ET on days on which the NASD considers normal operating days.
+In the event that those hours of operation are expanded beyond normal
+"Market Hours," the parties shall meet in good faith to discuss whether
+to make any appropriate modifications.
+
+3.  Notification of Scheduled Watley Platform Downtime.  Watley will
+notify E*TRADE of scheduled platform changes a minimum of seventy-two
+(72) hours in advance.
+
+B.       Response and Resolution Times.
+1.  Definitions.
+
+8
+<PAGE>
+
+EXECUTION DRAFT
+
+* A "Response" is an acknowledgement of a trouble
+ticket delivered by E*TRADE to Watley (a "Trouble Ticket") or a
+response initiated by Watley to E*TRADE in those cases where Watley
+discovers the problem without contact from E*TRADE. Watley will
+proactively escalate problems that are unresolved in accordance with
+the intervals of time listed in the escalation chart. To determine
+compliance with the Response intervals, a Response shall be deemed to
+be provided to E*TRADE when: (1) in response to a Trouble Ticket,
+E*TRADE has received a communication (phone or email or page) from
+Watley acknowledging the problem; or (2) Watley notifies E*TRADE
+through phone or email or page contact of such problem, if such problem
+was discovered by Watley or one of its other partners.
+* "Resolution" is reached when one or more of the
+following actions have occurred: (1) corrective actions by Watley has
+resumed service; (2) further use of the application during the
+resolution period does not reproduce the problem (in this case, the
+problem is considered closed, but can be reopened should the same
+problem occur at a later date); (3) the suspected problem is determined
+by Watley, in its reasonable discretion and evidenced through records,
+to be known code restriction, caused by the applications or the
+facilities, equipment, and personnel of E*TRADE other than Watley, its
+agents, subcontractors or any third party service provider of Watley
+(in which case, it will no longer be classified as a problem); or (4)
+Watley and E*TRADE mutually agree that the problem is either resolved
+or not considered severe.
+* A "problem" is a failure of the
+Infrastructure Services as described below.
+* A "Severity 1 Problem" is a problem that
+causes a complete outage of the market data services provided by
+Watley.  For example, E*TRADE is unable to retrieve market data at
+E*Trade's site.  This would be an indication of an outage.  This
+example must occur multiple times and be reproducible by Watley
+employees
+* A "Severity 2 Problem" is a problem that causes a
+significant failure or degradation in performance of market data
+services provided by Watley. Examples: (1) delivery of market data
+which is delayed more than one second (1 sec) or (2) Watley code
+modules fail to return the correct result. These examples must have
+occurred multiple times and be reproducible by Watley employees.
+* A "Severity 3 Problem" is a problem that that
+causes a minor portion of an application to run in degraded mode or not
+work as expected but has only minimal impact upon the use of the
+application. This problem must have occurred multiple times and be
+reproducible by Watley employees.
+
+2.  Response and Resolution Times.
+
+Severity 1 Problem:
+Response:        within fifteen (15) minutes
+Resolution:      within four (4) hours
+
+Severity 2 Problem:
+Response:        within thirty (30) minutes
+Resolution:      within twenty-four (24) hours
+
+Severity 3 Problem:
+Response:        within one (1) business day
+Resolution:      within five (5) business days
+
+Although Watley is under no obligation to resolve non-reproducible
+errors, Watley will respond to any such error in the time-frame set
+forth above and will use commercially reasonable efforts in
+collaborating with E*TRADE to resolve such non-reproducible error.
+
+3.  Escalation Procedures:  If Watley does not respond to requests for
+service from E*TRADE within the time frames described above, E*TRADE
+may contact Watley escalation contacts below.
+
+Escalation Level         Severity 1       Severity 2        Severity 3
+Support Engineer         15 minutes       1 hour            24 hours
+Manager                  2 hours          4 hours           48 hours
+
+
+9
+<PAGE>
+
+EXECUTION DRAFT
+
+Vice President           8 hours          24 hours          96 hours
+
+Severity 1 Update Frequency:       Every 30 minutes or as otherwise
+agreed to by the parties.
+
+Severity 2 Update Frequency:       Every hour during business hours or
+as otherwise agreed to by the parties.
+
+Severity 3 Update Frequency:       Every business day or as otherwise
+agreed to by the parties.
+
+4. Customer Assistance: E*TRADE employees or E*TRADE authorized
+independent contractors with sufficient knowledge of the problem must
+be available during the Resolution interval to explain and/or describe
+the problem if the Watley staff deems it necessary. Timely resolution
+of the problem may require E*TRADE to provide web access logs,
+application error logs etc.
+
+
+E*TRADE GROUP, INC.
+
+
+
+By:  /s/ Jarret Lillien
+___________________
+
+Name:  Jarret Lillien
+_________________
+
+Date:  April 8, 2002
+__________________
+
+
+
+
+
+A.B. WATLEY GROUP INC.
+
+
+
+By:  /s/ Leon J. Ferguson
+___________________
+
+Name:  Leon J. Ferguson
+_________________
+
+Date:  April 4, 2002
+__________________
+
+10
+
+
+
+
+
+
+
+
+

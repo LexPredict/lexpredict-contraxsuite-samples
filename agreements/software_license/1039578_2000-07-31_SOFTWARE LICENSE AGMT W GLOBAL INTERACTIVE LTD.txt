@@ -1,0 +1,1081 @@
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.8
+
+SOFTWARE LICENSE AGREEMENT
+
+THIS AGREEMENT is entered into this 19th day of February 2000,
+
+BETWEEN:
+
+GLOBAL INTERACTIVE, with registered offices in St. Kitts, West
+Indies;(hereinafter referred to as the "Licensee")
+
+AND
+
+STARNET SYSTEMS INTERNATIONAL INC. (formerly known as Softec Systems
+Caribbean Inc.) with offices at 1589 Newgate Street, St. John's
+Antigua, West Indies;     (hereinafter referred to as "SSII")
+
+WHEREAS,
+
+A.   Softec Systems Caribbean Inc. changed its name to Starnet Systems
+International Inc. pursuant to Section 161(2) of the International
+Business Corporations Act, Cap.222, by Special Resolution dated 19th
+day of July 1999;
+
+B.   SSII owns rights to Internet casino software (the "Software");
+
+C.   SSII wishes to license the Software to other companies;
+
+D.   SSII wishes to provide a complete computer hardware and software
+package that the Licensee may use to operate an Internet gaming
+site(s); and,
+
+E.   The Licensee wishes to license the Software and make use of SSII's
+computer hardware in order to operate an Internet gaming site(s).
+
+NOW THEREFORE, in consideration of the premises and mutual covenants herein
+set forth, the parties agree as follows:
+
+
+1.   GENERAL PROVISIONS
+
+1.1  DEFINITIONS
+
+
+1.1.1     "Licensed Software" shall mean a licensed data processing
+program or micro program consisting of a series or sequence
+
+Page 1
+<PAGE>
+of signals, or instructions, statements, or fonts stored on
+any media in machine readable form, and any related licensed
+materials such as, but not limited to, graphics, flow
+charts, logic diagrams, manuals, and listing made generally
+available by SSII for use in connection with the licensed
+programs.  The Licensed Software shall consist of not more
+than 2 casinos, based on themes selected by the Licensee
+(collectively, the "Casino").  The Casino shall have various
+games of chance which includes, but are not limited to,
+blackjack, roulette, pai gow poker, video poker and slot
+machine and other games as added from time to time, based on
+a theme chosen by the Licensee, a sportsbook web site within
+the gaming site, an HTML version of the sportsbook, and a
+lottery ticket distribution web site.
+
+1.1.2     "Net Monthly Revenue" shall mean, for any given calendar
+month, the total amount wagered in the casino, horse track
+and the sportsbook, less winnings in the Casino, horse track
+and the sportsbook, PLUS, total sales of lottery tickets,
+less the invoiced cost for purchasing lottery tickets for
+the lottery ticket sales, PLUS, any membership fees or
+additional fees that may be charged by the Licensee that are
+not related to currency conversion or transaction processing.
+
+1.1.3     "Hardware" shall mean all the necessary computers, routers,
+cabling, monitors, hard drives, back-up systems, and other
+equipment, as determined by SSII in its absolute discretion,
+located at its offices in St. John's Antigua, or other
+locations designated by SSII as may be required in order to
+properly store, distribute and run the Licensed Software.
+
+1.1.4     "Games" shall mean the casino style games, sportsbook,
+lottery, and pari-mutuel games that are played using the
+Licensed Software and are available from time to time.
+
+1.1.5     "Downloadable Software" shall mean the portion of the
+Licensed Software that must be resident on a customer's
+computer in order for the customer to access and play the Games.
+
+1.1.6     "Master CD" shall mean the compact disc containing the
+Downloadable Software that may be used to mass-produce
+compact discs for delivery to the Licensee's customers.
+
+Page 2
+<PAGE>
+1.1.7     "Customer Information" shall mean all data collected and
+stored on customers including, without limiting the
+generality of the foregoing, name, address, phone and fax
+number, e-mail address, credit card numbers and expiration
+dates or information on other types of payments, amounts
+wagered and frequency of wagering.
+
+1.1.8     "Confidential Information" shall mean material in the
+possession of SSII which is not generally available to or
+used by others or the utility or value of which is not
+generally known or recognized as standard practice,
+including, without limitation, all financial business and
+personal data relating to SSII's clients, any non-public
+information about affiliates, subsidiaries, consultants and
+employees of SSII or its affiliates, business and marketing
+plans, strategies and methods, studies, charts, plans,
+tables and compilations of business industrial information,
+computer software and computer technology whether
+patentable, copyrightable or not, which is acquired or
+developed by or on behalf of SSII or its affiliates from
+time to time.
+
+
+1.2  RIGHT TO AUDIT
+
+1.2.1     The Licensee shall, within reason, have the right, without
+prior notice to SSII to inspect and audit all SSII's
+business, accounting and supporting records that are
+necessary for purposes of determining SSII's compliance with
+the terms of this Agreement.  SSII shall fully co-operate
+with any independent chartered accountants or certified
+public accountants hired by the Licensee to conduct any such
+inspection or audit.  If any such inspection or audit
+discloses an under statement of less than 3% for any period,
+SSII shall pay, within ten days after receipt of the
+inspection or audit report, the sums due on account of such
+understatement with interest calculated at U.S. prime plus
+one percent.  Further, if such inspection or audit is made
+necessary by failure of SSII to furnish invoice reports or
+any other documentation as herein required, or if an
+understatement for any period is determined by such
+inspection or audit to be 3% or greater, SSII shall, on
+demand and in any event within the said ten days, in
+addition to paying the sums due
+
+Page 3
+<PAGE>
+on account of such understatement, also reimburse for the
+cost of such inspection or audit, including without
+limitation, the charges of any independent chartered
+accountants or certified public accountants retained by the
+Licensee in connection with such audit or inspection and the
+reasonable travel expenses, room, board and compensation of
+employees of the Licensee.
+
+1.2.2     The Licensee's right to audit records shall only extend to
+records that date back no more than two of SSII's fiscal
+years prior to the date SSII receives notice of an impending
+audit.
+
+1.3  INDEMNIFICATION
+
+1.3.1     The Licensee acknowledges and agrees that neither SSII nor
+any of its members, shareholders, directors, officers,
+employees or representatives will be liable to the Licensee
+or any of the Licensee's customers for any special,
+indirect, consequential, punitive or exemplary damages, or
+damages for loss of profits or savings, in connection with
+this Agreement, the services or the Hardware or any other
+information, material or services provided by SSII to the
+Licensee under this Agreement.  If, despite the foregoing
+limitations, SSII or any of its shareholders, directors,
+officers, employees or representatives should become liable
+to the Licensee or any other person (a "Claimant") in
+connection with this Agreement, then the maximum aggregate
+liability of SSII, its members, shareholders, directors,
+officers, employees and representatives for all such things
+and to all such parties will be limited to the lesser of the
+actual amount of loss or damage suffered by the Claimant or
+the amount of the Licensee's fees payable by the Licensee to
+SSII for the six months prior to the loss.
+
+1.3.2     The Licensee shall indemnify and save harmless SSII and its
+members, shareholders, directors, officers, employees,
+agents, contractors, representatives, parent company, or
+subsidiaries (together, the "Indemnified Parties") from and
+against all damages, losses, costs and expenses (including
+actual legal fees and costs), fines and liabilities incurred
+by or awarded asserted or claimed against any of the
+Indemnified Parties by any licensing or government agency
+
+Page 4
+<PAGE>
+who licenses, regulates, or otherwise governs the licensing
+or use of Internet gambling in connection with the
+Licensee's activities under this Agreement, including claims
+brought by a person using or relying upon any advice given
+or publication produced and distributed by the Licensee.
+
+1.3.3     Notwithstanding anything in this Section 1.3, if SSII is
+found guilty of fraud in executing its' obligations under
+this Agreement, the Licensee shall not be responsible for
+any indemnification of the Indemnified Parties to the extent
+that the fraud has caused there to be damages.
+
+
+1.4  DISRUPTIONS
+
+1.4.1     The Licensee acknowledges that from time to time, as a
+result of Hardware failure, supplier failures, or acts of
+God, the services provided under this Agreement by SSII can
+be temporarily disrupted.  The Licensee acknowledges and
+agrees that neither SSII nor any of its members,
+shareholders, directors, officers, employees or
+representatives will be liable to the Licensee or any of the
+Licensee's customers for any special, indirect,
+consequential, punitive or exemplary damages, or damages for
+loss of profits or savings, in connection with these
+temporary disruptions.  For the purpose of this section, if
+the services provided under this Agreement by SSII are
+temporarily disrupted for seven days within any one-month
+period, the minimum monthly fees as calculated in section
+1.7.3 shall be reduced on a pro rata basis.
+
+1.4.2     The Licensee acknowledges that SSII's ability to perform its
+obligations under this Agreement are subject to government
+licensing in whatever jurisdiction SSII may choose to
+operate.  SSII shall not be held liable for any damages of
+any kind whatsoever that may result from changes in
+government legislation or policy.
+
+1.5  CONDITIONS OF LICENSE
+
+This license is granted under the following conditions:
+
+1.5.1     The Licensee acknowledges that its rights in and to the
+Licensed Software may not be assigned, licensed or
+
+Page 5
+<PAGE>
+otherwise transferred by operation of law without the prior
+written consent of SSII.  Violation of this section is
+grounds for immediate termination of this Agreement.  SSII
+will not withhold its consent to the Licensee's requests to
+sub-license the Licensed Software to a third party subject
+to the following obligations of the Licensee and limitations
+of SSII:
+
+A. that the Licensee will have first provided SSII with a
+copy of its draft sub-licensing agreement with the proposed
+sub-licensee (the "Sublicensee"), such agreement must
+contain the following provisions (the "Sub-licensing
+Agreement"):
+
+1. that Licensee is responsible for all communication
+with the Sublicensee and SSII will have no
+responsibility in this regard;
+
+2. the Sublicensee shall obtain no rights in the
+Licensed Software other than those specifically granted
+in the Sub-licensing Agreement;
+
+3. that the Licensed Software is the sole property of
+SSII, and that Licensee has only the specific rights to
+sub-license that are granted to it under this
+Agreement; and,
+
+4. that the cost of any upgrades to the Licensed
+Software that are sublicensed to the Sublicensee will
+be borne by the Licensee.
+
+1.5.2     Copyright, trademarks and other proprietary rights of SSII
+(SSII's Intellectual Property) protect the Licensed
+Software.  The Licensee may be held directly responsible for
+acts relating to the Licensed Software which are not
+authorized by this Agreement.
+
+1.5.3     All right, title and interest in and to SSII's Intellectual
+Property to the Licensed Software, and any copies thereof,
+and all documentation, code and logic, which describes
+and/or comprises the Licensed Software remains the sole
+property of SSII.
+
+1.5.4     SSII shall not be responsible for failure of performance of
+this Agreement due to causes beyond its control, including,
+
+Page 6
+<PAGE>
+but not limited to, work stoppages, fires, civil
+disobedience, riots, rebellions, acts of God, and similar
+occurrences.
+
+1.5.5     The sportsbook "format" shall remain standard, and will not
+be materially altered from SSII's standard sportsbook
+facilities.  Format shall refer to the tabular presentation
+of the sports information making up the sportsbook look and
+feel and shall not include the graphics that may be added in
+order to personalize it.
+
+1.5.6     The Licensee acknowledges that this is a non-exclusive
+agreement and that SSII will license the Licensed Software
+to as many other parties as are willing to enter into a
+licensing agreement with SSII.
+
+1.5.7     The Licensee shall be responsible for ensuring that they are
+operating the Licensed Software in compliance with any and
+all applicable state, provincial, national, and
+international laws.
+
+1.5.8     The Licensee shall provide SSII with all documentation
+necessary to show that the Licensee has obtained any and all
+necessary licenses in order to operate an Internet casino
+and/or Sportsbook.
+
+1.5.9     It is the policy of SSII to prevent the use of the Licensed
+Software for use as a "money laundering" vehicle.  The
+Licensee warrants that they will undertake all reasonable
+efforts to prevent persons from using the Licensed Software
+for use as a money-laundering vehicle.  If it is revealed
+that the Licensee is purposely allowing or is willfully
+blind to money laundering, SSII may terminate this agreement
+without notice.
+
+
+1.6  TERM AND TERMINATION
+
+1.6.1     This Agreement shall commence and be deemed effective on the
+date when fully executed (the "Effective Date").  This
+Agreement is in effect for a period of three-years and five
+months (the "Term") and shall be automatically renewed
+indefinitely with additional one year terms unless the
+Licensee gives written notice of termination of this
+
+Page 7
+<PAGE>
+Agreement at least 45 days prior to the end of any one year
+period.
+
+1.6.2     SSII may terminate this Agreement by giving written notice
+to the Licensee at least six months prior to the end of any
+one year term provided, however, SSII shall not give notice
+of termination in the first term of this Agreement.
+
+1.6.3     SSII may terminate this Agreement at any time upon five days
+notice if the Licensee is more than 30 days in arrears in
+paying any material monthly fees due and owing to SSII.  The
+Licensee shall be allowed to cure the breach during the
+notice period, thus pre-empting SSII's ability to terminate
+this Agreement in accordance with this section.  The arrears
+contemplated in this section must be of a material amount
+for this section to be used by SSII.  For the purposes of
+this section, material shall mean anything greater than 5%
+of the previous month's fees.
+
+1.6.4     SSII may terminate this Agreement at any time upon five days
+notice if the Licensee becomes bankrupt or insolvent or
+ceases carrying on business for any reason.
+
+1.6.5     The Licensee may terminate this Agreement at any time upon
+five days notice if SSII becomes bankrupt or insolvent or
+ceases carrying on business for any reason.
+
+1.6.6     The Licensee may, inter alia, terminate this Agreement at
+any time upon five days notice if SSII is materially in
+breach of this Agreement for more than 30 days.  SSII shall
+be allowed to cure the breach during the notice period, thus
+pre-empting the Licensee's ability to terminate this
+Agreement in accordance with this section.
+
+1.6.7     SSII may terminate this Agreement at any time upon five days
+notice if SSII, or any of its principals, officers or
+Directors becomes the subject of third party civil or
+criminal litigation as a result of the Licensee's operations
+under this Agreement.  The litigation contemplated herein
+must be material, and found to be of a serious nature by
+independent legal counsel.
+
+Page 8
+<PAGE>
+1.6.8     Upon termination of this Agreement, the Licensee shall
+immediately return to SSII any and all of SSII's materials
+which SSII has a proprietary right in that are in the
+Licensee's possession and/or in the possession of the
+Licensee's agents, servants and employees.
+
+1.6.9     Upon termination of this Agreement, all Customer Information
+shall be given to the Licensee and SSII shall not make use
+of or disclose any Customer Information to any third party.
+
+1.6.10    Upon termination of this Agreement for any reason, any
+security given by the Licensee shall be returned to the
+Licensee within thirty days of termination, provided however
+that if there are any outstanding invoiced amounts (as per
+section 1.5.7) against the Licensee, sufficient security
+shall be retained in order to pay for those claims.
+
+
+1.7  REMUNERATION
+
+1.71      The Licensee shall pay to SSII a monthly fee based on a
+percentage of the Net Monthly Revenue or a minimum of
+$25,000.  The fee shall be paid in accordance with Schedule
+A of this Agreement.  The fees shall commence when the
+Licensee accepts a wager utilizing the Licensed Software.
+
+1.7.2     All monthly payments shall be delivered to SSII by the 15th
+of each month in payment for the previous month's activity.
+
+
+1.8  CONFIDENTIALITY
+
+1.8.1     The Licensee shall not disclose, publish, or disseminate
+Confidential Information to anyone other than those of its
+employees or others with a need to know, and the Licensee
+agrees to take reasonable precautions to prevent any
+unauthorized use, disclosure, publication, or dissemination
+of Confidential Information.  The Licensee agrees not to use
+Confidential Information otherwise for its own or any third
+party's benefit without the prior written approval of an
+authorized representative of SSII in each instance.
+
+Page 9
+<PAGE>
+1.8.2     SSII shall not disclose, publish, or disseminate Customer
+Information to anyone other than those of its employees with
+a need to know, and SSII agrees to take reasonable
+precautions to prevent any unauthorized use, disclosure,
+publication, or dissemination of Customer Information.  SSII
+agrees not to use Customer Information otherwise for its own
+or any third party's benefit without the prior written
+approval of an authorized representative of the Licensee in
+each instance.
+
+1.8.3     All Confidential Information, and any Derivatives thereof
+whether created by SSII or the Licensee, remains the
+property of SSII and no license or other rights to
+Confidential  information is granted or implied hereby.  For
+purposes of this Agreement, "Derivatives" shall mean: (a)
+for copyrightable or copyrighted material, any translation,
+abridgement, revision or other form in which an existing
+work may be recast, transformed or adapted; (b) for
+patentable or patented material, any improvement thereon;
+and (c) for material which is protected by trade secret, any
+new material derived from such existing trade secret
+material, including new material which may be protected by
+copyright, patent and/or trade secret.
+
+1.8.4     Notwithstanding anything in this Section 1.8, SSII shall be
+allowed to use Customer Information for the purpose of
+fulfilling its reporting obligations as a public company.
+SSII shall also be allowed to use Customer Information in a
+statistical form so long as it does not identify individuals
+or specific companies.
+
+1.8.5     The Licensee shall not disclose the contents of this
+Agreement to any third party who is not bound to maintain
+confidentiality between the parties.  The Licensee
+acknowledges that disclosure of the terms of this Agreement
+to third parties would cause considerable damage to SSII and
+its parent company, Starnet Communications International Inc.
+
+
+2.1       OBLIGATIONS OF THE LICENSOR
+
+A.        HARDWARE
+
+Page 10
+<PAGE>
+2.1.1     SSII shall supply the Hardware as defined in this Agreement.
+
+2.1.2     SSII shall maintain the Hardware and pay all costs for
+maintaining and/or upgrading the Hardware.
+
+2.1.3     SSII shall supply the office space required to house the
+Hardware.
+
+2.1.4     The Hardware shall, at all times, remain the property of
+SSII.
+
+2.1.5     SSII shall supply an appropriate connection to the Internet
+with sufficient bandwidth to properly operate the Licensed
+Software.  The Licensee shall pay for all bandwidth
+associated only with those customers that are not playing
+the Games using real money and for the downloading of the
+Licensed Software via the Internet, and for any related
+marketing via the Internet.  Bandwidth shall be charged to
+the Licensee at market rates, which in this instance shall
+be SSII's cost.
+
+2.1.6     SSII shall not be required to maintain a redundant site.
+
+2.1.7     SSII shall make all reasonable efforts to repair and correct
+any problems arising under SSII's areas of responsibility
+that may arise from time to time which would cause it to be
+unable to perform its' obligations under this Agreement (see
+section 1.5.4).
+
+2.1.8     SSII shall notify the Licensee of any problems that may
+arise from time to time and shall keep the Licensee apprised
+of any efforts undertaken to rectify the problem.
+
+2.1.9     The Hardware shall be located only in places where Internet
+gambling may be operated legally and where the Licensee has
+obtained all necessary licenses to conduct online gaming.
+
+2.2  THE LICENSED SOFTWARE
+
+2.2.1     SSII shall install the Licensed Software on the Hardware.
+
+Page 11
+<PAGE>
+2.2.2     SSII shall allow all of the Licensee's (and sub-licensee's)
+customers and all persons who seek to be licensee's
+customers Internet access to the Licensed Software.
+
+2.2.3     SSII shall allow the Licensee's customers to download
+directly from the server the Downloadable Software necessary
+for the Licensee's customer to play the Games.
+
+2.2.4     SSII shall supply to the Licensee a single Master CD
+containing the Downloadable Software. Master CDs for Sub-
+licensees will be provided for an additional fee of $100 each.
+
+2.2.5     SSII may from time to time, at its discretion, create
+additional games, which can be added to the Licensed
+Software.  If additional games become available, the
+Licensee may request to have the additional games added to
+the Licensed Software at no additional licensing cost to the
+Licensee.
+
+2.2.6     SSII may from time to time, at its discretion, translate
+part or all of the Games into other languages, which can be
+added to the Licensed Software.  If additional languages
+become available, the Licensee may request to have the
+additional languages added to the Licensed Software at no
+cost to the Licensee.
+
+2.2.7     Notwithstanding anything stated in this section 2.2, any
+changes requested by the Licensee to be made to the graphics
+portion of the Licensed Software, shall be charged to the
+Licensee at market rates, which in this instance shall be
+SSII's cost.
+
+2.2.8     Notwithstanding anything stated in this Section 2.2, any
+changes made to the Master CD at the Licensee's request will
+be billed to the Licensee at market rates, plus a $100.00
+U.S. administration fee.  SSII retains the right to refuse
+to make the requested changes.
+
+2.2.9     SSII shall only be required to provide the Licensed Software
+in the English language and other language that becomes
+available.
+
+Page 12
+<PAGE>
+2.2.10    SSII will provide all upgrades of the Licensed Software that
+do not require changes to the graphical interface, at no
+charge to the Licensee.
+
+2.2.11    All upgrades are to be made available to the Licensee within
+30 days of the completion of testing.
+
+2.2.12    The Licensee may operate the Casino on as many separate URLs
+as the Licensee wants, with no additional licensing fee to
+be paid.
+
+2.2.13    SSII warrants that the Licensed Software correctly
+implements algorithms, which are in accordance with the
+rules and payouts, which may be displayed on the screen at
+any time by the player.  Pseudo-random numbers used by the
+software for the purposes of choosing game outcomes and
+shuffling cards are generated in an unbiased manner.
+
+
+2.3  FINANCIAL TRANSACTIONS
+
+2.3.1     SSII shall provide a transaction processing system that will
+allow the Licensee's customers to deposit funds for use of
+the Games (the "Transaction Processing System").  The
+Licensee's customers will be able to deposit funds via the
+Internet through the use of Visa, Master Card, and/or
+American Express credit cards.  Other methods of payment may
+be made available from time to time at SSII's discretion, at
+a cost to the Licensee to be agreed upon at the time.
+
+2.3.2     SSII shall only be responsible for processing credit card
+debits and credits for which the Licensee holds the
+appropriate merchant number accounts.
+
+2.3.3     The Licensee shall be responsible for all aspects of
+collecting and paying funds, in accordance with this
+Agreement.
+
+2.3.4     The Licensee shall have no rights whatsoever in the
+Transaction Processing System.
+
+
+Page 13
+<PAGE>
+2.4  TECHNICAL SUPPORT
+
+2.4.1     SSII shall supply 24-hour 7-days per week technical support
+for the Licensee's customers, Sub-licensee's customers and
+for the Licensee.
+
+2.4.2     SSII shall make the Technical support available via the
+Internet and via toll free telephone lines.
+
+2.4.3     SSII shall determine the number of people acting as
+technical support and the number of incoming telephone lines
+for technical support in its absolute discretion.
+
+2.4.4     Technical support offered via the telephone shall be in
+English language and other languages that become available,
+including Chinese (mandarin).  Technical support offered via
+the Internet shall be in all languages in which the Licensed
+Software is available.
+
+
+2.5  ACCOUNTING
+
+2.5.1     SSII shall maintain records of all transactions and wagers
+placed utilizing the Licensed Software.
+
+2.5.2     No fees are payable for regular accounting information
+provided to the Licensee for the purpose of calculating Net
+Revenue.
+
+2.5.3     SSII shall supply a complete accounting record, as defined
+by SSII from time to time, of the previous month's activity
+relating to the Licensed Software within ten working days of
+the end of each month.  The accounting records shall be
+delivered either by facsimile or by e-mail.
+
+2.5.4     SSII shall provide daily interim accounting reports, as
+defined by SSII from time to time. The daily interim
+accounting records shall be delivered either by facsimile or
+by e-mail.
+
+2.5.5     SSII shall have the right to utilize the accounting
+information for statistical and reporting purposes provided
+specific information about the Licensee is not disclosed.
+
+Page 14
+<PAGE>
+2.5.6     SSII shall archive and maintain the accounting information
+for a period of 2 fiscal years.
+
+2.5.7     SSII, at its discretion, may destroy any portion of the
+accounting information that SSII deems to be no longer
+relevant.
+
+2.5.8     The Licensee shall be given thirty days written notice prior
+to the destruction of any accounting information.  The
+Licensee may choose to archive information about to be
+destroyed, at its own facilities.
+
+2.59      SII shall supply to the Licensee for the term of this
+Agreement, software that will allow the Licensee to track
+customers that have been referred by other web sites
+(Partner's Program).
+
+
+2.6  CUSTOMER DATA
+
+2.6.1     SSII shall maintain a database containing the Customer
+Information.
+
+2.6.2     The Customer Information shall remain the sole and exclusive
+property of the Licensee.
+
+2.6.3     SSII shall provide daily interim Customer Information
+reports, as defined by SSII from time to time.
+
+2.6.4     The Licensee shall pay no fees for additional Customer
+Information, provided that such requests are reasonable.
+Administration fees shall be paid out at market prices.
+
+2.6.5     SSII shall have the right to utilize the Customer
+Information for any purpose that does not conflict with the
+Licensee's marketing of the Licensed Software.  Under no
+circumstances shall SSII utilize the Customer Information in
+the marketing of any gaming site being operated by a
+subsidiary of Starnet Communications International Inc.,
+SSII's parent company.
+
+Page 15
+<PAGE>
+2.6.6     SSII shall archive and maintain the Customer Information for
+a period of two years.
+
+2.6.7     SSII, in its discretion, may destroy any portion of the
+Customer Information that SSII deems to be no longer
+relevant.
+
+2.6.8     The Licensee shall be given thirty days written notice prior
+to the destruction of any Customer Information.  The
+Licensee may choose to archive information about to be
+destroyed, at its own facilities.
+
+
+2.7  THE GAMES
+
+2.7.1     The lottery tickets and play options available in the
+lottery web site shall be determined from time to time by
+SSII in its sole discretion.
+
+2.7.2     SSII shall determine the odds for the casino from time to
+time.  The Licensee shall be responsible for setting the
+odds for the sportsbook and the HTML sportsbook, from time
+to time, in its sole discretion.
+
+2.7.3     The Licensee shall determine the betting limits for both the
+casino sportsbook and the HTML sportsbook, from time to
+time, in its sole discretion.  The Licensee may choose zero
+as a betting limit.
+
+2.7.4     The Licensee, in its sole discretion, shall determine the
+betting limits for the Games.  The Licensee may choose zero
+as a betting limit.
+
+2.7.5     SSII shall determine the games available in the casino and
+both versions of the sportsbook, from time to time, in its
+sole discretion.
+
+2.7.6     SSII shall determine the lottery tickets available in the
+casino as well as the forms of play, from time to time, in
+its sole discretion.
+
+2.7.7     SSII shall only supply the Games that the Licensee has
+appropriate licenses to operate.
+
+Page 16
+<PAGE>
+3.1       OBLIGATIONS OF THE LICENSEE
+
+A.   LICENSES
+
+3.1.1     The Licensee shall be responsible for obtaining and
+maintaining all necessary licenses for the operation of an
+Internet Casino and an Internet Sportsbook operation.
+
+
+A.   MERCHANT NUMBERS
+
+i.                  The Licensee shall be responsible for obtaining
+and maintaining appropriate merchant numbers for the
+processing of Visa, Master Card and American Express credit
+cards and any other credit card the Licensee may obtain
+merchant numbers for (the "Merchant Numbers").
+
+ii.                 Notwithstanding that from time to time, SSII may
+make merchant numbers available to the Licensee through
+another subsidiary of Starnet Communications International
+Inc. ("SCII"), neither SSII nor SCII, nor any other
+subsidiary of SCII shall be responsible for maintaining or
+continuing to provide merchant numbers.
+
+
+3.3  MARKETING
+
+3.3.1     The Licensee shall be responsible for all marketing of the
+services offered through the Licensed Software.
+
+3.3.2     The Licensee shall spend on a monthly basis, a minimum of
+15% of the previous month's Net Revenue on marketing and
+promoting the Licensee's gaming site.
+
+3.3.3     SSII is not responsible for tracking or maintaining any
+records or data with respect to marketing.  The Licensee
+shall be allowed access to the Hardware for the purpose of
+tracking and maintaining marketing data.
+
+Page 17
+<PAGE>
+3.3.4     The Licensor shall be responsible for all aspects of
+customer service, with the exception of paying out winnings
+(provided that the Licensee has and is using its own credit
+card merchant accounts).
+
+3.4  DISTRIBUTION OF SOFTWARE
+
+3.4.1     The Licensee shall be responsible for the production and
+distribution of compact discs containing the Downloadable
+Software.
+
+3.4.2     The Licensee shall not alter the Licensed Software as
+supplied on the Master CD in any way.
+
+3.4.3     The Licensee shall ensure that the packaging for the
+Licensed Software, the entry web page for the casino and
+sportsbook, as well on any compact disks containing the
+Licensed Software, shall display all proprietary rights
+symbols such as Copyright and Trademark, as supplied by SSII
+(the "Symbols").  The Symbols shall be of the exact same
+size and font as supplied by SSII.
+
+3.5  REGULATORY ISSUES
+
+3.5.1     The Licensee shall be solely responsible for determining
+which jurisdictions they choose to market to and receive
+wagers from.
+
+3.5.2     The Licensee shall be responsible for determining the
+legality of accepting wagers in whichever jurisdictions they
+choose to market to and receive wagers from.
+
+3.5.3     The Licensee shall indemnify SSII for any reasonable legal
+costs, and fines that arise as a result of the Licensee
+choosing to accept wagers from any jurisdiction that
+determines or has determined that Internet wagering is illegal.
+
+3.6  THE WEB SITE
+
+3.6.1     The Licensee shall construct and maintain the entire web
+site(s) where the Downloadable Software is to be made
+available to the Licensee's customers (the "Web Sites").
+
+Page 18
+<PAGE>
+3.6.2     The Licensee shall pay for any and all Uniform Resource
+Locators ("URL's") that the Licensee deems necessary to
+properly market the Licensed Software.
+
+3.6.3     The Licensee shall ensure that the Web Sites shall display
+a statement that the software is licensed, as well as all
+proprietary rights symbols such as Copyright and Trademark,
+as supplied by SSII (the "Symbols").  The Symbols shall be
+of the exact same size and font as supplied by SSII.
+
+3.6.4     The Licensee shall have the right to add as many URL's that
+are dedicated solely to the promotion of the Licensee's
+gaming site as the Licensee deems necessary.
+
+3.6.5     The Licensee shall have the right to make any changes to the
+Web Sites the Licensee feels appropriate.  All changes that
+are effected by SSII will be charged to the Licensee at
+market rates.
+
+3.6.6     If requested, SSII shall construct and maintain any and all
+additional web sites the Licensee deems necessary for the
+marketing of the Licensed Software.  All work done to build
+additional web sites shall be charged to the Licensee at
+market rates.
+
+3.6.7     SSII shall not in any way be responsible for the design of
+the Web Sites utilized by the Licensee.
+
+3.6.8     The Licensee shall include in their Terms and Conditions of
+Play for the Licensed Software the Terms and Conditions that
+are recommended by SSII.  The Licensee may embellish or add
+to these Terms and Conditions.  If the Licensee does not
+implement the minimum required Terms and Conditions, in so
+far as the Terms and Conditions would have protected the
+Licensee, SSII shall not be responsible to the Licensee,
+notwithstanding anything in this Agreement.
+
+4    STANDARD CLAUSES
+
+4.1  NOTICES
+
+Page 19
+<PAGE>
+Unless otherwise provided in this Agreement, any notice provided for
+under this Agreement shall be in writing and shall be sufficiently
+given if delivered personally, or if transmitted by facsimile with an
+original signed copy delivered personally within twenty-four hours
+thereafter, or mailed by prepaid registered post addressed to SSII at
+their respective addresses set forth below or at such other than
+current address as is specified by notice.
+
+
+
+To SSII:                 Newgate Street
+P.O. Box 1589
+St. John's, Antigua, WI
+Attention:  General Counsel
+Fax:  (268) 480-1656
+
+
+To the Licensee:         Global Interactive
+Orion House
+Wellington Road
+Basseterre, St. Kitts, WI
+
+
+4.2  ENTIRE AGREEMENT AND SCHEDULES
+
+The parties agree that this Agreement and its Schedule, if any,
+constitute the complete and exclusive statement of the terms and
+conditions between the Licensee and SSII covering the performance
+hereof and cannot be altered, amended or modified except in writing
+executed by an authorized representative of each party.  The Licensee
+further agrees that any terms and conditions of any purchaser order or
+other instrument issued by the Licensee in connection with this
+Agreement which are in addition or inconsistent with the terms and
+conditions of this Agreement shall not be binding on SSII and shall
+not apply to this Agreement.
+
+
+4.3  GOVERNING LAW AND ARBITRATION
+
+Any dispute in connection with this Agreement shall be settled by
+arbitration in accordance with any Arbitration Act agreed upon between
+the parties; provided, however, should any dispute arise under this
+Agreement, the parties shall endeavor to settle such
+
+Page 20
+<PAGE>
+dispute amicably between themselves.  In the event that the parties
+fail to agree upon an amicable solution, such dispute shall be finally
+determined by arbitration as aforesaid.
+
+
+4.4  GOOD FAITH
+
+The parties acknowledge to one another that each respectively intends
+to perform its obligations as specified in this Agreement in good faith.
+
+
+4.5  PARTIES TO ACT REASONABLY
+
+The parties agree to act reasonably in exercising any discretion,
+judgment, approval or extension of time that may be required to affect
+the purpose and intent of this Agreement.  Whenever the approval or
+consent of a party is required under this Agreement, such consent
+shall not be unreasonably withheld or delayed.
+
+
+4.6  GOVERNING LAW
+
+This agreement and all Schedules shall be governed by and construed in
+accordance with the laws of the Country of Antigua, and the Licensee
+hereby attorns to the jurisdiction of the courts of Antigua
+notwithstanding any other provision expressed or implied in either
+this agreement or the Schedules.
+
+
+4.7  TIME TO BE OF THE ESSENCE
+
+Time is of the essence.
+
+
+4.8  NUMBER AND GENDER
+
+In this Agreement the use of the singular number includes the plural
+and vice versa the use of any gender includes all genders, and the
+word "person" includes an individual, a trust, a partnership, a body
+corporate and politic, an association and any other incorporated or
+unincorporated organization or entity.
+
+Page 21
+<PAGE>
+4.9  CAPTIONS
+
+Captions or descriptive words at the commencement of the various
+sections are inserted only for convenience and are in no way to be
+construed as a part of this Agreement or as a limitation upon the
+scope of the particular section to which they refer.
+
+
+4.10 NON-ASSIGNABILITY
+
+This Agreement is personal to the Licensee, except as provided in S.
+4.11, and the Licensee may not assign or transfer any of its rights or
+obligations under this Agreement without the prior written consent or
+SSII.
+
+
+4.11 BENEFIT
+
+This Agreement shall enure to the benefit of and be binding upon the
+Licensee, its successors and assigns.  The Licensee may delegate the
+performance of any of its obligations hereunder to any corporation
+which controls, is controlled by or is under common control with the
+Licensee.
+
+
+4.12 WAIVER
+
+No condoning, excusing or waiver by any party hereto of any default,
+breach of non-observance by any other party hereto, at any time or
+times with respect to any covenants or conditions herein contained,
+shall operate as a waiver of that party's rights hereunder with
+respect to any continuing or subsequent default, breach or
+nonobservance, and no waiver shall be inferred from or implied by any
+failure to exercise any rights by the party having those rights.
+
+
+4.13 FURTHER ASSURANCE
+
+Each of the parties hereto hereby covenants and agrees to execute such
+further and other documents and instruments and to do such further and
+other things as may be necessary to implement and carry out the intent
+of this Agreement.
+
+Page 22
+<PAGE>
+4.14 CUMULATIVE RIGHTS
+
+All rights and remedies of SSII are cumulative and are in addition to
+and shall not be deemed to exclude any other rights or remedies
+allowed by law except as specifically limited hereby.  All rights and
+remedies may be exercised concurrently.
+
+
+4.15 PRIOR AGREEMENTS
+
+Except as specifically provided for herein, this Agreement, including
+its Schedules, contains all of the terms agreed upon by the parties
+with respect to the subject matter herein and supersedes all prior
+agreements, arrangements and understandings with respect thereto,
+whether oral or written.
+
+
+4.16 SEVERABILITY
+
+If any part of this Agreement is unenforceable because of any rule of
+law or public policy, such unenforceable provision shall be severed
+from this Agreement, and this severance shall not affect the remainder
+of this Agreement.
+
+
+4.17 NO PARTNERSHIP
+
+Notwithstanding anything in this Agreement, no part of this Agreement,
+nor the Agreement as a whole shall be construed as creating a
+partnership or agency relationship between the parties.  If any part
+of this Agreement should become construed as forming a partnership or
+agency relationship, that part shall be amended such that no
+partnership or agency relationship is created, but that part achieves
+what it was originally intended to achieve.
+
+
+4.18 DOLLAR AMOUNTS
+
+All references to money or specific dollar amounts in this Agreement
+are in United States Dollars.
+
+Page 23
+<PAGE>
+
+4.19 INTERPRETATION
+
+In the interpretation of this Agreement or any provision hereof, no
+inference shall be drawn in favor of or against any party by virtue of
+the fact that one party or its agents may have drafted this Agreement
+or such provision.
+
+
+
+STARNET SYSTEMS INTERNATIONAL INC.
+
+
+Per:   __________________________  Per:   _________________________
+
+
+Name:  __________________________  Name:  _________________________
+
+Title: __________________________  Title: _________________________
+
+
+
+GLOBAL INTERACTIVE
+
+
+Per:   __________________________
+
+
+Name:  __________________________
+
+Title: __________________________
+
+
+
+Page 24
+

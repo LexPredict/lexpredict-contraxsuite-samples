@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.20
+
+SOFTWARE 2000
+MASTER SOFTWARE LICENSE AGREEMENT
+NUMBER 96-2283
+
+This Master Software License Agreement (this "Agreement") is made as of the
+last date written below, by and between SOFTWARE 2000, INC., a corporation
+having a principal place of business at 25 Communications Way, Hyannis,
+Massachusetts 02601, USA ("SOFTWARE 2000") and SIMIONE CENTRAL HOLDING, INC., a
+corporation having a place of business at 6650 Powers Ferry Road, Atlanta,
+Georgia 30339 ("CUSTOMER").
+
+
+1.  LICENSE GRANTED.
+(a) Subject to all of the limitations and conditions contained in this
+Agreement, SOFTWARE 2000 grants to CUSTOMER the following non-transferable and
+non-exclusive license rights to use the software system(s) described in the
+attached schedule(s) (the "Software Schedule(s)") and any corrections,
+enhancements, updates and new releases thereto which are provided generally by
+SOFTWARE 2000 to its customers who are active on maintenance for the software
+system(s) and are not independently priced and licensed (the software
+system(s), together with any corrections, enhancements, updates and new
+releases being referred to as the "Software System(s)"), and the related system
+and user documentation provided by SOFTWARE 2000.  The Software System(s) and
+documentation may be used solely within North America, in the ordinary business
+activities of CUSTOMER, for its internal operations only.  The Software
+System(s) or portions thereof which operate on an IBM AS/400 computer may be
+used only on the designated production computer specified in the Software
+Schedule(s) (the "Designated Production Computer(s)") at the designated
+production location(s) specified in the Software Schedule(s) (the "Designated
+Production Location") The Software System(s) or portions thereof which operate
+on a personal computer, if any, may be used only by the number of "client
+seats" specified in the Software Schedule(s) (i.e. number of authorized
+personal computer(s)).  The Repository (as described in the technical
+documentation provided by SOFTWARE 2000) may be installed and stored only on
+the number of intermediate server(s) specified in the Software Schedule(s).
+(b) The Software System(s) which operate on an IBM AS/400 computer may be used
+on a temporary back-up computer located at the designated production
+location(s) only if the designated production computer(s) is inoperative
+because of a malfunction, the performance of preventive maintenance, or
+engineering changes to the designated production computer(s).
+(c) The Software System(s) (i) include source code for the Software Systems(s),
+with the exception of source code for certain Software System(s) or portions
+thereof, and (ii) do not include class libraries for any Infinium Software
+System(s).  Customer may from time to time request SOFTWARE 2000's then current
+list of the Software System(s) or portions thereof for which source code and/or
+class libraries are not provided.
+
+2.  OWNERSHIP; NON-DISCLOSURE AND COPIES
+CUSTOMER acknowledges that the Software System(s); all source code,
+object code, class libraries, user interface screens, algorithms, development
+frameworks, repository, system designs, system logic flow, and processing
+techniques and procedures related thereto; any system, user, or other
+documentation related thereto; any copies and derivatives of any of the
+foregoing, in whole or in part; as well as all copyright, patent, trade secret
+and other proprietary rights in any of the foregoing; are and shall remain the
+sole and exclusive confidential property of SOFTWARE 2000 or SOFTWARE 2000's
+licensor.  CUSTOMER AGREES THAT IT WILL NOT DISCLOSE OR OTHERWISE MAKE
+AVAILABLE TO THIRD PARTIES THE SOFTWARE SYSTEM(S) OR RELATED DOCUMENTATION
+EXCEPT WHEN DISCLOSURE IS NECESSARY TO THE CUSTOMER's PERMITTED USE HEREUNDER
+OF THE SOFTWARE SYSTEM(S) AND THE THIRD PARTY AGREES TO BE BOUND BY THE TERMS
+CONTAINED IN THIS AGREEMENT.  CUSTOMER shall hold as SOFTWARE 2000's
+confidential property, and shall further safeguard against disclosure, all
+copies of the Software System(s) in whole or in part, and all other information
+furnished by SOFTWARE 2000 to CUSTOMER in connection with the Software
+System(s) licensed under this Agreement or in connection with any other product
+or service or proposed product or service of SOFTWARE 2000, including all
+source and object code (whether provided on physical media, electronically or
+otherwise), all system documentation (in any form), and the terms and
+conditions of this Agreement, in the same manner as it safeguards its own
+confidential property against disclosure, provided that such safeguards are at
+least equal to industry standards, and shall take such steps as are reasonably
+necessary to ensure that the provisions of this Agreement relating to
+confidentiality and non-disclosure are not violated by any employee, agent or
+other representative of CUSTOMER.  CUSTOMER shall not rent, lease, decompile,
+disassemble, or reverse engineer any portion of the Software System(s).
+CUSTOMER may not copy the Software System(s) without the prior written
+permission of SOFTWARE 2000, except to make a copy of any program which is
+required as an essential step in its utilization or to make an archival or
+back-up copy of the Software System(s).  CUSTOMER shall not alter or remove any
+SOFTWARE 2000 or other copyright notice from the Software System(s), the
+documentation or any permitted copies thereof and shall ensure that all copies
+contain any such SOFTWARE 2000 or other copyright notice.  CUSTOMER shall
+indemnify and save SOFTWARE 2000 harmless from any and all damages arising out
+of or in connection with a breach of this Paragraph 2, including but not
+limited to the legal fees and disbursements of SOFTWARE 2000 incurred in
+connection with any breach or threatened breach of this Paragraph 2.  CUSTOMER
+agrees that if it learns of any breach of the non-disclosure provisions
+contained herein, it shall, within ten (10) business days of learning of any
+such breach, notify SOFTWARE 2000 in writing of the breach, specifying fully
+the nature and manner of the breach.  CUSTOMER further agrees to cooperate fully
+with SOFTWARE 2000 in any investigations and legal actions relating to such
+breach, including legal actions for injunctive or other equitable relief, that
+SOFTWARE 2000 may take in connection with such breach.
+<PAGE>   2
+3. PAYMENT; TAXES
+With each Software System, CUSTOMER shall pay SOFTWARE 2000, or its agent or
+designee, license and, if applicable, professional service fees in accordance
+with the payment terms specified in the Software Schedule(s).  CUSTOMER shall
+pay SOFTWARE 2000, within thirty (30) days of billing by SOFTWARE 2000, all
+charges for travel and out-of-pocket expenses incurred by SOFTWARE 2000 in
+connection with training, education or other professional services provided by
+SOFTWARE 2000, and, for so long as SOFTWARE 2000 is maintaining the Software
+System(s) and CUSTOMER has elected to continue such maintenance, for ongoing
+maintenance fees and expenses related thereto.  CUSTOMER shall pay all taxes or
+duties, fees and governmental charges, however designated, (including personal
+property taxes, sales taxes, use taxes and customs duties but not including any
+income or corporate excise taxes assessed against SOFTWARE 2000) arising from,
+or based upon, the Software System(s) licensed hereunder, the license fee for
+the Software System(s), other amounts payable under this Agreement, any services
+provided under this Agreement or the operation and use of the Software
+System(s), CUSTOMER shall pay SOFTWARE 2000's then current administrative fee
+in connection with any transfer of a Software System from one Designated
+Production Computer to another.
+
+4. DELIVERY.
+Within thirty (30) days after the date of execution of this Agreement by
+SOFTWARE 2000, or such later date specified in a Software Schedule, SOFTWARE
+2000 will deliver to CUSTOMER the Software System(s) and all related
+documentation.
+
+5. MODIFICATIONS.
+CUSTOMER may modify the Software System(s) only in order to adapt the Software
+System(s) for CUSTOMER's permitted use hereunder, provided, however, SOFTWARE
+2000's maintenance and warranty obligations set forth in Paragraph 6 and 7
+shall apply only to the version of the Software System(s) released generally by
+SOFTWARE 2000 to its customers and not to any version which has been modified
+by CUSTOMER.  If modifications are made by CUSTOMER that result in SOFTWARE
+2000 being relieved of its obligation to provide maintenance services, SOFTWARE
+2000 shall not be required to reimburse CUSTOMER for any prepaid maintenance.
+
+6. MAINTENANCE SERVICES; PROFESSIONAL SERVICES. CUSTOMER may purchase
+maintenance for the Software System(s) for so long as SOFTWARE 2000 continues
+to maintain such Software System(s), and in accordance with SOFTWARE 2000's
+then current maintenance policies.  Maintenance services do not include the
+maintenance of conversion programs, interfaces or other software delivered as
+part of professional services under this or any other agreement for
+professional services.  Professional services will be priced on a time and
+materials basis at SOFTWARE 2000's then current rates or at such other rates as
+may be set forth in the Software Schedule(s) or a separate Professional
+Services Agreement or similar agreement, and, at SOFTWARE 2000's discretion,
+will be subject to the execution by CUSTOMER of a Professional Services
+Agreement or similar agreement.  For these purposes, one (1) consulting equals
+one (1) person for eight (8) hours and one (1) education credit equals one (1)
+person in one (1) class for one (1) day. All professional services provided by
+SOFTWARE 2000, which are not listed on a Software Schedule(s) to this Agreement
+or provided under a Professional Services Agreement, including but not limited
+to services provided by SOFTWARE 2000's support organization, shall be deemed
+to have been provided under this Agreement.
+
+7. WARRANTIES. (a) SOFTWARE 2000 represents and warrants that it is the lawful
+owner or licensee of the Software System(s) and has full legal power and
+authority to license the Software System(s) to CUSTOMER as provided in this
+Agreement. (b) SOFTWARE 2000 warrants that, for as long as CUSTOMER is active
+on maintenance for the Software System(s), the Software System(s) will operate
+in substantial conformity with the Functional Documentation supplied by
+SOFTWARE 2000 within the Software System(s) when used in strict compliance
+therewith; provided, however, that any graphical user interface separately
+priced and licensed hereunder (including but not limited to Infinium: Desktop
+Manager) will operate only in conjunction with certain Software System(s) and
+releases thereto in accordance with a list published by SOFTWARE 2000 from time
+to time.  ("Functional Documentation" is the "help text" and/or the "how to"
+text provided within the Software System(s).)  This warranty is contingent upon
+(a) CUSTOMER's installation of all corrections, enhancements, updates, and new
+releases provided by SOFTWARE 2000 to CUSTOMER as part of maintenance services
+and (b) the absence of damage or abuse to the Software System(s).
+Notwithstanding the foregoing, CUSTOMER acknowledges that (i) it is solely
+responsible for having the appropriate compatible network(s) and operating
+system environment(s), and (ii) since the Software System(s) is complex and,
+therefore, may have defects, CUSTOMER'S sole and exclusive remedy for any such
+defects shall be as follows:  If the Software System(s) fails to perform as
+warranted, SOFTWARE 2000 shall, within a reasonable period of time, provide all
+reasonable programming services to correct programming errors in the Software
+System(s), or at its sole option, replace the Software System(s). (c) Any
+professional services provided under this Agreement are provided "as is"
+without representation of warranty of any kind or nature. (d)  SOFTWARE 2000
+may offer CUSTOMER the opportunity to license programs of third parties by
+agreement between CUSTOMER and the third party (including but not limited to,
+"shrink wrap" agreements).  SOFTWARE 2000 MAKES NO REPRESENTATION OR WARRANTY
+WITH RESPECT TO SUCH PROGRAMS.  CUSTOMER agrees that SOFTWARE 2000 shall have
+no responsibility or liability whatsoever with respect to such programs and
+that any damage, loss, expense, claim, suit, or other problem arising in
+connection with such programs shall be exclusively between CUSTOMER and such
+third parties.
+
+8.  DISCLAIMER OF WARRANTIES.
+EXCEPT AS EXPRESSLY SET FORTH IN PARAGRAPH 7, SOFTWARE 2000 MAKES NO WARRANTY
+OR REPRESENTATION, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+ANY IMPLIED WARRANTIES OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE,
+ANY WARRANTIES OF QUALITY OR PERFORMANCE, OR ANY WARRANTIES OF COMPATIBILITY
+WITH HARDWARE OR WITH NETWORK OR OPERATING SYSTEM ENVIRONMENTS OR WITH
+NON-SOFTWARE 2000 SOFTWARE.
+<PAGE>   3
+
+9. LIMITATIONS OF LIABILITY.
+________ event shall Software 2000's aggregate, cumulative monetary
+liability for any damages under or related to this Agreement from any cause
+whatsoever, regardless of the form of action, exceed the license fees actually
+paid by CUSTOMER to SOFTWARE 2000 for the applicable Software System(s).
+Without affecting the applicability of the preceding sentence, in no event will
+SOFTWARE 2000 or its officers, directors, affiliates, employees, agents or
+representatives, be liable for loss of profits, business, use or data, nor for
+interruption of business, nor for any other indirect, incidental,
+consequential or punitive damages even if SOFTWARE 2000 was advised of the
+possibility thereof, regardless of the form of action.
+
+10. TERM; TERMINATION AND OTHER REMEDIES OF SOFTWARE 2000.
+(a) This Agreement shall remain in effect until terminated pursuant to this
+Paragraph 10.  If CUSTOMER (i) fails to pay any amount due hereunder within
+thirty (30) days of the date such amount is due, (ii) breaches any of its
+obligations under Paragraph 2 or the first sentence of Paragraph 11; (iii)
+fails to perform any other material obligation hereunder if such failure has
+not been cured within thirty (30) days after SOFTWARE 2000 has given CUSTOMER
+notice of such failure; or (iv) causes or permits the winding up or liquidation
+of its affairs, voluntarily, or by order of a court adjudging CUSTOMER bankrupt
+or insolvent or approving as properly filed a petition seeking reorganization
+of CUSTOMER, then SOFTWARE 2000 may, in its sole discretion, do all or any of
+the following: terminate this Agreement and/or the license to use the Software
+System(s) granted hereunder, by providing written notice to CUSTOMER, suspend
+and/or terminate performance of any maintenance, professional or other
+services, upon delivery of written notice to CUSTOMER, and/or disable or
+deactivate the Software System(s) to the extent it is technically possible to
+do so and/or refuse to issue the key or other mechanism which enables the
+Software Systems(s) to operate on any computer(s), upon delivery of written
+notice to CUSTOMER.
+(b) Upon any termination of this Agreement and/or the license to use any
+software System(s), CUSTOMER shall cease to use the Software System(s) and
+shall return to SOFTWARE 2000 the Software System(s) and all copies thereof and
+all proprietary and confidential property of SOFTWARE 2000, including, without
+limitation, all source code, object code and documentation.  CUSTOMER shall
+expunge all copies of the source code or object code from its designated single
+production computer or any other computer containing such codes and shall
+provide a certificate of an officer of CUSTOMER stating that all such codes
+have been expunged from its computer hardware.  SOFTWARE 2000 shall also have
+such other legal and equitable rights and remedies to which it may be entitled
+with respect to CUSTOMER's failure to comply with the provisions of this
+Agreement.  CUSTOMER agrees that Paragraphs 2, 3, 7, 8, 9, 10 and 11 of this
+Agreement shall survive any termination of this Agreement and/or any license to
+use a Software System and shall remain in full force and effect.
+
+11. GENERAL.
+CUSTOMER shall not, voluntarily or involuntarily, sublicense, sell, assign,
+give or otherwise transfer the license granted hereunder, or any copies of the
+Software System(s) or any other information furnished by SOFTWARE 2000 to
+CUSTOMER.  This Agreement, which shall include all schedules and addenda
+attached hereto or as may be executed hereafter in reference to this Agreement,
+may be executed in counterparts, each of which shall be deemed an original, but
+all of which together shall constitute one and the same instrument.  This
+Agreement shall be governed by and interpreted under the laws of the
+Commonwealth of Massachusetts without giving effect to the conflict of laws
+principles thereof.  This Agreement sets forth the entire understanding between
+the parties, is binding upon and inures to the benefit of the parties hereto and
+their respective successors and may be amended only by a written instrument
+executed by both an officer of SOFTWARE 2000 and by CUSTOMER.  If two or more
+entities are named herein as CUSTOMER, their obligations shall be joint and
+several.  This Agreement supersedes any and all prior and contemporaneous
+conversations, understandings and agreements between the parties, including any
+request for proposal or similar document and any responses thereto and any oral
+or written information or advice given by SOFTWARE 2000, its employees, agents
+or representatives, all of which are of no further force and effect, and
+supersedes the terms of any and all purchase orders or invoices.  The execution
+of any amendment, schedule or addenda hereto after the date of this Agreement
+shall also be deemed to supersede any and all conversations, understandings and
+agreements or similar documents and responses thereto and any oral or written
+information or advice given by SOFTWARE 2000, its employees, agents or
+representatives, which are prior to or contemporaneous with the execution of
+such amendment, schedule, or addenda, and any and all purchase orders or
+invoices are related thereto.  If any provision of this Agreement shall be
+held by a court of competent jurisdiction to be contrary to law, that provision
+will be enforced to delay the maximum extent permissible, and the remaining
+provisions of this Agreement will remain in full force and effect.  Neither the
+failure nor any delay on the part of either party to exercise any right, remedy,
+power or privilege under this Agreement shall operate as a waiver thereof.  No
+claim or action, regardless of form, arising out of this Agreement, other than
+a claim or action relating to a breach of Paragraph 2 or the first sentence of
+this Paragraph 11, may be brought by either party more than one (1) year after
+the cause of action has arisen.
+<PAGE>   4
+
+EACH PARTY HAS CAUSED THIS AGREEMENT TO BE EXECUTED BY ITS DULY AUTHORIZED
+OFFICIALS(S).
+
+
+SOFTWARE 2000, INC.                        SIMIONE CENTRAL HOLDING, INC.
+
+By: /s/ Anne Marie Monte                   By:/s/ Lori N. Siegel
+
+Name: Anne Marie Monte                     Name: Lori N. Siegel
+
+Title: Vice President                      Title: CFO
+
+Date: Oct 31, 1996                         Date:  10-30-96
+
+
+
+
+
+

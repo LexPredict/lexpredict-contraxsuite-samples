@@ -1,0 +1,791 @@
+
+
+
+
+
+
+
+
+
+
+(PAGE NUMBERS REFER TO PAPER DOCUMENT ONLY)
+
+EXHIBIT  10.84
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (this “Agreement”) is made and entered into this 29th day of March, 2005 (the “Effective Date”), by and between EXPRESS DIGITAL GRAPHICS, INC., a Colorado corporation with offices at 9780 Mt. Pyramid Ct., Suite 120, Englewood, CO 80112 (“Licensor”) and CPI CORP., a Delaware corporation with offices at 1706 Washington Avenue, St. Louis, MO 63103 (“Licensee”). In consideration of the mutual covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+1              Definitions.
+
+As used herein, the terms “Agreement,” “Effective Date,” “Licensor” and “Licensee” shall have the meanings indicated above, and the following terms shall have the following meanings:
+
+1.1           “Active Camera Room(s)” means a Camera Room that is in use no less than eight (8) months in any calendar year by Licensee.
+
+1.2           “Affiliate” means any person, corporation or other entity, which is controlled by, or is under common control with Licensee for the purpose of operating photographic portrait studios.
+
+1.3           “ Camera Room(s)” means a room or a mobile unit with a lighting system and camera that is used for portrait photography.
+
+1.4           “Change in Ownership” means a change in ownership of a party evidenced by (a) acquisition or other transfer of more than fifty percent (50%) of its common stock to a third party or (b) a third party’s acquisition of all or substantially all of a party’s assets or business.
+
+1.5           “Closed Modifications” means modifications to the Software requested by Licensee which are incorporated into the Licensor’s Software code base and not integrated into Licensor’s “off-the-shelf” Software and are provided to Licensee according to the fee schedule set forth in Exhibit B. Licensor may provide such Closed Modifications to third parties subject to such third parties’ payment of project-cost-plus-expedite-fees as determined by Licensor in its sole discretion.
+
+1.6           “Confidential Information” means any and all trade secrets, proprietary or confidential information as such terms are most broadly defined under common law, statute and other applicable law, including without limitation, plans, schedules, specifications, training materials, test results, pricing, marketing, customer and financial information and Licensed Technology source code and documentation, to the extent previously, currently or subsequently disclosed by one party to the other hereunder or otherwise. Confidential Information will not include information that the receiving party can prove: (a) was already in the receiving party’s possession as a matter of record prior to receipt; (
+
+b) was independently developed by the receiving party as a matter of record; (c) was obtained from a third party who, insofar as is known to the receiving party, was not prohibited from transmitting the information to the receiving party by a contractual, legal or fiduciary obligation to the disclosing party; or (d) was or became generally available to the public other than as a result of disclosure by the receiving party.
+
+1.7           “Customizations” means Closed Modifications, Open Modifications and Exclusive Modifications to the Software requested by Licensee and performed by Licensor pursuant to any Statement(s) of Work.
+
+1.8           “Documentation” means the standard user manual or other documentation or explanatory material describing the functions and principles for operating the Software.
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+1.9           “Error” means a failure of the Software to operate in material conformance with its Documentation.
+
+1.10         “Error Fixes” means Error-correction modifications to the Software provided pursuant to the Maintenance Agreement.
+
+1.11         “Exclusive Modifications” means modifications to the Software requested by Licensee which are designated as exclusively licensed
+to Licensee and mutually agreed to between both parties in writing and provided by Licensor at the
+fee schedule set forth in Exhibit B. Such Exclusive Modifications may be incorporated into the Licensor’s
+code base, solely for the benefit of the Licensee, but will not be integrated into the Licensor’s
+“off –the-shelf” Software or otherwise provided to third-parties without the
+written consent of Licensee.
+
+1.12         “Lab” means a central or regional photo processing laboratory owned or leased and controlled by Licensee
+or any Affiliate that is in communication with one or more Studios or customers of Licensee to provide
+order processing and direct digital printing and that is configured in accordance with computer specifications
+provided by Licensor.
+
+1.13         “Lab Software” means the Labtricity server and workstation Software platform developed by Licensor and all associated
+components, including Labtricity server, Gateway server, print server and all other related components
+and successor Lab Software products.
+
+1.14         “Licensed Technology” means the Software, the Documentation, any material created for Licensee under the Maintenance Agreement,
+and all code, ideas, inventions, algorithms, know-how, methods and techniques contained or embodied
+therein.
+
+1.15         “Maintenance Agreement” means the Maintenance Agreement of even date herewith by and between the parties, attached hereto
+as Exhibit C.
+
+1.16         “Open Modifications” means modifications to the Software requested by Licensee which are incorporated into the Licensor’s
+Software code base and may be integrated into Licensor’s “off-the-shelf” Software
+at Licensor’s sole option, or otherwise provided to third-parties subject to such third parties’
+payment of expedite-fees as determined by Licensor in its sole discretion. Open Modifications shall
+be provided according to the fee schedule set forth in Exhibit B.
+
+1.17         “Project” means the development, implementation and/or support of the Customizations and/or services described
+in any Statement of Work.
+
+1.18         “Proprietary Rights” means patent rights, copyrights, trade secret rights and all other intellectual property and proprietary
+rights of any sort throughout the world, whether or not registered or perfected.
+
+1.19         “Software” means the object code version of the Studio Software and Lab Software licensed in accordance with this
+Agreement, as well as any Customizations created pursuant to any Statement(s) of Work and Error Fixes
+and Upgrades provided pursuant to the Maintenance Agreement.
+
+1.20         “Source Code Escrow Agreement” means the source code escrow agreement executed by the parties as more fully set forth in Exhibit
+D.
+
+1.21         “Statement(s) of Work” means the statement(s) of work executed by Licensor and Licensee for Customizations to the Software,
+performed on a project-by-project basis. All such Statements of Work shall classify all Customizations
+as Open Modifications, Closed Modifications and/or Exclusive Modifications. Each Statement of Work
+executed by the parties shall contain (a) a description of all the services and Customizations that
+will be provided by Licensor to Licensee thereunder, including any third party services and products;
+and (b) complete pricing information for the Project. If there is a conflict between any term of
+this Agreement and a Statement of Work, the terms of this Agreement shall prevail. Each Statement
+of Work executed by the parties shall be deemed attached hereto and incorporated herein.
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+1.22         “Studio” means a mobile or fixed-site retail photographic studio with one or more Camera Rooms owned or leased
+and controlled by Licensee or any Affiliate that is configured in accordance with computer specifications
+provided by Licensor.
+
+1.23         “Studio Software” means the (i) Portrait & Wedding and Darkroom Pro download/print server Software and (ii) Portrait
+& Wedding and Darkroom Pro sales/capture software platforms developed by Licensor, and all associated
+components and all successor products of (i) and (ii) herein.
+
+1.24         “Upgrades” means any enhancements or modifications to the Software (including Open, Closed and Exclusive Modifications).
+
+
+1.25         “Warranty Period”  shall have the meaning set forth in Section 9.2 below.
+
+2              License Grant.
+
+2.1           “Commercial License” Subject to all the terms and conditions of this Agreement, Licensor hereby grants Licensee under all
+Proprietary Rights of Licensor applicable to the Licensed Technology (i) a perpetual, non-exclusive,
+non-sub licensable and non-transferable license (except as set forth in this Section 2.1 and in Section
+14.1) solely to use the Licensed Technology (except for Exclusive Modifications) in accordance
+with the Documentation in Licensee’s current and future Studios and Labs as long as
+Licensee pays Licensor Studio Software License Fees and Lab Software License Fees pursuant
+to Section 7, and (ii) a perpetual, exclusive, non-sub licensable and non-transferable license
+(except as set in this Section 2.1 and in Section 15.1) solely to use any Exclusive Modifications
+in accordance with the Documentation in the Licensee’s Studios and Labs as long
+as Licensee pays Licensor Studio Software License Fees and Lab Software License Fees pursuant
+to Section 7. The licenses granted by this Section 2.1 includes the right to copy the Licensed Technology
+as necessary for installation in Licensee’s current and future Studios and Labs, subject to
+Licensee’s payment of Licensee Fees in accordance with Section 7. Licensee may use the Licensed
+Technology in all current and future Studios and Labs and may relocate any of its Studios and
+Labs without incurring additional fees so long as it pays aggregate fees in accordance with Section
+7. Notwithstanding any other provision of this Agreement, Licensee may sublicense use of the Lab
+Software to one or more third party labs upon payment of an additional license fee of Ten Thousand
+Dollars ($10,000.00) per lab, provided that any such third party lab shall use the Lab Software exclusively
+to provide service to Licensee and Licensee shall be responsible for any such third party lab’s
+full compliance with the terms of this Agreement.
+
+2.2
+“Lab Software Configuration; Gateway Administration” Licensor agrees to assist Licensee, at Licensee’s expense to set up an independent configuration
+of Labtricity at Licensee’s offices in St. Louis, all other Lab locations and other Licensee
+hosting facilities, if any. Licensee shall not be required to route its photography through the Licensor
+gateway; however, the parties agree to work towards setting up a duplicate set of Licensee Labtricity
+gateways at Licensor’s designated hosting location(s) for the purposes of disaster recovery
+at Licensee’s sole cost and expense, including but not limited to all costs of setup and annual
+hosting. Licensor shall be responsible for all software administration on the Gateway server. Licensee
+shall be responsible for all hardware administration on the Gateway server.
+
+2.3
+“Scope” Licensee has no right to receive, use or examine any source code or design documentation relating
+to the Licensed Technology except as set forth in this Agreement, the Maintenance Agreement and the
+Escrow Agreement. The Licensed Technology and the configurations of the Studios/Camera Rooms and
+the Labs shall require and may include third party software and/or hardware for the Software to operate
+in accordance with its Documentation. Licensee shall be solely responsible for purchasing any such
+third party hardware and shall procure any and all licenses necessary to use such third party software
+prior to any receipt or use of the Software by Licensee. The third party licenses and hardware required
+to operate Licensee’s Studios and Labs with the Software are identified on Exhibit A, attached
+hereto and incorporated herein.
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+3              Restrictions on License.
+
+3.1           “Restrictions” Except as reasonably required to use the Licensed Technology in accordance with this Agreement and,
+except for copies solely for back-up, archival, stand-by, disaster recovery, testing and quality
+assurance purposes, Licensee may not copy the Licensed Technology except with Licensor’s prior
+written consent. Licensee must reproduce and include Licensor’s copyright notice and any other
+proprietary notices that appear on the original Licensed Technology on any copies and any media therefor.
+Licensor shall deliver to Licensee Software keys solely for back-up, archival, stand-by, disaster
+recovery, testing and quality assurance copies of the Licensed Technology. Any and all use of the
+Licensed Technology shall be in accordance with the terms and conditions of this Agreement. Except
+as otherwise expressly provided in this Agreement or previously approved in writing by Licensor,
+Licensee shall not and shall not allow any third party to: (a) decompile, disassemble, or otherwise
+reverse engineer or attempt to reconstruct or derive any source code or underlying ideas, algorithms,
+structure or organization from the Licensed Technology or from any other information by any means
+whatsoever; (b) distribute, disclose or allow use of any of the Licensed Technology in any format
+through any timesharing device, service bureau, network or by any other means, to or by any third
+party other than Licensee’s personnel; (c) remove or obscure any identification, copyright or
+other proprietary or restrictive notices or legends contained or included in any of the Licensed
+Technology; or (d) modify, incorporate into or with other software or create a derivative work of
+the Licensed Technology or any portion thereof. A software protection key will be incorporated into
+the Software to protect against unlawful duplication and copyright infringement. ANY ATTEMPTS TO
+REVERSE ENGINEER, COPY OR OTHERWISE USE THE SOFTWARE IN VIOLATION OF THIS SECTION 3.1 WILL IMMEDIATELY
+VOID ALL WARRANTIES TO THE SOFTWARE UPON LICENSOR’S NOTICE TO LICENSEE IN ACCORDANCE WITH SECTION 8.2 (b).
+
+3.2           “Audit Rights” Licensor will have access to such portion of Licensee’s records and premises to allow Licensor
+to determine whether Licensee is in compliance with the terms and conditions of this Agreement. Such
+inspection and audit shall be conducted by an independent third party auditor selected and paid by
+Licensor and reasonably acceptable to Licensee, and such auditor shall be required to sign a confidentiality
+agreement in a form containing terms and conditions customarily found in such agreements. Such access
+will be: (a) not more than once each twelve (12) month period; (b) during Licensee’s regular
+business hours, on reasonable written notice; and (c) arranged so that, to the extent possible, Licensee’s
+regular business activities are minimally disrupted. Licensee will immediately correct any deficiencies
+discovered in the course of the audit. If the results of any such audit reveal that Licensee is not
+in compliance with the terms and conditions of this Agreement (or, with respect to Licensor’s
+payment obligations, has underpaid Licensor by greater than five percent (5%), then Licensee shall
+pay or reimburse Licensor for the costs and expenses incurred by Licensor with respect to such audit;
+otherwise, Licensor shall be responsible for all such costs and expenses.
+
+4              Maintenance Services; Training; Source Code Escrow.
+
+4.1           “Maintenance” Licensor will provide maintenance services in accordance with the Maintenance Agreement attached hereto
+as Exhibit C for so long as Licensee uses the Licensed Technology and pays Maintenance Fees.
+
+4.2           “Training” At Licensee’s expense, Licensor will train Licensee employees and agents selected by Licensee
+in the maintenance of the Licensed Technology at the rates set forth in Exhibit B. Licensor further
+agrees to provide a reasonable fee based service to train end user support teams of Licensee, as
+determined by Licensor in its sole and reasonable discretion.
+
+5              Source Code Escrow.
+
+Contemporaneously
+with the execution of this Agreement, the parties shall execute and deliver a three-party source
+code escrow agreement with an independent third party escrow agent, substantially in the form attached
+hereto as Exhibit D (the “Escrow Agreement”). Licensor shall deliver the source code
+and documentation for the Licensed Technology and all Error Fixes and Upgrades to the escrow agent
+in accordance with the terms of the Escrow Agreement, but in no event later than fifteen (15)
+days after the Effective Date. Licensor shall have no right to amend the Escrow Agreement without
+the prior written consent of all the parties to the Escrow Agreement.
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+Licensee shall pay Licensor annually in accordance with Exhibit B for updating and maintaining
+the escrowed source code and Licensee shall pay all Escrow Agent fees (as prescribed in the Escrow
+Agreement).
+
+6              Licensor’s Retention of Rights.
+
+As between the parties, Licensor retains exclusive ownership of all rights, title and interest including,
+without limitation, all Proprietary Rights, in and to the Licensed Technology, and all copies, portions
+and modifications (by whomever made) thereof. Unless otherwise agreed in the Statement of Work, any
+and all Customizations to the Software or other Licensed Technology developed pursuant to a Statement
+of Work or otherwise provided as part of the Maintenance Services shall be owned exclusively by Licensor,
+and licensed to Licensee as set forth in Section 2 of this Agreement. The license does not constitute
+a sale of the Licensed Technology, or any portion or copy thereof. Each party recognizes that Licensor
+grants no licenses, by implication, estoppel or otherwise, except for the license expressly set forth
+in Section 2 of this Agreement.
+
+7              Charges and Payment.
+
+7.1           “General” Licensee shall pay to Licensor the Studio License Fees and the Lab License Fees in accordance with
+the provisions contained in the attached Exhibit B. Licensor acknowledges receipt of Licensee’s
+payment of License Fees for the first 246 camera rooms that were installed in 2004. In addition,
+Licensee will pay or reimburse Licensor for all taxes, assessments, duties, permits and fees, however
+designated, that are levied upon this Agreement, the Software or the licenses granted hereunder, excluding, however, franchise taxes and employment taxes payable by Licensor and taxes based on Licensor’s net income.
+All payments made by Licensee to Licensor shall be made in U.S. Dollars.
+
+7.2           “Credits for Certain Modifications” Licensor shall notify Licensee prior to incorporating the Closed Modifications into the Software
+and/or otherwise providing or licensing the Closed Modifications to another customer
+of Licensor. Licensor shall obtain Licensee’s written consent (which Licensee may, in its sole
+discretion, withhold) prior to incorporating the Exclusive Modifications into the Software or otherwise
+providing or licensing the Exclusive Modifications to another customer of Licensor. Licensee shall
+receive a credit towards the current year’s fees due under the Maintenance Agreement equal to
+the sum of 50% of the development cost for each Closed or Exclusive Modification to allow Licensor
+to provide any such Closed or Exclusive Modification to another customer and share the cost of development.
+Should such credits exceed the annual fees due under the Maintenance Agreement for the current year,
+Licensor agrees to rebate the excess to Licensee.
+
+7.3            “Books and Records; Audit” Licensor shall maintain complete and accurate records to support and document the charges for the
+development of any Customizations under this Agreement in accordance with generally accepted accounting
+principles consistently applied. Licensor shall also provide reasonable assistance to Licensee or
+its designated agent to conduct audits to confirm the charges hereunder, to identify any third parties licensed
+to use or otherwise provided the Closed Modifications or the Exclusive Modifications and to verify
+Licensee’s receipt of appropriate credits in accordance with Section 7.2 above. Any such audit
+will be conducted upon reasonable notice and during regular business hours, in a manner designed
+to minimize any disruption to Licensor’s business operations. Such audit shall be at Licensee’s
+expense, unless such audit reveals a discrepancy of more than five percent (5%) in the total applicable
+amount reported by Licensor, in which event Licensor shall pay for, or reimburse Licensee the cost
+of, such audit. Overpayments and underpayments revealed in the course of any such audit, if any,
+shall be reconciled and settled within thirty (30) days after the auditors’ report is delivered
+to both parties.
+
+8             Term.
+
+8.1
+“Term” This Agreement shall be effective from the Effective Date through the effective date of termination
+under Section 8.2(a) or the expiration of a fifteen-month transition period following Licensee’s receipt
+of notice of termination under Section 8.2(b).
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+8.2            “Termination for Material Breach; Remedies”
+
+(a)          By Licensor. If Licensor should breach a material provision of this Agreement and such breach is not cured
+within sixty (60) days after Licensor’s receipt of notice from Licensee, Licensee shall
+be entitled to recover from Licensor the total amount of damages and costs Licensee incurs as
+a result of Licensor’s breach and have the option to terminate this Agreement. For the purposes
+of this subsection 8.2(a), a material breach shall be deemed incurable where such breach involves
+any breach of Licensor’s confidentiality obligations as set forth in Section 11 of this Agreement.
+Following the termination of this Agreement as set forth in this subsection 8.2(a), the licenses
+for which Licensor has been fully paid by Licensee shall continue in full force and Licensee shall
+have the option of acquiring any future licenses to the Licensed Technology under the terms and conditions
+of this Agreement.
+
+(b)          By Licensee. If Licensee should breach any material provision of this Agreement and such breach is not cured within
+sixty (60) days after receipt of notice from Licensor, Licensor shall be entitled to recover
+from Licensee any damages and costs Licensor incurs as a result of Licensee’s breach pursuant
+to subsection 8.2 (c). In addition, Licensor shall have the right to terminate this Agreement in
+the event that Licensee decompiles, disassembles, reverse engineers or otherwise derives source code
+from the Licensed Technology without the express written consent of Licensor and such action causes
+a material adverse effect upon Licensor (a “Termination Event”). If Licensor, in its reasonable
+judgment, believes a Termination Event has occurred, Licensor shall promptly notify Licensee in writing
+of the Termination Event and the following resolution process shall be initiated immediately: (1)
+Licensee and Licensor shall cooperate to investigate and identify the source, scope and cause of
+the Termination Event; (2) Licensee shall ensure that the unauthorized activity that constitutes
+the Termination Event is halted immediately; (3) Licensee shall use its best efforts to retrieve
+any improperly disclosed information from recipients who acquired or gained access to such information
+as a result of the Terminations Event, including commencement of legal action at Licensee’s
+expense, if necessary or appropriate; (4) Licensee shall advise any third party recipient that the
+improperly disclosed information was proprietary to Licensor and was disclosed without authority
+and any use of such information could result in legal action against the recipient; (5) Licensee
+shall take immediate steps to ensure that any deficiencies in security or processes that resulted
+in the Termination Event are eliminated; and (6) Licensor shall proceed to recover damages from Licensee
+pursuant to Section 8.2(c). In the event Licensee disputes Licensor’s determination that a Termination
+Event has occurred, the parties shall also refer the final decision with regard to whether a Termination
+Event has occurred to arbitration in accordance with the procedures set forth in subsection 8.2(c).
+Notwithstanding the foregoing, the parties expressly acknowledge and agree that the above-referenced
+process and any such arbitration under Section 8.2(c) shall in no way prevent Licensor from immediately
+seeking or obtaining any appropriate injunctive relief as set forth in Section 11.3 to prevent further
+activity that Licensor believes constitutes a Termination Event, but no injunctive relief shall be
+available to restrain or enjoin Licensee’s continued use of the Licensed Technology that is
+in accordance with the terms of this Agreement. If the arbitrator determines that a Termination Event
+has occurred, Licensor may deliver notice of termination of this Agreement to Licensee. As of the
+end of the termination transition period, all licenses granted herein shall simultaneously and automatically terminate upon notice to Licensee.
+
+
+
+
+(c)           Determination of Damages. In the event of a material breach of this Agreement by either party that remains uncured for sixty
+(60) days after receipt of notice of such breach, Licensor and Licensee shall negotiate in good faith
+for a period of ninety (90) days to establish the amount of damages and costs incurred by the non-breaching
+party and payable by the breaching party. If the parties cannot agree on damages and costs recoverable
+by the non-breaching party by the end of such ninety (90) day period, the party first alleging a
+material breach may pursue recovery of damages and costs through binding arbitration in accordance
+with the Commercial Arbitration Rules of the American Arbitration Association and the United States
+Arbitration Act. The arbitration will be conducted by one (1) arbitrator, selected jointly by the
+parties, with at least five (5) years experience in arbitrating technology-related legal disputes,
+or selected by the American Arbitration Association if the parties fail to agree on an arbitrator
+within a reasonable period. A party may enter judgment on the award rendered by the arbitrators in
+a court having jurisdiction.
+
+
+
+
+
+8.3           “Bankruptcy” The parties agree and acknowledge that Licensee is a licensee of the Licensed Technology and such
+Licensed Technology constitutes intellectual property as defined by Section 101(35)(A) of the United
+States Bankruptcy Code, and that Licensee shall be entitled to all the benefits granted to licensees
+under the
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+provisions of the United States Bankruptcy Code including, without limitation, Section 365(n) of Title 11 of the U.S. Code (11 U.S.C. § 365(n)).
+
+8.4           “Rights Upon Termination” Upon written request at the expiration or termination of this Agreement, all documented Confidential Information (and all copies thereof), except for the Licensed Technology, owned by the requesting party will be returned or destroyed by the recipient party, with written certification thereof.
+
+8.5           “Survival” Any accrued payment obligations pursuant to Section 7, the provisions of Sections 1, 2 (with respect to fully paid licenses), 3, 5, 8.4, 8.5, 9, 10, 11 and 12, and any right of action for breach of this Agreement prior to termination shall survive any expiration or termination of this Agreement, except as otherwise set forth herein.
+
+9             Warranties.
+
+9.1           “Corporate Requisites” Each party hereby represents and warrants that: (a) it has the full corporate power and authority to enter into and perform this Agreement, and it knows of no contract, agreement, promise, undertaking or other fact or circumstance which would prevent the full execution and performance of this Agreement by it; and (b) it is a corporation duly organized and in good standing in the country or state of its incorporation and in good faith is and fully intends to remain in compliance with all applicable laws, rules and regulations in the conduct of its business.
+
+9.2           “Performance Warranty” Licensor warrants that until July 1, 2005 (the “Warranty Period”) the Software, as delivered, will be free from material defects in media and Errors. In the event Licensee discovers that the Software fails to conform to the foregoing warranty during the Warranty Period, Licensee shall promptly notify Licensor and provide Licensor with reasonably available information in written or electronic form so that Licensor can verify such non-conformance. Licensor shall undertake reasonable commercial efforts to repair or replace the components of the Software to which Licensor can verify non-conformance within thirty (30) days after such notice in order to c
+
+orrect such non-conformance without materially adversely affecting the performance or functionality of the Software, or, in the event Licensor is unable to repair or replace the Software in order to correct such non-conformance without materially adversely affecting the performance or functionality of the Software within such thirty (30) day period, Licensor shall refund to Licensee the License Fees paid hereunder, less those amounts necessary to cover Licensor’s reasonable development costs, and all fees paid under the Maintenance Agreement relating to such non-conformance. The methods and techniques utilized by Licensor to correct errors shall be at the discretion of Licensor.
+
+9.3           “Other Warranties” Licensor represents and warrants that: (a) if applicable, it shall pass through to Licensee any product and third party end-user warranties and indemnities. To the extent Licensor is not permitted to so pass-through, Licensor agrees to enforce such warranties and indemnities on behalf of Licensee; (b) it has and shall maintain full authority to license the Licensed Technology to Licensee hereunder; (c) to the best of its knowledge, the Licensed Technology and any services provided to Licensee do not and will not infringe upon and are free from any claim by any third party of infringement of any U.S. patent, trademark, copyright, trade secret or any other proprie
+
+tary right of any third party; (d) it will use (and cause its subcontractors to use) commercially reasonable efforts to maintain the Licensed Technology, as applicable, free of software viruses, disabling code or similar items; and (e) the Licensed Technology and any services provided to Licensee are and will be provided in compliance with the requirements of all applicable federal, state and local laws, ordinances, regulations and codes.
+
+9.4          “Disclaimer” EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS AGREEMENT AND TO THE EXTENT ALLOWED BY APPLICABLE LAW, EACH PARTY HEREBY DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, REGARDING THE LICENSED TECHNOLOGY OR SERVICES PROVIDED UNDER THIS AGREEMENT. EACH PARTY SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE OR PURPOSE, SYSTEM INTEGRATION AND NON-INFRINGEMENT, AND THOSE ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. FURTHER, LICENSOR DOES NOT WARRANT, GUARANTEE OR MAKE ANY REPRESENTATIONS THAT THE LICENSED TECHNOLOGY WILL BE FREE FROM BUGS OR THAT ITS USE WILL BE
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+UNINTERRUPTED, OR REGARDING THE USE, OR THE RESULTS OF THE USE, OF THE LICENSED TECHNOLOGY IN TERMS
+OF ACCURACY, RELIABILITY OR OTHERWISE.
+
+10           Indemnification.
+
+10.1         “Licensor Indemnity” Licensor shall defend, indemnify and hold Licensee, its directors, officers, employees, agents and
+Affiliates harmless from liability resulting from and against any claims, demands, suits and costs,
+including reasonable attorney’s fees arising out of (a) any third party claim that
+the Licensed Technology or any service provided hereunder infringes any issued United States patent
+(and, should Licensor perform any appropriate due diligence to its satisfaction in Canada, Australia
+or the United Kingdom, then upon written notice to Licensee, any issued Canadian, Australian or United
+Kingdom patent), or any copyright enforceable in the United States, Canada, Australia or the United
+Kingdom, or that the Licensed Technology misappropriates any trade secret; and/or (b) a breach of
+Section 11, in each case solely provided that Licensor (i) is promptly notified of any and all threats,
+claims and proceedings related thereto, provided, however, that the failure to so notify will only
+relieve Licensor of its obligations under this Section 10 to the extent that Licensor is prejudiced
+thereby, (ii) is given reasonable assistance with the full cooperation of Licensee, and (iii) controls
+the defense and all negotiations and decisions regarding a settlement or compromise. Licensor will
+not be responsible for any settlement it does not approve in writing. THE FOREGOING IS IN LIEU OF
+ANY WARRANTIES OF NONINFRINGEMENT, WHICH ARE HEREBY DISCLAIMED.
+
+10.2         “Exceptions and Limitations” Notwithstanding the provisions of Section 10.1, Licensor will not be obligated to defend Licensee
+or be liable for costs and damages to the extent that any claim of infringement is based on: (a)
+modification of the Licensed Technology that is not performed or authorized by Licensor but is by
+Licensee, or by a third party at the request or direction of Licensee or a party authorized by Licensee;
+(b) the combination or use of the Licensed Technology, or any portion thereof, by Licensee with other
+products, processes or materials not supplied by Licensor except to the extent that it relates to
+third party software or hardware acknowledged by Licensor as necessary to operate in accordance with
+the Documentation or otherwise approved by Licensor; or (c) Licensee’s use of the Licensed Technology
+not strictly in accordance with the terms of this Agreement and the Documentation. Licensee agrees
+to defend, indemnify and hold Licensor, its directors, officers, employees, agents harmless from
+liability resulting from and against any claims, demands, suits and costs, including reasonable attorney’s
+fees arising out of any actions referred to in subsections (a) through (c) of this Section 10.2, in each case solely provided that Licensee (i) is promptly notified of any and all threats, claims
+and proceedings related thereto, provided, however, that the failure to so notify will only relieve
+Licensee of its obligations under this Section 10 to the extent that Licensor is prejudiced thereby,
+(ii) is given reasonable assistance with the full cooperation of Licensor, and (iii) controls the
+defense and all negotiations and decisions regarding a settlement or compromise. In the event that
+the Software is held or believed by Licensor to infringe, Licensor shall have the option, at its
+expense, to: (i) modify the Software to be non-infringing with equivalent or better functionality;
+or (ii) obtain for Licensee a license to continue using the Software or, if (i) and (ii) are commercially
+impractical, Licensor may terminate this Agreement as to the infringing Software, such termination
+being a Release Condition under the Escrow Agreement under which Licensee may access the
+Source Code solely as permitted under the Source Code Escrow Agreement and the surviving provisions
+of this Agreement. THE FOREGOING STATES LICENSOR’S ENTIRE LIABILITY AND LICENSEE’S EXCLUSIVE
+REMEDIES FOR INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS REGARDING THE SOFTWARE.
+
+10.3         “Mutual Indemnity” Each party will indemnify and hold harmless the other party and its directors, officers, employees,
+agents and Affiliates against any and all damages, losses, claims, obligations, commitments, costs
+or expenses (including reasonable attorney’s fees and costs) incurred by such other party that
+relate to this Agreement and arise out of the death or bodily injury of any person, to the extent
+such death or bodily injury was caused by the gross negligence or willful misconduct of such party
+or its employees or agents in the performance of such party’s obligations hereunder, and the
+damage, loss or destruction of any real or tangible personal property, to the extent that such damage,
+loss or destruction was caused by the gross negligence or willful misconduct of such party or its
+employees or agents in the performance of such party’s obligations hereunder; provided, however,
+that (a) the indemnified party provides prompt written notice of any such claim(s) to the indemnifying
+party and further provided that the failure to so notify will only relieve the indemnifying party
+of its obligations under this Section 10 if and to the extent that the indemnifying party is prejudiced
+thereby; (b) the indemnifying party has sole control of the defense and all related settlement negotiations;
+and (c) the indemnified
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+party furnishes the indemnifying party, at the indemnifying party’s expense, with the assistance,
+information, and authority reasonably necessary to perform the obligations set forth in this provision.
+
+11            Confidentiality.
+
+11.1       “Protection of Confidential Information” Except as expressly and unambiguously allowed herein, the receiving party will hold in confidence
+and not use, copy or disclose any Confidential Information of the disclosing party and shall similarly
+bind its employees and contractors in writing. Nothing herein shall permit the receiving party to
+disclose or use, except as explicitly permitted elsewhere in this Agreement, Confidential Information
+of the disclosing party and then only on an “as needed” basis for purposes of this Agreement.
+For the purpose of clarification, the object code and Documentation for the Licensed Technology are
+not Confidential Information, but are required to be protected under other provisions of this Agreement.
+
+11.2         “Disclosures Required by Law” If the receiving party is required to disclose the disclosing party’s Confidential Information
+by law or a governmental authority, including pursuant to a subpoena or court order, such Confidential
+Information may be disclosed, provided that the receiving party: (a) promptly notifies the disclosing
+party of the disclosure requirement; (b) cooperates with the disclosing party’s reasonable efforts
+to resist or narrow the disclosure and to obtain an order or other reliable assurance that confidential
+treatment will be accorded the disclosing party’s Confidential Information; and (c) furnishes
+only Confidential Information that the party is legally compelled to disclose according to advice
+of its legal counsel.
+
+11.3         “Equitable Relief” Each party acknowledges that its breach of this Section 11 would cause irreparable injury to the other
+for which monetary damages are not an adequate remedy. Accordingly, a party will be entitled to injunctions
+and other equitable remedies in the event of such a breach by the other. The right of each of the
+parties to seek injunctive relief shall not limit in any manner their respective rights to seek other
+and/or additional remedies at law or in equity.
+
+12            Limitation on Liability.
+
+EXCEPT AS SET FORTH IN THIS SECTION 12, NEITHER PARTY SHALL BE RESPONSIBLE OR LIABLE WITH RESPECT TO
+ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, INDEMNIFICATION, STRICT LIABILITY
+OR OTHER THEORY: (A) FOR INTERRUPTION OF USE, FOR LOSS OR INACCURACY OR CORRUPTION OF SOFTWARE OR
+DATA, OR FOR COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY; (B) FOR ANY INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS;
+OR (C) FOR ANY AMOUNTS IN EXCESS OF THE AGGREGATE OF FEES PAID TO IT (IN THE CASE OF LICENSOR) OR
+(IN THE CASE OF LICENSEE) PAID OR OWED BY IT HEREUNDER. THE FOREGOING LIMITATIONS SHALL NOT APPLY
+TO (i) ANY CLAIMS FOR PERSONAL INJURY OR DEATH; (ii) ANY CLAIMS BASED ON A WILLFUL VIOLATION OF EITHER
+PARTY’S PROPRIETARY RIGHTS; (iii) EITHER PARTY’S BREACH OF ITS OBLIGATIONS UNDER SECTION
+11 ABOVE OR (iv) EITHER PARTY’S OBLIGATIONS UNDER SECTION 10. AMOUNTS PAYABLE UNDER SECTION
+7 SHALL BE DEEMED DIRECT DAMAGES FOR PURPOSES OF THIS AGREEMENT.
+
+13            Licensor Personnel. Licensor shall provide sufficient and qualified personnel to meet its responsibilities
+and obligations under this Agreement and under any Scope of Work in a professional manner satisfactory
+to Licensee.
+
+14            Reports and Communications. Licensor shall provide a written report at least quarterly to advise Licensee of Licensor’s projected
+Upgrades to the Licensed Technology in the ensuing quarter. In addition, the parties will engage
+in regular communications as mutually agreed to ensure optimal operations of the Licensed Technology
+in License’s operations.
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+15.           General Provisions.
+
+15.1 “Prohibition Against Assignment; Binding Effect” Neither party shall have any right or ability to assign, assume, transfer or sublicense any obligations
+or benefit under this Agreement without the written consent of the other, except that a party may
+assign and transfer this Agreement and its rights and obligations hereunder to any third party under
+a Change in Ownership. Subject to the foregoing, this Agreement will bind and inure to the benefit
+of the parties, their respective successors and permitted assigns. If Licensor transacts a Change
+in Ownership, Licensee shall have the option to pay Licensor for the right to use the Deposit Materials
+(as defined in Exhibit D) in accordance with Exhibit B.
+
+15.2        “Notices and Requests” All notices, requests and other communications hereunder shall be in writing and shall be delivered
+in person or sent by nationally recognized overnight courier service, or by facsimile transmission
+(with confirmation of receipt) to the address or facsimile number of the party set forth on the signature
+page of this Agreement or to such other address designated in writing by the receiving party. Unless
+otherwise provided, notice shall be effective on the date it is officially recorded as delivered,
+as evidenced by delivery receipt or equivalent.
+
+15.3         “Controlling Law” This Agreement shall be deemed to have been made in, and shall be construed pursuant to the laws of
+the State of Colorado without regard to any conflict of laws principles. In any action or proceeding
+to enforce rights under this Agreement, the prevailing party shall be entitled to recover costs and
+reasonable attorneys’ fees.
+
+15.4         “Entire Agreement” Upon execution by both parties, this Agreement (including all exhibits hereto), and any attendant
+Statement(s) of Work executed between the parties, shall constitute the entire agreement between
+the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous
+proposals (oral or written), negotiations, conversations, or discussions between or among the parties
+relating to the subject matter of this Agreement and all past dealing or industry custom. As of the
+Effective Date, this Agreement shall also supercede the provisions of that certain License Agreement
+between the parties dated as of June 30, 2004. This Agreement shall not be modified except by a written
+instrument dated subsequent to the Effective Date and signed on behalf of Licensor and Licensee by
+their respective duly authorized representatives. This Agreement may be executed by facsimile signature
+and in two or more counterparts, all of which taken together will constitute one and the same agreement.
+
+15.5         “Savings Clause” If any provision of this Agreement is prohibited by law or held to be unenforceable, the remaining
+provisions hereof shall not be affected, and this Agreement shall continue in full force and effect
+as if such unenforceable provision had never constituted a part hereof, and the unenforceable provision
+shall be automatically amended so as best to accomplish the objectives of such unenforceable provision
+within the limits of applicable law.
+
+15.6         “Relationship of the Parties” Nothing in this Agreement will be construed to constitute either party as the agent, employee or representative
+of the other party and no joint venture or partnership will be created hereby. Neither party will
+make or have the power or authority to act for, bind or otherwise create or assume any obligation
+on behalf of the other party for any purpose whatsoever.
+
+15.7         “No Waiver” No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior,
+concurrent or subsequent breach of the same or any other provisions hereof, and no waiver shall be
+effective unless made in writing and signed by an authorized representative of the waiving party.
+
+15.8         “Force Majeure” Neither party hereto shall be responsible for any failure to perform its obligations under this Agreement
+(other than payment and confidentiality obligations under Section 11 above) if such failure
+is caused by acts of God, war, strikes, revolutions, lack or failure of transportation facilities,
+failure of telecommunications suppliers, fire, laws or governmental regulations or other causes which
+are beyond the reasonable control of such party.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+15.9         “Section Headings” The section headings used in this Agreement and the attached Exhibits are intended for convenience
+only and shall not be deemed to supersede or modify any provisions.
+
+15.10       “Compliance with Export Laws” Licensee shall comply with all applicable export laws, restrictions and regulations of any United
+States or foreign agency or authority. Licensee agrees that it shall not export or re-export, or
+allow the export or re-export or any product, technology or information it obtains or learns pursuant
+to this Agreement (or any direct product thereof) in violation of any such laws, restrictions or
+regulations. Licensee agrees to defend Licensor against, and indemnify and hold Licensor harmless
+from any claims, demands, suits or actions arising out of or related to Licensee’s breach of
+this Section 15.10 in the same manner as provided in Section 10.1 above.
+
+15.11       “Bargained for Base” EACH PARTY RECOGNIZES AND AGREES THAT THE WARRANTY DISCLAIMERS AND LIABILITY AND REMEDY LIMITATIONS
+IN THIS AGREEMENT ARE MATERIAL BARGAINED FOR BASES OF THIS AGREEMENT AND THAT THEY HAVE BEEN TAKEN
+INTO ACCOUNT AND REFLECTED IN DETERMINING THE CONSIDERATION TO BE GIVEN BY EACH PARTY UNDER THIS
+AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER INTO THIS AGREEMENT.
+
+15.12       “Non-Solicitation” Each party acknowledges the highly competitive nature of the other party’s business
+and, accordingly, agrees that it shall not, until the earlier of (i) two years after termination
+of this Agreement, (ii) such time as one of the party discontinues its operations, or (iii) a Release
+Condition (as defined in the Escrow Agreement) occurs, solicit, hire or otherwise employ, directly
+or indirectly, any officer, director, or employee of the other party without such other party’s prior
+written consent. The parties agree that the limitations as to time, geographical area, and scope
+of activity to be restrained by this subsection are reasonable and acceptable to the parties, and
+do not impose any greater restraint than is reasonably necessary to protect the goodwill and other
+business interests of the parties. To the extent a court of competent jurisdiction determines that
+language set forth in this subsection does not comply with applicable law of the governing jurisdiction,
+this paragraph may be reformed by the court and enforced to the maximum extent permitted by law.
+
+15.13  “Transition Services” Upon termination or expiration of this Agreement for any reason, Licensee shall be entitled to continue
+to use and Licensor shall continue to provide the Licensed Technology then being provided for a minimum
+of fifteen (15) months after such termination or expiration (the “Transition Period”),
+on the same terms as set forth herein.
+
+*       *       *
+
+IN WITNESS WHEREOF, the undersigned authorized representatives of the parties have executed this Agreement
+or have caused this Agreement to be executed on their behalf, as of the Effective Date.
+
+
+
+
+
+
+
+Licensor:
+Express Digital Graphics, Inc.	 	Licensee:
+CPI Corp.
+
+By:      /s/
+Graham McFarland 	 	By:      /s/  Gary
+W. Douglass
+
+
+
+
+
+
+
+Graham
+McFarland 	 	 	        Gary
+W. Douglass
+President
+and	 	 	        Chief
+Financial Officer
+Chief
+Executive Officer
+
+
+
+Date:
+March 30, 2005 	 	Date:
+March 29, 2005
+
+
+
+
+
+
+
+Address
+for notices:	 	Address
+for notices:
+
+Express
+Digital Graphics, Inc.	 	CPI Corp.
+9780 Mt.
+Pyramid Ct., Suite 120	 	1706 Washington
+Avenue
+Englewood,
+CO  80112	 	 St.
+Louis, MO 63119
+Attn:
+Graham McFarland	 	Attn:
+Chief Information Officer
+With a
+copy to: General Counsel
+
+
+
+
+
+11
+
+
+
+
+
+
+
+

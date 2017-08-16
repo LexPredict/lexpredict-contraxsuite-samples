@@ -1,0 +1,1232 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.1
+
+[ ] indicates material that has been omitted and for which confidential
+treatment has been requested. All such omitted material has been filed with the
+Commission pursuant to Rule 24b-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+BETWEEN
+
+LUCENT TECHNOLOGIES INC.
+
+AND
+
+STATISTICAL SCIENCES, INC.
+
+
+
+
+
+EFFECTIVE AS OF FEBRUARY 18, 1996
+
+
+
+
+
+RELATING TO LUCENT'S S SOFTWARE
+
+<PAGE>   2
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+TABLE OF CONTENTS
+
+ARTICLE I - STATUS OF PRIOR AGREEMENTS
+
+1.01     Prior Agreements
+1.02     Retained Rights and Licenses and Survival of Obligations
+
+ARTICLE II - RIGHT TO USE SOFTWARE PRODUCT
+
+2.01     Grant of Right
+2.02     Furnishing of SOFTWARE PRODUCT
+2.03     Ownership
+2.04     Non-Transmission
+2.05     U.S. Export Control
+2.06     Maintenance
+2.07     Contractors
+
+ARTICLE III - SUBLICENSING RIGHTS
+
+3.01     Grant of Rights
+3.02     Enforcement
+
+ARTICLE IV - SOLE LICENSEE CONDITIONS
+
+4.01     Development of CUSTOMER SOFTWARE
+4.02     Termination of Certain Rights and Licenses
+
+ARTICLE V - FEES
+
+5.01     Yearly Fees
+5.02     Sublicensing Fees
+5.03     Accrual
+5.04     Records
+5.05     Payments
+5.08     Taxes
+
+ARTICLE VI - TERM OF THE AGREEMENT AND TERMINATION
+
+6.01     Term
+6.02     Termination for Breach.
+6.03     Survival
+
+ARTICLE VII -  MISCELLANEOUS PROVISIONS
+
+
+<PAGE>   3
+
+7.01     Agreement Prevails
+7.02     Disclaimer
+7.03     Nothing Construed
+7.04     Confidentiality
+7.05     Publicity
+7.06     Nonassignability
+7.07     Addresses
+7.08     Integration
+7.09     Choice of Law
+7.10     SUBSIDIARIES
+7.11     Dispute Resolution
+7.12     Additional Agreements
+
+APPENDIX A - DEFINITIONS
+
+APPENDIX B - DELIVERABLES COMPRISING NEW SOFTWARE PRODUCT
+
+APPENDIX C - YEARLY FEE SCHEDULE
+
+APPENDIX D - SUBLICENSING FEE SCHEDULE
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   4
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is effective as of
+[            ]. The Parties to this Agreement, LUCENT TECHNOLOGIES INC., a
+Delaware corporation ("LUCENT"), having an office at 600 Mountain Avenue, Murray
+Hill, New Jersey 07974, and STATISTICAL SCIENCES, INC., a Massachusetts
+corporation ("LICENSEE"), having an office at 1700 Westlake Avenue North, Suite
+500, Seattle, Washington 98107, agree as follows.(1)
+
+ARTICLE I
+
+STATUS OF PRIOR AGREEMENTS
+
+1.01     PRIOR AGREEMENTS
+
+LUCENT, as successor to American Telephone and Telegraph Company, and
+LICENSEE are parties to PRIOR LICENSE AGREEMENTS.
+
+1.02     RETAINED RIGHTS AND LICENSES AND SURVIVAL OF OBLIGATIONS
+
+As of the effective date hereof, all licenses, rights and obligations
+under PRIOR LICENSE AGREEMENTS are terminated except: (i) licenses, rights and
+obligations with respect to each product made, imported, sold, leased or put
+into use under PRIOR LICENSE AGREEMENTS prior to the effective date of this
+Agreement, and (ii) those obligations which, either explicitly or by their
+nature, would survive termination of PRIOR LICENSE AGREEMENTS including, but not
+limited to, confidentiality obligations and obligations to pay fees and
+royalties due under such PRIOR LICENSE AGREEMENTS.
+
+ARTICLE II
+
+RIGHT TO USE SOFTWARE PRODUCT
+
+2.01     GRANT OF RIGHT
+
+(a)   LUCENT, at the request of LICENSEE, grants to LICENSEE, during
+the term of this Agreement as set forth in Section 6.01, a [       ] and [     ]
+right to [ ] SOFTWARE PRODUCT, subject to Section 2.05, [   ] for LICENSEE's [
+]. Such right to use includes the right to [         ] SOFTWARE
+PRODUCT and to [                                          ], provided that any
+such [            ] or [              ] that contains any part of SOFTWARE
+PRODUCT is treated hereunder the same as SOFTWARE PRODUCT. During the SOLE
+LICENSEE PERIOD, LUCENT agrees not to grant to any other party, except
+SUBSIDIARIES of LUCENT and except as otherwise expressly provided in this
+Agreement, rights to [     ] SOFTWARE PRODUCT or to [    ] SOFTWARE PRODUCT and
+[                                   ]. LUCENT claims no ownership interest in
+any portion of a [         ]or [              ] that is [                    ].
+
+
+(1) Terms in capital letters defined in the Definitions Appendix shall have the
+meanings specified therein.
+
+<PAGE>   5
+
+(b)   LUCENT further grants to LICENSEE, during the term of this
+Agreement as set forth in Section 6.01, [                ] and [             ]
+right to [      ] and [       ] copies of CUSTOMER SOFTWARE under the terms and
+conditions set forth in Article III herein.
+
+(c)   LICENSEE may make those copies of SOFTWARE PRODUCT necessary to
+the use by LICENSEE for which rights are granted hereunder, provided that each
+such copy contains any copyright or proprietary notice appearing on or in
+SOFTWARE PRODUCT being copied.
+
+(d)   LICENSEE agrees that it will not use or copy SOFTWARE PRODUCT
+except as authorized herein.
+
+(e)   Except as expressly provided in this Agreement, no right is
+granted for the use of SOFTWARE PRODUCT directly for any third person, or for
+any use by any third person of SOFTWARE PRODUCT. By way of example, but not of
+limitation, use of SOFTWARE PRODUCT in a [                ] or a [             ]
+is permitted only pursuant to a specific, separate provision. Upon request by
+LICENSEE, LUCENT will enter into negotiations with LICENSEE for an agreement,
+under reasonable terms and conditions, granting rights under such a specific,
+separate provision.
+
+2.02     FURNISHING OF SOFTWARE PRODUCT
+
+Subject to receipt by LUCENT of the first yearly fee as specified in
+Section 5.01, within a reasonable time after such receipt, LUCENT shall furnish
+the NEW SOFTWARE PRODUCT portion of SOFTWARE PRODUCT to LICENSEE in the form
+specified in APPENDIX B - DELIVERABLES COMPRISING NEW SOFTWARE PRODUCT, attached
+hereto. LICENSEE acknowledges possession of PRIOR SOFTWARE PRODUCT delivered to
+LICENSEE by LUCENT. LUCENT agrees to consider requests by LICENSEE to furnish
+additional source code and documentation relating to S. Any such furnished
+additional source code and documentation shall be considered and treated as part
+of NEW SOFTWARE PRODUCT.
+
+2.03     OWNERSHIP
+
+No ownership interest in SOFTWARE PRODUCT, or any portion thereof, is
+transferred to LICENSEE hereunder. Nothing herein requires LICENSEE to furnish
+CUSTOMER SOFTWARE or ADAPTATIONS to LUCENT.
+
+2.04     NON-TRANSMISSION
+
+LICENSEE agrees that it will not, without the prior written consent of
+LUCENT, transmit, directly or indirectly, SOFTWARE PRODUCT to any country
+outside of the United States.
+
+2.05     U.S. EXPORT CONTROL
+
+<PAGE>   6
+
+
+(a)   LICENSEE hereby assures LUCENT that it does not intend to and
+will not knowingly, without the prior written consent, if required, of the
+Bureau of Export Administration of the U.S. Department of Commerce, Washington,
+D.C. 20230, United States of America, transmit directly or indirectly:
+
+(i)  CUSTOMER SOFTWARE; or
+
+(ii)  any immediate product (including processes and services)
+produced directly by the use of SOFTWARE PRODUCT or CUSTOMER
+SOFTWARE; or
+
+(iii) any commodity produced by such immediate product if the
+immediate product of SOFTWARE PRODUCT or CUSTOMER SOFTWARE
+is a plant capable of producing a commodity or is a major
+component of such plant;
+
+to (1) Haiti, Iran, Iraq, the People's Republic of China, Syria, those
+areas of the Republic of Bosnia and Herzegovina that continue under the control
+of Bosnian-Serb military forces, or to any Group Q, S, Y or Z country specified
+in Supplement No. 1 to Part 770 of the Export Administration Regulations issued
+by the U.S. Department of Commerce or (2) any national or resident of the
+foregoing countries.
+
+(b)   If the immediate product of SOFTWARE PRODUCT or CUSTOMER SOFTWARE
+is a plant or a major component of a plant, LICENSEE hereby assures LUCENT that
+any and all requirements of the Export Administration Regulations (including
+obtaining necessary assurances or licenses) will be satisfied with respect to
+any controlled commodity produced by such plant.
+
+2.06     MAINTENANCE
+
+During the term of this Agreement and following delivery of SOFTWARE
+PRODUCT to LICENSEE, LUCENT may furnish, at its discretion, updates to SOFTWARE
+PRODUCT. Such updates may include minor enhancements and/or revisions to correct
+known problems. Appropriate documentation will be included with such updates.
+One copy of each update will be furnished to LICENSEE. Such updates shall be
+considered to be part of NEW SOFTWARE PRODUCT.
+
+2.07     CONTRACTORS
+
+(a)   LICENSEE may permit access to SOFTWARE PRODUCT by its contractors
+and may furnish and allow use of SOFTWARE PRODUCT by its contractors provided
+such access, furnishing and use is exclusively for LICENSEE in connection with
+work called for in written agreements between LICENSEE and such contractors in
+accordance with Section 2.07(f) of this Agreement.
+
+
+<PAGE>   7
+
+(b)   Any claim, demand or right of action arising on behalf of a
+contractor from the furnishing to it or use by it of SOFTWARE PRODUCT shall be
+solely against LICENSEE.
+
+(c)   Contractors shall agree to the same responsibilities and
+obligations and other restrictions pertaining to the use of SOFTWARE PRODUCT as
+those undertaken by LICENSEE under this Agreement.
+
+(d)   When a contractor's work for LICENSEE is completed, all copies of
+SOFTWARE PRODUCT furnished to such contractor or made by such contractor and all
+copies of any modifications or derivative works made by such contractor based on
+SOFTWARE PRODUCT shall be returned to LICENSEE or destroyed, including any
+copies stored in any computer memory or storage medium.
+
+(e)   A contractor may not acquire any ownership interest in any
+modification or ADAPTATION prepared by such contractor based on or using
+SOFTWARE PRODUCT subject to this Agreement unless such contractor also becomes a
+licensee of LUCENT for SOFTWARE PRODUCT.
+
+(f)   LICENSEE and any such contractor shall enter into a written
+agreement before or at the time of permitting access to, allowing the use of or
+furnishing of SOFTWARE PRODUCT by such contractor. Such written agreement shall
+be consistent with the requirements of this Section 2.07. Copies of such
+agreements shall be provided to LUCENT on request; however, portions of such
+agreements not required by this Section 2.07 maybe deleted from such copies.
+
+ARTICLE III
+
+SUBLICENSING RIGHTS
+
+3.01     GRANT OF RIGHTS
+
+(a)   LUCENT, subject to receipt by LUCENT of the fees specified in
+Sections 5.01 and 5.02, grants to LICENSEE, during the term of this Agreement as
+set forth in Section 6.01, [          ] and [            ] rights:
+
+(i)  To [      ] CUSTOMER SOFTWARE, [            ] of CUSTOMER
+SOFTWARE and [                 ] or [                    ],
+such copies to customers anywhere in the world (subject to
+LICENSEE satisfying applicable U.S. Government and foreign
+government export requirements) for use on customers' CPUs [    ]
+for such customers' [                        ], provided that the
+entity (LICENSEE or DISTRIBUTOR) obtains agreement, either in
+writing or via a shrink wrap agreement, with such a customer,
+before or at the time of furnishing each copy of CUSTOMER
+SOFTWARE, that:
+
+
+
+<PAGE>   8
+
+(1)  only a [          ], [              ] and [            ] to
+[    ] such copy of CUSTOMER SOFTWARE is granted to such
+customer;
+
+(2)  no ownership interest in CUSTOMER SOFTWARE is transferred to
+such customer;
+
+(3)  such customer will not copy CUSTOMER SOFTWARE except as
+necessary to use such CUSTOMER SOFTWARE for backup and
+archive purposes in connection with such use;
+
+(4)  if a customer's right-to-use is terminated for any reason,
+such customer will either destroy or return all copies of
+CUSTOMER SOFTWARE in its possession;
+
+(5)  such customer will not transfer CUSTOMER SOFTWARE to any
+other party except as authorized by LICENSEE;
+
+(6)  such customer will not export or re-export CUSTOMER SOFTWARE
+without the appropriate United States and/or foreign
+government licenses;
+
+(7)  such customer will not reverse compile or disassemble
+CUSTOMER SOFTWARE; and
+
+(8)  LUCENT does not warrant CUSTOMER SOFTWARE, does not assume
+any liability regarding CUSTOMER SOFTWARE and does not
+undertake to furnish any support or information regarding
+CUSTOMER SOFTWARE;
+
+(ii)  to [       ], [               ] to LUCENT, CUSTOMER
+SOFTWARE to [                            ] upon prior
+written approval of LUCENT. Any request for approval
+shall state the reason for such
+donation, and LUCENT shall respond within forty-five
+(45) days of receipt of such request. LUCENT reserves
+the right to deny any such request. Any request
+granted shall indicate to the [       ] that LUCENT
+is participating in such [              ], and
+
+(iii)  to use CUSTOMER SOFTWARE [                        ]
+that are to be delivered customers and for [
+] CUSTOMER SOFTWARE to prospective customers.
+
+(b)   Each portion of CUSTOMER SOFTWARE shall include an appropriate
+copyright notice. Such copyright notice may be the copyright notice or notices
+appearing in or on the corresponding portions of SOFTWARE PRODUCT or, if
+LICENSEE makes copyrightable changes in developing CUSTOMER SOFTWARE, LICENSEE's
+copyright notice.
+
+
+
+<PAGE>   9
+
+(c)   During the SOLE LICENSEE PERIOD, LUCENT agrees not to grant to
+any other party, except to SUBSIDIARIES of LUCENT, rights of the scope of the
+rights granted in Section 3.01 (a).
+
+(d)   LICENSEE shall require each DISTRIBUTOR to enter into a written
+agreement with its supplier (LICENSEE or another DISTRIBUTOR) of CUSTOMER
+SOFTWARE before CUSTOMER SOFTWARE is furnished to such DISTRIBUTOR. Such
+agreement shall include provisions consistent with and containing the relevant
+substance of Sections 3.01(a), 3.01(e), 3.01(f) and this Section 3.01(d). For a
+DISTRIBUTOR who is also to be an AUTHORIZED COPIER, such agreement shall also
+include provisions consistent with and containing the relevant substance of
+Section 5.04.
+
+(e)   DISTRIBUTORS who are not also AUTHORIZED COPIERS may not make
+copies of CUSTOMER SOFTWARE, but may furnish to customers, and other
+DISTRIBUTORS copies of CUSTOMER SOFTWARE furnished to such DISTRIBUTOR by
+LICENSEE or other DISTRIBUTORS.
+
+(f)   If a DISTRIBUTOR fails to fulfill one or more of its obligations
+under the agreement required by Section 3.01(d), LUCENT may, upon its election
+and in addition to any other remedies that it may have, at any time notify
+LICENSEE in writing of such breach and require LICENSEE to terminate all the
+DISTRIBUTOR'S rights granted in such agreement by not less than three (3)
+months' written notice to such DISTRIBUTOR specifying any such breach, unless
+within the period of such notice all breaches specified therein shall have been
+remedied; upon such termination such DISTRIBUTOR shall within thirty (30) days
+immediately discontinue use of and return or destroy all copies of CUSTOMER
+SOFTWARE in its possession.
+
+(g)   LUCENT agrees that it will, if so requested by LICENSEE during
+the term of this Agreement as set forth in Section 6.01, grant LICENSEE the
+right to [       ] CUSTOMER SOFTWARE, under reasonable terms and conditions, for
+[      ] and [                          ]. LUCENT agrees that it will, if so
+requested by LICENSEE during the term of this Agreement as set forth in Section
+in 6.01, consider entering into a [                     ] with a [            ];
+however, the entering into of any such [             ] shall be at LUCENT's sole
+discretion.
+
+3.02     ENFORCEMENT
+
+LICENSEE shall use its best efforts to enforce the agreements with
+customers and DISTRIBUTORS specified in Section 3.01 of this Agreement.
+
+
+
+
+
+
+<PAGE>   10
+
+
+
+ARTICLE IV
+
+SOLE LICENSEE CONDITIONS
+
+4.01     DEVELOPMENT OF CUSTOMER SOFTWARE
+
+In partial consideration for the rights and licenses granted herein,
+LICENSEE agrees to [                       ] and to [                         ],
+[                                         ], CUSTOMER SOFTWARE which CUSTOMER
+SOFTWARE [                                             ] furnished in NEW
+SOFTWARE PRODUCT [                                                           ].
+
+4.02     TERMINATION OF CERTAIN RIGHTS AND LICENSES
+
+The Parties agree that if LICENSEE fails to fulfill its obligation
+under Section 4.01 that: (i) the agreement by LUCENT in Sections 2.01(a) and
+3.01(c) not to grant licenses and rights to third parties, with respect to the
+NEW SOFTWARE PRODUCT portion of SOFTWARE PRODUCT, is void as of [            ],
+but that all other rights, licenses and obligations shall continue, and (ii) the
+yearly fee due pursuant to Section 5.01 and specified in APPENDIX C - [        ]
+FEE SCHEDULE, shall be reduced to [                        ] United States
+dollars (U.S. $[            ]) for the years [               ] and [         ]
+and the sublicensing fee due pursuant to Section 5.02 and specified in APPENDIX
+D - SUBLICENSING FEE SCHEDULE, shall be reduced to [      ] ([   ]) [       ]
+for the years [          ] and [      ].
+
+ARTICLE V
+
+FEES
+
+5.01     YEARLY FEES
+
+In partial consideration for the rights and licenses granted herein,
+LICENSEE shall pay to LUCENT the yearly fees specified in APPENDIX C - YEARLY
+FEE SCHEDULE, subject to Section 4.02. All payments shall be payable within
+sixty (60) days of the due date as specified. In no event shall fees payable
+under this Section 5.01 be refundable. Fees payable to LUCENT under this Section
+5.01 shall not be credited against any sublicensing fees payable under Section
+5.02 of this Agreement.
+
+5.02     SUBLICENSING FEES
+
+(a) For the sublicensing rights granted under Article III of this
+Agreement, LICENSEE shall pay to LUCENT, in the manner and at the times
+specified in Section 5.05, fees as specified in APPENDIX D - SUBLICENSING FEE
+SCHEDULE hereto, subject to Section 4.02.
+
+(b) Amounts paid to LUCENT under this Section 5.02 shall not be
+credited against any yearly fees payable under Section 5.01.
+
+
+
+<PAGE>   11
+
+5.03     ACCRUAL
+
+(a)   Fees shall accrue on CUSTOMER SOFTWARE upon the first sale,
+lease, license or putting into use of such CUSTOMER SOFTWARE. Obligations to pay
+accrued royalties shall survive termination of licenses and rights pursuant to
+Article VI.
+
+(b)   When a company ceases to be a SUBSIDIARY of LICENSEE, fees which
+have accrued with respect to any products of such company, but which have not
+been paid, shall become payable with LICENSEE's next scheduled royalty payment.
+
+5.04     RECORDS
+
+(a)   LICENSEE shall, for a seven (7) year period, keep full, clear and
+accurate records of sales, leases, and other uses of CUSTOMER SOFTWARE by
+LICENSEE or DISTRIBUTORS contributing to SUBLICENSING REVENUE, which records
+include, but are not limited to, MAINTENANCE AGREEMENTS and of the number of
+copies and price of CUSTOMER SOFTWARE furnished to customers.
+
+(b)   LICENSEE shall require that each AUTHORIZED COPIER shall, for a
+seven (7) year period, keep full, clear and accurate records of sales, leases,
+and other uses of CUSTOMER SOFTWARE by such AUTHORIZED COPIER contributing to
+SUBLICENSING REVENUE, which records include, but are not limited to, the number
+of copies and price of CUSTOMER SOFTWARE furnished.
+
+(c)   LICENSEE shall require that each AUTHORIZED COPIER shall furnish
+a statement at least semiannually to LICENSEE identifying the number of copies
+of CUSTOMER SOFTWARE furnished to customers and other DISTRIBUTORS since the
+previous such statement was furnished.
+
+(d)   LICENSEE shall keep full, clear and accurate records of the
+identities and locations of AUTHORIZED COPIERS.
+
+(e)   LUCENT shall have the right to make an examination and audit
+during normal business hours, not more frequently than annually, of all records
+kept pursuant to this Section 5.04 by LICENSEE, its SUBSIDIARIES and AUTHORIZED
+COPIERS and such other records and accounts as may under recognized accounting
+practices contain information bearing upon the amounts of fees payable to LUCENT
+under this Agreement. Prompt adjustment shall be made by the proper Party to
+compensate for any errors or omissions disclosed by such examination or audit.
+Neither such right to examine and audit nor the right to receive such adjustment
+shall be affected by any statement to the contrary appearing on checks or
+otherwise unless such statement appears in a letter signed by the Party having
+such right expressly waiving such right and such letter is delivered to the
+other Party.
+
+5.05     PAYMENTS
+
+
+
+
+<PAGE>   12
+
+(a)   Within ninety (90) days after the end of each semiannual period
+ending on June 30th or December 31st, commencing with the semiannual period
+ending December 31, 1996, LICENSEE shall furnish to LUCENT a statement, in form
+acceptable to LUCENT and certified by an authorized representative of LICENSEE,
+identifying SUBLICENSING REVENUE and remitting fees due pursuant to Section
+5.02, and including the number of copies and price of CUSTOMER SOFTWARE that
+were furnished by LICENSEE, its SUBSIDIARIES and DISTRIBUTORS to customers and
+the [                 ] of MAINTENANCE AGREEMENTS during such semiannual period.
+
+(b)   Statements and payments shall be sent to LUCENT at the address
+specified in Section 7.07 of this Agreement.
+
+(c)   Overdue payments shall be subject to a late payment charge
+calculated at an annual rate of three percent (3%) over the prime rate (as
+posted in New York City in the Wall Street Journal during delinquency). If the
+amount of such late payment charge exceeds the maximum permitted by law, such
+charge shall be reduced to such maximum amount.
+
+(d)   LICENSEE shall furnish whatever additional information LUCENT may
+reasonably prescribe from time to time to enable LUCENT to ascertain the amounts
+of fees payable pursuant hereto.
+
+5.06     TAXES
+
+LICENSEE shall pay any tax, duty, levy, customs fee, or similar charge
+("taxes"), including interest and penalties thereon, however designated, imposed
+as a result of the operation or existence of this Agreement, including taxes
+which LICENSEE or its SUBSIDIARIES are required to withhold or deduct from
+payments to LUCENT, except (i) net income taxes imposed upon LUCENT by any
+governmental entity within the United States (the fifty (50) States and the
+District of Columbia), and (ii) net income taxes imposed upon LUCENT by
+jurisdictions outside the United States which are allowable as a credit against
+the United States Federal income tax of LUCENT or any of its SUBSIDIARIES. In
+order for the exception in (ii) to be effective, LICENSEE must furnish to LUCENT
+evidence sufficient to satisfy the United States taxing authorities that such
+taxes have been paid. Such evidence must be furnished to LUCENT within thirty
+(30) days of issuance by the local taxing authority.
+
+ARTICLE VI
+
+TERM OF THE AGREEMENT AND TERMINATION
+
+6.01     TERM
+
+The term of this Agreement shall commence on February 18, 1996 and
+shall continue, unless terminated pursuant to Sections 6.02 or 6.03, for a term
+of six (6) years.
+
+6.02     TERMINATION FOR BREACH
+
+
+
+<PAGE>   13
+
+If LICENSEE or any of its SUBSIDIARIES fails to fulfill one or more of
+its obligations under this Agreement, LUCENT may, upon its election and in
+addition to any other remedies that it may have, at any time terminate all the
+rights granted by it hereunder by not less than [    ] ([  ]) [       ] written
+notice to LICENSEE specifying any such breach, unless within the period of such
+notice all breaches specified therein shall have been remedied. Upon such
+termination LICENSEE and its SUBSIDIARIES shall destroy all copies of SOFTWARE
+PRODUCT in its possession and certify such destruction in writing to LUCENT
+within thirty (30) days. Upon such termination LICENSEE and its SUBSIDIARIES
+shall also immediately discontinue distribution and use of and destroy all
+copies of CUSTOMER SOFTWARE in its possession.
+
+6.03     SURVIVAL
+
+The obligations of LICENSEE and its SUBSIDIARIES under Sections 2.04,
+2.05, 5.05, 7.04 and 7.05 shall survive and continue after any termination of
+rights under this Agreement. The rights and obligations of customers in Section
+301(a)(i)(18) shall survive and continue after termination of LICENSEE's rights
+under this Agreement.
+
+ARTICLE VII
+
+MISCELLANEOUS PROVISIONS
+
+7.01     AGREEMENT PREVAILS
+
+This Agreement shall prevail notwithstanding any conflicting terms or
+legends which may appear on or in SOFTWARE PRODUCT.
+
+7.02     DISCLAIMER
+
+LUCENT AND ITS SUBSIDIARIES MAKE NO REPRESENTATIONS OR WARRANTIES,
+EXPRESSLY OR IMPLIEDLY. BY WAY OF EXAMPLE BUT NOT OF LIMITATION, LUCENT AND ITS
+SUBSIDIARIES MAKE NO REPRESENTATIONS OR WARRANTIES, OF MERCHANTABILITY OR
+FITNESS FOR ANY PARTICULAR PURPOSE, OR THAT THE USE OF SOFTWARE PRODUCT WILL NOT
+INFRINGE ANY PATENT, COPYRIGHT OR OTHER INTELLECTUAL PROPERTY RIGHT. LUCENT AND
+ITS SUBSIDIARIES SHALL NOT BE HELD TO ANY LIABILITY WITH RESPECT TO ANY CLAIM BY
+LICENSEE OR ITS SUBSIDIARIES, OR A THIRD PARTY ON ACCOUNT OF, OR ARISING FROM,
+THE USE OF SOFTWARE PRODUCT.
+
+7.03     NOTHING CONSTRUED
+
+Nothing contained herein shall be construed as:
+
+(i) conferring by implication, estoppel or otherwise, any
+license or right to use any name, trade name, trademark,
+service mark, symbol or any other identification or any
+abbreviation, contraction or simulation thereof;
+
+(ii) an obligation upon LUCENT or any of its SUBSIDIARIES to
+furnish any person, including LICENSEE, any assistance of
+any kind whatsoever, or
+
+
+
+
+<PAGE>   14
+
+any information or documentation other than updates to
+SOFTWARE PRODUCT furnished pursuant to Section 2.06; or
+
+(iii) a grant to LICENSEE to sell, lease, sublicense (except to
+SUBSIDIARIES) or otherwise transfer or dispose of SOFTWARE
+PRODUCT, in whole or in part.
+
+7.04     CONFIDENTIALITY
+
+(a)   LICENSEE agrees to hold all parts of SOFTWARE PRODUCT in
+confidence for LUCENT. LICENSEE further agrees not to make any disclosure of
+SOFTWARE PRODUCT (including methods or concepts utilized therein) to anyone,
+except to employees and contractors of LICENSEE to whom such disclosure is
+necessary to the use for which rights are granted hereunder.
+
+(b)   LICENSEE shall appropriately notify all employees and contractors
+to whom any such disclosure is made that such disclosure is made in confidence
+and shall be kept in confidence by them.
+
+(c)   LICENSEE's obligations under this Section 7.04 shall not apply to
+any information relating to SOFTWARE PRODUCT (including any method or concept
+utilized therein) that:
+
+(i)  is or becomes available without restriction to the general
+public by acts not attributable to LICENSEE, its employees
+or its contractors;
+
+(ii)  was rightfully in LICENSEE's possession without limitation
+on disclosure before disclosure hereunder to LICENSEE;
+
+(iii)  is rightfully disclosed to LICENSEE by a third party
+without restrictions on disclosure; or
+
+(iv)  is inherently disclosed by use of CUSTOMER SOFTWARE in
+accordance with this Agreement.
+
+7.05     PUBLICITY
+
+LICENSEE agrees that it will not, without the prior permission of LUCENT:
+
+(i)  use in advertising, publicity, packaging, labeling or
+otherwise any trade name, trademark, trade device,
+service mark, symbol or any other identification or any
+abbreviation, contraction or simulation thereof owned by
+LUCENT or any of its SUBSIDIARIES or used by LUCENT or
+any of its SUBSIDIARIES to identify any of its or their
+products or services; or
+
+(ii)  represent, directly or indirectly, that any product or
+service of LICENSEE is a product or service of LUCENT or
+any of its SUBSIDIARIES or is
+
+
+
+<PAGE>   15
+
+made in accordance with or utilizes any information or
+documentation of LUCENT or any of its SUBSIDIARIES.
+
+7.06     NONASSIGNABILITY
+
+The Parties hereto have entered into this Agreement in contemplation of [      ]
+performance by LICENSEE and intend that the rights granted to LICENSEE hereunder
+[                   ]. Accordingly, [      ] this Agreement [           ] rights
+[                                  ].
+
+7.07     ADDRESSES
+
+(a)   Any notice or other communication hereunder shall be sufficiently
+given to LICENSEE when sent by certified mail addressed to Math Soft, Inc., 101
+Main Street, Cambridge, Massachusetts 02142, Attn: Chief Financial Officer or to
+LUCENT when sent by certified mail addressed to Contract Administrator,
+Intellectual Property, Lucent Technologies Inc., 2333 Ponce de Leon Boulevard -
+Suite 511, Coral Gables, Florida 33134. Changes in such addresses may be
+specified by written notice.
+
+(b)   Payments by LICENSEE shall be made to LUCENT at Sun Trust, P.O.
+Box 913021, Orlando, Florida, 32891-3021. Alternatively, payments to LUCENT may
+be made by bank wire transfers to LUCENT's account: Lucent Technologies
+Licensing, Account No. 910-2-568475, at Chase Manhattan Bank, N.A., 4 Metrotech
+Center, Brooklyn, New York 11245. Changes in such address or account may be
+specified by written notice.
+
+7.08     INTEGRATION
+
+This Agreement sets forth the entire agreement and understanding between the
+Parties as to the subject matter hereof and merges all prior discussions between
+them. Neither of the Parties shall be bound by any warranties, understandings or
+representations with respect to such subject matter other than as expressly
+provided herein, in prior written agreements, or in a writing executed with or
+subsequent to the execution of this Agreement by an authorized representative of
+the Party to be bound thereby.
+
+7.09     CHOICE OF LAW
+
+The Parties are familiar with the principles of New York commercial law, and
+desire and agree that the law of the State of New York, exclusive of its
+conflict of laws provisions, shall apply in any dispute arising with respect to
+this Agreement.
+
+7.10     SUBSIDIARIES
+
+(a)   The grant of each right and license hereunder includes the right
+to grant sublicenses and similar rights within the scope of the Agreement to a
+Party's SUBSIDIARIES for so long as they remain its SUBSIDIARIES and agree to
+abide by the terms, conditions and obligations herein. Any such sublicenses and
+similar rights may be made effective retroactively,
+
+
+
+
+<PAGE>   16
+
+but not prior to the effective date hereof, nor prior to the becoming a
+SUBSIDIARY of such Party.
+
+(b)   LICENSEE agrees that when a SUBSIDIARY's relationship to LICENSEE
+changes so that it is no longer a SUBSIDIARY of LICENSEE, (i) all rights of such
+former SUBSIDIARY to use SOFTWARE PRODUCT subject to this Agreement shall
+immediately cease, (ii) such former SUBSIDIARY shall immediately discontinue use
+of and return to LICENSEE or destroy all copies of SOFTWARE PRODUCT and (iii)
+such former SUBSIDIARY shall return to LICENSEE or destroy all copies of
+CUSTOMER SOFTWARE for which fees under Section 5.04 have not been paid.
+
+7.11     DISPUTE RESOLUTION
+
+(a)   If a dispute arises out of or relates to this Agreement, or the
+breach, termination or validity thereof, the Parties agree to submit the dispute
+to a sole mediator selected by the Parties or, at any time at the option of a
+Party, to mediation by the American Arbitration Association ("AAA"). If not thus
+resolved, it shall be referred to a sole arbitrator selected by the Parties
+within thirty (30) days of the mediation, or in the absence of such selection,
+to AAA arbitration which shall be governed by the United States Arbitration Act.
+
+(b)   Any award made (i) shall be a bare award limited to a holding for
+or against a Party and affording such remedy as is deemed equitable, just and
+within the scope of the Agreement; (ii) shall be without findings as to issues
+(including but not limited to patent validity and/or infringement) or a
+Statement of the reasoning on which the award rests; (iii) may in appropriate
+circumstances (other than patent disputes) include injunctive relief; (iv) shall
+be made within four (4) months of the appointment of the arbitrator; and (v) may
+be entered in any court.
+
+(c)   The requirement for mediation and arbitration shall not be deemed
+a waiver of any right of termination under this Agreement and the arbitrator is
+not empowered to act or make any award other than based solely on the rights and
+obligations of the Parties prior to any such termination.
+
+(d)   The arbitrator shall determine issues of arbitrability but may
+not limit, expand or otherwise modify the terms of the Agreement.
+
+(e)   The place of mediation and arbitration shall be New York City.
+
+(f)   Each Party shall bear its own expenses but those related to the
+compensation and expenses of the mediator and arbitrator shall be borne equally.
+
+(g)   A request by a party to a court for interim measures shall not be
+deemed a waiver of the obligation to mediate and arbitrate.
+
+(h)   The arbitrator shall not have authority to award punitive or
+other damages in excess of compensatory damages and each Party irrevocably
+waives any claim thereto.
+
+
+
+<PAGE>   17
+
+(i)   The Parties, their representatives, other Participants and the
+mediator and arbitrator shall hold the existence, content and result of
+mediation and arbitration in confidence.
+
+7.12     ADDITIONAL AGREEMENTS
+
+LICENSEE acknowledges that the rights granted herein in Sections 2.01(a),
+2.01(b), and 3.01(a) are, subject to payment of fees specified herein and unless
+this Agreement is otherwise terminated, for the term of this Agreement as set
+forth in Section 6.01. The Parties agree that, if each Party so desires and if
+LICENSEE has not materially breached this Agreement, an agreement, effective
+subsequent to the termination of this Agreement, specifying similar rights,
+licenses and obligations will be negotiated on reasonable terms and conditions.
+
+
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   18
+
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be
+executed in duplicate originals by its duly authorized representatives on the
+respective dates entered below.
+
+LUCENT TECHNOLOGIES INC.
+
+
+By: ______________________________
+
+Title: _____________________________
+
+Date: _____________________________
+
+
+STATISTICAL SCIENCES, INC.
+
+By: _______________________________
+
+Title: ______________________________
+
+Date: ______________________________
+
+
+
+
+
+THIS AGREEMENT DOES NOT BIND OR OBLIGATE EITHER PARTY IN ANY MANNER
+UNLESS DULY EXECUTED BY AUTHORIZED REPRESENTATIVES OF BOTH PARTIES
+
+
+
+
+
+
+
+
+
+
+<PAGE>   19
+
+APPENDIX A
+
+DEFINITIONS
+
+
+
+ADAPTATION means any [           ] work [       ] on SOFTWARE PRODUCT
+including (i) any work [             ] any of SOFTWARE PRODUCT [       ], (ii)
+any work [           ] any COMPUTER PROGRAM from SOFTWARE PRODUCT [        ]
+in a [             ] or [        ] to [        ] on a [        ], (iii) any work
+[         ] a [         ] or [        ] from SOFTWARE PRODUCT that LICENSEE is
+obligated to keep in confidence hereunder of (iv) any work otherwise covered by
+any of LUCENT's intellectual property rights in SOFTWARE PRODUCT.
+
+AUTHORIZED COPIER means a DISTRIBUTOR authorized by LICENSEE to make
+copies of CUSTOMER SOFTWARE.
+
+CPU means central processing unit.
+
+COMPUTER PROGRAM means any object-code and/or source-code instruction
+or plurality of such instructions for controlling the operation of a CPU.
+
+CUSTOMER SOFTWARE means (i) COMPUTER PROGRAMS, [
+] or [        ] SOFTWARE PRODUCT or [        ], (ii)
+documentation listed in APPENDIX B-DELIVERABLES COMPRISING NEW SOFTWARE PRODUCT
+and any other documentation included in or based on SOFTWARE PRODUCT or an
+ADAPTATION.
+
+DISTRIBUTOR means an entity authorized by LICENSEE or another
+DISTRIBUTOR to receive copies of CUSTOMER SOFTWARE from LICENSEE or another
+DISTRIBUTOR and furnish such copies to customers and/or other DISTRIBUTORS.
+
+[                      ] means, with respect to any item (or service)
+[     ], [     ] or [        ], the [       ] of (i) the [       ] which a
+[       ] would [       ] from [                  ] in [        ] in [         ]
+of [          ] in [         ] and [         ] and [          ] as [      ],
+[    ] [          ]; or (ii) the [                    ] for [              ] in
+the [          ], whether or not [           ] (and without excluding therefrom
+any [         ] or [               ] thereof which are included in such
+[             ]).
+In determining "[       ]" price the following shall be [       ]:
+
+(a)      [                                                ];
+(b)      [                ];
+(c)      [                           ]; and
+(d)      [                                                  ].
+
+
+<PAGE>   20
+
+MAINTENANCE AGREEMENT means an obligation by LICENSEE, SUBSIDIARY,
+DISTRIBUTOR or LICENSEE's contractor or agent to furnish on-going bug fixes,
+releases, upgrades, and/or technical support of COMPUTER SOFTWARE.
+
+NEW SOFTWARE PRODUCT means all or any portion of deliverables, such as
+COMPUTER PROGRAMS, documentation and/or other information specifically listed in
+Appendix B-DELIVERABLE COMPRISING NEW SOFTWARE PRODUCT.
+
+PRIOR LICENSE AGREEMENTS means the Software License Agreement and the
+Software Sublicensing Agreement, both effective April 1, 1991, between American
+Telephone and Telegraph Company and Statistical Sciences, Inc., as well as
+amendments thereto.
+
+PRIOR SOFTWARE PRODUCT means all computer programs, documentation and
+other information which comprised "software product" as defined in PRIOR LICENSE
+AGREEMENTS, as well as other related information, documentation and software
+furnished to LICENSEE prior to the effective date of this Agreement.
+
+SOFTWARE PRODUCT means PRIOR SOFTWARE PRODUCT and NEW SOFTWARE PRODUCT.
+
+SOLE LICENSEE PERIOD means the period beginning February 18, 1996, and
+ending the [    ] of: (i) the date of terminating rights and licenses granted
+herein pursuant to Article VI, or (ii) the [    ] termination of certain rights
+and licenses pursuant to Section 4.02 if Section 4.02 as a result of LICENSEE's
+failure to fulfill its obligations pursuant to Section 4.01.
+
+SUBLICENSE REVENUE:
+
+(a)   for the case where: (i) the [              ] of [               ]
+is [         ] or [            ] ([   ]%) of the [            ] of [           ]
+furnished by LICENSEE, SUBSIDIARIES and DISTRIBUTORS, and (ii) such [
+] do not include [                   ] which include [
+], SUBLICENSE REVENUE means the [               ] of [                 ]
+furnished by LICENSEE, SUBSIDIARIES and DISTRIBUTORS;
+
+(b)   for the case where: (i) the [                  ] of [          ]
+is [            ] or [                ] ([  ]%) of the [               ] of
+[                     ] furnished by LICENSEE, SUBSIDIARIES and DISTRIBUTORS,
+and (ii) one or more [                    ] include [                          ]
+containing [                        ], SUBLICENSE REVENUE means the [
+] of [                       ] furnished by LICENSEE, SUBSIDIARIES
+and DISTRIBUTORS [            ] ([  ]) of the [                               ]
+of all such [                 ] that [          ] such [    ]; or
+
+(c)   for the case where the [                  ] of [                ]
+is [                  ] ([   ]%) of the [                  ] of [
+
+
+
+<PAGE>   21
+
+] furnished by LICENSEE, SUBSIDIARIES and DISTRIBUTORS, SUBLICENSE
+REVENUE means the [              ] of [                      ] furnished by
+LICENSEE, SUBSIDIARIES and DISTRIBUTORS [           ] ([  ]) of the [
+] of [                                 ] ([  ]%) of the [
+] of [                   ] furnished by LICENSEE, SUBSIDIARIES and
+DISTRIBUTORS.
+
+SUBSIDIARY of a company means a corporation or other legal entity (i)
+the majority of whose shares or other securities entitled to vote for election
+of directors (or other managing authority) is now or hereafter controlled by
+such company either directly or indirectly; or (ii) which does not have
+outstanding shares or securities but the majority of whose ownership interest
+representing the right to manage such corporation or other legal entity is now
+or hereafter owned and controlled by such company either directly or indirectly;
+but any such corporation or other legal entity shall be deemed to be a
+SUBSIDIARY of such company only as long as such control or ownership and control
+exists.
+
+
+
+<PAGE>   22
+
+APPENDIX B
+
+DELIVERABLES COMPRISING NEW SOFTWARE PRODUCT
+
+
+
+Version [ ] of S, consisting of the following files [  ] and for
+on-line documentation:
+
+[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   25
+APPENDIX C
+
+
+YEARLY FEE SCHEDULE
+
+
+
+Payment                 Due Date                              Yearly Fee
+
+[                                                               $
+
+$
+
+$
+
+$
+
+$
+
+$]
+
+
+
+
+<PAGE>   26
+APPENDIX D
+
+SUBLICENSING FEE SCHEDULE
+
+
+
+YEAR                                        FEES
+(beginning February 18)
+
+[   ]                              [  ]  of SUBLICENSE REVENUE
+[   ]                              [   ] of SUBLICENSE REVENUE
+[   ]                              [  ] of SUBLICENSE REVENUE
+[   ]                              [  ] of SUBLICENSE REVENUE
+[   ]                              [  ] of SUBLICENSE REVENUE
+[   ]                              [  ] of SUBLICENSE REVENUE
+
+
+
+
+
+

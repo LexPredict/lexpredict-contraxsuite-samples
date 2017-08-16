@@ -1,0 +1,693 @@
+
+
+
+
+
+
+
+exv10w14
+
+
+
+
+
+
+
+
+
+Exhibit 10.14
+
+
+
+
+EXECUTION COPY
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+This SOFTWARE LICENSE AGREEMENT (“Agreement”) is made and entered into this 22nd day of
+October, 2007 (“Effective Date”) by and between PEABODY ENERGY CORPORATION, a Delaware corporation
+located at (“Licensor”) and PATRIOT COAL CORPORATION, a Delaware corporation (“Licensee”).
+
+
+
+WHEREAS, pursuant to section 10.01 of the Separation Agreement, Plan of Reorganization and
+Distribution, dated as of October 22, 2007, by and between Licensor and Licensee (“Separation
+Agreement”), Licensor agreed to provide a license to Licensee to certain software and related
+documentation after the Closing date;
+
+
+
+NOW THEREFORE, in consideration of the premises and the mutual promises and covenants
+contained herein and for other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the parties hereto agree as follows:
+
+
+
+Section 1 — GRANT OF LICENSE
+
+
+
+
+1.1 Grant of License. Subject to the terms and conditions herein, Licensor hereby grants to
+Licensee during the Term a fully paid-up, non-exclusive license (i) to install, copy and distribute
+internally, use and create, improvements, enhancements and modifications (“Improvements”) to the
+software listed on Schedule A hereto (the “Software”), in each case, solely in connection with
+Licensee’s operation of its business (subject to Section 8.1 of this Agreement), and (ii) to copy
+and distribute internally, use and create Improvements to any related documentation developed by
+Licensor that pertains to the operation of the Software (“Related Documentation”).
+
+
+
+1.2 Third Party Software. The license in Section 1 is conditioned upon Licensee’s prior
+acquisition, at Licensee’s expense, of a license to all third party software, applications, code or
+other proprietary data or information set forth on Schedule B (“Third Party Software”) sufficient
+to enable Licensee to enjoy such license as set forth herein.
+
+
+
+1.3 Provision of Software and Related Documentation. Promptly after the Effective Date,
+Licensor shall provide Licensee (i) the most current copies of the source code for the Software, if
+available, (ii) copies of the Software in executable form, and (iii) copies of the Related
+Documentation. All copies of the Software provided by Licensor to Licensee shall be in computer
+readable format identical to that used by Licensor in connection with its operation of the Business
+immediately prior to the Effective Date.
+
+
+
+1.4 Improvements. Licensor may, but is under no obligation to, provide Licensee with
+Improvements it makes to the Software and Related Documentation after the Effective Date. If
+Licensor provides Licensee with Improvements, the parties will negotiate in good faith as to the
+price Licensee will pay Licensor for the Improvements. Licensee may create its own
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improvements to the Software, and all rights and intellectual property rights therein shall be owned by Licensor,
+provided that such Improvements shall be included in the “Software” licensed under Section 1.1 of
+this Agreement. Licensee must notify Licensor of any material Improvements it creates to the
+Software no more than six (6) months after it creates such Improvements and must provide Licensor
+with copies of all software, applications, code or other proprietary data or information relating
+to such Improvements.
+
+
+
+1.5 Rights Reserved. All rights not expressly granted to Licensee herein are reserved to
+Licensor. Licensee disclaims any right to use the Software except in accordance with the express
+grant provided in this Section 1.
+
+
+
+Section 2 — OWNERSHIP OF SOFTWARE
+
+
+
+
+2.1 Ownership of Software. As between the parties, Licensee agrees that Licensor is the sole
+and exclusive owner of all right, title and interest, including intellectual property rights, in
+and to the Software and Related Documentation. Licensee agrees not to directly or indirectly
+question, attack, contest or in any other manner impugn Licensor’s rights in the Software and
+Related Documentation or the enforceability of this Agreement, including without limitation, in any
+action, claim, suit or proceeding (“Action”) in which enforcement of a provision of this Agreement
+is sought; nor shall Licensee willingly become a party adverse to Licensor in any Action in which a
+third party contests same.
+
+
+
+Section 3 — OBLIGATIONS OF LICENSEE
+
+
+
+
+3.1 Copyright Notice. Licensee shall not remove any copyright notice or other proprietary or
+restrictive notice or legend contained or included in the Software or displayed on the Related
+Documentation and shall reproduce and copy all such notices and legends on any and all permissible
+copies of the Software or Related Documentation made hereunder.
+
+
+
+3.2 Copying, Distribution and Modification. Licensee shall not distribute the Software or
+Related Documentation except to its employees who need to use it to operate its business. Without
+limiting Section 5 of this Agreement, Licensee shall use reasonable efforts to prevent persons from
+unauthorized copying, access to, or use of the Software and Related Documentation.
+
+
+
+3.3 Compliance with Applicable Laws. Licensee shall, at its sole expense, comply at all
+times with all applicable laws and regulations pertaining to the use of the Software and Related
+Documentation.
+
+
+
+Section 4 — REPRESENTATIONS AND WARRANTIES
+
+
+
+
+4.1 By Both Parties. Each party represents and warrants to the other party that it has the
+full power and authority to enter into this Agreement. Each party further represents that it has
+not entered, nor will it enter, into any agreements that would conflict with its obligations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hereunder or render it incapable of performing satisfactorily hereunder.
+
+
+
+4.2 By Licensor. Licensor represents and warrants to Licensee (i) that it is the sole and
+exclusive owner of the Software and Related Documentation, (ii) that it has the right to grant the
+license of the Software and Related Documentation to Licensee under this Agreement, (iii) that
+there are no pending or, to its knowledge, threatened, Actions (as defined in the Separation
+Agreement) as of the date hereof that seek to limit, cancel or challenge the validity,
+enforceability, ownership or use of, or Licensor’s rights in, the Software and Related
+Documentation, (iv) that no third party has sent Licensor any cease and desist letters relating to
+the Software and Related Documentation, (v) that it is not aware of any claim of infringement by a
+third party with respect to Licensor’s use of the Software or Related Documentation to date, (vi)
+that Licensee’s authorized use of such Software and Related Documentation pursuant to this
+Agreement shall not infringe the copyright or trade secret rights of any third party, and (vii)
+that, to its knowledge, no third party is infringing Licensor’s rights in the Software and Related
+Documentation.
+
+
+
+4.3 Licensor Indemnification. Licensor shall indemnify, defend and hold harmless Licensee,
+and each of its directors, officers, employees and agents (the “Licensee Indemnitees”) from and
+against any and all Indemnifiable Losses (as defined in the Separation Agreement) incurred or
+suffered by any of the Licensee Indemnitees and arising out of, or due to, Licensor’s breach of
+this Agreement or any representation, warranty, covenant or agreement hereunder.
+
+
+
+4.4 Licensee Indemnification. Licensee shall indemnify, defend and hold harmless Licensor,
+and each of its directors, officers, employees and agents (the “Licensor Indemnitees”) from and
+against any and all Indemnifiable Losses (as defined in the Separation Agreement) incurred or
+suffered by any of the Licensor Indemnitees and arising out of, or due to, Licensee’s breach of
+this Agreement, or any representation, warranty, covenant or agreement hereunder.
+
+
+
+4.5 Limitations on Licensor Liability. (a) Licensor makes no representation or warranty to
+Licensee that the Software or Related Documentation will meet Licensee’s requirements, that the
+operation of the Software will be free of errors, bugs, defects, viruses or other corruptants, or
+that the results obtained from the Software and the Related Documentation will be accurate,
+reliable, valuable or serve Licensee’s purposes.
+
+
+
+(b) EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS AGREEMENT, THE SOFTWARE AND RELATED
+DOCUMENTATION ARE LICENSED TO LICENSEE “AS IS,” AND LICENSOR DISCLAIMS ALL EXPRESS AND IMPLIED
+WARRANTIES RESPECTING THE SOFTWARE AND RELATED DOCUMENTATION, INCLUDING ALL WARRANTIES OF TITLE,
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, RELIABILITY OR ACCURACY. LICENSEE ASSUMES THE
+ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE AND
+RELATED DOCUMENTATION AND ANY RESULTS DERIVED THEREFROM.
+
+
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXEMPLARY, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS, LOST SAVINGS, LOST SALES OR BUSINESS, AND/OR LOSS DUE TO BUSINESS
+INTERRUPTION OR LICENSEE’S INABILITY TO USE THE SOFTWARE OR ANY COMPONENTS THEREOF OR THE RELATED
+DOCUMENTATION) ARISING OUT OF OR RELATING TO THIS AGREEMENT, ON ANY THEORY, WHETHER OR NOT
+FORESEEABLE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES.
+
+
+
+Section 5 — CONFIDENTIALITY
+
+
+
+
+5.1 Licensee’s Obligations. Licensee acknowledges that the Software and Related
+Documentation may contain highly valuable trade secrets of Licensor. Therefore, Licensee agrees to
+maintain, safeguard and protect the highly confidential nature of the Software and Related
+Documentation, and shall prevent its unauthorized copying, access or use by third parties.
+
+
+
+5.2 Confidentiality Obligations. To the extent that either party receives any non-public,
+proprietary, or confidential information from the other party in the course of its performance
+under this Agreement, the parties agree that the confidentiality provisions of the Separation
+Agreement, as set forth in Section 13.04 therein, shall apply to the extent they are applicable and
+shall survive the termination of this Agreement.
+
+
+
+5.3 Use by Third Parties. Licensee may disclose Licensor’s confidential information to third
+parties who assist in installing or Improving the Software or Related Documentation for Licensee’s
+benefit, provided that (i) Licensee will first require such third parties to agree in writing to
+abide by the confidentiality provisions contained in this Agreement and Section 13.04 of the
+Separation Agreement, and (ii) Licensee will be liable hereunder for any unauthorized use or
+disclosure by such third parties.
+
+
+
+Section 6 — TERM AND TERMINATION
+
+
+
+
+6.1 Term. The term of this Agreement shall commence (i) with respect to any Software
+requiring a license to Third Party Software, upon Licensor’s receipt of such license or written
+confirmation that Licensee has secured such a license, and (ii) with respect to any Software that
+does not require a license to Third Party Software, on the Effective Date. The term shall be
+perpetual unless and until termination shall occur pursuant to Section 6.2 of this Agreement.
+
+
+
+6.2 Termination. Licensor may terminate this Agreement at any time, upon written notice, (i)
+if Licensee materially breaches this Agreement and does not cure same within thirty (30) days of
+notice thereof, (ii) if Licensee has a trustee or receiver appointed for a substantial part of its
+assets, or, to the extent enforceable under the U.S. Bankruptcy Code, has instituted against it a proceeding in bankruptcy which is not dismissed within 120 days or results in an
+adjudication of bankruptcy, or (iii) in the event of a change of control of Licensee, a stock or
+asset sale of all or substantially all of the stock or assets of Licensee. Licensee may terminate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this Agreement at its discretion. Upon termination of this Agreement, Licensee agrees immediately
+to discontinue all use of the Software, including archival and maintenance copies, and any Related
+Documentation, and at Licensor’s option, to destroy or return the same promptly and certify that
+such action was taken.
+
+
+
+6.3 Survival. Sections 2, 4.3, 4.4, 4.5, 5, 6.3 and Sections 8.2 through 8.15 shall survive
+termination or expiration of this Agreement.
+
+
+
+Section 7 — PAYMENT
+
+
+
+
+7.1 Payment. Within ten (10) days of the execution of this Agreement, Licensee shall pay
+Licensor a non-refundable license fee of US$1.2 million. Payment is to be made in United States
+dollars to a bank account specified in writing by Licensor.
+
+
+
+Section 8 — MISCELLANEOUS
+
+
+
+
+8.1 No Assignment. Licensee may assign this agreement in its entirety solely to Affiliates
+(as defined in the Separation Agreement) solely in connection with an internal reorganization.
+Otherwise, Licensee shall not assign, assume in bankruptcy, sell, transfer or dispose (or
+sublicense, except to authorized subcontractors for Licensee’s benefit, subject to Section 5 of
+this Agreement), in whole or in part, by operation of law, implication or otherwise (including in a
+bankruptcy, change of control, stock sale, or merger, whether or not Licensee is the surviving
+entity), its rights or obligations under this Agreement without the prior written consent of
+Licensor in its sole discretion. Any purported attempt by Licensee to do so shall be invalid and
+void ab initio. In the event of a permitted assignment, this Agreement shall be binding upon, and
+shall inure to the benefit of, the parties hereto and their respective successors and permitted
+assigns. Further, the parties hereto agree that if Licensee, directly or indirectly, acquires any
+additional (i) entities after the Effective Date of which Licensee, directly or indirectly, holds a
+majority of the legal or beneficial interest in such entities, and/or (ii) assets, businesses or
+lines of business after the Effective Date of which Licensee, directly or indirectly, is the
+majority owner of such assets, businesses or lines of business, then the license contained in
+Section 1.1 of this Agreement shall extend to such additional entities, subsidiaries, assets,
+businesses or lines of business, but in no other circumstances shall the license contained in
+Section 1.1 of this Agreement extend to any other entities, subsidiaries, assets, businesses or
+lines of business acquired, directly or indirectly, by Licensee after the Effective Date.
+
+
+
+8.2 Notices. All notices and communications under this Agreement shall be in writing and
+shall be deemed to have been given (a) when received, if such notice or communication is delivered
+by facsimile, hand delivery or overnight courier, and, (b) three (3) business days after mailing if
+such notice or communication is sent by United States registered or certified mail, return receipt
+requested, first class postage prepaid. All notices and communications, to be effective, must be properly addressed to the party to whom the same is directed at its address
+as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If to Licensor, to:
+
+Peabody Energy Corporation
+
+
+701 Market Street
+
+
+St. Louis, MO 63101
+
+
+Attention: Alexander Schoch
+
+
+Executive Vice President — Law
+
+
+Fax: 314-342-3419
+
+
+If to Licensee, to:
+
+Patriot Coal Corporation
+
+
+12312 Olive Boulevard
+
+
+St. Louis, MO 63141
+
+
+Attention: Joseph W. Bean
+
+
+Senior Vice President, General Counsel & Corporate Secretary
+
+
+Fax:
+
+
+
+
+
+Either party may, by written notice delivered to the other party in accordance with this
+Section 8.2, change the address to which delivery of any notice shall thereafter be made.
+
+
+
+8.3 Amendment and Waiver. This Agreement may not be altered or amended, nor may any rights
+hereunder be waived, except by an instrument in writing executed by the party or parties to be
+charged with such amendment or waiver. No waiver of any terms, provision or condition of or failure
+to exercise or delay in exercising any rights or remedies under this Agreement, in any one or more
+instances, shall be deemed to be, or construed as, a further or continuing waiver of any such term,
+provision, condition, right or remedy or as a waiver of any other term, provision or condition of
+this Agreement.
+
+
+
+8.4 Entire Agreement. This Agreement, together with the Separation Agreement, constitutes
+the entire understanding of the parties hereto with respect to the subject matter hereof,
+superseding all negotiations, prior discussions and prior agreements and understandings relating to
+such subject matter. To the extent that the provisions of this Agreement are inconsistent with the
+provisions of the Separation Agreement with respect to the subject matter thereof, the provisions
+of this Agreement shall prevail to the extent of the inconsistency.
+
+
+
+8.5 Further Assurances and Consents. In addition to the actions specifically provided for
+elsewhere in this Agreement, each of the parties hereto will use commercially reasonable efforts to
+(a) execute and deliver such further instruments and documents and take such other actions as any
+other party may reasonably request in order to effectuate the purposes of this Agreement and to
+carry out the terms hereof and (b) take, or cause to be taken, all actions, and do, or cause to be
+done, all things, reasonably necessary, proper or advisable under applicable laws, regulations and
+agreements or otherwise to consummate and make effective the transactions contemplated by this
+Agreement, including, without limitation, using commercially reasonable efforts to obtain any
+consents and approvals, make any filings and applications and remove any liens, claims, equity or other encumbrance on an Asset of the other party necessary
+or desirable in order to consummate the transactions contemplated by this Agreement; provided that
+no party hereto shall be obligated to pay any consideration therefor (except for filing fees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and other similar charges) to any third party from whom such consents, approvals and amendments are
+requested or to take any action or omit to take any action if the taking of or the omission to take
+such action would be unreasonably burdensome to the party or its Group or the business thereof.
+
+
+
+8.6 Severability. In the event that any one or more of the provisions contained in this
+Agreement should be held invalid, illegal or unenforceable in any respect, the validity, legality
+and enforceability of the remaining provisions contained herein shall not in any way be affected or
+impaired thereby, and the parties shall endeavor in good-faith negotiations to replace the invalid,
+illegal or unenforceable provisions with valid provisions, the economic effect of which comes as
+close as possible to that of the invalid, illegal or unenforceable provisions.
+
+
+
+8.7 Governing Law; Jurisdiction. This Agreement shall be construed in accordance with, and
+governed by, the laws of the State of Delaware, without regard to the conflicts of law rules of
+such state. Each of the parties hereto (a) consents to submit itself to the personal jurisdiction
+of the courts of the State of Missouri or any federal court with subject matter jurisdiction
+located in the City of St. Louis (and any appeals court therefrom) in the event any dispute arises
+out of this Agreement or any transaction contemplated hereby or thereby, (b) agrees that it will
+not attempt to deny or defeat such personal jurisdiction by motion or other request for leave from
+any such court, and (c) agrees that it will not bring any action relating to this Agreement or any
+transaction contemplated hereby or thereby in any court other than such courts.
+
+
+
+8.8 Counterparts This Agreement may be executed in one or more counterparts, each of which
+shall be deemed an original instrument, but all of which together shall constitute but one and the
+same Agreement.
+
+
+
+8.9 Third Party Beneficiaries. Except as expressly provided in this Agreement or the
+Separation Agreement, this Agreement is solely for the benefit of the parties and should not be
+deemed to confer upon third parties any remedy, claim, liability, reimbursement, cause of action or
+other right in excess of those existing without reference to this Agreement.
+
+
+
+8.10 Specific Performance. The parties agree that irreparable damage would occur in the event
+that the provisions of this Agreement were not performed in accordance with their specific terms.
+Accordingly, it is hereby agreed that the parties shall be entitled to (i) an injunction or
+injunctions to enforce specifically the terms and provisions hereof in any arbitration in
+accordance with Section 8.15 of this Agreement, (ii) provisional or temporary injunctive relief in
+accordance therewith in any court of the United States, and (iii) enforcement of any such award of
+an arbitral tribunal or any court of the United States, or any other tribunal sitting in any state
+of the United States or in any foreign country that has jurisdiction, this being in addition to any
+other remedy or relief to which they may be entitled.
+
+
+
+8.11 Force Majeure. No party (or any Person acting on its behalf) shall have any liability or
+responsibility for failure to fulfill any obligation (other than a payment obligation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+under this Agreement or, unless otherwise expressly provided therein, the Separation Agreement, so long as and
+to the extent to which the fulfillment of such obligation is prevented, frustrated, hindered or
+delayed as a consequence of circumstances of Force Majeure. A party claiming the benefit of this
+provision shall, as soon as reasonably practicable after the occurrence of any such event: (a)
+notify the other party of the nature and extent of any such Force Majeure condition, and (b) use
+due diligence to remove any such causes and resume performance under this Agreement as soon as
+reasonably practicable.
+
+
+
+8.12 Construction. The parties have participated jointly in the negotiation and drafting of
+this Agreement. This Agreement shall be construed without regard to any presumption or rule
+requiring construction or interpretation against the party drafting or causing any instrument to be
+drafted.
+
+
+
+8.13 Titles and Section Headings. Titles and headings to sections herein are inserted for
+the convenience of reference only and are not intended to be a part of or to affect the meaning or
+interpretation of this Agreement.
+
+
+
+8.14 Relationship. The parties hereto are and shall remain independent contractors. Nothing
+herein shall be deemed to establish a partnership, joint venture, or agency relationship between
+the parties. Neither party shall have the right to obligate or bind the other party in any manner
+to any third party.
+
+
+
+8.15 Disputes. The parties agree that the provisions of the Separation Agreement, as set
+forth in Section 15.15 therein, shall apply to this Agreement.
+
+
+
+* * *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed in duplicate
+by their duly authorized corporate officers as of the day and year first above written.
+
+
+
+
+PEABODY ENERGY CORPORATION
+
+as Licensor
+
+
+By:  	/s/ Richard A. Navarre
+
+Name:  	Richard A. Navarre
+Title:
+Date:  	Executive Vice President
+October 22, 2007
+
+PATRIOT COAL CORPORATION
+
+as Licensee
+
+
+By:  	/s/ Richard M. Whiting
+
+Name:  	Richard M. Whiting
+Title:
+Date:   	Executive Vice President
+October 22, 2007
+
+
+
+
+
+
+
+
+
+
+
+

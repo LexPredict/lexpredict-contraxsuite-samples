@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+This SOFTWARE LICENSE AGREEMENT (the "Agreement") is entered into this 28th
+day of May,  1999, by and between  MAVERICK  INTERNATIONAL  PROCESSING  SERVICE,
+INC., an Arizona  corporation  with its  principal  place of business at 6390 E.
+Broadway  Boulevard,  Tucson,  Arizona 85710 (the "Licensor") and U.S.  WIRELESS
+DATA,  INC.,  a Colorado  corporation  with its  principal  place of business at
+Watergate  Tower II, 2200 Powell Street,  Suite 800,  Emeryville,  CA 94608-1876
+(the "Licensee").
+
+
+RECITALS
+
+WHEREAS,  Licensor is the owner of certain computer  software  programs
+and related  documentation  pertaining to the  authorization and capture of data
+transactions originating with the use of payment cards; and
+
+WHEREAS, Licensor desires to grant to Licensee, and Licensee desires to
+obtain a  non-exclusive,  fully paid license to use certain of those programs on
+the terms and conditions set forth herein.
+
+NOW,  THEREFORE,  in  consideration  of the foregoing and of the mutual
+covenants contained herein, the parties agree as follows:
+
+1.       Grant of License.
+
+1.1 License.  Licensor  hereby grants to Licensee,  and Licensee hereby
+accepts,  subject to the terms and  conditions  set forth in this  Agreement,  a
+non-exclusive,  non-transferable,  perpetual license in the United States to (a)
+use the StrongBox(TM)  payment authorization and data capture software developed
+and owned by Licensor  and any changes or  additions  thereto  made  pursuant to
+Section  3 below  (the  "Licensed  Software");  and  (b)  use any  documentation
+developed by Licensee relating to the Licensed Software. Licensed Software shall
+include  documentation,   scripts,   database  stored  procedures,   and  binary
+executable  code.  Licensed  Software does not include any Source Code.  "Source
+Code"  means the  version of the  Licensed  Software  in  assembly  language  or
+high-level  language  which must be assembled or compiled so that a computer can
+execute the program.
+
+1.2 Title to Software. The Licensed Software shall remain the exclusive
+property of  Licensor.  Licensee  shall not acquire any title to or ownership of
+the   Licensed   Software   under  or  by  reason  of  this   Agreement  or  any
+customizations,  enhancements  or upgrades that might be made by Licensor at the
+request of Licensee.
+Licensee will ensure that all copies of the Licensed  Software are
+conspicuously marked with Licensor's copyright notice as follows:
+
+"This  Product  has been  provided  and may be used only under the
+terms and conditions of an Agreement,  which includes restrictions
+on copying and transfer to third parties. No title or ownership to
+this Product is hereby transferred."
+
+(C)Maverick(R) International Processing Services, Inc. 1999
+<PAGE>
+2.       License Fee.
+
+2.1 Issuance of Stock. In consideration  of Licensor's  granting of the
+License,  Licensee  shall grant to Licensor  three  hundred  thousand  (300,000)
+shares of Licensee's common stock ("Stock"),  having an expected market value of
+One Million Dollars  ($1,000,000) to be delivered no later than thirty (30) days
+after the date of this Agreement (the "Delivery  Date").  If the market value of
+Stock is less than $3 1/3 per  share,  (split-adjusted)  at the  Delivery  Date,
+Licensee  shall  deliver  sufficient  additional  Stock  of up  to  seventy-five
+thousand  (75,000)  shares to return the  aggregate  market value to One Million
+Dollars ($1,000,000). If the market value of Stock is less than $2 2/3 per share
+(split-adjusted)  at the Delivery Date, the total  consideration  received under
+this Agreement  shall be limited to 375,000 shares  multiplied by the applicable
+market value per share.  The  Licensee's  Common  stock will have a  restrictive
+legend  attached and be subject to the terms and  conditions  of rule 144 of the
+securities act.
+
+3.       Updates and Maintenance.
+
+3.1 Upon the  completion  of any  maintenance  or  enhancements  to the
+Licensed  Software  made by Licensor for its own benefit  during the term of the
+Management  Services Agreement (an "Update"),  such Update shall be installed on
+the  Maverick  Systems and  operated  for  Licensor  and shall be  automatically
+included in the license granted herein to Licensee,  at no extra charge,  unless
+such  Update was  developed  or created at  Licensee's  request,  in which event
+Licensee shall pay to Licensor a fee of Licensor's direct  development cost plus
+25% markup for the  development  of such Update.  In the event Licensee has paid
+Licensor for the Update and Licensor  subsequently  wishes to use the Update for
+its  own  benefit,  Licensor  shall  reimburse  Licensee  for  one-half  of  the
+development  fee.  Notwithstanding  any request for  development or payment of a
+development  fee by  Licensor,  the  resulting  Update shall remain the sole and
+exclusive property of Licensor.
+
+4.       Installation and Operation of Licensed Software.
+
+4.1  Designated  Site.  During  the  term  of the  Management  Services
+Agreement  the Software  shall reside only on systems  belonging to or under the
+control of Licensor (the "Maverick  System") and will be operated by Licensor on
+behalf of Licensee under the terms of said  agreement.  Upon  termination of the
+Management  Services  Agreement,  Licensee may designate a single  domestic site
+where it wishes to have the Software installed (the "Designated Site") and shall
+provide  written  notice of the date upon  which it wishes  the  software  to be
+delivered (the "Delivery Date");  provided,  however, such notice shall be given
+no later than one hundred eighty (180) days prior to the Delivery  Date." In the
+event of a  termination  for cause by USWD,  the Delivery  Date shall be no more
+than  thirty (30) days after such  termination.  Licensor  will  deliver two (2)
+copies of the  production  version of the  Licensed  Software as it exists as of
+fourteen  (14) days prior to the Delivery  Date and will install one (1) copy at
+the Designated Site promptly but no later than fourteen (14) business days after
+the Delivery Date.
+
+4.2 Licensee to Prepare Designated Site. Licensee shall arrange to have
+the  Designated  Site  prepared  and  ready  for  installation  of the  Licensed
+Software,  at  Licensee's  sole expense.  Licensor  agrees that its cost for any
+assistance in site  preparation,  installation  and training shall be limited to
+its  direct  costs,  including,  but not  limited  to salary  and  benefits  for
+personnel  and  out-of-pocket  travel  expenses,  plus a markup  of  twenty-five
+percent (25%).
+
+4.3  Hardware.  Promptly  upon receipt of notice of the Delivery  Date,
+Licensor shall advise Licensee  concerning the  specifications  and requirements
+for (a) all hardware and
+
+<PAGE>
+related installation systems, needed to be installed by
+Licensee at the  Designated  Site in order to operate the Licensed  Software and
+(b) all  operating  systems,  utilities or other  supporting  software  that, in
+Licensor's reasonable judgment are required for proper operation of the Licensed
+Software.  Licensee shall be solely  responsible,  at its sole cost and expense,
+for the  acquisition  of all hardware to create the system on which the Licensed
+Software  is to  be  installed  (the  "USWD  System"),  all  electrical  cabling
+necessary  to install the USWD  System and all work  necessary  to provide  such
+cabling and  electrical  power for that  system.  In the event of any  conflicts
+between  the  written  environmental  or  technical  specifications  provided by
+Licensor  and those of any  manufacturer  of  hardware  being  used for the USWD
+System,  Licensee shall follow the  specifications  of the  manufacturer of such
+hardware.
+
+4.4 Maintenance.  After delivery of Licensed  Software,  Licensor shall
+perform  maintenance for processing updates mandated by Visa,  U.S.A.,  Inc. and
+MasterCard  International,  Inc. only. Terms and conditions for such maintenance
+are contained in the Software  Maintenance  Agreement that is Exhibit A attached
+hereto  and is hereby  incorporated  by  reference  into this  Agreement.  After
+delivery,  Licensee shall be have the right, subject to Exhibit A, to customize,
+update or develop  modifications and improvements to the Licensed  Software,  or
+retain the  services of a third party to do so on its behalf,  in which case the
+derivative copyrights relating to such updates, customizations and modifications
+shall be the property of Licensee or such third party,  although  Licensee shall
+not acquire any title or ownership of the underlying Licensed Software by reason
+thereof.
+
+5.  Confidential  Information  and  Non-Disclosure.
+Licensor and Licensee each  acknowledges  that in the course of  performing  its
+obligations  hereunder,  it may receive,  develop or otherwise  acquire  certain
+information  that the other  party  deems as its  proprietary  and  confidential
+information  ("Confidential  Information").  All  Confidential  Information of a
+party  that the other  party may now  possess,  may  obtain  during or after the
+performance of this Agreement will be held  confidential by the receiving party,
+and that party will not (nor will it assist any other  person to do so) directly
+or indirectly reveal, report, publish or disclose such Confidential  Information
+to any person, firm or corporation not expressly  authorized by the party owning
+such Confidential Information to receive such Confidential  Information,  or use
+(or assist any person to use) such Confidential  Information  except (a) for the
+benefit of the party  owing the  Confidential  Information  and in the course of
+performing  it  obligations  hereunder,  or  (b) as  necessary  to  fulfill  any
+obligations of the revealing party under this Agreement; provided, however, that
+the  forgoing  will not apply to the extent  that  either  party is  required to
+disclose Confidential  Information of the other party by applicable law or legal
+process so as the  revealing  party  promptly  notifies  the other party of such
+pending  disclosure  and  consults  with  that  party  prior to such  disclosure
+concerning  the  advisability  of seeking a  protective  order or other means of
+preserving  the  confidentiality  of the  Confidential  Information.  Each party
+acknowledges  that the Confidential  Information of the other party is important
+and unique to that party and that it materially affects the party's goodwill and
+its  successful  conduct of  business.  Licensee  shall not, nor help others to,
+reverse engineer,  decompile, create or attempt to create the Source Code of the
+Licensed Software.
+
+6.  Licensor's  Representations  and  Warranties.
+Licensor hereby makes the following representations and warranties to Licensee:
+
+6.1 Licensor is the owner of the Licensed Software,  with the right and
+authority to convey and grant the license granted to Licensee herein.
+
+
+<PAGE>
+6.2 Licensee's  use of the Licensed  Software as  contemplated  in this
+Agreement will not infringe any third party's proprietary rights.
+
+7.       Warranties.
+
+7.1  Conformance  to  Specifications.  Licensee  acknowledges  that all
+Licensed  Software is the same software that will have been utilized by Licensor
+in the  operation  of its  payment  processing  business  during the term of the
+Management  Services Agreement and that all Licensed Software,  whether existing
+at the time of  execution of this  Agreement  or an Update as set forth  herein,
+will have been  installed,  tested and  operated by Licensor  for the benefit of
+Licensor for an  undetermined  period of time before the Delivery Date and that,
+as a result of such prior operation, Licensor shall have direct knowledge of the
+features, functions and operability of the software.  Therefore,  Licensor makes
+no warranties, written or implied, and specifically disclaims any warranties for
+merchantability  or  fitness  for  a  particular  purpose,   regarding  Licensed
+Software.  Further, Licensor makes no warranties,  written or implied, regarding
+the  operation of the Licensed  Software on the USWD System.  Licensor  does not
+warrant the operation of any hardware, firmware, operating systems, utilities or
+other  supporting  software   constituting  the  USWD  System  and  utilized  in
+conjunction with the Licensed Software.  Licensor  acknowledges that hardware or
+firmware  problems may adversely  affect the operation of the Licensed  Software
+and that Licensor shall not be responsible for such problems.
+
+7.2 Physical Media Warranty.  Licensor warrants to Licensee, subject to
+limitations  regarding the USWD System set forth in Section 7, that each copy of
+the Licensed  Software provided by Licensor to Licensee is and will be free from
+physical  defects in the media that  tangibly  embodies the copy (the  "Physical
+Media  Warranty").  The  Physical  Media  Warranty  does not  apply  to  defects
+discovered more than thirty (30) calendar days after the date of delivery of the
+copy by Licensor.
+(a) The  Physical  Media  Warranty  does not apply to  defects
+arising from acts of non-Licensor personnel,  misuse, theft, vandalism,
+fire, water, acts of God or other peril.
+(b)  Licensee's  sole remedy for breach of the Physical  Media
+Warranty,  to the  exclusion of all other  remedies  therefor,  will be
+replacement  by Licensor of any copy provided by Licensor that does not
+comply with the warranty at Licensor's expense,  including shipping and
+handling costs.
+
+7.3      No Surreptitious Code Warranty.
+
+(a)      Licensor  warrants  to Licensee  that no copy  of the
+Licensed  Software  provided to Licensee by Licensor  contains or will
+contain  any  Self-Help  Code nor any  unauthorized  Code (as  defined
+below) (the "Surreptitious Code Warranty");  provided,  however,  this
+warranty specifically excludes any Self-Help Code that might reside in
+the Licensed  Software by virtue of the use of third-party  compilers,
+utilities and  programming  tools in the  development  of the Licensed
+Software.  (b) As used in this Agreement,  "Self-Help  Code" means any
+back  door,  time bomb,  drop dead  device or other  software  routine
+designed to disable a computer program  automatically with the passage
+of time or  under  the  positive  control  of a  person  other  than a
+licensee of the  program.  Self-Help  Code does not  include  software
+routines in a program,  if any,  designed to permit Licensor (or other
+person  acting by authority of  Licensor) to obtain  remote  access to
+Licensee's  computer  systems via modem for purposes of maintenance or
+technical support.
+
+
+<PAGE>
+
+
+(c)     As used in  this Agreement, "Unauthorized Code" means
+any virus Trojan horse,  worm or other  software  routines or hardware
+components designed to permit unauthorized  access; to disable,  erase
+or otherwise harm software,  hardware or data; or to perform any other
+such actions.  The term  Unauthorized  Code does not include Self-Help
+Code.
+
+8.        Responsibility  for Use.
+Licensee shall take all reasonable  and necessary  actions to establish  back-up
+and other protective measures to insure the protection and retention of its data
+and information. Licensor assumes no responsibility for Licensee's negligence or
+failure  to take  reasonable  measures  to  protect  the  Licensed  Software  or
+Licensee's  data  from  inadvertent  modification,   deletion,   destruction  or
+disclosure.
+
+9.       Patent, Trade Secret and Copyright.
+
+9.1 Licensor  warrants that the  intellectual  and industrial  property
+rights of the Licensed  Software are vested in Licensor and that Licensor is not
+in any way  restricted  from  granting  rights to use the  Licensed  Software as
+foreseen in this Agreement.
+
+9.2 Licensor  shall hold  harmless and indemnify  Licensee  against all
+claims from third parties regarding  infringement of intellectual and industrial
+property rights  concerning the use of the Licensed Software as foreseen in this
+Agreement.  If a third party brings any action against Licensee,  Licensor shall
+take over all conduct of the claim and all  settlements  (including the judicial
+costs) at its own  expense.  Licensee  is obliged to notify  Licensor in writing
+immediately upon receipt of any such claim giving full details,  and may make no
+statements  prejudicial to Licensor  unless forced thereto  according to Arizona
+law. In no event shall Licensee  settle any such claims,  lawsuit or proceedings
+without  Licensor's  prior  written  approval.  Licensee  shall  cooperate  with
+Licensor in the defense of any claim, lawsuit or proceeding.
+
+9.3 If as the result of legal action or otherwise it is proven that use
+of the Licensed  Software by Licensee  infringes the intellectual and industrial
+property rights of a third party, Licensor shall at its own discretion and at no
+charge to Licensee:
+(a)      Acquire continued rights of use for Licensee; or
+(b) Alter or exchange the Licensed Software in such a way that
+the  infringement  ceases.  Such alteration or exchange may not lead to
+the  Licensed   Software's   no  longer   satisfying   the   applicable
+specifications.  Licensor's and Licensee's other rights and obligations
+under this Agreement will apply without  limitation to the parts of the
+Licensed Software thus altered or exchanged.
+
+The foregoing constitutes the entire liability of Licensor with respect
+to infringement of any patents, trademarks,  copyrights, licenses or other third
+party proprietary right by Licensed Software.
+
+9.4 Licensor shall not be liable for  infringements of intellectual and
+industrial  property  rights if Licensee  has  altered any part of the  Licensed
+Software as such software  existed as of the Delivery Date, and such alterations
+are the direct  cause of the  infringement.  If a third party  brings any action
+against  Licensor,  Licensee  shall  take over all  conduct of the claim and all
+settlement  (including  the  judicial  costs) at its own  expense.  Licensor  is
+obligated  to notify  Licensee in writing  immediately  upon receipt of any such
+claim giving full details,  and may make no statements  prejudicial  to Licensee
+unless forced thereto according to Arizona law.
+
+<PAGE>
+9.5 Licensee shall indemnify and hold harmless  Licensor from any claim
+by any party,  other  than those  claims  stated in this  Section 9,  arising or
+related to Licensee's own activities concerning the use of Licensed Software.
+
+10.      Default and Termination for Cause.
+
+10.1 Failure by Licensor or Licensee to comply with any  material  term
+or  condition  under this  Agreement  shall  entitle the other party to give the
+party  in  default  written  notice  requiring  it to make  good  such  default;
+provided, however, that if Licensee violates any of the conditions of Section 9,
+this  Agreement  shall  terminate  immediately.  If the party in default has not
+cured such default within thirty (30) days of such notice,  the notifying  party
+shall be  entitled,  in  addition  to any other  rights it may have  under  this
+Agreement,  or  otherwise  under law (except as limited by this  Agreement),  to
+terminate this Agreement by giving written notice to take effect immediately.
+
+10.2 The right of either party to terminate  this  Agreement  hereunder
+shall not be  affected  in any way by is waiver or failure to take  action  with
+respect to any previous default.
+
+10.3 Upon the  termination  of this Agreement for a breach by Licensee,
+Licensee  shall return the  Licensed  Software  and any  documentation  relating
+thereto, and all copies thereof, to Licensor and shall certify that it no longer
+has any right to use the Licensed Software.  No part of any license fee shall be
+returned to Licensee upon termination unless caused by Licensor's  default.  The
+term  "default"  as used in this  Agreement  shall  include the  institution  of
+proceedings by or against either party under federal or state  bankruptcy  laws,
+or an assignment or receivership for the benefit of creditors.
+
+11.      Applicable  Law and  Disputes.
+This Agreement shall be governed by and construed in accordance with the laws of
+the State of Arizona. If a dispute concerning this Agreement arises, the parties
+will  first  meet and  attempt to  resolve  the  matter in good  faith.  If such
+resolution is not possible, the dispute will be submitted to the competent court
+in Tucson, Arizona.
+
+12.      Additional Terms and Conditions.
+
+12.1 This Agreement forms the only correct and complete representations
+with respect to what has been agreed between Licensor and Licensee regarding the
+subject matter contained herein.  Any previous  representations,  communications
+and/or agreement, whether written or verbal, are superseded by this Agreement.
+
+12.2 No changes  may be made to this  Agreement  unless made in writing
+and signed by the duly authorized  representatives of both parties.  The failure
+of any party to enforce any of its rights  hereunder shall not be deemed to be a
+waiver of such rights, unless such waiver is an express written waiver which has
+been signed by the waiving  party.  Waiver of any one breach shall not be deemed
+to be a waiver of any other breach of the same or any other provision hereof.
+
+12.3 Any notice  herein  required or  permitted to be given shall be in
+writing or by facsimile  transmission with subsequent written confirmation,  and
+may be personally  serviced or sent by United States mail and shall be deemed to
+have been given upon receipt by the party notified. For the purposes hereof, the
+addresses of the parties  shall,  until changed as hereinafter  provided,  be as
+follows:
+
+
+<PAGE>
+If to the Maverick:
+Maverick Processing Services, Inc.
+6390 E. Broadway
+Tucson, Arizona 85710
+Attn:   Linda P. Ford,
+Vice President & Legal Counsel
+
+If to Licensee:                     U.S. Wireless Data, Inc.
+Watergate Tower II
+2200 Powell Street, Suite 800
+Emeryville, CA 94608-1876
+Attn:   _________________
+
+or such  substituted  persons or  addresses of which any of the parties may give
+notice to the other in writing.
+
+12.4  Licensee  may not assign this  Agreement  or the License  granted
+therein,  in whole or in part  without the prior  written  consent of  Licensor.
+Provided,  however,  the  foregoing  shall  not  apply  to any  assignment  to a
+subsidiary,  affiliate,  parent or by way of merger or  operation  of law unless
+such assignment is to a Competitor of Licensor or to a party which, through such
+assignment, becomes a Competitor of Licensor.
+
+12,5 In performing their  responsibilities  pursuant to this Agreement,
+Licensor and Licensee are in the position of independent contractors.  Except as
+specifically set forth herein, neither is intended to and shall not be deemed to
+be an agent of the other.
+
+12.5 This Agreement may be executed in one or more  counterparts and by
+different  parties  in  separate  counterparts,  with the same  effect as if all
+parties hereto had signed the same documents.  All  counterparts so executed and
+delivered  shall be deemed to be an original,  shall be  construed  together and
+shall constitute one agreement.
+
+
+IN WITNESS WHEREOF,  the parties hereto have executed this Agreement as
+of the date and year first above written.
+
+
+
+MAVERICK INTERNATIONAL                      U.S. WIRELESS DATA, INC.
+PROCESSING SERVICES, INC.
+
+
+
+/s/ John A. Hunnicut                         By /s/ Rod Stambaugh
+John A. Hunnicut, Chairman & CEO                Title President
+
+Date: June 9, 19990                             Date June 10, 1999
+

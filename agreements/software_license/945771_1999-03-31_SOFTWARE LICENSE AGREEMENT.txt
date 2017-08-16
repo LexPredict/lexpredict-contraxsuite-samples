@@ -1,0 +1,1256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.19
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+BETWEEN
+
+
+
+
+VIATEL, INC.
+
+
+
+
+AND
+
+
+
+
+LUCENT TECHNOLOGIES INC.
+
+
+
+
+
+
+
+
+CONTRACT # GCMVIA98-10-22
+
+
+<PAGE>
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+This  Agreement is made the 22nd day of October,  1998 (the  "Effective
+Date") between Lucent  Technologies  Inc., a corporation  organized and existing
+under the laws of the State of Delaware,  and having its corporate  headquarters
+at 600 Mountain Avenue,  Murray Hill, New Jersey 07974 (hereinafter  referred to
+as "Lucent") and Viatel,  Inc., a corporation  organized and existing  under the
+laws of Delaware and having its principal office at 800 Third Avenue,  New York,
+New York  10022  (hereinafter  referred  to as  "Licensee").  Each of Lucent and
+Licensee  may be referred  to in this  Agreement  individually  as a "Party" and
+collectively as the "Parties."
+
+
+1.       HEADINGS & DEFINITIONS
+
+All headings used in this  Agreement are inserted for  convenience  only and are
+not intended to affect the meaning or interpretation of this Agreement.  For the
+purpose of this Agreement, the following definitions will apply:
+
+"Acceptance  Test"  means  those  tests  performed  by  Licensee  after
+Lucent's  installation  of  Licensed  Materials  as  described  in  the
+Statement of Work.
+
+"Advertising" means all advertising,  sales promotion,  press releases,
+and  other  publicity   matters  relating  to  performance  under  this
+Agreement.
+
+"Affiliate"  of a  corporation  means it  Subsidiaries,  any company of
+which it is a Subsidiary,  and other Subsidiaries of such company.  For
+purposes  of this  Agreement,  the  meaning  of  "Affiliate"  shall not
+include  any  company  or  subsidiary   which  is  a  manufacturer   of
+telecommunications products in direct competition with Lucent.
+
+"Agreement" means this Agreement  concluded between Lucent and Licensee
+named herein  incorporating  these conditions,  including any amendment
+changes authorized by the parties.
+
+"Attachment" means any document appended to this Agreement and referred
+to as an  Attachment  which further  describes the agreement  concluded
+between Lucent and Licensee named herein.
+
+"Change of  Control"  means,  with  respect  to a Party  either (1) the
+consolidation  or  merger of the  Party  with or into any other  entity
+where such Party is not the surviving entity; (2) the sale, transfer or
+other disposition of all or substantially all of the Party's assets; or
+(3) the  acquisition  by any  entity,  or group of  entities  acting in
+concert,  of  beneficial  ownership of more than fifty percent (50%) of
+the Party's outstanding voting securities.
+
+"Change  Order" means the written order between  Lucent and Licensee to
+execute a change in the tasks, activities or responsibilities from that
+which was previously agreed to by the Parties.
+
+"Completion  Notice" means the written document  delivered by Lucent to
+Licensee confirming the completion of tasks or activities referenced in
+the Notice according to the terms of the Agreement.
+
+<PAGE>
+
+"Days" or "days" means, unless otherwise stated, calendar days.
+
+"Defect" means an error condition that causes the Licensed Materials to
+fail to operate in compliance with the Specifications.
+
+"Designated  Processor" means the central  processing unit or units for
+which a license to use  Licensed  Materials  are  initially  granted as
+described in the Statement of Work.
+
+"Dollars" means U.S. dollars.
+
+[TERM AND DEFINITION REDACTED]
+
+"Enhancement" means any modification to the Licensed Materials that are
+directly  related  to  maintaining  interoperability  with  the  Nortel
+Switches.  Enhancements  does not include new generic releases or other
+new features or functionality.
+
+"Firmware"  means  a  combination  of (1)  Hardware  and  (2)  Software
+represented  by a  pattern  of bits contained in such Hardware.
+
+"Hazardous   Materials"  means  material  designated  as  a  "hazardous
+chemical  substance  or  mixture"  pursuant  to  Section 6 of the Toxic
+Substance Control Act; a "hazardous  material" defined in the Hazardous
+Materials  Transportation  Act (49 U.S.C.  1801,  et seq.);  "hazardous
+substance" as defined in the Occupational  Safety and Health Act Hazard
+Communication Standard (29 CFR 1910.1200).
+
+"Information"  means  all  documentation  and  technical  and  business
+information in whatever form recorded, which a Party may furnish under,
+or has furnished in contemplation of, this Agreement.
+
+
+3
+<PAGE>
+
+
+
+[TERM AND DEFINITION REDACTED]
+
+"Licensed  Materials"  means the Software  (including  Enhancements and
+Updates) and Related  Documentation  for which  licenses are granted by
+Lucent under this Agreement and identified in the Statement of Work.
+No Source Code versions of Software are included in Licensed Materials.
+
+"Nortel  Switches"  means the  Software  contained  in the specific DMS
+I00E,  DMS 250, DMS 300 and DMS GSP switches  manufactured  by Northern
+Telecom Ltd. and identified in the Statement of Work with such features
+and functionalities and configurations in existence as of the Effective
+Date and included in the Statement of Work.
+
+"Related   Documentation"   means  materials  useful  or  necessary  in
+connection  with use of Software  Products such as, but not limited to,
+flowcharts,  logic  diagrams and  listings,  program  descriptions  and
+Specifications; no Source Code is included in Related Documentation.
+
+"Services"  means the  services  performed  for  Licensee as more fully
+described  in this  Agreement,  including,  but  not  limited  to,  (1)
+engineering services, (2) installation services, and (3) other services
+such as maintenance, support and training provided hereunder and in the
+Statement of Work.  However,  Services  does not include  post-warranty
+maintenance and support.
+
+"Software"  means a  computer  program  consisting  of a set of logical
+instructions and tables of information which guide the functioning of a
+processor;  such  program may be  contained  in any medium  whatsoever,
+including  Hardware  containing  a pattern  of bits  representing  such
+program, but the term "Software" does not mean or include such medium.
+
+"Software  Products"  means,  collectively,  Licensed  Materials, Third
+Party Products and Services.
+
+"Specifications"    means   Lucent's   or   its   vendor's    technical
+specifications for particular Software Products furnished hereunder, as
+more fully described in the Statement of Work included as Appendix B.
+
+"Statement  of Work" means the  Statement  of Work  attached  hereto as
+Appendix  B, as the same may be  amended  from time to time by  written
+agreement between Lucent and Licensee.
+
+
+4
+<PAGE>
+
+
+"Source Code" means any version of Software incorporating high-level or
+assembly  language or human  readable  material  that  generally is not
+directly executable by a processor.
+
+"Subsidiary"  of a company  means a  corporation  the majority of whose
+shares or other  securities  entitled to vote for election of directors
+is now or hereafter owned or controlled by such company either directly
+or indirectly;  but such corporation shall be deemed to be a Subsidiary
+of such company only as long as such ownership or control exists.
+
+"T+52  Delivery"  means the delivery and  installation  of all Licensed
+Materials  by Lucent as  described  in the  Statement of Work such that
+Licensee may begin  carrying out the  relevant  Acceptance  Tests on or
+before the date representing "T+52." [REDACTED]
+
+
+"Third Party  Product"  means  Software not  developed by Lucent and/or
+hardware not manufactured by Lucent.
+
+"Update" means a modification to the Licensed  Materials that rectifies
+or provides "fixes" to a Defect.
+
+"Use" with  respect to Licensed  Materials  means  loading the Licensed
+Materials,  or any portion  thereof,  into a processor for execution of
+the instructions and tables contained in such Licensed Materials or any
+other use of the Licensed Materials in accordance with this Agreement.
+"Warranty Period" means a period of time equal to the following:
+
+[REDACTED]
+
+
+2      TERM OF AGREEMENT
+
+This Agreement shall be effective on the date first written above and, except as
+otherwise  provided  herein,  shall  continue  in effect  unless  terminated  in
+accordance  with  the  provisions  herein.  The  modification,   termination  or
+expiration  of this  Agreement  shall not affect the  rights or  obligations  of
+either Party under any order accepted by Lucent before the effective date of the
+modification, termination or expiration.
+
+
+3.       SCOPE OF AGREEMENT
+
+3.1       SCOPE
+
+This  Agreement  shall apply to Lucent's  provision  to Licensee of the
+Software  Products set forth on Appendix A - "List of Deliverable Items
+and  Prices." The Software  Products  will be provided  pursuant to the
+
+
+5
+<PAGE>
+
+
+Statement  of Work  attached  hereto as Appendix B. In the event of any
+amibiguity  or conflict  between this  Agreement  and the  Statement of
+Work, the terms of this Agreement will control.
+
+3.2     CHANGE IN SCOPE OR SCHEDULE
+
+Either Party may request  changes in the work within the general  scope
+of the Agreement consisting of additions, deletions, or other revisions
+with the Agreement Prices and Schedule being adjusted accordingly.  The
+receiving  Party  will  respond   promptly  to  the  requested   change
+identifying  these  impacts on schedules  and  pricing.  If the Parties
+agree to the change, it will be authorized by a Change Order, signed by
+the Parties and performed in accordance with the applicable  conditions
+of this Agreement.
+
+
+
+4.       LICENSEE'S COMMITMENT
+
+Licensee  through  the  execution  of this  Agreement  agrees to license  and/or
+purchase  [REDACTED] of  the Software  Products as described  in  Appendix A and
+the Statement of Work (the "1998  Commitment").  The Software Products described
+in the Statement of Work will be delivered/performed on basis of purchase orders
+as may be  agreed  to by the  parties.  Such  purchase  orders  are for  project
+management  purposes  only  and do not affect Licensee's  commitment to license
+and/or purchase the Software Products as described in the Statement of Work.
+
+For a period  [REDACTED]  following  the  Effective  Date,  until  Licensee  has
+purchased or licensed Software Products manufactured by Lucent's  Communications
+Software  Group  or  its  successor   business  unit  or  stand-alone   software
+manufactured by Lucent ("CS Software Products") with a purchase or license price
+not less than  [REDACTED],  Lucent will be considered by Licensee as a preferred
+supplier  of  Software   Products  similar  to  products   manufactured  by  the
+Communications Software Product Group of Lucent or successor thereof. The status
+of  preferred  supplier  means  that  Lucent  will  have and  will be given  the
+opportunity to bid on any project of Licensee  containing  products and services
+substantially  similar in quality and  functionality to CS Software Products and
+Licensee shall award the project or portion thereof -if applicable- to Lucent if
+the Lucent offered price for that project or the relevant portion thereof is not
+more than [REDACTED] than the lowest price  offered by an  alternative  supplier
+for a substantially similar solution or substantially comparable portion.
+
+In the event Lucent, pursuant to the foregoing,  will not be awarded the project
+or corresponding portion of it, then Licensee will arrange a meeting between one
+or more Executive Officers of Licensee and one or more Executive Officers of the
+Communications  Software  Product  Group in  order to  consult  how  Lucent  may
+increase its success-rate in being awarded orders.
+
+
+5.     PRICING SCHEDULE
+
+Prices, fees, and charges for the Software Products  (hereinafter  "Prices") are
+set forth in Appendix A.
+
+Unless expressly stated in writing, Lucent's prices are exclusive of charges for
+transportation  and other  related  services  and any sales or other tax or duty
+which Lucent may be required to collect or pay upon the ordered transaction.
+
+
+6
+<PAGE>
+
+
+6.       PURCHASE ORDERS
+
+All purchase orders  submitted by Licensee shall be deemed to incorporate and be
+subject to the terms and conditions of this Agreement,  unless  otherwise agreed
+in  writing  by the  Parties.  No  provision  or data on any  purchase  order or
+contained in any documents attached to or referenced in any purchase order shall
+be binding to the extent that it is in addition to or contradicts  the terms and
+conditions  contained  herein  or  the  provisions  of  the  Statement  of  Work
+(including  amendments  thereto).  All other such data and  provisions  shall be
+deemed  deleted  and are  hereby  rejected  except to the  extent  such data and
+provisions are incorporated in an executed Change Order.  Additional  provisions
+applicable  to the ordering of specific  items may be found in the other clauses
+or Attachments of this Agreement.
+
+All purchase  orders shall  contain the  information  reasonably  necessary  for
+Lucent to fulfill the order.  Lucent  promptly will notify Licensee if Lucent is
+unable to FULFILL a purchase order as submitted.
+
+The Parties  recognize  that from time to time  Licensee  may desire that Lucent
+provide  Services  promptly and without adhering to the ordering process set out
+by the above paragraphs,  for example,  in the case of a telephonic  request for
+emergency  support.  Licensee shall promptly establish a "running order" against
+which invoices for Services performed in response to such requests can be billed
+at a  reasonable  cost to be  approved  by  Licensee  (such  approval  not to be
+unreasonably withheld or delayed) and will be paid for by Licensee.
+
+While it is Lucent's  objective to provide  Licensee with an  acknowledgment  of
+each order  received,  it is Licensee's  responsibility  to advise Lucent of any
+missing or late  notifications  to insure  that the order has not been lost.  No
+order is to be  considered  "accepted"  by Lucent  unless its  receipt  has been
+acknowledged (such  acknowledgement not to be unreasonably withheld or delayed),
+however,  orders for  Services  to be billed  against a running  order  shall be
+deemed accepted by Lucent if Lucent commences performance thereof.
+
+
+7.      DELIVERY
+
+Lucent will make arrangements for the delivery of Licensed  Materials ordered by
+Licensee  according to the Specifications and intervals included in Appendix B -
+Statement  of Work.  Licensee  will  specify  the  location  for the order to be
+delivered. Delivery will be made according to the standard procedures of Lucent,
+unless otherwise requested by Licensee and agreed to by Lucent in writing.
+
+
+7.1     SPECIAL PACKING AND/OR MARKING
+
+Lucent's  prices include  packing and marking  containers in accordance
+with Lucent's standard  practices for shipment.  When, in order to meet
+Licensee's  written request,  Lucent packs a product and/or is required
+to  mark  shipping  cartons  in  accordance  with  Licensee's   written
+specifications,  such shall be done by Lucent for an additional  charge
+which shall be invoiced to and paid by Licensee in accordance  with the
+terms and conditions of this Agreement; provided that such charges have
+been agreed upon by the Parties in writing.
+
+Lucent shall:
+
+(a)      Render the commercial invoice;
+(b)      Send full set of bill of lading, marked as to who to notify;
+(c)      Render certificate of Origin or Quality;
+
+
+7
+<PAGE>
+
+
+(d)      Enclose Packing List;
+(e)      Mark  containers  in  accordance  with   characteristics   and
+requirements of each container,  in English,  with appropriate
+illustrative marks universal in international trade;
+(f)      Mark each  container  with  carton  number,  contract  number,
+destination,  weights and cubes.  International shipments will
+also be marked with the freight-forward  location and the port
+of destination.
+
+
+7.2     PASSING OF RISK AND TITLE
+
+Title to  Licensed  Materials  shall  not pass to  Licensee,  but shall
+remain  with  Lucent  or its  suppliers,  as the case may be.  Title to
+hardware will pass upon delivery to Licensee's  facility.  Risk of loss
+or damage to Licensed  Materials,  including any media  containing  the
+Licensed  Materials,  or other items  furnished to Licensee  under this
+Agreement  shall  pass to  Licensee  upon  delivery  of  said  Licensed
+Materials or items to an authorized  shipping agent or upon  completion
+of transmission if electronically delivered.
+
+Nothing herein shall, during the period a Party has the risk of loss or
+damage to an item,  relieve the other Party of responsibility  for loss
+or  damage to the item  resulting  from the acts or  omissions  of such
+other Party, its employees or agents.
+
+
+8.     ACCEPTANCE
+
+After Lucent's  installation of the Licensed  Materials,  or any part thereof as
+set forth in Appendix B, Lucent will deliver a Completion Notice to Licensee and
+Licensee will carry out  Acceptance  Tests in  accordance  with the Statement of
+Work,  testing the  compliance of the Licensed  Materials  with the Statement of
+Work  (Appendix  B).  Licensee  will  start the  Acceptance  Tests no later than
+[REDACTED]  days after  Lucent's  installation  of the  Licensed  Materials  and
+receipt of the Completion Notice and complete the Acceptance Tests no later than
+[REDACTED]  days after  Lucent's  installation  of the  Licensed  Materials  and
+receipt of the Completion Notice by Licensee.
+
+Licensed  Materials  will be considered  fully accepted  unless Lucent  receives
+written   notification  to  the  contrary   documenting  the  specific  material
+non-compliance   with  the  Specifications   within  [REDACTED]  after  Lucent's
+installation of such Licensed Materials and Licensee's receipt of the Completion
+Notice. Lucent will promptly correct any material non-compliance for which it is
+responsible  and deliver the modified  Licensed  Material.  Licensee  shall have
+[REDACTED] days from the date of installation of the modified Licensed Materials
+and Licensee's receipt of the Completion Notice to inspect,  test, evaluate said
+modified Licensed Materials to determine whether the modified Licensed Materials
+are materially  compliant with the  Specifications.  Modified Licensed Materials
+will be considered fully accepted unless Lucent receives written notification to
+the  contrary   documenting  the  specific  material   non-compliance  with  the
+Specifications  within  [REDACTED]  days  after  Lucent's  installation  of such
+modified  Licensed  Materials and Licensee's  receipt of the Completion  Notice.
+This process  shall be repeated  until the  Licensed  Materials  are  considered
+accepted per this section.
+
+Notwithstanding  anything in this  Agreement to the contrary,  Licensee's Use of
+any part of the Licensed  Materials for any purpose  other than testing,  or any
+other Use  conducted at Lucent's  direction or under  Lucent's  supervision,  as
+provided  for above or  training,  whether or not  revenue is  generated,  shall
+constitute Acceptance for all relevant purposes of this Agreement, including but
+not limited to, commencement of the applicable warranty period.
+
+
+8
+<PAGE>
+
+
+The costs and expenses of the  Acceptance Tests will be borne by Licensee.  Upon
+request of Licensee,  Lucent will provide  reasonable support to Licensee during
+the Acceptance Tests.
+
+
+8A.      [REDACTED]
+9
+<PAGE>
+
+[REDACTED]
+10
+<PAGE>
+
+
+9.    INVOICES AND TERMS OF PAYMENT
+
+Lucent will forward invoices in Lucent's  standard format or as otherwise agreed
+in writing by the Parties to Licensee upon shipment of the Licensed Materials or
+portion  thereof.  Lucent will forward  invoices for Services upon completion of
+the Services or portion  thereof  described in the invoice or as soon thereafter
+as  practicable.  Licensee will pay said invoices as set out below.  If Licensee
+requires  special  information on the invoice or that it be in a special format,
+then Licensee shall pay Lucent for additional  charges associated with complying
+with Licensee's special needs provided that the charges have been agreed upon by
+the Parties in writing.
+
+Licensee  shall pay each invoice for Licensed  Materials or Third Party Products
+within  [REDACTED]  days from the date of the invoice.  Licensee  shall pay each
+invoice for Services  within the later of (i)  [REDACTED]  days from the date of
+the  invoice  or  (ii)  [REDACTED]  business  days  from  acceptance  or  deemed
+acceptance by Licensee of that portion of the work or the Licensed  Materials to
+which the Services  relate.  Such invoice shall not be subject to withholding or
+reduction  for any  reason,  except as  provided  for in this  clause.  All bank
+charges,  taxes,  levies  and other  costs  which  may be due or  become  due on
+transfers of payments shall be for the account of Licensee.
+
+If Licensee disputes any item contained on the invoice,  then Licensee shall pay
+all undisputed  amounts to Lucent and notify Lucent of the disputed items within
+the [REDACTED]  days of receipt of the invoice.  Upon resolution of the disputed
+amount, which shall occur within [REDACTED] days, Licensee shall pay in full all
+amounts due to Lucent.  If  Licensee  is unable to document a claim  against the
+invoiced item, the original  invoice date plus [REDACTED] days will be the basis
+for calculating late payment penalties set forth below.  Delinquent payments and
+disputed payments where the dispute is resolved in favor of Lucent,  are subject
+to a late  payment  charge  equal to the  lesser of (i)  [REDACTED]  or (ii) the
+maximum amount allowed by law.
+
+If an undisputed  invoice  remains unpaid for  [REDACTED]  days after payment is
+due,  Licensee shall be in default of its obligations  under the Agreement,  and
+Lucent may terminate this Agreement;  PROVIDED,  HOWEVER,  that Lucent will have
+provided  [REDACTED]  Days prior written  notice to Licensee,  and Licensee will
+have failed to pay all monies due,  including late payment charges by the end of
+such  [REDACTED]  Day  period.  If Lucent  elects to  terminate  this  Agreement
+pursuant to this paragraph, Lucent may, without prejudice to any other rights or
+remedies of Lucent in this  Agreement  or at law or in equity  suspend all work,
+and Licensee  shall  return to Lucent (or destroy in  accordance  with  Lucent's
+written  instructions)  such  portion  of  Lucent's  products  and all copies of
+Licensed  Materials  at all Licensee  locations  for which  payment  (including,
+without limitation, license fees) has not been received. Licensee shall bear the
+expense  of removal of  Lucent's  products  and  Licensed  Materials.  All costs
+associated  with restoring  Licensee's  premises to  pre-installation  condition
+shall be the sole responsibility of Licensee.  Licensee shall pay all documented
+damages,  costs and expenses  (including,  without limitation,  reasonable legal
+fees) incurred by Lucent in termination of this Agreement.
+
+
+10.    TAXES & LEVIES
+
+Licensee shall be liable for and shall reimburse  Lucent for all taxes,  duties,
+levies and related  charges  (including  any  interest and  penalties),  however
+designated (excluding taxes on Lucent's net income) imposed upon or arising from
+the provision of Services,  or the transfer,  sale,  license, or use of Licensed
+Materials  or other items  provided  by Lucent.  Taxes  reimbursable  under this
+clause shall be separately listed on the invoice.
+
+
+11
+<PAGE>
+
+
+Lucent shall not collect the otherwise  applicable tax if Licensee's purchase is
+exempt  from  Lucent's  collection  of  such  tax  and  a  valid  tax  exemption
+certificate is furnished by Licensee to Lucent.
+
+Lucent  reserves  the right to claim  United  States  or  foreign  customs  duty
+drawback  on all  sales  pursuant  to this  Agreement.  The  Parties  agrees  to
+cooperate  with each other in this  regard in all  reasonable  ways,  including,
+without   limitation,   providing  proof  of  exportation,   advance  notice  of
+exportation, certificates,  endorsements, or any other documentation or proof as
+may be necessary for Lucent or its Affiliates to receive payment of the drawback
+claims and, if required by the United States Customs  Service or similar entity,
+by making the  Licensed  Materials  available  for  examination  by such Customs
+Service or entity.
+
+
+11.    EXPORT CONTROL
+
+The Parties  acknowledge that any License Materials and Information  (including,
+but not limited to, Services and training)  provided under this Agreement may be
+subject to U.S.  export  laws and  regulations,  and any use or transfer of such
+Licensed  Materials and Information must be authorized under those  regulations.
+Licensee  agrees not to use,  distribute,  transfer,  or transmit  the  Licensed
+Materials or Information (even if incorporated into other products) in violation
+of U.S. export  regulations.  If reasonably  requested by Lucent,  Licensee also
+agrees to sign written assurances and other  export-related  documents as may be
+required for Lucent to comply with U.S.
+export regulations.
+
+
+12.    APPLICABLE LICENSES
+
+Upon delivery of Licensed Materials  pursuant to this Agreement,  and subject to
+Licensee's  payment of the applicable  fees and  compliance  with the applicable
+terms and conditions hereunder, Lucent grants to Licensee a perpetual, personal,
+nontransferable,  and nonexclusive  license with use limitations to Use Licensed
+Materials on the Designated Processors for its own business operations. Licensee
+is  authorized  to Use  Licensed  Materials  within  a  capacity  limitation  to
+interface with such network  elements at such capacity levels within  Licensee's
+network as set forth in the  Statement  of Work.  Licensee  must pay  additional
+license fees prior to exceeding the authorized  capacity  limitation.  Except as
+provided  in the  following  paragraph,  no license is  granted to  Licensee  to
+sublicense  such  Licensed  Materials  furnished by Lucent.  Licensee  shall not
+reverse engineer,  decompile or disassemble Software furnished as object code to
+generate  corresponding  Source  Code.  Unless  otherwise  agreed in  writing by
+Lucent,  Licensee  shall not modify  Software  furnished  by  Lucent  under this
+Agreement  except as provided in the Related  Documentation.  If the  Designated
+Processor becomes temporarily inoperative,  Licensee shall have the right to Use
+the Licensed  Materials  temporarily on a backup processor until operable status
+is restored and processing on the backup processor is completed.
+
+
+12
+<PAGE>
+
+
+Lucent  grants  to  Licensee  a  non-exclusive  and  non-transferable  right  to
+sublicense  the Licensed  Materials  to a  wholly-owned  Subsidiary  on a single
+Designated Processor; provided, however, as follows:
+
+(i)      Such  Subsidiary  is  bound  in  writing  by the  same  terms,
+conditions and  restrictions  as contained in this  Agreement,
+but shall have no right to grant future sublicenses.
+
+(ii)     Licensee shall remain fully liable for the  performance by the
+Subsidiary of all terms of the sublicense.
+
+(iii)    Licensee  shall use best  efforts to enforce  Lucent's  rights
+under such  sublicense  agreement and shall do such things and
+provide  Lucent with such  assistance  as may be necessary for
+Lucent to enforce such rights.
+
+
+12.1     TITLE, RESTRICTIONS AND CONFIDENTIALITY OF LICENSED MATERIALS
+
+All Licensed Materials  (whether or not part of Firmware)  furnished by
+Lucent,   and  all  copies   thereof   made  by   Licensee,   including
+translations,  compilations,  and partial copies are, and shall remain,
+the property of Lucent.  Except for any part of such Licensed Materials
+which is or  becomes  generally  known to the public  through  acts not
+attributable to Licensee,  Licensee shall hold such Licensed  Materials
+in confidence,  and shall not,  without Lucent's prior written consent,
+disclose,  provide,  or otherwise make available,  in whole or in part,
+any Licensed  Materials  to anyone,  except to its  employees  having a
+need-to-know in connection  with licensed Use.  Licensee shall not make
+any copies of any  Licensed  Materials  except as necessary to exercise
+the rights granted hereunder.  Licensee shall reproduce and include any
+Lucent copyright and proprietary notice on all such necessary copies of
+Licensed Materials.  Licensee shall also mark all media containing such
+copies  with  a  warning  that   Licensed   Materials  are  subject  to
+restrictions  contained in an agreement between Lucent and Licensee and
+that they are the property of Lucent.  Licensee shall maintain  records
+of the number and  location  of all copies of  Licensed  Materials.  If
+Licensee's  license is canceled  or  terminated,  or when the  Licensed
+Materials are no longer  needed by Licensee in  Licensee's  discretion,
+Licensee  shall return all copies of such Licensed  Materials to Lucent
+or follow written disposition instructions provided by Lucent.
+
+
+12.2 MODIFICATIONS TO USER CONTROLLED MODULES
+
+Licensee may add to,  delete from, or modify user  controlled  Software
+modules or menus as  contemplated  in the Related  Documentation.  Such
+changes or modifications,  however extensive, shall not affect Lucent's
+title to the Licensed  Materials.  Licensee  shall retain  ownership to
+intellectual property independently developed by Licensee. Lucent shall
+have no  liability  for  Licensee's  errors in making  such  changes or
+modifications.
+
+
+12.3 CHANGES IN LICENSED MATERIALS
+
+Prior to shipment,  Lucent at its option may, upon prior written notice
+to  Licensee  and with  Licensee's  prior  written  consent,  not to be
+unreasonably withheld or delayed, modify the Specifications relating to
+
+
+13
+<PAGE>
+
+
+its Licensed  Materials,  provided the modifications,  under normal and
+proper Use, do not materially  adversely affect the Use,  function,  or
+performance of the ordered Licensed Materials.  Unless otherwise agreed
+in  writing,  such  substitution  shall not  result  in any  additional
+charges to  Licensee  with  respect to  licenses  for which  Lucent has
+quoted fees to Licensee.
+
+
+12.4 OPTIONAL SOFTWARE FEATURES
+
+Software provided to Licensee under this Agreement may contain optional
+features which are separately licensed and priced. Licensee agrees that
+such  optional  features  will not  knowingly  be activated by Licensee
+without  written  authorization  from Lucent and Licensee's  payment of
+appropriate  license fees. If such features are activated  knowingly by
+Licensee,  Licensee  agrees to so  notify  Lucent  promptly  and to pay
+Lucent the  license  fees for the  activated  features,  as well as the
+reasonable  cost of money for the  period in which such  features  were
+activated.  In the  event  that such  features  are  activated  without
+Licensee's  knowledge  in spite of  Licensee's  reasonable  efforts  to
+comply with this restriction,  Licensee agrees to cooperate with Lucent
+to  deactivate  such  features and prevent  future  activation  of such
+features.
+
+
+12.5 RELOCATION OF LICENSED MATERIALS
+
+Upon [REDACTED] days advance written notice, Licensee may move Software
+contained in the Licensed  Materials or optional  feature  packages for
+which  Licensee has the right to Use,  from a Designated  Processor and
+relocate them to another  Designated  Processor within the same company
+as  Licensee.  Unless  otherwise  agreed  by the  parties  in  writing,
+Licensee shall not be required to pay additional right-to-use fees as a
+result of such  relocation,  except  where size  sensitive  units are a
+factor or where use of the  Software  is for a different  purpose  than
+originally specified. Lucent may charge Licensee for Services requested
+by Licensee in support of such  relocation.  Licensee  shall remove all
+copies of the Software from any  processor  from which the Software has
+been  relocated.  To the extent that Lucent  otherwise  consents to the
+relocation  of a Designated  Processor  outside of the United States or
+the United  Kingdom,  Lucent and  Licensee  agree to  negotiate in good
+faith an amendment to the geographic territories covered by Section 15.
+The Parties acknowledge that such an amendment, if agreed, may increase
+costs to Licensee.
+
+
+12.6 CANCELLATION OF LICENSE
+
+Notwithstanding any other clause in this Agreement to the contrary,  if
+Licensee  materially  breaches any of the terms and  conditions of this
+Agreement with respect to the unauthorized  Use, transfer or sublicense
+of Licensed  Materials,  and such  failure  continues beyond [REDACTED]
+days after receipt of written notice thereof by Licensee,  Lucent, upon
+written  notice to  Licensee,  may, in  addition to any other  remedies
+hereunder,  cancel the license  granted  hereunder  for the  applicable
+portion of the Licensed  Materials  affected by the  unauthorized  Use,
+transfer  or  sublicense.  Cancellation  of license  shall not  relieve
+Licensee of its  obligation  to pay all the fees that have  accrued for
+Use of the Licensed Materials.
+
+
+14
+<PAGE>
+
+
+13.      WARRANTY
+
+13.1       [REDACTED]
+
+13.2     YEAR 2000 WARRANTY
+
+(a)      Lucent   represents   and  warrants  that  during  the  period
+beginning  on the  warranty  start  date and for the  Warranty
+
+
+15
+<PAGE>
+
+
+Periods set forth in this  Agreement,  but in no event  ending
+prior to December 31, 2001, the Licensed  Materials  delivered
+by Lucent to Licensee under this Contract will:
+
+(i)      record,  store,  present and process  calendar  dates
+falling  on or  after  January  1,  2000 in the  same
+manner  and  with  the  same  functionality  as  such
+products record,  store, present and process calendar
+dates   failing  on  or  before   December  31,  1999
+(including,  without  limitation,  the recognition of
+the Year 2000 as a leap year); and
+
+(ii)     provide the same  functionality  with  respect to the
+introduction of records  containing  dates falling on
+or after January 1, 2000, as it provides with respect
+to  the  introduction  of  records  containing  dates
+falling on or before  December 31,  1999.  All of the
+foregoing  functionality shall be known as "Year 2000
+Capable."
+
+(b)      Year  2000  CapableLicensed  Materials  that are  intended  to
+interoperate  as  described  in the  Statement of Work will be
+compatible  and  interoperate  in such  manner  as to  process
+between them, as  applicable,  date related data  correctly as
+described in Section (a) above.
+
+(c)      The foregoing  sets forth an additional  warranty for Lucent's
+products and Software.  The failure of the Licensed  Materials
+to meet the foregoing  requirements during the warranty period
+set forth in this  subsection  13.2  entitles  Licensee to the
+remedies set forth elsewhere in this Section 13.
+
+(d)      Other  than as set forth in  Section  13.2(b),  nothing in the
+foregoing  shall be deemed to make Lucent  responsible for the
+Year   2000   capability   of   any   third   party   Software
+interoperating  or  intending  to  operate  with the  Licensed
+Materials.
+
+
+13.3     NO ADDITIONAL WARRANTIES
+
+THE  FOREGOING  WARRANTIES  ARE  EXCLUSIVE AND ARE IN LIEU OF ALL OTHER
+EXPRESS AND IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES
+OF  MERCHANTABILITY  AND FITNESS FOR A PARTICULAR  PURPOSE.  LICENSEE'S
+SOLE AND  EXCLUSIVE  REMEDY  SHALL BE  LUCENT'S  OBLIGATION  TO REPAIR,
+REPLACE,  CREDIT, OR REFUND AS SET FORTH ABOVE.  LICENSEE'S SOLE REMEDY
+FOR  INFRINGEMENT   SHALL  BE  THE  REMEDIES  SET  FORTH  IN  "PATENTS,
+TRADEMARKS & COPYRIGHTS" HEREIN.
+
+
+13.4 POST-WARRANTY SUPPORT
+
+Post-warranty  support  will be  provided on terms and  conditions  and
+subject to such fees as contained in a separate  maintenance  agreement
+attached hereto
+
+
+14.     USE OF INFORMATION
+
+All technical and business  information in whatever form which bears a legend or
+notice  restricting  its use,  copying or  dissemination  or, if not in tangible
+
+
+16
+<PAGE>
+
+
+form,  is  described  as  being  proprietary  or  confidential  at the  time  of
+disclosure and is subsequently  summarized in writing so marked and delivered to
+the receiving Party within thirty (30) days of disclosure to the receiving Party
+(all  hereinafter  designated  "Information")  shall  remain the property of the
+furnishing  Party. All Software shall be deemed to be Information  regardless of
+how labeled.  The furnishing  Party grants the receiving  Party the right to use
+such Information only as follows:  Such Information (a) shall not be  reproduced
+or copied, in whole or part, except for use as authorized in this Agreement; and
+(b) shall,  together  with any full or partial  copies  thereof,  be returned or
+destroyed when no longer needed. Licensee shall use such Information only (a) to
+order, (b) to evaluate the Licensed Materials,  or other items, or Services,  or
+(c) to install,  operate,  and maintain the particular  Licensed  Materials,  or
+other items for which it was originally  furnished.  Unless the furnishing Party
+consents in writing,  such  Information,  except for that part, if any, which is
+known to the receiving Party to be free of any confidential obligation, or which
+becomes  generally  known to the public  through  acts not  attributable  to the
+receiving  Party,  shall  be held in  confidence  by the  receiving  Party.  The
+receiving  Party  may  disclose  such  Information  to other  persons,  upon the
+furnishing Party's prior written authorization,  but solely to enable such third
+party to perform acts which this clause expressly authorizes the receiving Party
+to perform  itself and further  provided  such other person agrees in writing (a
+copy of which writing will be provided to the  furnishing  Party at its request)
+to the same  conditions  respecting use of Information  contained in this clause
+and to any other reasonable conditions requested by the furnishing Party.
+
+
+15.     PATENTS, TRADEMARKS & COPYRIGHTS
+
+In the event of any claim,  action,  proceeding or suit by a third party against
+Licensee alleging an infringement of any United States or United Kingdom patent,
+copyright,  or trademark,  or a violation in the United States or United Kingdom
+of any trade secret or  proprietary  rights by reason of the use, in  accordance
+with Lucent's or other applicable specifications,  any of the Licensed Materials
+or other item furnished by Lucent to Licensee under this Agreement,  Lucent,  at
+its expense,  will defend  Licensee,  subject to the  conditions  and exceptions
+stated  below.  Lucent will  reimburse  Licensee  for any  losses,  liabilities,
+claims,  actions,  cost, expense or attorney's fee, incurred at Lucent's written
+request or  authorization,  and will  indemnify  Licensee  against any liability
+assessed against  Licensee by final judgment on account of such  infringement or
+violation arising out of such use.
+
+If Licensee's use shall be enjoined or in Lucent's  reasonable opinion is likely
+to be  enjoined,  Lucent  will,  at its expense  and at its  option,  either (a)
+replace the affected  portion of the Licensed  Materials or other item furnished
+pursuant to this Agreement with a suitable  substitute free of any  infringement
+or  violation,  (b)  modify  it so that it will be free of the  infringement  or
+violation,  or (c) procure  for  Licensee a license or other right to use it. If
+none of the foregoing  options is  practical,  Lucent will give Licensee as much
+notice  as  possible  and then  remove  the  enjoined  portion  of the  Licensed
+Materials  or other  item,  or in the event  that  removal  of a portion  is not
+commercially reasonable, such greater portion of the Licensed Materials or items
+that is  commercially  reasonable,  and refund to Licensee a PRO RATA portion of
+the license right to use fees paid to Lucent under this  Agreement  equal to the
+remaining  useful  life of the  Licensed  Materials,  which  useful life will be
+deemed to be ten (10) years from the date of delivery of the Licensed Materials.
+
+Licensee shall give Lucent prompt  written  notice of all such claims,  actions,
+proceedings  or suits alleging  infringement  or violation and Lucent shall have
+full and  complete  authority  to assume  the sole  defense  thereof,  including
+appeals,  and to settle  same.  Licensee  shall,  upon  Lucent's  request and at
+Lucent's expense, furnish  all necessary information and assistance available to
+Licensee and cooperate in every  reasonable way to facilitate the defense and/or
+
+
+17
+<PAGE>
+
+
+settlement of any such claim, action, proceeding or suit at Lucent's expense. If
+Lucent  fails or refuses to provide  the defense of Licensee as required by this
+Section 15,  Licensee  shall be entitled to proceed  with its own defense at the
+expense  of  Lucent.  Lucent  shall be  entitled  to  proceed  with a defense of
+Licensee with a reservation of rights.
+
+No  undertaking  of Lucent under this  section  shall extend to any such alleged
+infringement  or violation  to the extent that it: (a) arises from  adherence to
+design modifications,  specifications, drawings, or express written instructions
+which  Lucent is  expressly  directed by  Licensee  to follow,  but only if such
+alleged  infringement or violation does not reside in  corresponding  commercial
+Licensed Material of Lucent's design or selection;  or (b) arises from adherence
+to  instructions  to apply  Licensee's  trademark,  trade name, or other company
+identification;  or (c) resides in a Licensed  Material which is not of Lucent's
+origin  and  which is  furnished  by  Licensee  to  Lucent  for use  under  this
+Agreement;  or (d) relates to use of Licensed  Materials or other items provided
+by Lucent in  combinations  with other  products,  Licensed  Materials  or other
+items,  furnished  either  by  Lucent  or  others,  which  combination  was  not
+installed, recommended or otherwise approved by Lucent.
+
+THE  LIABILITY  OF LUCENT  AND  LICENSEE  WITH  RESPECT  TO ANY AND ALL  CLAIMS,
+ACTIONS,  PROCEEDINGS,  OR SUITS  BY  THIRD  PARTIES  ALLEGING  INFRINGEMENT  OF
+PATENTS,  TRADEMARKS, OR COPYRIGHTS OR VIOLATION OF TRADE SECRETS OR PROPRIETARY
+RIGHTS BECAUSE OF, OR IN CONNECTION  WITH, ANY ITEMS FURNISHED  PURSUANT TO THIS
+AGREEMENT  SHALL BE  LIMITED TO THE  SPECIFIC  UNDERTAKINGS  CONTAINED  IN  THIS
+SECTION.
+
+16.      LIMITATIONS OF LIABILITY
+
+[REDACTED]
+
+18
+<PAGE>
+
+
+17.     FORCE MAJEURE
+
+Neither Party shall be liable to the other Party for any loss, damage,  delay or
+failure of performance  resulting directly or indirectly from any cause which is
+beyond its  reasonable  control,  including,  but not  limited to the  elements;
+extraordinary  traffic conditions;  riots; civil  disturbances;  wars; states of
+belligerency  or  acts  of the  public  enemy;  labor  disputes;  strikes;  work
+stoppages;   inability  to  secure  raw  materials,  product  or  transportation
+facilities; or the laws, regulations, acts or failure to act of any governmental
+authority,  including  but not  limited  to  denial  of a U.S.  Export  License,
+hereinafter  referred to as "Force  Majeure".  A Party shall promptly notify the
+other Party of the  occurrence of a Force Majeure event and the notifying  Party
+shall be excused from any further  performance of these obligations  affected by
+the Force Majeure  Event for as long as such Force  Majeure Event  continues and
+such Party uses and continues to use its best efforts to recommence performance.
+Failure of a Party to perform under this Agreement because of the endurance of a
+Force Majeure event for more than thirty (30) days will represent grounds by the
+other Party to  terminate  the portion of this  Agreement  affected by the Force
+Majeure event.
+
+
+18.      INDEPENDENT CONTRACTOR
+
+All work  performed by one Party under this  Agreement  shall be performed as an
+independent  contractor and not as an agent of the other and neither Party shall
+be, nor represent itself to be, the employee, agent, representative,  partner or
+joint  venture of the other.  Neither Party shall have the right or authority to
+assume or create  an  obligation  on behalf of or in the name of the other or to
+otherwise act on behalf of the other.  The performing Party shall be responsible
+for its employees' and agents'  compliance with all applicable laws,  rules, and
+regulations while performing work under this Agreement.
+
+
+19.     ASSIGNMENT
+
+Except as provided in this Agreement,  neither Party shall assign this Agreement
+or any  right  or  interest  under  this  Agreement,  nor  delegate  any work or
+
+
+19
+<PAGE>
+
+
+obligation to be performed under this Agreement,  (an "assignment")  without the
+other Party's prior written consent.  Notwithstanding the foregoing,  Lucent may
+assign or delegate any portion of this  Agreement that relates to work performed
+in the European Union to an affiliate  entity  domiciled in the European  Union;
+provided,  however,  that Lucent shall remain responsible for the performance by
+the assignee of such obligations.  Nothing shall preclude a Party from employing
+a  subcontractor  in carrying out its obligations  under this  Agreement,  but a
+Party's  use of  such  subcontractor  shall  not  release  the  Party  from  its
+obligations under this Agreement.
+
+20.     NON-WAIVER
+
+No waiver of the terms and  conditions  of this  Agreement,  or the  failure  of
+either Party to strictly  enforce any term or condition of this Agreement on one
+or more  occasions  shall be  construed  as a waiver of the same or of any other
+term or condition of this Agreement on any other occasion.
+
+
+21.     SEVERABILITY
+
+If any provision in this Agreement, or any portion thereof, is subsequently held
+to be invalid or unenforceable under any applicable statute or rule of law, then
+that provision or portion  notwithstanding,  this Agreement shall remain in full
+force and effect and such  provision or portion shall be deemed omitted and this
+Agreement  shall be construed as if such invalid or  unenforceable  provision or
+portion had not been contained herein.
+
+22.     SETTLEMENT OF DISPUTES
+
+Senior  Management of either Party may, upon notice of a dispute and within five
+(5)  business  days of receipt of such a notice  from the other  Party  elect to
+utilize a non-binding resolution procedure whereby each presents its case before
+a panel consisting of two senior  executives of each of the Parties and, if such
+executives  can agree upon such an  individual,  a mutually  acceptable  neutral
+advisor.  If a Party elects to use the procedure  set forth in this clause,  the
+other Party shall participate.  The hearing shall occur no more than 10 business
+days after a Party serves  notice to use the procedure set forth in this clause.
+If the matter cannot be resolved by such senior executives, the neutral advisor,
+if one has been agreed upon,  may be asked to assist such senior  executives  in
+evaluating the strengths and  weaknesses of each Party's  position on the merits
+of their dispute. The Parties shall each bear their respective costs incurred in
+connection  with the procedure set forth in this clause,  except that they shall
+share equally the fees and expenses of the neutral advisor, if any, and the cost
+of the facility for the hearing.
+
+If a dispute is not  resolved as set forth above,  then either  Party may,  upon
+notice  to the other  Party,  submit  the  dispute  to  binding  arbitration  in
+accordance with the following:
+
+(a)      The arbitration  shall be held in New York City before a panel
+of three  arbitrators.  Either  Party may,  upon notice to the
+other Party,  demand arbitration by serving on the other Party
+a statement of the dispute,  the facts relating or giving rise
+to such dispute and the name of the arbitrator selected by it.
+Issues of arbitration shall be decided by the arbitrators.
+
+(b)      Within five (5) days after  receipt of such notice,  the other
+Party shall name its arbitrator, and the two arbitrators named
+by the Parties shall,  within five (5) days  after the date of
+such notice, select the third arbitrator.
+
+(c)      The   arbitration   shall  be  administered  by  the  American
+Arbitration  Association  and be  governed  by the  Commercial
+
+
+20
+<PAGE>
+
+
+Arbitration Rules of the American Arbitration Association,  as
+may be amended from time to time, except as expressly provided
+in this clause. The arbitrators may not amend or disregard any
+provision of this clause.
+
+(d)      Discovery shall only be allowed as ordered by the arbitrators.
+The  arbitrators  shall allow such discovery as is appropriate
+to the purposes of arbitration in accomplishing a fair, speedy
+and  cost-effective  resolution of disputes.  The  arbitrators
+shall  reference the rules of evidence of the Federal Rules of
+Civil  Procedure  then in  effect  in  setting  the  scope and
+direction  of such  discovery,  but shall  afford  substantial
+weight  to  the   burden   of   discovery   in   making   such
+determinations.
+
+(e)      The decision and award  rendered by the  arbitrators  shall be
+binding  on  the  Parties.   The  arbitrators  shall  have  no
+authority to award  punitive or exemplary  damages or to award
+damages in excess or in contravention of the Agreement.
+
+(f)      The  arbitration  shall  be  governed  by  the  United  States
+Arbitration  Act.  The  award  shall be made  within  four (4)
+months of the  appointment  of the  arbitrator and judgment on
+the award may be entered by any court having jurisdiction.
+
+(g)      The costs of the arbitration proceedings conducted pursuant to
+this  clause  shall  be paid by the  Party  designated  by the
+arbitrators.
+
+
+23.      TERMINATION; SURVIVAL OF OBLIGATIONS
+
+In the event that either Party is in material  breach or default of the terms of
+this Agreement and such breach or default  continues for a period of thirty (30)
+days after receipt of written notice from the other Party, then the Party not in
+breach or default shall have the right to terminate this  Agreement  without any
+charge , obligation or liability except for (i) charges to Licensee for Software
+Products  already  delivered and accepted or deemed accepted and (ii) charges to
+Licensee for Services already performed.  Notwithstanding the foregoing,  if the
+non-breaching party is Licensee,  Licensee may, at its option and in addition to
+the remedies provided in Section 8A , return all Software Products to Lucent and
+receive a refund from  Lucent for the amounts  paid to Lucent in clauses (i) and
+(ii) above. The Party not in breach or default shall provide full cooperation to
+the other party in every  reasonable  way to facilitate the remedy of the breach
+or default  hereunder  within the applicable  cure period.  Notwithstanding  the
+foregoing,  if the nature of the  material  breach or default is such that it is
+not a  payment  obligation  (other  than  failure  to  comply  with the  license
+restrictions  contained herein) and it is incapable of cure within the foregoing
+thirty (30) day period, then the thirty (30) day cure period may be extended for
+a  reasonable  period of time (in no event to exceed an  additional  thirty (30)
+days), provided that the Party in breach or default is proceeding diligently and
+in good faith to effectuate a cure.
+
+The Parties  agree,  in good faith to negotiate  and  finalize  the  maintenance
+agreement  (the  "Maintenance  Agreement"),  as  referred  to in the letter from
+Lucent dated  October 21, 1998,  within a period of fifteen (15)  business  days
+following the Effective  Date.  The  Maintenance  Agreement will be based on the
+pricing and other  principles as stated in the above referred to letter.  In the
+event no  agreement  is  reached  within  said  time  frame  with  respect  to a
+maintenance agreement, either party will have the right to immediately terminate
+this Agreement with no additional obligations.
+
+The Parties'  rights and  obligations  which,  by their nature,  would  continue
+beyond the termination, cancellation, or expiration of this Agreement, including
+
+
+21
+<PAGE>
+
+
+but not  limited to, the  obligations  in the clauses  entitled  Limitations  of
+Liability,  Patents, Trademarks and Copyrights, Use of Information,  Publication
+of Agreement, and Export Control, shall survive such termination,  cancellation,
+or expiration.
+
+
+24.     GOVERNING LAW
+
+Except as required by local law in any jurisdiction outside of the United States
+and as expressly  agreed to in writing by the Parties,  this  Agreement  and the
+rights and obligations of the Parties under this Agreement shall be construed in
+accordance  with and be  governed  by the laws of the State of New York  without
+giving effect to the principles therein relating to the conflicts of law.
+
+
+25.      NOTICES
+
+All notices,  requests,  approvals and other communications ("Notices") required
+or allowed under this  Agreement  shall be in writing and addressed as set forth
+below or to such other person  and/or  address as either Party may  designate by
+written Notice pursuant hereto.  Such Notices shall be deemed to have been given
+when received.  Notices may be delivered by hand or sent by prepaid certified or
+registered  airmail,  confirmed facsimile or electronic mail, provided a copy is
+also forwarded by prepaid registered airmail.
+
+Lucent: Lucent Technologies Inc.
+Global Commercial Markets
+5440 Millstream Road, E3N32
+McCleansville, North Carolina 27301
+
+
+Attention:  Contract Manager
+
+
+Licensee:         Viatel, Inc.
+800 Third Avenue, 18th Floor
+New York, New York 10022
+
+Attention:  General Counsel
+
+
+26.     ENTIRE AGREEMENT
+
+This Agreement,  which includes any exhibits or attachments  hereto,  represents
+the  entire  Agreement  and  understanding  between  the  Parties  and all prior
+discussions and arrangements  between the Parties,  whether oral or written, are
+merged   into  this   Agreement   and   there  are  no  other   representations,
+understandings,  arrangements  or  agreements  between  the  Parties,  except as
+expressly  set forth  herein.  Neither  Party shall be bound by any  conditions,
+definitions, warranties,  understandings, or representations with respect to the
+subject matter hereof other than as expressly provided in this Agreement.
+
+This  Agreement  may be  modified  only  by  written  amendment  and  signed  by
+authorized  representatives  of the  Parties.  No course of  dealing or usage of
+trade shall be invoked to modify the terms or conditions of the Agreement.
+
+
+22
+<PAGE>
+
+
+27.    COUNTERPARTS
+
+This Agreement may be executed in one or more counterparts,  each of which shall
+be deemed an original,  but all of which together  shall  constitute one and the
+same instrument.
+
+
+LUCENT TECHNOLOGIES INC.                                    VIATEL, INC.
+
+By: /s/(SIGNATURE ILLEGIBLE)             By: /s/(SIGNATURE ILLEGIBLE)
+Name:______________________________      Name:__________________________________
+
+Title:_____________________________      Title:_________________________________
+
+Date:______________________________      Date:__________________________________
+
+
+23
+<PAGE>
+
+
+LUCENT TECHNOLOGIES
+Bell Labs Innovations
+
+
+
+Angela R. Pinette                                        Lucent Technologies
+Sales Engineering Director                               1600 Osgood Street
+Communication Software Business Unit                     Room 20-3S3
+North Andover, MA 01845
+
+
+October 21, 1998
+
+Dear Frank,
+
+This letter refers to our discussions of last Friday  (98/10/16) with respect to
+changes to the scope of work of our project,  and is intended to synchronize our
+presently negotiated SOW (Version 3.0 DRAFT 3) to the total price of the project
+and the license agreement we are currently negotiating.  Secondly, we also refer
+to the  discussions of last Friday  regarding  VIATEL's  request for maintenance
+services. Thirdly, we would like to bring up a subject not previously discussed,
+which is a recent  change to the number of switches in your  described  network,
+that is now  included  in the  above  referenced  SOW and for which you have not
+approved pricing.
+
+
+[REDACTED]
+
+
+1
+<PAGE>
+
+
+Definition of 'no-breakage' support:
+No-breakage support means:
+a)       During the term of this maintenance agreement Lucent agrees to maintain
+the compatibility  between the Software on the one hand, and the NORTEL
+DMS systems  100E,  250/300,  and GSP on the other hand,  provided that
+VIATEL  has  made   available  to  Lucent  well  in  advance  all  such
+information (which may include Proprietary Information), subject to the
+use and  disclosure  restrictions  of  this  Agreement,  as  reasonably
+required to establish such compatibility.
+b)       If VIATEL determines,  upon analysis  undertaken,  that there have been
+any changes to its NORTEL DMS systems 100E, 250, 300, and GSP installed
+in its network that would  affect the  compatibility  or the  operating
+ability with Lucent's product or successor  product,  then VIATEL shall
+promptly  provide to Lucent  the  information  necessary  for Lucent to
+update the compatibility of its products or successor products.
+c)       Compatibility  as  referred  to in sub a) and  sub b)  means  that  the
+functionality  of  Lucent  products  will  not  be  affected.  However,
+compatibility does not mean, and Lucent does not warrant,  that the new
+functionality  of the new  generic  release of the NORTEL DMS  software
+will work in conjunction with and is supported by the Lucent product.
+
+[REDACTED]
+
+Please provide us with written confirmation on acceptance of this letter.
+
+Sincerely
+
+Angela R. Pinette
+
+
+2
+
+<PAGE>
+
+APPENDIX A
+
+
+Contract Price List                                                     98/10/22
+
+VIATEL SERVICE & NETWORK OPERATIONS CENTER PROJECT
+COMMUNICATION SOFTWARE PRICES
+[REDACTED]
+
+
+
+
+APPENDIX B
+
+
+[REDACTED]
+
+
+
+
+
+
+
+
+
+
+
+

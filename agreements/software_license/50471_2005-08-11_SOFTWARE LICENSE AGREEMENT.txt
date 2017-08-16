@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+PARK CITY GROUP, INC.                                   CANNON EQUIPMENT COMPANY
+P.O. BOX 5000                                           15100 BUSINESS PARKWAY
+PARK CITY, UTAH 84060                                   ROSEMOUNT, MN 55068
+ATTN:  RANDALL K. FIELDS                                ATTN:
+
+========================================================  ======================
+Software                                 License Fee
+Supply Chain Profit Link, as described in Exhibit 1,
+including an unlimited number of locations
+========================================================  ======================
+Total License Fee Amount Due                            $3,000,000.00
+========================================================  ======================
+
+We grant, and you accept, a perpetual, non-exclusive and non-transferable
+license for you and your affiliates to use the Software listed above, subject to
+all the terms of this License.
+
+While such license does not include the right to transfer or sublicense (other
+than to your affiliates), we acknowledge and agree that you may utilize the
+Software in support of store layout design, collation and dissemination of
+retail sales intelligence, design and manufacture of display systems and other
+product and services businesses, and that such utilization will include, among
+other matters, making the results that are produced from using the Software
+available to retailers and brand-owners in order to measure the efficacy of the
+products and services provided by or through you or your affiliates to any such
+retailer and brand-owner. The Total Amount Due is payable upon delivery of the
+Software and execution of a software escrow agreement for your benefit with a
+third party escrow agent reasonably satisfactory to you (the "Effective Date").
+
+Maintenance service commences after expiration of the limited warranty service
+period of ninety (90) days. The cost for maintenance for the first nine (9)
+months of maintenance following the limited warranty period is included in the
+Total License Fee Amount. Maintenance of the Software shall continue thereafter
+annually unless and until terminated by you on not less than thirty (30) days
+prior written notice to us. The cost of maintenance is calculated as 18% of the
+then current license fee for the applications included in this agreement for the
+first year following the initial nine (9) month period payable at the beginning
+of the maintenance period for which payment is made. For all subsequent years
+for which maintenance services may be contracted the maintenance fee may be
+increased annually to reflect the change in the Consumer Price Index. If you
+elect to cancel and later wish to resume maintenance services, you will, as a
+condition of maintenance resumption, pay us all maintenance fees that would have
+been due from the date of cancellation to the date of resumption, as if you had
+not cancelled maintenance services. With respect to maintenance services, you
+will reimburse us for all charges that we incur in computer-to-computer
+communications and for travel, accommodations and other reasonable out-of-pocket
+expenses for such services performed outside of Park City, Utah with your
+consent, which may not be unreasonably withheld. Any additional services or
+other offerings from Park City Group for the benefit of Customer will be covered
+under separate agreement(s).
+
+The Software is licensed, not sold.
+
+Licensee:                                      Licensor:
+CANNON EQUIPMENT COMPANY                       PARK CITY GROUP, INC.
+
+
+By:____________________________________        By:______________________________
+Name:__________________________________        Name:____________________________
+Title:_________________________________        Title:___________________________
+Date:__________________________________        Date:____________________________
+
+<PAGE>
+
+General License Terms and Limited Warranty
+
+1. DEFINITIONS
+
+1.1 "Software" means the application software (in object code form)
+listed on the front hereof, and all corrections, updates , modifications and
+replacement versions or products to such software that we provide to you.
+
+1.2 "Documentation" means specifications, users manuals and other
+documentation supplied by us with the Software, and all updates that we provide
+to you.
+
+1.3 "Product" means the Software and the Documentation, and also
+includes any hardware or software devices used to enable execution of the
+Software.
+
+2. LICENSE
+
+2.1 What You Are Entitled To Do. You and your affiliates may (a) copy
+and use the Software on any number of computers, servers and terminals,
+including networked and multi-user computers and terminals, with any number of
+your clients, and on your host computers and communications servers; (b) copy
+the Documentation for use with the Software; (c) use the Product only in your
+business and/or that of your affiliates, including use of the Software in
+support of store layout design, collation and dissemination of retail sales
+intelligence, design and manufacture of display systems and other product and
+services businesses, and that such utilization will include, among other
+matters, making the results that are produced from using the Software available
+to retailers and brand-owners in order to measure the efficacy of the products
+and services provided by or through you or your affiliates to any such retailer
+and brand-owner and (d) make backup and archival copies of the Software. You may
+transfer the Software between computers. You must maintain a record of all
+copies made of the Product, and permit us to verify the locations and computers
+on which the Software is installed.
+
+2.2 What You Are Not Entitled To Do. You will not (a) install the
+Software on your client's computers; (b) assign, license or voluntarily
+transfer, whether by operation of law or otherwise, your rights hereunder; (c)
+loan, rent, lease or sublicense the Product; (d) use the Software to perform
+services for others other than as specified in paragraph 2.1(c); (e) decompile,
+disassemble or otherwise reverse engineer the Software; (f) modify, translate or
+create derivative works of the Product unless you are then entitled to
+possession of the source code for the Software; or (g) remove any copyright or
+other proprietary designations from the Product.
+
+2.3 Third Party Product. If the Software incorporates other software
+licensed to us ("Third Party Software"), we grant to you a non-exclusive,
+non-transferable and non-assignable sublicense to use such Third Party Software.
+The operation of the Software does not require you to have rights to other
+software not licensed to us except for Windows, Terminal Services, Oracle or SQL
+Database.
+
+3. SELECTION AND USE
+
+You are solely responsible for the Software's selection, and unless we
+are hosting it for you also its installation, operation and proper use
+(including its conformity as implemented to local laws), verifying data input,
+output and results obtained, making back-ups, and providing data files or tables
+for the operation of the Software.
+
+<PAGE>
+
+4. PROPRIETARY RIGHTS
+
+We have copyrights in the Product, and patents or patents pending in
+portions of the Product, and retain all intellectual property rights in
+inventions, applications and other works of authorship prepared or derived using
+the Product, excluding your proprietary business information, materials, trade
+marks and forms reproduced in your implementation of the Product. The Product
+contains trade secrets and information proprietary to us. In addition, you may
+learn other information, which we designate as, or from its nature or the
+circumstances of its disclosure should have been known to be, confidential or
+proprietary to us. Unless compelled by legal process, you may not use, disclose,
+provide or otherwise make the Product or any such information (including the
+terms of this License) available to any person other than your employees with a
+need to know, persons retained for its installation, your agents, consultants
+and customers bound by confidentiality covenants consistent with your
+confidentiality obligations hereunder, and will ensure that any access to the
+Product or such information will comply with this License. The foregoing
+obligations shall not apply to information which: (i) is publicly available
+prior to the date of this agreement; (ii) becomes publicly available after the
+date of this agreement through no wrongful act of the Receiving Party; (iii) is
+furnished to others by the Disclosing Party without any proprietary restrictions
+on their right to use or disclose; (iv) is known by the Receiving Party without
+any proprietary restrictions at the time of receipt of such information from the
+Disclosing Party or becomes rightfully known to the receiving Party without
+proprietary restrictions from a source other than the Disclosing Party; or (v)
+is independently developed by the Receiving Party by persons who did not have
+access, directly or indirectly, to the Proprietary Information.
+
+You also have copyrights in your products, and/or patents or patents
+pending in your products, and we acknowledge and agree that you retain all
+intellectual property rights in inventions, applications and other works of
+authorship prepared or derived using your products, excluding our proprietary
+business information, materials, trade marks and forms reproduced in your
+implementation of the Product. In the course of our relationship we may learn
+other information, which you designate as, or from its nature or the
+circumstances of its disclosure should have been known to be, confidential or
+proprietary to you. Unless compelled by legal process, we will not use,
+disclose, provide or otherwise make any such information (including the terms of
+this License) available to any person other than our employees with a need to
+know, persons retained for its installation, our agents, and consultants bound
+by confidentiality covenants consistent with our confidentiality obligations
+hereunder, and will ensure that any access to your products or such information
+will comply with this paragraph. The foregoing obligations shall not apply to
+information which: (i) is publicly available prior to the date of this
+agreement; (ii) becomes publicly available after the date of this agreement
+through no wrongful act of the Receiving Party; (iii) is furnished to others by
+the Disclosing Party without any proprietary restrictions on their right to use
+or disclose; (iv) is known by the Receiving Party without any proprietary
+restrictions at the time of receipt of such information from the Disclosing
+Party or becomes rightfully known to the receiving Party without proprietary
+restrictions from a source other than the Disclosing Party; or (v) is
+independently developed by the Receiving Party by persons who did not have
+access, directly or indirectly, to the Proprietary Information.
+
+<PAGE>
+
+5. LIMITED WARRANTY
+
+5.1 What Our Limited Warranty Covers. We warrant that the Software
+delivered to you will conform in all material respects to specifications
+contained in the Documentation, to the description thereof set forth in Exhibit
+1 hereto, to the version of the Software previously delivered to you and to the
+most recent version of the Software on the date of delivery, will be free of
+computer viruses and will be free from "material" defects, for a period of
+ninety (90) days after delivery. During the warranty period, and thereafter so
+long as you subscribe and pay for our maintenance services, we will (a) provide
+you with hot line telephone support from 9:00 a.m. to 5:00 p.m. MST, on regular
+business days, excluding our holidays; (b) provide you with corrections, updates
+and other modifications that we develop and make available to our maintenance
+customers without additional charge; and (c) provide, as soon as is reasonably
+practicable, an avoidance procedure for or correction to any breach of the
+foregoing warranty. For such purpose, a defect is "material" if it causes
+execution of the Software to terminate abnormally, produces misleading or
+incorrect results, does not perform a function described in the Documentation,
+or impairs data integrity. If we are unable after reasonable efforts to provide
+an avoidance procedure or correction curing such breach, you may (i) during the
+limited warranty period, terminate your license of the defective Software module
+or, (ii) during any maintenance period, terminate your license and our
+maintenance services for the defective Software module. EXCEPT FOR ANY REMEDIES
+THAT MAY BE AVAILABLE TO YOU UNDER THE SOFTWARE ESCROW AGREEMENT, THE PROVISIONS
+OF THIS SECTION 5.1 SET FORTH OUR ENTIRE LIABILITY AND YOUR SOLE REMEDIES WITH
+RESPECT TO OUR WARRANTY AND MAINTENANCE SERVICES. Services are available only
+for the most current and the immediately preceding version or edition of the
+Software. You will provide us with a personal computer or workstation identical
+to and configured exactly like the personal computers or workstations on which
+you have installed the Software (we will return the computer or workstation when
+our maintenance services end). Either of us may terminate maintenance services
+at the end of the current period on 30 days prior notice.
+
+5.2 What Our Limited Warranty Does Not Cover. We do not warrant
+uninterrupted or error-free operation, compatibility with hardware or software
+not specified in the documentation, or anything concerning Third Party Software.
+Our warranty will terminate (a) if the Software is not installed, operated and
+maintained in accordance with instructions and specifications contained in the
+Documentation or is modified in a manner not authorized by us, (b) if
+corrections, updates and modifications supplied by us are not implemented or (c)
+if you do not reasonably cooperate with us so that we can fulfill our
+responsibilities hereunder.
+
+5.3 NO OTHER WARRANTIES. THE ABOVE WARRANTY IS MADE IN LIEU OF, AND WE
+DISCLAIM, ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, IMPLIED WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+6. PATENTS AND COPYRIGHTS
+
+We will defend you against claims that the Software or any portion
+thereof infringes a U.S. patent or copyright, and pay (a) all costs, damages and
+attorney's fees finally awarded against you as a result of such claim, and (b)
+any settlement of such claim, provided that you notify us promptly in writing of
+such claim, give us complete authority and control of, and fully cooperate with
+us in, the defense and settlement of such claim. If any such claim occurs, or in
+our sole opinion is likely to occur, we will in our sole discretion and at our
+own expense (i) procure for you the right to continue use of the infringing
+Software, (ii) modify or replace the Software so that it becomes non-infringing,
+without impairing its functionality, or (iii) direct you to cease using the
+infringing Software. If we direct you to cease use, or if we cannot provide a
+
+<PAGE>
+
+right to continue use, or a replacement or modification, of the infringing
+Software, we will refund your license fee for the infringing Software or
+infringing portion thereof, less a charge for use based on straight-line
+amortization of such fee over five (5) years. We have no liability or obligation
+for claims based on (A) modifications not authorized or supplied by us, (B) the
+combination of the Software with other software or hardware not specified in the
+Documentation, (C) infringement by Third Party Software alone, rather than in
+combination with the Software, (D) claims that could have been avoided by timely
+implementation of corrections, updates and modifications provided by us and (E)
+any settlement made by you without our consent. THIS SECTION 6 STATES OUR ENTIRE
+OBLIGATION FOR INFRINGEMENT CLAIMS.
+
+7. MAXIMUM AGGREGATE LIABILITY. IN NO EVENT WILL OUR TOTAL LIABILITY FROM ALL
+CAUSES OF ACTION OF ANY KIND RELATED TO THIS LICENSE, INCLUDING TORT, CONTRACT,
+NEGLIGENCE AND STRICT LIABILITY, EXCEED THE TOTAL AMOUNT PAID BY YOU TO US.
+
+8. EXCLUSION OF CERTAIN DAMAGES. REGARDLESS WHETHER ANY REMEDY SET FORTH HEREIN
+FAILS OF ITS ESSENTIAL PURPOSE OR OTHERWISE, IN NO EVENT WILL WE BE LIABLE FOR
+ANY LOST PROFITS OR DATA, OR ANY FORM OF SPECIAL, INCIDENTAL, INDIRECT,
+CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, EVEN IF WE KNEW OR HAD REASON TO
+KNOW IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. NO RIGHT OF TERMINATION; REMEDIES
+
+This License is non-terminable, without prejudice to the right of each
+party to sue the other for breach of contract and recover damages.
+
+10. GENERAL
+
+10.1 Attorney's Fees. The prevailing party in any legal action
+concerning this License is entitled to recover its reasonable attorney's fees
+and costs following a final judgment.
+
+10.2 Construction; Headings. Section headings are for convenience and
+will not affect the construction or interpretation of any provisions of this
+License.
+
+10.3 Entire Agreement. This License contains our entire agreement, and
+may be modified only by a signed written document. THIS LICENSE MAY NOT BE
+CONTRADICTED BY EVIDENCE OF ANY ALLEGED ORAL AGREEMENT. ALL PRIOR ORAL
+DISCUSSIONS ARE MERGED IN THIS LICENSE. No course of dealing or failure or delay
+in exercising any right, privilege, remedy or option will operate as a waiver of
+any right, privilege, remedy or option under this License.
+
+10.4 Announcement. We reserve the right to publish public notification
+of a contractual agreement between the parties and that we will not disclose the
+specific terms and conditions of the agreement.
+
+10.5 Export. The Software is subject to restrictions and controls
+imposed under U.S. export laws. You certify that neither the Software nor any
+direct product thereof is being or will be exported or re-exported, directly or
+indirectly, to any country for which a validated license is required under such
+laws without first obtaining such a validated license.
+
+10.6 Excusable Delays. We are not liable for delays in or failure of
+performance due to causes beyond our reasonable control.
+
+10.7 Governing Law. This License is governed by the laws of Utah,
+excluding laws pertaining to choice of law. Any provision found to be
+unenforceable or invalid will be severable and will not affect the
+enforceability or validity of the other provisions to the maximum extent
+permissible.
+

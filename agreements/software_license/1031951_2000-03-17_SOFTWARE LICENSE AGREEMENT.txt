@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.37
+
+SOFTWARE LICENSE AGREEMENT
+
+
+THIS SOFTWARE LICENSE AGREEMENT (the "Agreement") is entered into as of
+December 10, 1999 (the "Effective Date"), by and between Rhythms Links, Inc. a
+company duly organized and existing under the laws of the State of Delaware
+("Customer"), and COPPER MOUNTAIN NETWORKS, INC., a company duly organized and
+existing under the laws of the State of Delaware ("Copper Mountain").
+
+RECITALS
+
+WHEREAS, concurrently with the execution of this Agreement, Customer
+and Copper Mountain are entering into an Equipment Purchase Agreement (the
+"Equipment Purchase Agreement") pursuant to which Customer is purchasing from
+Copper Mountain a Digital Subscriber Line ("DSL") networking system and
+subscriber equipment;
+
+WHEREAS, the DSL networking Equipment and Subscriber Equipment contains
+software in executable code; and
+
+WHEREAS, Copper Mountain desires to furnish such software to Customer,
+and Customer desires to receive such software from Copper Mountain, on the terms
+and conditions set forth in this Agreement.
+
+NOW, THEREFORE, Copper Mountain and Customer agree as follows:
+
+AGREEMENT
+
+1.       DEFINITIONS
+
+All capitalized terms used but not otherwise defined in this Agreement
+shall have the meanings given such terms in the Equipment Purchase Agreement.
+
+"FIRMWARE" means the software in executable code contained in the
+Equipment.
+
+"NETWORK FIRMWARE" means the Firmware contained in the Network
+Equipment.
+
+"SUBSCRIBER FIRMWARE" means the Firmware contained in the Subscriber
+Equipment.
+
+"WARRANTY PERIOD" means the following: (a) for Network Firmware, the
+same warranty period as for Network Equipment under the Equipment Purchase
+Agreement; and (b) for Subscriber Firmware, the same warranty period as for
+Subscriber Equipment under the Equipment Purchase Agreement.
+
+2.       DELIVERY OF SOFTWARE
+
+Copper Mountain shall deliver to Customer one (1) copy of the Network
+Firmware and Subscriber Firmware in machine-readable object code form with the
+Network Equipment and Subscriber Equipment.
+
+1.
+<PAGE>
+
+3.       GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, Copper Mountain
+hereby grants to Customer, and its customers which use the Equipment, a
+perpetual, non-exclusive, royalty-free, worldwide license, effective upon
+Customer's acceptance of the Equipment containing such Firmware, to use the
+Firmware solely in conjunction with the use of such Equipment for the duration
+of the useful life of such Equipment.
+
+4.       RESTRICTIONS ON USE
+
+All use of the Firmware not expressly permitted by this Agreement is
+prohibited. Without limiting the generality of the foregoing:
+
+4.1   COPYING.  Customer may make up to two (2) copies of the Network
+Firmware and the Subscriber Firmware solely for archival or back-up purposes.
+All other copying is prohibited.
+
+4.2   OTHER RESTRICTIONS. Customer may not (and shall not authorize any
+third party to) alter, modify, adapt or translate any of the Firmware or create
+any derivative work based thereon. Customer may not reverse engineer, decompile,
+disassemble, or otherwise attempt to derive the human-readable source code for
+the Firmware. Customer may not alter or remove any copyright, trade secret,
+patent, proprietary, or other legal notice on or in copies of the Firmware.
+
+4.3   TRANSFERS. Customer may not sublicense, rent, loan, lease, or
+otherwise transfer to any third party any of the Firmware, except that the
+Subscriber Firmware may be transferred to, and Customer's rights under this
+Agreement to use the Subscriber Firmware may be assigned to a purchaser of the
+Subscriber Equipment containing the Subscriber Firmware. Any attempted transfer
+or assignment in violation of the foregoing shall be void, except as otherwise
+provided in Section 15.1 of this Agreement.
+
+5.       NO LICENSE FEES
+
+The right to use the Firmware is included in the purchase price of the
+Equipment and there are no separate license fees or royalties for the Firmware.
+
+6.       UPGRADES
+
+This Agreement does not require Copper Mountain to provide any software
+support services to Customer or to provide Customer with any enhancements,
+updates, upgrades, new versions, or new releases (collectively, "Upgrades") of
+the Firmware. Software support services shall be provided under a separate
+agreement. If Copper Mountain furnishes any Upgrades to Customer, whether under
+a separate agreement or otherwise, and Customer elects to receive such upgrades,
+Customer shall promptly install (or permit Copper Mountain to install) and begin
+using the Upgrade, and Customer's use of the Upgrade shall be subject to the
+terms and conditions of this Agreement. Copper Mountain agrees to assist in
+Customer's testing of new software releases and Upgrades when requested by
+Customer, and Customer's decision to implement new software releases or Upgrades
+will be based upon the successful completion of those tests. For support
+purposes, the "current" software release is defined as the last software release
+not known
+
+2.
+<PAGE>
+
+to contain any problems, errors or bugs. Copper Mountain also agrees that
+Customer may elect to use the current software release or Upgrade, or one of the
+two previous software releases or Upgrades not known to contain problems, errors
+or bugs, and that Copper Mountain will support those releases and Upgrades. Any
+installation of Upgrades by Customer in accordance with procedures and
+instructions provided by Copper Mountain shall not result in any termination of,
+or adversely affect, any warranties by Copper Mountain relating to the
+Equipment.
+
+7.       REPRESENTATIONS AND WARRANTIES
+
+7.1   REPRESENTATIONS. Copper Mountain represents that the Firmware and
+all documentation related thereto does not infringe upon any copyright, patent,
+trademark, services mark, trade name, trade secret, or other proprietary right
+of any third party. Copper Mountain represents that, to the best of its
+knowledge, it has the necessary rights and licenses required to grant Customer
+the right to purchase the Equipment and license the Firmware as provided under
+this Agreement.
+
+7.2.  LIMITED WARRANTY. During the applicable Warranty Period, Copper
+Mountain warrants that the Firmware shall be free from programming errors that
+impair the proper and intended performance and operation of the Equipment
+containing such Firmware, and that all Equipment when using such Firmware and/or
+Upgrades shall be Year 2000 Compliant (as provided in the Equipment Purchase
+Agreement). All warranties provided herein with respect to Subscriber Firmware
+shall be transferable to any permitted transferee of the Subscriber Equipment
+containing such Firmware, but in no event shall the warranty on such Subscriber
+Firmware exceed the Warranty Period applicable to the related Subscriber
+Equipment as provided in the Equipment Purchase Agreement.
+
+7.2   LIMITATIONS. The warranty in Section 7.2 does not apply to
+Firmware that has been altered, modified, or improperly installed by anyone
+other than Copper Mountain, (except Firmware or Upgrades installed in accordance
+with the documentation provided by Copper Mountain). The warranty in Section 7.2
+may not be transferred to any subsequent purchaser of the Equipment or any other
+third party except by a subsequent purchaser from Customer in its ordinary
+course of business, except as otherwise provided in Section 15.1 of this
+Agreement.
+
+7.3   REMEDIES. If, during the applicable Warranty Period, Customer
+reports a malfunction in any Equipment containing Firmware and returns such
+Equipment to the designated Copper Mountain facility, and Copper Mountain
+determines that the malfunction is covered by the warranty in Section 7.2
+(subject to the limitations in Section 7.3), Copper Mountain shall, as
+Customer's sole and exclusive remedy for breach of these warranties and at
+Copper Mountain's cost and option, either (a) correct the programming errors in
+the Firmware, (b) furnish replacement Equipment with equivalent grade,
+functionality and quality to Customer, or (c) if Copper Mountain determines that
+(a) and (b) are not feasible, refund the purchase price paid for the Equipment
+containing the defective Firmware. This action will be accomplished in a
+
+3.
+<PAGE>
+
+commercially reasonable timeframe, and in no circumstances shall Copper Mountain
+be obligated to procure substitute equipment for Customer.
+
+7.4   DISCLAIMERS.
+
+(a) EXCEPT AS EXPRESSLY SET FORTH IN SECTION 7.2, COPPER
+MOUNTAIN MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE FIRMWARE,
+INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+(b) Customer acknowledges that it has not relied on any
+representations or warranties other than those in Section 7.2 or in any
+documentation accompanying the Equipment.
+
+8.       INFRINGEMENT CLAIMS
+
+8.1   INDEMNIFICATION. Subject to Section 8.3 below, Copper Mountain
+agrees to defend, indemnify and hold harmless Customer, its officers, directors,
+employees, agents and representatives from and against all claims, demands,
+losses, damages, liabilities, costs and expenses (including reasonable
+attorney's fees) arising out of or relating to any claim, demand or judgment
+that the authorized and proper use of the Firmware or the contents of any
+documentation related thereto infringe any patent, copyright, trademark, service
+mark, trade secret or other proprietary right of a third party; provided,
+however, that Customer (a) promptly notifies Copper Mountain in writing of the
+claim, (b) gives Copper Mountain the sole authority to control the defense and
+settlement of the claim, and (c) cooperates and, at Copper Mountain's request
+and expense, assists in the defense of the claim. Settlement of any such claim
+by Copper Mountain shall include a complete and unconditional release in favor
+of Customer.
+
+8.2   MITIGATION. If any infringement claim covered by Section 8.1
+arises or in Copper Mountain's opinion is likely to occur, Copper Mountain shall
+immediately, at its option, (a) procure for Customer the right to use the
+infringing Firmware, (b) replace the infringing Firmware with a non-infringing
+substitute product that does not adversely affect the functionality of the
+Equipment, or (c) refund to Customer the purchase price of the Equipment
+containing the infringing Firmware. If Customer continues to use Firmware after
+receiving notice of a claim or a ruling that Customer's use of such Firmware
+infringes a third party's rights and after Customer shall have refused to comply
+with Copper Mountain's proposed solution to such infringement in accordance with
+this Section 8.2, Customer shall be responsible for any liability resulting from
+such continued use after such refusal.
+
+8.3   EXCLUSIONS. Copper Mountain shall have no liability for any claim
+described in Section 8.1 if the claim is based on or arises from Customer's (a)
+improper or unauthorized use or modification of any Firmware; (b) use of a
+superseded or altered release of any Firmware if the claim would have been
+avoided by use of current or unaltered versions or releases of such Equipment
+that Copper Mountain provided to Customer; or (c) combination or use of any
+Firmware with equipment, computer programs, data or other items not furnished by
+Copper Mountain (or authorized by Copper Mountain in writing for such
+combination or use), if the claim would have been avoided by use of the Firmware
+without such equipment, computer
+
+4.
+<PAGE>
+
+programs, data or other items. Customer shall indemnify and hold Copper Mountain
+harmless for and against any and all liability, damages, losses, costs and
+expenses (including attorney's fees) arising from any claim described in this
+Section 8.3.
+
+8.4   ENTIRE LIABILITY. Section 8 states Customer's exclusive remedy
+and Copper Mountain's entire liability of any infringement claim relating to the
+Firmware.
+
+9.       LIMITATION OF LIABILITY
+
+9.1   IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR
+ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL OR INDIRECT DAMAGES OF ANY KIND,
+INCLUDING, BUT NOT LIMITED TO, ANY LOST PROFITS, LOST SAVINGS, OR LOST DATA,
+ARISING FROM OR RELATING TO THIS AGREEMENT, EVEN IF THE PARTY HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT FOR CLAIMS UNDER ARTICLE 8 HEREOF,
+THE TOTAL CUMULATIVE LIABILITY OF EITHER PARTY TO THE OTHER PARTY FOR ANY CLAIMS
+OR CAUSES OF ACTION ARISING UNDER OR RELATING TO THIS AGREEMENT OR THE EQUIPMENT
+CONTAINING FIRMWARE (WHETHER IN CONTRACT, IN TORT OR OTHERWISE) SHALL NOT EXCEED
+THE AGGREGATE AMOUNT PAID BY CUSTOMER TO COPPER MOUNTAIN FOR THE EQUIPMENT.
+
+9.2   Customer understands that Copper Mountain's pricing is predicated
+on the limitations of Copper Mountain's liability set forth in Section 9.1 and
+acknowledges that Copper Mountain would not enter into this Agreement without
+such limitations.
+
+10.      CONFIDENTIALITY INFORMATION
+
+Customer acknowledges that all technical documentation and information
+delivered to Customer by Copper Mountain under this Agreement, and all other
+information relating to the design, development, configuration, use,
+installation, operation and maintenance of the System, constitute confidential
+or proprietary information of Copper Mountain (collectively, "Confidential
+Information"). Customer shall not duplicate or disclose to any third person, and
+shall not use for any purpose other than operation and maintenance of the
+System, any Confidential Information without the prior written consent of a duly
+authorized officer of Copper Mountain or unless required pursuant to any
+process, proceeding or other action by any governmental, law enforcement agency
+or judicial authority. The foregoing restrictions shall not apply to any
+Confidential Information that Customer can demonstrate: (a) was or is wholly and
+independently developed by Customer or lawfully received by Customer free of
+restriction from another source having the rights to furnish such Confidential
+Information; (b) has become generally available to the public without breach of
+this Agreement; or (c) at the time of disclosure to Customer was known to
+Customer free of restriction, as evidenced by documentation in Customer's
+possession.
+
+5.
+<PAGE>
+
+11.      INTELLECTUAL PROPERTY RIGHTS
+
+This Agreement confers upon Customer only certain limited rights to use
+the Firmware. Except for such rights, Copper Mountain retains all rights, title
+and interest in and to the Firmware and any and all maintenance releases,
+enhancements, updates, upgrades, new versions, or new releases, modifications,
+and derivative works, including, but not limited to, any patent, trademark,
+trade secrets, copyright and any other intellectual property or proprietary
+rights related thereto.
+
+12.      TAXES
+
+Copper Mountain shall pay all taxes, export duties, and other charges
+and expenses imposed by any government authority within the United States in
+connection with the delivery of the Firmware to Customer.
+
+13.      TERM AND TERMINATION
+
+13.1  TERM. This Agreement shall become effective as of the Effective
+Date and shall remain in effect until and unless terminated as set forth below.
+
+13.2  TERMINATION. Customer may terminate this Agreement with or
+without cause at any time, effective immediately upon notice to Copper Mountain.
+Copper Mountain may terminate this Agreement, effective immediately upon notice
+to Customer, if Customer breaches Section 4, or if Customer breaches any
+material obligation under this Agreement and fails to cure the breach within
+forty-five (45) days after Copper Mountain gives Customer written notice of the
+breach.
+
+13.3  EFFECTS OF TERMINATION. Upon termination of this Agreement for
+any reason, all license rights granted to Customer in this Agreement shall
+expire immediately (except for Equipment and Firmware with respect to Equipment
+already purchased by Customer, for which the rights granted hereunder shall
+continue), and Customer must return all copies of the Firmware not already
+installed in Equipment owned by Customer or permitted transferees to Copper
+Mountain promptly after any such termination, and Customer shall only retain one
+copy of Firmware not loaded in Equipment previously.
+
+13.4  SURVIVAL. The rights and obligations of the parties under
+Sections 4, 7.2 through 7.4 (solely for the duration of the applicable Warranty
+Period), 7.5, 8, 9, 10, 11, 12, 13.3, 13.4 and 15 shall survive termination of
+this Agreement for any reason.
+
+14.      AUTHORITY
+
+Each party hereby represents and warrants to the other party that (a)
+such party is duly organized, validly existing and in good standing under the
+laws of the place of its establishment or incorporation; (b) such party has
+taken all action necessary to authorize it to enter into this Agreement and
+perform its obligations under this Agreement; (c) this Agreement shall
+constitute the legal, valid and binding obligations of such party; and (d)
+neither the execution of this Agreement, nor the performance of such party's
+obligations hereunder, shall conflict with, result
+
+6.
+<PAGE>
+
+in a breach of, or constitute a default under, any provision of the Articles of
+Incorporation, business license, Bylaws or similar organizational documents of
+such party, or of any law, rule, regulation, authorization or approval of any
+government entity, or of any agreement to which it is a party or by which it is
+bound.
+
+15.      GENERAL PROVISIONS
+
+15.1  ASSIGNMENT. Subject to Section 4.3, neither party may assign this
+Agreement or any right or interest under this Agreement, nor delegate any
+obligation to be performed under this Agreement, without the other party's prior
+written consent (which shall not be unreasonably withheld), except that either
+party may, with or without the other party's consent, (a) assign this entire
+Agreement in connection with a merger, reorganization, or sale of all or
+substantially all of its assets to a third party; (b) assign part or all of this
+Agreement to one or more of its affiliates; and (c) subcontract portions of its
+obligations under this Agreement as long as the assigning party remains
+responsible for such obligations. Any attempted assignment in contravention of
+this Section 15.1 shall be void.
+
+15.2  NON-WAIVER; SEVERABILITY. Any delay or failure by either party to
+exercise any right or remedy under this Agreement shall not constitute a waiver
+of such right or remedy thereafter or of any other right or remedy. If any
+provision of this Agreement is determined to be unenforceable, the remaining
+provisions shall remain in full force and effect.
+
+15.3  NOTICES. All notices and other communications provided for
+hereunder shall be in writing and shall be mailed by first-class, registered or
+certified mail, postage paid, or delivered personally, by overnight delivery
+service or by facsimile, computer mail or other electronic means, with
+confirmation of receipt, addressed as follows:
+
+If to Copper Mountain:             Copper Mountain Networks, Inc.
+10145 Pacific Heights Boulevard, Suite 100
+San Diego, California  92121
+Attn:  John A. Creelman
+Fax No:  (619) 410-7281
+
+If to Customer:                    Rhythms  Links, Inc.
+6933 S. Revere Parkway
+Suite 200
+Englewood Colo. 80112
+Attn:  Tom Hartzell
+Fax No:  (303) 476-5701
+
+Either party may by like notice specify or change an address to which
+notices and communications shall thereafter be sent. Notices sent by facsimile,
+computer mail or other electronic means shall be effective upon confirmation of
+receipt, notices sent by mail or overnight delivery service shall be effective
+upon receipt or when delivery is refused, and notices given personally shall be
+effective when delivered or when delivery is refused.
+
+7.
+<PAGE>
+
+15.4  PUBLICITY. Copper Mountain and Customer agree that neither party
+shall originate any press release or other public announcement related to this
+Agreement, written or oral, without the prior written consent of the other
+party, except as required by law or a court order.
+
+15.5  NONDISCLOSURE. Copper Mountain and Customer agree that either
+party may disclose the existence of this Agreement, but neither party shall make
+any disclosure relating to the terms of or performance under this Agreement to
+any third party (other than their accountants and attorneys) without the prior
+written consent of the other party, except as required by law or a court order.
+
+15.6  GOVERNING LAW AND VENUE. All matters arising in connection with
+this Agreement or the enforcement or construction thereof shall be governed by
+(without regard to conflict-of-laws provisions) and resolved in accordance with
+the laws of the State of California. Copper Mountain and Customer each hereby
+irrevocably (a) agrees that any suit, action or other legal proceeding arising
+from or relating to this Agreement shall be brought in a court of competent
+jurisdiction in San Francisco, California, which court shall have exclusive
+jurisdiction over any controversy arising from or related to this Agreement, (b)
+consents to the jurisdiction of such court in any such suit, action or
+proceeding, and (c) waives any objection it may have to the laying of venue of
+any such suit, action or proceeding in such court and waives any claim that any
+such suit, action or proceeding has been brought in an inconvenient forum.
+Service of process in any suit, action or proceeding may be made in any manner
+permitted by law.
+
+15.7  ATTORNEY'S FEES. The prevailing party in any litigation between
+the parties relating to this Agreement shall be entitled to recover its
+reasonable attorney's fees and court costs, in addition to any other relief it
+may be awarded, from the non-prevailing party.
+
+15.8  CONSTRUCTION. The headings of sections and subsections of this
+Agreement are for convenience only and shall not be construed to affect the
+meaning of any provision of this Agreement.
+
+15.9  COUNTERPARTS. This Agreement may be executed in counterparts,
+each of which shall be deemed an original and which together shall be one and
+the same agreement.
+
+15.10 ENTIRE AGREEMENT; MODIFICATIONS. This Agreement, together with
+the exhibits attached hereto, constitutes the entire agreement between the
+parties and supersedes all prior oral or written negotiations and agreements
+between the parties with respect to the subject matter hereof. No modification,
+variation or amendment of this Agreement shall be effective unless made in
+writing and signed by the parties. Any additional or different terms stated in
+any purchase order or other document delivered to Copper Mountain by Customer in
+connection with this Agreement shall have no effect.
+
+15.11 DISPUTE RESOLUTION. If any dispute arises between the parties
+relating to the interpretation, breach or performance of this Agreement or the
+grounds for the termination thereof, and the parties cannot resolve the dispute
+within thirty (30) days of a written request by either party to the other party,
+the parties agree to hold a meeting, attended by individuals with
+
+8.
+<PAGE>
+
+decision-making authority regarding the dispute, to attempt in good faith to
+negotiate a resolution of the dispute prior to pursuing other available
+remedies. If, within sixty (60) days after such meeting, the parties have not
+succeeded in negotiating a resolution of the dispute, such dispute shall be
+submitted to final and binding arbitration under the then current commercial
+rules and regulations of the American Arbitration Association (the "AAA")
+relating to voluntary arbitrations. The arbitration shall be held in San
+Francisco, California. The arbitration shall be conducted by one arbitrator, who
+is knowledgeable in the subject matter at issue in the dispute and who will be
+selected by mutual agreement of the parties or, failing such agreement, shall be
+selected in accordance with AAA rules. Each party shall initially bear its own
+costs and legal fees associated with such arbitration. The prevailing party in
+any such arbitration shall be entitled to recover from the other party actual
+attorneys' fees, costs and expenses incurred by the prevailing party in
+connection with such arbitration. The decision of the arbitrator shall be final
+and binding on the parties. The arbitrator shall prepare and deliver to the
+parties a written, reasoned opinion conferring its decision. The arbitrator
+shall have no power or authority to make any award that provides for punitive or
+exemplary damages or other damages excluded by this Agreement, or that otherwise
+departs from the plain meaning of this Agreement. Judgment on the award so
+rendered may be entered in any court having competent jurisdiction thereof.
+Notwithstanding the foregoing, Copper Mountain shall have the unequivocal right
+to obtain timely injunctive from a court of law pursuant to Section 15.11.
+
+9.
+<PAGE>
+
+IN WITNESS WHEREOF, Copper Mountain and Customer have caused this
+Agreement to be executed by their duly authorized representative.
+
+
+COPPER MOUNTAIN NETWORKS, INC.            RHYTHMS  LINKS, INC.
+
+
+
+By:    /s/ Richard S. Gilbert             By:     /s/ Rand Kennedy
+
+Name:  Richard S. Gilbert                 Name:   Rand Kennedy
+
+Title: President and CEO                  Title:  SVP Networks
+
+10.
+

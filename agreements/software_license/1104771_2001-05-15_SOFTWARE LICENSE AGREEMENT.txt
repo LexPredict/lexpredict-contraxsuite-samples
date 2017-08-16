@@ -1,0 +1,1063 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This SOFTWARE LICENSE AGREEMENT (this "Agreement") is entered into
+effective as of February 21, 2001 (the "Effective Date"), by and between
+Handspring, Inc., a Delaware corporation with its principal place of business at
+189 Bernardo Avenue, Mountain View, California 94043, and OmniSky Corporation, a
+Delaware corporation with its principal place of business at 1001 Elwell Court,
+Palo Alto, California 94303.
+
+RECITALS
+
+WHEREAS, Handspring has developed and is further developing certain
+browser software, known as the Handspring Wireless Web Browser, which enables
+wireless Internet access on wireless devices running the Palm OS operating
+system ("Palm OS");
+
+WHEREAS, OmniSky offers a wireless Internet and email service which
+enables its Customers to access and navigate the Internet, send and receive
+email messages and conduct e-commerce transactions;
+
+WHEREAS, OmniSky desires to obtain a license to the Handspring Wireless
+Web Browser, in order that it may supply such browser to its Customers, and
+Handspring desires to grant such license in exchange for the license fees,
+royalties and other provisions hereof, in accordance with the terms and
+conditions set forth in this Agreement.
+
+AGREEMENT
+
+NOW, THEREFORE, the parties hereby agree as follows:
+
+ARTICLE 1
+
+DEFINITIONS
+
+1.1 "Affiliate" shall mean any Entity that is directly or indirectly
+controlling, controlled by, or under common control with another Entity. For
+purposes of this Agreement, an Entity shall be regarded as in control of another
+Entity if it owns, or directly or indirectly controls, at least a majority of
+the voting stock or other ownership interest of the other Entity, or if it
+directly or indirectly possesses the power to direct or cause the direction of
+the management and policies of the other Entity by any means whatsoever.
+Notwithstanding the foregoing, OmniSky International, a joint venture of OmniSky
+and News Corporation, shall be deemed to be an "Affiliate" for purposes of this
+Agreement.
+
+1.2 "Client Software" shall mean Handspring's proprietary Palm OS-based
+browser application that resides on a wireless device, including without
+limitation PDAs, handheld computers and wireless telephones.
+
+1.3 "Customer" shall mean any authorized user of wireless services
+provided by OmniSky (or its Affiliates), or another Entity pursuant to an
+agreement with OmniSky (or its
+<PAGE>   2
+Affiliate), to whom an object code copy of the Client Software or Handspring
+Derivative Work of the Client Software is sublicensed by OmniSky pursuant to the
+terms of this Agreement.
+
+1.4 "Entity" shall mean an individual, corporation, partnership, trust,
+business trust, association, joint stock company, joint venture, pool,
+syndicate, sole proprietorship, unincorporated organization, governmental
+authority, or any other form of entity not specifically listed herein.
+
+1.5 "Handspring" shall mean Handspring, Inc. together with its
+permitted successors and assigns.
+
+1.6 "Handspring Competitor" shall mean any of the parties listed in
+Exhibit A.
+
+1.7 "Handspring Derivative Work" shall mean a browser-related work
+created by Handspring during the term of this Agreement based on or
+incorporating the Licensed Software and operating on the Palm OS, including but
+not limited to Modifications, translations, abridgments, condensations,
+improvements, updates, enhancements, or any other form in which the Licensed
+Software may be recast, transformed, adapted, or revised. For purposes of this
+Section and for purposes of Section 1.10 as to OmniSky Derivative Works,
+"Modifications" shall mean any additions to or deletions from the code for the
+relevant software, including (a) any additions to or deletions from the contents
+of a file containing code from such software and (b) any new file that contains
+any material part of code from such software. Modifications (and Handspring
+Derivative Works and OmniSky Derivative Works) shall not include new files that
+do not contain any code from such software ("New File"). Handspring Derivative
+Works of the Proxy Software comprise object code only. Handspring Derivative
+Work shall also include any other work specifically so designated by both
+parties in writing in the future.
+
+1.8 "Licensed Software" shall mean, collectively, the Client Software
+and the Proxy Software and Handspring Derivative Works of each, respectively.
+The Proxy Software and Client Software collectively comprise the Handspring
+Wireless Web Browser.
+
+1.9 "OmniSky" shall mean OmniSky Corporation together with its
+permitted successors and assigns.
+
+1.10 "OmniSky Derivative Work" shall mean a work created by OmniSky and
+based on or incorporating the Client Software and operating on the Palm OS,
+including but not limited to Modifications (as defined in Section 1.7),
+translations, abridgments, condensations, improvements, updates, enhancements,
+or any other form in which the Client Software may be recast, transformed,
+adapted, or revised within the scope of the license granted under Section 2.1.
+The term "OmniSky Derivative Work" shall also include any other work
+specifically so designated by both parties in writing in the future.
+
+1.11 "Proxy Software" shall mean Handspring's proprietary server
+application, in object code form only, for retrieving, reformatting and
+delivering Internet content requested by the Client Software.
+
+2
+<PAGE>   3
+ARTICLE 2
+
+LICENSED SOFTWARE
+
+2.1 Subject to the terms of this Agreement, Handspring hereby grants to
+OmniSky (excluding its Affiliates) a nonexclusive, nontransferable, fee-bearing,
+worldwide license, without the right to sublicense, for the term of this
+Agreement, to use the source code of the Client Software delivered pursuant to
+Section 2.4 (and any updates thereto) solely to modify the Client Software for
+the purpose of creating OmniSky Derivative Works.
+
+2.2 Subject to the terms of this Agreement, Handspring hereby grants to
+OmniSky and its Affiliates a nontransferable, nonexclusive, fee-bearing,
+worldwide license, during the term of this Agreement, to make copies of the
+object code version of the Client Software and any Handspring Derivative Work
+thereof, and to sublicense and distribute such copies to an unlimited number of
+Customers pursuant to sublicense agreements that protect Handspring's
+intellectual property rights therein to at least the same degree as this
+Agreement. In addition, OmniSky and/or its Affiliates may sublicense the
+foregoing distribution rights to the extent necessary to allow distribution of
+such copies through one or more resellers or other intermediaries. Neither
+OmniSky nor any Affiliate may sublicense its right to make such copies except to
+a contract fabricator acting directly on its behalf (and not on behalf of a
+reseller, intermediary or other third party). OmniSky shall have no right to
+sublicense the source code version of the Client Software or any Handspring
+Derivative Work thereof.
+
+2.3 Subject to the terms of this Agreement, Handspring hereby grants to
+OmniSky and its Affiliates a nonexclusive, nontransferable, fee-bearing,
+worldwide license to use and copy the Proxy Software and Handspring Derivative
+Works of the Proxy Software during the term of this Agreement. OmniSky may not
+sublicense the foregoing rights to any third party, but may, on an Application
+Service Provider basis, host and use copies of such Proxy Software and
+Handspring Derivative Works (residing on servers within its possession and
+control) for third parties.
+
+2.4 Handspring shall deliver to OmniSky, within two (2) business days
+after the Effective Date, a source code version and object code version of the
+Client Software and, within ten (10) business days after the Effective Date, an
+executable version or object code version of the Proxy Software. Should such
+Licensed Software fail to conform to the specifications and features set forth
+in Exhibit B ("Acceptance Criteria") in any material respect, as determined by
+OmniSky in its sole discretion, OmniSky shall notify Handspring of such failure
+and Handspring shall promptly modify and redeliver the Licensed Software to
+OmniSky until it satisfies the Acceptance Criteria. The date upon which the
+Licensed Software satisfies the Acceptance Criteria shall be the "Acceptance
+Date," which date shall be certified in writing by OmniSky. Notwithstanding the
+foregoing, either party may terminate this Agreement without liability to the
+other party at 5:00 p.m. PT on March 31, 2001, or at any time within forty-eight
+(48) hours thereafter, if Handspring has not received OmniSky's certification of
+the Acceptance Date by such time.
+
+2.5 Handspring shall provide OmniSky with all updates to the Licensed
+Software commercially released by Handspring during the term of this Agreement
+as soon as reasonably
+
+
+3
+<PAGE>   4
+practicable but in no event later than the date such updates are first
+commercially released by Handspring or any licensee of Handspring. Updates of
+the Client Software shall be provided in both object and source code form.
+Updates of the Proxy Software shall be provided in object code form only.
+Updates provided pursuant to this Section 2.5 shall be deemed to be Handspring
+Derivative Works.
+
+2.6 Handspring grants OmniSky no rights under this Agreement other than
+those expressly stated in this Agreement, whether by implication, estoppel or
+otherwise. Without limiting the foregoing, except as expressly authorized
+herein, OmniSky may not, and will ensure that no Affiliates, directly or through
+any third party, (a) transfer or sublicense any Licensed Software; (b) reverse
+engineer or otherwise attempt to access the source code of any Licensed
+Software; or (c) copy the Licensed Software, except for a reasonable number of
+backup copies for archival purposes. OmniSky will not delete or alter the
+copyright, trademark or other proprietary rights notices of Handspring and its
+licensors included with any Licensed Software, and will reproduce such notices
+on all copies thereof.
+
+2.7 OmniSky shall provide attribution credit to Handspring for the
+Licensed Software in a reasonably prominent manner in a browser-related "About"
+section of the OmniSky wireless services. Except as otherwise agreed by the
+parties, OmniSky shall not brand the Licensed Software as OmniSky's proprietary
+technology, except for standard proprietary branding of the OmniSky wireless
+service by OmniSky in the ordinary course and branding of specific features of
+OmniSky Derivative Works.
+
+2.8 OmniSky shall deliver to Handspring the following reports regarding
+the numbers of copies of the Client Software distributed to Customers hereunder,
+including without limitation Customers served by the Proxy Software in
+connection with ASP services under Section 2.3. Reports shall be submitted
+covering the periods beginning on the Effective Date and ending, respectively,
+on April 30, 2001, July 31, 2001, October 31, 2001 and January 31, 2002. Each
+report shall be submitted no later than 45 days after the end of such period and
+shall describe the cumulative number of copies distributed through the end of
+such period.
+
+2.9 Each party agrees to comply in all respects with all applicable
+laws, ordinances, rules, regulations and requirements of governmental
+authorities, including without limitation all export laws applicable in any
+jurisdiction.
+
+4
+<PAGE>   5
+ARTICLE 3
+
+LICENSING AND MAINTENANCE FEES
+
+3.1 In return for the licenses granted pursuant to Sections 2.1 and 2.2
+and subject to the terms and conditions of this Agreement, effective as of the
+Acceptance Date, OmniSky agrees to pay Handspring a one-time license fee equal
+to $[***], payable in three installments according to the following: (i)
+$[***] shall be paid by the Acceptance Date, (ii) $[***] shall be paid by
+the first anniversary of the Effective Date and (iii) $[***] shall be paid by
+the second anniversary of the Effective Date.
+
+In furtherance of the foregoing and in consideration of the performance
+by Handspring of its obligations under Sections 2.1 and 2.2, OmniSky agrees to
+pay Handspring the annual maintenance fees for the Client Software set forth in
+the following schedule:
+
+<TABLE>
+<CAPTION>
+<S>                                                                    <C>
+Acceptance Date (covering the first full year):               $[***]
+
+First Anniversary of Effective Date
+(covering the second full year):                              $[***]
+
+Second Anniversary of Effective Date
+(covering the third full year):                           $[***]
+</TABLE>
+
+3.2 In return for the licenses granted pursuant to Section 2.3 and
+subject to the terms and conditions of this Agreement, OmniSky agrees to pay
+Handspring a license fee for the initial three years of the term of this
+Agreement equal to $[***], of which (i) $[***] shall be due and payable on the
+Acceptance Date, (ii) $[***] shall be due and payable on the first anniversary
+of the Effective Date and (iii) $[***] shall be due and payable on the second
+anniversary of the Effective Date. Unless and until either party notifies the
+other that it declines to renew this Agreement as provided in Section 6.1,
+$[***] shall be due and payable on each subsequent anniversary of the Effective
+Date.
+
+In furtherance of the foregoing and in consideration of the performance
+by Handspring of its obligations under Section 2.3, OmniSky agrees to pay
+Handspring the annual maintenance fees for the Proxy Software set forth in the
+following schedule:
+
+<TABLE>
+<CAPTION>
+<S>                                                                    <C>
+Acceptance Date (covering the first full year):               $[***]
+
+First Anniversary of Effective Date
+(covering the second full year):                              $[***]
+
+Second Anniversary of Effective Date
+(covering the third full year):                           $[***]
+</TABLE>
+
+3.3 In addition to the fees set forth in Sections 3.1 and 3.2, and
+subject to the terms and conditions of this Agreement, OmniSky agrees to expend
+not less than an aggregate of $[***] for marketing and related activities which
+promote Handspring products and the Handspring trade name (the "Marketing
+Funds"). With respect to the expenditure of such Marketing Funds, (i) $[***] of
+such Marketing Funds shall be expended by the first anniversary of the Effective
+Date, (ii) an additional $[***] of such Marketing Funds shall be expended by
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+5
+<PAGE>   6
+the second anniversary of the Effective Date and (iii) the remaining $[***] of
+such Marketing Funds shall be expended by the third anniversary of the Effective
+Date. The Marketing Funds will be used for marketing and other promotional
+activities that have been approved in advance by both OmniSky and Handspring.
+Such activities may include, but are not limited to, prominent mention of
+Handspring in advertisements, subsidization of wireless modems for use with
+Handspring devices and inclusion of Handspring products in OmniSky media events.
+Before any amounts may be credited against OmniSky's marketing obligations,
+OmniSky must submit a request to Handspring, together with a description of the
+activities and a budget of the costs of the activities, for approval. Handspring
+will use reasonable efforts to respond to each such request within ten (10) days
+of receipt. OmniSky may credit against its marketing obligations hereunder any
+activities approved by Handspring pursuant to this Section 3.3. If OmniSky
+expends, or causes to be expended, an amount which exceeds the approved budgeted
+amount, any amounts that exceed the approved budget by more than 10% shall not
+be credited against OmniSky's marketing obligations unless and until such excess
+amounts are approved by Handspring.
+
+3.4 In return for Handspring licensing and providing to OmniSky the
+Handspring Derivative Works, OmniSky shall reimburse Handspring, within 30 days
+after receipt of invoice therefor, for all amounts payable by Handspring to its
+licensors and other third-party suppliers that would not have been payable by
+Handspring but for OmniSky's exercise of the licenses granted hereunder.
+Notwithstanding the foregoing, at least thirty (30) days prior to any delivery
+to OmniSky of a Handspring Derivative Work, Handspring shall notify OmniSky in
+writing of the amount of the reimbursement obligation that would be incurred by
+OmniSky as a result of such Handspring Derivative Work. If OmniSky notifies
+Handspring in writing within ten (10) business days after receiving the
+foregoing reimbursement notice that OmniSky wishes to exclude such Handspring
+Derivative Work from the licenses granted hereunder, Handspring shall not
+deliver to OmniSky such Handspring Derivative Work, and OmniSky shall not be
+responsible for any reimbursement obligation with respect thereto.
+
+3.5 Notwithstanding the foregoing, if at anytime Handspring shall
+license both the Client Software and the Proxy Software (excluding any hosting
+of the Proxy Software by Handspring on an ASP-basis) to any Entity identified in
+Exhibit C (a "Third Party License") in consideration for licensing, maintenance
+or other fees which, in the aggregate and in light of any different terms of
+such Third Party License, are less than the aggregate of the licensing,
+maintenance and other fees (excluding the Marketing Funds) payable by OmniSky
+hereunder, then the licensing, maintenance and other fees payable by OmniSky
+hereunder shall automatically be reduced to an amount equal or, in light of any
+different terms of such Third Party License, equivalent to the fees payable
+under the Third Party License; provided that, under no circumstances shall
+Handspring be required pursuant to this Section 3.5 to refund amounts previously
+paid by OmniSky to Handspring under this Agreement. Handspring agrees to notify
+OmniSky in writing within fourteen (14) days after its execution of any
+agreement which triggers the fee reduction set forth in this Section 3.5.
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+6
+<PAGE>   7
+ARTICLE 4
+
+TECHNICAL SUPPORT
+
+4.1 Handspring shall provide OmniSky with technical support of the
+Proxy Software at the levels set forth on Exhibit D and for the period(s)
+provided below. All technical support provided by Handspring will be performed
+in a full and professional manner by qualified individuals. OmniSky shall pay
+Handspring a total of $[***] in four equal installments of $[***] due in
+advance, respectively, on the Acceptance Date and three, six and nine months
+after the Effective Date, which shall entitle OmniSky to support through the
+first anniversary of the Effective Date. Subject to OmniSky's continued payment
+therefor, such support shall automatically renew for subsequent one-year terms
+on the same terms unless OmniSky notifies Handspring, at least sixty (60) days
+before the end of the then-current term, of its election not to renew. OmniSky
+may terminate support at any time by written notice to Handspring; provided
+that, if such termination occurs before the first anniversary of the Effective
+Date, any unpaid balance of the $[***] fee for the initial year of such services
+shall accelerate and be payable in full upon such termination. If such
+termination occurs after the first anniversary of the Effective Date, OmniSky
+shall not be responsible for any installment of the $[***] fee for the current
+renewal term which has not yet become due pursuant to this Section 4.1. In
+addition to the foregoing technical support, Handspring shall provide OmniSky,
+at no additional charge, up to ten (10) hours per calendar quarter of technical
+support regarding the use of the source code to the Client Software (in such
+form as delivered hereunder by Handspring). OmniSky shall be solely responsible
+for support of its Customers.
+
+4.2 Notwithstanding the foregoing, if at anytime hereafter Handspring
+commences providing technical support in substantially the same manner as
+described in Section 4.1 as part of its licensing terms for the Licensed
+Software for fees that, in the aggregate and in light of any different terms of
+such technical support, are less than the fees payable by OmniSky therefor, then
+the fees payable by OmniSky shall automatically be reduced to an amount equal
+or, in light of any such different terms, equivalent to such lower fees.
+
+4.3 Without limiting the technical support provided in Section 4.1,
+within thirty (30) days after the Effective Date, Handspring shall conduct a
+one-day training program regarding the Licensed Software for up to an aggregate
+of ten (10) OmniSky personnel. Such program will take place at a time and place
+mutually agreed by the parties, and shall be conducted in such a manner as is
+reasonably adequate to train OmniSky personnel in relevant aspects of the
+Licensed Software, including without limitation, the server architecture and
+operations, installation, configuration, troubleshooting, scaling and tuning.
+
+ARTICLE 5
+
+OWNERSHIP OF DERIVATIVE WORKS
+
+5.1 All Handspring Derivative Works shall be the sole and exclusive
+property of Handspring. Other than any Licensed Software included therein, all
+OmniSky Derivative Works
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+7
+<PAGE>   8
+shall be the sole and exclusive property of OmniSky. Without limiting the
+foregoing, upon termination or expiration of this Agreement for any reason,
+OmniSky shall have no license, express or implied, with respect to any Licensed
+Software included in any OmniSky Derivative Work.
+
+5.2 Handspring agrees that its sole and exclusive ownership of
+Handspring Derivative Works is subject to the licenses granted in such
+Handspring Derivative Works in Article 2 hereof. OmniSky agrees that its sole
+and exclusive ownership of OmniSky Derivative Works is subject to the licenses
+granted in such OmniSky Derivative Works in Section 5.3.
+
+5.3 OmniSky agrees to present, in both source and object code form, all
+OmniSky Derivative Works to Handspring as soon as reasonably practicable but in
+no event later than commercial release thereof by OmniSky. OmniSky hereby grants
+to Handspring a perpetual (except as provided below), nonexclusive, worldwide
+and royalty-free license to use, copy, distribute and modify the source code
+version and object code version of any OmniSky Derivative Work; provided that,
+for the period of one hundred eighty (180) days after the date of delivery to
+Handspring of any OmniSky Derivative Work, Handspring shall be prohibited from
+distributing such OmniSky Derivative Work to or using such OmniSky Derivative
+Work on behalf of any other licensee of the Client Software without OmniSky's
+prior written consent. Notwithstanding the foregoing, Handspring's rights in the
+source code of OmniSky Derivative Works shall terminate upon expiration or
+termination of this Agreement for any reason.
+
+5.4 Subject to the terms of this Agreement, OmniSky hereby grants to
+Handspring, under any rights exercisable by OmniSky now or hereafter in OmniSky
+OneTap, a nonexclusive, perpetual, fully paid-up, worldwide license to use,
+copy, modify and distribute OmniSky OneTap as part of Handspring's products or
+services. For the purpose of this Agreement, OmniSky OneTap shall mean that
+certain proprietary HTML-based software application, and related programming
+interface, developed by OmniSky that enables applications to exchange data
+through a tap or series of taps on a handheld device.
+
+ARTICLE 6
+
+TERMINATION
+
+6.1 This Agreement is effective as of the Effective Date and, unless
+earlier terminated as provided below, shall continue in effect for an initial
+term of three years. Thereafter, this Agreement shall automatically renew for
+successive one-year periods unless either party notifies the other party, in
+writing no less than sixty (60) days before the end of the initial term or then
+current renewal period, that such party declines to renew this Agreement. If the
+parties renew this Agreement, OmniSky shall have a license to the source code of
+the Client Software that, in consideration of the fees set forth in Section 3.1,
+shall be deemed fully paid and royalty-free.
+
+6.2 Either party hereto shall have the right to terminate this
+Agreement if the other party breaches any of the material terms, conditions or
+obligations of this Agreement, by giving such other party thirty (30) days
+advance written notice which specifically sets forth the breach
+
+8
+<PAGE>   9
+alleged. Such notice of termination shall not be effective if such other party
+cures the specified breach within such thirty (30) day period. OmniSky shall
+have the right to terminate this Agreement for convenience for any reason or no
+reason upon thirty (30) days advance written notice to Handspring.
+
+6.3 Without limiting any available remedy at law or in equity, upon any
+termination of this Agreement pursuant to this Article 6, all rights and
+obligations of the parties under this Agreement shall be extinguished, except
+that (a) if OmniSky terminates for convenience as provided above, all unpaid
+installments of the Client Software license fee set forth in Section 3.1 shall
+accelerate and be paid in full on or prior to such termination, provided that
+all such unpaid installments shall be cancelled if OmniSky terminates this
+Agreement as a result of Handspring electing not to indemnify a third party
+claim in reliance on the limitation of liability under Article 12, (b) all other
+accrued payment obligations hereunder shall survive such termination or
+expiration, (c) the rights and obligations of the parties under Articles 5, 6,
+8, 10 and 12 shall survive such termination or expiration, and (d) OmniSky shall
+deliver to Handspring all copies of the Licensed Software within its possession
+or control, together with a writing executed by an officer of OmniSky certifying
+that no copies of the source code of the Client Software have been delivered or
+disclosed to any third party.
+
+6.4 If OmniSky's rights, obligations or privileges hereunder are
+assigned to any Handspring Competitor without Handspring's prior written
+consent, all of OmniSky's rights in the source code of the Client Software (and
+any updates) licensed hereunder shall terminate immediately prior to such
+assignment, and OmniSky shall, prior to effectiveness of such assignment,
+deliver to Handspring all copies of such source code within its possession or
+control, together with a writing executed by an officer of OmniSky certifying
+that no copies of such source code have been delivered or disclosed to any third
+party. Otherwise, subject to Article 9 and Sections 6.1, 6.2 and 6.3, upon any
+such assignment this Agreement will remain in full force and effect.
+
+ARTICLE 7
+
+REPRESENTATIONS AND WARRANTIES
+
+7.1 Handspring represents and warrants that (i) it is a corporation
+duly organized, validly existing, and in good standing under the laws of the
+State of Delaware; (ii) to Handspring's knowledge, other than [***] to the
+extent applicable to the Licensed Software ("[***] Rights"), Handspring is the
+owner of all proprietary rights, including patent, copyright, trade secret,
+trademark and other proprietary rights, in and to the Licensed Software; (iii)
+it has the full corporate power and authority to enter into this Agreement and
+to perform its obligations hereunder; (iv) upon execution, this Agreement shall
+constitute a legal, valid and binding obligation of Handspring enforceable in
+accordance with its terms; (v) it has not granted, and will not grant during the
+term of this Agreement, any license or assignment that is inconsistent with the
+license rights granted to OmniSky herein; and (vi) it is not aware of any
+threatened or pending action, suit, investigation, claim or proceeding relating
+to the Licensed Software as of the Effective Date of this Agreement.
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+9
+<PAGE>   10
+7.2 OmniSky represents and warrants that (i) it is a corporation duly
+organized, validly existing, and in good standing under the laws of the State of
+Delaware; (ii) upon execution, this Agreement shall constitute a legal, valid
+and binding obligation of OmniSky enforceable in accordance with its terms; and
+(iii) it has the full corporate power and authority to enter into this Agreement
+and to perform its obligations hereunder.
+
+7.3 THE LIMITED WARRANTIES EXPRESSLY SET FORTH IN THIS SECTION 7 ARE IN
+LIEU OF ALL OTHER WARRANTIES, AND HANDSPRING HEREBY DISCLAIMS ALL OTHER
+WARRANTIES, WHETHER WRITTEN, ORAL, EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT
+NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A
+PARTICULAR PURPOSE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, HANDSPRING
+DOES NOT WARRANT THAT USE OF ANY LICENSED SOFTWARE WILL BE UNINTERRUPTED OR
+ERROR FREE.
+
+ARTICLE 8
+
+INDEMNIFICATION
+
+8.1 Handspring will defend, indemnify, and hold harmless OmniSky and
+its directors, officers and employees from and against any and all claims,
+costs, losses, damages, judgments, obligations, liabilities and expenses
+(including, without limitation, reasonable attorneys' fees) arising out of or in
+connection with or related in any way to any third-party claim alleging that the
+Licensed Software, or the use and/or distribution thereof as contemplated
+herein, infringe or misappropriate any copyright, trademark, trade secret or
+patent (other than any [***] Rights) of any third party; provided that
+OmniSky provides Handspring with (x) prompt written notice of such claim or
+action; (y) sole control and authority over the defense or settlement of such
+claim or action; and (z) reasonable assistance to defend and/or settle any such
+claim or action; provided, further, that failure to give notice as provided in
+subsection (x) above in a timely fashion shall not result in a waiver of any
+right to indemnification hereunder except to the extent Handspring is prejudiced
+thereby and then only to the extent of such prejudice. This Section does not
+apply to liability for claims arising from modification of the Licensed Software
+not performed by Handspring, use of the Licensed Software outside the scope of
+the license granted herein or combination of the Licensed Software with other
+products not provided by Handspring, to the extent such liability would not have
+arisen but for such modification, use or combination.
+
+8.2 Subject to the limitations described in the last sentence of this
+Section, OmniSky will defend, indemnify, and hold harmless Handspring and its
+directors, officers, employees and agents from and against any and all claims,
+costs, losses, damages, judgments, obligations, liabilities and expenses
+(including, without limitation, reasonable attorneys' fees) arising out of or in
+connection with or related in any way to any third-party claim arising from the
+development, reproduction, use or distribution of OmniSky Derivative Works;
+provided that Handspring provides OmniSky with (x) prompt written notice of such
+claim or action; (y) sole control and authority over the defense or settlement
+of such claim or action; and (z) reasonable assistance to defend and/or settle
+any such claim or action; provided, further, that failure to give notice as
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+10
+<PAGE>   11
+provided in subsection (x) above in a timely fashion shall not result in a
+waiver of any right to indemnification hereunder except to the extent OmniSky is
+prejudiced thereby and then only to the extent of such prejudice. This Section
+does not apply, and OmniSky shall have no liability hereunder, with respect to
+any claim for which OmniSky is entitled to indemnification under any of the
+terms of Section 8.1 above to the full extent of such indemnification.
+
+8.3 THIS SECTION 8 SETS FORTH EACH PARTY'S SOLE OBLIGATION, AND THE
+OTHER PARTY'S EXCLUSIVE REMEDY, FOR ANY THIRD-PARTY CLAIMS OF INFRINGEMENT
+ARISING IN CONNECTION WITH THIS AGREEMENT.
+
+ARTICLE 9
+
+ASSIGNMENT
+
+Neither party may assign this Agreement, in whole or in part, without
+the other party's prior written consent. Notwithstanding the foregoing, each
+party shall be entitled to assign its rights, obligations and privileges
+hereunder, in whole or in part, to any Affiliate, merger partner, successor in
+business, or acquirer of all or substantially all its assets without obtaining
+the other's consent to such assignment. Any assignment by either party shall not
+result in an increase in the scope of the licenses granted pursuant to this
+Agreement unless agreed to in writing by the other party. In the event OmniSky
+assigns its payment obligations to a foreign Affiliate, OmniSky or such
+Affiliate shall bear responsibility for payment of any and all withholding taxes
+such that net amounts paid to Handspring (or its Affiliates, as applicable)
+hereunder shall not be reduced.
+
+ARTICLE 10
+
+CONFIDENTIALITY
+
+10.1 A party hereto ("Recipient") receiving Confidential Information
+(as defined below) of the other party ("Disclosing Party") will not use such
+Confidential Information except to exercise rights or perform obligations under
+this Agreement, and will not disclose such Confidential Information to any third
+party. This Section does not apply to information that is (a) or becomes
+publicly known through no act of Recipient, (b) in Recipient's possession when
+disclosed without breach of any legal obligation, (c) received by Recipient from
+a third party without such party's breach of any legal obligation, (d) developed
+by Recipient without use of the Disclosing Party's Confidential Information, or
+(e) disclosed as needed to enforce any right or obligation of this Agreement at
+law or inequity. In addition, a Recipient may disclose Confidential Information
+pursuant to a requirement of a judicial, administrative or other governmental
+agency; provided that sufficient written notice is given to the Disclosing Party
+prior to such disclosure to enable the Disclosing Party to seek an order
+limiting or precluding such disclosure.
+
+10.2 "Confidential Information" means (a) in the case of Handspring,
+the source code of the Client Software, which shall be deemed a trade secret of
+Handspring, (b) in the case of OmniSky, the reports delivered pursuant to
+Section 2.8 and (c) in the case of either party, all other information that (i)
+is designated as such in writing by the Disclosing Party when or before
+disclosed to the Recipient;
+
+11
+<PAGE>   12
+(ii) is orally or visually disclosed, or disclosed in writing without such
+designation, if the Disclosing Party delivers such designation within 30 days
+thereafter; or (iii) the Recipient may reasonably be expected to know, based on
+its nature or the circumstances of its disclosure, is maintained in confidence
+by the such party for competitive advantage or other commercial benefit.
+
+ARTICLE 11
+
+NOTICES
+
+All notices or other communications required or permitted hereunder
+shall be in writing and shall be personally delivered, telecopied (with
+confirmation of transmission), or given by certified mail, postage prepaid with
+return receipt requested, addressed as follows:
+
+if to Handspring:          Handspring, Inc.
+189 Bernardo Avenue
+Mountain View, CA 94043
+Attention: Ravi Sundararajan
+
+with a copy to:            Handspring, Inc.
+189 Bernardo Avenue
+Mountain View, CA 94043
+Attention: General Counsel
+
+if to OmniSky:             OmniSky Corporation
+1001 Elwell Court
+Palo Alto, CA 94303
+Attention: Michael Dolbec
+
+with a copy to:            OmniSky Corporation
+1001 Elwell Court
+Palo Alto, CA 94303
+Attention: General Counsel
+
+Any party may change the above-specified recipient and/or mailing address by
+notice to the other party given in the manner herein prescribed. All notices
+shall be deemed given on the day when actually delivered as provided herein (if
+delivered personally or by telecopy) or on the date when postmarked (if
+delivered by mail).
+
+ARTICLE 12
+
+LIMITATIONS OF LIABILITY
+
+OTHER THAN LIABILITY UNDER SECTION 10 AND LIABILITY UNDER SECTION 8 (EXCLUDING
+CLAIMS UNDER PATENTS ISSUED AFTER THE EFFECTIVE DATE), NEITHER PARTY WILL BE
+LIABLE TO THE OTHER PARTY UNDER ANY CAUSE OF ACTION OR THEORY OF LIABILITY FOR
+(A) DAMAGES IN EXCESS OF AMOUNTS
+
+12
+<PAGE>   13
+ACTUALLY PAID TO HANDSPRING UNDER THIS AGREEMENT, OR (B) SPECIAL, INDIRECT,
+INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF USE,
+DATA, BUSINESS OR PROFITS) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT,
+EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EACH
+PARTY ACKNOWLEDGES THAT THE FOREGOING LIMITATIONS SHALL APPLY NOTWITHSTANDING
+ANY FAILURE OF ESSENTIAL PURPOSE OF THE LIMITED REMEDIES AVAILABLE HEREUNDER.
+
+ARTICLE 13
+
+MISCELLANEOUS PROVISIONS
+
+13.1 Press Release. The parties agree to issue a joint press release
+concerning the relationship created by this Agreement no later than ten (10)
+days after the Acceptance Date. The content of this press release shall be
+mutually agreed upon by the parties prior to release.
+
+13.2 Titles and Headings. Titles and headings to paragraphs herein are
+inserted for convenience of reference only and are not intended to affect the
+meaning or interpretation of this Agreement.
+
+13.3 Execution in Counterparts. This Agreement may be executed in one
+or more counterparts and by facsimile, all of which shall be considered one and
+the same agreement, and shall become a binding agreement when one or more
+counterparts have been signed by each party and delivered to the other party.
+
+13.4 Entire Agreement. This Agreement constitutes the entire agreement
+between the parties with respect to the subject matter hereof and supersedes all
+previous or contemporaneous proposals or agreements, oral or written, and all
+negotiations, conversations or discussions between the parties relating to the
+subject matter hereof.
+
+13.5 Amendments. No change, modification, extension, termination or
+waiver of this Agreement, or any of the provisions contained herein, shall be
+valid unless made in writing and signed by duly authorized representatives of
+the parties hereto.
+
+13.6 Severability. Should one or more of the provisions of this
+Agreement be or become invalid, the parties shall substitute, by mutual consent,
+valid provisions for invalid provisions, which valid provisions in their
+economic effect are sufficiently similar to the invalid provisions that it can
+be reasonably assumed that the parties would have entered into this Agreement
+with such provisions. In case such provisions cannot be agreed upon, the
+invalidity of one or several provisions of this Agreement shall not affect the
+validity of this Agreement as a whole, unless the invalid provisions are of such
+essential importance to this Agreement that it can be reasonably assumed that
+the parties would not have entered into this Agreement without the invalid
+provisions.
+
+13
+<PAGE>   14
+13.7 Waiver. The waiver by either party hereto of any right hereunder
+or the failure to perform or a breach by the other party shall not be deemed a
+waiver of any other right hereunder or of any other breach or failure by said
+party whether of a similar nature or otherwise.
+
+13.8 Governing Law. This Agreement shall be governed by and interpreted
+in accordance with the laws of the State of California, without reference to its
+or any other jurisdiction's conflict of law principles.
+
+13.9 No Partnership. OmniSky and Handspring are independent contractors
+and neither party is the legal representative, agent, joint venture, partner or
+employee of the other party for any purpose whatsoever. Neither party has any
+right or authority to assume or create any obligations of any kind or to make
+any representation or warranty on behalf of the other party, whether express or
+implied, or to bind the other party in any respect whatsoever.
+
+IN WITNESS WHEREOF, each of the parties has caused this Agreement to be
+executed in the manner appropriate for each, as of the day and year first
+written above.
+
+Handspring, Inc.
+
+By: /s/ Ravi Sundararajan
+
+Name: Ravi Sundararajan
+
+Title: Vice President,
+Business Development
+
+OmniSky Corporation
+
+By: /s/ Patrick McVeigh
+
+Name: Patrick McVeigh
+
+Title: Chief Executive
+Officer
+
+14
+<PAGE>   15
+EXHIBIT A
+
+HANDSPRING COMPETITORS
+
+
+
+
+[***]
+
+
+
+
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+15
+<PAGE>   16
+EXHIBIT B
+
+ACCEPTANCE CRITERIA
+
+The Client Software is a proxy-based Web browser for the Palm OS that provides
+users the ability to browse a wide variety of Internet content, including most
+content marked up in HTML, WML, and HDML. The browser incorporates encryption
+technology from Certicom.
+
+The Client Software Requirements: a PDA modem and Internet Service Provider;
+200K minimum free RAM (300K recommended).
+
+ADDITIONAL SPECIFICATIONS AND FEATURES TO BE INTEGRATED INTO CLIENT SOFTWARE
+
+
+
+
+
+[***]
+
+
+
+
+BROWSER CLIENT SOFTWARE
+
+OmniSky needs to be able to successfully compile the client source code into
+executable object form and have the software run in a manner consistent with the
+product specifications set forth above.
+
+In addition, the compiled client executed in conjunction with the proxy server
+shall have the following functionality:
+
+DEVICE & PLATFORM SUPPORT
+
+- -        Blazer shall support handheld devices using [***] or
+higher, including [***]. Blazer will not
+support [***] handhelds.
+
+- -        Blazer shall be forward compatible to support the [***],
+by the launch of [***]
+
+BROWSER FUNCTIONALITY
+
+- -        Support for the following functions on Blazer toolbar and in Blazer
+Menus
+
+[***]
+
+
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+16
+<PAGE>   17
+[***]
+
+- -        Support for the following options and user preferences:
+
+[***]
+
+CONTENT TYPES SUPPORTED
+
+- -        [***]
+
+CONTENT FORMATTING
+
+- -        [***]
+
+IMAGE HANDLING
+
+- -        [***]
+
+SECURITY
+
+- -        [***]
+
+PERSONALIZATION
+
+- -        [***]
+
+CONNECTIVITY
+
+- -        [***]
+
+SPEED ENHANCEMENTS
+
+- -        [***]
+
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+17
+<PAGE>   18
+CUSTOMIZATION
+
+- -         [***]
+
+OTHER
+
+- -        [***]
+- -        [***]
+
+WEB PROXY SERVER SOFTWARE
+
+OmniSky shall be able to, with the assistance of Handspring, successfully
+install, configure and operate the proxy server. Once the proxy server is
+running, it shall meet the following criteria:
+
+- -        Latency will not increase by more than [***] for up to [***]
+requests/second.
+
+- -        Server will not have any unresolved priority 1 bugs, ie. Bugs that
+prevent the system from functioning as it was designed to.
+
+- -        [***]  logging for reporting.
+
+- -        [***]
+
+- -        OmniSky will be able to extract data from the access log in following
+measurement interval (tools not provided):
+
+o        httpop/s The number of accesses per second averaged over five
+minutes.
+
+o        http/p5s The peak five second interval rate during that five
+minutes.
+
+o        get/s The number of http get operations per second, normal
+data transfers to.
+
+o        post/s The number of http post operations per second. These
+are used to send query is initiated by a post.
+
+o        cgi/s The number of cgi-bin programs run on the server per
+second. these are operations - we don't run cgi programs on
+the server
+
+o        httpb/s The number of bytes of data per second recorded in the
+access log transfer, so a very large transfer that takes more
+than a few minutes will approve the TCP output measure and
+will appear as an abnormally large value in one.
+
+o        to4KB/s The number of transfers per second up to 4 kilobytes
+in size.
+
+o        to16KB/s The number of transfers per second from 4 to 16
+kilobytes in size.
+
+o        to64KB/s The number of transfers per second from 16 to 64
+kilobytes I in size.
+
+o        to256KB/s The number of transfers per second from 64 to 256
+kilobytes in size.
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+
+18
+<PAGE>   19
+o        ov256KB/s The number of transfers per second more than 256
+kilobytes in size.
+
+o        GATEWAY The number of http operations per second that were
+requested by machine takes all the Web accesses from an
+internal company and
+
+PRODUCTION
+
+- -        Database replication Issues.
+
+o        The Backend Database shall be setup to allow easy replication
+of user specific data to multiple sites.
+
+o        Database schema shall be accessible by OS at anytime.
+
+- -        Scalability/Usability:
+
+o        The Server/service shall be scalable up to but not limited to
+a minimum of [***] users. Handspring should provide supporting
+documentation regarding scaling the browser server.
+
+o        If the browser server has any custom scripting tools for
+formatting it's output to a PDA, Handspring shall provide full
+documentation on the scripting tool and they should be
+responsible for reasonable training both the Product
+Engineering staff and Production staff in its use. This
+training at a minimum shall leave both the Product and
+Production teams self sufficient with regard customization and
+maintenance/installation of this feature of the browser
+server.
+
+[***] Confidential treatment has been requested for the bracketed portions. The
+confidential redacted portion has been omitted and filed separately with the
+Securities and Exchange Commission.
+<PAGE>   20
+EXHIBIT C
+
+
+GoAmerica
+
+YadaYada
+
+Palm
+
+Novatel Wireless
+
+
+20
+<PAGE>   21
+EXHIBIT D
+
+TECHNICAL SUPPORT
+
+A designated Handspring representative shall be available (i) 24 hours per day,
+7 days per week by telephone for Severity 1 and 2 problems and (ii) during
+normal business hours by telephone and email for Severity 3 and 4 problems.
+Handspring shall provide OmniSky with contact information for such
+representative on the Effective Date.
+
+For all reported problems, Handspring will acknowledge receipt of the support
+request and assign an issue number. OmniSky may request an update on the issue
+at reasonable times using this issue number.
+
+A "business day" means any day other than Saturday, Sunday and a normal
+Handspring holiday (New Year's Day, President's Day, Memorial Day, Independence
+Day, Labor Day, Thanksgiving Day, the day after Thanksgiving Day and Christmas
+Day). "Normal business hours" are 8:00 a.m. to 5:00 p.m. (Pacific Time) during
+any business day.
+
+When reporting issues, problems shall be classified by severity levels according
+to the following table:
+
+<TABLE>
+<CAPTION>
+Severity              Impact on OmniSky Operation                   Handspring Response
+<S>              <C>                                         <C>
+1                OmniSky service is not operational or is    Initial assessment and status response within 1
+effectively not operational due to its      hour. Status updates as reasonably requested.
+performance. Creates a significant impact   Handspring will provide commercially reasonable
+on business operations and OmniSky's        efforts on a continuous basis until OmniSky
+internal support team is available on an    service is restored to its normal functionality.
+around the clock basis to facilitate
+resolution.
+
+2                Material impact on performance of OmniSky   Initial response within 2 hours. Handspring will
+service. Service is operational but it      provide commercially reasonable efforts to
+performs very slowly or inconsistently.     facilitate prompt resolution.
+
+3                Annoyance. No material impact on            Support will be provided as soon as commercially
+performance of OmniSky service.             practicable. Follow-up telephone or email
+support will be available during normal business
+hours.
+
+4                Routine question regarding the operation    Support will be provided as soon as commercially
+of the Licensed Software, a new feature     practicable. Follow-up telephone or email
+request, documentation or any other         support will be available during normal business
+question.                                   hours.
+</TABLE>
+
+21
+
+
+

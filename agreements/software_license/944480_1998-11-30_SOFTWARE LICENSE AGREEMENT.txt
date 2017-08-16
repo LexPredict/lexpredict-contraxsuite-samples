@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 99.2
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (this "Agreement") dated as of November 10,
+1998,  is entered  into by and between GSE PROCESS  SOLUTIONS,  INC., a Delaware
+corporation  ("GSE") and THE SAGE SYSTEMS  DIVISION of VALMET  AUTOMATION  (USA)
+INC., 7000 Hollister, Houston, TX, a Delaware corporation ("Valmet USA") and THE
+SAGE SYSTEMS DIVISION of VALMET  AUTOMATION  (CANADA) LTD., 10333 Southport Road
+S.W.,  Calgary,  AB a Canadian  Corporation  ("Valmet  Canada")  (Valmet USA and
+Valmet Canada shall be collectively referred to as "LICENSEE").
+
+WHEREAS,  GSE and Valmet USA have entered into the Asset Purchase Agreement
+(as defined herein);
+
+WHEREAS, pursuant to the Asset Purchase Agreement, Valmet USA is purchasing
+certain assets of GSE's oil & gas business; and
+
+WHEREAS,  the  assets to be  acquired  by Valmet USA do not  include  GSE's
+SimSuite Pipeline Software or TotalVision Software; and
+
+WHEREAS,  in connection with the Asset Purchase  Agreement,  subject to the
+terms and  conditions  contained  in this  Agreement,  GSE desires to license to
+Valmet USA, and Valmet USA desires to license  from GSE,  the SimSuite  Pipeline
+Software and the TotalVision Software; and
+
+WHEREAS,  Valmet  USA may also  desire to pursue  such  activities  through
+Valmet  Canada,  and GSE has agreed that the license  rights  granted  hereunder
+shall be extended to the Valmet Canada as well.
+
+WHEREAS,  the parties  acknowledge and agree that, although GSE will retain
+ownership  rights in the software to be licensed  hereunder,  Licensee should be
+provided sufficient license rights in such software to allow it, in the ordinary
+course of business, to pursue business  opportunities within certain agreed-upon
+market limitations;
+
+NOW, THEREFORE, in consideration of the mutual representations, warranties,
+covenants,  and agreements of the parties herein set forth,  the parties hereto,
+intending to be legally bound, do hereby agree as follows:
+
+1. Definitions
+
+1.1. "Asset Purchase  Agreement" means the Asset Purchase Agreement by and among
+Valmet USA, GSE and certain  parties  affiliated  with GSE,  dated  November 10,
+1998.
+
+1.2. "Claims" shall have the meaning given in Article 6.
+
+1.3.  "Closing  Date" shall have the meaning  ascribed to that term in the Asset
+Purchase Agreement.
+
+1.4. "Common Elements" shall have the meaning ascribed to that term in the Asset
+Purchase Agreement.
+
+1.5. "D/3 Software"  means GSE's software known as the D/3  Distributed  Control
+System.
+
+1.6.  "Derivative"  means any  software,  documentation  or other item that is a
+modification or translation of the Software,  or that is otherwise,  based upon,
+incorporates, or a derivative work of some or all of the Software.
+
+1.7.  "New  Elegant  Software"  means  GSE's  current  version of the  "Elegant"
+software  module (an  electrical  network  modeling  tool) forming part of GSE's
+SimSuite  Power  software,  and all  subsequent  updates and  upgraded  versions
+thereof  (but only so long as GSE  continues  to  market  such  software).
+
+1.8.  "Permitted  Derivative"  means any Derivative  that,  (i) in the case of a
+Derivative  of  the  SimSuite  Pipeline  Software,  is  adapted  for  use  in an
+application for which Licensee is authorized to sublicense the SimSuite Pipeline
+Software  pursuant to Section 2.1 or 2.5, or (ii) in the case of a Derivative of
+the TotalVision  Software,  is adapted for use as part of the S/3 Software,  the
+SimSuite  Pipeline  Software,  Licensee's OASyS software or other SCADA software
+and software  products  developed by Licensee for use in  connection  with SCADA
+systems.
+
+1.9.  "Promotional  Material"  means  promotional  and  marketing  materials for
+Software, which disclose the functionality of Software only in general terms and
+which  are  intended  for  public  dissemination  free  of  any  confidentiality
+obligation, as such materials exist at the Closing Date.
+
+1.10."S/3  Software"  shall have the meaning  ascribed to that term in the Asset
+Purchase Agreement.
+
+1.11."SCADA System" means a supervisory control and data acquisition system such
+as the S/3 Software or Licensee's OASyS(R) product.
+
+1.12."SimSuite  Pipeline  Software" shall have the meaning ascribed to that term
+in the Asset Purchase Agreement.
+
+"Software" means the SimSuite Pipeline Software and the TotalVision Software
+
+1.14."Technical  Documentation"  shall have the meaning ascribed to that term in
+the Asset Purchase Agreement.
+
+1.15."TotalVision  Software" shall have the meaning ascribed to that term in the
+Asset Purchase Agreement.
+
+1.16.All  other  capitalized  terms used herein which are not defined shall have
+the meanings ascribed to them in the Asset Purchase Agreement.
+
+2.   Grants of Licenses
+
+2.1. SimSuite Pipeline Software.
+
+(a) Subject to all the terms and conditions of this  Agreement,  GSE hereby
+grants to Licensee,  and Licensee hereby accepts from GSE, a perpetual  (subject
+to termination in accordance with Article 9), worldwide, nontransferable (except
+in accordance with Article 11), exclusive license to:
+
+(i)  develop Permitted Derivatives of the SimSuite Pipeline Software;
+
+(ii) use and demonstrate the SimSuite  Pipeline Software and Permitted
+Derivatives thereof,  provided that such demonstration is without
+disclosure of the source code for the SimSuite  Pipeline Software
+or of other Technical Documentation;
+
+(iii)reproduce  such  copies of the  SimSuite  Pipeline  Software  and
+Permitted Derivatives thereof as are reasonably required to enjoy
+the rights granted in this Section 2.1.a;
+
+(iv) reproduce,   prepare   derivative   works  of,   and   distribute
+Promotional Materials and operators and users manuals relating to
+the SimSuite Pipeline Software; and
+
+(v)  market and sublicense use of the SimSuite  Pipeline  Software and
+Permitted Derivatives thereof, in object code form only;
+
+provided,  however,  that such  exclusive  license shall be for use,
+marketing  and  sublicensing  of  the  SimSuite  Pipeline  Software,
+Permitted  Derivatives  thereof and such  Promotional  Materials and
+operators and users  manuals only in  connection  with systems which
+model  or  simulate  the  gathering,   pipeline  transportation  and
+distribution  of oil,  gas and  petroleum  products  ("Oil &  Gas").
+Notwithstanding  the foregoing,  the license granted in this Section
+2.1.a shall become a nonexclusive license if, within the earlier of:
+
+(A) two (2) years  following  Licensee's  delivery  of the  SimSuite
+Pipeline Software  implementation for Pacific Pipeline System,  Inc.
+pursuant to that certain  agreement between GSE and Pacific Pipeline
+System, Inc. dated July 1, 1997, or
+
+(B) by March 31, 2002,
+
+Licensee  does not  sublicense  the  SimSuite  Pipeline  Software to
+another  unaffiliated  third party in a bona fide  transaction  as a
+part of which reasonable  consideration is paid to Licensee for such
+sublicense and the applicable license fees are to GSE.
+
+(b)  Subject  to all the terms and  conditions  of this  Agreement,  GSE  hereby
+grants to  Licensee,  and  Licensee  hereby  accepts  from GSE, a perpetual
+(subject  to  termination  in  accordance   with  Article  9),   worldwide,
+nontransferable  (except  in  accordance  with  Article  11),  nonexclusive
+license to:
+
+(i)  develop Permitted Derivatives of the SimSuite Pipeline Software;
+
+(ii) use and demonstrate the SimSuite  Pipeline Software and Permitted
+Derivatives thereof,  provided that such demonstration is without
+disclosure of the source code for the SimSuite  Pipeline Software
+or of other Technical Documentation;
+
+(iii)reproduce  such  copies of the  SimSuite  Pipeline  Software  and
+Permitted Derivatives thereof as are reasonably required to enjoy
+the rights granted in this Section 2.1.b;
+
+(iv) reproduce,   prepare   derivative   works  of,   and   distribute
+Promotional Materials and operators and users manuals relating to
+the SimSuite Pipeline Software; and
+
+(v)  market and sublicense use of the SimSuite  Pipeline  Software and
+Permitted Derivatives thereof, in object code form only;
+
+provided,  however,  that  such  license  shall  be  for  use of the
+SimSuite Pipeline Software,  Permitted  Derivatives thereof and such
+Promotional  Materials  and  operators  and  users  manuals  only in
+connection with systems which model or simulate the transmission and
+distribution of electric power ("Electric Power Distribution"),  the
+transportation  and  distribution  of fresh water or collection  and
+transportation  of waste  water  ("Water  &  Wastewater"),  and rail
+traction power distribution ("Rail Traction"); and provided further,
+that for use in Electric Power  Distribution  and Water & Wastewater
+applications, and Rail Traction. Licensee shall market or sublicense
+the SimSuite  Pipeline  Software and Permitted  Derivatives  thereof
+only as an  integrated  solution  with a SCADA System  (which may be
+either an  end-user's  preexisting  system  or a  Licensee-delivered
+system).
+
+(c)  GSE  hereby  grants  Licensee  the  right  to use the  trademark  "SimSuite
+Pipeline" in connection  with the license grants for the SimSuite  Pipeline
+Software  described in sub-sections (a) and (b) above;  provided,  however,
+that  Licensee  shall  not be  permitted  to use the  trademarks  "SimSuite
+Power",  "SimSuite  Pro" or  "SimSuite"  (except  when used within the mark
+"SimSuite  Pipeline").  Licensee  agrees  that  its  use of  the  trademark
+"SimSuite  Pipeline" will be at least  consistent with the quality of GSE's
+use of such  trademark  prior to the Closing  Date and that its use of such
+trademark shall inure to GSE as the owner of the trademark.
+
+2.2. Total Vision Software
+
+Subject to all the terms and conditions of this Agreement,  GSE hereby grants to
+Licensee,  and  Licensee  hereby  accepts  from  GSE  a  perpetual  (subject  to
+termination in accordance with Article 9), worldwide, nontransferable (except in
+accordance with Article 11), license to:
+
+(a)  develop Permitted Derivatives of the TotalVision Software;
+
+(b)  use  and  demonstrate  the  TotalVision  Software  and  Permitted
+Derivatives thereof,  provided that such use and demonstration is
+without   disclosure  of  the  source  code  or  other  Technical
+Documentation for the TotalVision Software;
+
+(c)  reproduce such copies of the  TotalVision  Software and Permitted
+Derivatives  thereof  as are  reasonably  required  to enjoy  the
+rights granted in this Section 2.2;
+
+(d)  reproduce, prepare derivative works of and distribute Promotional
+Materials  and  operators  and  users  manuals  relating  to  the
+TotalVision Software; and
+
+(e)  market  and  sublicense  use of  TotalVision  and  its  Permitted
+Derivatives in object code form only;
+
+provided that Licensee  shall market or sublicense  TotalVision  and
+its Permitted  Derivatives and  Promotional  Materials and operators
+and users  manuals only as part of or bundled with the S/3 Software,
+the SimSuite Pipeline  Software,  Licensee's OASyS software or other
+SCADA software and software  products  developed by Licensee for use
+in connection with SCADA systems.
+
+This license is exclusive for the use,  marketing and  sub-licensing
+of the  TotalVision  Software  with SCADA  systems and  modeling and
+simulation  systems used in connection with the gathering,  pipeline
+transportation  and distribution of oil, gas and petroleum  products
+only, and non-exclusive for all other markets.
+
+
+2.3. New Elegant Software
+
+Subject to all the terms and conditions of this Agreement,  GSE hereby grants to
+Licensee,  and  Licensee  hereby  accepts  from GSE a  non-exclusive,  perpetual
+(subject  to   termination   in   accordance   with   Article   9),   worldwide,
+nontransferable (except in accordance with Article 11), license to:
+
+(a)  develop Permitted Derivatives of the New Elegant Software;
+
+(b)  use  and  demonstrate  the New  Elegant  Software  and  Permitted
+Derivatives thereof,  provided that such use and demonstration is
+without  disclosure  of the  source  code  for  the  New  Elegant
+Software;
+
+(c)  reproduce  such copies of the New Elegant  Software and Permitted
+Derivatives  thereof  as are  reasonably  required  to enjoy  the
+rights granted in this Section 2.3;
+
+(d)  reproduce, prepare derivative works of and distribute Promotional
+Materials and Technical Documentation relating to the New Elegant
+Software; and
+
+(e)  market and  sublicense  use of the New Elegant  Software  and its
+Permitted Derivatives in object code form only;
+
+subject to the following:
+
+*    Buyer's  license  will be  solely  for  use in  applications
+involving  the  transmission  and  distribution  of electric
+power  and the  distribution  of  electric  power  for  rail
+traction purposes only;
+
+*    Buyer shall market or  sublicense  the New Elegant  Software
+only as an integrated  solution  with a SCADA system,  which
+may be either an end-user's  pre-existing  system or a Buyer
+delivered system; and
+
+*    The list  price  for each copy of the New  Elegant  Software
+delivered by Licensee to its customers shall be $25,000 USD.
+2.4. Intentionally Deleted
+
+2.5. Marketing and Sublicensing of Software and Permitted Derivatives.
+
+(a)  When marketing or sublicensing the Software and Permitted Derivatives,
+Licensee shall (i) include in each copy of the Software or a Permitted
+Derivative  distributed by Licensee,  copyright and proprietary rights
+notices approved, as to content and placement, by GSE in writing; (ii)
+make  no   representations   and  warranties,   and  assume  no  other
+obligations,  on  behalf  of  GSE;  and  (iii)  enter  into a  written
+sublicense  agreement with each sublicensee  which affords GSE no less
+protection  than the form of  License  Agreement  attached  hereto  as
+Exhibit A.
+
+(b)  Upon written  notice by Licensee of its desire  promptly to market and
+sublicense  use of the SimSuite  Pipeline  Software and its  Permitted
+Derivatives for use in  applications  other than those provided for in
+Section 2.1 of this Agreement,  GSE shall not  unreasonably  refuse to
+grant a license,  on terms  substantially the same as the terms of the
+grant in Section  2.1.b,  subject to  agreement  of the parties as the
+amount of the  license  fees,  to  market  and  sublicense  use of the
+SimSuite  Pipeline  Software  and  its  Permitted  Derivatives  in the
+additional market.
+
+(c)  Notwithstanding  sub-sections  (a) and (b) above,  Licensee  shall not
+use,   market  or   sublicense   the  Software  for  process   control
+applications,  without the prior written  consent of GSE, which may be
+withheld in GSE's sole discretion.
+
+2.6. Sub-distributors
+
+Licensee may market and sublicense the Software to Licensee's  sub-distributors,
+only for  redistribution  to end users,  provided that Licensee obtains from the
+sub-distributor  a signed  agreement under which the  sub-distributor  agrees to
+market  and  sublicense  the  Software  only in  accordance  with the  terms and
+conditions of this  Agreement  and on terms which afford GSE no less  protection
+than the terms of this Agreement.
+
+2.7. Title, Notices, Acceptance, Etc.
+
+(a)  Licensee  acknowledges  that  GSE owns the  patent,  copyright,  trade
+secret and other  proprietary  rights in the Software and  Promotional
+Materials  and all  copies of the  Software.  GSE grants  Licensee  no
+licenses or other rights with respect thereto,  including any licenses
+by  implication  or  estoppel,  except as  expressly  granted  by this
+Agreement. Licensee shall not develop Derivatives or use, demonstrate,
+market,  copy,  sublicense,  distribute  or disclose  the  Software or
+Derivatives except as specifically authorized herein.
+
+(b)  GSE acknowledges that Licensee will own any patent,  copyright,  trade
+secret and other  proprietary  rights arising from the  development of
+Permitted Derivatives by and for Licensee,  subject to GSE's rights in
+the  Software.  Subject  to all  the  terms  and  conditions  of  this
+Agreement,  Licensee hereby grants to GSE, and GSE hereby accepts from
+Licensee,   a  perpetual,   worldwide,   nontransferable   (except  in
+accordance  with  Article  11),  nonexclusive  license  under  all  of
+Licensee's  patent,  copyright,  trade  secret  and other  proprietary
+rights in Derivatives to use, reproduce,  adapt,  distribute,  perform
+and display any software or other item and to  authorize  others to do
+the same.
+
+(c)  Licensee hereby acknowledges GSE's delivery and Licensee's  acceptance
+of the Software by virtue of the activities  contemplated by the Asset
+Purchase Agreement.
+
+(d)  For a period of one (1) year, commencing on the Closing Date, Licensee
+may use in its  marketing of the Software  and  Permitted  Derivatives
+truthful  statements  identifying  the Software as a former product of
+GSE;  provided  that  Licensee  shall  use  GSE's  name  only  in such
+statements  and  not  use  GSE's  name  or any  trademark  of GSE as a
+trademark  (except for trademarks  transferred to Licensee pursuant to
+the Asset  Purchase  Agreement).  Thereafter,  except as  provided  in
+Section  2.5.a.  with  respect to  copyright  and  proprietary  rights
+notices,  Licensee shall not identify GSE in its marketing of Software
+and Derivatives.  At no time shall Licensee provide to any third party
+any false or  misleading  description  of fact, or false or misleading
+representation  of fact,  or  engage in any  other  activity  which is
+likely to suggest  that GSE is the  then-current  source of supply for
+the Software or Permitted Derivatives or otherwise cause confusion, or
+cause mistake,  or to deceive as to the  affiliation,  connection,  or
+association  of  GSE  with  Licensee,  the  Software,  Derivatives  or
+Promotional Material.
+
+3. Right Of First Refusal
+
+3.1. GSE shall not sell,  transfer,  assign or otherwise dispose of the SimSuite
+Pipeline  Software without first offering to sell the SimSuite Pipeline Software
+to Licensee in accordance  with this Article.  If GSE receives a bona fide offer
+(an  "Offer")  from a third  party not  related to or  affiliated  with GSE,  to
+purchase GSE's rights in the SimSuite Pipeline Software,  and GSE is prepared to
+accept the Offer,  GSE shall  first make an offer in writing to Licensee to sell
+the SimSuite  Pipeline Software to Buyer on the same terms and conditions as the
+Offer.  Notwithstanding the above, GSE may sell, transfer or assign the SimSuite
+Pipeline  Software  to an  affiliate  or parent  company  without  regard to the
+restrictions  in this Article,  provided  that the  affiliate or parent  company
+agrees to be bound by this Agreement.
+
+3.2. GSE's offer to Licensee shall be open for acceptance by Licensee for thirty
+(30) days after its receipt.  If no acceptance is received from Licensee  within
+the  thirty  (30) day  period,  the  offer to sell  shall be deemed to have been
+refused by Licensee  and GSE may proceed  with  selling  the  SimSuite  Pipeline
+Software  at a price not less than the  price,  and on terms not more  favorable
+than the terms at which the SimSuite Pipeline Software was offered to Licensee.
+
+3.3. If no sale of the  SimSuite  Pipeline  Software is  completed by GSE within
+ninety  (90) days  following  the date of  rejection  (or deemed  rejection)  by
+Licensee of GSEs offer,  GSE shall be required,  before selling,  transferring,'
+assigning or otherwise  disposing of the SimSuite  Pipeline  Software,  to again
+offer the SimSuite Pipeline Software to Licensee in the manner set out above.
+
+3.4. The  provisions of this Article shall not apply to commercial  arrangements
+within the  ordinary  course of GSE's  business  outside  the  markets for which
+Licensee's rights are exclusive under this Agreement.
+
+4. Intentionally Deleted
+
+5. Confidentiality
+
+5.1. For the purpose of this Article, the term "Confidential  Information" means
+the Software, Derivatives to the extent they incorporate Software or information
+contained in Software,  and any other  material or  information  relating to the
+Software that GSE treats as confidential  and provides to Licensee in connection
+with this Agreement;  provided that "Confidential  Information" does not include
+any material or  information  that Licensee can  demonstrate:  (i) is or becomes
+publicly  known  through no fault of Licensee,  (ii) is  rightfully  obtained by
+Licensee from a third party not obligated to preserve its confidentiality. (iii)
+by clear and  convincing  documentation,  was already known to Licensee prior to
+the  delivery of any Software  licensed  pursuant to this  Agreement  through no
+infringement  of any  proprietary  right of GSE or  breach of an  obligation  of
+confidentiality owed to GSE, and (iv) by clear and convincing documentation, has
+been independently developed by Licensee without access to the Software licensed
+pursuant to this Agreement.
+
+5.2. Licensee shall not use Confidential  Information for any purpose other than
+in  accordance   with  this  Agreement  and  shall  not  disclose   Confidential
+Information  to any person  other than its  employees  who have signed a written
+nondisclosure  agreement  comparable in scope to this Article and have a need to
+know such Confidential Information.  Notwithstanding the foregoing, Licensee may
+disclose  Confidential  Information  to the extent  required by a court or other
+governmental  authority,  provided that (i) Licensee gives GSE reasonable notice
+of the disclosure,  (ii) Licensee uses reasonable  efforts to resist  disclosing
+the Confidential Information, (iii) Licensee cooperates with GSE on a request to
+obtain a protective order or otherwise limit the disclosure, and (iv) as soon as
+reasonably possible, Licensee provides a letter from its counsel confirming that
+the Confidential Information is, in fact, required to be disclosed.
+
+5.3.  Licensee  shall guard  against  unauthorized  access to or  disclosure  of
+Confidential  Information by  commercially  reasonable  procedures,  which in no
+event  shall be less  protective  than the  procedures  employed  by Licensee to
+protect its own similar  information.  Without  limiting the  generality  of the
+foregoing, Licensee shall (i) store or use the source code for the Software only
+on computers separated from public networks and from private networks that could
+allow access to employees who do not have a need to know such source code;  (ii)
+maintain  logs of the  location  of all  copies of such  source  code and of the
+employees  having access  thereto;  and (iii) provide copies of such logs to GSE
+upon GSE's request.
+
+5.4.  The parties  acknowledge  that  Licensee's  breach of this Article 5 would
+cause GSE  irreparable  injury for which it would not have an adequate remedy at
+law.  In the event of a breach,  the  non-breaching  party  shall be entitled to
+injunctive  relief in  addition  to any other  remedies it may have at law or in
+equity.
+
+6. Infringement Warranty and Indemnity
+
+6.1 GSE represents and warrants that it has the right to license the Software to
+Licensee.  GSE shall  indemnify,  defend,  and hold  harmless  Licensee  and its
+respective  successors  and  assigns  and the  directors,  officers,  employees,
+managing partners and agents of each (collectively,  the "Licensee Group"),  at,
+and at any time after,  the Closing Date,  from and against any and all demands,
+claims, actions, or causes of action, assessments, losses, damages, liabilities,
+costs, and expenses,  including  reasonable fees and expenses of counsel,  other
+expenses of  investigation,  handling,  and litigation,  and settlement  amounts
+(collectively,  a "Loss" or "Losses"),  asserted against,  resulting to, imposed
+upon, or incurred by the Licensee Group,  directly or indirectly,  by reason of,
+resulting  from,  or arising in  connection  with any use of the Software by the
+Licensee  or its  customers  in the same manner used by GSE prior to the Closing
+Date that  infringes the  intellectual  property  rights of any person under the
+laws of the United States or Canada or infringes:
+
+(1)  a patent or copyright  under the laws of the countries  listed in
+Exhibit B; or
+
+(2)  a trade secret  under the laws of any  country,  if the same acts
+also would constitute a  misappropriation  of trade secrets under
+the laws of the United States.
+
+
+If any  portion  of the  Software  is  held to  constitute  an  infringement  or
+misappropriation  and its use is  enjoined  (or if GSE  believes  that  any such
+portion may be so held and enjoined), GSE may at its own expense:
+
+(a)  procure for Licensee the right to continue  using such portion of
+the Software;
+
+(b)  replace such portion of the Software  with a  non-infringing  and
+non-misappropriating   functional   equivalent   satisfactory  to
+Licensee; or
+
+(c)  modify  such  portion of the  Software in a way  satisfactory  to
+Licensee    so    that    it    becomes     non-infringing    and
+non-misappropriating.
+
+6.2 Licensee shall indemnify,  defend,  and hold harmless GSE and its successors
+and  assigns  and  the  directors,   officers,  employees,  and  agents  of  GSE
+(collectively,  the "GSE Group"),  at, and at any time after,  the Closing Date,
+from and against any and all Losses  asserted  against,  resulting  to,  imposed
+upon,  or  incurred  by the GSE Group,  directly  or  indirectly,  by reason of,
+resulting  from, or arising in connection with Licensee's use or distribution of
+the Software or  Derivatives,  except to the extent that such Losses are subject
+to GSE's indemnification obligations under the provisions of Section 6.1 of this
+Agreement or Article 11.1 of the Asset Purchase Agreement.
+
+6.3 The party  entitled to  indemnification  hereunder  (the  "Claimant")  shall
+promptly  deliver to the party liable for such  indemnification  hereunder  (the
+"Obligor")  notice in writing (the "Required  Notice") of any claim for recovery
+under Section 6.1 or Section 6.2,  specifying in reasonable detail the nature of
+the Loss,  and,  if known,  the amount,  or an  estimate  of the amount,  of the
+liability  arising  therefrom (the  "Claim").  The Claimant shall provide to the
+Obligor as promptly as  practicable  thereafter  information  and  documentation
+reasonably  requested  by the Obligor to support and verify the claim  asserted,
+provided  that, in so doing,  it may restrict or condition any disclosure in the
+interest of preserving privileges of importance in any foreseeable litigation.
+
+6.4 The  parties  agree  that any  breach of the  foregoing  representation  and
+warranty in this Article 6 or claim to  indemnification  under this Article 6 is
+subject to the  provisions of Articles  11.3,  11.4,  11.5 and 11.6 of the Asset
+Purchase Agreement.
+
+7. Warranties
+
+EXCEPT AS  PROVIDED IN SECTION  6.1,  SOFTWARE  AND  PROMOTIONAL  MATERIALS  ARE
+PROVIDED "AS IS," AND GSE MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE
+IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+8. Limitation of Liability
+
+GSE SHALL NOT BE LIABLE HEREUNDER FOR INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THEIR POSSIBILITY.
+
+9. Termination
+
+If Licensee fails to comply with any material  provision of this Agreement,  GSE
+may give  Licensee  written  notice of breach  and,  unless such breach is fully
+cured within  thirty (30) days after the receipt of notice by Licensee,  GSE may
+thereupon,  at its option,  terminate this Agreement upon further written notice
+to Licensee.
+
+10. Notices
+
+Any notice,  request,  instruction,  other communication or other document to be
+given  hereunder  by any party hereto to the other party shall be in writing and
+delivered  personally,  telecopied  or sent  by  recognized  overnight  delivery
+service,  and shall be deemed  given when so  delivered  personally,  telecopied
+(with appropriate confirmation of receipt) or received, as follows:
+
+If to GSE, to:
+
+GSE Process Solutions, Inc.
+9189 Red Branch Road
+Columbia, MD 21045
+Attention:  Thomas K. Milhollan
+
+If to Licensee, to:
+
+Valmet Automation SAGE Systems Division
+C/O 10333 Southport Road S.W.
+Calgary, AB, Canada, T2W 3X6
+Attention: Cameron Demcoe
+
+with copies to:
+
+Arent Fox Kintner Plotkin & Kahn
+1050 Connecticut Avenue, N.W.
+Washington, D.C. 20036-5339
+Attention:  Gerald P. McCartin, Esq.
+
+or at such other  addresses  for a party as shall be  specified by notice to the
+other party.
+
+11. Assignment
+
+11.1. This Agreement shall not be assignable by either party hereto,  whether by
+written  instrument or by operation of law,  without the written  consent of the
+other party,  which  consent shall not be withheld  unreasonably;  provided that
+either  party may assign this  Agreement  to any entity into which such party is
+merged or to which all or substantially  all the assets of its business relating
+to the Software is transferred  (subject to the right of first refusal  provided
+in Article 3 hereof),  if such party  provides  the other  party  prior  written
+notice of such assignment together with a written  confirmation by the assignee,
+reasonably  satisfactory  in form and  substance to the other  party,  that such
+assignee  agrees to, and agrees to be bound by, all of the terms and  conditions
+of this  Agreement.  Any  purported  assignment  in violation of this Article 11
+shall be void.
+
+11.2.  Licensee agrees that,  should it intend to assign or otherwise  transfer,
+including  by merger or other  operation  of law, any or all of its rights under
+this  Agreement  as  permitted  by  this  Section  11.1 to any of  GSE's  direct
+competitors in the computer-based simulation business, or an affiliate of such a
+competitor  of GSE,  GSE shall have a right of first  refusal to acquire any and
+all  rights  under  this   Agreement   intended  to  be  assigned  or  otherwise
+transferred.  Accordingly,  Licensee shall not assign or otherwise  transfer its
+rights  under this  Agreement  without  first  offering  such  rights to GSE and
+permitting  GSE thirty (30) days to evaluate  whether to acquire the same on the
+terms  offered by Licensee.  If GSE  manifests  its desire to acquire the rights
+under this  Agreement on the terms  offered,  the parties shall  consummate  the
+assignment  or other  transfer  within  thirty (30) days.  Only if GSE elects in
+writing  not to acquire  the same on the terms  offered  or the thirty  (30) day
+period  passes  without GSE electing in writing to acquire the same on the terms
+offered may Licensee sell the rights under this Agreement to a third party,  and
+only then for the price and on the terms offered to GSE.
+
+12. Export Controls
+
+12.1.  Licensee  shall  comply  with any  export  control  laws and  regulations
+applicable to the Software. Licensee shall indemnify GSE for any and all damages
+and fines  resulting  from a violation  of  applicable  export  control laws and
+regulations that occurs after the Closing Date.
+
+13. Miscellaneous
+
+13.1. This Agreement (including any and all Exhibits hereto), the Asset Purchase
+Agreement, and the other certificates,  agreements,  and other instruments to be
+executed  and  delivered  by the  parties in  connection  with the  transactions
+contemplated  hereby,  constitute  the sole  understanding  of the parties  with
+respect to the subject matter hereof. No amendment,  modification, or alteration
+of the terms or provisions of this  Agreement  shall be binding  unless the same
+shall be in writing and duly executed by the parties hereto.
+
+13.2. This Agreement may be executed in one or more counterparts,  each of which
+shall  for all  purposes  be  deemed to be an  original  and all of which  shall
+constitute the same instrument.
+
+13.3.  The  headings  of  the  Articles  of  this  Agreement  are  inserted  for
+convenience only and shall not be deemed to constitute part of this Agreement or
+to affect the construction hereof.
+
+13.4.  Any of the terms or conditions of this Agreement may be waived in writing
+at any time by the party that is entitled to the benefits thereof.  No waiver of
+any of the provisions of this Agreement shall be deemed to or shall constitute a
+waiver of any other provision hereof (whether or not similar).
+
+13.5.  This Agreement  shall be construed in accordance with and governed by the
+laws of the  State of  Maryland  without  giving  effect  to the  principles  of
+conflicts of law thereof.
+
+13.6.  GSE and Licensee  shall consult with each other before  issuing any press
+releases  or  otherwise  making  any  public  statements  with  respect  to this
+Agreement and the  transactions  contemplated  hereby.  Neither GSE nor Licensee
+shall  issue any such press  release or make any public  statement  without  the
+agreement of the other party,  except as such party's counsel advises in writing
+may be required by law.
+
+13.7.  With the exception of the parties to this Agreement  there shall exist no
+right of any person to claim a  beneficial  interest  in this  Agreement  or any
+rights occurring by virtue of this Agreement.
+
+13.8. All covenants,  agreements,  representations,  and warranties  made herein
+shall survive the  execution and delivery of this  Agreement and the Closing and
+shall not be deemed waived or otherwise  affected by any  investigation  made by
+any party hereto.
+
+13.9.  Words of inclusion shall not be construed as terms of limitation  herein,
+so that  references  to "included"  matters  shall be regarded as  nonexclusive,
+noncharacterizing illustrations.
+
+
+
+[This space intentionally left blank, go to next page]
+
+
+IN WITNESS  WHEREOF,  each of the parties hereto has caused this Agreement to be
+executed on its behalf on the date indicated.
+
+GSE PROCESS SOLUTIONS, INC.
+
+
+By:
+Name:
+Title:
+
+
+THE SAGE SYSTEMS DIVISION
+OF VALMET AUTOMATION (USA), INC.
+
+
+By:
+Name:
+Title:
+
+THE SAGE SYSTEMS DIVISION
+OF VALMET AUTOMATION (CANADA) LTD.
+
+
+By:
+Name:
+Title:
+

@@ -1,0 +1,1027 @@
+
+
+
+
+
+
+
+
+
+<PAGE>
+EXHIBIT 10.34
+
+SOFTWARE LICENSING AGREEMENT
+
+FOR LICENSE TO DEVELOPERS
+
+THIS AGREEMENT is made on July 23, 2001 by and between:
+
+1.   BT WIRELESS LIMITED, a company registered in England & Wales (registered no
+2604354) whose registered office is at 81 Newgate Street, London, EC1A 7AJ,
+("BT Wireless"); and
+
+2.   GEOWORKS UK LIMITED,  a company  registered in England with its  registered
+offices at Lyme Green Business Park, Macclesfield,  Cheshire,  England SK11
+0JP ("Geoworks")
+
+Individually  referred to as a "Party" and collectively  referred to as the
+"Parties".
+
+WHEREAS
+
+(A)  BT Wireless and  Geoworks  intend to work  together to provide  Developers,
+which could  include BT  Wireless  subsidiaries,  with the  AirBoss  Client
+Software  and the  associated  Software  Development  Kit  ("SDK"),  API's,
+Documentation,   support  and  training  to  enable  the   development   of
+Applications that can operate within a 2G, GPRS and 3G wireless environment
+utilising the BT Wireless properties.
+
+(B)  Geoworks wishes to provide their AirBoss Software free of charge for use in
+the  EXPIDAS  environment,  to provide  suitable  hardware  for the AirBoss
+Software on a loaned basis,  and third party  software,  and to promote the
+platform with the BT Wireless  development  community.  The initiative will
+result in the developer  community  gaining  access to the SDK at no charge
+for development  activities with a license  requirement before Live Service
+can be launched.  Geoworks also wishes to provide their AirBoss Software to
+BT Wireless,  and BT Wireless wishes Geoworks to license the AirBoss Client
+Software and SDK to selected Developers upon the Developers'  acceptance of
+the terms  included  in the SDK,  such terms to be in the form  attached as
+Appendix 4 ("SDK License Agreement").
+
+(C)  Geoworks and BT Wireless will sign a further software  licensing  agreement
+("Software  Licensing  Agreement"),  concurrent with this Agreement,  which
+will permit BT Wireless  to utilise the AirBoss  Software in its  facility,
+integrated into its network, for up to 1000 subscribers at any one time.
+
+<PAGE>
+
+2
+
+IT IS HEREBY AGREED:
+
+1.   DEFINITIONS
+
+In this Agreement the following words shall bear the following meanings:
+
+"Application"  means a software  system,  or design  for a software  system
+developed  (utilising the SDK) licensed to BT Wireless and/or to Developers
+under  this  Agreement,  that  provides  a set of user  functions  aimed at
+facilitating  the  delivery  of content  and  functionality  to BT Wireless
+customers and/or customers of BT Wireless subsidiaries;
+
+"Developer"  means  any  developer,  which  would  include  a  BT  Wireless
+subsidiary,  which has executed a Developer License (as defined below) with
+Geoworks;
+
+"Developer License" means a licence as described in clause 3(a) for the SDK
+and the AirBoss Client  Software,  provided free of charge from Geoworks to
+Developers, upon the Developers' acceptance of the SDK License Agreement.
+
+"Documentation"  means the  manuals,  specifications  and  other  documents
+provided with the AirBoss Software.
+
+"Effective Date" is the date the last Party executes this Agreement;
+
+"EXPIDAS" means BT Wireless Application Information Testing and Integration
+facility;
+
+"EXPIDAS  Club" means the limited  group of chosen  parties which will have
+the benefit of use of EXPIDAS;
+
+"Live Service" includes the commercial launch of an Application, service or
+solution utilising the AirBoss Software on a BT Wireless associated network
+other than for development and testing purposes;
+
+"AirBoss Client  Software" means that portion of the AirBoss  Software that
+operates  on  wireless  devices  and  which is  dependent  upon the  server
+software within the AirBoss Software to enable it to function.
+
+"AirBoss Software" means Geoworks AirBoss(TM) Application Platform software
+consisting of 5 key software components:
+
+(a)  Wireless application platform server software that integrates into and
+supports the wireless carrier network and back office infrastructure;
+
+(b)  Mobile device API's and SDK's for the, Palm OS, Pocket PC,  Windows CE
+and Windows 2000/NT platforms for C++ development environments:
+
+o    ABInet  API  -  client/server  API  for  web-based   applications
+development;
+
+o    ABMAT API - designed for client/server legacy systems;
+
+(c)  AirBoss Microbrowser supporting WML browser for the Palm OS;
+
+(d)  Pocket IE support for Pocket PC and Windows CE;
+
+<PAGE>
+
+3
+
+(e)  Internet Explorer support for Windows 2000/NT;
+
+"Agreement" means this agreement;
+
+"Background  Intellectual  Property Rights" or "BGIPR" of a Party means any
+IPR of such Party,  or any IPR  acquired or licensed  from a third party to
+such Party  (including  its  affiliates),  that is conceived,  created,  or
+developed  prior  to or  independent  of  any  work  performed  under  this
+Agreement,  whether or not such IPR is incorporated into a deliverable; but
+excluding Foreground IPR in all cases;
+
+"Equipment"  means the  equipment  and  software  set out or referred to in
+Appendix 1;
+
+"Foreground  Intellectual Property Rights" or "FGIPR" means any IPR that is
+conceived,  created,  developed or contracted to be developed by a Party in
+the course of performing work under this Agreement, whether or not such IPR
+is  incorporated  into  or  infringed  by the  exploitation  of one or more
+deliverables,  and shall include for greater certainty all IPR incorporated
+in deliverables that is not Background IPR;
+
+"Intellectual  Property  Rights" or "IPR" means any patent,  registered  or
+unregistered  design,  copyright,  design right, trade mark, semi conductor
+topography right, know-how, or similar right exercisable in any part of the
+world whether registered or unregistered and shall include any applications
+for the registration of any patents or registered designs or trade marks or
+similar registerable rights in any part of the world. It includes BGIPR and
+FGIPR.
+
+2.   TERM
+
+This  Agreement  shall take effect upon signature and shall remain in place
+for a period of two years  extendable  by  written  agreement  between  the
+Parties and subject to earlier termination in accordance with Clause 9.
+
+3.   DUTIES OF THE PARTIES
+
+The Parties hereby agree:
+
+o    To collaborate  with each other and use all  reasonable  endeavours to
+carry  out  the  stated   activities  and  avoid  any  delay  in  such
+collaboration.
+
+o    To make sure that the  employees  involved in the  performance  of the
+work  required to be carried out by or referred to in this  Agreement,
+possess  the  appropriate  skills  and  experience.  All work shall be
+carried    out in accordance with all applicable laws and regulations.
+
+<PAGE>
+
+4
+
+In particular, GEOWORKS shall:
+
+(a)  Provide, install, set up and test to the parties' mutual satisfaction,
+at no cost, one (1) AirBoss  server,  including the AirBoss  Software,
+the hardware and third party  software  within  EXPIDAS  which will be
+enabled with an appropriate licence for the AirBoss Server Software to
+support one (1) server.  Geoworks will also provide,  upon Developers'
+acceptance  of  the  SDK  License  Agreement,  unlimited  AirBoss  SDK
+Licenses from Geoworks to  Developers  for Geoworks  AirBoss API's and
+SDK  toolkits,  free of  charge.  All  testing  will be to the  mutual
+satisfaction  of BT Wireless  and  Geoworks.  Development  Licences to
+Developers will be granted on the basis that each Developer accepts an
+SDK License Agreement. In the event Geoworks reasonably concludes that
+the testing  referred to above is complete and BT Wireless  disagrees,
+then  Geoworks  may  terminate  testing and BT  Wireless  can elect to
+terminate this Agreement on ten days' notice as its exclusive remedy.
+
+(b)  Develop  and  maintain,  over  the  term  of this  Agreement,  AirBoss
+GSM/GRPS  server and wireless device software for, but not limited to,
+the  RIM  Blackberry  handhelds,  Palm  OS  and  Pocket  PC  platforms
+including a WML Browser for the RIM,  Palm and Pocket PC  Platforms at
+Geoworks' cost. Any withdrawal of support for a client device platform
+will only be by prior written  mutual  agreement  between the Parties.
+Any BT Wireless request for support of a new client device or platform
+must be mutually agreed upon by both Parties.
+
+(c)  Provide  support  for  co-branded   products  or  BT  Wireless-branded
+GSM/GPRS/3G based API's SDK's WML Browsers,  documentation and related
+developer resources.
+
+(d)  Help  to  define  the  requirements  and  assist  BT  Wireless  in the
+implementation and launch of a BT Wireless-branded developer programme
+for the AirBoss Software.
+
+(e)  Provide Support Services,  Maintenance  Services,  Training  Services,
+Updates, upgrades and Documentation and software licences described or
+referred to in Appendix 3.
+
+(f)  Notify BT Wireless as far in advance as  practicable  of any  prepared
+patches,  upgrades,  new  versions  and/or new  releases of any of the
+AirBoss Software and SDK and related Documentation.
+
+(g)  Provide  reasonable  assistance,  as  mutually  agreed,  to support BT
+Wireless activities in Marketing and Publicising EXPIDAS.
+
+In particular,  BT Wireless  shall in addition to the benefits  outlined in
+Appendix 2:
+
+<PAGE>
+
+5
+
+(a)  Adequately staff and train sales, marketing, operational, professional
+service  and  technical  support  personnel  sufficient  to perform BT
+Wireless' obligations under this Agreement.
+
+(b)  Include  Geoworks  as a member  of the  EXPIDAS  Club as  outlined  in
+Appendix 2.
+
+(c)  Provide Tier One Support to Developers as set out in Appendix 3.
+
+
+4.   BT WIRELESS AND GEOWORKS 'S INTELLECTUAL PROPERTY RIGHTS
+
+4.1  Ownership
+
+(a)  Each Party shall maintain all rights in and title to its own BGIPR.
+
+(b)  All rights in and title to FGIPR shall vest in the originating  Party,
+as no joint origination is contemplated.
+
+(c)  So long as any Applications developed by Developers do not contain any
+portion of the AirBoss  Software or any other Geoworks BGIPR or FGIPR,
+BT Wireless or Developer shall retain all right, title and interest in
+the  Applications.  To the extent  that any  Applications  include the
+AirBoss Software or portions thereof,  or require the AirBoss Software
+or portions  thereof in order to function  properly,  Geoworks retains
+all right and interest in such AirBoss  Software and portions  thereof
+incorporated  into the  Applications or required by the Application in
+order to function.
+
+4.2  Licences
+
+(a)  Subject to Clause 4.2(h),  Geoworks hereby grants to BT Wireless,  for
+the term of this Agreement and subject to the terms and conditions set
+forth   in   this   Agreement   and  in   Appendix   3,   a   limited,
+non-transferable,  non-exclusive, license and right to use one copy of
+the AirBoss  Software and the  Documentation  for the purposes of: (a)
+promoting the AirBoss Software to Developers;  (b)  demonstrating  the
+AirBoss Software to potential  Developers;  (c) providing training and
+support to employees and  Developers  in accordance  with BT Wireless'
+obligations  under this Agreement (d)  installing and testing  AirBoss
+Client  Software to Developers  receiving the AirBoss Client  Software
+from BT Wireless pursuant to this Agreement.
+
+(b)  If BT Wireless  provides copies of the AirBoss Client Software and SDK
+to Developers, BT Wireless will ensure that Developers enter into with
+Geoworks an SDK License Agreement. If the copies of the AirBoss Client
+Software and SDK are provided directly to Developers by Geoworks,  the
+execution of the Developer License is Geoworks' responsibility.
+
+<PAGE>
+
+6
+
+(c)  The license  rights  provided  in clause  4.2(a),  are  provided to BT
+Wireless and Developers free of license fees provided that BT Wireless
+and Developers do not use Applications in Live Service.
+
+(d)  In  addition  to the  license  rights  provided  under this  Clause 4,
+Geoworks will provide one (1) AirBoss server hardware configuration to
+BT Wireless on the basis it is on loan to BT Wireless.  Such  hardware
+configuration  shall be returned to Geoworks upon any  termination  of
+this Agreement in accordance with clause 9.
+
+(e)  BT Wireless shall reproduce any proprietary rights notices of Geoworks
+and/or  contributing  third  parties,  if any,  contained in or on all
+partial or complete copies of the AirBoss  software and  documentation
+on  all  partial  or  complete  copies  of  the  AirBoss  Software  or
+Documentation.
+
+(f)  BT Wireless may not sublicense,  assign, or otherwise  transfer any of
+its rights in the licenses set forth herein to any third party save to
+a BT Wireless subsidiary upon the same terms as this Agreement and any
+attempt  to do so shall be null  and void and be cause  for  immediate
+cancellation of the Agreement.
+
+(g)  Other than as expressly  provided in this Agreement or in the separate
+Software Licensing  Agreement,  BT Wireless may not modify the AirBoss
+Software  or  Documentation  or place them into Live  Service  without
+prior  written  permission  from  Geoworks,  such  consent  not  to be
+unreasonably  withheld  or delayed and  subject to  appropriate  terms
+being agreed.  BT Wireless  agrees not to decompile,  disassemble,  or
+otherwise reverse engineer the AirBoss Software.
+
+(h)  BT Wireless agrees not to duplicate or reproduce the AirBoss  Software
+in whole or in part,  except as expressly  provided in this Agreement.
+BT Wireless  may make one copy of part or all of the AirBoss  Software
+and Documentation  for back-up  purposes,  including the making of any
+copies  that may be required to be made to enable a move of the server
+hosting the AirBoss Software from one BT Wireless location to another.
+BT Wireless  must give Geoworks  reasonable  notice of such a move. BT
+Wireless  agrees  that any such  copy  shall  include  the  copyright,
+trademark and proprietary information notices of Geoworks. BT Wireless
+shall be entitled to copy the Documentation and SDK or reproduce it on
+an  EXPIDAS  web site to be made  available  to  Developers.  For this
+purpose,  Geoworks will ensure that BT Wireless has available to it at
+all  times  the  latest  release  of  the  SDK  consistent   with  the
+appropriate  release of the  version of the  AirBoss  Software  within
+EXPIDAS.
+
+<PAGE>
+
+7
+
+5.   CONFIDENTIALITY AND PUBLICITY
+
+5.1  This  Agreement  is subject to the  confidentiality,  disclosure  and other
+provisions  contained  in the  Mutual  Confidentiality  Agreement  in place
+between the Parties and effective March 19, 2001.
+
+5.2  Neither  Party  shall  make  any  announcement,  circular,  press  release,
+advertisement or publicity,  which concerns this Agreement or other related
+matter without the other party's prior written consent,  which shall not be
+unreasonably  withheld.  Notwithstanding  the  foregoing,  Geoworks  and BT
+Wireless  shall  mutually  develop a press release  related to BT Wireless'
+license,  deployment and rights related to the AirBoss Software. Such press
+release will be developed  with a  reasonable  timeframe  and is subject to
+agreement by both Parties.
+
+6.   INTELLECTUAL PROPERTY INDEMNITY
+
+6.1  If a third  party  brings  any claim,  proceeding  and/or  suit  against BT
+Wireless  alleging that the access to or use of the AirBoss Software or SDK
+or  Documentation  infringes any third party  Intellectual  Property  Right
+("Infringement  Claims"),  then Geoworks shall be  responsible,  at its own
+expense, for defending, or at its option,  settling, the Infringement Claim
+and shall indemnify BT Wireless or relevant BT Wireless  subsidiary against
+any costs, damages, liabilities, losses or expenses incurred by BT Wireless
+or relevant BT Wireless  subsidiary  arising from the Infringement  Claims.
+Geoworks shall  immediately on becoming aware of such  Infringement  Claim,
+notify BT Wireless or relevant BT Wireless subsidiary promptly in writing.
+
+6.2  Geoworks' obligations under this Clause shall be conditional on BT Wireless
+or  relevant BT  Wireless  subsidiary  (i)  promptly  advising  Geoworks in
+writing of any such  Infringement  Claim,  (ii) making no  admission  as to
+liability  or  agreement  to any  settlement  or  compromise  of  any  such
+Infringement  Claim without  Geoworks' prior written consent,  (iii) giving
+Geoworks,  at its  request,  sole  conduct or any  defence  or any  related
+settlement  negotiations,  and (iv)  co-operating  fully with  Geoworks and
+providing Geoworks with all reasonably  required  assistance in the defence
+or settlement of such Infringement Claim.
+
+6.3  In the event that a claim of  infringement  is made against  Geoworks or BT
+Wireless  a relevant  BT  Wireless  subsidiary  or if  Geoworks  reasonably
+believes  that such a claim  will be made,  Geoworks,  at its option and in
+lieu of  indemnification,  may (a) procure for the other Party the right to
+use the Geoworks  Software  without patent or copyright  infringement;  (b)
+modify the Geoworks  Software to make it  non-infringing  provided  that is
+shall continue to deliver the same or equivalent functionality as described
+in the  Documentation  and has no other  material  adverse  effects  for BT
+Wireless and/or its relevant subsidiary;  (c) replace the Geoworks Software
+with  substantially  equivalent
+
+<PAGE>
+
+8
+
+software that is  non-infringing  and which delivers the same or equivalent
+functionality as described in the  Documentation  and has no other material
+adverse  effects for BT Wireless and its  subsidiaries.  If Geoworks and BT
+Wireless reasonably determine that (a), (b) or (c) above cannot be achieved
+on  commercially  practicable  terms,  then Geoworks may direct BT Wireless
+and/or the  relevant  BT  Wireless  subsidiary  to cease use of the AirBoss
+Software.
+
+6.4  Despite the foregoing,  Geoworks shall have no  indemnification  obligation
+with  respect  to claims  that could  have been  avoided  (i) by using more
+current  releases of the AirBoss  Software that have been made available to
+BT  Wireless;  (ii) had BT  Wireless or the user not  modified  the AirBoss
+Software  without  Geoworks'  written  approval;  and (iii) if the  AirBoss
+Software were being used in isolation rather than in combination with other
+technology save as contemplated by this Agreement. The foregoing provisions
+of this Clause  state the entire  liability of Geoworks and the sole remedy
+of other Party with respect to any  Infringement  Claim in connection  with
+the Geoworks Software or the use or dealing therewith.
+
+7.   COSTS AND EXPENSES
+
+Each Party shall be  responsible  for the costs and expenses of  performing
+its obligations  under this Agreement or an Appendix,  unless  specifically
+stated  otherwise,   and  for  any  costs  and  expenses  involved  in  the
+preparation and negotiation of this Agreement.
+
+8.   WARRANTY AND INDEMNITY
+
+8.1  Subject to the terms and conditions of this  Agreement,  Geoworks  warrants
+that for a period  of  ninety  (90)  days  from the date of  completion  of
+installation,  set up and  testing  under  clause  3(a)  above,  Errors (as
+defined in Appendix 3) of the Geoworks  Software  will be rectified as soon
+as  practicable  and free of charge.  Geoworks  makes no other  warranties,
+express or implied, for the AirBoss Software or any services provided under
+this  Agreement.  All claims and remedies under the foregoing  warranty are
+limited as provided in this Agreement.
+
+8.2  If the AirBoss  Software does not conform to the limited warranty stated in
+clause 8.1 Geoworks,  at its option,  shall either (i) provide  maintenance
+modifications  or otherwise remedy such  non-conformance,  (ii) replace the
+Geoworks  Software with software that conforms to such limited warranty and
+delivers the functionality described in the Documentation,
+
+8.3  Each Party agrees to indemnify  and hold  harmless the other Party  against
+any loss, liability,  damage or expense,  which it may incur as a result of
+the failure of the
+
+<PAGE>
+
+9
+
+indemnifying  Party to comply with its obligations  under this Agreement or
+negligence.  In no  circumstance  will either  Party be liable to the other
+whether in contract,  tort (including negligence) or howsoever otherwise in
+respect of any indirect or consequential loss, loss of revenue,  profits or
+business,  loss of use or data  whether such loss was foreseen or not or if
+the Party has been advised of the possibility of incurring the same.
+
+8.4  The Parties' maximum aggregate liability to each other arising out of or in
+connection  with this  Agreement,  whether  in  contract,  tort  (including
+negligence) or otherwise shall (except for damages  resulting from a breach
+of Clause 5 and except for the intellectual property indemnity which are in
+addition) in no circumstances exceed US$250,000.
+
+9.   TERMINATION, CONSEQUENCES OF TERMINATION AND SURVIVING CLAUSES
+
+9.1  In the event that either Party or its assignee is in material breach of its
+obligations  herein  and does not  correct  such  breach  within 30 days of
+notification  by the other Party then  without  prejudice  to its  existing
+rights  and  remedies  at law,  the  other  Party  shall  have the right to
+terminate this Agreement.
+
+9.2  Either Party may terminate  this  Agreement  forthwith on written notice if
+the other Party or its assignees shall be or be declared  insolvent,  enter
+into    liquidation,     receivership,     administrative     receivership,
+administration,   a  company  voluntary  arrangement,   or  any  bankruptcy
+proceedings or any circumstances  arise which would entitle a court to make
+a winding up order or any similar proceedings or events or their equivalent
+in any relevant jurisdiction.
+
+9.3  In the event of termination as defined above, the Party not in breach shall
+have the right to terminate any rights granted in accordance  with Clause 4
+and any Information supplied shall be returned to the party which disclosed
+it.  Additionally,  BT Wireless shall return to Geoworks the AirBoss Server
+hardware configurations loaned to BT Wireless.
+
+9.4  Termination of this Agreement shall be without prejudice to any rights that
+may have accrued to either Party prior to the date of termination.
+
+9.5  Notwithstanding  termination of this  Agreement for any reason,  Clauses 1,
+4.1,  5, 6, 7, 8, 9 and 10 of this  Agreement  shall  nevertheless  survive
+termination.
+
+10.  MISCELLANEOUS
+
+10.1 Either Party may transfer or assign any of its rights and obligations under
+this  Agreement to any  subsidiary or holding  company of that Party or any
+subsidiary  of either of them  from  time to time  provided  that the other
+Party gives its written consent,  which shall not be unreasonably  withheld
+or delayed.  Either Party may, however,  without the other party's
+
+<PAGE>
+
+10
+
+consent,  assign  this  agreement  to a third  party  who  acquires  all or
+substantially all of such party's business.
+
+10.2 The  relationship  of the Parties  hereunder  are those of two  independent
+parties  and each Party is not an  employee,  agent or partner of the other
+Party.  Neither  Party  shall  have any  authority  whatsoever  to make any
+binding  agreement  or incur  any  obligation,  liability  and/or  make any
+representation(s) on behalf of the other.
+
+10.3 Nothing  in  this  Agreement  shall  prevent  either  Party  from  pursuing
+independent  research or  developing  products  which may compete  with the
+Applications,  provided  that in  doing  so,  no use is  made of the  other
+Party's  Information,  Intellectual  Property Rights and Background  and/or
+Foreground  Intellectual  Property  Rights,  unless the Information  and/or
+Intellectual Property Rights and Background and/or Foreground  Intellectual
+Property Rights have been licensed to that Party without any restriction as
+to their usage.
+
+10.4 Any  variations  to this  Agreement  shall be mutually  agreed  between the
+Parties in writing and recorded hereto as an amendment to this Agreement.
+
+10.5 This  Agreement  shall be  governed  by  English  Law and be subject to the
+non-exclusive jurisdiction of the English courts.
+
+10.6 No person other than a Party to this Agreement shall be entitled to enforce
+any term of it save that where an  agreement  is entered  into  pursuant to
+which  any  rights  and/or  obligations  contained  in this  Agreement  are
+assigned,  nothing in this clause 10.7 shall, of itself, operate to prevent
+the  assignee  from  taking the benefit  of, and  enforcing,  any rights so
+assigned.
+
+10.7 In the event that BT Wireless generates a standard agreement  governing the
+detailed  terms and  conditions of membership of the EXPIDAS Club,  such as
+security,  co-operation as to timing of the use of EXPIDAS, restrictions on
+the types of  Applications  which may be created  using  EXPIDAS  and other
+matters Geoworks will enter into such agreement on terms no less favourable
+than those  extended to other  members of the  EXPIDAS  Club or if Geoworks
+fails to do so, BT Wireless can elect to terminate this Agreement on thirty
+(30) days  notice as its  exclusive  remedy.  There is no  current  payment
+obligation for membership of the EXPIDAS Club.
+
+10.8 The terms and conditions of this Agreement shall apply only to BT Wireless'
+and its  Developers'  use of the AirBoss  Software as part of BT  Wireless'
+EXPIDAS developer program.  Any use of the AirBoss Software in a production
+or  commercial  environment  must be preceded by the execution of a further
+software licensing agreement between the parties.
+
+10.9 Notices:  Any notices required or permitted to be given unde this Agreement
+shall  be  deemed  sufficiently  given if  delivered  by  hand,  mailed  by
+registered  mail,  postage prepaid
+
+<PAGE>
+
+11
+
+and  return  receipt  requested  or  sent  by  overnight  courier  (with  a
+confirmation of delivery obtained) to the address indicated below:
+
+If to Geoworks to:
+
+Geoworks UK Limited
+Lyme Green Business Park,
+Macclesfield,
+Cheshire,
+SK11 0JP
+England
+Att: Managing Director
+
+
+If to BT Wireless
+
+BT Wireless Limited
+PPZ.W.41
+Slough
+SL1 4DX
+Att: Head of Applications Development
+John Waterfield
+
+
+AS WITNESS the duly authorised representatives of the Parties hereto have signed
+this Agreement on the date hereof:
+
+
+SIGNED by //P.H. Lisle//                             )
+For and on behalf of BT WIRELESS LIMITED             )
+in the presence of: //S. Newstead//                  )
+
+
+
+
+SIGNED by //Dave Pepe//                              )
+For and on behalf of GEOWORKS UK                     )
+LIMITED  in the presence of: //D. Gottdenker//       )
+
+<PAGE>
+
+12
+
+APPENDIX 1
+
+EQUIPMENT AND SOFTWARE TO BE LOANED BY GEOWORKS TO BT WIRELESS LIMITED1
+
+
+AirBoss Server Hardware
+Compaq ProLiant DL380 - Dual P3-800 MHz Pentium Processor
+512 MB RAM (minimum)
+Dual Ultra SCSI Controllers
+Two 9GB SCSI hard disks (Duplex configuration)
+10/100-Base T Ethernet Adapter Card
+3.5" 144 MB Floppy Drive
+4mm 4/8 GB DAT Drive
+CD ROM Drive (24X)
+Color Monitor (17")
+4 M High Resolution Graphics Card (Capable of 1280 x 1024)
+Keyboard / Mouse
+
+
+AirBoss Server 3rd-Party Software
+Sun(R)  Solaris(TM)  8  Operating  Environment,   Intel  Platform  Edition.
+Required Solaris patches for Compaq DL 380:
+
+o    CPQary - Compaq    Array     Controller,     Version=1.1.1,
+Rev=2000.01.26.02.20
+
+o    CPQary2 - Compaq   Second   Generation   Array   Controllers,
+Version=1.3.0, Rev=2001.02.02.01.30
+Sun Java Web Server v2.0
+
+o    With  Java Web  Server  2.0  Patch 4 for  Solaris  (modified  for
+Intel-based hardware)
+Oracle 8i Enterprise Edition - Release 3(8.1.7) for Solaris Intel
+
+<PAGE>
+
+13
+
+APPENDIX 2
+
+BENEFITS OF THE EXPIDAS CLUB
+
+
+o    Access to EXPIDAS, a world class leading edge capability consisting of
+a miniature replica of BT Cellnet's networks
+
+o    Access to EXPIDAS  developer  booths at Ealing  Studios with dedicated
+time slots
+
+o    "Plug and Play" capability
+
+o    Regular communication with other Developers
+
+o    Availability of showcase facility
+
+o    Access to targeted global developer community
+
+o    BT Wireless  European and Asian brand presence  coupled with own brand
+presence
+
+o    Applications and services in a live environment
+
+<PAGE>
+
+14
+
+APPENDIX 3
+
+SUPPORT SERVICES, MAINTENANCE SERVICES, TRAINING SERVICES,
+UPGRADES AND DOCUMENTATION, SOFTWARE LICENCES
+
+
+Additional Definitions
+
+"Bug Fixes or Error Corrections" shall mean software patches,  workarounds,  and
+all Updates  containing  software-correcting  Errors  provided by Geoworks to BT
+Wireless pursuant to this Agreement.
+
+"Error"  shall mean a failure of the  AirBoss  Software to operate or perform in
+accordance with or otherwise fail to meet the specifications as described in the
+software user Documentation.
+
+"Problem  Determination" shall mean isolation of a problem as either an Error or
+a problem of another  nature with the system  (e.g.,  BT  Wireless  operational,
+database,  hardware/firmware,  interfacing product,  software and hardware other
+than Geoworks').
+
+"Tier One Support" shall mean the single point of contact for Developer problems
+and technical assistance,  which could be via an EXPIDAS web site. This includes
+restoring system outages and Problem Determination.
+
+"Tier Two Support"Tier Two Support personnel serve as technical resources to the
+Tier One Support personnel to provide reasonable limited assistance in answering
+Developer queries,  analysing reported troubles,  offering  workarounds,  and/or
+performing  scheduled and unscheduled  maintenance.  Tier Two Support  personnel
+assist  the  Tier  One  Support  personnel  in the  diagnosis  of  problems,  if
+necessary,  after Tier One Support has provided reasonable Problem Determination
+efforts. Tier Two Support personnel engage the Tier Three Support personnel,  if
+appropriate.
+
+"Tier Three Support" After Tier One Support Personnel have isolated a problem to
+an Error in the AirBoss software, Tier Three Support personnel will provide Tier
+3 Support, including Bug Fixes or Error Corrections.
+
+"Updates" shall mean a modification to the AirBoss  Software which  incorporates
+corrections   of  Errors  and  which  may  also  provide   minor   functionality
+improvements as designated by Geoworks.
+
+"Upgrades" shall mean a new release of the AirBoss Software providing additional
+functionality and which is not an Update.
+
+Support and Maintenance Services
+
+BT Wireless will provide  Developer with Tier One Support.  BT Wireless will not
+direct any  Developer  to contact  Geoworks  for Tier One  Support.  Provided BT
+Wireless  has timely and
+
+<PAGE>
+
+15
+
+properly performed Tier One Support and the Error has been isolated to a problem
+with the AirBoss Software, Geoworks will promptly provide BT Wireless at no cost
+with  Tier Two  Support  and Tier  Three  Support.  Subject  to any BT  Wireless
+security and health and safety at work  requirements,  BT Wireless  will provide
+Geoworks  with full  AirBoss  system  access and  privileges,  both  on-site and
+remotely,  twenty-four  hours  per day,  seven  days per week as  necessary  for
+Geoworks  to  provide  Tier Two  Support  and Tier  Three  Support.  Subject  to
+compliance with any BT Wireless security requirements and server availability BT
+Wireless  will  provide  Geoworks  with  appropriate  access,  as  soon as it is
+available,  including Telnet and FTP access, to the AirBoss server, both on-site
+and remotely,  on a reasonable  efforts basis,  twenty-four hours per day, seven
+days per week (and  subject to any  matters  outside  the control of BT Wireless
+which may prevent this) in order for Geoworks to provide Tier Three Support.
+
+Geoworks will provide at no cost maintenance for the currently available and one
+prior major release of the AirBoss  Software.  In no event will Geoworks support
+any release for more than a two year period.
+
+Training Services
+
+Geoworks shall provide to BT Wireless the following training:
+
+Geoworks  will  provide  at no cost  one (1)  session  of each of the  following
+training workshops to BT Wireless.  The Parties will agree upon the location for
+delivering the training  workshops.  One copy of the training  materials will be
+provided to BT Wireless  and BT Wireless may make as many copies as necessary to
+meet their obligations under the Agreement and this Appendix 3.
+
+Course                     AirBoss Customer Support Training
+Objective                 At the end of this training, participants will be able
+to appropriately  gather information,  diagnose common
+browser problems, and enable callers in some instances
+to fix problems and to perform Tier One Support.
+Audience                  Tier  One  Support  representatives or their trainers.
+Size: 4-12.
+Description               Participants  get hands-on  experience  with key tasks
+including  the  following:  installing  AirBoss  on  a
+mobile device (through a PC), configuring AirBoss on a
+mobile device, querying the AirBoss database to verify
+customer   provisioning,   testing  a  mobile  device,
+reading server event logs, and trouble-shooting common
+problems.
+Duration                  1 day
+
+Additionally,  Geoworks will provide four (4) sessions of the following training
+workshop to BT Wireless and Developers. The Parties will agree upon the location
+for delivering the training  workshops.  One copy of the training materials will
+be provided to BT Wireless  and BT Wireless
+
+<PAGE>
+
+16
+
+may make as many  copies  as  necessary  to meet  their  obligations  under  the
+Agreement and this Appendix 3.
+
+Course                          ABInet SDK Developer Training
+Objective                 At the end of this training, participants will be able
+to identify the key  components  of the ABInet SDK and
+discuss how an application was developed.
+Audience                  Developers using the SDK to create Applications.
+Description               Topics covered include: ABInet API overview,  Customer
+Support    Call    Management    (CSCM)    Application
+demonstration,  ABInet API  specifications,  CSCM Pull
+Flow and API usage, CSCM system view and ABInet usage,
+CSCM Push Flow and API usage.
+Duration                  1/2 day
+
+Upgrades
+
+During the term of the Agreement, Geoworks will provide, at no cost, upgrades to
+the SDK and the Geoworks Software subject to the license grants and restrictions
+in this  Agreement,  when such upgrades are defined by Geoworks to its licensees
+generally.
+
+Documentation
+
+AirBoss Software Documentation will be delivered concurrent with the delivery of
+the AirBoss  software at no cost.  BT Wireless  will receive one (1) copy of the
+user Documentation on CD-ROM and has the rights to make unlimited copies for use
+with the AirBoss  Software as allowed  under the  Agreement and in this Appendix
+Three. All  Documentation  will be updated on a rolling basis to ensure that all
+changes to the Air Boss Software are accurately reflected in such Documentation.
+All update  documentation  will be delivered on CD-ROM and clearly  marked which
+version or release of the AirBoss Software is reflected by such Documentation.
+
+In order to maintain effective  communication  with Expidas developers  Geoworks
+will,  dependent  upon  mutual  agreement  between  the  Parties  on timing  and
+content:,
+
+(i)  provide advance timetable of any pre-release information;
+
+(ii) provide in any pre-release  information pack any changes including any
+changes in functionality,  faults fixed, changes to performance, known
+faults still remaining;
+
+<PAGE>
+
+17
+
+(iii)grant  rights to BT  Wireless  to release  aspects of the  pre-release
+information  to  developers  and  make  the  pre-release   information
+available via the EXPIDAS web site.
+
+
+Software Licences
+In Live Service:
+
+If and when any AirBoss Software or anything  provided under Appendix 3 are
+agreed to be sold or provided by Geoworks it shall be at ###.
+
+<PAGE>
+
+18
+
+APPENDIX 4
+
+AirBoss Application Platform
+Software Development Kit (SDK) License
+
+Geoworks Corporation
+960 Atlantic Avenue
+Alameda, CA 94501
+
+By accepting this license agreement, you, as a third party developer (Developer)
+agree that Geoworks Corporation,  a Delaware  Corporation,  and its wholly owned
+subsidiaries  (Geoworks) grants you a non-exclusive license to use the Geoworks'
+AirBoss   Application   Platform   Software   Development  Kit  (SDK),   AirBoss
+Microbrowser  Client  Software,   and  related  documentation   (Documentation),
+collectively "Software", subject to the following terms and conditions, and that
+developer accepts such terms and conditions
+
+WHEREAS  Developer has indicated its desire to become a participant  in the
+Geoworks Application Platform Software Developer Program (Program);
+
+WHEREAS, in connection with the Program,  Geoworks may provide to Developer
+the Software and support (Support);
+
+WHEREAS,  Geoworks  has  agreed to  provide  the  Software  and  Support to
+Developer  subject  to and in  accordance  with the  terms  and  conditions
+hereunder;
+
+WHEREAS,  Developer  wishes to  participate  in the Program and utilize the
+Software and Support to develop certain application programs;
+
+NOW THEREFORE,  in consideration of the premises and mutual  representations and
+covenants contained herein, the parties agree as follows:
+
+1.   Term. The term of this Agreement  shall be for a period of twelve (12)
+months commencing on the Effective Date,  unless otherwise  terminated
+as provided  herein.  Thereafter,  this  Agreement  may be renewed for
+successive  terms of 12 months (Renewal  terms) each unless  otherwise
+terminated as provided herein.
+
+2.   Software Development Kit. Upon execution of this Agreement,  Developer
+is  authorized  to receive the Software  that  currently  supports the
+AirBoss Application Platform as described in its Documentation. Use of
+the  Software  requires  access to the  AirBoss  Application  Platform
+server  software and Developer may be assigned up to a maximum of five
+(5) registered  user access  accounts at any one time,  each allocated
+for a six (6) month period.  Individual  user access  accounts will be
+established by Geoworks upon receipt of a Registration  Form completed
+by each  user.  Developer  shall  be  responsible  for  acquiring  any
+hardware or third party  software  or  services  necessary  to use the
+Software,  including  but not  limited to laptop  computer,  hand held
+device,  modem etc.  Developer  shall also be  responsible  for making
+service arrangements with a wireless service provider supported by the
+Program and/or for obtaining an Internet connection.
+
+3.   License Grant. Developer is hereby granted a non-exclusive,  personal,
+non-transferable,  non-commercial  license to utilize the Software and
+Documentation furnished under Section 2 for the Term of this Agreement
+for the sole  purposes of: (a)  developing  client  applications;  (b)
+demonstrating  the  client  applications  to  potential  customers  at
+
+<PAGE>
+
+19
+
+Developer's  facility;  (c) using the  Documentation in support of the
+above  noted  authorized  uses;  and (d)  making  one (1)  copy of the
+Software  for  archival or backup  purposes.  This copy shall bear all
+copyright and proprietary  notices of Geoworks  appearing on or in the
+original material, as furnished by Geoworks to Developer.
+
+4.   License Restrictions. The Developer shall not use the Software for any
+use which is not specified in this Agreement including but not limited
+to (a) its use for internal data processing or for processing customer
+data; (b) any commercial purposes; or (c) renting, leasing, granting a
+security interest in, transferring right,  electronically distributing
+the Software by  interactive  cable or remote  processing  services or
+otherwise distributing the Software.
+
+5.   Confidentiality.  Developer  shall hold the Software in confidence for
+the benefit of  Geoworks,  and  restrict  disclosure  of the  Software
+solely to those employees of Developer  having a need to know, and who
+have signed confidentiality agreements with Developer. Developer shall
+not disclose  the  Software,  in whole or in part,  to any third party
+unless  Geoworks  expressly  agrees  in  writing  to such  disclosure.
+Developer   shall  not   reverse   engineer,   decompile,   decompose,
+disassemble,  or decode the Software or any portion  thereof or derive
+any source code or algorithms therefrom.  Developer shall be deemed to
+have  met its  obligations  under  this  Section  if it uses  the same
+standard  of care for  Software  that  Licensee  utilizes  for its own
+proprietary software,  but no less than a reasonable standard of care.
+Developer's  obligations  to  keep  the  Software  confidential  shall
+continue in effect until Geoworks informs Recipient,  in writing, that
+the  Software  is no longer  deemed  confidential  by  Geoworks.  This
+Agreement supersedes all previous and contemporaneous  communications,
+written or oral, with respect to the confidentiality of the Software.
+
+6.   Ownership of Software.  The Software and Documentation shall be deemed
+the  property of Geoworks  and  Developer  agrees that it shall not be
+reproduced or copied except as permitted above, and that upon request,
+or  upon  completion  of  this   Agreement,   all  such  Software  and
+Documentation in tangible form, including all copies thereof,  will be
+returned  to  Geoworks,  and all such  Software  shall be erased  from
+Developer's computer systems and written confirmation thereof provided
+to Geoworks. Nothing contained in this Agreement shall be construed as
+granting or conferring any rights (other than those  specifically  set
+forth hereunder) by license or otherwise in any Software  disclosed to
+the Developer, or in any proprietary rights related thereto.
+
+7.   Ownership of Applications.  So long as any  applications  developed by
+Developer (Applications) do not contain any portion of the Software or
+any other Geoworks  proprietary or  intellectual  property,  Developer
+shall own all right,  title and interest in the  Applications.  To the
+extent that any Applications include the Software or portions thereof,
+or require  the  Software  or  portions  thereof in order to  function
+properly,  Geoworks  retains  all  right  title and  interest  in such
+Software and portions  thereof  incorporated  into the Applications or
+required by the Application in order to function.
+
+8.   No Rights to Sublicense.  In the event  Developer  desires to license,
+sell,  distribute or otherwise  provide  Applications to a third party
+and such Applications  include the Software,  or portions thereof,  or
+require Software or portions  thereof in order to function,  Developer
+acknowledges  and agrees  that such  license,  sale,  distribution  or
+provision  may not be  exercised by Developer  unless  Geoworks  first
+agrees to license  the  Software  to such third  party under terms and
+conditions acceptable to Geoworks.
+
+<PAGE>
+
+20
+
+9.   Export.  Developer  acknowledges that any commodities and/or technical
+data  provided   under  this   Agreement  is  subject  to  the  Export
+Administration  Regulations  ("the  EAR")  administered  by  the  U.S.
+Commerce  Department and that any export or re-export  thereof must be
+in compliance  with the EAR. The receiving  party agrees that it shall
+not export or  re-export,  directly or  indirectly,  either during the
+term of this Agreement or after its expiration, any commodities and/or
+technical  data (or  direct  products  thereof)  provided  under  this
+Agreement in any form to destinations in Country Groups D:1 or E:2, as
+specified in Supplement  No. 1 to Part 740 of the EAR, and as modified
+from  time  to  time  by  the  U.S.  Department  of  Commerce,  or  to
+destinations  that are otherwise  controlled  or embargoed  under U.S.
+law.
+
+10.  Governing Law. This Agreement shall be governed by and construed under
+the  substantive  laws of the State of California.  The parties hereby
+agree that any disputes  arising under this Agreement shall be brought
+exclusively  within the state and federal  courts located in the State
+of  California.  In the event of a breach or  threatened  or  intended
+breach of this  Agreement by Developer,  Geoworks,  in addition to any
+other rights and remedies available to it at law or in equity shall be
+entitled to injunctive relief,  enjoining and restraining such breach.
+The prevailing  party in any action related to this Agreement shall be
+entitled to recover its reasonable attorneys' and experts' charges.
+
+11.  DISCLAIMER OF WARRANTY AND  LIMITATION  OF LIABILITY.  THE SOFTWARE IS
+PROVIDED TO DEVELOPER  "AS IS" AND GEOWORKS  MAKES NO  REPRESENTATIONS
+AND EXTENDS NO  WARRANTIES,  EXPRESS OR IMPLIED,  WITH  RESPECT TO THE
+SOFTWARE,   INCLUDING  BUT  NOT  LIMITED  TO,  THE  WARRANTY   AGAINST
+INFRINGEMENT OF PATENTS OR OTHER INTELLECTUAL  PROPERTY RIGHTS AND THE
+IMPLIED WARRANTIES OF  MERCHANTIBILITY  AND FITNESS FOR ANY PARTICULAR
+PURPOSE,  EVEN IF GEOWORKS HAS BEEN MADE AWARE OF SUCH PURPOSE.  IN NO
+EVENT  SHALL  GEOWORKS  OR ANY OF ITS  AFFILIATES  BE  LIABLE  FOR ANY
+DAMAGES  INCURRED BY  DEVELOPER,  INCLUDING  ANY LOST PROFITS OR OTHER
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, RELATING TO THE SOFTWARE, WHETHER
+IN AN ACTION IN CONTRACT OR TORT. DEVELOPER EXPRESSLY ASSUMES ALL SUCH
+RISKS AND  LIABILITIES,  IF ANY. IN ANY EVENT,  DEVELOPER'S  LIABILITY
+UNDER THIS AGREEMENT SHALL NOT EXCEED ONE HUNDRED DOLLARS ($100.00).
+
+12.  Termination. Geoworks shall have the right to terminate this Agreement
+in the event any breach by  Developer  is not cured  within 30 days of
+notice thereof or immediately in the event of any breach under section
+4  hereof.  Either  party  shall  have  the  right to  terminate  this
+Agreement on ninety days' notice to the other party.  Upon termination
+or expiration of this Agreement,  all Software and Documentation  will
+be returned to Geoworks and deleted from any magnetic media  remaining
+in Developer's possession.
+
+13.  Independent   Contractors.   This   Agreement   does  not  create  any
+partnership or agency  relationship  of any kind and the parties shall
+be considered independent contractors.  Neither party has the right or
+authority  to  assume  or  create  any  obligations  or  to  make  any
+representations  or warranties  on behalf of any other party,  whether
+express  or  implied,  or to  bind  the  other  party  in  any  manner
+whatsoever.
+
+14.  Survival. The provisions of this Agreement regarding  confidentiality,
+warranties,  liability, and all others that by their sense and context
+are  intended  to  survive  the  termination  or  expiration  of  this
+Agreement survive and continue in effect.
+
+<PAGE>
+
+21
+
+15.  Assignment. This Agreement shall not be assignable or transferable (by
+insolvency proceedings, mergers, consolidation, purchase, operation of
+law  or  otherwise)  by  Developer  without  the  written  consent  of
+Geoworks.  Any such  purported  assignment  or transfer  shall be void
+without such written consent.
+
+16.  Publicity.  Developer  consents to and hereby  grants to Geoworks  the
+right to use Developer's name in any Geoworks  advertising or Geoworks
+publication  regarding  Developer's   participation  in  the  Geoworks
+Application Platform Software Developer Program.
+
+

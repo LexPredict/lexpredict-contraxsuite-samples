@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+OBJECT CODE SOFTWARE LICENSE AGREEMENT
+
+This  Agreement is entered into by D2  Technologies,  Inc. a corporation  of the
+State of  California  with a place of business at 104 West  Anapamu  St.,  Santa
+Barbara,  CA 93101  (hereinafter  called  "D2") and  Vodavi  Technology,  Inc. a
+Deleware corporation with a principal place of business at 8300 E. Raintree Dr.,
+Scottsdale, AZ 85260 (hereinafter called "LICENSEE"). The effective date of this
+Agreement shall be the later of the dates executed by the respective parties.
+
+RECITALS.
+
+WHEREAS,  D2 has the right to grant the  rights to use and  distribute  the
+Licensed Software specified in Exhibit A; and
+
+WHEREAS,  LICENSEE  desires to obtain such rights to use and distribute the
+Licensed Software described hereinafter; and
+
+WHEREAS, D2 desires to provide LICENSEE with such rights upon the terms and
+conditions set forth in this Agreement; and
+
+WHEREAS,  Connected Systems,  Inc. a corporation of the State of California
+having a place of business at 126 W. Figueroa St., Santa Barbara,  CA 93101
+(herinafter  CONNECTED) and LICENSEE have entered into a License  Agreement
+effective  the  date  hereof,  WHEREAS  CONNECTED  and  D2  are  affiliated
+entities; WHEREAS LICENSEE requires the use of D2 technology to fulfill its
+Agreement with CONNECTED;
+
+NOW,  THEREFORE,  in  consideration  of  the  foregoing  recitals  and  the
+covenants and conditions set forth in this Agreement,  the parties agree as
+follows.
+
+1.0 DEFINITIONS
+
+1.1  "LICENSEE"  shall mean the legal entity  identified as the LICENSEE on
+the face page of this Agreement.
+
+1.2 "Licensed  Software"  shall mean D2's software  products  identified in
+Exhibit A  including  all  manuals  and other  related  technical  documentation
+provided by D2, and including all updates thereto delivered to LICENSEE by D2.
+
+1.3 "Object Code" means the Licensed Software in machine-readable, compiled
+object code form.
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+1.4 "Binary Code" means the binary executable form of the Licensed Software
+which may be linked with other  LICENSEE-provided  software  and embedded in the
+Bundled Product.
+
+1.5  "Bundled  Product(s)"  means one or more of the  products  or  product
+groups  described  in Exhibit B, which has been or will be developed by LICENSEE
+and which incorporates in the Bundled Product, in any manner, any portion of the
+Binary Code. A Bundled Product  represents  sufficient value  enhancement to the
+Licensed  Software  such that the  primary  reason for  LICENSEE's  customer  to
+license such Bundled Product is other than the right to receive a license to the
+Licensed Software included in the Bundled Product.
+
+2.0 GRANT OF RIGHTS
+
+2.1 LICENSE.  Subject to the terms and  conditions  of this  Agreement:  D2
+grants a  nontransferable,  fully paid up,  perpetual,  nonexclusive  license to
+execute the Binary Code of the  Licensed  Software  only in a  configuration  in
+which the Licensed Software is embedded within LICENSEE's Bundled Product.
+
+LICENSEE may transfer  the Binary Code of the  Licensed  Software to  LICENSEE'S
+customers,  embedded in LICENSEE's  Bundled  Product,  provided that the Bundled
+Product (including the embedded software) is transferred pursuant to an End-User
+License which shall contain at a minimum all of the following provisions:
+
+1.   The  Licensed  Software is licensed,  not sold.  Title does not pass to the
+LICENSEE  customer.  The LICENSEE  customer will not make any copies of the
+Licensed Software except as required for backup and archival purposes.
+
+2.   Each  license   granted  to  LICENSEE   customer   shall  be  a  perpetual,
+nonexclusive and nontransferable  license to use the Binary Code version of
+the Licensed Software.
+
+3.   A Protection of Confidential Software clause similar to the clause provided
+in this Agreement.
+
+4.   A limitation of liability as set forth in this Agreement.
+
+5.   An export control notice similar to the clause in this Agreement.
+
+
+2.2  RESERVATIONS.  D2 reserves all rights and licenses not expressly granted to
+LICENSEE.
+
+2
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+3.0 ADDITIONAL OBLIGATIONS
+
+3.1  Delivery.  D2 will  ship to  LICENSEE  one  (1)  copy of the  Licensed
+Software upon execution of this Agreement and the CONNECTED  License  Agreement.
+LICENSEE shall have no runtime License fee obligation to D2.
+
+3.2 LIMITED WARRANTY
+
+For a period  of one year  after  delivery  of the  Licensed  Software,  D2
+warrants that the Licensed Software will perform substantially  according to the
+description and specifications contained in D2's Software documents.  During the
+warranty period,  LICENSEE may request and D2 shall provide,  technical support,
+as described  in Paragraph  3.2 (a),  (b),  (c) and (d) of this  Agreement,  and
+software  updates,  as  requested by  Licensee,  at the Time and  Material  fees
+charges offered to other similarly situated customers. For each year thereafter,
+LICENSEE  may renew such  technical  support and  software  updates on an annual
+basis at the  then-current  D2  maintenance  fee,  if such  support  and updates
+services are available.
+
+D2 telephone and written technical support are as follows:
+
+(a)  D2 will  assist  LICENSEE in  determining  if  problems  LICENSEE  may
+encounter are caused by programming errors in the Licensed Software.
+
+(b)  D2 will  answer  questions  concerning  installation  of the  Licensed
+Software in original delivered configuration, unmodified by Customer.
+
+(c)  D2 will provide  assistance with resolving  LICENSEE's  problems which
+occur during the normal usage of the Licensed Software.
+
+(d)  D2 will use reasonable  efforts to remedy any programming error in the
+Licensed Software which is attributable to D2 which causes the failure
+to meet specifications.
+
+Subject to the  limitations  set out below,  the sole remedy for failure to meet
+the limited warranty shall be D2's reasonable  efforts to remedy any programming
+error in the Licensed  Software which is attributable to D2 and which causes the
+failure to meet the  warranty.  Such remedy may consist of  supplying  corrected
+portion(s) of Licensed  Software,  or  communication to LICENSEE of a workaround
+which gives LICENSEE the ability to achieve substantially the same functionality
+as would be obtained without the programming  error, as may be determined by D2.
+If D2 is unable to provide such remedy within a reasonable time, D2 shall accept
+return of that portion of Licensed  Software which is in breach of this warranty
+and refund to LICENSEE the full value of such portion of the Licensed Software.
+
+Limitations:
+
+D2's efforts  shall be promptly  initiated  only after  LICENSEE has provided D2
+with written notice of its claim of any such programming  error. An error report
+must contain sufficient information,  on computer-readable media if practicable,
+for D2 to reproduce the
+
+3
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+problem.  D2 shall have no obligations for any Licensed  Software which includes
+any  modifications  made  by  LICENSEE,  or  for  LICENSEE-specific  application
+software and drivers.  D2 shall also have no  obligations  for the correction of
+errors or problems which are due to operational  characteristics of the computer
+equipment on which the Licensed Software is used.
+
+In order to have the benefit of D2's efforts, LICENSEE must provide D2 with data
+and information,  as requested, and with sufficient support and test time on the
+LICENSEE's  Development  Computer  system and Bundled  Product to duplicate  the
+problem,  determine  if the  problem  is  with  the  Licensed  Software  covered
+hereunder,  correct  the  problem  and  determine  that  the  problem  has  been
+corrected.
+
+LICENSEE shall reimburse D2 for traveling  expenses if D2 personnel are required
+to travel to either the LICENSEE'S  premise or LICENSEE'S  customer's premise in
+order to fix the  reported  problem.  LICENSEE  must  designate a named  contact
+person and alternate  contact  person per  installation  who will submit problem
+reports  and  receive  all  corrections,   upgrades,  correspondence  and  other
+communications concerning the Licensed Software.
+
+THE LIMITED WARRANTIES IN THIS SECTION ARE THE SOLE AND EXCLUSIVE WARRANTIES, IN
+LIEU OF ALL OTHER WARRANTIES,  EXPRESS OR IMPLIED, GIVEN BY D2 INCLUDING BUT NOT
+LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE.
+
+4.0 PROPRIETARY RIGHTS
+
+4.1 LICENSED SOFTWARE.  LICENSEE shall not be an owner of any copies of the
+Licensed  Software,  but, rather,  is granted a limited license pursuant to this
+Agreement to use such copies.  LICENSEE acknowledges and agrees that, as between
+LICENSEE and D2, all right,  title and interest in the Licensed Software and any
+part thereof,  including,  without limitation,  all rights to patent, copyright,
+trademark and trade secret  rights and all other  intellectual  property  rights
+therein and thereto,  and all copies  thereof,  in whatever form,  including any
+written  documentation and all other material describing such Licensed Software,
+shall at all times remain solely with D2.
+
+5.0 CONFIDENTIALITY
+
+5.1 GENERAL.  LICENSEE  acknowledges and agrees that the Licensed  Software
+constitutes  the  confidential  and  proprietary  trade  secrets of D2, and that
+LICENSEE's  protection thereof is essential to this Agreement and a condition of
+LICENSEE's use and possession of the Licensed Software. LICENSEE shall retain in
+strict  confidence  any and all  elements of the  Licensed  Software and use the
+Licensed  Software only as expressly  licensed  herein.  LICENSEE agrees that it
+will under no circumstances distribute or in any way disseminate or disclose the
+Licensed Software to third parties,  except as
+
+4
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+expressly  provided  in Section  2.3 above.  LICENSEE  shall be relieved of this
+obligation of  confidentiality  to the extent that such  information  was in the
+public  domain at the time it was  disclosed,  required to be  disclosed by law,
+received  from a third  party  with no  obligation,  or has become in the public
+domain through no fault of LICENSEE.
+
+5.2 SECURITY. LICENSEE agrees to use the Licensed Software for the purposes
+set forth in this Agreement under similar care and control LICENSEE uses for its
+own proprietary software.
+
+5.3 NOTIFICATION. LICENSEE agrees to notify D2 promptly in the event of any
+breach  of its  security  under  conditions  in which it would  appear  that the
+Licensed  Software were  prejudiced  or exposed to loss.  LICENSEE  shall,  upon
+request  of D2,  take all  other  reasonable  steps  necessary  to  recover  any
+compromised  trade secrets  disclosed to or placed in the possession of LICENSEE
+by virtue of this Agreement. The cost of taking such steps shall be borne solely
+by LICENSEE.
+
+5.4  REMEDIES.  LICENSEE  acknowledges  that  any  breach  of  any  of  its
+obligations  under this Section 5 may cause or threaten  irreparable harm to D2,
+and,  accordingly,  LICENSEE  agrees that in such event, D2 shall be entitled to
+equitable relief to protect its interest  therein,  including but not limited to
+preliminary and permanent injunctive relief, as well as money damages.
+
+6.0 TERMINATION
+
+6.1 TERMINATION. This Agreement is perpetual unless terminated as set forth
+herein. Upon prior written notice,  either party may terminate this Agreement if
+the other party ceases doing  business,  , or fails to cure a material breach of
+any term or condition of this  Agreement  within  thirty (30) days of receipt of
+written notice specifying such breach.
+
+6.2 EFFECT OF  TERMINATION.  Upon  termination  of this  Agreement  for any
+reason,  LICENSEE shall immediately discontinue use of the Licensed Software and
+within ten (10) days  certify  in writing to D2 that all copies of the  Licensed
+Software,  in whole or in part, in any form,  have either been returned to D2 or
+destroyed in accordance with D2's instructions. All payments made by LICENSEE to
+D2 hereunder are non-refundable except as set forth herein.
+
+6.3  SURVIVAL.  The  provisions  of Sections 4, 5, 6, 7 and 8 shall survive
+termination of this Agreement.
+
+7.0 INDEMNIFICATION
+
+7.1 D2 will defend any suit brought  against  LICENSEE based on the grounds
+that the Licensed Software furnished under this Agreement  infringes any patent,
+trade  secret  or  other   Intellectual   Property  Right  of  any  third  party
+("Indemnified  Right"),  and  will pay all  damages  and  costs  that a court or
+arbitration  awards  against  LICENSEE as a result of such claim and all amounts
+paid in  settlement of such claim,  provided  that LICENSEE
+
+5
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+gives D2 (i) prompt written notice of such claim,  (ii) the sole right to defend
+and/or settle the claim, and (iii) all reasonable information and assistance, at
+D2's expense,  excluding  time spent by employees or consultants of LICENSEE) to
+handle the defense and settlement  thereof.  Should the Licensed Software become
+the subject of a claim of infringement of an Indemnified Right, D2 shall, at its
+option,  either:  (a) procure  for  LICENSEE  the right to  continue  using such
+Licensed   Software   or  (b)  modify   such   Licensed   Software  to  make  it
+non-infringing.   If  neither  of  the  foregoing   alternatives  is  reasonably
+available, D2 shall accept return of the infringing portion of Licensed Software
+and  refund to  LICENSEE  the  depreciated  value of such  portion  of  Licensed
+Software, as measured over a thirty-six (36) month life span.
+
+7.2 D2 hereby  represents  that,  insofar as is presently  known to D2, the
+Licensed Software and Developed Programs do not infringe any patent,  copyright,
+trade secret or other  Intellectual  Property  Right of any third party,  and D2
+knows of no such claims thereof.
+
+7.3 LICENSEE will indemnify and hold D2 harmless from any loss,  damage, or
+liability arising in connection with LICENSEE's  improper or unauthorized use of
+the Licensed Software.
+
+8.0 LIMITATION OF LIABILITY
+
+8.1 IN NO EVENT SHALL D2 HAVE ANY LIABILITY  FOR ANY LOST PROFITS,  LOSS OF
+DATA OR  COSTS OF  PROCUREMENT  OF  SUBSTITUTE  GOODS  OR  SERVICES,  OR FOR ANY
+SPECIAL,  INDIRECT,  OR  CONSEQUENTIAL  DAMAGES  ARISING  IN ANY WAY OUT OF THIS
+AGREEMENT,  OR OTHERWISE ARISING UNDER ANY COVER OF ACTION AND WHETHER OR NOT D2
+HAS BEEN ADVISED OF THE  POSSIBILITY OF SUCH DAMAGES.  THESE  LIMITATIONS  SHALL
+APPLY  NOTWITHSTANDING  THE  FAILURE OF THE  ESSENTIAL  PURPOSE  OF ANY  LIMITED
+REMEDY.
+
+9.0 MISCELLANEOUS PROVISIONS
+
+9.1 GOVERNING LAW. This Agreement  shall be interpreted and governed by the
+laws  of the  State  of  California,  without  reference  to  conflict  of  laws
+principles.
+
+9.2  JURISDICTION.  For any  disputes  arising  out of this  Agreement  the
+parties consent to the personal and exclusive jurisdiction of, and venue in, the
+state or federal court within Santa Barbara County, California.
+
+9.3 ENTIRE AGREEMENT.  This Agreement  constitutes the entire and exclusive
+Agreement  between the parties  hereto with respect to the subject matter hereof
+and supersedes and cancels all previous registrations,  agreements,  commitments
+and writings in respect thereof.
+
+6
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+9.4 MODIFICATION.  No modification to this Agreement, nor any waiver of any
+rights,  shall be  effective  unless  assented  to in writing by the party to be
+charged and the waiver of and breach or default shall not constitute a waiver of
+any other right hereunder or any subsequent breach or default.
+
+9.5  ASSIGNMENT.  Each party's  obligations  under this  Agreement  and all
+rights and obligations  hereunder are personal to the parties hereto and may not
+be  assigned  in whole or in part by either  party  without  the  prior  written
+consent of the other.  Notwithstanding  the  foregoing,  either party may assign
+this Agreement without the prior written consent of the other party, pursuant to
+a sale by the assigning  party of the portion of that party's  business to which
+this Agreement  pertains,  whether by merger,  sale of stock, sale of assets, or
+otherwise.
+
+9.6 EXPORT  ADMINISTRATION ACT. In conformity with the United States Export
+Administration  Act and  regulations  promulgated  thereunder,  LICENSEE and its
+employees  and  agents  shall not  disclose,  export or re export,  directly  or
+indirectly,  any of the Licensed  Software or technical data (or direct products
+thereof)  provided under this Agreement to  destinations in Country Groups Q, S,
+W, Y and Z as modified from time to time by the US  Department  of Commerce,  or
+that are otherwise controlled under said Act and regulations.
+
+9.7 SEVERABILITY.  If any provision of this Agreement is held to be invalid
+by a court  of  competent  jurisdiction,  then  the  remaining  provisions  will
+nevertheless  remain in full force and effect.  The parties agree to renegotiate
+in good  faith  any term held  invalid  and to be bound by the  mutually  agreed
+substitute provision.
+
+9.8 NO WAIVER.  The failure of D2 to enforce any term or  condition of this
+Agreement  shall not  constitute  a waiver of D2's rights to enforce  subsequent
+breaches of any term or condition under this Agreement.
+
+9.9 NOTICES. Any notices required to be given under this Agreement shall be
+in writing and  addressed to the  respective  party at the address  shown on the
+face page of this  Agreement  or such other  address as may be  provided by each
+party from  time-to-time.  Notices shall be effective when received and shall be
+sent by certified or registered mail, return receipt requested,  or by overnight
+courier.
+
+9.10 US  GOVERNMENT  RESTRICTED  RIGHTS.  LICENSEE  will legend or mark the
+Licensed  Software  provided  pursuant to any  agreement  with the United States
+Government or any contractor therefor, as required by law.
+
+7
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+<PAGE>
+D2 and LICENSEE each hereby  acknowledge  that they have read and understand the
+terms of this  Agreement,  and that by signing below they become  parties to the
+Agreement  and  agree to be  bound by all  terms,  conditions,  and  obligations
+contained therein.
+
+D2                                          LICENSEE
+
+By: /s/ David Y. Wong                       By: /s/ Gregory K. Roeper
+Print Name:  David Y. Wong                  Print Name: Gregory K. Roeper
+
+Title:  President                           Title: President
+
+Date: May 17, 1999                          Date: May 24, 1999
+
+8
+
+D2 Technologies and Connected Systems Proprietary and Confidential
+

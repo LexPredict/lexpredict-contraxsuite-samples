@@ -1,0 +1,931 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Exhibit 10.16
+
+Form of Registrant's Software License Agreement
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License and Support Agreement is entered into by and between
+Portal Software, Inc, a Delaware corporation with principal offices located at
+10200 South De Anza Boulevard, Cupertino, California 95014 ("Portal") and
+___________________________, a ________________________ corporation with
+principal offices located at _____________________________________ ("Licensee")
+and shall become effective on the date it is signed by Portal ("Effective
+Date").
+
+1 DEFINITIONS
+
+The following terms shall have the meanings set forth below. Additional terms
+may be defined on attached Schedule A. "Agreement" means this Software License
+Agreement, including any and all attached Schedules, addenda amendments hereto
+and Orders hereunder. "Application" means the scope of activity for which the
+Licensed Software will be used as specified on attached Schedule A. The Licensed
+Software will not be used for any other purpose or activity outside of the
+designated Application without Portal's explicit prior written consent. "CDR"
+means a call detail record, an event detail record or other instance of data
+pertaining to an incoming or outgoing communication (such as time, duration,
+identity or location of sender or recipient, etc.). "Confidential Information"
+means this Agreement, and any and all software (whether in object code or source
+code), user documentation, data, drawings, benchmark tests, specifications,
+Documentation, release notes, trade secrets, logins, passwords and other access
+codes and any other information disclosed by one party to the other which is (i)
+conspicuously marked "confidential" or "proprietary" if in tangible form, (ii)
+identified as "confidential" or "proprietary" at the time of disclosure or (iii)
+any other information that, when taking into consideration the circumstances
+surrounding disclosure of the same, a reasonable person would determine to be of
+a confidential or proprietary nature. "Delivery Date" means the date that Portal
+provides Licensee with a working login and password sufficient to allow Licensee
+to download the Licensed Software over the Internet from Portal's customer
+website (www.pin.com) or in the case of products that are not distributed by
+electronic download, the date on which Portal ships such products. "Designated
+Support Representatives" means the primary technical support liaison and backup
+technical support liaison designated by Licensee. Licensee may change its
+Designated Support Representatives by providing Portal with ten (10) days prior
+written notice. Each Designated Support Representative shall attend the Licensed
+Software training classes specified on Schedule A. "Documentation" means the
+installation instructions and user manuals for the Licensed Software. "Licensed
+Software" means collectively (i) the software products designated on Schedule A
+in executable form (object code), (ii) Documentation, (iii) any source code or
+object code provided to Licensee by Portal (including without limitation SDK -
+software development kit - products) and (iv) Updates. Notwithstanding the
+foregoing, for purposes of the sections of this Agreement titled "Support
+Services" "Warranty", "Licensed Software" shall not include enhancements or
+modifications of the Licensed Software products or Documentation not made
+generally available to all licensees of the Licensed Software. "Licensed
+Software Database" means the database (or linked databases) associated with the
+Licensed Software within which the Customer Records are stored. "Licensor" means
+the licensor or authorized distributor of a Third Party Product. "Major Release"
+means a release version of the License Software that provides significant
+additional functionality, improved performance or material changes to the
+Documentation. Major Releases are represented by a release number X.Y (e.g.,
+4.2, 5.0, 6.1). "Minor Release" means a release version of the Licensed Software
+that does not provide significant additional functionality, improved performance
+or material changes to the product or associated Documentation. Minor Releases
+are represented by release numbers X.Y.Z (e.g., 4.2.1, 5.0.2, 6.1.3). "Order"
+means the ordering document attached to this Agreement as Schedule B by which
+Licensee may order additional Subscriber licenses, CDR licenses, software
+product licenses or services. An Order shall become effective on the date it is
+countersigned by Portal. "Restricted Release" means any version of the Licensed
+Software marked alpha, beta or which is otherwise designated as a Restricted
+Release. "Subscriber" means an individual customer record ("Customer Record") in
+a Licensed Software Database. A Customer Record may be referred to as an
+"account object" or a "service object" in the Licensed Software and
+Documentation. The types of Subscribers licensed by Licensee under this
+Agreement and their associated pricing are set forth on Schedule A. If the
+Licensed Software is used to authenticate, bill, rate or otherwise track the
+activities of individual users within a corporate or group account
+("Organizational Hierarchy"), each such individual user will be deemed a
+separate "Subordinate Subscriber". Subordinate Subscribers will be appropriately
+categorized into their applicable sub-class in accordance with the criteria set
+forth on Schedule A. "Support Services" means the technical and maintenance
+support for the Licensed Software purchased by Licensee as set forth on attached
+Schedule A. "Third Party Product" means a software product that is owned or
+licensed by an entity other than Portal, which entity has authorized Portal to
+sublicense its software product(s) with or embedded within the Licensed
+Software. Third Party Products can only be used in conjunction with the Portal
+Licensed Software to process data processed by the Licensed Software. "Update"
+means a subsequent release of a Licensed Software product that is generally made
+available to licensees of that Licensed Software product at no additional
+charge. Updates do not include any release, option or future product that Portal
+licenses separately from the Licensed Software.
+
+2  LICENSE
+2.1  Portal grants Licensee a perpetual, non-exclusive, nonsublicensable,
+nontransferable license to install the Licensed Software on one or more
+computers located at the Production Site(s) set forth on Schedule A and that
+share the same Licensed Software Database. Licensee will use the Licensed
+Software only for the Application and only for the number of Subscribers and/or
+CDRs licensed under this Agreement.
+
+2.2  Licensee may install one (1) copy of the Licensed Software on a secondary
+non-production system for disaster recovery purposes only located at the Backup
+Site location set forth on Schedule A. Licensee may install one (1) copy of the
+Licensed Software at the Development Site location set forth on Schedule A to be
+used solely for Licensee's internal testing, training and development use.
+Licensee may make a reasonable number of backup copies of the Licensed Software
+exclusively for inactive archival purposes only. Except as set forth
+hereinabove, Licensee shall not reproduce Licensed Software, in whole or in
+part. All titles, trademark symbols, copyright symbols and legends, and other
+proprietary markings incorporated in, marked on, or affixed to any Licensed
+Software must be reproduced on every copy of the Licensed Software and shall not
+be removed or obliterated.
+
+2.3  Licensee may modify the business policy facilities modules source code
+provided by Portal however only in the manner set forth in the applicable
+Documentation. Licensee is hereby granted a royalty free, perpetual,
+nonexclusive license to use any such modifications only in conjunction with the
+Licensed Software and subject to the same restrictions as the Licensed Software.
+Notwithstanding the foregoing, Portal shall not be precluded from developing,
+using, marketing, distributing, or otherwise exploiting modifications of the
+business policy facilities modules source code developed by Portal.
+
+2.4  Portal or its Licensors shall at all times retain ownership of the Licensed
+Software including without limitation any and all intellectual property rights
+therein and copies thereof.
+
+2.5  Within five (5) business days of the Effective Date Portal will provide
+Licensee with a login and password which will enable Licensee to download one
+machine-readable copy of the Licensed Software from Portal's website or in the
+case of products that are not distributed by electronic download, Portal will
+ship such products within five (5) business days.
+
+2.6  "Ancillary Programs" are software programs or functionality that Portal
+distributes with or within the Licensed Software to facilitate interoperability
+between the Licensed Software and other software products or functionality and
+that Portal generally licenses separately and
+
+Page 1 of 10
+<PAGE>
+
+charges additional license and Support Service fees. Licensee will not use such
+Ancillary Programs unless it obtains a license therefor from Portal.
+
+2.7  Except for the license rights expressly granted to Licensee in this
+Agreement, Portal grants and Licensee receives no other rights or licenses to
+the Licensed Software, derivative works thereof, or any intellectual property
+rights related thereto, whether by implication, estoppel or otherwise.
+
+3  DEVELOPER SUITE LICENSE
+For each Developer Suite license purchased by Licensee (as set forth on Schedule
+A) Portal grants Licensee the right to install the Developer Suite product(s)
+set forth on Schedule A on a single computer for use by a single designated
+individual for the sole purpose of designing, developing, testing and adapting
+third party software products to operate in conjunction with the Licensed
+Software.
+
+4  LICENSE RESTRICTIONS
+Licensee will not itself, or through any parent, subsidiary, affiliate, agent or
+other third party sell, lease, license, sublicense, modify (except as expressly
+permitted in the applicable Documentation or as explicitly authorized by Portal
+in writing) or encumber the Licensed Software or any part thereof. Except to the
+minimum extent necessary to comply with applicable law (and then only to the
+minimum extent allowed under such law to achieve interoperability with other
+independently created computer software programs), Licensee will not itself, or
+through any parent, subsidiary, affiliate, agent or other third party decompile,
+disassemble, or reverse engineer any portion of the Licensed Software or attempt
+to discover any source code or underlying ideas or algorithms of any Licensed
+Software. Except as otherwise explicitly provided in this Agreement, Licensee
+will not use the Licensed Software to provide processing services to third
+parties, commercial timesharing, rental or sharing arrangements, or on a
+"service bureau" basis or otherwise use or allow others to use the Licensed
+Software for the benefit of any third party. Licensee will not provide,
+disclose, divulge or make available to, or permit use of the Licensed Software
+by persons other than Licensee's employees, contractors and agents who are under
+a legally binding obligation of confidentiality consistent with the
+confidentiality provisions of this Agreement. Licensee will not transport,
+export, or re-export of the Licensed Software, in whole or in part in violation
+of the import or export control laws or regulations of the United States or any
+other applicable country.
+
+5  LICENSE AND SUPPORT SERVICES FEES
+Licensee will pay Portal the license, services and Support Services fees as set
+forth on Schedule A and in each applicable Order.
+
+6  PAYMENTS AND TAXES
+6.1  Invoices for amounts due under this Agreement shall be due and payable on
+the date set forth in Schedule A or relevant Order(s). If no date is stated,
+payment shall be due thirty (30) calendar days from Licensee's receipt of
+invoice.
+
+6.2  All payments due under this Agreement shall be made in U.S. dollars. In
+addition to any remedies Portal may have hereunder or at law, any payments more
+than thirty (30) days overdue will bear a late payment fee of 1.5% per month
+commencing from the payment due date. If the foregoing would not be enforceable
+under applicable law, then the applicable late payment fee shall be an amount
+equal to the maximum rate allowed by law, accruing from the payment due date.
+
+6.3  Portal may suspend or terminate Support Services for non-payment continuing
+for more than fifteen (15) calendar days after Licensee's receipt of a written
+notice from Portal informing of the failure to pay when due. Portal shall have
+no liability for damages sustained by Licensee resulting from such termination
+or suspension of Support Services pursuant to this Section 6.3.
+
+6.4  The amounts set forth in this Agreement and all Orders hereunder are
+exclusive of all taxes (including without limitation, value added taxes and
+withholding taxes), tariffs, duties and the like. If Portal is required to pay
+any sales, use, value-added, withholding or other tax, tariff, duty, etc.,
+(other than taxes on Portal's net income) on the licenses or services provided
+pursuant to this Agreement or pertaining to Licensee's use of the Licensed
+Software, then such taxes shall be billed to and paid by Licensee.
+
+7  SUPPORT SERVICES
+Provided Licensee has paid the applicable Support Services fees, Portal,
+directly or through or its authorized agent, shall provide Licensee with
+technical support services in accordance with the Support Services plan
+purchased by Licensee as set forth on Schedule A. Portal reserves the right to
+modify its Support Services plans any time. Portal will notify Licensee in
+writing of any material modifications to Portal's Support Services plans.
+Licensee shall designate one primary technical support liaison and one backup
+technical support liaison who will be permitted to contact Portal during
+applicable technical support services hours. Portal will support each Major
+Release of the Licensed Software for at least eighteen (18) months from its
+initial  commercial release ("Support Term"). Portal shall have no obligation to
+support (i) Licensed Software which has been damaged due to Licensee's
+negligence, abuse, or misapplication, (ii) Licensed Software which has been
+modified or altered in a manner not expressly authorized by Portal, (iii)
+problems caused by use of the Licensed Software other than in accordance with
+the Documentation, or (iv) Licensed Software installed in an operating
+environment or hardware platform other than that for which it has been designed
+as set forth in the applicable Documentation. Licensee will reasonably cooperate
+with Portal in the resolution of support issues and, upon Portal's request and
+during normal business hours, shall provide Portal with remote access to the
+equipment on which the Licensed Software is installed and/or operating. Portal
+will abide by Licensee's security policies and procedures and will only use such
+remote access to provide Support Services for the Licensed Software. Licensee
+understands that failure to provide Portal with such remote access may result in
+delayed resolution of Support Services issues. If Licensee fails to provide
+Portal with the above described remote access, Portal shall have no liability
+for damages arising from delays which could reasonably have been avoided had
+Licensee provided Portal with above-described dial-in access. Unless cancelled
+by Licensee at least sixty (60) days prior to the termination of the then
+current annual Support Services term, Support Services for supported products
+will automatically renew at the same support level (if available) unless
+terminated by Licensee or Portal as permitted under this Agreement.
+
+8  CONSULTING SERVICES
+Subject to payment of the applicable fees, Portal will provide Licensee with the
+Support Services, training services and technical account management ("TAM")
+services set forth on Schedule A. Additionally, Portal may from time to time
+provide Licensed Software implementation or other professional consulting
+services agreed to by both parties ("Consulting Services"). Prior to the
+scheduling of such Consulting Services, Licensee and Portal will enter into a
+Professional Services Agreement separate from this Agreement. Unless otherwise
+agreed in writing, all Consulting Services will be billed on a time and
+materials basis. Consulting Services are bid separately from the Licensed
+Software licenses, and Licensee may acquire either Licensed Software licenses or
+Consulting Services without acquiring the other.
+
+9  RESTRICTED RELEASES
+If Licensee is selected for participation and elects to participate in a
+Restricted Release program, Licensee agrees (i) Portal shall have no obligation
+to correct errors in or deliver updates to the Restricted Release, (ii) Portal
+shall have no obligation to support the Restricted Release, (iii) Licensee will
+provide Portal with appropriate test data for the Restricted Release if
+necessary to resolve problems in the Restricted Release encountered by Licensee
+and will promptly report to Portal any error discovered in the Restricted
+Release, (iv) the Restricted Release is experimental, may contain problems and
+errors and is being provided to Licensee on an "AS-IS" basis with no warranty of
+any kind, express or implied, (v) neither party will be responsible to the other
+for any losses, claims or damages of whatever nature, arising out of or in
+connection with the performance or nonperformance of the Restricted Release,
+(vi) Licensee will not use the Restricted Release in production applications
+without the prior written approval of Portal, and (vii) Licensee will stop using
+and return or destroy any Restricted Release promptly upon Portal's request.
+
+10  TERMINATION
+Portal may terminate a license to a Licensed Software product if Licensee fails
+to pay the license fee therefor within fifteen (15) calendar days after written
+notice from Portal that payment is past due. Either party may terminate this
+Agreement if the other party breaches a material term of this Agreement and
+fails to cure such breach within sixty (60) calendar days after receipt of
+written notice describing the breach in reasonable detail. Upon termination of
+this Agreement, all licenses granted hereunder shall immediately terminate,
+Licensee shall immediately cease using the Licensed Software and Documentation
+and Licensee shall certify in writing to Portal that all copies (in any form or
+media) have been destroyed or returned to Portal. Termination shall not relieve
+Licensee from paying all amounts accrued under this Agreement prior to
+termination and shall not limit either party from pursuing any other available
+remedies. Sections 4, 5,
+
+Page 2 of 10
+<PAGE>
+
+6, 10, 11, 13, 14, 15.1, 17, 18 and 19 shall survive termination or expiration
+of this Agreement.
+
+11  INFRINGEMENT INDEMNITY
+Portal at its own expense shall (i) defend or at its option settle, any claim or
+suit against Licensee on the basis of infringement of any trademark, copyright,
+trade secret or United States patent ("Intellectual Property Rights") by the
+Licensed Software or permitted use thereof, and (ii) pay any final judgment
+entered against Licensee on such issue or any settlement thereof, provided (a)
+Portal has sole control of the defense and/or settlement, (b) Licensee notifies
+Portal promptly in writing of each such claim or suit and gives Portal all
+information known to Licensee relating thereto, and (c) Licensee cooperates with
+Portal in the settlement and/or defense. (Licensee shall be reimbursed for all
+reasonable out-of-pocket expenses incurred in providing any cooperation
+requested by Portal.) If all or any portion of the Licensed Software is, or in
+the opinion of Portal may become, the subject for any claim or suit for
+infringement of any Intellectual Property Rights, Portal may, and in the event
+of any adjudication that the Licensed Software or any part thereof does infringe
+or if the permitted use of the Licensed Software or any part thereof is
+enjoined, Portal shall, at its expense do one of the following things: (1)
+procure for Licensee the right to use the Licensed Software or the affected part
+thereof; (2) replace the Licensed Software or affected part with other suitable
+programs; (3) modify the Licensed Software or affected part to make it non-
+infringing; or (4) if Portal reasonably determines that none of the foregoing
+remedies are commercially feasible, refund the aggregate payments made by
+Licensee for the Licensed Software or affected part thereof. Portal shall have
+no obligations under this Section 11 to the extent a claim is based upon (A) the
+use of any version of the Licensed Software other than a current, unaltered
+version provided by Portal, if infringement would have been avoided by a current
+unaltered version; or (B) combination, operation or use of the Licensed Software
+with software and/or hardware not delivered by Portal if such infringement could
+have been avoided by combination, operation or use of the Licensed Software with
+other software and/or hardware. This Section 11 states the entire liability of
+Portal and the exclusive remedy of Licensee with respect to any alleged
+infringement by the Licensed Software or any part thereof.
+
+12  WARRANTY
+12.1  For ninety (90) calendar days from the Effective Date of this Agreement
+("Warranty Period") Portal warrants that the Licensed Software when properly
+used will operate in all material respects with its Documentation. If Licensee
+provides Portal with written notice during the Warranty Period that the Licensed
+Software fails to operate as warranted in this Section 12.1, Portal will use
+reasonable efforts to cure the defect and make the Licensed Software operate as
+herein warranted. Licensee's sole remedy in the event of breach by Portal of
+this Section 12.1 shall be (i) replacement of the defective Licensed Software
+program or defective portion thereof or (ii) termination of the license for the
+nonconforming Licensed Software product and refund of the license fees paid
+therefor. Portal shall have no obligations under this Section 12.1 to the extent
+noncompliance results from (a) modification of the Licensed Software not
+authorized by Portal, or (b) use of the Licensed Software for a purpose or in a
+manner other than that for which it was designed. This Section 12.1 states
+Portal's entire liability and Licensee's exclusive remedy with respect to any
+breach by Portal of this Section 12.1.
+
+12.2  Portal warrants that any services (including without limitation TAM,
+training, implementation workshop or Support Services) performed under this
+Agreement will be performed in a professional workmanlike manner consistent with
+industry practices.
+
+13  WARRANTY DISCLAIMER
+EXCEPT AS EXPLICITLY SET FORTH IN SECTIONS 11 AND 12 ABOVE, PORTAL AND ITS
+LICENSORS MAKE NO WARRANTIES, WHETHER EXPRESS OR IMPLIED, OR STATUTORY REGARDING
+OR RELATING TO THE LICENSED SOFTWARE OR THE DOCUMENTATION, OR ANY MATERIALS OR
+SERVICES FURNISHED OR PROVIDED TO LICENSEE UNDER THIS AGREEMENT. SPECIFICALLY,
+PORTAL DOES NOT WARRANT THAT THE LICENSED SOFTWARE WILL BE ERROR FREE OR WILL
+PERFORM IN AN UNINTERRUPTED MANNER. TO THE MAXIMUM EXTENT ALLOWED BY LAW, PORTAL
+SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF SATISFACTORY QUALITY,
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE (EVEN IF PORTAL HAD BEEN
+INFORMED OF SUCH PURPOSE) WITH RESPECT TO THE LICENSED SOFTWARE, DOCUMENTATION
+AND SERVICES AND WITH RESPECT TO THE USE OF ANY OF THE FOREGOING.
+
+14  LIMITATION OF LIABILITY
+14.1  IN NO EVENT SHALL EITHER PARTY OR ITS LICENSORS BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR LOSS OF
+REVENUES OR PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, WHETHER
+IN AN ACTION IN CONTRACT OR TORT, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES. EACH PARTY AGREES TO TAKE REASONABLE ACTION TO
+MITIGATE ITS DAMAGES. LICENSEE AGREES TO REGULARLY BACK UP ITS DATABASE(S) IN
+ACCORDANCE WITH REASONABLE INDUSTRY PRACTICES.
+
+14.2  EXCEPT IN THE CASE OF A BREACH OF SECTION 4 (LICENSE RESTRICTIONS), 11
+(INFRINGEMENT INDEMNITY) OR 17 (CONFIDENTIALITY) NEITHER PARTY'S OR ITS
+LICENSORS' LIABILITY FOR ANY DAMAGES SHALL EXCEED AN AMOUNT EQUAL TO THE TOTAL
+FEES PAID AND OWED TO PORTAL UNDER THIS AGREEMENT.
+
+15  AUDIT RIGHTS/QUARTERLY REPORTS
+15.1  Licensee shall keep and maintain full, accurate and detailed records
+regarding its payment obligations, the licenses granted under this Agreement and
+the number and types of Subscribers in the Licensed Software Database and/or the
+number of CDRs processed. Portal may, at its expense, no more than once per
+year, and on thirty (30) days prior written notice, audit Licensee's use of the
+Licensed Software and compliance with this Agreement. Any such audits shall
+occur during normal business hours and shall not unreasonably interfere with
+Licensee's business operations. If any such audit reveals a deficiency in any
+amounts due to Portal hereunder, Licensee will be invoiced for such underpaid
+fees based on the Price List in effect at the time the audit is completed. If
+the underpaid fees exceed five percent (5%) of the license fees paid, then
+Licensee shall also pay Portal's reasonable costs of conducting the audit.
+Audits shall be conducted no more than once annually.
+
+15.2  Commencing ninety (90) calendar days from each applicable Licensed
+Software Delivery Date, Licensee will provide Portal with quarterly reports
+("License Compliance Reports") setting forth (i) the total numbers and types of
+Subscribers in the Licensed Software Database and the number of CDRs processed
+by the Licensed Software, (ii) a statement of any additional license and Support
+Services fees owed to Portal and a reasonable summary of how such amounts were
+calculated, and (iii) the then-current addresses of all locations where the
+Licensed Software is installed. Within thirty (30) days following the end of
+each calendar quarter the License Compliance Reports shall be sent to Portal
+care of (or such other address as Portal may designate in writing):
+
+License Compliance Division
+Portal Software, Inc.
+10200 South De Anza Boulevard
+Cupertino, CA 95014
+
+16  ASSIGNMENT/BINDING AGREEMENT
+Neither this Agreement nor any rights under this Agreement may be assigned or
+otherwise transferred by Licensee (by operation of law or otherwise), in whole
+or in part, including by way of merger, acquisition or sale of all or
+substantially all of the assets in one or more related transactions, without
+Portal's prior written consent.
+
+17  CONFIDENTIALITY
+Each Party acknowledges that the Confidential Information constitutes valuable
+trade secrets and each party agrees that it shall use the Confidential
+Information of the other party solely in accordance with the provisions of this
+Agreement and it will not disclose, or permit to be disclosed, the same directly
+or indirectly, to any third party without the other party's prior written
+consent. Notwithstanding the foregoing, either party may disclose Confidential
+Information, in whole or in part (i) to its employees, officers, directors,
+Licensors and or subcontractors who have a reasonable need to know and are
+legally bound to keep such information confidential by confidentiality
+obligations consistent with those of this Agreement, (ii) to its financing
+sources, auditors, attorneys, other agents, financial institutions, professional
+advisors and/or substantial potential investors having a reasonable need to
+know, having no reasonably anticipated conflict of interest with the other
+Party, and under a contractual or professional duty to maintain the
+confidentiality of the terms and conditions disclosed thereto. Each party agrees
+to exercise due care in protecting the Confidential Information from
+unauthorized use and disclosure.  However, neither party bears any
+responsibility for safeguarding any information that it can document in writing
+(a) is in the public domain through no fault of its own, (b) was properly known
+to it, without restriction, prior to disclosure by disclosing party, (c) was
+properly
+
+Page 3 of 10
+<PAGE>
+
+disclosed to it, without restriction, by another person with the legal
+authority to do so, (d) is independently developed by receiving party without
+use of or reference to disclosing party's Confidential Information or (e) is
+required to be disclosed pursuant to a judicial or legislative order or
+proceeding; provided that, to the extent permitted by and practical under the
+circumstances, receiving party provides to disclosing party prior notice of the
+intended disclosure and an opportunity to respond or object to the disclosure or
+if prior notice is not permitted or practical under the circumstances, prompt
+notice of such disclosure. In the event of actual or threatened breach of the
+provisions of Section 4 or Section 17, the non-breaching party will be entitled
+to seek immediate injunctive and other equitable relief, without waiving any
+other rights or remedies available to it.
+
+18  NOTICE
+Any notice required or permitted under the terms of this Agreement or required
+by law must be in writing and must be (a) delivered in person, (b) sent by
+registered mail, return receipt requested, (c) sent by overnight air courier, or
+(d) by facsimile, in each case forwarded to the appropriate address set forth
+above. Either party may change its address for notice by written notice to the
+other party.  Notices will be considered to have been given at the time of
+actual delivery in person, three (3) business days after posting, or one (1)
+business day after (i) delivery to an overnight air courier service or (ii) the
+moment of transmission by facsimile.
+
+19  MISCELLANEOUS
+19.1  Neither party will incur any liability to the other on account of any loss
+or damage resulting from any delay or failure to perform all or any part of this
+Agreement if such delay or failure is caused, in whole or in part, by events,
+occurrences, or causes beyond its control and without negligence of the parties.
+Such events, occurrences or causes will include, without limitation, acts of
+God, strikes, lockouts, riots, acts of war, earthquakes, fire and explosions,
+but the ability to meet financial obligations is expressly excluded.
+
+19.2  Any waiver of the provisions of this Agreement or of a party's rights or
+remedies under this Agreement must be in writing to be effective.  Failure,
+neglect or delay by a party to enforce the provisions of this Agreement or its
+rights or remedies at any time will not be construed to be deemed a waiver of
+such party's rights under this Agreement and will not in any way affect the
+validity of the whole or any part of this Agreement or prejudice such party's
+right to take subsequent action.
+
+19.3  If any term, condition or provision in this Agreement is found to be
+invalid, unlawful or unenforceable to any extent, the parties shall endeavor in
+good faith to agree to such amendments that will preserve, as far as possible,
+the intentions expressed in this Agreement. If the parties fail to agree on such
+an amendment, such invalid term, condition or provision will be severed from the
+remaining terms, conditions and provisions, which will continue to be valid and
+enforceable to the fullest extent permitted by law.
+
+19.4  This Agreement (including the Schedules and any addenda hereto signed by
+both parties) contains the entire agreement of the parties with respect to the
+subject matter of this Agreement and supersedes all previous communications,
+representations, understandings and agreements, either oral or written, between
+the parties with respect to said subject matter. No employee, agent,
+representative or affiliate of Portal has authority to bind Portal to any oral
+representations or warranty concerning the Licensed Software. Any written
+representation or warranty not expressly contained in this Agreement is
+unenforceable.
+
+19.5  No terms, provisions or conditions of any purchase order, acknowledgement
+or other business form that Licensee may use in connection with the acquisition
+or licensing of the Licensed Software will have any effect on the rights, duties
+or obligations of the parties under, or otherwise modify, this Agreement,
+regardless of any failure of Portal to object to such terms, provisions, or
+conditions.
+
+19.6  The parties agree to reasonably cooperate in joint marketing  and public
+relations activities including without limitation the issuance of a joint press
+release announcing Licensee's selection of the Portal solution and participation
+in Portal's Success Stories program. Licensee's public relations personnel will
+have an opportunity to review and approve the final draft of any joint public
+relations materials before distribution to the press. Following successful
+implementation of the Licensed Software and at Portal's request, Portal shall be
+permitted to conduct a brief telephone interview (not to exceed thirty minutes
+without Licensee's consent)  with a senior-level spokesperson within Licensee's
+organization involved with the implementation of the Portal solution. Portal may
+write and publish a high-level success story profile based on the interview and
+discussing the reasons supporting Licensee's choice of the Portal solution and
+the benefits realized by Licensee. Licensee shall have final approval over the
+final content of such literature prior to initial distribution by Portal. Except
+as provided in this Agreement, neither party will engage in joint public
+relations activities without the prior written consent of the other party, which
+consent shall not be unreasonably withheld, conditioned or delayed.
+
+19.7  Licensee agrees to be a reference account for Portal and will, at Portal's
+request, participate in at least four (4) telephone reference inquiries per year
+and at least one (1) onsite visit per year provided that Portal shall give
+Licensee reasonable advance notice of not less than (i) 48 hours in the case of
+a telephone reference visit and (ii) 7 days in the case of an onsite visit.
+Further, Portal shall be permitted to identify Licensee as a customer so long as
+such use does not imply endorsement.
+
+19.8  This Agreement may be executed in counterparts, each of which so executed
+will be deemed to be an original and such counterparts together will constitute
+one and the same Agreement.
+
+19.9  Portal is an independent contractor; nothing in this Agreement shall be
+construed to create a partnership, joint venture or agency relationship between
+the parties.
+
+19.10  If this license is acquired under a U. S. Government contract, use,
+duplication or disclosure by the U. S. Government is subject to restrictions set
+forth in FAR subparagraphs 52.227-19(a)-(d) for civilian agency contracts and
+DFARS 252.227-7013(c)(ii) for Department of Defense contracts. Portal reserves
+all unpublished rights under United States copyright laws.
+
+19.11  In the event that this Agreement or the licenses granted hereunder should
+ever become subject to US bankruptcy proceedings, all rights and licenses
+granted under or pursuant to this Agreement by Portal to Licensee are, and shall
+otherwise be deemed to be, licenses of rights to "intellectual property" as
+defined in Section 365(n) of the Bankruptcy Code (11 U.S.C. Section 101 et.
+seq.).  The parties agree that Licensee, as a licensee of such rights, shall
+retain and may fully exercise all of the rights and election under Section
+365(n) of the Bankruptcy Code.  The parties further agree that, in the event
+that any proceeding shall be instituted by or against Portal seeking to
+adjudicate it  bankrupt, or insolvent, or seeking liquidation, winding up,
+reorganization, insolvency or reorganization, or relief of debtors, or seeking
+an entry of an order of relief, or the appointment of a receiver, trustee or
+other similar official for it or any substantial part of its property or it
+shall take any action to authorize any of the foregoing actions,  Licensee shall
+have the right to retain and enforce its rights under this Agreement as provided
+under Section 365(n) of the Bankruptcy Code, including but not limited to, the
+right to continue to use the Licensed Software in accordance with the terms and
+conditions of this Agreement.
+
+19.12  This Agreement will be interpreted and construed pursuant to the laws of
+the State of California and the United States without regard to conflict of laws
+provisions thereof, and without regard to the United Nations Convention on the
+International Sale of Goods. Any legal action or proceeding relating to this
+Agreement shall be instituted in a state or federal court in Santa Clara County,
+California. Portal and Licensee agree to submit to the jurisdiction of, and
+agree that venue is proper in, these courts in any such action or proceeding.
+
+19.13  The prevailing party in any action to enforce this Agreement will be
+entitled to recover its reasonable attorney's fees and costs in connection with
+such action.
+
+19.14   The provisions of this Agreement allocate the risks between Portal and
+Licensee. Licensee's pricing reflects this allocation of risk and the limitation
+of liability specified in this Agreement.
+
+19.15  The parties have requested that this Agreement and all documents
+contemplated hereby be drawn up in English.
+
+Page 4 of 10
+<PAGE>
+
+IN WITNESS WHEREOF, the authorized representatives of the parties hereby bind
+the parties by signing below:
+
+_______________________________       Portal Software, Inc.
+"Licensee"
+
+By:____________________________       By:____________________________
+
+Name:__________________________       Name:__________________________
+
+Title:_________________________       Title:_________________________
+
+Date:__________________________       Date:__________________________
+
+Page 5 of 10
+<PAGE>
+
+SCHEDULE A
+
+
+
+1  LICENSED SOFTWARE
+The following Portal Software products and their associated online documentation
+will be provided by Portal and will comprise the "Licensed Software":
+
+.  Infranet Base System
+.  Infranet Dial-up Manager
+.  Infranet Email Manager
+.  Infranet Netflow Manager
+.  Infranet IPT Manager
+.  Infranet Cable/CSRC Manager
+.  Infranet Cable TeraComm manager
+.  Infranet EAI Manager
+.  Infranet Wireline Manager
+.  Infranet SSM
+.  Infranet MCIS Manager
+.  Infranet LDAP Manager
+.  Infranet Brand Manager
+.  Infranet DNA
+.  Infranet MultiDB
+.  Seagate Reports for Infranet: includes one (1) Seagate(R) Crystal Info
+Designer Add-in Tool and two (2) Seagate Crystal Info Desktop Client
+.  Business Policy Facilities Modules Source Code
+
+2  APPLICATION/SUBSCRIBERS
+
+2.1  Application: Customer management and billing of Subscribers to
+Licensee's...
+
+2.2  Subscriber Types: Licensee will use the Licensed Software only for the
+types of Subscribers set forth below and only within the scope of the
+Application. If Licensee desires to use the Licensed software for other
+Subscriber types or for a different scope of use then Licensee must obtain
+an additional license therefor from Portal for additional fees.
+
+2.2.1  Individual Subscriber: means is a Customer Record that represents an
+individual person (for the purposes of this agreement a "person" is an
+individual human being, not a business, corporation or other entity) that
+(i) subscribes to one or more of Licensee's consumer services within the
+scope of the Application or (ii) is a Subordinate Account under an
+Organizational Hierarchy.
+
+2.2.3  FreeServ Subscriber: means a Customer Record representing a Person
+that subscribers to a no-fee service and for which monetary balances are
+not associated.
+
+2.2.4  Business Subscriber: means a Customer Record that represents a
+person or entity that is not an Individual Subscriber or a FreeServ
+Subscriber. Business Subscriber are subcategorized as follows:
+
+2.2.5  "SOHO Subscriber" means a Customer Record that represents a person
+or entity that in the aggregate (i.e., taking into account all revenue
+generated by the SOHO Subscriber and its Subordinate Subscribers) generate
+no more than $100.00 in monthly gross revenue.
+
+2.2.6  "Medium Business Subscriber" means a Customer Record that in the
+aggregate (i.e., taking into account all evenue generated by that Medium
+Business Subscriber and its Subordinate Subscribers) generate more than
+$100.00 but less than $500.00 in monthly gross revenue.
+
+2.2.7  "Large Business Subscriber" means a Customer Record that in the
+aggregate (i.e., taking into account all revenue generated by that Large
+Business Subscriber and its Subordinate Subscribers) generate more than
+$500.00 but less than $1,500.00 in monthly gross revenue.
+
+2.2.8  "Very Large Business Subscriber" means a Customer Record that in the
+aggregate (i.e., taking into account all revenue generated by that Very
+Large Business Subscriber and its Subordinate Subscribers) generate more
+than $1,500.00 but less than $3,000.00 in monthly gross revenue.
+
+Page 6 of 10
+<PAGE>
+
+2.3  INITIAL SUBSCRIBER LIMITS:
+
+2.3.1  SOHO Subscribers:
+
+2.3.2  Medium Business Subscribers:
+
+2.3.3  Large Business Subscribers:
+
+2.3.4  Very Large Business Subscribers:
+
+
+
+3  INSTALLATION SITES
+3.1  Production Site:
+
+3.2  Development Site:
+
+3.3  Backup Site:
+
+
+4  LICENSE AND MAINTENANCE SUPPORT SERVICE FEES
+
+4.1  Software License Fees
+
+The following table sets forth the license fees for use of the Licensed
+Software for the Application for the number of Subscribers set forth in
+Section 2.3 above.
+
+<TABLE>
+<CAPTION>
+Description                     License Fee  Payment Due Date
+<S>                                                <C>         <C>
+$        Effective Date
+</TABLE>
+
+4.2  Annual Gold Level Support Services Fees
+
+Portal will provide one year of Gold Level Maintenance Support Services for
+the number of Subscribers set forth in Section 2.3 above for the annual fee
+set forth below.
+
+<TABLE>
+<CAPTION>
+Description                     Annual Fee  Annual Payment Date
+<S>                                                <C>         <C>
+Gold Level Support Services                            $         Effective Date
+</TABLE>
+
+
+4.3  ADDITIONAL SUBSCRIBER LICENSE AND SUPPORT SERVICES FEES
+
+For one (1) year from the Effective Date Licensee may purchase licenses to
+use the Licensed Software for the Application for additional Subscribers
+("Additional Subscribers") for the amounts set forth below and by using the
+Order Form attached to this Agreement as Exhibit B.  Additional Subscribers
+must be licensed in the incremental blocks specified and not one at a time.
+Associated Annual Support Services fees are due when Additional Subscribers
+are licensed but will be prorated over the remainder of the annual Support
+Services term during which they are added.
+
+<TABLE>
+<CAPTION>
+Subscriber Numbers                       Subscribers in Block  License Fee per Block   Annual Support Services Fee
+Per Block
+<S>                                      <C>                            <C>                        <C>
+$                          $
+$                          $
+$                          $
+</TABLE>
+
+Page 7 of 10
+<PAGE>
+
+5  TRAINING
+Portal will provide training at its corporate training facilities in
+accordance with the rates set forth below. Licensee shall register for actual
+training class dates through Portal's website (www.portal.com). Training fees
+shall be due and payable on the Effective Date.
+
+<TABLE>
+<CAPTION>
+Class                   Price per   No. of Students per Class  Total
+Student
+<S>                                      <C>         <C>                        <C>
+Customizing Infranet Business Policies    $3,000.00
+Customizing Infranet Customer Center      $2,000.00
+Extending Infranet                        $3,000.00
+Implementing Infranet                     $3,000.00
+Infranet Pricing Strategies               $1,200.00
+Infranet Accounting                       $  500.00
+Infranet Customer Management              $  600.00
+Infranet System Administration            $2,400.00
+Business Infrastructure for Internet      $  100.00
+Services
+Introduction to Pricing                   $  200.00
+Infranet Reports                          $  200.00
+Understanding Infranet's General Ledger   $  200.00
+</TABLE>
+
+6  TECHNICAL ACCOUNT MANAGEMENT ("TAM") SUPPORT
+Portal will provide ____ [hours/days] (in blocks of 8 hours per day) of TAM
+support in accordance with attached Schedule ___ for a fee of _______________
+($______).  In addition, Licensee shall pay all actual and reasonable travel
+expenses incurred with providing TAM support.  TAM support fees shall be due
+and payable on the Effective Date.
+
+7    PAYMENT SCHEDULE
+Licensee agrees to make payment in accordance with the following table:
+<TABLE>
+<CAPTION>
+Description                     Amount       Payment Due Date
+<S>                                                <C>     <C>
+License Fee Payment #1                               $           Effective Date
+License Fee Payment #2                               $     30 Days from Effective Date
+License Fee Payment #3                               $     60 Days from Effective Date
+License Fee Payment #4                               $     90 Days from Effective Date
+Annual Gold Support Payment                          $           Effective Date
+
+</TABLE>
+
+Page 8 of 10
+<PAGE>
+
+SCHEDULE B
+
+
+ORDER
+
+
+
+
+
+Quote or Agreement Number:_______________________________
+
+Licensee Purchase Order Number:__________________________
+
+
+
+
+PURSUANT TO THE SOFTWARE LICENSE AGREEMENT ("AGREEMENT") BETWEEN PORTAL
+SOFTWARE, INC. ("PORTAL") AND _____________________________________ ("LICENSEE")
+(COLLECTIVELY "THE PARTIES") ENTERED INTO BY THE PARTIES ON OR ABOUT
+_______________, 2001, LICENSEE HEREBY LICENSES THE ADDITIONAL SUBSCRIBERS
+AND/OR ADDITIONAL PRODUCTS SET FORTH BELOW AS CONTEMPLATED IN SECTION ___ OF
+SCHEDULE A OF THAT AGREEMENT.  THE ADDITIONAL SUBSCRIBERS/PRODUCTS LICENSED
+UNDER THIS ORDER ("ORDER") ARE SUBJECT TO ALL OF THE TERMS AND CONDITIONS OF THE
+AGREEMENT. THIS ORDER SHALL BECOME EFFECTIVE ON THE DATE IT IS SIGNED BY PORTAL.
+
+
+
+
+PORTAL SOFTWARE, INC.       LICENSEE_______________________________________
+
+10200 S. DE ANZA BOULEVARD  CONTACT _______________________________________
+
+CUPERTINO, CA 95014         ADDRESS _______________________________________
+
+CITY    _______________________________________
+
+STATE   _______________________ ZIP ___________
+
+PHONE   ___________________ FAX: ______________
+
+
+
+ADDITIONAL SUBSCRIBERS
+
+<TABLE>
+<CAPTION>
+APPLICATION NO.        SUBSCRIBER TYPE               QTY                 LICENSE FEE          ANNUAL SUPPORT FEE
+<S>                    <C>                     <C>                     <C>                     <C>
+$                       $
+
+
+
+
+
+
+
+TOTAL   $                        $
+</TABLE>
+
+Page 9 of 10
+<PAGE>
+
+ADDITIONAL SOFTWARE PRODUCTS
+
+THE FOLLOWING SOFTWARE PRODUCTS ARE HEREBY ADDED TO THE DEFINITION OF "LICENSED
+SOFTWARE" IN SCHEDULE A OF THE AGREEMENT:
+
+
+<TABLE>
+<CAPTION>
+PRODUCT            SUBSCRIBER TYPE        NO. OF SUBSCRIBERS         LICENSE FEE          ANNUAL SUPPORT FEE
+<S>                    <C>                     <C>                     <C>                     <C>
+$                       $
+
+
+
+
+
+
+
+TOTAL   $                        $
+</TABLE>
+
+
+
+I DECLARE THAT THE ABOVE INFORMATION IS ACCURATE AND THAT I AM IN COMPLIANCE
+WITH MY COMPANY'S BUSINESS PRACTICES IN MAKING THIS PURCHASE.  BY SIGNING THIS
+ORDER, LICENSEE AGREES TO BE BOUND BY THIS ORDER AND LICENSEE AUTHORIZES PORTAL
+TO INVOICE LICENSEE FOR THE AMOUNTS SET FORTH HEREINABOVE, PLUS APPLICABLE TAX,
+VAT AND DELIVERY CHARGES.
+
+
+
+TAX EXEMPT NO:___________________________   LICENSEE:____________________
+
+P. O. NUMBER:____________________________   SIGNATURE:___________________
+
+BILLING ADDRESS:_________________________   NAME/TITLE:__________________
+
+_________________________________________   DATE SIGNED:_________________
+
+_________________________________________
+
+
+
+ORDER ACCEPTED BY PORTAL:
+
+NAME:____________________________________
+
+TITLE:___________________________________
+
+DATE:____________________________________
+
+Page 10 of 10
+

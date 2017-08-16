@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.26
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This  Software  License  Agreement  is  made  as of  this  25th  day of
+September,   1999,  between  Preferred  Voice,  Inc.,  a  Delaware   corporation
+("Licensor") and Rural Cellular Corporation, a Minnesota corporation,  on behalf
+of  itself  and its  wholly  owned  subsidiaries  and  affiliates  ("Licensee").
+Licensor  and  Licensee are  collectively  referred to in this  Agreement as the
+"Parties."
+
+Background Information
+
+Licensor has developed a system (the "System") that when interconnected
+with a telecommunications switching system is capable of performing the services
+(the  "Services")  described  in a  Marketing  Agreement  between  Licensor  and
+Licensee of even date (the "Marketing  Agreement").  Each System consists of the
+hardware,  certain third party software (the "Third Party Software") and certain
+proprietary   application  software  developed  by  Licensor  (the  "Application
+Software").   Licensee  is  a  wireless  carrier  that  is  currently  providing
+telecommunications  service in areas  described in the Marketing  Agreement (the
+"Service  Areas").  Licensee  wishes to offer the  Services  to end users  ("End
+Users") under its own brand in conjunction with its telecommunications services,
+and  Licensor has agreed to install its System in  Licensee's  location for that
+purpose pursuant to the Marketing Agreement.
+
+In  consideration  of the  mutual  promises  made  in  this  Agreement,
+Licensor and Licensee  agree that the terms and  conditions set forth as follows
+will apply to the license of Application Software.
+
+ARTICLE 1. LICENSE AND PROCUREMENT
+
+1.01 License.  Pursuant to this  Agreement,  Licensor  hereby grants to
+Licensee  a  nontransferable,  non-exclusive  license  to  use  the  Application
+Software, together with all subsequent improvements thereto in the Service Area.
+Licensor also grants to Licensee a non-transferable, non-exclusive sublicense to
+use the Third Party Software, solely in connection with operation of the System.
+
+1.02 Term. The initial term of this Agreement shall be co-terminus with
+the Marketing Agreement.
+
+ARTICLE 2. LIMITATIONS ON USE
+
+2.01 General Use.  Licensee agrees to use the Application  Software and
+Third Party Software  solely to provide the Services to End Users.  Licensee may
+private brand the Services it offers.
+
+2.02     Location.
+
+(a) Use of Application Software.  The Application Software may
+be used only on the hardware  provided by Licensor  ("Designated  Hardware")  at
+Licensee's switch locations in the Licensed Areas.
+
+SOFTWARE LICENSE AGREEMENT - PAGE 1
+
+
+
+<PAGE>
+
+
+
+(b) Temporary  Use of  Non-Designated  Hardware.  Licensee may
+temporarily  install and use the  Application  Software  on hardware  other than
+Designated Hardware,  but only if the Designated Hardware cannot be used because
+of  hardware,  software  or other  malfunction  and only  until  the  Designated
+Hardware  is  returned  to  operation.  Licensee  shall not  install  or use the
+Application  Software on such  replacement  hardware  without  the prior  verbal
+consent of Licensor.  Licensor shall not  unreasonably  withhold this consent if
+the proposed  replacement  hardware meets or exceeds the  Specifications for the
+Designated Hardware.
+
+2.03  Copies.  Licensee may make one "backup  copy" of the  Application
+Software for archival  purposes at each location;  any such archival copy may be
+stored at the location  where the products are installed and  operational  or at
+any such reputable off-site storage facility or facilities,  as the case may be,
+which Licensee, in its reasonable judgment, shall select to maintain and protect
+such  archival  copy for  purposes  of  disaster  recovery.  Licensee  shall not
+otherwise copy any portion of the Software. Licensee shall reproduce and include
+Licensor's  applicable copyright notice,  patent notice,  trademark,  or service
+mark on any copies of the Application Software.
+
+ARTICLE 3. PROPERTY RIGHTS
+
+3.01 Title to Software.  Title to the Application  Software is reserved
+for Licensor. Licensee acknowledges and agrees that Licensor is and shall remain
+the owner of the  Application  Software  and shall be the owner of all copies of
+the Application Software made by Licensee.
+
+3.02  Confidentiality  of  Software.  Licensee  acknowledges  that  the
+Application  Software is  confidential  in nature and constitutes a trade secret
+belonging  to  Licensor.  Licensee  agrees to hold the  Application  Software in
+confidence for Licensor and not to sell, rent, license, distribute, transfer, or
+disclose the Application  Software or its contents,  including  methods or ideas
+used in the Application Software, to anyone except to employees of Licensee when
+disclosure  to  employees  is  necessary  to use  the  license  granted  in this
+Agreement.  Licensee shall instruct all employees to whom any such disclosure is
+made that the  disclosure  is  confidential  and that the employee must keep the
+Application  Software  confidential  by using the same care and discretion  that
+they  use  with  other  data  designated  by  Licensee  as   confidential.   The
+confidentiality  requirements of this Section shall be in effect both during the
+term of  this  Agreement  and for a  period  of  seven  (7)  years  after  it is
+terminated,  provided,  that  the  foregoing  restrictions  shall  not  apply to
+information:  (a)  generally  known to the  public  or  obtainable  from  public
+sources; (b) readily apparent from the keyboard  operations,  visual display, or
+output reports of the Application Software;  (c) previously in the possession of
+Licensee  or  subsequently   developed  or  acquired  without  reliance  on  the
+Application   Software;   or  (d)  approved  by  Licensor  for  release  without
+restriction.
+
+3.03 Security.  Licensee agrees to keep the Software in a secure place,
+under  access  and use  restrictions  designated  to prevent  disclosure  of the
+Software to  unauthorized  persons.  Licensee  agrees to at least  implement the
+security  precautions  that it  normally  uses to protect  its own  confidential
+materials and trade secrets.
+
+
+SOFTWARE LICENSE AGREEMENT - PAGE 2
+
+
+
+<PAGE>
+
+
+
+3.04  Disclosure as Breach.  Licensee agrees that any disclosure of the
+Software to a third  party,  except as set forth above,  constitutes  a material
+breach of this  Agreement,  entitling  Licensor to the  benefit of Section  5.01
+hereof.
+
+3.05 Removal of Markings.  Licensee agrees not to remove,  mutilate, or
+destroy any copyright, patent notice, trademark, service mark, other proprietary
+markings, or confidential legends placed on or within the Software.
+
+ARTICLE 4. WARRANTY PROVISIONS
+
+4.01     Warranties
+
+(a) General.  Licensor warrants, that (i) it has good title to
+the  Application  Software and the right to license its use to Licensee  free of
+any proprietary  rights,  liens, or encumbrances of any other party, (ii) it has
+the right to sublicense  the Third Party Software to Licensee for its use in the
+System;  (iii) the  Application  Software  will  permit  the  System to  provide
+Services  when  properly   interconnected  to  Licensee's  functioning  switches
+described in the Marketing  Agreement  (provided,  that any  modification of the
+Application  Software by any persons other than Licensor shall,  unless pursuant
+to   Licensor's   instruction,   void  the   Warranty  in  this   clause   (II);
+(iii)commencing on installation thereof, and for a period of 90 days thereafter,
+(I) the Software shall be free of viruses,  bugs or contaminants which may cause
+damage to Licensee's  systems or interrupt  Licensee's  utilization of a System;
+and (2)the media in which the  Software is  contained  shall be free of material
+defects in materials or workmanship.
+
+b. Year 2000. Licensor warrants that the Application  Software
+delivered  or  modified  by Licensor  is, or will be,  Year 2000  Compliant  (as
+defined  below).  Year 2000 Compliant  software that is intended to interoperate
+with third party products  (including  Third Party Software) as described herein
+will be compatible and  inter-operate in such manner as to process between them,
+as  applicable,  date related data  correctly as described in the  definition of
+"Year  2000  Compliant."  Except as set  forth in the  preceding  sentence,  (i)
+Licensor  assumes  no  responsibilities  or  obligations  to cause  third  party
+products to function with the Application  Software;  and (ii) Licensor will not
+be in breach of this warranty for any failure of the Application  Software to be
+Year 2000 Compliant if such failure  results from the inability of any software,
+hardware,  or systems of Licensee or any third party to be Year 2000  Compliant.
+"Year 2000 Compliant"  means that (a) neither the performance nor  functionality
+of the Application Software will be affected by dates prior to, during and after
+the year 2000, (b) no value for current date will cause any  interruption in the
+operation of the Application Software; (c) the year 2000 is recognized as a leap
+year;  (d) in all  interfaces  and data  storage the  century,  in any date,  is
+specified either explicitly or by unambiguous  algorithms or inferencing  rules;
+and (e) date-based  functionality  of the Application  Software behaves and will
+behave consistently for dates prior to, during and after the year 2000.
+
+4.02  Remedies.  In the  event of any  nonconformity  or  defect in the
+Application  Software  (or any other  breach with  respect to the  condition  or
+operation  of the  Application  Software)  for which  Licensor  is  responsible,
+Licensor shall, during the foregoing  respective  warranty periods,  (A) provide
+reasonable efforts to correct or cure such nonconformity, defect, contaminant or
+breach
+
+SOFTWARE LICENSE AGREEMENT - PAGE 3
+
+
+
+<PAGE>
+
+
+
+(which may include a workaround for system  errors),  (B) at Licensor's  option,
+replace the  relevant  part of the  Application  Software in lieu of curing such
+nonconformity, defect, contaminant or breach, or (C) if Licensor determines that
+neither of the  foregoing  is  commercially  practicable,  remove the System and
+terminate the Marketing Agreement and this License Agreement.
+
+4.03 Warranty  Disclaimer.  LICENSOR DOES NOT REPRESENT OR WARRANT THAT
+ALL ERRORS WILL BE CORRECTED. LICENSEE AGREES THAT LICENSEE'S SOLE AND EXCLUSIVE
+REMEDY  FOR THE  DEFECTS  DESCRIBED  IN THIS  SECTION  SHALL BE  LIMITED  TO THE
+CORRECTIVE ACTION DESCRIBED IN THIS SECTION. THE EXPRESS WARRANTIES SET FORTH IN
+THIS AGREEMENT ARE IN LIEU OF ALL OTHER WARRANTIES EXPRESS OR IMPLIED, INCLUDING
+ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+4.04  Limitation  of  Remedies.  LICENSEE  AGREES  THAT  ITS  EXCLUSIVE
+REMEDIES, AND LICENSOR'S ENTIRE LIABILITY WITH RESPECT TO THE SOFTWARE IS AS SET
+FORTH IN THIS  AGREEMENT.  LICENSEE  FURTHER  AGREES THAT LICENSOR  SHALL NOT BE
+LIABLE TO LICENSEE FOR ANY INDIRECT  DAMAGES,  INCLUDING ANY LOST PROFITS,  LOST
+SAVINGS, OR OTHER INCIDENTAL OR CONSEQUENTIAL DAMAGES, ARISING OUT OF ITS USE OR
+INABILITY TO USE THE SOFTWARE OR THE BREACH OF ANY EXPRESS OR IMPLIED  WARRANTY,
+EXCEPT AS SET FORTH IN SECTION 4.05.
+
+4.05     Indemnification.
+
+(a)  Infringement.  Licensor  agrees  to  indemnify  and  hold
+Licensee and its directors, officers, employees and agents, harmless against any
+and all claims, demands, actions, losses, liabilities,  judgments,  settlements,
+awards  and  costs   (including   reasonable   attorneys'   fees  and  expenses)
+(collectively,  "Liabilities")  arising  out of or related to any claim  against
+Licensee by a third party that  Licensee's  use or possession of the Third Party
+Software  or  Application  Software  (or the  license or  sublicense  granted to
+Licensee  hereunder  with  respect  thereto),  infringes  or violates any United
+States patent, copyright or other proprietary right of any third party; provided
+that  Licensee  gives  Licensor  prompt notice of any such claim of which it has
+actual  knowledge  and  cooperates  fully with  Licensor  in the defense of such
+claim.  Licensor shall have the exclusive right to defend and settle at its sole
+discretion  and expense all suits or  proceedings  arising out of the foregoing.
+Licensee  shall not have the right to settle  any  action,  claim or  threatened
+action  without the prior written  consent of Licensor (at  Licensor's  sole and
+absolute  discretion).  In case use of the Third Party  Software or  Application
+Software  is  forbidden  by  a  court  of  competent   jurisdiction  because  of
+proprietary  infringement,  Licensor shall promptly,  at its option, (i) procure
+for  Licensee  the  rights  to  continue  using  the Third  Party  Software  and
+Application  Software;  (ii)  replace the  infringing  Third  Party  Software or
+Application  Software with  non-infringing  Third Party  Software or Application
+Software of equal  performance  and quality which are  materially the functional
+equivalent of the infringing Third Party Software or Application Software; (iii)
+modify the infringing  Application  Software so it becomes  non-infringing while
+materially  maintaining  the  functionality  thereof;  or  (iv)  if  none of the
+foregoing  are  commercially  practicable,  remove the System and  terminate the
+Marketing  Agreement and this License  Agreement  Licensor will then be released
+from any further
+
+SOFTWARE LICENSE AGREEMENT - PAGE 4
+
+
+
+<PAGE>
+
+
+
+obligation  whatsoever  to Licensee with respect to the  infringing  part of the
+Third Party Software or Application  Software.  Nothing in this Section shall be
+deemed to make Licensor  liable for any patent or copyright  infringement  suits
+that arise in connection with (a) designs,  modifications,  use,  integration or
+data furnished by Licensee if infringement  would have been avoided by not using
+or combining the  Application  Software with such other programs or data (except
+the Third Party Software) or (b) if infringement  would have been avoided by the
+use of an updated version made available to Licensee.
+
+(b) Other.  Licensor  agrees to  indemnify  and hold  Licensee
+harmless  against any and all  Liabilities  arising out of Licensor's  negligent
+acts or omissions, intentional torts, or material breach of this Agreement.
+
+ARTICLE 5. TERMINATION
+
+5.01 Cause for Termination. The license granted in this Agreement shall
+terminate  automatically  and  without  further  notice upon the  occurrence  of
+expiration of the term,  specified in Section 1.02 or of any renewal term in the
+absence of a subsequent  renewal in accordance with the terms of this Agreement.
+Licensor may terminate this  Agreement in the event that (a) Licensee  discloses
+the  Software  to a third  party,  whether  directly or  indirectly  and whether
+inadvertently or purposefully,  or (b) Licensee attempts to use, copy,  license,
+or convey the Software in any manner  contrary to the terms of this Agreement or
+in derogation of Licensor's  proprietary rights in the Application  Software. In
+addition,  either party may terminate this  Agreement (and all licenses  granted
+hereunder)  at any time if (a) the other party  breaches any term hereof  (other
+than breaches by Licensee  pursuant to the preceding  sentence) or the Marketing
+Agreement  and fails to cure such breach within 30 days after receipt of written
+notice, (b) the other party shall be or becomes  insolvent,  (c) the other party
+makes an assignment  for the benefit of creditors,  (d) there are  instituted by
+the other party proceedings in bankruptcy or under any insolvency or similar law
+or for  reorganization,  receivership or  dissolution,  (e) there are instituted
+against the other party  proceedings  in bankruptcy  or under any  insolvency or
+similar  law  or  for   reorganization,   receivership  or  dissolution,   which
+proceedings  are not dismissed  within 60 days, or (f) the other party ceases to
+do business.
+
+5.02 Effect of Termination.  Licensee agrees that on termination  under
+Section 5.01, Licensor may recover all copies of Application  Software that have
+been  delivered to or made by Licensee,  and (on  Licensor's  request)  Licensee
+shall destroy all copies of the  Application  Software that are not recovered by
+Licensor,  certify to Licensor that it has retained no copies of the Application
+Software,  and acknowledge  that it may no longer use the Application  Software.
+Upon  termination of the license,  Licensor's  obligations  under this Agreement
+shall cease.
+
+ARTICLE 6. MISCELLANEOUS
+
+6.01 Governing  Law. THIS AGREEMENT  SHALL BE GOVERNED BY AND CONSTRUED
+IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS,  EXCEPT THAT ANY CONFLICTS OF
+LAW RULES OR PRINCIPLES  OF THE STATE OF TEXAS THAT WOULD  REQUIRE  REFERENCE TO
+THE LAWS OF ANOTHER JURISDICTION SHALL BE DISREGARDED.
+
+SOFTWARE LICENSE AGREEMENT - PAGE 5
+
+
+
+<PAGE>
+
+
+
+6.02  Headings.  Headings  used in  this  Agreement  are to  facilitate
+reference only, are not a part of this Agreement, and will not in any way affect
+the  interpretation  hereof.  The  use  herein  of the  word  "including,"  when
+following any general statement, term or matter, shall not be construed to limit
+such  statement,  term or  matter to the  specific  items or  matters  set forth
+immediately  following such word or to similar items or matters,  whether or not
+non-limiting language (such as "without limitation," or "but not limited to," or
+words of similar  import) is used with references  thereto,  but rather shall be
+deemed to refer to all other  items and  matters,  that  reasonably  could  fall
+within the broadest possible scope of such general statement, term or matter.
+
+6.03  Assignment.  This  Agreement,  and  all  rights  and  obligations
+hereunder,  are personal as to the parties  hereto and may not be  assigned,  in
+whole or in part, by any of the parties to any other person, firm or corporation
+without  the prior  written  consent  thereto by the other party  hereto,  which
+consent will not be unreasonably  withheld;  except that either party may freely
+assign any or all of its rights and  obligations  hereunder to any  affiliate or
+any person acquiring all or  substantially  all of that party's stock or assets.
+An  affiliate  is (a) an  entity  that  owns  all  or  substantially  all of the
+outstanding stock of the entity so assigning, (b) an entity all or substantially
+all of whose stock is owned by the entity so  assigning,  or (c) an entity under
+common  ownership  with the entity so  assigning.  Such  assignee  entity  shall
+thereupon be free to assign the rights and  obligations  under this Agreement to
+any other affiliate.  Any assignment  contrary to the terms hereof shall be null
+and void and of no force or effect.
+
+6.04 Failure or Partial Exercises.  No failure on the part of any party
+to exercise,  and no delay in exercising,  any right or remedy  hereunder  shall
+operate as a waiver  thereof.  Nor shall any single or partial  exercise  of any
+right or remedy  hereunder  exclude any other or further exercise thereof or the
+exercise of any other right hereunder.
+
+6.05 Entire Agreement, Amendments. This Agreement and all schedules and
+exhibits  annexed  hereto  constitute  the entire  agreement  among the  parties
+respecting the subject matter hereof and supersedes all prior  agreements  among
+the parties  relative to the subject matter hereof.  In entering this Agreement,
+Licensee did not rely on any  representations  or  warranties of Licensor or its
+employees or agents other than those set forth in this Agreement. This Agreement
+may not be  modified  or amended  except by a writing  that states that it is an
+amendment   to  this   Agreement   and  which  is  signed  by  duly   authorized
+representative of the parties.
+
+6.06 Notices.  All notices  required or permitted to be given hereunder
+shall be in writing and shall be valid and  sufficient if dispatched  either (i)
+by hand delivery,  (ii) by facsimile transceiver,  with confirming letter mailed
+promptly  thereafter by first class mail,  postage  prepaid,  (iii) by reputable
+overnight  express courier or (iv) by certified mail,  postage  prepaid,  return
+receipt  requested,  deposited in any post office in the United  States,  in any
+case,  addressed  to the  addresses  set  forth  on the  signature  page of this
+Agreement,  or such other  addresses as may be provided from time to time in the
+manner set forth above.  When sent by facsimile as  aforesaid,  notices given as
+herein  provided  shall be  considered to have been received at the beginning of
+recipient's next business day following their confirmed transmission; otherwise,
+notices  shall be  considered  to have  been  received  only  upon  delivery  or
+attempted delivery during normal business hours.
+
+
+SOFTWARE LICENSE AGREEMENT - PAGE 6
+
+
+
+<PAGE>
+
+
+
+6.07 Partial  Invalidity.  If any clause or provision of this Agreement
+is held to be illegal,  invalid,  or unenforceable  under present or future laws
+effective  during the term of this Agreement,  then and in that event, it is the
+intention of the parties hereto that the remainder of this  Agreement  shall not
+be  affected  thereby,  and it is also  the  intention  of the  parties  to this
+Agreement  that in lieu of each clause or  provision of this  Agreement  that is
+held to be illegal, invalid, or unenforceable,  there be added as a part of this
+Agreement a clause or provision as similar in terms to such illegal, invalid, or
+unenforceable  clause or provision as may be possible and still be legal, valid,
+and enforceable.
+
+6.08  Attorneys   Fees.  The  prevailing   party  in  any   litigation,
+arbitration  or  other  proceedings  arising  out of  this  Agreement  shall  be
+reimbursed  by the  other  party for all costs  and  expenses  incurred  in such
+proceedings, including reasonable attorneys' fees.
+
+6.09  Force  Majeure.  No party  hereto  shall be  liable  for delay or
+default in performing hereunder, other than a delay or default in payment of any
+monies due to the other party, if such  performance is delayed or prevented by a
+Force Majeure Condition.  "Force Majeure Condition" means any condition or event
+beyond the reasonable  control of the party affected  thereby,  including  fire,
+explosion,  or other  casualty,  act of God, war or civil  disturbance,  acts of
+public enemies,  embargo,  the performance or  non-performance of third parties,
+acts  of  city,  state,  local  or  federal   governments  in  their  sovereign,
+regulatory,  or  contractual  capacity,  labor  difficulties,  and strikes,  but
+specifically  excluding a party's failure to be Year 2000 Compliant.  If a Force
+Majeure  Condition  occurs,  the party  delayed or unable to perform  shall give
+prompt notice of such  occurrence to the other party.  The party affected by the
+other party's inability to perform,  may, after sixty (60) days, elect to either
+terminate  this Agreement or continue  performance  with the option of extending
+the terms of the Agreement up to the length of time the Force Majeure  Condition
+endures.  The party  experiencing  the Force Majeure  Condition  must inform the
+other party in writing when such a condition ceases to exist.  Each party shall,
+with the cooperation of the other,  exercise all reasonable  efforts to mitigate
+the extent of a delay or failure resulting from a Force Majeure Condition.
+
+6.10   Independent   Contractor.   The   relationship  of  the  parties
+established by this Agreement is that of  independent  contractors,  and nothing
+contained in this Agreement will be construed (a) to give either party the power
+
+SOFTWARE LICENSE AGREEMENT - PAGE 7
+
+
+
+<PAGE>
+
+
+to direct and control the day-to-day  activities of the other, (b) to constitute
+the parties as partners, joint venturers, owners or otherwise as participants in
+a joint or common undertaking,  or (c) to allow either party to create or assume
+any obligation on behalf of the other for any purpose whatsoever.
+
+
+PREFERRED VOICE, INC.                   RURAL CELLULAR
+CORPORATION
+
+on behalf of itself and its wholly owned
+subsidiaries and affiliates
+
+
+
+By:  /s/ Richard K. Stone               By:  /s/ Scott G. Donlea
+Name; Richard K.  Stone                 Name: Scott G.  Donlea
+Title: Vice President                   Title: Vice President Market Development
+
+6500 Greenville Avenue                  Address: 3905 Dakota St., S.W.
+Suite 570                               3905 Dakota Street SW
+Dallas, Texas 75206                     Alexandria, MN 56308 USA
+Fax No:       214-265-9663              Fax No:           (320) 808-2181
+Phone:        214-265-9580              Phone:            (320) 762-2000
+
+SOFTWARE LICENSE AGREEMENT - PAGE 8
+
+
+
+

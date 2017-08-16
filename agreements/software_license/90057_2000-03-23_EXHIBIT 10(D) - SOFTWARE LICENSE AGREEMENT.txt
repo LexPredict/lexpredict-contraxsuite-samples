@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+THIS  AGREEMENT  is made as of the 8th day of May,  1998 by and between
+SIBONEY LEARNING GROUP  ("Siboney") with an address at 8135 Forsyth,  Suite 212,
+St.  Louis,  Missouri  63105,  United  States of America  and NECTAR  FOUNDATION
+("NECTAR") with an address at 10 Bowhill  Avenue,  Nepean,  Ontario,  Canada K2E
+6S7.
+
+WHEREAS,  Siboney  is in  the  business  of  creating,  publishing  and
+marketing software for use on microcomputers; and
+
+WHEREAS,  the parties  desire that Siboney modify and distribute in the
+United States certain software originally developed by NECTAR.
+
+NOW, THEREFORE,  for good and valuable  consideration,  the receipt and
+sufficiency  of which are hereby  acknowledged,  the parties  mutually  agree as
+follows:
+
+1. License Grant.  NECTAR hereby grants to Siboney an exclusive license
+and right in the United States, its territories and possessions, to use, revise,
+modify and create derivative works of the "MathTrek 1,2,3", "MathTrek 4,5,6" and
+"Math Trek 7,8,9" software  program series (the "Licensed  Software") for use on
+Macintosh and Windows operating systems, and to repackage,  manufacture, market,
+distribute,  sell,  lease,  license and sub-license such revised and/or modified
+Licensed  Software.  Such  revisions,  modifications  and  derivative  works are
+referred to herein as "Modified Software". The foregoing licenses to Siboney are
+subject to  NECTAR's  right set forth in Section 2 hereof,  and to any  licenses
+previously  granted by NECTAR to  end-users of the  Licensed  Software.  Siboney
+shall have no rights in the Licensed Software or Modified Software other than as
+set forth in this Agreement.  NECTAR shall, as reasonably  requested by Siboney,
+consult with Siboney concerning such revisions,  modifications and the like, and
+all revisions and the like will be subject to NECTAR's approval, which shall not
+be unreasonably withheld.  NECTAR shall receive one (1) copy of every commercial
+product created pursuant to this license.
+
+2. Marketing.  Siboney shall diligently develop, market and promote the
+Modified Software. Decisions regarding the packaging, pricing and trademarks for
+the Modified Software shall be made solely by Siboney.  NECTAR shall be notified
+of the  initial  pricing  structure  and  any  subsequent  changes  in  pricing.
+Notwithstanding  anything to the  contrary  in Section 1, NECTAR  shall have the
+exclusive right to license,  market and distribute the Licensed  Software to its
+existing distributors identified on Exhibit A hereto.
+
+3. Duties Upon Execution. Upon execution of this Agreement, NECTAR will
+provide  Siboney  with  all  source  code,  technical  information  and  content
+documentation regarding the Licensed Software which NECTAR has in its possession
+or under its control. NECTAR represents that copyright to the external functions
+PostGrid and PostGraph in the source code is owned by Brain Waves Software, Inc.
+NECTAR  cannot  provide this code or  information  about how to use the external
+functions  using such Brain Waves  source code,  and Siboney  shall not use such
+code.
+
+4.  Earned  Royalties.  Siboney  will pay to  NECTAR  earned  royalties
+("Earned Royalties") based on sales of the Modified Software, in an amount equal
+to  twenty-two  and  one-half  percent  (22.5%) of  Siboney's  Net  Receipts for
+Modified  Software.  Earned Royalties will accrue upon Siboney's  issuance of an
+invoice for a Modified Software product.
+
+5. Royalty Computation. "Net Receipts" are defined for purposes of this
+Agreement as all consideration  received by Siboney or its affiliates,  directly
+or  indirectly,  from  the  distribution,  publication,  lease,  sale  or  other
+commercialization of the Modified Software,  as applicable,  less any discounts,
+returns, sales or use taxes, refunds, freight, shipping and handling charges. If
+Siboney  intends to license any Modified  Software  covered by this Agreement as
+part of a package with other similar software, it shall first notify NECTAR. Net
+Receipts for Modified  Software  licensed in such packages  shall be apportioned
+based on the relative retail or suggested retail prices  reasonably  established
+by Siboney for the various programs comprising the package.
+
+6. Method of Payment; Audit. Siboney shall pay NECTAR applicable Earned
+Royalties  for each calendar  quarter  hereafter,  beginning  December 31, 1998,
+within 30 days following the end of each quarter in which Earned  Royalties have
+accrued,  accompanied by a statement showing Net Receipts. NECTAR shall have the
+right, not more than once each calendar year, upon reasonable  notice to Siboney
+and during Siboney's  regular business hours, to have such  calculations and the
+records on which  they are based  reviewed  by an  accountant  of its  choosing.
+NECTAR's expenses in conjunction with any audit shall be reimbursable by Siboney
+within 30 days of  presentation  of a written  statement  of  expenses  if it is
+determined  that  there is more  than a ten  percent  (10%)  error in  Siboney's
+statement  and/or  payment to NECTAR.  If such review  shows an  overpayment  by
+Siboney,  then the amount of such  overpayment  shall be  promptly  refunded  by
+NECTAR to Siboney.
+
+<PAGE>
+
+7. Guaranteed Minimum  Royalties.  Siboney will pay NECTAR a guaranteed
+minimum royalty payment  totaling  $180,000 (in U.S.  Dollars).  This guaranteed
+royalty will accrue in  specified  amounts  (each,  a  "Guaranteed  Amount") for
+certain periods (each, a "Guarantee  Period) and be payable as follows:  $30,000
+will accrue on December 31, 1999 and be payable  January 31, 2000;  $60,000 will
+accrue on  December  31, 2000 and be payable  January 31, 2001 and $90,000  will
+accrue on December 31, 2001 and be payable  January 31, 2002.  Earned  Royalties
+will be credited  against  the  applicable  Guaranteed  Amount,  if any.  Earned
+Royalties for any Guarantee  Period in excess of the Guaranteed  Amount for that
+period shall be credited  dollar for dollar to reduce the Guaranteed  Amount for
+the following  guarantee period. For example,  if Earned Royalties accrued as of
+December 31, 1999 total $40,000,  then the Guaranteed Amount payable January 31,
+2001 shall be reduced to $50,000.  The guaranteed  minimum  royalty payment does
+not affect  Siboney's  obligation to pay all Earned  Royalties  accrued during a
+particular period.
+
+8.  Ownership.  The Modified  Software shall be the property of NECTAR,
+subject to Siboney's  exclusive license as defined herein, and Siboney agrees to
+mark a copyright notice on each copy of Modified Software in the following form:
+"? NECTAR Foundation."
+
+9.  Warranty  of  Authority.  Except as set forth in Section 3,  NECTAR
+warrants and represents that it has full power and authority to grant the rights
+granted in this Agreement without the consent of any other party.
+
+10.  Warranty of  Noninfringement.  NECTAR  warrants  that the Licensed
+Software does not infringe the copyright,  trademark,  trade secret or any other
+proprietary  right,  or the right to privacy,  of any third  party,  and further
+warrants that the Licensed Software does not contain any defamatory, libelous or
+unlawful material.  NECTAR agrees to defend, indemnify and hold harmless Siboney
+from  and  against  any  third-party  claims,   demands,   liabilities,   suits,
+proceedings and costs,  including  attorneys  fees,  incurred by Siboney arising
+from any alleged breach of the warranty of NECTAR under this section.
+
+11.  Claims of  Infringement.  Siboney  and NECTAR will give each other
+prompt and complete  written notice  whenever either becomes aware of any actual
+or impending  unauthorized  use of the Licensed  Software or Modified  Software.
+Siboney  shall have complete  discretion to act or forebear  acting in regard to
+such actual or impending  unauthorized use. NECTAR,  however, shall cooperate at
+Siboney's sole expense with Siboney and follow  Siboney's  directions if Siboney
+elects to act in regard to such actual or  impending  unauthorized  use, and any
+recovery  awarded  to or paid as a result of any  action  undertaken  by Siboney
+shall belong  solely to Siboney.  If Siboney,  however,  shall elect not to act,
+NECTAR  shall be deemed  authorized  to act at its own expense on its own behalf
+and any recovery shall belong solely to NECTAR.
+
+12.  Term and  Termination.  This  Agreement  shall be  effective  upon
+execution and shall remain in effect until  terminated  by either party.  NECTAR
+may  terminate  this  Agreement  after  December 31, 2001, on 6 months notice to
+Siboney, in the event Earned Royalties for a calendar year do not meet or exceed
+$30,000 (in U.S.  Dollars).  Siboney may  terminate  this  Agreement on 6 months
+notice any time after  December  31,  2001.  Upon  termination  pursuant to this
+Section,  (a) the licenses  granted  herein shall  terminate  except as to those
+Modified  Software products already  distributed or sublicensed by Siboney,  (b)
+Siboney shall have no rights to license or distribute any Modified  Software not
+invoiced as of the end of the 6-month period and (c) Siboney  remains  obligated
+for Earned Royalties due on Modified  Software invoiced prior to the end of such
+6-month period. This Agreement will be terminated  automatically upon the filing
+of a petition in bankruptcy by or against Siboney.
+
+13.  Breach.  In the  event of a breach  of any  material  term of this
+Agreement, the non-breaching party shall provide a notice of breach to the other
+party,  which notice shall specify the nature of the breach.  If the  defaulting
+party  fails to cure the  breach  within the  thirty-day  period  following  its
+receipt  of such  notice,  then,  at its  option,  the  non-breaching  party may
+terminate  this  Agreement  upon notice to the other party and: (a) the licenses
+granted herein shall  terminate  except as to those Modified  Software  products
+already distributed or sublicensed by Siboney,  (b) Siboney shall have no rights
+to license or distribute any Modified Software not invoiced as of the end of the
+30-day  period and (c) Siboney  remains  obligated  for Earned  Royalties due on
+Modified Software invoiced prior to the end of such 30-day period.
+
+14. No Joint Venture.  Nothing in this Agreement  shall be construed as
+creating a joint venture or any other type of partnership  relationship  between
+the parties. Each party shall be considered an independent contractor.
+
+15. Non-Waiver.  Any party's waiver of or failure to enforce any of its
+rights under this Agreement shall not act as a waiver of forfeiture of any other
+right or of the same right in any other instance.
+
+16. Notice. Any notice, request, approval, consent and payment required
+under this Agreement  (collectively,  "Notice")  shall be in writing and sent to
+the  other  party  by  (a)  certified  mail,  return  receipt  requested,  (b) a
+nationally  recognized overnight courier at the address set forth herein; or (c)
+transmitted by telecopy with  confirmation of receipt,  all at the addresses set
+forth below:
+
+<PAGE>
+
+With respect to Siboney:                        Bodie Marx
+Siboney Learning Group
+8135 Forsyth, Suite 212
+Saint Louis, MO 63105
+Fax:  (314) 726-0725
+
+With respect to NECTAR:                         Victor D'Amico
+NECTAR Foundation
+10 Bowhill Avenue
+Nepean, Ontario
+Canada K2E 6S7
+Fax:  (613) 224-1946
+
+Notice will be deemed to have been given on the  first date of actual receipt of
+either form of notice.
+
+17.  Assignments.  This  Agreement  may not be assigned by either party
+without the written approval of the other party, which shall not be unreasonably
+withheld.
+
+18.  Choice  of  Law  and  Forum;   Consent  to  Jurisdiction.   NECTAR
+acknowledges that in entering into this Agreement,  it is purposefully  availing
+itself  of  the  benefits  of  doing  business  in  the  United  States.  NECTAR
+irrevocably consents to the exclusive jurisdiction of the United States District
+Court for the Eastern  District of Missouri  and the St.  Louis  County  Circuit
+Court  with  regard  to any  controversy  related  to or  arising  out  of  this
+Agreement, and waives any objection to jurisdiction or venue of such courts. Any
+requirements  under the Hague  Convention  or any  other  international  treaty,
+convention or compact notwithstanding,  NECTAR agrees that service of process by
+any of the methods for notice set forth in Section 12 of this Agreement shall be
+deemed  appropriate  service.  NECTAR  irrevocably  consents that any judgements
+obtained against it arising out of or relating to this Agreement may be enforced
+in any jurisdiction in which NECTAR has assets.
+
+19. Entire Agreement.  This Agreement  constitutes the entire agreement
+and  understanding  among the parties  concerning  the subject matter hereof and
+supersedes all prior agreements and understandings,  whether written or oral. No
+modification  of claimed waiver of any of the  provisions  hereof shall be valid
+unless in writing and signed by the party  against  whom such  modifications  or
+waiver is sought to be enforced.
+
+20.  Counterparts.  This  Agreement  may be  executed  in  one or  more
+counterparts,  each of which shall be deemed to be an original, and all of which
+together  shall  constitute  one and the same  Agreement.  This Agreement may be
+executed and delivered by electronic facsimile  transmission with the same force
+and effect as if it were executed and delivered by the parties simultaneously in
+the presence of one another.
+
+SIBONEY CORPORATION                         NECTAR FOUNDATION
+
+
+By:  /s/ Ernest R. Marx                   By: /s/ V. L. D'Amico
+
+Printed Name: Ernest R. Marx              Printed Name: V. L. D'Amico
+
+Title: President,
+Siboney Learning Group             Title: /s/ Executive Director
+
+<PAGE>
+
+AMENDMENT TO SOFTWARE LICENSE AGREEMENT
+
+
+THIS AMENDMENT TO SOFTWARE LICENSE  AGREEMENT  ("Amendment") is made as
+of the  8th  day of  September,  1999  by and  between  SIBONEY  LEARNING  GROUP
+("Siboney")  with an address at 8135  Forsyth,  Suite 212, St.  Louis,  Missouri
+63105, United States of America and NECTAR FOUNDATION ("NECTAR") with an address
+at 10 Bowhill Avenue, Nepean, Ontario, Canada K2E 6S7.
+
+RECITALS
+
+A. Siboney and NECTAR entered into a software license agreement made as
+of the 8th day of May, 1998 (the "License Agreement").
+
+B. The  parties to the  License  Agreement  desire to amend the License
+Agreement with respect to the matters referred to herein.
+
+NOW, THEREFORE,  in consideration of the premises and of the agreements
+and provisions set forth herein, and subject to the conditions contained herein,
+it is mutually agreed as follows:
+
+1. Definitions.  Unless otherwise defined herein, all capitalized terms
+used  herein  shall  have  the  same  meaning  assigned  to them in the  License
+Agreement.
+
+2.  License  Grant.  Paragraph  1 of the  License  Agreement  is hereby
+amended by adding the following after the second sentence of the paragraph:
+
+"The definition of Licensed Software shall include,  in addition to the
+program  series  specifically  identified in the first sentence of this
+paragraph,  the  "ScienceTrek  4-6"  program  series,  and  such  other
+software programs as the parties agree to in writing."
+
+3. Earned Royalties. Paragraph 4 of the License Agreement is deleted in
+its entirety and replaced with the following:
+
+"4.1 Siboney will pay to NECTAR earned royalties  ("Earned  Royalties")
+based on sales  of the  Modified  Software  for any  MathTrek  software
+program  ("Modified  MathTrek  Software"),  as follows:  Effective  for
+Earned Royalties accrued prior to July 1, 1999, Siboney will pay NECTAR
+Earned Royalties based upon sales of the Modified  MathTrek Software in
+an amount equal to twenty-two and one-half percent (22.5%) of Siboney's
+Net Receipts for such Modified MathTrek Software.  Effective for Earned
+Royalties  accrued on or after July 1,  1999,  Siboney  will pay NECTAR
+Earned Royalties based upon sales of the Modified  MathTrek Software in
+an amount equal to twenty  percent  (20%) of Siboney's Net Receipts for
+the first  $350,000 of  cumulative  Earned  Royalties for such Modified
+MathTrek  software.  After  cumulative  Earned  Royalties  for Modified
+MathTrek  Software  reach  $350,000,  the royalty will be reduced to an
+amount equal to fifteen  percent (15%) of Siboney's Net Receipts on all
+future sales of Modified MathTrek Software.
+
+4.2 For any  Licensed  Software  program or Modified  Software  program
+other than MathTrek  software  programs (each, an "Additional  Software
+Program"),  Siboney will pay to NECTAR Earned  Royalties based on sales
+of such  Additional  Software  Program  in an  amount  equal to  twenty
+percent  (20%) of Siboney's Net Receipts for such  Additional  Software
+Program,  provided  that after  cumulative  Earned  Royalties  for such
+Additional  Software  Program  reach  $250,000,  the  royalty  for that
+program will be reduced to an amount equal to fifteen  percent (15%) of
+Siboney's Net Receipts on all future sale of such  Additional  Software
+Program."
+
+4. Guaranteed Minimum  Royalties.  Paragraph 7 of the License Agreement
+is deleted in its entirety and replaced with the following:
+
+"Siboney will pay NECTAR a guaranteed  minimum royalty payment totaling
+$350,000  (in U.S.  Dollars).  This  guaranteed  royalty will accrue in
+specified  amounts  (each, a "Guaranteed  Amount") for certain  periods
+(each,  a "Guarantee  Period) and be payable as follows:  $100,000 will
+accrue on December 31, 1999 and be payable  January 31, 2000;  $125,000
+will  accrue on December  31, 2000 and be payable  January 31, 2001 and
+$125,000  will accrue on December  31, 2001 and be payable  January 31,
+2002.   Earned  Royalties  will  be  credited  against  the  applicable
+Guaranteed Amount, if any. Earned Royalties for any Guarantee Period in
+excess of the  Guaranteed  Amount  for that  period  shall be  credited
+dollar  for dollar to reduce the  Guaranteed  Amount for the  following
+guarantee  period.  For  example,  if Earned  Royalties  accrued  as of
+December 31, 1999 total  $120,000,  then the Guaranteed  Amount payable
+January 31, 2001 shall be reduced to $105,000.  The guaranteed  minimum
+royalty payment does not affect Siboney's  obligation to pay all Earned
+Royalties accrued during a particular period."
+
+5. Term and Termination. Section 12 of the License Agreement is amended
+by deleting "$30,000" in the second sentence and replacing it with "$60,000."
+
+6. Full  Force  and  Effect;  Entire  Agreement.  Except to the  extent
+expressly  provided in this  Amendment,  the terms and conditions of the License
+Agreement  shall  remain in full  force and  effect  and shall be binding on the
+parties  thereto.  The License  Agreement,  as amended  hereby,  constitutes the
+entire agreement among the parties hereto and no  representations,  inducements,
+promises or other agreements, which are otherwise not embodied herein or therein
+shall be of any force and effect.
+
+7. Counterparts.  This Amendment may be executed  simultaneously in one
+or more  counterparts,  each of which  shall be deemed an  original,  but all of
+which taken together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+executed as of the date first set forth above.
+
+
+SIBONEY LEARNING GROUP
+
+
+By: /s/ Ernest R. Marx
+
+Title: President
+
+
+NECTAR FOUNDATION
+
+
+By: /s/ V. L. D'Amico
+
+Title: Executive Director
+
+
+

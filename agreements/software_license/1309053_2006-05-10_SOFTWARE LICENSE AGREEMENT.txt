@@ -1,0 +1,1796 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.2
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+GENERAL TERMS
+
+
+
+
+
+This agreement is made and entered into as of July 19, 2005 (the “Effective Date”) by and between UBISOFT Entertainment S.A., a French corporation with offices at 28 rue Armand Carrel, 93108 Montreuil sous Bois, France (“UBISOFT”), and Red Mile Entertainment Inc. with its registered office at 4000 Bridgeway, Suite 101, Sausalito, CA 94965, USA a company incorporated under the Laws of Florida (“LICENSOR”).
+
+
+
+
+
+Should any provision included in the Specific Terms of the Software License Agreement (“Specific Terms”) be contrary to the General Terms of the Software License Agreement (“General Terms”), the Specific Terms shall prevail. The Specific Terms and General Terms shall be jointly referred to as the “Agreement”.
+
+
+
+
+
+UBISOFT and LICENSOR being hereinafter jointly referred to as the “Parties”.
+
+
+
+
+
+Recitals
+
+
+
+
+
+LICENSOR is engaged in the business of development and production of video games for various platforms.
+
+
+
+
+
+UBISOFT is engaged in the business of publishing, distributing game software in the “Territory” (as hereinafter defined).
+
+
+
+
+
+UBISOFT desires to obtain and LICENSOR is willing to grant to UBISOFT the exclusive license to manufacture, market, publish, sell and distribute the Game throughout the Territory on the terms and conditions set forth herein.
+
+
+
+
+
+Therefore, in consideration of the mutual covenants hereinafter set forth and other good and valuable consideration, the Parties hereto agree as follows:
+
+
+
+
+
+1. Definitions
+
+
+
+
+
+“Add-on” shall mean an interactive entertainment software product or program for any platform (including without limitation Sony Playstation 2, Sony Playstation 3, Sony PSP, Microsoft X-Box, Microsoft X-Box 2, Nintendo Game Cube, Nintendo Game Boy Color, Nintendo Gameboy Advance, Nintendo DS, Internet (including without limitation streaming, massively multiplayer online, and downloading), PC and any successor console platforms or new platforms and hardware developed during the Term), which includes new elements to the Game, including without limitation new maps, levels, missions, scenario, screenplays, and which runs with or without the pre-existing Game.
+
+
+
+
+
+“B-to-B” or “Business to Business” shall mean the sale of the Game through special operations or partnership with other industries.
+
+
+
+
+
+“Bundle or OEM” shall mean the distribution of the Game by way of pre-installing the Game on a PC or marketing a copy of the Game with any other product whatever its nature, subjected to a common offer and/or offered in a common packaging.
+
+
+
+
+
+“Candidate Master” shall mean the final English version of the Game for the Standard and Format, functional in all material respects, fully set up and entirely tested, debugged and delivered by LICENSOR to UBISOFT together with all materials necessary for its submission to Console Manufacturer Approval (if applicable).
+
+
+
+
+
+“Compilation”means the sale of the Game with one or several other video games subject to a common offer.
+
+
+
+
+
+“Console Manufacturer Approval” shall mean that the Game has to be approved by the applicable Console Manufacturer set forth in the Specific Terms throughout the Territory at the two following stages: Concept Approval and Lot Check Approval. Console Manufacturer Approval is considered to be achieved when approvals from the Console Manufacturer have been obtained for these two stages.
+
+
+
+
+
+“Covermount” or “Kiosk”means the sale of the Game together with magazines which may be dedicated to the Game or through newspaper kiosk or stands.
+
+
+
+
+
+“Format” shall mean the video game platform set forth in the Specific Terms.
+
+
+
+
+
+“Game” shall mean the video game developed by LICENSOR for the Format and Standard and entitled as set forth in the Specific Terms.
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Gold Master”shall mean the Candidate Master of the Game for the Standard and Format free of copy protection approved by UBISOFT (not to be unreasonably withheld) and if applicable by the Console Manufacturer for manufacture and release.
+
+
+
+
+
+“Net Sales” shall mean the gross receipts received by Ubisoft on the sales of the Game less (i) VAT, sales taxes, customs duties, freight, (ii) price protections, mark-downs, customary and usual trade discounts, end year rebates, returns, (iii) marketing development funds/Coop (capped at the greater of $250,000 or 5% of the Net Sales), (iv) the applicable Console Manufacturer royalties and manufacturing costs.
+
+
+
+
+
+“Non-Retail” shall mean sales of the Game set forth in the Specific Terms with the exception of retail sales.
+
+
+
+
+
+“Packaging Artwork” shall mean the final reproducible artwork layered files for the packaging, instruction manuals, and other collateral printed materials (if any) regarding the Game, in English language (and any other language of the Territory when available), on a current industry standard format (QuarkXPress Mac, Photoshop Mac, Illustrator Mac), suitable for duplication by or for UBISOFT in furtherance of this Agreement.
+
+
+
+
+
+“Portage” shall mean the reproduction and/or adaptation of the Game with a view to its use on any other platform than the Format.
+
+
+
+
+
+“Programming errors” or “Bug” shall mean any incident which may occur, whether on isolated or repeated occasions, during the use of the Game in normal conditions and which prevents the Game from functioning properly.
+
+
+
+
+
+“Promotional Materials” shall mean any documents and materials including advertising, promotional, display and/or other such marketing materials, of or concerning the Game in English language (and any other language of the Territory when available) which UBISOFT may use in conjunction with the distribution of the Game and for promotional purposes only.
+
+
+
+
+
+“Sell-Off Period” shall mean the period set forth in the Specific Terms commencing on the expiry of the Term or Termination of the Agreement, during which UBISOFT shall be entitled to sell such stock of Game and Promotional Materials as may have been manufactured but which remain unsold on the expiry of the Term or Termination hereof. UBISOFT shall not duplicate or manufacture the Game during the Sell-Off Period.
+
+
+
+
+
+“Sequel” or “Prequel” shall mean the interactive entertainment software product, for any platform (including without limitation Sony Playstation 2, Sony Playstation 3, Sony PSP, Microsoft X-Box, Microsoft X-Box 2, Nintendo Game Cube, Nintendo Game Boy Color, Nintendo Gameboy Advance, Internet (including without limitation streaming, massively multiplayer online, and downloading), PC and any successor console platforms or new platforms and hardware developed during the Term), which (i) reproduces all or a substantial part of the source code and/or the source materials (extensions on- or off-network) and (ii) which employs the same characters and elements of design as those appearing in the Game but in a different plot, sequence, or situation.
+
+
+
+
+
+“Standard” shall mean the PAL and/or NTSC standards as set forth in the Specific Terms.
+
+
+
+
+
+“Trademarks” shall mean the trademarks of LICENSOR, of its licensor’s and the ones regarding the Game which are set forth in the Specific Terms.
+
+
+
+
+
+All references to Clauses, Sub-clauses and Schedules are to Clauses, Sub-clauses of this Agreement. Words importing the singular only shall include the plural and vice versa; words importing the masculine gender shall include the feminine; and words importing persons shall include corporations.
+
+
+
+
+
+2. Grant of Rights
+
+
+
+
+
+
+
+2.1
+
+LICENSOR hereby grants to UBISOFT, in accordance with the terms and subject to the conditions set forth in this Agreement, and UBISOFT hereby accepts from LICENSOR, the following rights within the Territory during the Term  with respect to the Game and the Trademarks:
+
+
+
+
+
+
+
+
+(a)          the exclusive license to duplicate, manufacture, market, publish, distribute and sell and otherwise exploit directly and indirectly units of the Game through the distribution channels and by the means set forth in the Specific Terms; and
+
+
+
+
+
+(b)          the exclusive license to manufacture, market, distribute, license and sell directly or indirectly hint books or strategy guides regarding the Game throughout the Territory during the Term; and
+
+
+
+
+
+(c)          the exclusive license to reproduce and distribute the Packaging Artwork and Promotional Materials of the Game throughout the Territory during the Term; and
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d)          the exclusive license to use the logos and Trademarks pertaining to the title of the Game (or any other logo and trademark corresponding to any other title given to the Game) and the exclusive license to register and use any domain name of the title of the Game (or any other domain name corresponding to any other title given to the Game) with respect to the promotion and sale of the Game; and
+
+
+
+
+
+(e)          the exclusive right to make available on websites including but not limited to UBISOFT’s websites, patches, plug-ins, on line version of the Game as a shareware and Add-ons (including, but not limited to, new maps, worlds, and levels) for downloading by the end users of the Game. UBISOFT shall have the exclusive right to exploit the multi-player online features of the Game which shall be playable over gaming intranets and the Internet, including but not limited to UBISOFT’s on-line gaming service and;
+
+
+
+
+
+(f)           the exclusive license to distribute the Game through internet streaming, pay per play and/or downloading during the Term, and to sublicense such distribution. LICENSOR acknowledges and agrees that in order to enable the Game for such digital distribution, UBISOFT or its sublicensee shall have the right to use, copy and process the Game and software files of third parties contained therein, including, without limitation, (i) install the Game on computer servers and reduce any files (including any and all software files of third parties) contained therein, and (ii) encode and encrypt the Game and combine the Game with any software for the sole purpose of allowing digital distribution.
+
+
+
+
+
+2.2 LICENSOR shall not manufacture, market, distribute and sell or otherwise commercially exploit the Game in any languages within the Territory during the Term except through UBISOFT pursuant to this Agreement.
+
+
+
+
+
+3. Term
+
+
+
+
+
+3.1 This Agreement shall take effect on the Effective Date and last for the period of time set forth in the Specific Terms.
+
+
+
+
+
+3.2 This Agreement may be renewed only upon mutual written agreement of the Parties.
+
+
+
+
+
+3.3 UBISOFT shall, upon expiry of the Term and Sell Off Period, furnish to LICENSOR a complete stock inventory of the Game.
+
+
+
+
+
+4. Territory
+
+
+
+
+
+The Territory covered by this Agreement is defined in the Specific Terms.
+
+
+
+
+
+5. Copyright and Trademark Notices
+
+
+
+
+
+5.1 The copyright and trademark notices set forth in the Specific Terms must appear on the Game, any Packaging Artwork and Promotional Materials.
+
+
+
+
+
+5.2 LICENSOR authorizes UBISOFT to insert the name and logo “UBISOFT Entertainment” on the Game, on its front packaging, disc label and any Packaging Artwork and Promotional Materials.
+
+
+
+
+
+6. Advance against Royalties and Royalties
+
+
+
+
+
+6.1 Advance against Royalties
+
+
+
+
+
+In consideration of the rights granted, UBISOFT shall pay LICENSOR a fully-recoupable advance against royalties in the amount set forth in the Specific Terms (the “Advance Against Royalties”).
+
+
+
+
+
+The Advance Against Royalties shall be fully recoupable and fully cross-collateralized across all Royalties accrued from any and all sales and revenues (i) accrued to LICENSOR pursuant to any prior agreement between the Parties and (ii) derived from the Game pursuant to this Agreement.
+
+
+
+
+
+6.2 Royalties
+
+
+
+
+
+6.2.1 UBISOFT shall pay LICENSOR a royalty on all sales of the Game as set forth in the Specific Terms (“Royalty”).
+
+
+
+
+
+The Royalties are based on the cartridge size of the Game. The Parties acknowledge that should LICENSOR deliver the Game on a bigger cartridge than the one set forth in Section A of the Specific Terms, UBISOFT shall deduct from the Royalty the manufacturing costs incurred by this size difference at the time of manufacture of the Game.
+
+
+
+
+
+6.2.2 Notwithstanding any contrary provision in this Agreement, UBISOFT may distribute Royalty-free units of the Game in the Territory of not-for-resale copies of the Game at UBISOFT’s sole expense but with no Royalty payment obligation resulting from the distribution of such units. The amount of these Royalty-free units is set forth in the Specific Terms.
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Delivery of the Game
+
+
+
+
+
+7.1. Current Version of the Game
+
+
+
+
+
+Upon mutual execution of this Agreement, LICENSOR shall deliver to UBISOFT the latest version of the Game or of the concept of the Game.
+
+
+UBISOFT may reasonably request LICENSOR to integrate at LICENSOR’s costs some elements into the Game to customize it for the needs of special partnerships such as B-to-B (if applicable), provided that such requests do not jeopardize in the sole opinion of LICENSOR the Gold Master Date.
+
+
+UBISOFT may also request LICENSOR to insert at LICENSOR’s costs into the Game elements to enable the online gaming of the Game (if applicable) such as without limitation plug-ins and Ubi.com e-registration software, provided that such requests do not jeopardize in the sole opinion of LICENSOR the Gold Master Date.
+
+
+
+
+
+7.2. AVI running Demo, Playable Demo, Candidate Master, Gold Master
+
+
+
+
+
+The AVI running demo, playable demo, Candidate Master and the Gold Master of the Game shall be delivered to UBISOFT by LICENSOR no later than the date set forth in the Specific Terms.
+
+
+
+
+
+7.3. Console Manufacturer Approval (if applicable)
+
+
+
+
+
+UBISOFT shall submit the concept of the Game and the Candidate Master to Console Manufacturer Approval. LICENSOR shall at its own costs deliver to UBISOFT all elements necessary to said submission including without limitation Packaging Artwork. In the event the Parties do not obtain the Console Manufacturer Approval, LICENSOR shall use its best efforts to modify the concept or Candidate Master in accordance with the Console Manufacturer’s requirements and submit a second and - if needed - third concept or Candidate Master to the Console Manufacturer within 30 (thirty) days from the first refusal. Notwithstanding the provisions of Section J of the Specific Terms, if the Console Manufacturer do not approve the third concept or Candidate Master, UBISOFT may decide to immediately terminate this Agreement pursuant to the provisions of Section 14.1 (a) upon written notice to LICENSOR with immediate effect
+and LICENSOR shall within thirty (30) days from such notice reimburse UBISOFT of any and all part of the Advance against Royalties paid by UBISOFT to LICENSOR at the date of such termination.
+
+
+
+
+
+7.4. Intentionally Deleted
+
+
+
+
+
+7.5 Maintenance, Correction and Updates
+
+
+
+
+
+For a period of six (6) months commencing on the date of first release of the Game and upon UBISOFT’s request, LICENSOR shall correct at its own cost any Bug in order to allow the Game to run properly. Any Bug shall be corrected by LICENSOR within ten (10) days of receiving notice from UBISOFT. If LICENSOR fails to correct any Bug, UBISOFT may correct them or have them corrected at LICENSOR’s expense.
+
+
+
+
+
+In the event after release of the Game in the Territory, a new Gold Master is delivered by LICENSOR to UBISOFT (as collector pack, to add a new language or any other reason), all Bugs noticed shall be corrected and all available patches shall be integrated into this new Gold Master provided by LICENSOR.
+
+
+
+
+
+8. Quality Assurance, Copy Protection, Packaging Artwork and Promotional Materials
+
+
+
+
+
+8.1 Quality Assurance
+
+
+
+
+
+LICENSOR shall provide UBISOFT with a Game which has been tested and free of Bugs. UBISOFT shall perform at its sole cost and expense one TRC final check of the Candidate Master before its submission to the Console Manufacturer. In the event UBISOFT identifies any Bugs, errors or other problems in the Game, UBISOFT shall promptly communicate in writing to LICENSOR such Bugs or errors in sufficient details to enable LICENSOR to promptly correct such Bugs, errors or other problems. The Parties shall in good faith work cooperatively to complete the QA process in a prompt and efficient manner, but correction of identified bugs/errors shall be the sole responsibility of LICENSOR at LICENSOR’s own expenses.
+
+
+
+
+
+8.2 Copy Protection
+
+
+
+
+
+LICENSOR shall cooperate with and where necessary assist at its own costs UBISOFT in the implementation of a copy protection software on the Gold Master.
+
+
+
+
+
+8.3 Packaging Artwork and Promotional Materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upon mutual execution hereof, LICENSOR shall provide UBISOFT with all available graphic materials regarding the Game including without limitation layered high-resolution files and screenshots.
+
+
+LICENSOR shall provide UBISOFT with the Packaging Artwork, instruction manual, images and design, marketing materials and other collateral printed materials (if any) relative to the Game in English language. LICENSOR shall provide UBISOFT with the instructional manual, in Word format. The Packaging Artwork and Promotional Materials shall be provided by LICENSOR to UBISOFT no later than August 8th, 2005. In the event LICENSOR fails to deliver such elements by that date, the Advance Against Royalties shall be reduced by 1% (one percent) per period of 7 (seven) days of late delivery.
+
+
+
+
+
+UBISOFT may use textual and/or pictorial matter pertaining to the Game and/or to the Trademarks on such advertising, promotional and marketing materials as may, in UBISOFT’s judgment, promote the sale of the Game within the Territory.
+
+
+
+
+
+UBISOFT may change the Packaging Artwork of the Game in order to better adapt the Packaging Artwork to the market of the Territory, subject to LICENSOR’s prior approval – such approval not to be unreasonably withheld. LICENSOR shall notify in writing its decision to UBISOFT within 5 (five) days of LICENSOR’s receipt of UBISOFT’s request. In the event LICENSOR does not render its decision within this 5-day period, LICENSOR shall be deemed to have given their approval.
+
+
+
+
+
+9. Marketing
+
+
+
+
+
+UBISOFT will take care of all customer support in the Territory. LICENSOR shall promptly provide support to UBISOFT upon UBISOFT’s request to allow UBISOFT to handle customer and dealer support for the Game in the Territory. Should any additional costs be borne by UBISOFT with respect to the customer support of the Game as a consequence of a serious Bug in the Game, UBISOFT shall invoice such additional costs to LICENSOR.
+
+
+
+
+
+10. Statements and payments
+
+
+
+
+
+10.1 Within 45 (forty five) days after the end of every calendar quarter following commercial release of the Game, UBISOFT shall furnish to LICENSOR a complete and accurate statement in the currency set forth in the Specific Terms recording any sale of the Game occurred within the quarter.
+
+
+
+
+
+Royalties are payable on the number of copies of the Game sold less the number of returns. UBISOFT may maintain and withhold from payment Royalties shown to have accrued on any statement reasonable reserves (not exceeding 20%) of the Royalties payable in respect of each quarter in respect of units which may be returned and will subsequently make adjustments based on the number of units actually returned provided that any unused reserve shall be released within the subsequent 180 (one hundred and eighty) days. In the event net reserves are insufficient to cover units returned in any period UBISOFT may deduct from any Royalties that accrue in such or any subsequent period an amount equal to such deficit. In the event in any quarter the Royalties paid to LICENSOR exceed the subsequent amount of actual returns, thus leading to a Royalty overpayment, LICENSOR shall promptly upon UBISOFT’s request refund
+such overpayment to UBISOFT. Any objection to a statement shall be deemed waived unless made within one (1) year of the date of reception of the statement.
+
+
+
+
+
+10.2 LICENSOR may appoint an independent Chartered Accountant registered on the list of “Certified Public Accountant” to examine UBISOFT’s sales records for the preceding four (4) full quarters for the sole purpose of checking the exactness of the statements mentioned herein. The independent Chartered Accountant (a) shall be reasonably acceptable to UBISOFT and (b) may not be compensated on a contingency basis or otherwise have financial interest in the outcome of such audit. The audit shall take place at UBISOFT’s place of business in the United States for North American sales and at UBISOFT’s principal place of business in France for other sales. Such audit shall be carried out at the expense of LICENSOR and not more than once every year. The Chartered Accountant shall not make any copies of the documents provided by UBISOFT. The dates and terms of intervention of the Chartered
+Accountant must be fixed by mutual agreement between the Parties. The Parties agree that the audit shall take place no less than forty-five (45) days from prior to or after the half-yearly closing dates of UBISOFT’s accounts. LICENSOR shall provide UBISOFT with the report of the Chartered Accountant promptly following the end of the audit. If UBISOFT disagrees with such report, UBISOFT shall have the right to produce a counter-report on audited transactions. In the event the audit reveals that UBISOFT underpaid the royalties payable with respect to the period for which the audit was performed by an amount in excess of five percent (5%) of the amount owed, the reasonable cost of such inspection (not exceeding $10,000) shall be borne by UBISOFT.
+
+
+
+
+
+10.3 Payments to be made by UBISOFT pursuant to this Agreement will be made through wire transfer within 10 (ten) business days of UBISOFT’s receipt of a corresponding invoice.
+
+
+
+
+
+11. Warranties
+
+
+
+
+
+11.1 LICENSOR warrants that it has full power and authority to enter into this Agreement and to grant the rights described herein. LICENSOR specifically represents and warrants that Evolved Games has no rights in the Game. IR
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gurus and/or any third party has no publishing rights in the Game in the Territory. LICENSOR further warrants that (a) UBISOFT’s use and enjoyment of the rights granted herein shall not violate any third party right, including but not limited to copyright, patent rights, trade dresses, trademark rights or any other intellectual property right of any third party; (b) the execution of this Agreement by LICENSOR does not violate any agreements, rights or obligation existing between LICENSOR and any third party; (c) during the Term of this Agreement, LICENSOR shall not make any agreement that is in conflict with this Agreement; and (d) LICENSOR is the sole owner or exclusive controller (with the right to sublicense) of the Game, the trademarks associated with the Game, the Packaging Artworks, Promotional Materials and any other materials regarding the Game delivered by LICENSOR in furtherance of this
+Agreement; (e) the Game and any element incorporated in the Game shall not violate any rights of any third party; (f) LICENSOR shall comply with the laws and regulations of all countries in the Territory in respect to the content of the Game. LICENSOR, in collaboration with UBISOFT, shall make sure that the Game does not contain excessive violence, racist opinions, hidden content or any inappropriate content for its ESRB rating target nor any element which could prevent the commercial release of the Game in any country of the Territory and notably, upon UBISOFT’s request, LICENSOR shall replace red blood (if any) with green blood in the German version of the Game; and (g) LICENSOR has created all music contained within the Game internally within the company, or if it has not created music internally LICENSOR owns the exclusive title to such music. LICENSOR shall provide the warranty letter for the SACEM, S.I.A.E. or equivalent collective authors’ entities (substantially in
+the form set forth at Exhibit A) and UBISOFT shall deduct from payments due to LICENSOR any fees or penalties that may be required to be paid by UBISOFT to such entities or at UBISOFT’s sole discretion, reimburse the said amounts to UBISOFT, if applicable and upon presentation to LICENSOR of proper documentation.
+
+
+
+
+
+11.2 UBISOFT warrants that UBISOFT has full power and authority to enter into this Agreement. UBISOFT further warrants that the execution of this Agreement by UBISOFT does not violate any agreements, rights or obligation existing between UBISOFT and any third party.
+
+
+
+
+
+12. Intellectual Property Rights
+
+
+
+
+
+12.1 UBISOFT acknowledges that all of the copyrights, trademarks and other intellectual property rights used or embodied in or in connection with the Game including all documentation and manuals relating thereto are and shall remain the sole and exclusive property of LICENSOR or a third party under license to LICENSOR. UBISOFT shall not during or at any time after the expiry or termination of this Agreement in any way question or dispute the ownership or any LICENSOR’s intellectual rights pertaining to the Game.
+
+
+
+
+
+12.2 LICENSOR acknowledges that all of the copyrights, trademarks and other intellectual property rights used or embodied in or in connection with the translation or creative works carried out by UBISOFT in connection with the Game are and shall remain the sole and exclusive property of UBISOFT or a third party under license to UBISOFT. LICENSOR shall not during or at any time after the expiry or termination of this Agreement in any way question or dispute the ownership or any UBISOFT’s intellectual rights pertaining to these works.
+
+
+
+
+
+12.3 In the event that either Party discovers that any other person or organization is making use of the other Party’s copyrighted materials, that Party shall immediately notify the other Party of such use and shall cooperate fully with the other Party’s efforts to enforce its rights.
+
+
+
+
+
+13. Press Announcement
+
+
+
+
+
+Neither Party shall make any press announcement without the prior written approval of the other Party, such approval or disapproval to be given within 5 (five) business days of the receipt of the submitted press announcement.
+
+
+
+
+
+14. Termination
+
+
+
+
+
+14.1 This Agreement may be terminated immediately by either Party by written notice to the other Party and all rights granted to UBISOFT shall cease and revert back to LICENSOR if:
+
+
+
+
+
+
+
+
+
+a)
+
+(if applicable pursuant to the provisions of Section 7.3 hereof) the Console Manufacturer rejects three times the concept of the Game or the Candidate Master. UBISOFT may decide at its sole discretion to terminate this Agreement - in whole or in part for the corresponding part of the Territory - by written notice to LICENSOR with immediate effect and LICENSOR shall within 30 (thirty) days thereof then reimburse UBISOFT the Advance Against Royalties paid to LICENSOR by UBISOFT pursuant to this Agreement without prejudice to any remedy for damages either at equity or at law that UBISOFT may claim;
+
+
+
+
+
+
+
+
+
+
+
+
+b)
+
+pursuant to the provisions of Section J of the Specific Terms, LICENSOR fails to deliver any Format of the Candidate Master by the date set forth in the Specific Terms. UBISOFT shall be free to terminate this Agreement without any cure period. In this event, LICENSOR shall within 30 (thirty) days reimburse the Advance Against Royalties paid to LICENSOR by UBISOFT as well as all direct non-cancelable costs incurred by UBISOFT in connection with the advertisement, marketing and promotion of the Game without prejudice to any remedy for damages either at equity or at law that UBISOFT may claim.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c)
+
+either Party commits a material breach of any obligations or undertakings hereunder and fails within 30 (thirty) business days of having received written notice to that effect to remedy the same, in which event the other Party may forthwith, by notice in writing terminate this Agreement without prejudice to any other rights which may have accrued to it hereunder;
+
+
+
+
+
+
+
+
+
+
+
+
+d)
+
+either Party shall convene a meeting of its creditors or if a proposal shall be made for a voluntary arrangement within applicable laws or a proposal for any other composition scheme or arrangement with (or assignment for the benefit of) its creditors or if the other shall be unable to pay its debts, or if a trustee, receiver, administrative receiver, or similar officer is appointed in respect of all or any part of the business or assets of the other or if a petition is presented or a meeting is convened for the purpose of considering a resolution or other steps are taken for the winding up of the other or for the making of an administration order (otherwise than for the purpose of an amalgamation or reconstruction ).
+
+
+
+
+
+
+
+
+14.2 The termination of this Agreement shall be without prejudice to the rights of the Parties accrued up to the date of such termination. LICENSOR hereby acknowledges that in the event UBISOFT terminates the Agreement pursuant to the provisions of Article 14.1 (c), LICENSOR shall reimburse UBISOFT of any and all unrecouped costs and out of pocket expenses engaged by UBISOFT in connection with the manufacturing, distribution and marketing of the Game.
+
+
+
+
+
+15. First Option
+
+
+
+
+
+UBISOFT shall have the right, before LICENSOR enters into good faith negotiations with any third party, to (i) review and evaluate any and all Sequels, Prequels and Add-ons of the Game (collectively “Future Games”); and (ii) enter into exclusive negotiations with LICENSOR for a period of thirty (30) days with respect to the development and/or publishing, distribution and sale of any Future Game. LICENSOR must trigger this exclusive “first look” period for each Future Game by giving UBISOFT written notice as provided for pursuant to the terms of this Agreement, or otherwise this “first look” period of thirty (30) days shall not be deemed to have been used by UBISOFT. If the Parties agree on the terms of the offer, the Parties will conclude in good faith an agreement within fifteen (15) working days in addition to the thirty (30) day negotiation period, otherwise the negotiation
+period shall have concluded.
+
+
+
+
+
+If the Parties are unable to reach an agreement during the applicable “first look” period, then LICENSOR shall be free to seek an agreement with third parties. If LICENSOR receives a bona fide offer from a third party for a Future Game which is less than or equal to 110% of the Minimum Guarantee (one hundred and ten percent) in UBISOFT’s last offer during the “first look” period, LICENSOR shall submit the terms of that offer in full in writing to UBISOFT, which shall have the right within ten (10) business days from the date of receipt of such offer to match the offer and conclude the same agreement with LICENSOR..
+
+
+
+
+
+16. General Provisions
+
+
+
+
+
+16.1 Notices
+
+
+
+
+
+All notices which either Party is required or may desire to serve upon the other Party shall be in writing and in English, addressed to the Party to be served at the address set forth in the Specific Terms and sent by reputable overnight international courier or registered mail.
+
+
+
+
+
+16.2 Assignment
+
+
+
+
+
+16.2.1 UBISOFT may assign this Agreement or any part hereof without the prior written consent of LICENSOR.
+
+
+
+
+
+16.2.2 LICENSOR may not assign this Agreement or any part hereof without the prior written consent of UBISOFT which UBISOFT may, at its absolute discretion, withhold.
+
+
+
+
+
+16.3 Confidentiality and Nondisclosure
+
+
+
+
+
+Each Party agrees that the copyright, know-how, trade secrets and technology embodied in and related to the Game, any other information concerning the other Party’s marketing plans, the other Party’s existing or future products or the terms of this Agreement, and any other confidential business or technical information disclosed by the other Party to the first Party in furtherance of this Agreement shall be held in strict confidence and shall not be disseminated or disclosed to any other Party without the express written consent of the other Party, except as needed to perform obligations hereunder. The obligations of this Section 16.3 shall survive the expiration or termination of this Agreement for a period of three (3) years thereafter. The foregoing obligations will not apply to any information that: (a) becomes known to the general public without fault or breach on the part of the receiving
+Party; (b) the receiving Party receives from a third party without breach of a nondisclosure obligation and without restriction on disclosure; (c) was in the possession of the receiving Party prior to disclosure by the other Party; or (d) is independently developed by the receiving Party’s personnel having no access to similar confidential information obtained from the other.
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16.4 Mutual Indemnification
+
+
+
+
+
+Each Party agrees to indemnify and hold the other harmless from and against any and all claims, damages and liabilities whatsoever, asserted by any person or entity, resulting directly or indirectly from any breach by the first Party or any of its respective employees or agents, of this Agreement or of any warranty, representation, covenant or obligation contained in this Agreement. Such indemnification shall include the payment of all reasonable attorney’s fees and other costs incurred by the indemnified Party in defending any such claim. The indemnified Party shall inform the indemnifying Party in writing of any claim, demand or suit and shall fully cooperate in the defense thereof. The indemnified Party will not agree to the settlement of any such claim, demand or suit prior to the final judgment thereon without the consent of the indemnifying Party, whose consent will not be unreasonably withheld.
+
+
+
+
+
+LICENSOR shall indemnify UBISOFT against all claims, liabilities and costs, including reasonable attorney’s fees, arising from any infringement or alleged infringement on the part of UBISOFT, its subsidiaries and their respective directors, officers, employees, and agents (collectively, “UBISOFT Claimants”) in connection with this Agreement, even if UBISOFT Claimants would have the opportunity to be aware of any outstanding claim, provided, that UBISOFT promptly notifies LICENSOR in writing of the claim or suit or any claim of infringement and that LICENSOR is permitted to control fully the defence or the claim or suit, and may appear, at its own expense, through counsel of its choice.
+
+
+
+
+
+16.5 Force Majeure
+
+
+
+
+
+No Party shall be deemed in default of this Agreement to the extent that performance of its respective obligations or attempts to cure any breach are delayed or prevented by reason of any Act of God, fire, natural disaster, accident, act of government, or any other cause beyond the reasonable control of such Party; provided, that the Party interfered with gives the other Party written notice thereof within ten (10) working days of any such event or occurrence.
+
+
+
+
+
+16.6 Independent Contractors
+
+
+
+
+
+Nothing contained in this Agreement shall be construed as creating any partnership or joint venture between the Parties. Neither Party shall be authorized to act as an agent for the other, nor shall either Party enter into any agreement or contract on behalf of the other as representative or agent.
+
+
+
+
+
+16.7 Entire Agreement
+
+
+
+
+
+This Agreement states the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior negotiations, understandings and agreements between the Parties hereto concerning the subject matter hereof. No amendment or modification of this Agreement shall be made except by an instrument in writing signed by both Parties.
+
+
+
+
+
+16.8 Severability
+
+
+
+
+
+Should any provision of this Agreement be held to be void, invalid or inoperative, the remaining provisions of this Agreement shall not be affected and shall continue in effect as though such provision was deleted.
+
+
+
+
+
+16.9 Waiver
+
+
+
+
+
+The failure by either Party to enforce at any time or for any period any one or more of the terms or conditions of this Agreement shall not be a waiver of them or of the right at any time subsequently to enforce all terms and conditions of this Agreement.
+
+
+
+
+
+16.10 Governing Law
+
+
+
+
+
+This Agreement shall be governed by the laws of the State of California, USA. The Parties agree that any dispute, or any matter or question arising from this Agreement which cannot be resolved by the Parties negotiating in good faith shall be submitted to the exclusive jurisdiction of the courts located in San Francisco County, USA.
+
+
+
+
+
+This Agreement constitutes the entire agreement between the Parties, and supersedes all prior oral or written agreements, understandings, representations and warranties, and courses of conduct and dealing between the Parties on the subject matter hereof. This Agreement may be amended or modified only by a written document executed by all Parties.
+
+
+
+
+By : /s/ Ed Roffman........................................
+
+By :
+
+....../s/...... Yves Guillemot
+
+
+
+
+
+Ed Roffman
+
+CFO
+
+Red Mile Entertainment Inc.
+
+Yves Guillemot
+
+President
+
+UBISOFT ENTERTAINMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+
+
+Warranty Letter
+
+
+
+
+
+Red Mile Entertainment Inc.stationery
+
+
+
+
+
+
+
+
+Declaration
+
+
+
+
+
+Game Title(s)/Format: Heroes of the Pacific (Sony Playstation 2, Microsoft Xbox and PC)
+
+
+
+
+
+As regards the above-referenced game(s), Red Mile Entertainment Inc. hereby warrants that it has created all music contained within the game(s) internally within the company, or where it has not created music internally or owns the exclusive title to such music, LICENSOR warrants that all the necessary royalties have been paid and are being paid either to the copyright owner of the music or the controlling music organization.
+
+
+
+
+
+
+
+
+
+
+
+
+Red Mile Entertainment Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By: _________________________
+
+
+
+
+Name: ______________________
+
+
+
+
+
+
+Title: _______________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: _______________________
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+
+
+
+
+SPECIFIC TERMS
+
+
+
+
+
+
+
+
+
+A.
+
+Game – Title, Format & Delivery Dates
+
+
+
+
+
+
+
+
+Title of the Game: Heroes of the Pacific
+
+
+Format:  PC compatible with Windows 95 to XP [and any subsequent versions of Windows available at the release date of the Game, Playstation 2 and Xbox
+
+
+Console Manufacturers:  Sony (PS2) and Microsoft (Xbox)
+
+
+Standard: NTSC
+
+
+Rating: T
+
+
+
+
+
+
+
+Candidate Master (all Formats) Delivery Date:
+
+July 28, 2005
+
+
+
+
+Gold Master Date (all Formats) Delivery Date:
+
+September 6, 2005
+
+
+
+
+
+
+
+LICENSOR shall provide marketing support material (including without limitation: manual documentation, high resolution images, screenshots, and other artwork) to be used by UBISOFT in Packaging Artwork and Promotional Materials upon mutual signature of the Agreement.
+
+
+
+
+
+LICENSOR shall provide text and art assets necessary for manual creation no later than August 8th 2005.
+
+
+
+
+
+LICENSOR will provide videos of gameplay and an interactive demo version by August 8th 2005 to support sales activities.
+
+
+
+
+
+
+
+
+
+B.
+
+Types of Distribution and Authorized Distribution Channels:
+
+
+
+
+
+
+
+
+- Retail
+
+
+- Non-Retail: B-to-B, Bundle/OEM, Covermount/Kiosk, Compilation, sublicense, including internet streaming, pay per play and downloading.
+
+
+- Distribution channel: any channel (directly or indirectly through sublicense including without limitation wholesalers, distributors, retailers, online retail channels, internet streaming, pay per play, downloading or by electronic software distribution), as a premium (on-pack offer, in-pack offer) or giveaway or in connection with the sale and promotion of any other products or services within the Territory during the Term.
+
+
+
+
+
+
+
+
+
+C.
+
+Term and Sell-Off Period
+
+
+
+
+
+
+
+
+Term:  five (5) years from the first release of each Format of the Game in the Territory.
+
+
+
+
+
+Sell-Off Period: twelve (12) months.
+
+
+
+
+
+
+
+
+
+D.
+
+Territory
+
+
+
+
+
+
+
+
+United States of America, Canada and Mexico
+
+
+
+
+
+
+
+
+
+E.
+
+Copyright and Trademark Notices
+
+
+
+
+
+
+
+
+(c) 2005 Red Mile Entertainment. All Rights Reserved.
+
+
+Published and distributed by Ubisoft Entertainment under license from Red Mile Entertainment.
+
+
+Heroes of the Pacific is a trademark of Red Mile Entertainment and is used under license.
+
+
+
+
+
+
+
+
+
+F.
+
+Advance Against Royalties and Royalties
+
+
+
+
+
+
+
+
+Advance Against Royalties:
+
+
+
+
+
+- US$xxxxxx (xxxxxx US dollars) to be paid as follows:
+
+
+
+
+
+
+
+
+
+•
+
+$xxxxx (xxxxxxxxxx US dollars) to be paid upon (i) mutual execution of the Agreement and (ii) written evidence of concept approval by both Sony and Microsoft;
+
+
+
+
+
+
+
+
+
+•
+
+$xxxxxxxxx US dollars) to be paid upon (i) written approval of all Formats of the Gold Master and (ii) delivery of all three Formats (Playstation 2, Xbox, PC) by Gold Master Date;
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•
+
+$xxxxxxxxxxxxxxxxxxxxxxxxx US dollars) to be paid 30 days after the commercial release of the first Format in the Territory or 2 months after delivery of the Gold Master, whichever comes first.
+
+
+
+
+
+
+
+
+Percentage Royalty:
+
+
+
+
+
+
+
+•
+
+UBISOFT shall pay LICENSOR a Royalty of xxxxxx percent of the Net Sales received on all Retail and Non-Retail sales of the Game.
+
+
+
+
+
+
+
+
+Ancillary Products Royalty: xxxxxxx) percent of the Net Sales accrued on the sales of strategy guides and hint books regarding the Game.
+
+
+
+
+
+Royalty Free Units (promotional units):  250 units per country in the Territory (i.e., 250 for US, 250 for Canada and 250 for Mexico). UBISOFT shall also provide LICENSOR with 100 free copies of the Game.
+
+
+
+
+
+
+
+
+
+G.
+
+Localization of the Game
+
+
+
+
+
+
+
+
+English only.
+
+
+
+
+
+
+
+
+
+H.
+
+Marketing commitment
+
+
+
+
+
+
+
+
+UBISOFT shall spend not less than an amount equal to 8% (eight percent) of the Net Sales accrued on the sales of the Game including MDF/Co-op for marketing and promotion purposes of the Game for its launch and hereafter during the Term, through advertising, PR, and MDF/Co-op. Additional marketing expenditures may be made, should sell-through allow it.
+
+
+
+
+
+
+
+
+
+I.
+
+UBISOFT Obligations
+
+
+
+
+
+
+
+
+UBISOFT guarantees that all necessary communication between LICENSOR and Console Manufacturers (SCEA and Microsoft) shall take place by the end of the next business day.
+
+
+
+
+
+
+
+
+
+J.
+
+Late Delivery
+
+
+
+
+
+In the event LICENSOR fails to deliver to UBISOFT the PS2 and/or Xbox Candidate Masters and/or Gold Masters by September 6th, 2005, then UBISOFT shall be entitled to automatically reduce the Advance Against Royalties by $50,000 for each of the said two Formats (PS2,  Xbox) corresponding to a total aggregate penalties of $100,000.
+
+
+In the event LICENSOR fails to deliver to UBISOFT all Formats of the Candidate Master and/or Gold Master by October 3rd, 2005 then UBISOFT shall be entitled to automatically reduce the Advance Against Royalties by $400,000 in total aggregate penalties.
+
+
+In the event LICENSOR fails to deliver to UBISOFT any Formats of the Candidate Master and/or Gold Master by October 30, 2005, UBISOFT shall be free to terminate this Agreement without any cure period pursuant to the provisions of Section 14.1 (b) of the Agreement.
+
+
+
+
+
+
+
+
+
+K.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notices
+
+
+
+
+
+Red Mile Entertainment Inc.
+
+
+4000 Bridgeway, Suite 101,
+
+
+Sausalito, CA 94965, USA
+
+
+
+
+
+UBISOFT
+
+
+28 rue Armand Carrel
+
+
+93108 Montreuil sous Bois cedex, France.
+
+
+Tel (33) 1.48.18.50.00
+
+
+Fax (33) 1.48.18.52.81
+
+
+Attention: Yves GUILLEMOT
+
+
+
+
+
+
+
+Signed
+
+Signed
+
+
+
+
+
+
+
+
+
+By: .../s/...... Yves GUILLEMOT
+
+By: /s/......Ed Roffman.........................
+
+
+
+
+
+
+
+
+
+For: UBISOFT Entertainment
+
+For: Red Mile Entertainment Inc.
+
+
+
+
+Name: Yves GUILLEMOT
+
+Name: ...Ed Roffman..................
+
+
+Title: President & CEO
+
+Title: ......CFO...........................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential
+
+Page 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

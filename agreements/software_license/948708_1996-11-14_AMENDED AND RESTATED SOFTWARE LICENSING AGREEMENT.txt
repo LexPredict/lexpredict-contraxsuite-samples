@@ -1,0 +1,771 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.21
+
+
+SMITH MICRO SOFTWARE, INC.
+
+AMENDED AND RESTATED SOFTWARE LICENSING AND DISTRIBUTION AGREEMENT
+
+
+THIS AMENDED AND RESTATED SOFTWARE LICENSING AND DISTRIBUTION AGREEMENT,
+including Appendices A, B, and C attached hereto (hereinafter the "Agreement"),
+is made this 18 day of April, 1996 and amends and restates the Software
+Licensing and Distribution Agreement dated March 20, 1996, which date also shall
+be the effective date of this agreement (the "Effective Date"), by and between
+SMITH MICRO SOFTWARE, INC., a corporation organized and existing under the laws
+of the State of Delaware (hereinafter referred to as "SMSI"), and U.S. Robotics
+Access Corp., a corporation organized and existing under the laws of the State
+of Delaware. This Agreement shall apply solely to the Personal Communications
+Division, which hereinafter shall be referred to as "USR".
+
+1.      Termination of Prior Agreement.
+
+The parties hereto hereby terminate the Authorized OEM Agreement between
+the parties dated July 1, 1995. The new pricing in Appendix A shall take effect
+as of the Effective Date of this Agreement. The parties further agree that this
+termination shall not obligate USR to comply with Paragraph 6.3 of the
+Authorized OEM Agreement. This Agreement also supersedes the Software licensing
+and distribution Agreement dated March 20th, 1996.
+
+2.      Rights and Licenses Granted to USR, Services, Term.
+
+2.1     SMSI publishes the software programs listed in Appendix "A" and
+documentation and instruction manuals related to the software programs (the
+"Licensed Products"). SMSI herby grants USR a non-exclusive, non-transferable
+right to market, distribute and sublicense the Licensed Products to
+distributors, re-sellers, OEM customers of USR and end users, solely in
+conjunction with the sale of modems of USR, and not as separate, unbundled
+products. SMSI shall have exclusive rights to duplicate floppy diskettes for one
+year for the Licensed Products in Appendix A. The term of this Agreement shall
+be one (1) year from the date hereof, and shall renew automatically for
+additional one year periods unless either party gives the other party written
+notice of cancellation at least sixty (60) days prior to the end of the then
+current term. In addition, USR may terminate this Agreement - and any USR
+division or entity executing an addendum hereto may terminate that addendum - in
+its entirety or with respect to any one or more Licensed Products, at any time
+for any reason upon ninety (90) days written notice.
+
+3.      Obligations.
+
+3.1     USR's Obligations with Respect to Sales and Support. USR shall
+license Fax Data/Voice and Telephony software for all modem products that are
+currently shipping with SMSI products, sold under the USR name, from SMSI on a
+non-exclusive basis. For each modem model that currently ships with SMSI
+software, USR shall include a copy of the Licensed Products with each modem
+shipped during the term of this agreement. The Licensed Product shall be subject
+to the end user license agreement provided by SMSI. USR may include the
+promotional literature (either in electronic or hard copy form), furnished by
+SMSI with respect to other products of SMSI including products which provide
+enhancement upgrades to the Licensed Products. Such promotional material shall e
+subject to approval by USR, which approval shall not be unreasonably withheld.
+USR shall promote the fact that the Licensed Products are included with modems
+shipped by including references to SMSI and the Licensed Products on modem
+product packaging, advertising and promotional literature. USR shall provide
+technical support in the operation of the Licensed Products to its distributors,
+re-sellers, OEM customers, end users and others to whom USR provides the
+Licensed Products. In the event USR changes the design of any modem product with
+which it ships the Licensed Products, USR shall promptly supply a sample of such
+modem, as changed, to SMSI at no charge. If the changes are only in firmware,
+then the new firmware will be forwarded to SMSI promptly at no charge. Should
+such design changes require software modifications, SMSI reserves the right to
+charge USR for the reasonable costs of such changes. These engineering fees will
+not be charged for software updates that SMSI and USR mutually agree are
+required to accommodate the natural progression
+<PAGE>   2
+of hardware features in the industry. The fees for these design changes and
+other Engineering modifications requested of SMSI are outlined in Appendix B of
+this document. USR shall establish a registration procedure by which end users
+of its modems may register ownership. USR shall provide this registration
+information to SMSI every 8 weeks in ASCII or DBF, Machine readable format.
+
+3.2     SMSI's Obligations.
+
+SMSI shall use its commercially reasonable efforts to assure that the
+Licensed Products are compatible with the modems of USR. SMSI shall provide
+technical support in the operation of the Licensed Products to the customer
+service staffs of USR to assist the customer service staffs in supporting the
+Licensed Products but SMSI shall not be otherwise obligated to provide technical
+support. USR agrees to reimburse SMSI for reasonable travel expenses incurred to
+provide such training. These travel expenses shall not be charged for new
+product introductions or sales efforts of any kind by the SMSI staff. At SMSI's
+request, USR shall place the SMSI retail products and commercials for such
+products on the USR Compact Disk ("CD"), (commercials for the retail products
+shall not exceed 10 Megabytes) for the purpose of upgrading customers to the
+SMSI retail products. SMSI will pay USR *** of the gross sales revenues
+attributable to upgrades directly generated by sales off the USR CD.
+
+4.      Delivery.
+
+SMSI shall deliver Licensed Products to USR on acceptance of purchase
+orders, subject to the normal processing schedules of SMSI. USR shall include a
+copy of SMSI's End-User License Agreement with the Licensed Products. SMSI shall
+maintain the capability to produce the Licensed Products outside California in
+the event it is unable to produce the Licensed Products in California as a
+result of a natural disaster.
+
+5.      Payment Schedule, Fees and Charges.
+
+5.1     Price. USR shall pay royalties for the Licensed Products
+according to the prices specified in Appendix A hereto. USR may order all or any
+of the Licensed Products in its sole discretion. Appendix A also includes a list
+of Licensed Products Components. USR has the right to purchase all or any of the
+Licensed Products Components in Appendix A, in its sole discretion, for which
+USR shall pay the prices set forth in Appendix A.
+
+6.      Copies of Licensed Products.
+
+Except as provided herein solely for technical support purposes, USR
+shall not have the right to copy, duplicate or otherwise reproduce the Licensed
+Products or any component part of the Licensed Products.
+
+7.      Termination.
+
+7.1     Default. Each party has the right to terminate this Agreement on
+forty-five (45) days prior notice in writing to the other party for the
+following reasons or causes:
+
+7.1.1   If such other party materially breaches or is in
+material default of any obligation hereunder, which breach or default is
+incapable of cure or, which, being capable of cure, has not been cured within
+forty-five (45) days (or ten (10) days in case of non-payment), after service of
+written notice of default of the non-breaching party;
+
+7.1.2   If such other party becomes insolvent, is adjudicated
+bankrupt or if a receiver or trustee is appointed for such party for a
+substantial portion of its assets, or if such party institutes or becomes a
+party to any proceeding for the settlement of debts or an assignment for the
+benefit of creditors of such party, and the situation is not corrected within
+thirty (30) days after it received written notice from the non-breaching party.
+If this situation occurs, USR has the right to continue shipping the Licensed
+Products.
+
+7.2     Force Majeure, Suspension and Termination. In the event that
+either USR or SMSI is unable to perform any of its obligations under this
+Agreement or to enjoy any of its benefits because of natural disaster, actions
+or decrees of governmental
+
+***  Confidential portion has been filed separately with the Securities and
+Exchange Commission
+<PAGE>   3
+bodies or communications line failure not the fault of such party (hereinafter
+referred to as a "Force Majeure Event"), such party immediately shall give
+notice to the other and shall do everything possible to resume performance. Upon
+receipt of such notice, this Agreement shall immediately be suspended. If the
+period of nonperformance exceeds sixty (60) days from the receipt of notice of
+the Force Majeure Event, the other party may, by giving written notice,
+terminate this Agreement. However, delays in delivery due to Force Majeure
+Events shall automatically extend the delivery date for a period equal to the
+duration of such events; any warranty period affected by a Force Majeure Event
+shall likewise be extended for a period equal to the duration of such event.
+
+7.3     Conditions Upon Termination. The following conditions shall
+apply upon termination:
+
+7.3.1   USR shall erase or destroy all master copies or copies
+or portions thereof contained or stored in any form or media, including the
+memory of a computer or computer system in its possession or under its control,
+provided however USR may sublicense all Licensed Products then existing in OEM's
+inventory subject to the terms and conditions of this Agreement.
+
+7.3.2   USR shall certify to SMSI that the requirements of
+Section 7.3.1 have been completed within fifteen (15) days of termination.
+
+7.4     Addition to Other Rights. The termination rights set forth above
+shall be in addition to, and not in substitution for, any other remedies that
+may be available to the party serving notice upon the other party, and any
+termination and any exercise of any such right shall not relieve the party
+receiving notice from any obligations accrued to the date of such termination or
+relieve such from liability and damage to the other for breach of this
+Agreement. No termination hereunder shall terminate any end user license.
+
+7.5     Survival. The obligations of the parties under Sections 7, 8, 9,
+and 10 shall survive termination of any license hereunder.
+
+7.6    Notwithstanding any other provision of this Section 7 to the
+contrary, USR shall be entitled to retain, for a period of five (5) years
+following the termination of this Agreement, such copies of the Licensed
+Products as may be reasonably required for the use of USR's customer support
+personnel in connection with providing ongoing support to USR's customers who
+are end users of the Licensed Products. Further, the termination of this
+Agreement shall not in any way affect USR's rights under end-user licenses for
+the Licensed Products heretofore or hereafter acquired by USR otherwise than
+pursuant to this Agreement.
+
+8.      Warranties.
+
+8.1     SMSI's Warranties. SMSI warrants that during the Warranty Period
+(as defined below), the Licensed Products furnished hereunder shall be free from
+significant programming errors and from any defect in workmanship and materials
+which would cause such Licensed Products to be not merchantable. This warranty
+shall be of no effect should USR cause the Licensed Products to be modified
+without the written consent of SMSI.
+
+8.2     SMSI's Fulfillment of Warranty Obligations. If at any time
+during the 90-day period immediately following the date on which any Licensed
+Product is first shipped to USR (the "Warranty Period") SMSI or USR shall
+discover one or more defects or errors in the Licensed Products or any other
+respect in which the Licensed Products fails to conform to the provisions of any
+warranty contained in this Agreement, SMSI shall, entirely at its own expense,
+promptly correct such defect, error or nonconformity by, among other things,
+supplying USR with corrected versions of the Licensed Products.
+
+8.3     No Warranty Pass-Through. USR shall not pass through to its
+customers, end users or any other third party the warranties made by SMSI under
+this Agreement. USR shall make no representations to its customers, end users or
+any other third party on behalf of SMSI. No warranty, representation or
+agreement herein shall be deemed to be made for the benefit of any customer, end
+user, or licensee of USR or any other third party.
+
+8.4     LIMITATION OF LIABILITY. THE FOREGOING WARRANTIES ARE IN LIEU OF
+ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+<PAGE>   4
+CONSEQUENTIAL DAMAGES. IN NO EVENT SHALL EITHER OF THE PARTIES
+HERETO BE LIABLE TO THE OTHER FOR THE PAYMENT OF ANY INDIRECT, SPECIAL OR
+CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, DATA, OR USE,
+INCURRED BY EITHER PARTY OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR
+TORT OR BASED ON A WARRANTY, EVEN IF THE OTHER PARTY OR ANY OTHER PERSON HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  THE REMEDIES PROVIDED FOR
+HEREIN EMBODY THE ESSENTIAL PURPOSE OF THE PARTIES HERETO WITH RESPECT TO
+REMEDIAL ACTION IN THE EVENT OF BREACH OF THIS AGREEMENT.
+
+8.5     USR's Warranties with respect to software provided for inclusion
+in Compact Disc products.  USR warrants that it owns or has the right to use, as
+contemplated herein, all items delivered to SMSI by or for USR for use in
+connection with the production, printing, and/or packaging of Compact Discs
+hereunder, including without limitation, Third Party Software, master media, art
+work and packaging (hereinafter referred to as the "Materials") and has the
+right to deliver all materials to SMSI and to have the Materials reproduced as
+provided herein.  USR also warrants that it owns or has the right to use all
+copyrights in the contents of materials (including without limitation any
+computer code embedded therein) and has the unrestricted right to permit SMSI to
+perform the services hereunder.  USR further warrants that the text, images,
+audio and other data or in the Materials will not infringe any intellectual
+property or personal right held by any party.
+
+8.6     Indemnification
+
+8.6.1  SMSI agrees to defend USR from any claims, suit or
+proceeding alleging that the Licensed Products infringe any third party United
+States or foreign patent, trademark, trade name or copyright or claimed
+infringement or misappropriation of intellectual rights, and to pay any
+liabilities, damages, costs and expenses (including the actual fees of
+attorneys and other professionals and all related costs and expenses) finally
+awarded in any such claim, suit or proceeding.
+
+8.6.2  The indemnifying party shall be relieved of the foregoing
+obligation unless (i) the other party promptly notifies the indemnifying party
+of any such claim, (ii) the indemnifying party shall have sole control of the
+defense and all related settlement negotiations, and (iii) the other party
+provides the indemnifying party with the assistance, information and authority
+necessary to perform the above.  However, if the other party desires to have
+separate legal representation in any such action, it shall be responsible for
+the costs and fees related to its separate counsel.  In the event the Licensed
+Products or software provided by USR are finally held or believed by the
+indemnifying party to infringe a third party's rights, the indemnifying party
+shall use reasonable efforts to obtain a license under the rights that have been
+infringed, to modify the infringing product so they are noninfringing or to
+provide to the other party substitute products that are noninfringing; provided
+that if in the indemnifying party's judgment such options are not commercially
+reasonable, the indemnifying party may terminate the licenses granted hereunder
+upon written notice to the other party. SMSI shall have no liability for
+infringement based on (a) use of other than the current release of the Licensed
+Products, (b) modification of the Licensed Products by any party other than
+SMSI, or (c) the combination or use of the Licensed Products with any other
+software, equipment, product, device, item or process not furnished by SMSI or
+not contemplated under this Agreement, if such infringement would have been
+avoided by the use of the Licensed Products as contemplated herein or alone and
+in their current unmodified form.  THE INDEMNIFICATION OBLIGATIONS HEREUNDER ARE
+IN LIEU OF ANY EXPRESS OR IMPLIED WARRANTIES OF NON-INFRINGEMENT WHICH ARE
+HEREBY DISCLAIMED.
+
+9.      Proprietary Information, Publicity.
+
+9.1     USR agrees that the Licensed Products provided hereunder, and
+any copies thereof, in whole or in part, and all intellectual property rights,
+including without limitation, patent, copyrights, trademark, trade secret, and
+any other intellectual or industrial property rights, are and shall remain the
+sole property of SMSI, and that all rights thereto are reserved by SMSI.  USR
+agrees that it will not create derivatives of such Licensed Products, nor use,
+copy, disclose, sell, assign, sublicense, or otherwise transfer the Licensed
+Products except as expressly provided in this Agreement.  USR is prohibited from
+the disassembly or decompilation of the object code without the written consent
+of SMSI.  the copyright to the Licensed Products shall remain the sole property
+of SMSI, which reserves all rights thereto, and nothing contained herein, shall
+be construed to compromise such ownership right.  USR shall not remove any
+copyright notices on Licensed Products' diskette labels or end user
+documentation.  USR shall only refer to the Licensed Products using the names
+set forth in Appendix A attached hereto, and by no other name.  USR shall
+restrict its sub-licensees of the Licensed Products similarly.
+
+<PAGE>   5
+9.2  Each party acknowledges that all information (a) concerning the
+existence of or terms and conditions of this Agreement, or (b) disclosed by the
+other party and designated as confidential is "Confidential and Proprietary
+Information." Each party agrees that it will not permit the duplication, use
+or disclosure of any such Confidential and Proprietary information to any
+person (other than its own employees and representatives who are informed of
+the confidential nature of the information and who have executed appropriate
+non disclosure agreements), unless authorized in writing by the other party.
+"Confidential and Proprietary Information" is not meant to include any
+information which, at the time of disclosure, is generally known by the public
+and any competitors of either party.
+
+9.3  SMSI shall not issue any press release or other public notice
+relating to this Agreement without the written consent of USR, which shall not
+be unreasonably withheld. Each party hereby grants to the other party the right
+to use the granting party's trademark(s), trade name(s) and product name(s) in
+conjunction with authorized advertising, press releases or other
+marketing-related activities.
+
+10.     Miscellaneous.
+
+10.1  Applicable Law.  This Agreement shall be governed by the laws of
+the State of California applicable to agreements made and to be performed in
+California including such state's Uniform Commercial Code, except that if any
+provision of the Agreement shall be inconsistent therewith, the terms of this
+Agreement shall prevail. Venue for any such action shall be in Cook County,
+Illinois.
+
+10.2  Notices.  Any notice or other communication hereunder shall be in
+writing and deemed given if personally delivered or sent to a party by
+commercial overnight delivery or registered or certified mail, return receipt
+requested or, first class mail to the following addresses:
+
+To SMSI:
+Smith Micro Software, Inc.
+51 Columbia
+Aliso Viejo, CA 92656
+Attn: Mr. Robert Caggiano
+Telephone (714) 362-5800
+Fax (714) 362-2300
+
+To USR:
+U.S. Robotics Access Corp.
+7770 North Frontage Rd.
+Skokie, IL 60077
+Attn: Mr. Rob Thomsen
+Telephone (708) 676-7010
+Fax (708) 676-7320
+
+with a copy to:
+
+U.S. Robotics Access Corp.
+Legal Department
+8100 N. McCormick Blvd.
+Skokie, IL 60076
+Telephone (708) 933-5830
+Fax (708) 933-5149
+
+Notices delivered personally, by overnight delivery or by registered or
+certified mail shall be deemed communicated as of actual receipt; notices sent
+by first class mail shall be deemed communicated as three (3) business days
+after mailing. Each party may change such party's address by written notice in
+accordance with this section.
+
+<PAGE>   6
+10.3  Independent Contractors.  The parties are not employees or legal
+representatives of the other party for any purpose. Neither party shall have
+the authority to enter into any contracts in the name of or on behalf of the
+other party.
+
+10.4  Waiver.  No term or provision hereof shall be deemed waived
+and no breach excused unless such waiver or consent shall be in writing and
+signed by the party claimed to have waived or consented.
+
+10.5  Assignment.  Neither party shall assign or subcontract all or any
+part of this Agreement, or any interest therein, without the other party's
+prior written consent, except that USR may assign to any corporate affiliate
+without SMSI's consent.
+
+10.6  Binding Effects; Benefits.  This Agreement shall inure to the
+benefit of, and shall be binding upon, the parties hereto and their respective
+successors and assigns.  Nothing herein is intended to confer on any person
+other than the parties hereto or their respective successors and assigns any
+rights, remedies, obligations or liabilities under, or by reason of, this
+Agreement.
+
+10.7  Attorney's Fees.  In the event of any controversy, claim or
+dispute between the parties hereto arising out of or relating to this
+Agreement, the prevailing party shall be entitled to recover from the
+non-prevailing party its reasonable expenses including, but not by way of
+limitation, attorney's fees.
+
+10.8  Severability.  If any of the provisions of this Agreement shall
+be declared void by a court of competent jurisdiction, such provisions shall be
+severable and independent from the other provisions of this Agreement, and the
+validity of the other provisions and of the entire Agreement shall not be
+affected thereby.
+
+10.9  Captions; Headings.  The headings of articles, sections and other
+subdivisions hereof are inserted only for the purpose of convenient reference
+and it is recognized that they may not adequately or accurately describe the
+contents of the sections which they head.  Such headings shall not be deemed to
+govern, limit, modify, or in any other manner affect the scope, meaning or
+intent of the provisions of this Agreement or any part or portion thereof, nor
+shall they otherwise be given any legal effect.
+
+10.10  Entire Agreement.
+
+This Agreement, together with all appendices or other attachments
+referenced herein, constitutes the entire agreement between SMSI and OEM and
+supersedes all proposals, oral and written, between the parties on this subject.
+
+10.11  Counterparts.  This Agreement may be executed in counterparts,
+which together shall constitute the contract of the parties.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed and each hereby warrants and represents that the persons signing on
+its behalf has been and is on the date of this Agreement duly authorized by all
+necessary and appropriate corporate action to execute this Agreement.
+
+SMITH MICRO SOFTWARE, INC.
+
+
+
+By:  /s/ WILLIAM W. SMITH, JR.
+
+Title: President/CEO     Date: 4/18/96
+
+
+
+U.S. ROBOTICS ACCESS CORP.
+
+By:  /s/ MICHAEL SEEDMAN
+
+Title:  V.P., G.M        Date: 6/19/96
+<PAGE>   7
+APPENDIX A
+
+SMSI and U.S. Robotics Access Corp. Agreement
+
+1.  a.  Domestic Licensed Products:
+
+1.  QuickLink II FAX and DATA for Windows/DOS or Windows
+2.  QuickLink MessageCenter FAX/DATA/Voice/Telephony for Windows
+3.  MacComCenter
+4.  Private Label OEM Software for FAX and DATA for Windows
+and/or Windows 95
+5.  Private Label OEM Software for FAX/DATA/VOICE/TELEPHONY for Windows
+and/or Windows 95
+6.  MacComCenter With Voice Module
+
+NOTE:  Private Label OEM Software name will be determined by USR.  This
+software will be a derivative of the HotFax and HotFax MessageCenter code
+base. The feature is outlined in Appendix C, and is mutually agreed on by
+USR and SMSI in order to maximize upgrades to the HotFax and HotFax
+MessageCenter software on the CD and in order to reduce the number of disks
+for the OEM Kitted solution.
+
+b.  All Freight will be F.O.B. SMSI.
+
+c.  Payment terms: Net 30 from date of shipment to USR or acting agent.
+
+PRICING FOR LICENSED PRODUCT COMPONENTS (PER UNIT BASIS):
+PRODUCT COMPONENTS                              PRICE
+QuickStart Guide and Brochure for               ***
+MacComCenter, MessageCenter, QuickLink II
+Win/DOS, Private Label OEM Software for
+FAX/DATA/VOICE/TELEPHONY and FAX/DATA
+MacComCenter Manual                             ***
+MessageCenter II Manual                         ***
+QuickLink II Manual                             ***
+Duplicated 3.5" Disk with label                 ***
+Shrink Wrap                                     ***
+
+***  Confidential portion has been filed separately with the Securities and
+Exchange Commission
+<PAGE>   8
+ROYALTIES ON LICENSED PRODUCTS (PER UNIT BASIS):
+LICENSED PRODUCTS ROYALTY                       PRICE
+QuickLink II Win/DOS Royalty                     ***
+QuickLink MessageCenter Royalty                  ***
+MacComCenter Royalty                             ***
+Private Label OEM Software for FAX/DATA for      ***
+Windows and/or Windows 95
+Private Label OEM Software for                   ***
+FAX/DATA/VOICE/TELEPHONY Windows and/or
+Windows 95
+MacComCenter Voice module-Additional Royalty     ***
+
+
+***  Confidential portion has been filed separately with the Securities and
+Exchange Commission
+<PAGE>   9
+APPENDIX B
+
+ENGINEERING FEES
+
+Reasonable engineering fees will be charged for custom projects requested by
+USR.  The format for creating the charge for these engineering fees will be as
+follows:
+
+1.      USR creates statement of work.
+
+2.      SMSI responds to statement of work with outline of project including an
+estimate of hours.
+
+3.      USR signs off on estimate of hours.  Fees will not be less than *** of
+hourly estimate or more than *** of hourly estimate.  If USR requires
+changes to the specifications after work has begun, these changes will
+be priced separately according to the same method outlined above.
+
+4.      SMSI bills USR for project at *** per hour. 50% due at start of
+project, 50% due upon sign off of Master Release Authorization Form
+First Customer Ship of completed product.
+
+***  Confidential portion has been filed separately with the Securities and
+Exchange Commission
+<PAGE>   10
+APPENDIX C
+
+
+
+The below specification is for the WIN/Win95 version of licensed product.  This
+fax/data and fax/data/voice/speakerphone product is based on HotFax and HotFax
+Message Center code base.  This list of features is only a starting point that
+both parties agree upon.  New features will be added to private label OEM
+version as mutually agreed upon by both parties.
+
+<TABLE>
+<CAPTION>
+GENERAL                                                                                           OEM    RETAIL
+<S>                                       <C>                                                     <C>     <C>
+Location Setup                            Tells the program where you are in the world,           X       X
+based on install.
+
+Advanced Location                         Define Toll calling, Custom Area Code dialing etc.      X       X
+
+Look and Feel                             Makes Win 16 apps look like Win95 apps                  X       X
+Look and Feel Setup                       Win 16 only                                             X       X
+Auto-Bridge                               Reads Quicklink setup information, imports              X       X
+HotLine and WinFax database                             X       X
+
+Mobile Features                           (Retail and QL Mobile) simple Mobile vs. Land           X       X
+Line switch
+
+Caller ID                                 Shows you who called and log it (tbd)                   X       X
+Distinctive Ring                          Configure up to 4 different answer types for 1          X       X
+phone line
+
+Hot-Keys                                  Run specific features via user defined Hot-Key                  X
+Notification                              Option to set notification of incoming fax, data,       X       X
+or voice call
+
+MAPI                                      Supports MAPI when available                            X       X
+Un-Install                                Un-Install Software                                     X       X
+Wireless and Cellular                     Wireless and Cellular Compatible                        X       X
+Install Software
+Auto Detect                               Automatically detects the modem type, chipset           X       X
+identification, COM port
+
+Manual Detect                             Manually set modem type, COM port, and user             X       X
+definable modem and initialization strings
+
+Win32-
+TAPI                                      Use registered TAPI modems                              X       X
+32 bit multithreading                     Smooth multitasking for faxing, and                     X       X
+downloading
+
+NT support                                Supports NT 3.51 (most features)                        X       X
+Long filenames                            Filenames up to 256 characters                          X       X
+Plug and Play                             Run HotFax when you insert your modem                           X
+Adds to Office Shortcut Bar               Installer adds HotFax to your Office 95 Taskbar         X       X
+Use Exchange Phonebook                    Open the exchange phonebook within HotFax for           X       X
+Data and Fax calls
+
+OLE                                       Supports OLE                                            X       X
+Attachments - on the fly (Fax Binder)     OLE Container allowing you to easily group                      X
+documents together for faxing
+
+OCR
+OCR to RTF or Text                        OCR any Fax or image file                                       X
+</TABLE>
+
+
+
+<PAGE>   11
+<TABLE>
+<S>                                       <C>                                                     <C>     <C>
+OCR Multiple files                        Queue up a list of faxes to OCR                                 X
+Auto OCR on receive                       OCR to In-box upon fax receive                                  X
+OCR Setup                                 Advanced features (Auto Page segmentation, etc.)                X
+
+TERMINAL
+Scroll-back buffer                        User definable size                                     X       X
+Font Selection                            Choose your own Terminal font for each connection       X       X
+
+Terminal Emulstors                        TTY ANSI VT52 VT100 VT102 VT220 3270                    X       X
+Function Bar                              20 definable buttons/hot-keys for Macros, Script        X       X
+Launching and program execution
+
+Printing                                  Print your screen or terminal buffer                    X       X
+Chat Mode                                 Easy chat with single click file transfer               X       X
+Scripting                                 Basic like language with 113 verbs                      X       X
+Host Mode                                 Simple BBS like features                                X       X
+File Transfers                            Xmodem (CRC/lk) Ymodem, Ymodem batch                    X       X
+Zmodem Kermit SuperKermit ASCII
+
+File Transfer Setup                       General and ASCII                                       X       X
+Adv. File Transfer Setup                  Change setting for Xmodem-Zmodem & Kermit/                      X
+SuperKermit
+
+Email support                             Email (via MAPI) your screen or scroll-back buffer      X       X
+
+Learn Mode                                Automatically writes login scripts for you                      X
+
+LOG MANAGER
+In place editing                          Reschedule faxes by in-place editing the time to        X       X
+send
+
+Printing                                  Print the contents of your folder (receive log/send     X       X
+log)
+
+Column sorting                            Sort your folder by clicking on the column              X
+heading
+
+Archiving Messages                        Archive/Move your messages into any folder              X       X
+Nested Folders                            Create as many folders for fax and voice messages       X       X
+as you want
+
+Archiving in ZIP format                   Folders can ZIP your contents into a standard ZIP file  X       X
+
+Message Find                              Find messages in any folder                             X       X
+Auto Maintenance                          Folders can automatically move and archive              X       X
+messages on particular days of the month
+
+Email support                             Email your faxes and voice messages via MAPI            X       X
+Configure Fields                          Configure which columns display on your folder                  X
+Fax Host                                  Send and Retrieve your faxes from a remote location             X
+
+FAX
+Supports all popular fax cards            Class 1.  Class 2.  Class 2.0 and MWave                 X       X
+PhoneBook                                 Name, Company, fax number, and voice number             X       X
+Import/Export                             Import/Export phonebook information from ACII           X       X
+tab dilimited text
+
+Group Fax                                 Send to a group list                                    X       X
+
+</TABLE>
+<PAGE>   12
+<TABLE>
+<S>                                       <C>                                                     <C>     <C>
+
+Print Faxes on receive (AutoPrint)        Simulates a plain paper fax machine                     X       X
+
+Fax Preview                               Preview a fax before you send it                        X       X
+
+Attach any document                       Attach feature allows you to pick any                   X       X
+file in your system to fax
+
+Cover Pages Selection                     Select for 3 different Cover Page designs               X       X
+Include an option to have up to 10 different
+cover pages at any time.
+
+Cover Page Import/Export                  Import or export up to 10 different cover pages         X       X
+
+View faxes on receive                     Option to load the new fax into viewer when             X       X
+you receive it
+
+More Cover Pages                          40 Professional Cover Pages                                     X
+
+Fax Forwarding                            Forward your faxes to a particular number               X       X
+
+Auto Fax Forward                          Set auto fax forward from local or                              X
+remote locations
+
+HotFax Menu                               Integrated HotFax Menu allows one click                         X
+faxing from any Windows application
+
+Header Setup                              Enter customized fax header                             X       X
+
+Drag and Drop Faxing                      Easy shortcut to the fax driver on your                 X       X
+Win95 desktop
+
+
+VIEWER
+
+Fax Preview                               Preview your fax before you send it                     X       X
+
+File Support                              .QFX .REC .HFX .BMP .PCX .DCX .TIF                      X       X
+
+Gray-scale support                        Image enhancing to make your faxes                      X       X
+more readable on-screen
+
+Scan New Faxes                            With one click, view all your new                       X       X
+faxes (Voice product only)
+
+Show all pages                            Show a thumbnail view of all the                                X
+pages in a fax
+
+Advanced Imaging Options                  Rotate image any angle, Image Skew,                             X
+and Dithering support
+
+Annotation                                Mark up and re-send a fax                                       X
+
+Stamps                                    Makes it easy to lay in a signature block                       X
+
+Advanced File Support                     .GIF .WPG .TGA .WMF PICT and JPEG                               X
+
+Cover Page Designer
+Design your own Cover Page                Choose from a pallet of tools to text and                       X
+image design
+
+Design your own Header                    Create a header just like you create a                          X
+cover page
+
+VOICE
+
+Voice Answering Machine                   Configure up to 10 mailboxes                            X       X
+
+Fax-On-Demand                             Add up to 10 documents per mailbox                      X       X
+
+Fax-On-Demand                             Add up to 100 documents per mailbox                             X
+
+Call Transfer                             Transfer a call from a mailbox to                       X       X
+another phone number
+
+Urgent Paging                             Page to numeric or Alpha numeric pager                  X       X
+
+Speakerphone                              With supporting hardware                                X       X
+
+Sound Card Support                        Play your voice messages through your                   X       X
+sound card
+
+Music On Hold                             Play a MIDI file while the user is on hold              X       X
+
+Redial Last                               Redial last number dialed                               X       X
+
+10,000 Mailboxes                          Almost unlimited number of voice mailboxes                      X
+
+</TABLE>
+<PAGE>   13
+<TABLE>
+<S>                                             <C>                                                     <C>
+
+COVER PAGE DESIGNER
+
+Design your own Cover Page                      Choose from a pallet of tools to text                   X
+and image design
+
+Design your own Header                          Create a header just like you create                    X
+a cover page
+
+PAGING
+
+Outbound Paging                                 Windows 95 support only                                 X
+
+Page on Email receive                           Win95 only                                              X
+
+</TABLE>
+

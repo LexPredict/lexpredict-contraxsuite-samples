@@ -1,0 +1,1008 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+EXHIBIT 10.14
+
+EXCLUSIVE SOFTWARE LICENSE AND USE AGREEMENT
+
+This Agreement is made and entered into as of the 21st day of December, 2000
+("Effective Date"), by and between NetSolve, Incorporated ("NetSolve"), a
+Delaware corporation, with its principal offices at 12331 Riata Trace Parkway,
+Austin, Texas 78727 and NEC Corporation ("NEC"), a Japanese corporation, with
+its principal offices at 7-1, Shiba 5-chome, Minato-ku, Tokyo 108-8001, Japan.
+
+WHEREAS, NetSolve is the owner of all U.S. and foreign copyrights and other
+proprietary rights in certain network programs and related documentation that
+are the subject of this Agreement; and
+
+WHEREAS, each party hereto represents that it is ready, willing, and able to
+undertake the responsibilities and
+obligations set forth in this Agreement, and that it possesses the rights,
+resources, and capabilities to perform its responsibilities under this
+Agreement;
+
+NOW, THEREFORE, in consideration of the premises, and of the obligations herein
+made and undertaken, the parties hereto do hereby covenant and agree as follows:
+
+1.   Definitions:
+
+As used in this Agreement:
+
+a)   "Licensed Products" shall mean those network management services
+programs, instructions and related material which are specifically
+identified on Schedule A, attached hereto and made a part hereof for
+all purposes, and any copies and Japanese language translations
+thereof as permitted herein. Licensed Products shall also include
+upgrades, updates and additional services, programs, instructions and
+related material which NetSolve and NEC mutually agree in writing from
+time to time to constitute Licensed Products hereunder.
+
+b)   "Software Fix" shall mean a modification to the Licensed Products to
+conform the operation of the Licensed Products to its mutually defined
+specifications per Schedule A or to correct any actual problem that is
+recognized by NetSolve and NEC as a problem required to be corrected
+for the Licensed Products, to perform at an appropriate level in
+NetSolve's and to the same level in NEC's business. On or before
+February 16, 2001, the parties will mutually agree on specified
+stability and performance expectations of the Licensed Products. Any
+failure of the Licensed Products to satisfy such specified
+expectations will require a Software Fix.
+
+c)   "NetSolve Documentation" shall mean the written technical
+documentation specifically referenced on Schedule A. NetSolve
+Documentation shall also include additional documentation which
+NetSolve and NEC mutually agree in writing from time to time
+constitute NetSolve Documentation hereunder.
+
+d)   "Developed Documentation" shall mean documentation developed by
+NetSolve under this Agreement or to be distributed in connection with
+sales of Licensed Products through NEC's direct and indirect channels.
+
+e)   "Customer" shall mean (i) any entity that has its principal place of
+business and executive management in Japan (a "Japanese Company") and
+(ii) any entity in which a Japanese Company has majority voting
+control (an "Affiliate Company"). Japanese Companies and Affiliate
+Companies qualify as Customers whether or not the NEC Services they
+purchase are used within Japan. Notwithstanding the foregoing,
+"Customer" shall not include any entity which purchases remote network
+management services from NEC Business Network Services, Inc. or any
+subsidiary or affiliate thereof. A customer may include a reseller of
+NEC Services, provided that any such reseller shall be limited to
+reselling NEC Services only to Customer.
+
+Confidential treatment has been requested for portions of this exhibit. The copy
+filed herewith omits the information subject to the confidentiality request.
+Omissions are designated as [*]. A complete version of this exhibit has been
+filed separately with the Securities and Exchange Commission.
+
+1
+<PAGE>
+
+f)   "NEC Services" means remote network management services, incorporating
+or using the Licensed Products, provided by NEC to customers.
+
+2.   Term:
+
+This Agreement shall commence on the date above and shall continue in force
+for a term of three (3) years unless terminated earlier under the
+provisions of this Agreement. Subject to the provisions of Section 9
+herein, at the end of the initial term, this Agreement shall extend
+automatically for additional one (1) year periods without notice unless
+thirty (30) days prior to the and of the term or extended period, either
+party notifies the other that this Agreement will not be extended for an
+additional one (1) year period.
+
+3.   Grant of Rights to NEC:
+
+a)   Licensed Products:  On or before February 16, 2001, the parties will
+agree to standards for the Licensed Products and include said
+standards on Schedule A (the "Standards"). As soon as practical
+thereafter, NetSolve shall deliver to NEC the Licensed Products,
+within thirty (30) days after NEC's receipt of the Licensed Products
+from NetSolve, NEC will inspect the Licensed Products for conformity
+with the Standards. NEC shall notify NetSolve in writing within such
+thirty (30) day period (subject to extension by force majeure) as to
+whether the licensed Products conform to such Standards. If the
+Licensed Products conform to such Standards, NEC may use the Licensed
+Products pursuant to Section 3b) below and the other provisions of
+this Agreement. If the Licensed Products do not conform to such
+Standards, NEC must identify specific defects that cause the Licensed
+Products not to meet the Standards. If NEC does not provide written
+notice of specific defects within said thirty (30) day period, the
+initial U.S. $* installment of the License Fee shall not be refundable
+to NEC, NetSolve shall have thirty (30) days (subject to extension by
+force majeure) from its receipt of written notice of such defects to
+cure the defects. If NetSolve timely offers a cure for the defects,
+NEC will again inspect the Licensed Products for conformity with the
+Standards within thirty (30) days. If the Licensed Products conform to
+such Standards, NEC may use the Licensed Products pursuant to Section
+3b) below and the other provisions of this Agreement. If the Licensed
+Products, as modified, do not conform to such Standards, this
+Agreement shall terminate immediately upon NEC's written notice of
+nonconformity and NEC shall have no right to use the Licensed Products
+in any manner and shall immediately return the Licensed Products to
+NetSolve. Notwithstanding the foregoing, if NetSolve is unable to cure
+the defects identified by NEC in accordance herewith, NetSolve shall
+refund the U.S. $* installment of the License Fee to NEC. If NEC does
+not accept the Licensed Products due to problems within NEC's control,
+the U.S. $* initial installment of the License Fee shall be non-
+refundable to NEC. If the defects are attributable to causes outside
+the control of either party, then U.S. $* of the initial installment
+of the License Fee shall be refunded to NEC.
+
+b)   Grant of License:  NetSolve hereby grants NEC an exclusive and non-
+transferable right to use the Licensed Products in object code form
+solely for the purpose of rendering NEC Services to Customers and for
+the management of NEC and its subsidiaries' own network (the
+"Permitted Use"). In addition, NEC may make a copy of software
+included within the Licensed Products for enhancing NEC Services for
+capacity, performance, and redundancy reasons and for archival
+purposes, and of documentation included within the Licensed Products
+to the extent reasonably necessary for exercising the rights granted
+under this Section 3b) In addition, NEC have the right to translate
+NetSolve copyrighted documentation from English to Japanese.
+Notwithstanding anything else herein to the contrary, NEC shall not
+use the Licensed Products for, or make available services involving
+the Licensed Products to, any entity that does not qualify as a
+Customer as defined above. Nothing in this Agreement shall prevent
+NetSolve from granting rights in the Licensed Products to other
+parties for any other purpose, including the provision of network
+management services to entities which are not Customers but, so long
+as NEC keeps exclusivity under c) below, NetSolve is prohibited to
+license the Licensed Products for Permitted Use to Customers in Japan.
+The exclusive nature of NEC's rights granted hereunder with respect to
+the Permitted Use shall be subject to Section c) below. NEC is
+expressly prohibited from decompiling, disassembling, or reverse
+engineering the Licensed Products in any manner whatsoever, and NEC is
+expressly prohibited from designing another product or system,
+including, without limitation, a
+
+*    Certain confidential information on this page has been omitted and filed
+separately with the Securities and Exchange Commission.
+
+2
+<PAGE>
+
+competing product, that is based upon, any of the Licensed Products;
+provided, however, that NEC may continue to provide its existing
+network management service in its current form.
+
+c)   Exclusive Right:  In order to maintain the exclusive nature of the
+right to use the Licensed Products for the Permitted Use as described
+in Section b) above, NEC must pay NetSolve minimum annual payments in
+each of the years during the three year period described below of
+US$*, US$* and US$*, respectively(the "Exclusivity Amounts"). For this
+purpose, the first year shall begin upon the earlier of completion of
+the installation of NEC's Network Operation Center in Japan or June
+30, 2001, unless delay of installation of the NEC Network Operations
+Center is due to NetSolve's fault, in which case the Initiation Date
+shall be extended to the extent of the delay caused by NetSolve. The
+Exclusivity Amounts shall be comprised of the One Time License Fee
+(amortized over a 36 month life commencing with the Initiation Date),
+Royalty Fees, and Maintenance Fees due to NetSolve under this
+Agreement as described on Schedule B attached hereto and made a part
+hereof for all purposes by NEC. In the event NEC has not incurred the
+Exclusivity Amounts in any year, NEC shall have the right to either
+(i) pay the differences between the actual amounts incurred and the
+applicable Exclusivity Amount within thirty (30) days after the end of
+the applicable year period, or (ii) lose its exclusive right described
+in Section 3b) above while retaining its license rights as set forth
+herein to render NEC services to Customers on a non-exclusive basis.
+
+d)   Governmental Approvals: Notwithstanding anything herein seemingly to
+the contrary, this Agreement, the license granted herein and the
+delivery of the Licensed Products are conditioned on the attainment of
+any required governmental approvals relating to the importation or
+exportation of the Licensed Products.
+
+4.   License Fees:
+
+a)   License Fees and Charges:  NEC agrees to pay the License Fee, Royalty
+Fees and Maintenance Fees (collectively, the "Fees") as set forth in
+Schedule B hereto. Except as otherwise provided herein, the Fees shall
+not be increased during the initial three year Term of this Agreement.
+After the initial three year term of this Agreement, any increase in
+NetSolve's Fees shall not be effective until ninety (90) days after
+notification by NetSolve to NEC. Any such increase shall apply only to
+devices or services using the Licensed Products which are ordered
+after the date of NetSolve's notice of Fee increase. In the event of a
+Royalty and/or Maintenance Fee decrease, all devices or services using
+the Licensed Products which had been ordered but not implemented as of
+the date of NetSolve's notice of Fee decrease will be adjusted to take
+into consideration the fee decrease. NetSolve agrees to consider, in
+good faith, adjustments to the Fees in the event that the Fees at any
+point in time do not agree with market conditions.
+
+b)   Minimum Fees During Term.  NEC agrees that, during the initial three
+(3) year term of this Agreement, it shall pay NetSolve minimum Fees of
+US $* ("Minimum Term Fee"). If, upon the completion of the initial
+three (3) year term of this Agreement, or upon the earlier termination
+of this Agreement for any reason (other than NEC not accepting the
+Licensed Products pursuant to the provisions of, and the procedure set
+forth in, Section 3a) above or if NEC terminates the agreement
+pursuant to Section 9d), the aggregate Fees actually paid by NEC to
+NetSolve hereunder is less than the Minimum Term Fee, NEC shall
+promptly pay NetSolve the difference between the aggregate Fees
+actually paid and the Minimum Term Fee.
+
+c)   Taxes and Charges: The Fees for the Licensed Products do not include
+any taxes except income or withholding tax, duties or any other
+charges of any kind that may be applicable to the purchase or
+transportation, importation or exportation of the Licensed Products.
+In the event the Japanese Government imposes any income or withholding
+tax on NetSolve and requires NEC to withhold such tax from the payment
+of the Fees, NEC shall notify NetSolve in sufficient time in advance
+of such withholding to allow NetSolve to fully exercise any and all
+appeal rights with respect to the assessment of such tax and
+withholding. If, after such appeal NEC is required to withhold from
+the payments hereunder, or if NetSolve chooses not to appeal such tax
+and withholding, NEC may withhold from the said payment in accordance
+with legal requirements. NEC shall provide NetSolve a tax receipt
+received from such tax authority and shall assist NetSolve in claiming
+and receiving a foreign tax credit. All
+
+*    Certain confidential information on this page has been omitted and filed
+separately with the Securities and Exchange Commission.
+
+3
+<PAGE>
+
+freight, insurance and other shipping expenses, as well as expenses
+for any special packing requested by NEC, will be paid by NEC. NEC
+will also bear all applicable taxes, duties and similar charges,
+including any import or export duties or similar charges that may be
+assessed with respect to the delivery of the Licensed Products to NEC.
+
+d)   Payment Terms:  NEC shall pay the Fees to NetSolve pursuant to the
+payment schedule described in Schedule B. All payments by NEC to
+NetSolve hereunder shall be made in U.S. dollars and by means of wire
+transfer to the following bank account of NetSolve:
+
+Bank:          *
+ABA#:          *
+Account Name:  *
+Account#:      *
+
+5.   New Product Capabilities:
+
+NetSolve agrees to offer to NEC any new product capabilities incorporating
+or relating to the Licensed Products on terms and conditions mutually
+agreeable to the parties hereto. NEC may request NetSolve to modify the
+Licensed Products to perform additional functions and NetSolve will use
+good faith efforts to provide NEC cost estimates for the development of
+such modifications; provided, however, that NetSolve shall have no
+obligation to develop or provide such modifications. If NetSolve does not
+agree to provide the modifications, NEC may develop the modifications so
+long as such modifications do not infringe on NetSolve's rights.
+
+6.   (Intentionally Left Blank)
+
+7.   Product Warranty:
+
+a)   Limited Warranty:  NetSolve warrants that the Licensed Products shall
+be and perform in conformance with the Standards mutually agreed and
+NetSolve's specifications for such Licensed Products in effect on the
+date of this Agreement as long as the Software Maintenance Fee is paid
+by NEC.
+
+b)   Warranty Exclusions: The above limited warranty does not apply to any
+Licensed Products which (i) have not been installed, operated,
+repaired or maintained in accordance with any installation, handling,
+maintenance or operating instruction delivered by NetSolve to NEC, or
+(ii) have been subject to unusual physical or electrical stress,
+negligence or accident; or (iii) have been modified in a manner not in
+accordance with NetSolve's written instructions.
+
+c)   No Other Warranty: EXCEPT FOR THE EXPRESS LIMITED WARRANTY SET FORTH
+ABOVE, NETSOLVE GRANTS NO OTHER WARRANTIES OR CONDITIONS OF ANY KIND
+WHATSOEVER, EXPRESS OR IMPLIED, BY STATUTE OR OTHERWISE REGARDING THE
+LICENSED PRODUCTS, THEIR FITNESS FOR ANY PARTICULAR PURPOSE, THEIR
+QUALITY, THEIR MERCHANTABILITY OR OTHERWISE.
+
+In addition, NEC acknowledges that the Licensed Product are not
+designed or intended to be used in, or incorporated in products or
+services used in, equipment or devices in environments requiring fail-
+safe performance such as the operation of nuclear facilities, aircraft
+navigation or aircraft communication systems, air traffic control,
+direct life support machines or weapons systems, in which the failure
+of the Licensed Products could lead to death, personal injury, or
+severe physical or environmental damage ("High Risk Activities").
+NETSOLVE SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF ANY
+KIND WITH RESPECT TO THE USE OF LICENSED PRODUCTS IN CONNECTION WITH
+ANY HIGH RISK ACTIVITY.
+
+d)   Limitation of Liability:  In the event of an alleged breach of the
+limited warranty expressly set forth above, NEC shall promptly notify
+NetSolve. NetSolve shall have no liability to any Customer, and
+
+*    Certain confidential information on this page has been omitted and filed
+separately with the Securities and Exchange Commission.
+
+4
+<PAGE>
+
+NEC's operable agreements with all Customers shall preclude any rights
+of Customers directly against NetSolve. NetSolve's sole liability, and
+NEC's exclusive remedy, for any breach of the foregoing limited
+warranty shall be, to correct the non-conformity or replace with
+conforming Licensed Products. Such obligation shall be subject to
+NetSolve being granted the reasonable opportunity to inspect the
+allegedly defective Licensed Products at the location of its use or
+storage and, if requested by NetSolve, the return of the Licensed
+Products to NetSolve at NetSolve's expense. Any such replacement of
+Licensed Products may be by substitution of any similar product upon
+mutual agreement. NEC shall indemnify and hold NetSolve harmless from
+and against any and all claims, causes of action, costs or expenses of
+any kind (including attorneys' fees) incurred by NetSolve in
+defending, or otherwise dealing with, warranty claims that are
+inconsistent with the limited warranty expressly set forth above, or
+claims for remedies for alleged warranty defects in addition to, or
+different from, the limited relief set forth above. Additionally, if
+NetSolve determines that any alleged defect is excluded from, or
+otherwise not covered by, the limited warranty provided herein, NEC
+shall reimburse NetSolve at the rates set forth in Schedule C hereto,
+for all expenses incurred by NetSolve in evaluating and dealing with
+the alleged defect.
+
+e)   Customer Agreements:  All agreements between NEC and its Customers
+related to the NEC Services shall include provisions consistent with
+this Section 7.
+
+8.   Support Services:
+
+During the term of this Agreement, NetSolve agrees to provide the following
+support services ("Support Services") to NEC. All communication between the
+parties' support contacts shall be in the English language. NEC shall
+provide NetSolve representatives with reasonable remote access to Licensed
+Products in performing the support services provided for herein; provided
+that NEC shall maintain control of the security of such access.
+
+a)   On-Site Support:  During the first year of the term of this Agreement,
+NetSolve shall designate and provide a representative to work
+substantially on a full-time basis at NEC's offices in Japan. Such
+representative will assist NEC in the installation of the Licensed
+Products and will be available to NEC for technical support and
+assistance during said first year. All communication between NEC and
+NetSolve during the first year of the term of this Agreement relating
+to technical support of the Licensed Products will be through the
+designated representative. NEC will pay or reimburse NetSolve per
+Schedule C for such services. During the first month of the term of
+this Agreement, NetSolve shall provide at least two such individuals.
+Resources above these levels require mutual agreement.
+
+b)   Telephone Technical Support:  After the first year of the term of this
+Agreement, during the hours between 9:00 a.m. and 5:00 p.m. U.S.
+Central Standard Time, Monday through Friday, and subject to personnel
+availability, NetSolve shall provide assistance and advice to NEC, via
+telephone, with respect to technical questions about the Licensed
+Products which NEC's own technical staff is unable to answer. It is
+not contemplated that NetSolve will provide support for Customer
+network troubleshooting. NEC shall designate up to eight (8)
+representatives who will be the exclusive NEC contacts with respect to
+technical support communications with NetSolve. In case of emergency
+conditions, such as whole System Down, technical communications with
+NetSolve must be 24 hours a day and 7 days a week basis.
+
+c)   Product Training:  NetSolve agrees to provide NEC with two (2)
+technical support Product training classes designed to enable capable
+NEC technical support personnel to fully support the Licensed
+Products, at NEC's Japan headquarters, at the rates identified on
+Schedule C hereto. NEC will also pay for NetSolve's airfare, hotel,
+meal and other related costs of NetSolve's training personnel.
+Additional training to replace technical support personnel will be
+provided by NetSolve at NetSolve's Austin, Texas headquarters subject
+to availability of personnel at the rates specified on Schedule C
+hereto. NetSolve further agrees to provide one (1) additional training
+session for NEC's Technical Support personnel to accommodate any
+Licensed Products upgrades and or enhancements which NEC is entitled
+to under this Agreement free of charge. Time and period, and contents
+of the additional training should be determined mutually. Training for
+other upgrades or enhancements which NetSolve agrees to provide, at
+NetSolve's sole option and at a price mutually agreed, will be
+provided at an additional charge mutually agreed. In addition,
+NetSolve agrees to make similar technical training available, to NEC,
+on a chargeable basis.
+
+5
+<PAGE>
+
+should NEC require additional technical training sessions. Additional
+technical training will be charged in accordance with NetSolve's
+standard rates, as shown in Schedule C.
+
+d)   Software Fixes:  During the term of this Agreement, NetSolve shall
+provide NEC with notice of any Software Fixes and shall provide any
+such Software Fix per the rates identified for Software Maintenance
+Fee in Schedule B.
+
+e)   Other Support:  Any customization or support in addition to that
+specified herein may be provided by NetSolve at NetSolve's sole
+discretion, at the rates and terms mutually agreed upon in each
+instance.
+
+9.   Termination:
+
+NetSolve acknowledges that NEC will expend substantial effort and resources
+in creating and maintaining the NEC Services and Customer base.
+Accordingly, NetSolve agrees that in the event of a termination of this
+agreement (except for termination as set forth in subsection a) below),
+that it will provide NEC sufficient time not to exceed 24 months to
+transition the NEC Services to another provider and minimize any negative
+impact on NEC's Customer base:
+
+a)   Termination for Cause:  If either party materially defaults in the
+performance of any provision of this Agreement, then the non-
+defaulting party may give written notice to the defaulting party that
+if the default is not cured within thirty (30) days from the date of
+such notice the Agreement will be terminated. If the non-defaulting
+party gives such notice and the default is not cured during such
+thirty (30) day period, then the non-defaulting party may terminate
+the Agreement at the end of that period.
+
+b)   Termination for Insolvency:  This Agreement may be terminated,
+immediately upon: (i) the institution by or against either party to
+the Agreement of insolvency, receivership or bankruptcy proceedings or
+any other proceedings for the general settlement of its debts, (ii)
+either Party's general assignment for the benefit of creditors, or
+(iii) either party's dissolution or ceasing to do business. Such
+termination shall be effective upon the delivery of written notice
+from the party not involved in any such proceedings or actions.
+
+c)   Termination for Change of Control:  This Agreement may be terminated
+by either party if the identity of the other party or the nature of
+its business is materially changed by bulk transfer of assets, sale of
+its business, transfer of 50.1% or more of its outstanding stock, or
+merger to, by or with, as the case may be, a business entity that
+provides products and services in direct competition with the
+terminating party's products or services, and in the terminating
+party's sole judgment continuing the relationship with the surviving
+entity would create a conflict of interest (each, a "Change of
+Control"). Such termination must be given by written notice provided
+within thirty (30) days of being notified by the party with the Change
+of Control. In addition, NEC may terminate this Agreement in the event
+NEC determines, in its sole discretion, to discontinue its business
+relating to the Licensed Products within 1 year after the execution of
+this Agreement by providing NetSolve with ninety (90) days written
+notice in advance.
+
+d)   Payments by NEC Upon Termination:  Upon the termination of this
+Agreement, for any reason, NEC shall promptly pay NetSolve the
+following: (i) the amount required under Section 4b), if any, relating
+to the Minimum Term Fee (provided, however the Minimum Term Fee will
+be waived provided NEC terminates this Agreement on the first (1st)
+anniversary of the acceptance of the Licensed Products due to NEC's
+termination of its NEC Services business; (ii) any unpaid portion of
+the License Fee (unless the termination is the result of NEC not
+accepting the Licensed Products in accordance with the provisions of,
+and the procedure set forth in, Section 3a)); (iii) all Royalty Fees
+for NEC Services sold through the date of termination; and (iv) any
+unpaid portion of the Software Maintenance Fee for the year of the
+termination. Except for such payments, neither party shall be liable
+to the other for damages of any kind, including incidental or
+consequential damages, on account of the termination of this
+Agreement, and both parties waive any right they may have to receive
+any compensation or reparations on termination or expiration of this
+Agreement, which includes, but is not limited to, loss of goodwill,
+prospective profits
+
+6
+<PAGE>
+
+or anticipated orders, or an account of any expenditures, investments,
+leases or commitments made by either NetSolve or NEC.
+
+e)   Return of Licensed Products:  NEC shall, promptly upon the termination
+of this Agreement for any reason (regardless of the party causing or
+effecting such termination), cease all use of the Licensed Products
+and return the Licensed Products to NetSolve at NEC's sole cost and
+expense. NEC shall not retain any portion of the Licensed Products or
+any copies thereof. In the event that, following the termination of
+this Agreement, NEC discovers that it possesses any portion of the
+Licensed Products or any copies thereof, NEC will promptly return it
+to NetSolve at NEC's sole cost and expense. Notwithstanding the
+foregoing, if NetSolve should terminate this Agreement for any reason
+other than NEC's default or insolvency, NEC shall be entitled to (i)
+maintain for existing Customers for a period of three (3) years as of
+the termination date, and (ii) to sell to now Customers for a period
+of two (2) years as of the termination date and NEC shall be obligated
+to continue to pay the applicable Fees as set forth on Schedule B with
+respect to such continued service.
+
+f)   Survival of Certain Terms: The provisions of Sections 4, 7c), 7d), 9,
+10, 11, 12, 13, 14, and 16a shall survive the termination of this
+Agreement for any reason. All other rights and obligations of the
+parties shall cease upon termination of this Agreement.
+
+10.  Limitations On Liability:
+
+EXCEPT FOR DAMAGES CAUSED BY A BREACH OF PROVISIONS OF SECTION 11 OR
+SECTION 13 BELOW, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER
+PARTY OR ANY OTHER ENTITY FOR COSTS OF COVER, LOST PROFITS OR ANY OTHER
+SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR INDIRECT DAMAGES, HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, ARISING OUT OF THIS AGREEMENT, EVEN
+IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL
+PURPOSE OF ANY LIMITED REMEDY. ALL AGREEMENTS BETWEEN NEC AND CUSTOMERS
+SHALL INCLUDE PROVISIONS CONSISTENT WITH THIS SECTION 10 AND NEC SHALL
+INDEMNIFY AND HOLD NETSOLVE HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS,
+CAUSES OF ACTION, AND COSTS OF ANY KIND (INCLUDING ATT0RNEYS' FEES)
+INCURRED BY NETSOLVE IN CONNECTION WITH A CLAIM BY A CUSTOMER INCONSISTENT
+WITH THE PROVISIONS OF THIS SECTION 10.
+
+11.  Proprietary Rights and Confidentiality:
+
+a)   Proprietary Rights:  NEC acknowledges that, as between NEC and
+NetSolve, the Licensed Products are owned exclusively by NetSolve. NEC
+shall not claim, nor shall it have under any circumstances, any rights
+in, to or under the Licensed Products, product lines that include the
+Licensed Products, or any of NetSolve's patents, trademarks, service
+marks, trade names, inventions, copyrights, know-how, trade secrets or
+other intellectual and/or proprietary information, except for the
+limited right to use the Licensed Products as expressly permitted in
+this Agreement. As between NEC and NetSolve, NetSolve owns the entire
+and complete right, title, and interest in the Licensed Products,
+including but not limited to, all copyright, patent and other
+proprietary rights. The license and use by NEC of any of these
+proprietary rights is authorized only for the purposes expressly set
+forth herein, and upon termination of this Agreement for any reason
+such authorization shall immediately cease. NetSolve expressly
+disclaims any and all implied licenses to NEC with respect to any of
+its intellectual property and other rights related to the Licensed
+Products including, without limitation, all patent, trademark, service
+mark, trade name, copyright, and trade secret rights.
+
+b)   Confidentiality:  The parties acknowledge that by reason of their
+relationship to each other hereunder each will have access to certain
+information and materials concerning the other's business, plans,
+customers, processes, technology and/or products that is confidential
+and proprietary to that party ("Confidential Information"). The
+parties acknowledge further that disclosure of any such Confidential
+Information to third parties would cause irreparable harm.
+Accordingly, each party agrees that it will
+
+7
+<PAGE>
+
+not use in any way for its own account or the account of any third
+party, nor disclose to any third party, any Confidential Information
+of the other party and shall take every reasonable precaution to
+protect the confidentiality of such Confidential Information. All
+information disclosed by one party to the other party hereunder which
+the disclosing party intends to be treated as Confidential Information
+shall be clearly marked. The parties acknowledge and agree that the
+Licensed Products and all surrounding information and documentation
+constitute the valuable Confidential Information of NetSolve. Upon
+request by either party, the other party shall advise whether or not
+it considers any particular information or materials to be
+confidential. In the event of termination of this Agreement for any
+reason, there shall be no use or disclosure by a party of any
+Confidential Information of the other party for a period of five (5)
+years from the date of such termination, and neither party shall
+produce or develop, nor have produced or developed, any product,
+software, service, device, component or assembly utilizing any of the
+other party's Confidential Information. Notwithstanding the prior
+sentence or anything else herein to the contrary, in no event shall
+NEC ever have the right to disclose to others or to use NetSolve's
+Confidential Information, either before or after termination of the
+Agreement, that remains a trade secret of NetSolve or that is
+protected through some other form of intellectual property protection
+such as, without limitation, patent, trademark or copyright
+protection. A recipient of Confidential Information from the other
+party shall not use the Confidential Information, or any part thereof
+in any manner for any purpose other than in connection with conducting
+business with or performing business in accordance with this
+Agreement. To the extent that a recipient of Confidential Information
+from the other party has or does develop intellectual property rights
+related to or based, in any manner, on such Confidential Information,
+such recipient hereby irrevocably grants the other party a
+nonexclusive, worldwide, fully paid-up license to any and all such
+intellectual property rights. Such intellectual property shall
+include, at least, all inventions, whether patentable or not,
+developments, improvement, trade secrets, trademarks, trade names,
+copyrights, patent applications, patents, and the like. At the
+termination of this Agreement, each party shall return all copies and
+associated materials, whether in tangible or electronic form,
+disclosing any Confidential Information of the other party to such
+other party. At such time, neither party shall retain copies or have
+access, either directly or through a third party, to the other party's
+Confidential Information. Both parties shall have the right to audit
+the other party to ensure compliance with the prior sentence and to
+request and receive a written certificate from an officer of the other
+party certifying compliance therewith.
+
+c)   Injunctive Relief:  Both parties acknowledge, understand, and agree
+that the breach or any provision of this Section 11 will result in
+immediate and irreparable harm to the other party and that monetary
+damages alone will be inadequate to compensate the other party for
+such breach. Accordingly, both parties agree that in such a case, the
+aggrieved party shall be entitled to any remedies available to it at
+law or in equity, including, without limitation, the right to
+temporary, preliminary, and permanent injunctive relief and specific
+performance to enforce the terms of this Section 11 without the
+necessity of proving inadequacy of legal remedies or irreparable harm,
+or posting bond.
+
+12.  Trademarks and Trade Name:
+
+a)   NetSolve and NEC each have and may adopt from time to time certain
+trademarks, service marks and trade names ("Trademarks"). Upon the
+prior written approval of NetSolve, NEC shall have the limited right
+to use the associated NetSolve Trademarks in connection with the
+Licensed Products either alone or in conjunction with any other
+Trademarks of NEC, solely in connection with marketing and
+distributing the Licensed Products to Customers within express
+guidelines established by NetSolve for such purpose. NEC shall make
+every reasonable effort to display recognition that NetSolve's
+technologies and processes are used in connection with the Licensed
+Products. Any use of the NetSolve name and logo or any of NetSolve's
+other Trademarks by NEC shall inure to the benefit of NetSolve, and
+any ownership that NEC may obtain though its use of the NetSolve name
+and logo or any of NetSolve's other Trademarks is hereby assigned
+fully and completely to NetSolve. Except as otherwise provided in this
+Section 12, nothing contained in this Agreement shall grant to either
+party any right, title or interest in the other party's Trademarks. At
+no time during the term of this Agreement shall either party challenge
+or assist others to challenge the other party's Trademarks or the
+registration thereof or attempt to register any Trademarks, marks or
+trade names confusingly similar to those of the
+
+8
+<PAGE>
+
+other party. NEC shall have the right to name and/or register
+Trademarks for Licensed Products, provided that such names and/or
+Trademarks do not infringe on any names and/or Trademarks of NetSolve.
+Except for the use of the NEC name, NetSolve shall have a fully paid-
+up, royalty free, worldwide license to use any Trademark NEC uses or
+registers in connection with the Licensed Products.
+
+13.  Patent, Copyright and Trademark Indemnity:
+
+a)   Representation:  NetSolve represents and warrants either that to the
+best of NetSolve's actual knowledge: (i) the Licensed Products
+prepared for or submitted to NEC under this Agreement is original and
+no portion of such Licensed Products, or the use or distribution of
+copies thereof violates or is protected by a patent, copyright or
+other proprietary right of any third party in the United States or
+Japan; or (ii) to the extent third party software is incorporated
+within the Licensed Products, NetSolve has the right to incorporate
+said third party software within the Licensed Products and to grant to
+NEC all the rights and licenses to the Licensed Products expressly
+provided for and granted under this Agreement. To the extent third
+party software is used in conjunction with the Licensed Products, NEC
+must procure its own licenses with respect to such third party
+software.
+
+b)   Indemnification:  Except as provided below, NetSolve will indemnify,
+hold harmless and defend NEC, at NetSolve's expense, against any and
+all claims that any Licensed Products as provided by NetSolve
+hereunder infringes any published Japanese or U.S. patent, copyright,
+trademark or trade secret or other proprietary right of any third
+party in the U.S. or Japan. In such event NEC shall promptly notify
+NetSolve of any such claim after receiving service of process, provide
+all reasonable assistance to NetSolve and allow NetSolve to control
+any resulting litigation and/or settlement negotiations. If a claim of
+infringement described in this Section 13b does occur, or in
+NetSolve's opinion is likely to occur, NEC will permit NetSolve, at
+its option and expense:
+
+i)   To modify the system or Licensed Products so that it no longer
+infringes while performing substantially the same function and
+provided that it has minimal impact on the current Customers;
+
+ii)  To obtain for NEC the right to continue using the system or
+Licensed Products; or,
+
+iii) If i) or ii) are not reasonably procurable, require NEC to return
+the System or Licensed Products.
+
+NetSolve shall have no obligation with respect to any such claim of infringement
+based upon NEC's modification of any Licensed Products or other Licensed
+Products or their combination, operation or use with apparatus, data or computer
+programs not furnished by NetSolve. NEC will indemnify, hold harmless and defend
+NetSolve at its own expense against any claim of patent, copyright, trademark or
+trade secret infringement based on (A) algorithms or software code incorporated
+in the Licensed Products at NEC's request; and (B) NEC's use of the Licensed
+Products with other systems, software, algorithms, or similar items.
+
+c)   Limitation: Notwithstanding the provision of Subsection l3b above or
+any other provision to the contrary, NetSolve assumes no liability for
+(i) any infringement in connection with any assembly, circuit,
+combination, method or process in which any Licensed Product is used
+when such infringement would not arise from the Licensed Products
+standing alone; (ii) any trademark, service mark or trade name
+infringement involving any marking or branding not applied by NetSolve
+or involving the modification or servicing of the Licensed Products,
+or any part thereof, unless such modification or servicing was done by
+NetSolve and not at the request of NEC; (iii) modifications made to
+Licensed Products at NEC's request.
+
+d)   Entire Liability: The foregoing provisions of this Section 13 state
+the entire liability and obligations of NetSolve and the exclusive
+remedy of NEC and its customers with respect to any alleged
+infringement of patents, copyrights, trademarks, trade secrets or
+other intellectual property rights by the Licensed Products or any
+part thereof.
+
+9
+<PAGE>
+
+14.  Foreign Law Representations, Warranties and Obligations:
+
+a)   Foreign Corrupt Practices Act:  In conformity with the United States
+Foreign Corrupt Practices Act and with NEC's established corporate
+policies regarding foreign business practices, NEC and its officers,
+directors, employees and agents shall use only legitimate business and
+ethical practices in commercial operations and in dealing with
+governmental authorities. NEC and its officers, directors, employees
+and agents shall not directly or indirectly make an offer, payment,
+promise to pay, or authorize payment of money, or offer a gift,
+promise to give or authorize the giving of anything of value for the
+purpose of influencing an act or decision (including a decision not to
+act) of a government official or employee or any political party, or
+candidate for political office of (i) any country in which NEC sells
+or intends to sell the Licensed Products or (ii) the United States
+Government, or inducing such a person to use his influence to affect
+any such governmental act or decision in order to assist NEC in
+obtaining, retaining or directing any such business (any such act
+being a "Prohibited Payment"). NEC hereby represents and warrants
+that, in connection with the performance of this Agreement, NEC and
+its officers, directors, employees, and agents, have not and will not
+pay, offer, provide or authorize, directly or indirectly, a Prohibited
+Payment.
+
+b)   Export Responsibilities:  NEC understands that NetSolve is subject to
+regulation by agencies of the U.S. government, including the U.S.
+Department of Commerce, which prohibit export or diversion of certain
+technical products to certain counties, NetSolve's obligations under
+this Agreement are subject to such regulations. Both parties represent
+and warrant that they will comply in all respects with the export and
+re-export restrictions applicable to the Licensed Products and
+NetSolve Documentation covered by this Agreement.
+
+c)   Language:  This Agreement is in the English language only, which
+language shall be controlling in all respects. No translation, if any,
+of this Agreement into any other language shall be of any force or
+effect in the interpretation of this Agreement or in determination of
+the interests of either party hereto. Furthermore, the parties agree
+that all correspondence, notices, orders, claims, suits and other
+communication between the parties hereto shall be written or conducted
+in English.
+
+15.  Additional Obligations of NetSolve
+
+a)   Product Customization:  NetSolve, at its sole discretion, may agree to
+provide product customization services to NEC. Any such services will
+be provided at a price to be mutually agreed upon..
+
+b)   Product Updates:  Following the completion of product customization
+services performed on Licensed Products under provisions of Section
+15a, if any, NetSolve will provide to NEC at no additional charge, an
+updated version of the new software which shall be subject to all of
+the provisions of this Agreement which applied to the original version
+of the Licensed Products.
+
+c)   Language Translation:  NetSolve should assist NEC to develop the
+Japanese language translation from English language of the Licensed
+product.
+
+16.  General Provisions:
+
+a)   Governing Law:  This Agreement shall be governed by and construed
+under the laws of the United States and the State of Texas, and
+excluding the United Nations Convention on the International Sale of
+Goods. Subject to subsection b below, the courts of the United States
+shall have exclusive jurisdiction to adjudicate any dispute arising
+out of this Agreement. Each of the parties waives trial by jury in any
+and all actions or proceedings in any court between them or to which
+they may be parties.
+
+c)   Choice of Forum and Waiver of Jury:  The parties hereby submit to the
+jurisdiction of, and waive any venue objections against, the United
+States District Court for the Western District of Texas, in any
+litigation arising out Of the Agreement.
+
+10
+<PAGE>
+
+d)   Entire Agreement:  This Agreement, including any attached exhibits or
+agreements, sets forth the entire agreement and understanding of the
+parties relating to the subject matter hereof and supersedes and
+replaces all prior discussions and communications between them
+(whether oral or in writing). No modification of or amendment to this
+Agreement, nor any waiver of any rights under this Agreement will be
+effective unless set forth in writing, signed by officers of both
+parties.
+
+e)   Notices:  Any notice required or permitted by this Agreement will be
+in writing and will be sent by prepaid, registered or certified mail,
+return receipt requested, or overnight delivery service, or facsimile
+or E-mail addressed to the designated program manager of the other
+party at the address shown at the beginning of this Agreement or at
+such other address for which such party gives notice hereunder. Such
+notice will be deemed to have been given upon delivery if by overnight
+delivery, facsimile or E-mail, or five (5) calendar days if by mail.
+Both parties shall designate an individual who shall serve as the
+program manager and who shall receive all such notices and shall
+coordinate the relationship of the parties. NetSolve's initial program
+manager shall be Mark Rammer. NEC's initial program manager shall be
+Masatomo Oka.
+
+f)   Force Majeure:  Nonperformance of either party will be excused to the
+extent that performance is rendered impossible by strike, fire, flood,
+governmental acts or orders or restrictions, failure of suppliers, or
+any other reason where failure to perform is beyond the control and
+not caused by the negligence of the non-performing party.
+
+g)   Assignment and Binding Effect:  Neither NEC nor NetSolve may transfer
+or assign its rights of obligations under this Agreement without the
+prior written consent of the other party. Subject to the foregoing
+sentence, this Agreement will be binding upon and inure to the benefit
+of the parties hereto, their successors in interest and assigns.
+
+h)   Independent Contractors:  It is understood that both parties hereto
+are independent contractors engaged in the operation of their own
+businesses. Neither party hereto is to be considered the agent of the
+other party for any purpose whatsoever, and neither party has any
+authority to enter into any contracts or assume any obligations for
+the other party or make any warranties or representations for the
+other party.
+
+i)   Press Release:  The parties intend to issue a public announcement of
+their relationship with the content and timing thereof to be mutually
+agreed upon.
+
+j)   Partial Invalidity:  If any provision of this Agreement is hold to be
+invalid by a court of competent jurisdiction, then the remaining
+provisions will nevertheless remain in full force and effect.
+
+k)   No Waiver:  The failure of either party to enforce at any time and
+of the provisions of this Agreement, or the failure to require, at any
+time, performance by the other party of any of the provisions of this
+Agreement, will in no way be construed to be a present or future
+waiver of such provisions, nor in any way affect the ability of either
+party to enforce each and every such provision thereafter.
+
+l)   Counterparts:  This Agreement may be executed in two or more
+counterparts, each of which will be deemed an original and all of
+which together will constitute one instrument.
+
+m)   Construction:  This Agreement is the product of negotiation between
+the parties and their respective counsel. The Agreement will be
+interpreted fairly in accordance with its terms and conditions and
+without any strict construction in favor of either party. Any
+ambiguity will not be interpreted against the drafting party.
+
+n)   Conditions Precedent:  This Agreement is subject to NetSolve's
+confirmation through NetSolve's Japanese counsel that the terms and
+conditions hereof, including the governing law, jurisdiction and
+dispute settlement provisions set forth herein, are enforceable under
+Japanese law.
+
+11
+<PAGE>
+
+IN WITNESS WHEREOF, NEC and NetSolve have executed this Agreement through their
+duly authorized representatives as of the day first written above.
+
+NETSOLVE, INCORPORATED              NEC Corporation
+("NetSolve")                        ("NEC")
+
+
+/s/ Craig S. Tysdal                 /s/ D. Minato
+Signature                           Signature
+
+
+Craig S. Tysdal                     Daisaku Minato
+Printed Name                        Printed Name
+
+
+President & CEO                     General Manager
+Title                               Title
+
+
+12/21/2000                          21 DEC 2000
+Date                                Date
+
+12
+<PAGE>
+
+SCHEDULE A
+
+LICENSED PRODUCTS -
+The Licensed Products covered by this Agreement shall include the following:
+All necessary NetSolve Products and methodology except third party products to
+perform Prowatch for WAN and Prowatch for LAN services in Japan.  Detail should
+be completed and mutually upon no later than February 16,2001.
+
+The Licensed Products shall not include any source code.
+
+13
+<PAGE>
+
+SCHEDULE B
+
+FEES
+
+1.  License Fee:              US$*
+NEC shall pay such one time license fee as
+follows: (i) US$* no later than January 31, 2001;
+and (ii) the remaining US$* within twenty (20)
+business days after acceptance of the Licensed
+Products under the provisions of, and in
+accordance with the procedures set forth in,
+Section 3a).
+
+2.  Royalty Fee:              US $* per month per device for all standard
+managed WAN and LAN devices, plus an additional US
+$* per month for each port over 24 for managed LAN
+devices that have over 24 ports during the first
+year of the term of this Agreement. After the
+first year of the term of this Agreement the
+additional amount for each port over 24 may Be
+adjusted by mutual agreement if it determines that
+market conditions warrant such adjustment.
+
+Beginning with the first day of the month
+following the date on which NEC accepts the
+Licensed Products, for each three (3) month period
+during the term of this Agreement, and promptly
+upon the termination of this Agreement, NEC shall
+submit an accounting of units of such devices
+monitored at anytime during the previous three (3)
+months ("Reporting Period"). The accounting shall
+be made within thirty (30) days after the end of
+each Reporting Period and, within sixty (60) days
+of the end of each Reporting Period, NEC shall
+issue payment of the applicable Royalty Fee to
+NetSolve.
+
+3. Software Maintenance Fee:  US $* each year during the term of this Agreement
+and payable in semiannual installments with the
+first such installment to be made on the first day
+of the month following acceptance of the Licensed
+Products under the provisions of, and in
+accordance with the procedures set forth in,
+Section 3a) on each June 30 and December 31 during
+the term of this Agreement.
+
+*    Certain confidential information on this page has been omitted and filed
+separately with the Securities and Exchange Commission.
+
+14
+<PAGE>
+
+SCHEDULE C
+
+SUPPORT SERVICES
+
+ON-SITE TECHNICAL, TRAINING, AND   INSTALLATION SUPPORT:
+
+NetSolve agrees to provide on-site support in accordance with the following
+rates:
+
+$* per day per person not to exceed $* per month per person, plus actual
+expenses.
+NEC is responsible for the costs associated with creating the class room
+environment.
+
+AUSTIN BASED TRAINING SUPPORT
+
+$* per day for classes not to exceed 10 people.
+
+
+
+*    Certain confidential information on this page has been omitted and filed
+separately with the Securities and Exchange Commission.
+
+15
+

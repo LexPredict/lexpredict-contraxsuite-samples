@@ -1,0 +1,761 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.4
+
+SERVER SOFTWARE
+LICENSE AGREEMENT
+
+This License Agreement, dated as of November 14, 2000 (this
+"Agreement"), is made by and between Dassault Systemes, a societe anonyme
+organized under the laws of France and the owner of Purchaser ("Dassault
+Systemes") and/or certain affiliates of Dassault Systemes, and PlanetCAD Inc.
+(formerly known as Spatial Technology Inc.), a corporation organized under the
+laws of the State of Delaware ("PlanetCAD") (each a "Party," together, the
+"Parties").
+
+WITNESSETH:
+
+WHEREAS, PlanetCAD, SPATIAL COMPONENTS, LLC and DASSAULT SYSTEMES CORP.
+entered into a certain Purchase Agreement, dated July 4, 2000 ("Purchase
+Agreement"), pursuant to which DASSAULT SYSTEMES CORP. acquired the Component
+Business (as defined in the Purchase Agreement) from PlanetCAD and SPATIAL
+COMPONENTS, LLC, including certain software; and
+
+WHEREAS, in connection with the Purchase Agreement and as a condition
+to closing the transaction contemplated thereunder PlanetCAD has agreed to
+license its Server Software (as defined below) to Dassault Systemes and to
+provide certain software support and maintenance services in connection
+therewith, all in accordance with the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the premises and the mutual
+agreements and covenants set forth in the Purchase Agreement and in this
+Agreement, and intending to be legally bound hereby, the Parties hereby agree as
+follows:
+
+1.       DEFINITIONS
+
+As used in this Agreement, the terms defined in this Section shall have the
+following respective meanings. Capitalized terms not otherwise defined herein
+shall have the same meanings as set forth in the Purchase Agreement.
+
+AFFILIATE(S) shall mean, with respect to any specified Person, any other Person
+that, directly or indirectly Controls, is Controlled by, or is under common
+Control with such Person.
+
+ASP(S) shall mean for this Agreement, application services provider, i.e.
+service(s) offered on line, through Web sites or as enterprise versions offered
+on corporate Intranets, allowing end users to use an application software
+functionality, provided by either party on its Web site or on a corporate server
+in the case of enterprise versions, on a one task at a time or subscription
+basis, and charged to the end user as such, with no access to the underlying
+software application that allows the technical work of the task to be performed.
+
+CNDA shall mean the Confidential and Non-Disclosure Agreement among, inter alia,
+PlanetCAD and Dassault Systemes executed contemporaneously herewith.
+
+<PAGE>   2
+
+
+COMPETITOR shall mean any Person of which a significant part of its business is
+building, developing or providing server software or Web middleware services to
+third parties in the CAD/CAM field.
+
+CONTROL, with respect to the relationship between or among two or more Persons,
+shall mean the possession, directly or indirectly, or as trustee or executor, of
+the power to direct or cause the direction of the affairs or management of a
+Person, whether through the ownership of voting securities, as trustee or
+executor, by contract or otherwise, including, without limitation, the
+ownership, directly or indirectly, of securities having the power to elect a
+majority of the board of directors or similar body governing the affairs of such
+Person; provided that neither PlanetCAD nor Dassault Systemes shall be deemed to
+be controlled by any other Person or under common control with any Person that
+is not one of their respective subsidiaries.
+
+DERIVATIVE WORK(S), means, related to Software, a work which is based upon in
+whole or in part of such Software, such as a revision, enhancement,
+modification, translation, abridgment, condensation, expansion, or any other
+form in which such Software may be recast, transformed, or adapted, or which, if
+prepared without authorization of the owner of the copyright or other
+intellectual property right in such Software, would constitute a copyright
+infringement or other violation of the intellectual property rights. A
+Derivative Work shall also include, without limitation, compilations or
+link-edits, improvements, bug fixes, corrections, look and feel changes,
+upgrades, updates and new versions that incorporate such Software in whole or
+part.
+
+EFFECTIVE DATE is November 14, 2000.
+
+INTELLECTUAL PROPERTY shall mean (a) inventions, whether or not patentable,
+whether or not reduced to practice, and whether or not yet made the subject of a
+pending patent application or applications, (b) ideas and conceptions of
+potentially patentable subject matter, including without limitation, any patent
+disclosures whether or not reduced to practice and whether or not yet made the
+subject of a pending patent application or applications, (c) Patents, (d)
+Trademarks, (e) copyrights (registered or otherwise) and registrations and
+applications for registration thereof, all moral rights of authors therein, and
+all rights therein provided by international treaties, conventions or common
+law, (f) Software, (g) Trade Secrets, and (h) all rights to sue and recover
+damages and obtain injunctive relief for past, present and future infringement,
+dilution, misappropriation, violation or breach thereof.
+
+KNOW-HOW shall mean all residual information of a non-tangible form, which is
+not protected by the United States or European Union laws of copyright, patent
+or trade secrets and which may be retained by a party who has had access to
+confidential and proprietary information of the other party, including ideas,
+concepts or techniques contained therein.
+
+OBJECT CODE shall mean computer-programming code, substantially or entirely in
+binary form, that is directly executable by a computer after suitable
+processing, but without the intervening steps of assembly, compilation or
+link-edit.
+
+PERSON(S) shall mean any individual or legal entity, including without
+limitation, partnership, corporation, association, trust or unincorporated
+organization.
+
+<PAGE>   3
+
+
+RUN-TIME shall designate all software materials and databases that are necessary
+to use any Software as well as this Software itself.
+
+SERVER SOFTWARE means all software, including without limitation, Web interface,
+Web middleware, Web dynamic content billing, Web content generation software,
+and any Derivative Works thereof that is used by PlanetCAD to provide
+application services over the Internet, including all upgrades, enhancements or
+updates delivered under the maintenance and support terms of this Agreement. The
+list of all such Software, including the Third Party Software, as of the date of
+execution of this Agreement, is attached in Schedule A which will be updated by
+PlanetCAD when reasonably requested by Dassault Systemes and when in PlanetCAD's
+determination significant changes have been made.
+
+SOFTWARE shall mean any computer software program, including programming-code,
+on-line documentation, if any, user interface related thereto or associated
+therewith, to the extent that such user interface does exist, and related user
+and installation documentation other than on-line documentation associated with
+this computer software program.
+
+SOURCE CODE shall mean computer-programming code and related system
+documentation, comments and procedural code, that is not directly executable by
+a computer but which may be printed out or displayed in a form readable and
+understandable by a qualified programmer.
+
+THIRD PARTY SOFTWARE shall mean computer software programs owned by a party
+other than PlanetCAD and incorporated into or currently used by PlanetCAD in
+connection with the Server Software.
+
+2.       PURPOSE
+
+Subject to the terms and conditions herein, PlanetCAD agrees to license the
+Server Software and to provide certain maintenance and support services in
+connection therewith to Dassault Systemes.
+
+3.       OWNERSHIP RIGHTS AND LICENSES
+
+3.1      Server Software.
+
+3.1.1    Ownership of Server Software. Except for the limited
+rights granted Dassault Systemes in this Section 3,
+all right, title and interest in and to the Server
+Software and Derivative Works thereof created under
+this Agreement by PlanetCAD shall remain with
+PlanetCAD.
+
+3.1.2    License to Server Software. As of the Effective Date
+and except as provided for in Section 9.18, PlanetCAD
+grants to Dassault Systemes a perpetual,
+non-transferable, non-exclusive, worldwide license to
+use the Object Code and Source Code of the Server
+Software internally to enable Dassault Systemes to
+offer to its customers on line ASPs (Application
+
+<PAGE>   4
+
+
+Services Provider) and other products or services
+that incorporate or are based upon the Server
+Software. This license shall further permit Dassault
+Systemes to sell, distribute, use, license, maintain,
+support and make Derivative Works of the Server
+Software in connection with products or services
+created by or for Dassault Systemes. Notwithstanding
+the foregoing, Dassault Systemes shall not have the
+right hereunder to reproduce, sell or distribute the
+Server Software or Derivative Works except to the
+extent the Server Software is incorporated in and
+necessary to run such Dassault Systemes products or
+services. Dassault Systemes will have no right to
+transfer this license to any third party for use on
+any third party Web site. For purposes of this
+Section, a Dassault Systemes Affiliate shall not be
+deemed to be a third party, for as long as it remains
+an Affiliate.
+
+3.1.3    Third Party Software. Schedule B sets forth (i) a
+list of Third Party Software development tools used
+in creating the Server Software and (ii) all other
+Third Party Software used by PlanetCAD in connection
+with or relating to the Server Software. It is
+understood by the parties that (i) PlanetCAD will not
+be assigning or granting any licenses to Dassault
+Systemes in or to such Third Party Software and (ii)
+to the extent Dassault Systemes would like to use
+such Third Party Software in connection with Dassault
+Systemes' use of the Server Software licensed
+hereunder, Dassault Systemes must obtain an
+independent license therefore.
+
+3.2      Derivative Works.
+
+3.2.1    Delivery of Derivative Works
+
+(i)      At the end of each quarter, in the event that
+Dassault Systemes has made any Derivative Work from
+the Server Software, Dassault Systemes shall deliver
+to PlanetCAD one copy of the Source Code of such
+Derivative Work, in a sealed and dated envelope, in
+the form of a CD-ROM, or other appropriate media.
+
+(ii)     Such items shall be sent to PlanetCAD by
+international registered mail to the following
+address:
+
+
+<PAGE>   5
+
+
+
+PlanetCAD Inc.
+2520 55th Street, Suite 200
+Boulder, Colorado 80301
+Attn. Office of the President
+
+(iii)    PlanetCAD shall have no obligation to include and/or
+maintain all or part of the Derivative Works of the
+Server Software made by Dassault Systemes.
+
+(iv)     The rights and obligations of the Parties contained
+in this Section 3.2.1 shall automatically terminate
+upon discontinuation of maintenance and support
+services by PlanetCAD pursuant to Sections 4.1, 4.2,
+8.2 or 9.17(a).
+
+3.2.2    Ownership of Derivative Works. The Parties agree that
+all right, title and interest in and to all or part
+of the Derivative Works of the Server Software made
+by Dassault Systemes pursuant to Section 3.2.1(i)
+shall be owned exclusively by PlanetCAD. Dassault
+Systemes understands and agrees that such Derivative
+Works of the Server Software made by Dassault
+Systemes, as well as any portion thereof, shall be
+the sole property of PlanetCAD from date of creation
+and, to the extent permitted by law, shall be
+considered as works made for hire under the copyright
+laws of the United States of America. To the extent
+an assignment is necessary and that this assignment
+cannot be made at present, Dassault Systemes agrees
+to assign to PlanetCAD all of its right, title and
+interest in and to these Derivative Works, and any
+part thereof, and in and to all copyrights, patents
+and other proprietary rights Dassault Systemes may
+have in such Derivative Works.
+
+The Parties however agree that Dassault Systemes
+shall remain the owner of such Derivative Work should
+such Derivative Work be Software (i) developed by or
+for Dassault Systemes and using all or part of the
+Server Software as a component of an application or
+service (i.e. embedded or included in whole or in
+part in such other Software), and (ii) as long as
+such Software or service contains new functionality,
+significant value added, or creates a new function
+that is packaged as a standalone product and which
+user interface is different from the existing Server
+Software. The Parties also agree that application of
+an alternative interface technology if this interface
+is not combined with other significant application
+level functionalities shall not be considered as
+having significant added value.
+
+<PAGE>   6
+
+
+3.2.3    License Grant to Derivative Works. Effective upon
+delivery of each Derivative Work as contemplated by
+Section 3.2.1(ii), PlanetCAD hereby grants to
+Dassault Systemes a perpetual, worldwide,
+irrevocable, non-exclusive license to use, prepare,
+compile, install, execute, access, reproduce,
+distribute and sell the Derivative Works delivered by
+Dassault Systemes under Section 3.2.1(i), subject to
+the royalty fees set forth in Section 5.1.
+
+3.3      Know-How. The parties hereby acknowledge and agree that any
+and all rights to Know-How developed or shared under this
+Agreement by either Party shall be jointly owned by the
+Parties and may be used by either party in the operation of
+their respective businesses during and following termination
+of this Agreement.
+
+3.4      Trademarks. Notwithstanding any other provisions of this
+Agreement, neither Party shall have the right under this
+Agreement to use the other Party's trademarks or trade names
+in connection with any product, service, promotion, public
+announcement, advertisement or other publication, without
+securing the prior written consent of such other Party.
+
+4.       MAINTENANCE AND SUPPORT
+
+4.1      Maintenance and Support for the Server Software. Subject to
+Sections 4.2, 8.2 and 9.17(a), PlanetCAD shall provide
+Dassault Systemes with four years maintenance and support for
+the Server Software, beginning at the Effective Date. The
+description of maintenance and support services to be provided
+by PlanetCAD is set forth in the Maintenance and Support
+Services Schedule, attached hereto as Schedule C and
+incorporated herein by reference.
+
+4.2      Change of Control of Dassault Systemes. PlanetCAD will not be
+required to continue providing maintenance or support
+services, as set forth in Schedule C, for the Server Software
+if there is a change of Control of Dassault Systemes to the
+benefit of a Competitor of PlanetCAD.
+
+5.       ROYALTY FEES
+
+5.1      Royalties on Server Software. [REDACTED PURSUANT TO A REQUEST
+FOR CONFIDENTIAL TREATMENT UNDER RULE 24b-2 OF THE GENERAL
+RULES AND REGULATIONS UNDER THE SECURITIES EXCHANGE ACT.
+OMITTED INFORMATION HAS BEEN FILED WITH THE SECURITIES AND
+EXCHANGE COMMISSION TOGETHER WITH SUCH REQUEST FOR
+CONFIDENTIAL TREATMENT.]
+
+5.2      Definition of Net Revenue. Net Revenue shall consist of all
+revenues recognized by Dassault Systemes from the sale of
+Dassault Systemes services or products incorporating or
+facilitated by the Server Software, including the price paid
+by the
+
+<PAGE>   7
+
+
+customers, less any applicable discounts and net of any
+commissions or fees paid to third party resellers, to obtain
+access to such products or services and any other fees and
+charges invoiced by Dassault Systemes to the customers,
+without deduction by such party of any other costs or expenses
+related to achievement of the revenue, provided, however, that
+Net Revenue shall be reduced by the amount, if any, of (i)
+value-added taxes, (ii) sales taxes or (iii) withholding taxes
+imposed by any jurisdiction on payments made by a payor in
+such jurisdiction to a payee outside of such jurisdiction. Net
+Revenue will not include revenues recognized by Dassault
+Systemes for the sale of products or services authorized by or
+created under the Co-Branding Agreement and/or Web Services
+Agreement, executed by the Parties concurrently herewith,
+which allow for the use of the Server Software as set forth
+under the terms of each respective agreement.
+
+5.3      Initial License Fee. [REDACTED PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT UNDER RULE 24b-2 OF THE GENERAL RULES
+AND REGULATIONS UNDER THE SECURITIES EXCHANGE ACT. OMITTED
+INFORMATION HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE
+COMMISSION TOGETHER WITH SUCH REQUEST FOR CONFIDENTIAL
+TREATMENT.]
+
+5.4      Payments. All payments shall be made in U.S. dollars by bank
+check or electronic transfer to a bank account designated by
+PlanetCAD.
+
+5.5      Taxes. Dassault Systemes shall pay, without recourse to
+PlanetCAD, any and all applicable sales, use, excise, value
+added or other taxes or duties, howsoever designated, assessed
+or levied upon the execution or performance of this Agreement,
+by any United States or European taxing authority, except for
+taxes based on PlanetCAD'S net income.
+
+5.6      Audit and Reporting. Dassault Systemes shall, for two years
+following each transaction that is subject to royalty payments
+pursuant to Section 5.1, keep true and accurate records and
+books of account of such transaction containing all
+particulars which may be necessary for the purpose of auditing
+payments to PlanetCAD under this Agreement. During such two
+year period, and upon reasonable notice to Dassault Systemes,
+PlanetCAD shall have the right to have an audit conducted
+through a licensed independent accounting firm, of any
+billings, collections, and taxes on such itemized statement,
+and to examine the records and books of account of Dassault
+Systemes in connection therewith. Dassault Systemes will bear
+the costs of such audit if a discrepancy or error of
+computation in an amount greater than USD 10,000 in favor of
+PlanetCAD is identified. Any audit conducted pursuant to this
+Section 5.6 shall not be conducted in such a manner as to
+unreasonably interfere with the Dassault Systemes' operations
+and in no event shall an audit be conducted more frequently
+than once each year.
+
+<PAGE>   8
+
+
+6.       WARRANTIES AND DISCLAIMER OF WARRANTIES
+
+6.1      Mutual Representations. Each Party represents and warrants to
+the other Party that such Party:
+
+(i)      Has suitable agreements with its respective employees
+to meet the confidentiality obligations under this
+Agreement; and
+
+(ii)     It is under no obligation or restriction, and will
+not assume any obligation or restriction, that would
+prevent it from performing its obligations under this
+Agreement.
+
+6.2      PlanetCAD Representations. PlanetCAD represents and warrants
+to Dassault Systemes that it owns and/or has valid licenses in
+all rights, title and interest in and to the Server Software.
+
+6.3      DISCLAIMER OF WARRANTIES. THE FOREGOING WARRANTIES AND
+CONDITIONS ARE EXCLUSIVE OF, AND THE PARTIES DISCLAIM ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR ANY PARTICULAR PURPOSE, USE, OR REQUIREMENT.
+EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT, ANY
+INFORMATION OR MATERIALS FURNISHED BY EITHER PARTY TO THE
+OTHER ARE PROVIDED ON AN "AS IS" BASIS.
+
+7.       LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+7.1      LIMITATION OF LIABILITY. WITH THE EXCEPTION OF CLAIMS FOR (i)
+PERSONAL INJURY OR DEATH, (ii) INTELLECTUAL PROPERTY
+INFRINGEMENT INDEMNIFICATION, AS SET FORTH IN SECTION 7.2, AND
+(iii) THE CONFIDENTIALITY PROVISIONS SET FORTH IN SECTION 9.1:
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY SPECIAL,
+EXEMPLARY, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OF
+ANY KIND, INCLUDING ANY LOST PROFITS, LOST SAVINGS, LOST STAFF
+TIME OR OTHER ECONOMIC DAMAGES ARISING OUT OF OR IN CONNECTION
+WITH THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+7.2      Intellectual Property Infringement Indemnification. PlanetCAD
+agrees to hold Dassault Systemes, its subsidiaries,
+distributors, assignees and Affiliates, and their respective
+officers, directors, employees, agents, representatives and
+shareholders (collectively referred to in this Section as
+"Dassault Systemes") harmless from and against any claim of
+any nature, including, but not limited to, administrative,
+civil or criminal procedures, which is or may be made or
+raised against Dassault Systemes by any third party that the
+use or distribution of the Server Software that is the subject
+of this Agreement and owned by PlanetCAD, infringes or
+violates any third party's patent, copyright, trade secret or
+other intellectual property right
+
+<PAGE>   9
+
+
+in any country. Indemnification hereunder shall cover all
+damages, regardless of their nature, settlements, expenses and
+costs, including costs of investigation, court costs and
+attorneys' fees. The payment of any indemnification shall be
+contingent on:
+
+(i)      Dassault Systemes giving prompt written notice to
+PlanetCAD of any such claim or allegation;
+
+(ii)     Cooperation by Dassault Systemes with PlanetCAD in
+its defense against the claim; and
+
+(iii)    Dassault Systemes obtaining PlanetCAD's prior written
+approval of any settlement, if any, by the Dassault
+Systemes Indemnities of such matters, such approval
+not to be unreasonably withheld.
+
+Notwithstanding the foregoing, PlanetCAD shall not have the
+obligation to indemnify Dassault Systemes for any claims of
+infringement based on any modification by Dassault Systemes of
+the Server Software, or from the combination of the Server
+Software with any other program, to the extent such claim
+would not have arisen without such combination or from use of
+the unmodified Server Software.
+
+7.3      Additional Remedies. If the operation, distribution or use of
+the Server Software becomes, or is likely to become, the
+subject of a claim involving the infringement or other
+violation of any patent, copyright, trade secret, or other
+intellectual property rights of any third party, the Parties
+will jointly determine in good faith what appropriate steps
+can be agreed upon, with a view towards curing such
+infringement or other violation, at PlanetCAD's sole charge.
+Such steps may include, but are not limited to:
+
+(i)      PlanetCAD securing the right for Dassault Systemes to
+continue using the Server Software or
+
+(ii)     PlanetCAD replacing or modifying the Server Software
+so that it becomes non-infringing.
+
+If no other option is reasonably available, PlanetCAD agrees
+to use its best efforts to withdraw the infringing Software
+from the market.
+
+
+<PAGE>   10
+
+
+8.       TERM AND TERMINATION
+
+8.1      Term. This Agreement shall come into force as of the Effective
+Date, and shall remain valid until the expiration of the last
+copyright or other protection available in any Software herein
+licensed.
+
+8.2      Termination. Either Party may terminate this Agreement if the
+other Party fails to perform any of its material obligations
+under this Agreement, provided, however, that such termination
+shall only become effective after the non-breaching Party has
+given written notice to the other Party of such failure to
+perform, the breach being not cured within a sixty day period
+from receipt of the notice. Provisions of the following
+paragraphs shall survive any termination of this Agreement:
+3.4, 6, 7, 9.1, 9.3 and 9.4.
+
+9.       MISCELLANEOUS
+
+9.1      Confidentiality. All communications and information disclosed
+by one Party to the other Party under this Agreement shall be
+subject to the terms and conditions of the CNDA.
+Notwithstanding anything to the contrary in the CNDA, all
+information relating to the Source Code of the Server Software
+and Derivative Works thereof shall be deemed to be
+Confidential Information under the CNDA even though they are
+not marked confidential.
+
+9.2      Freedom of Action. Except as otherwise provided, nothing
+contained in this Agreement shall be construed to limit or
+impair any right of either Party to enter into similar
+agreements with other parties, or to develop, acquire, license
+or market, directly or indirectly, other products or services,
+competitive with those offered by the other Party.
+
+9.3      Additional Instruments. Notwithstanding termination of this
+Agreement, the Parties covenant and agree to execute and
+deliver any additional instruments or documents necessary to
+carry out the general intent of this Agreement, including
+without limitation patent assignments or any other assignments
+necessary to evidence the ownership of Intellectual Property
+contemplated hereby or any such additional instruments or
+documents, including such instruments as may be required by
+the laws of any jurisdiction, now or in effect or hereinafter
+enacted, that may affect a Party's rights, title or interest,
+as applicable, in and to any of the software governed hereby.
+
+9.4      Irreparable Injury. Each Party acknowledges and agrees that
+each covenant in this Agreement pertaining to confidential
+information and ownership of intellectual property is
+reasonable and necessary to protect and preserve the rights of
+the other Party in its confidential information and
+intellectual property, and that any breach by such Party of
+the terms of this Agreement may result in irreparable injury
+to the other Party. Each Party, therefore, subject to a claim
+of laches, estoppel, acquiescence or other delay in seeking
+relief, consents and agrees that
+
+<PAGE>   11
+
+
+the other Party shall be entitled to seek and obtain a
+temporary restraining order and a permanent injunction to
+prevent a breach or contemplated breach of this Agreement and
+waives any requirement that the other Party post a bond in
+connection with seeking such injunctive relief.
+
+9.5      Relationship of the Parties. PlanetCAD and Dassault Systemes
+are independent contractors, and nothing in this Agreement
+will create any partnership, joint venture, agency, franchise,
+sales representative, or employment relationship between the
+Parties. Neither Party has the authority to act as agent for
+the other Party or to conduct business in the name of such
+other Party or make statements, warranties or representations
+that exceed or are inconsistent with the warranties provided
+hereunder.
+
+9.6      Notices. All notices required or permitted shall be given in
+writing, in the English language, and shall be deemed
+effectively delivered upon personal delivery or three days
+after deposit with a carrier by registered mail or other
+equivalent service, postage prepaid, return receipt requested,
+addressed as follows, or to such other address as either Party
+may designate to the other:
+
+<TABLE>
+
+<S>                                <C>
+In the case of PlanetCAD :         PlanetCAD Inc.
+2520 55th Street, Suite 200
+Boulder, Colorado 80301
+Attn. Office of the President
+
+In the case of Dassault Systemes:  Dassault Systemes
+9 Quai Marcel Dassault
+92150 Suresnes
+Attn. Thibault De Tersant
+cc: Law Department
+</TABLE>
+
+
+9.7      Headings. The descriptive headings contained in this Agreement
+are for convenience of reference only and shall not affect in
+any way the meaning or interpretation of this Agreement.
+
+9.8      Severability. If any term or other provision of this Agreement
+is deemed invalid, illegal or incapable of being enforced by
+any law or public policy, all other terms and provisions of
+this Agreement shall nevertheless remain in full force and
+effect so long as the economic or legal substance of the
+transactions contemplated hereby is not affected in any manner
+materially adverse to any Party.
+
+9.9      Entire Agreement. This Agreement, together with the Schedules
+attached hereto, constitutes the entire agreement of the
+Parties with respect to the subject matter hereof and
+supersedes all prior agreements and undertakings, both written
+and oral, between Dassault Systemes and PlanetCAD with respect
+to the subject matter hereof.
+
+<PAGE>   12
+
+
+9.10     Amendment. This Agreement may not be amended or modified
+except by an instrument in writing signed by, or on behalf of,
+duly authorized representatives of Dassault Systemes and
+PlanetCAD.
+
+9.11     Applicable Law, Venue. This Agreement shall be governed by,
+and construed in accordance with, the Laws of the State of New
+York, applicable to contracts executed in and to be performed
+entirely within that state (without regard to the conflicts of
+Law provisions thereof). This Agreement shall not be governed
+by the U.N. Convention on Contracts for the International Sale
+of Goods. The parties hereto hereby (a) submit to the
+exclusive jurisdiction of any court of competent jurisdiction
+sitting in the State of Delaware, The City of Wilmington for
+the purpose of any Action arising out of or relating to this
+Agreement brought by any party hereto, and (b) agree, to the
+fullest extent permitted by applicable law, to waive, and not
+to assert by way of motion, defense, or otherwise, in any such
+Action, any claim that is not subject personally to the
+jurisdiction of the above-named courts, that its property is
+exempt or immune from attachment or execution, that the Action
+is brought in an inconvenient forum, that the venue of the
+Action is improper, or that this Agreement may not be enforced
+in or by any of the above-named courts.
+
+9.12     Waiver of Jury Trial. EACH OF THE PARTIES HERETO HEREBY WAIVES
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT
+MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY ACTIONS OR
+PROCEEDINGS DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN
+CONNECTION WITH THIS AGREEMENT, OR THE TRANSACTIONS
+CONTEMPLATED HEREUNDER.
+
+9.13     Counterparts. This Agreement may be executed in one or more
+counterparts, each of which when executed shall be deemed to
+be an original but all of which taken together shall
+constitute one and the same agreement.
+
+9.14     No Waiver. The failure of either Party to enforce any
+provision of this Agreement shall not constitute a waiver of
+the right to subsequently enforce such provision, or any other
+provision of this Agreement.
+
+9.15     Force Majeure. Neither Party shall be held liable for any
+failure to perform any of its obligations under this Agreement
+for as long as, and to the extent that such failure is due to
+an event of force majeure. An event of force majeure shall
+include general strikes, lockouts, acts of God, acts of war,
+mobilization of troops, fire, extreme weather, flood, or other
+natural calamity, embargo, acts of governmental agency,
+government or any other laws or regulations.
+
+9.16     Expenses. Except as expressly provided for in this Agreement,
+each Party shall bear its own expenses incurred in connection
+with this Agreement, including without limitation travel and
+living expenses incurred by that Party's employees.
+
+<PAGE>   13
+
+
+9.17     Assignment; Subcontracting; Third Party Beneficiaries.
+
+(a)     This Agreement may be assigned or otherwise transferred by
+operation of law or otherwise without the express written
+consent of PlanetCAD and Dassault Systemes, but in such event
+the assigning Party shall give notice to the non-assigning
+Party and the non-assigning Party shall have the right to
+terminate its maintenance and support obligations under this
+Agreement within the 30 day period following receipt of such
+notice.
+
+(b)     Either Party may assign or otherwise transfer all or part of
+this Agreement to any of its Affiliates, for so long as it
+remains an Affiliate; provided that no such assignment shall
+relieve a Party of any of its obligations under this
+Agreement. In the event there is a change of Control of an
+Affiliate which terminates its status as an Affiliate of the
+party to this Agreement, and this Agreement has been assigned
+to such an Affiliate, this Agreement shall be assigned back to
+the party within 6 months of the effective date of the change
+of Control.
+
+(c)     Either Party may subcontract services necessary to perform the
+obligations set forth in this Agreement provided that any and
+all such subcontrators shall have entered into agreements with
+the subcontracting Party sufficient to enable that Party to
+comply with all terms and conditions of this Agreement. In
+addition, any such subcontractors shall not have access to
+Source Code, unless agreed to by the Parties.
+
+(d)     This Agreement shall be binding upon and inure solely to the
+benefit of the Parties hereto and their permitted assigns,
+subcontractor or transferee, and nothing herein, express or
+implied, is intended to or shall confer upon any other person,
+including, without limitation, any union or any employee or
+former employee of either Party, any legal or equitable right,
+benefit or remedy of any nature whatsoever, including, without
+limitation, any rights of employment for any specified period,
+under or by reason of this Agreement.
+
+9.18     Third Party Licenses. Each party is relieved of its
+obligations, if any, to (i) deliver the Source Code of a
+product licensed hereunder or (ii) authorize the creation of
+Derivative Works from Source Code hereunder to the extent that
+fulfilling such obligations would cause such party to breach
+any third party license agreement entered into by such party
+after the Effective Date.
+
+
+<PAGE>   14
+
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be
+executed in duplicate originals by their duly authorized officers or
+representatives.
+
+In Paris, on November 14, 2000
+
+For PlanetCAD Inc.                           For Dassault Systemes
+
+Its: Chief Executive Officer                 Its: Executive Vice President
+Name: R. Bruce Morgan                        Name: Thibault de Tersant
+
+Signature: /s/ R. Bruce Morgan               Signature: /s/ Thibault de Tersant
+

@@ -1,0 +1,548 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+Exhibit 2.3
+
+CONFIDENTIAL
+
+Software License Agreement
+
+This Software License Agreement ("Agreement"), is entered into by and between
+Cisco Systems, Inc. ("CISCO"), a California corporation, having a principal
+place of business at 170 West Tasman Drive, San Jose, CA 95134-1706 and CAIS,
+Inc. ("LICENSEE"), a Virginia corporation, having a principal place of business
+at 1255 22/nd/ Street, N.W., Washington, DC 20037.
+
+WHEREAS, pursuant to that certain asset purchase agreement (the "Purchase
+Agreement") executed on October __, 2000, by, inter alia, CISCO, LICENSEE, CAIS
+Internet, Inc. ("CII") and CAIS Software Solutions, Inc. ("CSS"), CISCO is
+acquiring from CSS and LICENSEE and CSS and LICENSEE is selling to CISCO certain
+business assets.
+
+WHEREAS, pursuant to the Purchase Agreement, CISCO is acquiring from CSS and CSS
+is selling to CISCO certain Software (as defined herein).
+
+WHEREAS, prior to CISCO's acquisition of the Software from CSS, CSS licensed to
+LICENSEE a specified number of object code copies of the Software.
+
+WHEREAS, CISCO and LICENSEE (together, the "parties") desire that CISCO
+relicense to LICENSEE a specified number of object code copies of the Software
+that were originally licensed to LICENSEE by CSS, subject to the terms and
+conditions of this Agreement.
+
+WHEREAS, the Agreement shall become effective as of _________, the Closing Date
+as defined in the Purchase Agreement ("Effective Date").
+
+
+NOW THEREFORE, in consideration of the foregoing and of the mutual promises
+hereinafter expressed, the parties do mutually agree as follows:
+
+
+1.   Definitions.
+
+1.1. "Customer"  means the person or entity having ownership or control
+over any Site with which LICENSEE has entered into an agreement prior the
+Effective Date to provide Internet Access.
+
+1.2. "Internet Access" means the services offered by LICENSEE to the
+Customer whereby LICENSEE enables the Customer's Site with high speed
+Internet access through the Software.
+
+1.3. "Order Form"  means a written form, substantially in the form of
+Exhibit C, separately agreed upon by both parties, that describes services
+ordered.
+
+1.4. "Site" means a hotel, apartment complex, facility, or any other
+properties.
+
+1.5. "Software" means the software product(s) listed on Exhibit A and any
+updated, improved, or otherwise modified versions, releases or upgrades of
+such a program and any related materials, in machine readable and/or
+printed form, licensed to LICENSEE by CISCO under this Agreement.
+
+1.6. "Software Maintenance" means maintenance, or technical support or any
+other services offered by Cisco as set forth in Exhibit B attached hereto.
+
+1.7. "System" means a combination of computer hardware and peripheral
+devices, operating system software, device drivers, 3rd party software
+programs, and computer graphic elements combined with the Software, as
+defined in Section 1.3.
+
+2.   License Grant.  Subject to the terms and conditions of this Agreement,
+CISCO hereby grants to LICENSEE a non-transferable, nonexclusive, royalty
+free, fully paid-up right to use up to 1,500 copies, in object code form
+only, of the Software in providing Internet Access to Customers for the
+Term (as defined herein). The licenses granted pursuant to this Agreement
+will be only for one computer per object code copy of the Software.
+
+1
+<PAGE>
+
+CONFIDENTIAL
+
+
+3.   License Restrictions.  LICENSEE shall not copy the Software except that it
+may make one copy of the Software, in object code form only, solely for
+backup purposes; CISCO shall have no support obligations with respect to
+such backup copy. LICENSEE shall not (i) except as specifically provided in
+Section 17.2 of the Agreement, transfer, assign or sublicense its license
+rights to any other person or entity, and any such attempted transfer,
+assignment or sublicense shall be void; (ii) modify, incorporate into other
+software or create a derivative work of any part of the Software, or (iii)
+decompile, decrypt, reverse engineer, disassemble or otherwise reduce the
+Software to human-readable form to gain access to trade secrets or
+confidential information in the Software; (iv) redeploy or transfer any
+copy of the Software from providing Internet Access to one Customer or at
+one Customer's Site to providing Internet Access to another Customer or at
+another Customer's Site; (v) except in case of malfunctioning or defective
+computer hardware or system, transfer any copy of the Software from the
+computer hardware or system which such copy of the Software was installed
+or deployed as of the Effective Date to any other computer hardware or
+system; or (vi) export the Software or any copy or direct product thereof
+out of the United States except in compliance with any applicable export
+laws and regulations. LICENSEE recognizes and agrees that any breach of the
+preceding restrictions by LICENSEE shall constitute a material breach of
+this Agreement by LICENSEE, and, at the option of CISCO, shall result in
+immediate termination of all rights and licenses granted under this
+Agreement. LICENSEE further recognizes and agrees that nothing herein shall
+be construed as prohibiting CISCO from pursuing any and all remedies in the
+event of such breach or violation, and CISCO hereby expressly reserves such
+rights and remedies.
+
+4.   Branding. Upon and pursuant to CISCO's written request, LICENSEE shall
+place CISCO's "POWERED BY IPORT(TM)" trademark, shown below or as provided
+to LICENSEE by CISCO, configured as an active hyperlink to CISCO's Web
+site, http://www.cisco.com, on the first and second screens of the
+installed system such that the end user will view the mark in a 800x600
+screen without scrolling down, and the mark is at least as large as the
+dimensions shown below:
+
+[LOGO OF POWERED BY IPORT]
+
+5.   Copyright Notice/Cisco Branding. LICENSEE shall take reasonable steps to
+ensure that all copies of the Software in LICENSEE's possession or control
+incorporate copyright and other proprietary notices in the same manner that
+CISCO incorporates such notices in the Software or in any manner reasonably
+requested by CISCO. LICENSEE agrees and acknowledges that the "IPORT" mark
+(a registered Trademark of CISCO), and any variations thereof and certain
+other service marks, trademarks and trade names, and the goodwill therein,
+and that all licensed use of any of said marks by or on behalf of LICENSEE
+shall inure solely to the benefit of CISCO. LICENSEE shall have no claim or
+right in the name, logo, trademarks, or other marks ("Marks") of Cisco.
+LICENEE shall not make any claim to the Cisco Marks or lodge any filings
+with respect to such Marks or marks confusingly similar to the Marks,
+whether on behalf of CISCO or in its own name or interest, without prior
+written consent of CISCO. Upon CISCO's written request, LICENSEE shall
+immediately discontinue its use, if any, of any Cisco Mark.
+
+6.   Ownership and Proprietary Rights.  LICENSEE represents, warrants,
+acknowledges and agrees that CISCO has and will retain all right, title and
+interest, and all ownership, in and to the Software and documentation
+thereof, including but not limited to all patent, copyright, trade secret,
+proprietary and other intellectual property rights in the Software and any
+modifications and/or derivative works thereof. CISCO reserves the sole
+right to modify and update the Software. LICENSEE will not take any action
+that might impair or challenge in any way any right, title or interest of
+CISCO in any such CISCO intellectual property rights. LICENSEE must not
+alter or remove CISCO trade names, trademarks or copyright notices and any
+other proprietary notices or trademarks on each installed copy and on the
+backup copies.
+
+7.   Term and Termination. Unless earlier terminated as provided herein, the
+term of the Agreement will be for a period of five (5) years from the
+Effective Date. The term of licenses granted under this Agreement will be
+for a period of up to 5 years from the Effective Date. The license term of
+each copy of the Software shall terminate on the earlier of 5 years from
+the Effective Date or upon the termination or expiration of the then-
+current term of the agreement between LICENSEE and a certain Customer
+pursuant to which LICENSEE was using such copy of the Software to provide
+Internet Access to that certain Customer. Notwithstanding the foregoing,
+either party may terminate this Agreement upon 30 days notice if the other
+party fails to comply with any material provision of this Agreement and
+such failure is not cured within 30 days of written notice thereof to the
+non-complying party
+
+2
+<PAGE>
+
+CONFIDENTIAL
+
+
+8.   Effect of Termination.
+
+(a)  Upon termination of the Agreement, LICENSEE will immediately
+discontinue use of the Software and destroy or return to CISCO any and
+all copies of the Software and any Confidential Information in the
+possession of LICENSEE or LICENSEE's Customer(s) and certify to CISCO
+in writing within five (5) business days after termination that
+LICENSEE has destroyed or has returned to CISCO the Software and the
+Confidential Information. This requirement applies to copies in all
+forms, partial and complete, in all types of media and computer
+memory, and whether or not modified or merged into other materials.
+Termination of this Agreement will not limit either party from
+pursuing any other remedies available to it, including injunctive
+relief, nor will such termination relieve LICENSEE of its obligation
+to pay all fees that accrued prior to such termination. Upon
+termination of the Agreement, CISCO will have no further obligations
+to support the Software or provide services.
+
+(b)  Notwithstanding the foregoing, upon termination or expiration of the
+Agreement, no license, express or implied is granted to LICENSEE or
+Customer to any CISCO proprietary rights in the Software.
+
+9.   Payment Terms. All Software Maintenance fees and other amounts due under
+this Agreement are payable within 30 days of the date of CISCO's invoice.
+If not paid within 30 days of invoice date, CISCO reserves the right to
+assess interest on the unpaid balance at 1.5% per month.
+
+10.  Installation. LICENSEE will be solely responsible to Customers for
+installing the Software and providing all hubs, switches, routers, server,
+jacks and related wiring, and all telephone, cabling, telecommunications
+and network service communications, including Internet service access
+provisions, parts, and supplies, necessary for installing the Software.
+
+11.  Software Maintenance.  Upon acceptance of and pursuant to an Order Form,
+CISCO shall provide the maintenance, technical support and other services
+as set forth in Exhibit B.
+
+12.  Confidentiality. "Confidential Information" means the terms and conditions
+of this Agreement, the existence of the discussion between the parties,
+information relating to the Software, including without limitation,
+processes, techniques, formulas, ideas, know-how, works of authorship,
+copyrightable works, inventions (whether patentable or not), technical
+information, trade secrets, computer programs, computer code, designs,
+technology, compositions, data, drawings, schematics, customers, product
+development plans, and other business, technical and financial information,
+and other information that is provided to LICENSEE in confidence by CISCO
+or to CISCO in confidence by LICENSEE. At all times, both during this
+Agreement and after its termination, each party will protect the other
+party's Confidential Information from unauthorized dissemination and use
+with the same degree of care that each such party uses to protect its own
+like information, but with not less than reasonable care and diligence, and
+shall not disclose any Confidential Information without the prior written
+consent of the other party. Each party agrees to only use the other party's
+Confidential Information for the purposes of this Agreement. Neither party
+shall be obligated under this Section 12 with respect to information the
+receiving party can document : (i) is or has become publicly known through
+no fault of the receiving party or its employees or agents; or (ii) is
+required to be disclosed by a valid court order issued by a court or
+government agency, provided that the receiving party provides to the
+disclosing party: (a) prior written notice of such obligation; and (b) the
+opportunity to oppose such disclosure or obtain a protective order. Each
+party acknowledges that any disclosure or unauthorized use of the other
+party's Confidential Information will constitute a material breach of this
+Agreement and cause substantial and irreparable harm for which damages
+would not be a fully adequate remedy, and, therefore, in the event of any
+such breach, in addition to other available remedies, either party shall
+have the right to obtain appropriate injunctive relief.
+
+13.  Indemnity.  LICENSEE shall defend, indemnify, and hold harmless CISCO and
+its officers, directors, employees, customers, agents, successors and
+assigns from and against any and all loss, damage, settlement or expense,
+as incurred, resulting from or arising of: (a) the combination, operation,
+or use of any Software licensed hereunder with, equipment, devices, or
+software not supplied by CISCO; (b) Internet Access or any other services
+offered or used by LICENSEE through use of the Software; (c) alteration or
+modification of any Software supplied hereunder; or (d) any use of or
+access to the Software by LICENSEE or LICENSEE's Customers.
+
+14.  Warranty Disclaimer. THE SOFTWARE AND ANY OTHER PRODUCTS OR INFORMATION
+PROVIDED TO LICENSEE UNDER THIS AGREEMENT ARE BEING PROVIDED ON AN "AS IS"
+BASIS. CISCO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT,
+TITLE AND FITNESS FOR A PARTICULAR PURPOSE. CISCO DOES NOT WARRANT THAT THE
+SOFTWARE WILL MEET LICENSEE'S OR ITS CUSTOMERS' REQUIREMENTS OR
+EXPECTATIONS, THAT THE SOFTWARE WILL OPERATE IN THE COMBINATIONS WHICH
+LICENSEE MAY SELECT FOR USE, THAT THE OPERATION OF THE SOFTWARE WILL BE
+UNINTERRUPTED OR ERROR-FREE, OR THAT ALL SOFTWARE ERRORS WILL BE CORRECTED.
+FURTHER, CISCO DOES NOT WARRANT, GUARANTEE, OR MAKE ANY REPRESENTATIONS
+REGARDING USE, OR THE RESULTS OF USE OF THE SOFTWARE IN TERMS OF
+CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS, OR OTHERWISE OR REGARDING
+THE CUSTOMER'S OR END USER'S SATISFACTION. THE ENTIRE RISK AS TO THE
+RESULTS AND PERFORMANCE OF THE SOFTWARE IS ASSUMED BY LICENSEE.
+
+3
+<PAGE>
+
+CONFIDENTIAL
+
+
+15.  Limitation of Liability. LICENSEE AGREES THAT CISCO SHALL HAVE NO LIABILITY
+HEREUNDER FOR DAMAGES OF ANY KIND UNDER ANY THEORY WHATSPOEVER INCLUDING
+BUT NOT LIMITED TO DIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES INCLUDING,
+BUT NOT LIMITED TO, LICENSEE OR CUSTOMER'S LOSS OF REVENUES AND LOSS OF
+PROFITS REGARDLESS OF WHETHER CISCO HAS BEEN ADVISED OF THE EXPECTATION OR
+EXISTENCE.
+
+16.  Basis of Bargain.  EACH PARTY RECOGNIZES AND AGREES THAT THE WARRANTY
+DISCLAIMERS AND LIMITATION OF LIABILITY IN THIS AGREEMENT ARE MATERIAL
+BARGAINED FOR BASES OF THIS AGREEMENT AND THAT THEY HAVE BEEN TAKEN INTO
+ACCOUNT AND REFLECTED IN DETERMINING THE CONSIDERATION TO BE GIVEN BY EACH
+PARTY UNDER THIS AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER INTO
+THIS AGREEMENT.
+
+17.  General.
+
+17.1. Notices.  Any notice required or permitted pursuant to this Agreement
+may be made in writing, delivered in person, delivered by courier, or
+mailed first class, sent by facsimile, certified mail, or overnight
+courier. The parties will promptly notify each other in writing of
+any changes in address.
+
+17.2. Assignment.  LICENSEE may not assign its rights or delegate its
+obligations hereunder, either in whole or in part, whether by
+operation of law or otherwise, without the prior written consent of
+CISCO. Any attempted assignment or delegation without CISCO's written
+consent will be void. The rights and liabilities of the parties under
+this Agreement will bind and inure to the benefit of the parties'
+respective successors and permitted assigns. Notwithstanding the
+foregoing, LICENSEE may assign its rights and obligations under this
+Agreement as part of a merger, corporate reorganization, or sale of
+assets, provided; i) LICENSEE first notifies CISCO in writing; and
+ii) that the intended assignee is not any one or more of the
+following Cisco competitors: 3COM, Nortel, Lucent, Nomadix, Atrius,
+Viator, Elastic Networks, Tut Systems, Nokia, Redback, Solutions
+Inc., Copper Mountain, Cabletron, Extreme, Foundry, Hewlett Packard,
+Ericsson, Alcatel, and Juniper.
+
+17.3. Publicity.  All publicity concerning CISCO or CISCO's products and/or
+services will be subject to the prior written approval of CISCO.
+
+17.4. Records and Audits. LICENSEE shall use reasonable efforts  keep full,
+true, and accurate records and accounts, in accordance with
+generally-accepted accounting principles, of each copy of the
+software deployed identifying the locations where each and every copy
+of the Software has been installed or deployed by LICENSEE. LICENSEE
+shall make these records reasonably available for audit by CISCO upon
+reasonable prior written notice to LICENSEE, during regular business
+hours, at LICENSEE's principal place of business. Unless otherwise
+specified herein, the cost of the audit shall be at Cisco's expense.
+If an audit reveals that the number of copies of the Software
+deployed by LICENSEE pursuant to this Agreement is greater than
+1,500, LICENSEE shall pay the cost of the audit as well as promptly
+remit to CISCO the appropriate license fees due for the number of
+copies of the Software deployed by LICENSEE in excess of 1,500.
+
+17.5. No Agency.  The Agreement does not create any agency, partnership,
+joint venture, or franchise relationship. Each party hereto is an
+independent contractor. Neither party has the right or authority to,
+and shall not, assume or create any obligation of any nature
+whatsoever on behalf of the other party or bind the other party in
+any way.
+
+17.6. Force Majeure.  Except for the obligation to pay monies due and
+owing, neither party shall be liable for any delay or failure in
+performance due to events outside the defaulting party's reasonable
+control, including without limitation acts of God, earthquake, labor
+disputes, shortages of supplies, actions of governmental entities,
+riots, war, fire, epidemics, or delays of common carriers or other
+circumstances beyond its reasonable control. The obligations and
+rights of the excused party shall be extended on a day to day basis
+for the time period equal to the period of the excusable delay.
+
+17.7. Governing Law.  This Agreement will be governed and construed under
+the laws of the State of California without giving effect to the
+principles of conflicts of law.
+
+17.8. Survival. Sections 3, 5, 6, 7, 8, 12, 13, 14, 15, 16, and 17 shall
+survive the termination of this Agreement.
+
+17.9. Miscellaneous.  It is expressly agreed that each of the parties is
+acting as an independent contractor and under no circumstances will
+any of the employees of either party be deemed the employees or
+agents of the other party for any purpose. If any provisions of this
+Agreement are deemed to be invalid or unenforceable, the remaining
+provisions will nevertheless continue in full force and effect. No
+amendments, modifications or waivers will be binding or enforceable
+unless they are in writing and executed by authorized persons of each
+party. This Agreement, together with all attachments and exhibits,
+supersedes any and all prior agreements or understandings, both
+written and oral, between LICENSEE or CII and CSS, including without
+limitation any support obligations between LICENSEE or CII and CSS,
+and constitutes the entire agreement between the parties with respect
+to the subject matter of this Agreement.
+
+4
+<PAGE>
+
+CONFIDENTIAL
+
+
+LICENSEE ACKNOWLEDGES THAT IT HAS READ AND UNDERSTANDS THIS AGREEMENT AND THAT
+IT IS NOT ENTERING INTO THIS AGREEMENT ON THE BASIS OF ANY REPRESENTATIONS NOT
+EXPRESSLY SET FORTH HEREIN.
+
+
+LICENSOR:                                    LICENSEE:
+
+Cisco Systems, Inc.                          CAIS, Inc.
+
+___________________________                  ___________________________
+Signature                                    Signature
+
+___________________________                  ___________________________
+Printed Name/Title                           Printed Name/Title
+
+___________________________                  ___________________________
+Date                                         Date
+
+5
+<PAGE>
+
+CONFIDENTIAL
+
+
+EXHIBIT A
+
+
+
+
+Product
+
+IPORT(TM) Broadband Provisioning System (BPS)
+
+6
+<PAGE>
+
+CONFIDENTIAL
+
+
+EXHIBIT  B
+
+Software Maintenance
+
+CISCO offers two options for Software Maintenance: (a) Software Application
+Support ("SAS") and (b) Software Application Support Plus Upgrades ("SASU").
+
+The basic Software Application Support (SAS) provides:
+
+.    Software maintenance updates (minor releases) for the covered product upon
+request
+.    Access to CISCO Connection Online (CCO) where available
+.    Priority 1 and 2 access to the Technical Assistance Center (TAC) 24 hours a
+day, seven days a week
+.    Priority 3 and 4 escalation times that correspond with local business hours
+
+Software Application Support Plus Upgrades (SASU) provides:
+
+.    Major software upgrades (major releases) for the covered product
+.    Software maintenance updates (minor releases) for the covered product
+.    Upgrades and updates automatically shipped when the new release is made
+orderable
+.    Priority 1 and 2 access to the Technical Assistance Center (TAC) 24 hours a
+day, seven days a week
+.    Priority 3 and 4 escalation times that correspond with local business hours
+.    Access to CCO where available
+
+CISCO requests that LICENSEE provide the priority of every case reported. To
+ensure that all problems are reported in a standard format, CISCO has
+established the following problem priority definitions:
+
+.    Priority 1---An existing network is down or there is a critical impact to
+the LICENSEE's business operations. CISCO and the LICENSEE will commit
+necessary resources around the clock to resolve the situation.
+
+.    Priority 2---Operation of an existing network is severely degraded, or
+significant aspects of the LICENSEE's business operation are being
+negatively impacted by unacceptable network performance. CISCO and the
+LICENSEE will commit full-time resources during normal business hours to
+resolve the situation.
+
+.    Priority 3---Operational performance of the network is impaired while most
+business operations remain functional. CISCO and the LICENSEE are willing
+to commit resources during normal business hours to restore service to
+satisfactory levels.
+
+.    Priority 4---LICENSEE requires information or assistance on CISCO product
+capabilities, installation, or configuration. There is clearly little or no
+impact to the LICENSEE's business operation. CISCO and the LICENSEE are
+willing to provide resources during normal business hours to provide
+information or assistance as requested.
+
+
+Software Maintenance Renewal
+
+The annual fee for Software Maintenance as defined will be as follows: a) for
+SAS - 20% of the then current CISCO's list price for the Software licenses; and
+b) for SASU- 25% of the then current CISCO's list price for the Software
+licenses. The Software Maintenance term may be renewed by the LICENSEE on an
+annual basis.
+
+Void Software Maintenance
+
+LICENSEE shall notify CISCO prior to installation or integration of any not-
+previously approved computer hardware component (i.e., video card, network
+adapter, etc.) any not-previously approved software component or version
+upgrades. LICENSEE understands that CISCO does not guarantee compatibility of
+its Software with any hardware or software not certified for use as part of the
+System.
+
+7
+<PAGE>
+
+CONFIDENTIAL
+
+
+EXHIBIT C
+
+ORDER FORM
+
+
+This Order Form is incorporated as part of the Software License Agreement (the
+"Agreement") which together with this Order Form, and other cited Exhibits,
+Schedules and Addendums, form the entirety of the Agreements, entered into as of
+the first date written below, by and between Cisco Systems, Inc. ("CISCO"), a
+California corporation, having a principal place of business at 170 West Tasman
+Drive, San Jose, CA 95134-1706 and CAIS, Inc. ("LICENSEE"), a Virginia
+corporation, having a principal place of business at 1255 22nd Street, N.W.,
+Washington, DC 20037. The terms and conditions set forth in this Order Form will
+be construed and governed by the terms and conditions set forth in the
+Agreement.
+
+
+NOW THEREFORE, Licensee hereby agrees to the pricing and product description(s)
+referenced herein and accepts invoicing effective upon shipment of the licensed
+products and/or services.
+
+
+
+
+
+
+
+Services                          Term                       Fee
+
+
+
+
+
+
+
+Agreed and Accepted this _______ day of _______________, ______.
+
+
+CISCO:                                  LICENSEE:
+
+Cisco Systems, Inc.                     CAIS, Inc.
+
+___________________________             ___________________________
+Signature                               Signature
+
+___________________________             ___________________________
+Printed Name/Title                      Printed Name/Title
+
+___________________________             ___________________________
+Date                                    Date
+
+8
+

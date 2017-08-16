@@ -1,0 +1,1012 @@
+
+
+
+
+
+
+
+Software License Agreement
+
+
+
+CONFIDENTIAL PORTIONS OF THIS DOCUMENT HAVE BEEN REDACTED AND
+FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION
+
+
+EXHIBIT 10.64
+
+GENERAL DYNAMICS
+Decision Systems
+
+
+Software License Agreement
+
+
+BETWEEN
+
+General Dynamics Decision Systems,
+Inc.
+8201 E. McDowell Road
+Scottsdale, Arizona 85257
+(Hereinafter “Decision Systems”, “Buyer” or “Licensee”)
+
+AND
+
+InterDigital Communications Corporation
+781 Third Avenue
+King of Prussia, Pennsylvania 19406-1409
+(Hereinafter “InterDigital”, “Licensor” or “Seller”)
+
+Contract Number: 680901
+
+This Agreement contains the entire agreement of the Parties and supersedes any and all prior agreements, understandings and communications between the Parties related to
+the subject matter of this Agreement. No amendment or modification of this Agreement shall bind either Party unless it is in writing and is signed by Buyer’s Authorized Contract Representative and Seller’s Authorized Contract
+Representative.
+
+IN WITNESS OF THIS AGREEMENT, the parties hereto have executed
+this Agreement, through duly authorized officials, effective upon the last date of signature hereto.
+
+
+
+
+General Dynamics Decision Systems, Inc.	 	 	 	InterDigital Communications Corporation
+
+By:	 	 /s/ Ron Taylor
+By:	 	 /s/ Howard E. Goldberg
+
+Name:	 	 Ron Taylor
+Name:	 	 Howard E. Goldberg
+
+Title:	 	 Vice President & General Manager
+Title:	 	 President & CEO
+
+Date:	 	 12/20/04
+Date:	 	 December 21, 2004
+
+
+
+Page 1 of 22
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement, including the Exhibits, Schedules and Appendices attached hereto (collectively, this “Agreement”)
+is entered into this 21st day of December, 2004 (“Effective Date”), between General Dynamics Decision
+Systems Inc., a Delaware corporation, with offices at 8201 E. McDowell Road, Scottsdale, AZ 85257 (“Licensee”), and InterDigital Communications Corporation, a Pennsylvania corporation, with offices located at 781 Third Avenue, King of
+Prussia, PA 19406 (“Licensor”). Licensee and Licensor may each be referred to individually as a “Party” or collectively as “Parties” to this Agreement.
+
+WHEREAS, General Dynamics Decision Systems has entered into a U.S. Government contract with Lockheed Martin Missile
+and Space Systems Division for the Ground Transport Segment of the Mobile User Communication System (MUOS) that also includes the development of user equipment that will operate in conjunction with the Ground Transport Segment technical solution;
+
+
+WHEREAS, InterDigital Communications Corporation has
+developed a UMTS 3GPP WCDMA communications solution that General Dynamics Decision Systems desires to license for integration into the User Equipment;
+
+WHEREAS, InterDigital Communications Corporation is willing to grant certain rights to its software products to General Dynamics Decision Systems
+in consideration of the promises and payments as hereinafter set forth.
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby mutually acknowledged, the Parties hereto agree as
+follows:
+
+1    Definitions
+
+The capitalized terms within this Agreement and its associated Appendices shall have the
+following meanings:
+
+Acceptance – Means
+that the Licensed Software and associated Deliverables meet the acceptance criteria described within the Statement of Work.
+
+Affiliate – Means a legal entity that directly or indirectly through one or more intermediaries controls a Party, or is controlled by a
+Party, or is under common control with a Party. For the purposes of this definition, “control” shall be understood as the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a
+legal entity, whether through ownership of voting stock, by contract or otherwise.
+
+Background Intellectual Property – Means all Intellectual Property which is either (1) owned or controlled by the Parties prior to the Effective Date, or (2) owned or controlled by the Parties
+contemporaneously with the Effective Date, but not arising from any services provided or activities conducted pursuant to this Agreement.
+
+Commercial Off-the-Shelf (COTS) – Means any item available or offered for general sale by any third party, which accomplishes a
+function required in the execution or support of the capabilities described in the Statement of Work attached hereto.
+
+
+2
+
+
+
+
+
+
+
+
+Deliverable – Means Licensor’s Source Code, documentation, services, training and
+ancillary items that will be delivered to Licensee in accordance with this Agreement.
+
+Delivery – Means receipt of Licensor’s Source Code, documentation, services, training and ancillary items that will be delivered to Licensee in accordance with this Agreement.
+
+Delivery Schedule – Means the delivery schedule attached
+hereto as Exhibit A.
+
+Foreground Intellectual
+Property – Means all Intellectual Property that is conceived, or made, or reduced to a tangible medium of expression during any services provided or any activities conducted pursuant to this Agreement.
+
+Intellectual Property – Means intellectual property
+including, but not limited to, inventions, patents, trademarks, software, copyrights, trade secrets, know-how, and other similar forms of intangible property or Proprietary Information.
+
+JTRS – Mean the Joint Tactical Radio System program that will provide to government users a family of
+software programmable radios designed around a software communications architecture. For the purposes of this agreement, JTRS includes the Licensee’s Digital Modular Radio (DMR) program.
+
+Licensed Software – [**]
+
+MUOS – Means Mobile User Objective System
+
+MUOS Program – Means the MUOS program as described by the
+U.S. Government Solicitation Request No. N00039-03-R-0023.
+
+Object Code – Means computer-programming code in a form not readily perceivable by humans and suitable for machine execution without the intervening steps of interpretation or compilation.
+
+Open Source – Means software generally available in the
+public domain for use by any entity, is typically available for “free”, and does not restrict Licensee’s rights to the Licensed Software.
+
+Proprietary Information – Means information that the Disclosing Party, at the time of disclosure, identifies in writing or other
+permanent records as Proprietary Information by means of a proprietary legend, marking, stamp, or positive written notice identifying the information to be proprietary. Permanent records include information stored in electronic form on disk, tape,
+or other storage media. Such electronic information will be adequately marked if a legend indicating the information is proprietary displays when the information originally runs on a computer system and when the information is printed from its data
+file. In order for information disclosed orally or visually by a party to this Agreement to be Proprietary Information protected hereunder, the Disclosing Party shall identify the information as proprietary at the time of disclosure and, within
+thirty (30) days after such
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+3
+
+
+
+
+
+
+
+
+
+visual or oral disclosure, reduce the subject matter of the disclosure to writing, properly stamped with the proprietary legend, marking, stamp or other
+positive written notice and submit it to the Receiving Party; provided however, the Disclosing Party may make advance written notification as to the confidential nature of such oral or visual Proprietary Information.
+
+Software (SW) – Means the generally accepted term
+understood for computer programming instructions and can apply to either Source Code or Object Code.
+
+Source Code – Means computer programming code in human readable form that is not suitable for machine execution without the intervening
+steps of interpretation or compilation.
+
+Terminal
+Unit – Means a MUOS or JTRS compatible end user terminal device with which Licensor’s software will be utilized.
+
+Update – Means a revision, bug fix, or minor change to the Licensed Software intended to correct errors or non-conformance with
+specifications or standards and provided as a change in the release where the problem/need was identified.
+
+Upgrade – Means a new feature or features (additional functionality) provided in a new release of the Licensed Software but shall not
+include any feature identified as omitted in Appendix D of the SOW.
+
+UMTS – Means Universal Mobile Telecommunications System as defined by International Telecommunications Union (ITU) for Third Generation (3G) mobile communications.
+
+Verification – Means confirmation that Licensor’s
+software product was tested at Licensor’s facility in accordance with Licensor’s testing process and that the software compiles and meets all requirements described in the SOW.
+
+WCDMA – Means Wideband Code Division Multiple Access.
+
+
+1.1    License Grant
+
+[**] The
+proprietary/confidential information documentation will include a special rights legend setting forth the aforementioned rights. Notwithstanding anything to the contrary in this Agreement, neither the Licensee, U.S. Government, nor any other
+transferee is granted any right to use, modify, reproduce, release, perform, display or disclose Licensed Software for any commercial purposes or the right to authorize others to do so. No right is granted herein for sales of WCDMA or other wireless
+devices of any kind for commercial use including without limitation sales to operators, resellers or end users.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+4
+
+
+
+
+
+
+
+
+1.2    Statement of Work (SOW)
+
+The SOW shall govern all technical requirements of the Deliverables/Milestones, and acceptance of the Deliverables/Milestones listed in
+Exhibit A in addition to describing the ancillary deliverables required by Licensor under the terms of this Agreement. All Deliverables described within the SOW, including the Licensed Software, shall be provided in electronic format. Licensee shall
+accept or reject each Delivery as described in Exhibit A and the SOW.
+
+1.3    Updates and Upgrades
+
+Licensor
+shall deliver all Updates and Upgrades during the period of software maintenance as described in Exhibit B, SOW.
+
+1.3.1    Updates
+
+Licensor shall inform Licensee of Updates to the Licensed Software between Upgrades and make the Updates available for Licensee for the period of software
+maintenance. Licensee may use Updates when received. Licensor shall provide Licensee with instructions on installation, testing and use of the Updates.
+
+Licensor shall conduct a Verification of each software Update release before it is delivered to Licensee. If so requested by Licensee, Licensor shall
+assist Licensee in Verification of Updates.
+
+1.3.2    Upgrades
+
+Licensor shall deliver Upgrades to the initial Licensed Software provided to Licensee as described within Exhibit B, SOW.
+
+Licensor shall document and deliver to Licensee all Upgrades made to the Licensed Software as specified in the [**] standard during the period of
+maintenance described in the SOW. This shall be documented in product revision information reports. If so requested by Licensee, Licensor shall assist Licensee in Verification of Upgrades.
+
+1.4    Points of Contact
+
+Subject to the provisions of this Agreement, Licensor shall make available to Licensee
+resources for product support in accordance with Section 5.3 of the SOW.
+
+1.5    Intellectual Property Rights
+
+Licensor, and its Affiliates or their licensors retain ownership of the Licensed Software including all patents, copyrights, and other intellectual property rights.
+
+1.5.1    [**]
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+
+5
+
+
+
+
+
+
+
+
+1.5.2    Licensee agrees that (1) no license, right or interest in any
+trademark, trade name, or service mark of Licensor, its Affiliates or its licensors or any third party is granted under this Agreement; (2) Licensee is not permitted and shall not remove or destroy any of the Licensed Software’s proprietary,
+trademark or copyright legends or markings and (3) all existing copyright, patent, trademark, or other intellectual property rights related to the Licensed Software shall continue to remain the sole property of Licensor and its Affiliates or their
+licensors.
+
+1.5.3    The following
+provisions will apply with respect to any and all Intellectual Property used or developed for use by either Party in the performance of this Agreement.
+
+1.5.3.1 Background Intellectual Property Ownership
+
+Each Party shall continue to own all of its respective Background Intellectual Property. No licenses are granted under such Background Intellectual
+Property except as may be expressly granted herein.
+
+1.5.3.2
+Foreground Intellectual Property Ownership
+
+[**]
+
+
+1.5.3.3 Joint Development Intellectual Property
+Ownership
+
+[**]
+
+1.6    Intellectual Property Indemnity
+
+Notwithstanding anything to the contrary in this Agreement or elsewhere, Licensor shall not
+indemnify or defend Licensee, its Affiliates or customer, the U.S. Government and / or any other person or entity for any claims against any or all of them concerning United States or foreign patents, which claims are asserted against the Licensed
+Software alone or in combination with hardware or other software.
+
+1.7    Patent Non-Assertion Grant
+
+Licensor, on behalf of itself and its Affiliates, successors and assigns, hereby agrees not to bring any claim, action or proceeding against Licensee, its Affiliates, customer (Lockheed Martin), or the U.S. Government (collectively,
+“Grantees”) based on patent claims contained within Licensor’s patents that cover the [**] technology incorporated in the Licensed Software delivered by Licensor, directed to a Grantee’s making, using, selling, providing or
+otherwise distributing Licensed Software, alone or embedded within a Terminal Unit, produced for U.S. Government use. Notwithstanding anything to the contrary in this Agreement, no right is granted herein (i) for any wireless technology not included
+in the Licensed Software, (ii) for sales of WCDMA devices or other wireless devices for commercial use including, without limitation, sales to operators, resellers or end users, nor (iii) for features, functions or methods of operation not included
+in the Licensed Software as delivered by Licensor.
+
+1.8    Intellectual Property Exclusions
+
+[**]
+
+
+**
+Material has been omitted and filed separately with the Commission.
+
+
+6
+
+
+
+
+
+
+
+
+1.9    Copyright Notices
+
+With reference to any backup copies Licensee makes of the Licensed Software, Licensee agrees to reproduce all copyright notices, and other
+restrictive legends, appearing thereon and to include the same on all copies it makes in whole or in part. Such copyright notices may appear in any of several forms, including machine-readable form and Licensee agrees to reproduce such notice in
+each form in which it appears, to the extent it is physically possible to do so.
+
+1.10    Government License Rights and Access
+
+[**]
+
+1.11    Term and Termination
+
+
+1.11.1    Term.
+
+Licensee shall use the Licensed Software from the date received only for the
+purposes stated in Section 1.1 for a period of [**], unless terminated as provided herein.
+
+1.11.2    Termination
+
+Except where there is an exclusive remedy under this Agreement either Party may terminate this Agreement should the other Party breach any material provision of this Agreement or take any action in derogation of
+either Party’s rights to the Licensed Software licensed hereunder subject to the following provisions.
+
+1.11.2.1    Termination for Default by Licensor
+
+Licensee may terminate this Agreement by written notice to Licensor if: (i) Licensor fails to deliver the Licensed Software
+within the time specified by this Agreement or any written extension provided by Licensee and does not cure the failure within [**] after receipt of written notice from Licensee specifying the failure; (ii) Licensor fails to perform any other
+material provision of this Agreement or fails to make progress, so as to endanger performance of this Agreement and, does not cure the failure within [**] after receipt of written notice from Licensee specifying the failure; or (iii) in the event
+Licensor declares bankruptcy, suspends its business operations, or initiates any reorganization and/or arrangement for the benefit of its creditors. [**] The rights and remedies provided Licensee in this clause are in addition to any other right or
+remedies provided by law or in equity.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+7
+
+
+
+
+
+
+
+
+1.11.2.2    Termination for Default by Licensee
+
+If Licensee materially breaches any provision of this Agreement, including
+any Appendix or Exhibit, Licensor may terminate the Agreement upon written notice thereof. Termination shall be effective upon notice unless such breach is curable, in which case Licensee shall have a period of [**] from the date of delivery of
+written notice to cure such breach. In addition to any other rights available at law or in equity, in the event of a Termination for Default, Licensor shall be entitled to retain all monies previously paid hereunder. Upon termination, Licensee
+shall: (i) cease all use of the Licensed Software for any purpose whatsoever, and (ii) immediately destroy or return to Licensor all Proprietary Information then in Licensee’s possession.
+
+1.11.2.3    Termination for Convenience
+
+
+If the U. S. Government terminates for convenience the
+portion of the MUOS Program that includes GDDS’s role then Licensee may terminate this Agreement for its convenience. [**]
+
+2    Warranty
+
+Licensor warrants that the Licensed Software under normal use shall perform the functions specified in its documentation (to be developed by Licensor). If the Licensed
+Software does not conform to its documentation such that its functional performance is reasonably affected and Licensor is notified in writing within [**]. THIS WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES WHETHER STATUTORY, EXPRESS, OR
+IMPLIED (INCLUDING ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE).
+
+3    Liability
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT OR CONSEQUENTIAL DAMAGES, (INCLUDING LOSS OF ECONOMIC ADVANTAGE, BUSINESS, PROFITS, DATA OR INACCURACY OF DATA), IN CONNECTION WITH OR ARISING OUT OF
+THIS AGREEMENT OR FROM USE OF LICENSED SOFTWARE, WHETHER OR NOT EITHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE FORM OF ACTION OR LEGAL THEORY (WHETHER IN CONTRACT OR IN TORT, INCLUDING STRICT TORT LIABILITY,
+OR BASED ON A WARRANTY) UNDER WHICH THE LIABILITY MAY BE ASSERTED.
+
+4    Schedule and Delivery and Payment
+
+4.1    Payment/Delivery Schedule
+
+[**]
+
+
+
+** Material has
+been omitted and filed separately with the Commission.
+
+
+8
+
+
+
+
+
+
+
+
+4.2    Deliveries
+
+Deliverables, price and payments under this Agreement are set forth in Exhibit A. Licensor shall deliver the Licensed Software and
+associated Deliverables to Licensee in accordance with the Delivery Schedule specified in Exhibit A.
+
+4.3    Schedule Remedies
+
+Licensor shall strictly adhere to the Delivery Schedule specified in Exhibit A. In the event of any anticipated or actual delay, Licensor shall: (i) promptly notify Licensee in writing of the reasons for the delay and the actions being
+taken to overcome or minimize the delay; and (ii) provide Licensee with a written recovery schedule within [**] of the missed Milestone. Licensor shall not deliver Deliverables prior to the scheduled delivery dates unless authorized by Licensee.
+
+
+4.4    [**]
+
+[**]
+
+4.5    Place of Delivery
+
+Deliverables described within this Agreement shall be delivered F.O.B. (Destination), General Dynamics Decision Systems, Inc., 8201 E.
+McDowell Road, Scottsdale, AZ 85257, or as otherwise mutually agreed to by the parties.
+
+4.6    Payment Terms
+
+All payments by
+Licensee will be [**]. At Licensor’s discretion, late payments may be subject to interest at an annual rate of [**] percent. [**] Licensee will pay all accurate and complete invoices within [**] from the date of invoice receipt. Licensee will
+pay Licensor by electronic funds transfer (EFT). Licensor shall provide Licensee with its EFT information. Licensor shall promptly repay to Licensee any amounts paid in excess of amounts due Licensor.
+
+4.7    Submission of Invoices
+
+a.    Licensor’s Invoices shall be submitted to:
+
+
+General Dynamics Decision Systems, Inc.
+P.O. Box 9B
+Scottsdale, AZ 85252
+
+ATTN: Accounts Payable/Mail Drop H-2625
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+9
+
+
+
+
+
+
+
+
+b.    Invoices shall contain the following information, as applicable: date of
+invoice, Agreement number, line item/milestone number(s), description of Deliverables, quantity, unit price, and payment terms.
+
+c.    A copy of each invoice submitted to General Dynamics Decision Systems Accounts Payable shall also be faxed to the Authorized
+Contract Representative set forth in the Notice Section of this Agreement.
+
+4.8    Taxes
+
+The prices invoiced under
+this Agreement include, and Licensor is liable for and shall pay, all taxes, impositions, charges and exactions imposed on or measured by this Agreement, except for applicable sales and use taxes that are separately stated on Licensor’s invoice
+(for which Licensee shall be solely responsible). Invoices shall not include any taxes, impositions, charges or exactions for which Licensee has furnished a valid exemption certificate.
+
+5    Commercial Off-the-Shelf (COTS)/Open Source Software Limitations
+
+Licensor shall not use commercial proprietary software or hardware as an integral part of
+the software delivered under this Agreement unless Licensor has obtained the rights in third party commercial proprietary software or hardware at least equal to those granted by Licensor to Licensee.
+
+Deliverable items involving COTS hardware or software will, in general, utilize the
+“then current” commercially available versions of those COTS items at the time that Licensed Software is delivered.
+
+Licensee shall not obtain or use COTS or Open Source items, if usage of such items by Licensee, or its customer, and the U. S. Government is restricted in any way, or if
+such items require any licensing of rights, without prior written Licensee approval and direction.
+
+6    Proprietary Information
+
+The parties anticipate that during the term of this Agreement, it may be necessary for either party to transfer to the other party information of a proprietary nature. Each of the parties agrees that it will use the
+same reasonable efforts to protect the other’s Proprietary Information as are used to protect its own but will at least use reasonable care. Disclosures of such information shall be restricted to those individuals who are directly participating
+in the JTRS or the MUOS programs and contract efforts identified herein, who have a need to know such information, and who have been made aware of and consent to abide by the restrictions herein concerning the use of such information.
+
+Neither party shall make any reproduction, disclosure, nor use of such Proprietary
+Information except as may be required in the performance of this Agreement.
+
+The obligation to protect Proprietary Information, and the liability for unauthorized disclosure or use of Proprietary Information, shall not apply with respect to such information which is now available or becomes available to the public
+without breach of this Agreement; information lawfully received without restrictions from other sources, including the U.S. Government; information known to the Receiving Party prior to disclosure; information published or disclosed by the
+Disclosing Party to others, including the U.S. Government, without restriction; information developed by the Receiving Party independent of and without use of the information disclosed by the Disclosing Party; or, information for which further use
+or disclosure by the Receiving Party is authorized in writing by the Disclosing Party.
+
+
+10
+
+
+
+
+
+
+
+
+The obligations and provisions of this provision shall survive the expiration and termination of the other portions of
+this Agreement for a period of [**] from the date hereof. Upon termination or expiration of this Agreement each party will, upon request, return all Proprietary Information received from the other party and copies made thereof by the Receiving Party
+under this Agreement, or certify by written memorandum that all such Proprietary Information has been destroyed except that each party may retain an archival copy to be used only in case of a dispute concerning this Agreement.
+
+Each party warrants that it has the right to disclose the Proprietary Information disclosed
+to the other party hereunder for the purpose set out in this Agreement.
+
+Except
+as expressly provided herein neither the execution and delivery of this Agreement, nor the furnishing of any Proprietary Information shall be construed as granting either expressly or by implication, estoppel or otherwise, any license under any
+invention, improvement, discovery or patent now or hereafter owned or controlled by a party disclosing Proprietary Information hereunder.
+
+If either Party should be required by law or regulation, or receive a subpoena, court order or other governmental order that compels such Party to disclose Proprietary
+Information of the other Party, it shall promptly notify the Disclosing Party so the latter may take necessary steps to prevent or limit disclosure. In any event, the Receiving Party shall disclose only so much of the Disclosing Party’s
+Proprietary Information as is required by law.
+
+7    Limitations on Usage of Licensee Furnished Items
+
+Licensee furnished items are defined to be any software, firmware, hardware, systems, or documentation, provided by Licensee to Licensor. Licensor shall not reverse engineer Licensee furnished items. Upon completion
+of the effort under the attached SOW, or upon request by Licensee, whichever occurs first, the Licensor shall return all Licensee furnished items to Licensee, unless otherwise specified by Licensee in writing or in the requirements of the SOW.
+
+
+8    Quality Assurance/Configuration
+Management/Safety Requirements
+
+Licensor shall establish and maintain
+a quality assurance system that complies with its standard commercial processes with the intent of meeting ISO 9001 and other applicable industry standards that Licensor has adopted as part of its quality program. Licensor will allow Licensee
+representative(s) to witness testing at Licensor’s facility for any software that will be delivered to Licensee as part of a Milestone described within this Agreement.
+
+Subsequent to Agreement Effective Date, Quality and Configuration Management plans will be generated (either as a stand alone or
+incorporated within other plans). The resulting quality or configuration management plan will clearly describe the technical change review board process that will be conducted between Licensor and Licensee.
+
+Licensee may require Licensor to provide data and perform analysis in support of MUOS program
+safety requirements that may be subsequently required under this Agreement after the Effective Date. Any resulting safety requirements will be negotiated in good faith and accepted in writing by the Parties, but will be included within the scope of
+this Agreement.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+11
+
+
+
+
+
+
+
+
+9    Malicious Software or Systems
+
+The Licensor shall determine that, to the best of its knowledge and belief, the software and
+systems provided do not contain any malicious code, program, or other internal component (e.g., computer virus) which could damage, destroy, or alter software, firmware, or hardware or which could reveal any data or other information accessed
+through or processed by the software or systems. Further, the Licensor shall immediately inform Licensee upon reasonable suspicion that any software or systems provided hereunder may cause the harm described above.
+
+10    Force Majeure
+
+A Party shall be excused for nonperformance under this Agreement, for such period of time as
+the cause of non-performance continues to exist, if the failure to perform arises, in whole or in part, out of causes beyond the control and without the negligence of the Party. Such causes may include, but are not restricted to (a) acts of God or
+of the public enemy, (b) acts of the Government in either its sovereign or contractual capacity, (c) fires, (d) floods, (e) epidemics, (f) quarantine restrictions, (g) strikes, (h) freight embargoes and (i) unusually severe weather. If the delay is
+caused by a delay of Licensor and if such delay arises out of causes beyond the reasonable control of both, and without the negligence of either, Licensor shall be excused from nonperformance unless the goods to be furnished by the Licensor were
+obtainable from other sources at substantially the same cost in sufficient time to permit Licensor to meet the required delivery schedules. Licensor shall notify Licensee in writing within ten (10) calendar days after the beginning of any such
+cause.
+
+11    Governing Law and Venue
+
+
+This Agreement shall be governed by and construed in accordance with the
+laws of the State of Delaware. No consideration shall be given to Delaware’s conflict of laws rules. To the extent not provided for in Section 12, the Parties agree and consent to exclusive venue and jurisdiction in the state and federal courts
+located in Delaware for all controversies and disputes arising under or in any way relating to this Agreement.
+
+12    Disputes
+
+(a)    Any dispute between the Parties shall be settled in the following manner: Licensee and Licensor agree to enter into a negotiation to resolve any dispute. Both parties agree to negotiate in good faith to reach a
+mutually agreeable settlement within a reasonable amount of time. Each Party will appoint a senior management representative who does not devote substantially all of his or her time to performance under this Agreement. The representatives will
+furnish to each other all non-privileged information with respect to the dispute that the Parties believe to be appropriate and germane. The representatives will negotiate in an effort to resolve the dispute without the necessity of any formal
+proceeding. [**]
+
+(b)    [**] Either Party will have the
+right to apply at any time to a judicial authority for appropriate injunctive or other interim or provisional relief [**]
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+12
+
+
+
+
+
+
+
+
+13    Injunctive Relief
+
+The Parties agree to the confidentiality provisions contained in Section 6, above, and acknowledge that the unauthorized disclosure of any
+information required to be kept confidential pursuant to this Agreement may give rise to immediate irreparable injury to the Party that owns the information. Notwithstanding the dispute resolution provision contained herein, each Party may obtain
+immediate and injunctive relief against the breach or threatened breach by the other Party of the covenants to keep such information confidential. The Parties further agree that the covenants contained herein are reasonably necessary for the
+protection of legitimate business interests of the Parties and are reasonable in scope and content.
+
+14    Severability
+
+In the event that any provision of this Agreement shall be unenforceable or invalid under any applicable law or be so held by applicable court decision, such unenforceability or invalidity shall not render this Agreement unenforceable or
+invalid as a whole, and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions.
+
+
+15    Export/Security Regulations
+
+Licensee agrees that it will not in any form export, re-export, ship, or divert or cause to
+be diverted, directly or indirectly, the Licensed Software to any country for which the United States Government, any agency thereof, or any other sovereign Government, at the time of export or reexport, requires an export license or other
+governmental approval without first obtaining such license or approval. Furthermore, Licensor understands that the majority of MUOS Technical Information and Technical Services are subject to U.S. Government export control laws and regulations.
+Therefore, Licensor shall be responsible for compliance with all applicable U.S. export control laws and regulations including the requirements of the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR).
+Licensor agrees that, except as allowed under applicable U.S. laws and regulations, no export controlled item, data, or service, furnished to it on or produced by it for the MUOS Program will be disclosed to any foreign person, business, or country,
+including foreign persons employed by or associated with, or under contract with the Licensor, without the authority of an export license, agreement or applicable license exemption. In the event the Licensor or any sub tier supplier needs to
+disclose MUOS export-controlled items, data or services to foreign persons, the Licensor shall be responsible (i) for obtaining, and ensuring its sub tier supplier obtains, all necessary approvals from the Government and any required export license,
+agreement or applicable license exemption and (ii) for compliance with the terms of the export license, agreement or exemption. Licensor shall first notify and obtain the written consent of Licensee prior to it or its sub tier supplier submitting
+any request for authority to export MUOS technical data or services. Licensor is responsible for including export control requirements in sub tier supplier agreements, and for ensuring that the suppliers are capable of complying with all applicable
+U.S. Government export control laws and regulations.
+
+Licensor is responsible
+for maintaining an effective export/import compliance program that ensures compliance to government export control laws and regulations. Licensor is responsible for maintenance of proper policies and procedures, personnel training, and marking of
+documents, as appropriate, in accordance with such export/import compliance program.
+
+If required by Licensee, Licensor agrees to implement security requirements mandated by the U.S. Government issued via a DD-254 to Lockheed Martin’s contract and subsequently flowed down to
+
+
+
+13
+
+
+
+
+
+
+
+
+
+Licensee’s contract. If Licensor is unable to implement or follow such requirements, the Parties will negotiate in good faith to resolve such issue or
+issues.
+
+16    Records, Audit Rights
+
+
+At all times during the term of this Agreement and for [**] following the
+termination of this Agreement, Licensee will maintain at its principal place of business accurate records relating to its licensing obligations under this Agreement.
+
+17    Point of Contact Designation
+
+The Licensor shall designate to Licensee, in writing, a representative to serve as point of contact for the Licensor with Licensee or the
+Government.
+
+18    Guidelines on Nationality
+
+
+Licensor further understands that Licensee is a defense contractor
+providing work for the United States Government, and as such, is under certain mandatory security obligations with regard to access to its facilities and technology. Due to the fact that disclosure of certain information to any individual may be
+deemed an export, Licensor agrees that it will not assign any worker to perform services under this Agreement on Licensee’s premises for the applicable program unless that person either receives a license for the export at issue or qualifies as
+a “U.S. person.” The following persons shall be defined as a “U. S. person”:
+
+
+i.	U.S. citizen;
+
+
+
+ii.	U.S. nationals, including an alien lawfully admitted for permanent residence (those possessing a valid Form I-550 or “green card”);
+
+
+
+iii.	Alien admitted following a 1986 amnesty statute;
+
+
+
+iv.	Asylee or refugee as defined in 8 U.S.C. 1324(b)(a)(3); or
+
+
+
+v.	Alien lawfully admitted for temporary agricultural employment.
+
+
+18.1    Access to Information
+
+Licensor further agrees that, should Licensee determine that the work performed under this Agreement will enable persons working for the Licensor (including the Licensor)
+to have access to unclassified information that relates to a U.S. Government classified program, or other information regulated by the National Industrial Security Program Operating Manual (‘NISPOM”), Licensor will not assign any worker to
+perform services under this Agreement (including the Licensor) unless such persons are citizens or nationals of the United States.
+
+In addition to the foregoing requirements, Licensor will comply with the Immigration Reform and Control Act of 1986 (“IRCA”) and in particular, have all of its
+applicable workers fill out an I-9 form, verifying their authorization to work in the United States.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+14
+
+
+
+
+
+
+
+
+Licensee agrees to conspicuously mark all documentation and technical information that is subject to a U.S. Government
+classified program (including NISPOM). Licensee further agrees to use its best efforts to assist Licensor from time to time, upon request, to determine the appropriate export control classification of particular documentation and technical
+information (e.g., whether subject to ITAR or EAR, and USML Category or Export Control Classification No.). Furthermore, Licensee represents and warrants to Licensor that all persons assigned by Licensee to communicate with Licensor in
+connection with this Agreement are “U.S. persons” as defined in Section 18 above.
+
+19    Gratuities
+
+Licensor warrants that neither it nor any of its employees, agents or representatives have offered or given, or will offer or give, any gratuities to Licensee’s employees, agents or representatives for the purpose of securing this
+Agreement or securing favorable treatment under this Agreement.
+
+20    Publicity
+
+Except as required
+by law or applicable regulation (including without limitation, SEC and Nasdaq rules), neither Party shall issue any press release or make any other public statement or filing relating to this Agreement, any work done under this Agreement or any of
+the transactions contemplated by this Agreement without obtaining the prior written approval of the other party (which approval shall not be unreasonably withheld) as to the contents and the manner of presentation and publication of such press
+release or public statement.
+
+21    [**]
+
+
+22    Waiver
+
+The failure of either Party to require performance by the other party of any provision
+hereof shall not affect the full right to require such performance at any time thereafter; nor shall the waiver by either Party of a breach of any provision hereof or failure to enforce a right hereunder be taken or held to be a waiver of the
+provision itself. No delay or omission by either Party to this Agreement in the exercise or enforcement of any of its powers or rights hereunder shall constitute a waiver of such power or right. A waiver by either Party of any provision of this
+Agreement must be in writing and signed by such Party, and shall not imply subsequent waiver of that or any other provision.
+
+23    Nature of Relationship
+
+Nothing contained herein shall be construed as Licensee and Licensor creating a joint venture, agency, employment relationship, partnership, principal-agent, joint
+development or other form of joint enterprise between the Parties. Neither Party shall be liable to any person for any debts, liabilities or obligations incurred by or on behalf of the other Party hereto or its business. Both Parties agree to
+disclose in their respective dealings that they are separate entities.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+15
+
+
+
+
+
+
+
+
+24    Non-Solicitation
+
+During the term of this Agreement and for [**] after its expiration or termination, neither Party will solicit for employment any employee
+of the other Party who was involved in the performance of the Party’s obligations under this Agreement, unless the hiring party first obtains the written consent of the other party. Notwithstanding the foregoing, either Party shall have the
+right to hire any individual employed by the other who, without solicitation, responds to employment advertising in the newspapers, trade publications or other public commercial media or any unsolicited walk in candidates not related to this
+Agreement.
+
+25    Notices
+
+Wherever under this Agreement one Party is required or permitted to give notice to the
+other, such notice shall be in writing and shall be effected either by personal delivery or [**] after deposit in the United States mail, registered or certified, postage prepaid, return receipt requested, to the receiving Party’s respective
+address shown on the first page hereof, or via telefacsimile with confirmation receipt followed by U.S. mail. Each Party to this Agreement may from time to time change the address to which notices may be given by giving the other Party written
+notice, in the manner provided in this Section, of the new address and the date upon which it will become effective.
+
+The primary points of contact for the transmittal of Proprietary Information, notices, and authorizations under this Agreement are as follows:
+
+InterDigital Communications Corporation
+[**], Senior Manager
+
+and
+
+Decision Systems
+[**], Staff Contract
+Manager
+
+Either Party may redesignate its respective designated
+representative(s) by written or electronic notice to the other Party.
+
+26    Attorneys’ Fees
+
+In the
+event there is any proceeding or lawsuit in connection with this Agreement, the prevailing party in such proceeding shall be entitled to receive its costs, expert witness fees and reasonable attorneys’ fees, including costs and fees on appeal.
+
+
+27    Bankruptcy of InterDigital
+
+
+The Agreement is to be interpreted in accordance with Section 365(n) of the U.S.
+Bankruptcy Code. It is understood and agreed that the intellectual property license under this Agreement is intellectual property as defined in Section 101(35A) of the Bankruptcy Code and that Section 365(n) shall govern this Agreement in the event
+that InterDigital files for bankruptcy.
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+
+
+
+
+
+
+
+28    Government Contracts Flowdown Clauses
+
+Licensor agrees to comply with any applicable provisions of the Rehabilitation Act of 1973,
+the Veteran’s Readjustment Act of 1974, and Executive Order 11246, and implementing regulations of the U.S. Department of Labor, which embody governmental policy on equal employment opportunity. The following FAR provisions are incorporated
+herein by reference: (i) 52.219-8 Utilization of Small Business Concerns (if the contract exceeds $500,000) (ii) 52.222-26 Equal Opportunity, (iii) 52.222-35 Equal Opportunity for Special Disabled Veterans, Veterans of the Vietnam Era and Other
+Eligible Veterans, (iv) 52.222-36 Affirmative Action for Workers with Disabilities, (v) 52.222-41 Service Contract Act of 1965 as Amended and (vi) 52.247-64 Preference for Privately Owned U.S. Flag Commercial Vessels.
+
+29    List Of Attachments Applicable To This Agreement
+
+
+Exhibit A – Delivery/Payment Schedule
+Exhibit B – Statement of Work
+Exhibit C – Software Maintenance,
+Support and Training
+
+30    Entire Agreement
+
+
+To the extent Licensee is licensed under a patent license agreement (or
+any agreement providing for the license of patent rights) with Licensor or any of its subsidiaries, which patent license covers the manufacture, sale or use of (1) commercial products, (2) or products under standards that differ from the standards
+covered under this Agreement, or (3) other products that differ from the products covered under this Agreement, such other patent license agreement shall remain in full force and effect both as to the commercial products and as to those differing
+standards and/or other products. To the extent Licensee was licensed under another patent license agreement with Licensor or any of its subsidiaries prior to the Effective Date for the manufacture, use, or sale of FDD products covered under this
+Agreement, the terms of that prior agreement shall continue to apply up to but not including the Effective Date. With the exception of the foregoing and the treatment of confidential information disclosed pursuant to the Non-Disclosure Agreement
+dated June 9, 2003, this Agreement contains the complete and final agreement between the Parties, and supersedes all previous understandings, relating to the subject matter hereof whether oral or written. This Agreement may only be modified or
+amended by a written agreement signed by duly authorized representatives of each Party.
+
+31    Order of Precedence
+
+In the
+event that two or more provisions in this Agreement conflict and there is no reasonable interpretation that resolves the conflict in a manner that is consistent with the entire Agreement, then the Parties shall resolve the conflict using the
+following descending order of precedence: 1) this Software License Agreement; and 2) the Attachments hereto.
+
+32    Changes
+
+If a change order causes an increase or decrease in the cost of, or time required for the performance of this Agreement an equitable adjustment shall be made in the price or delivery schedule, or both, and the Agreement shall be modified,
+in writing, accordingly. Failure to agree to any adjustment shall be a dispute to be resolved under the procedures established in this Agreement.
+
+
+
+17
+
+
+
+
+
+
+
+
+33    Assignment
+
+Licensor recognizes that General Dynamics Decision Systems will be renamed General Dynamics C4 Systems (“C4 Systems”) in early
+2005 due to an internal reorganization. InterDigital consents to an assignment of this agreement to C4 Systems at the time the reorganization occurs provided that C4 Systems assumes all rights, obligations and responsibilities of General Dynamics
+Decision Systems with respect to this Agreement and all rights, obligations and responsibilities of General Dynamics Decision Systems’ role in the MUOS Project at the Effective Date of this Agreement. Further, should General Dynamics Decision
+Systems remain in existence as a legal entity following such reorganization, it shall remain contingently liable for all of C4 System’s assigned obligations and responsibilities hereunder. Licensor shall be notified by General Dynamics Decision
+Systems when such name change occurs. Licensor may not assign or transfer this Agreement to another party unless Licensee agrees to such assignment or transfer and such consent shall not be unreasonably withheld.
+
+
+18
+
+
+
+
+
+
+
+
+Exhibit A
+
+
+
+Deliverables/Milestones
+
+
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	 	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	 	 	[**]
+[**]
+[**]	 	[**]	 	[**]	 	[**]	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+[**]
+[**]	 	 	 	[**]	 	 	 	[**]
+
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+19
+
+
+
+
+
+
+
+
+Exhibit A
+
+Notes:
+
+1. Price- [**] of the price for each milestone release will be paid within [**] of delivery and Verification of the component release and receipt of a proper invoice by Decision Systems. The remaining [**] of the price will be paid within
+[**] of Acceptance by Decision Systems of the component release. Acceptance of milestone deliverables [**] shall be made by Decision Systems within [**] of the applicable Delivery Date. Acceptance of the [**] milestone deliverables shall be made by
+Decision Systems within [**] of the applicable Delivery Date.
+
+2. Milestones
+[**] are options that can be exercised at Licensor’s sole discretion, however Licensor’s option to exercise these Milestones at the cumulative price of $800,000 will expire on [**]. After [**] Licensor may exercise these Milestone options
+at the [**] or on a time and material basis through [**].
+
+3. Milestone [**] is
+an option that can be exercised at Licensor’s sole discretion, however Licensor’s option to exercise this Milestone within the not to exceed (NTE) price of $3.2M will expire on March 1, 2006.
+
+
+** Material has been omitted and
+filed separately with the Commission.
+
+
+20
+
+
+
+
+
+
+
+
+Exhibit B
+
+
+Statement of Work
+
+[**]
+
+
+** Material has been omitted and filed separately with the Commission.
+
+
+21
+
+
+
+
+
+
+
+
+Exhibit C
+
+
+Maintenance/Support Requirements
+
+Licensor will provide Licensee with software maintenance/support for a period of three years following delivery and acceptance by Licensee of the final Milestone [**].
+After the initial three years of maintenance/support, Licensee shall have an option to renew for additional annual periods at a base rate of [**], adjusted for inflation.
+
+Licensor agrees to negotiate in good faith an engineering services agreement with Licensee that will provide Licensee with engineering
+services on a periodic as-needed basis that has a term of no less than [**]. Engineering services requested by Licensee will be described in Task Orders issued under the engineering services agreement. The engineering services to be provided by
+Licensor under such Task Orders will be mutually agreed by the parties prior to issuance by Licensee.
+
+Licensor agrees to provide engineering services to Licensee under the resulting engineering services agreement at [**] for a period of [**] after the Effective Date of this Agreement. The [**] for engineering services
+thereafter will increase to $[**] for the next [**] and thereafter be [**]. Licensee agrees to pay Licensor [**] associated with such services and maintenance provided at Licensee’s facility or Licensee designated location.
+
+
+** Material has been omitted and
+filed separately with the Commission.
+
+
+22
+
+

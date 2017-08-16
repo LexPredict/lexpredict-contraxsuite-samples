@@ -1,0 +1,780 @@
+
+
+
+
+
+
+
+Order on Claim Construction and Cross-Motions
+
+
+
+Exhibit 99.1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+
+
+MONOLITHIC POWER SYSTEMS,
+INC., a Delaware
+corporation,
+No. C 04-2000 CW
+
+(consolidated with
+No. C 06-2929 CW)
+
+Plaintiff,
+
+
+v.
+
+ORDER ON CLAIM CONSTRUCTION AND
+CROSS-MOTIONS FOR SUMMARY
+JUDGMENT
+
+O2 MICRO INTERNATIONAL
+LIMITED, a Cayman
+Island
+corporation,
+
+
+Defendant.
+
+
+AND RELATED COUNTERCLAIMS
+
+
+O2 MICRO INTERNATIONAL
+LIMITED, a Cayman Island
+corporation,
+
+
+Plaintiff,
+
+
+v.
+
+
+MONOLITHIC POWER SYSTEMS,
+INC., a Delaware corporation,
+et al.,
+
+
+Defendants.
+
+
+AND RELATED COUNTERCLAIMS AND
+CROSS-CLAIMS
+
+
+
+
+
+
+
+
+
+Plaintiff O2 Micro International Limited and Defendants Monolithic
+Power Systems, Inc. (MPS), Michael Hsing, Advanced Semiconductor Manufacturing Company, Ltd. (ASMC), ASUSTeK Computer, Inc., and Compal Electronics, Inc. (collectively, Defendants) dispute the meaning of terms and phrases used in 02 Micro’s
+U.S. Patent No. 6,259,615 (the ‘615 patent), its U.S. Patent No. 6,396,722 (the ‘722 patent) and its U.S. Patent No. 6,804,129 (the ‘129 patent) .1 02 Micro requests that the Court adopts the claim constructions previously adopted by this Court and by the Eastern District of Texas court. Defendants ask the
+Court to adopt their proposed construction of two disputed phrases. In addition, O2 Micro moves for summary judgment based on collateral estoppel. Defendants oppose the motion and cross-move for summary judgment. O2 Micro opposes their motion for
+summary judgment. The matters were heard on October 27, 2006. Having considered the parties’ papers, the evidence cited therein and oral argument, the Court construes the disputed terms and phrases as set forth below. In addition, the
+Court denies O2 Micro’s motion for summary judgment and grants in part Defendants’ motion for summary judgment and denies it in part.
+BACKGROUND
+I. Patents at issue
+The
+‘615, ‘722 and ‘129 patents are all entitled: “High-Efficiency Adaptive DC/AC Converter.” They are related to the same technology: the ‘129 patent is a continuation of the ‘722
+
+
+
+1
+On October 11, 2006, the Court signed O2 Micro's stipulated dismissal with prejudice of its claim
+concerning the ’129 patent. Thus, this patent is no longer at issue.
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+patent, which is a continuation of the ‘615 patent. All three patents share the same specification. And all three have been asserted in prior
+litigation. The patents claim a direct current (DC) to alternating current (AC) power converter circuit, more specifically, a high efficiency controller circuit that regulates power delivered to a load using a zero-voltage-switching technique.
+
+II. This Action
+In May, 2004, MPS filed the
+04-2000 suit in this district against O2 Micro for a declaratory judgment finding O2 Micro’s ‘722 patent invalid and not infringed. O2 Micro counterclaimed and added ASMC as a counterdefendant.
+Five months after MPS filed suit in this district, O2 Micro filed suit in the Eastern District of Texas, accusing MPS of infringing O2 Micro’s
+‘129 patent. O2 Micro amended its complaint, asserting that ASMC infringed the ‘129 patent and that ASUSTeK and Compal infringed the ‘129 patent, the ‘722 patent and O2 Micro’s ‘615 patent. Various cross-claims and
+counterclaims were filed, and new parties were added. The Texas action was transferred to this Court, and assigned Case No. 06-2929. After the case was transferred, the Court found the 06-2929 case to be related to the 04-2000 case and
+consolidated the cases.
+III. The Sumida Litigation
+In January, 2003, two weeks after MPS had agreed to indemnify its customer Taiwan Sumida Electronics, Inc. (Sumida) from certain patent infringement actions brought by O2 Micro, O2 Micro brought suit against Sumida in
+the Eastern District of
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Texas for infringing its ‘615 and ‘722 patents. See O2 Micro International v. Taiwan Sumida Electronics, Inc., Case No. 2:03-cv-007 TJW
+(E.D. Tex.) (the Sumida litigation). Under the indemnity agreement, MPS agreed to pay any and all losses, damages, demands, liability and expenses, including attorneys’ fees and court costs, and final judgment entered against Sumida, or
+any settlement amount. The agreement also provided that MPS would have sole control over any action against Sumida or settlement negotiations concerning that action. After O2 Micro sued Sumida, MPS, as agreed, took over the defense of Sumida. Two
+weeks before trial, however, MPS terminated the agreement. MPS then brought an action in this district against Sumida for breach of the indemnity agreement.
+On November 17, 2005, a jury in Texas found that claims 1, 2, 9, 12 and 18 of the ‘722 patent are valid and that Sumida’s use of MPS chips infringed claims 1, 2, 9, 12 and 18 of that patent. Sumida has
+appealed the final judgment in that action. O2 Micro contends that MPS is estopped from litigating the issues of validity and infringement that were determined on the merits in the Sumida litigation.
+DISCUSSION
+I. Claim Construction
+The construction of a patent is a matter of law for the Court. Markman v. Westview Instruments, Inc., 517 U.S. 370, 372 (1996). As O2 Micro notes,
+several orders from multiple courts have construed various terms and phrases of its ‘615 and ‘722 patents. This Court, in Case No. 00-4071 (consolidated with Case No. 01¬3995), issued a claim construction order concerning
+
+
+
+4
+
+
+
+
+
+
+
+
+
+the ‘615 patent. Judge Ward, in the Eastern District of Texas, issued a claim construction order in the Sumida litigation concerning the
+‘615 and ‘722 patents, as well as claim construction orders in other actions concerning the ‘615, ‘722 and ‘129 patents. The orders have maintained consistent constructions for the terms and phrases of the patents at issue.
+
+O2 Micro contends that, in light of these past claim construction orders, there is no need to construe any additional terms or phrases;
+instead, the Court should use the terms and phrases as they have been defined in previous litigation. It suggests that, to the extent the parties dispute constructions provided in these orders, the parties should reserve their rights to maintain
+those disputes on appeal.
+Defendants do not contend that additional terms or phrases need to be defined; they agree with O2 Micro’s
+suggestion of reserving their rights to maintain disputes on appeal. Nonetheless, they challenge two phrases: “only if,” which appears in the ‘615 patent and which was previously defined by this Court, and “first state/second
+state,” which appears in the ‘722 patent and which was previously defined by Judge Ward. They contend that these phrases are limited to DC/AC converters and related methods employing both closed-loop and fixed, open-loop power regulation.
+
+The Court previously construed “‘only if’ to modify ‘controlling,’ meaning that the second pulse signal controls
+the conduction state of the second plurality of switches only if the feedback signal is above a predetermined threshold.” December 27, 2002 Order Construing Disputed Claims and Terms
+
+
+
+5
+
+
+
+
+
+
+
+
+
+(Consolidated Cases No. 00-4071 CW and 01-3995 CW). Judge Ward adopted this Court’s claim construction in the Sumida litigation. Judge Ward
+construed the “first state/second state” limitation as follows: “in a first state, or mode, the second pulse signal overlaps the first pulse signal to deliver an amount of power to the load determined by the feedback signal. In a
+second state, or mode, the second pulse signal overlaps the first pulse signal by a predetermined minimum amount to deliver a predetermined minimum power to the load.” Chang Dec., Ex. 3. Defendants provide no good cause to alter the
+construction of these phrases at this date. These two phrases shall be construed as they were previously construed by this Court and Judge Ward.
+II.
+Summary Judgment
+A. Legal Standard
+Summary
+judgment is properly granted when no genuine and disputed issues of material fact remain, and when, viewing the evidence most favorably to the non-moving party, the movant is clearly entitled to prevail as a matter of law. Fed. R. Civ. P. 56;
+Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); Eisenberg v. Ins. Co. of N. Am., 815 F.2d 1285, 1288-89 (9th Cir. 1987).
+The moving party bears the burden of showing that there is no material factual dispute. Therefore, the court must regard as true the opposing party’s evidence, if supported by affidavits or other evidentiary material. Celotex,
+477 U.S. at 324; Eisenberg, 815 F.2d at 1289. The court must draw all reasonable inferences in favor of the party against whom summary
+
+
+
+6
+
+
+
+
+
+
+
+
+
+judgment is sought. Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986); Intel Corp. v. Hartford Accident & Indem.
+Co., 952 F.2d 1551, 1558 (9th Cir. 1991).
+Material facts which would preclude entry of summary judgment are those which, under
+applicable substantive law, may affect the outcome of the case. The substantive law will identify which facts are material. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).
+Where the moving party does not bear the burden of proof on an issue at trial, the moving party may discharge its burden of production by either of two
+methods. Nissan Fire & Marine Ins. Co., Ltd., v. Fritz Cos., Inc., 210 F.3d 1099, 1106 (9th Cir. 2000).
+The moving party
+may produce evidence negating an essential element of the nonmoving party’s case, or, after suitable discovery, the moving party may show that the nonmoving party does not have enough evidence of an essential element of its claim or defense to
+carry its ultimate burden of persuasion at trial.
+Id.
+If the moving party discharges its burden by showing an absence of evidence to support an essential element of a claim or defense, it is not required to produce evidence showing the absence of a material fact on such
+issues, or to support its motion with evidence negating the non-moving party’s claim. Id.; see also Lujan v. Nat’l Wildlife Fed’n, 497 U.S. 871, 885 (1990); Bhan v. NME Hosps., Inc., 929 F.2d 1404, 1409 (9th Cir.
+1991). If the moving party shows an absence of evidence to support the non-moving party’s case, the burden then shifts to the non-moving party to produce “specific evidence, through affidavits or admissible discovery material, to show that
+the dispute exists.” Bhan, 929 F.2d at 1409.
+
+
+7
+
+
+
+
+
+
+
+
+If the moving party discharges its burden by negating an essential element of the non-moving party’s
+claim or defense, it must produce affirmative evidence of such negation. Nissan, 210 F.3d at 1105. If the moving party produces such evidence, the burden then shifts to the non-moving party to produce specific evidence to show that a dispute
+of material fact exists. Id.
+If the moving party does not meet its initial burden of production by either method, the non-moving
+party is under no obligation to offer any evidence in support of its opposition. Id. This is true even though the non-moving party bears the ultimate burden of persuasion at trial. Id. at 1107.
+Where the moving party bears the burden of proof on an issue at trial, it must, in order to discharge its burden of showing that no genuine issue of
+material fact remains, make a prima facie showing in support of its position on that issue. UA Local 343 v. Nor-Cal Plumbing, Inc., 48 F.3d 1465, 1471 (9th Cir. 1994). That is, the moving party must present evidence that, if
+uncontroverted at trial, would entitle it to prevail on that issue. Id.; see also Int’l Shortstop, Inc. v. Rally’s, Inc., 939 F.2d 1257, 1264-65 (5th Cir. 1991). Once it has done so, the non-moving party must set forth
+specific facts controverting the moving party’s prima facie case. UA Local 343, 48 F.3d at 1471. The non-moving party’s “burden of contradicting [the moving party’s] evidence is not negligible.” Id. This
+standard does not change merely because resolution of the relevant issue is “highly fact specific.” Id.
+
+
+8
+
+
+
+
+
+
+
+
+B. O2 Micro’s Motion for Summary Judgment Based on Collateral Estoppel
+Based on the verdict in the Sumida litigation, O2 Micro seeks summary adjudication that MPS is not permitted
+to litigate the issue of validity of claims 1, 2, 9, 12 and 18 of the ‘722 patent or the issue of infringement of claims 1, 2, 9 and 18 of that patent.2 According to O2 Micro, MPS is collaterally estopped from relitigating these issues that were previously decided in the Sumida litigation. O2 Micro further argues that the finding that the
+‘722 patent is valid and that the ‘722 patent claims are infringed by the MPS inverter controllers also applies to ASMC, ASUSTeK and Compal.
+The Ninth Circuit explains, “‘We have in this nation a deep-rooted historic tradition that everyone should have his own day in court,’ and we accordingly presume that ‘a judgment or decree among
+parties to a lawsuit resolves issues as among them, but it does not conclude the rights of strangers to those proceedings.’” Kourtis v. Cameron, 419 F.3d 989, 995-96 (9th Cir. 2005) (quoting Headwaters Inc. v. U.S. Forest
+Serv., 399 F.3d 1047, 1050 (9th Cir. 2005)). Nonetheless, a court will sometimes apply collateral estoppel to non-parties to prevent “relitigation of issues actually litigated and necessarily decided, after a full and fair opportunity for
+litigation, in a prior proceeding.” Id. Whether to apply the doctrine of
+
+
+
+2
+O2 Micro notes that, because it maintained at the Sumida trial that the Sumida inverter modules
+were different than the MPS reference design, it does not seek an order precluding MPS from challenging infringement of claim 12 of the ‘722 patent.
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+collateral estoppel “is left to the district court’s discretion.” United States v. Geophysical Corp. of Alaska, 732 F.2d 693, 697 (9th
+Cir. 1984).
+A federal court decision has preclusive effect where “(1) the issue necessarily decided at the previous proceeding is
+identical to the one which is sought to be relitigated; (2) the first proceeding ended with a final judgment on the merits; and (3) the party against whom collateral estoppel is asserted was a party or in privity with a party at the first
+proceeding.” Kourtis, 419 F.3d at 994. With respect to the third prong, the Ninth Circuit instructs:
+Because the concept of
+privity extends the reach of a judicial decision to nonparties and thereby deprives them of their own day in court, due process considerations make adequacy of representation a prerequisite to privity. Indeed, the Supreme Court has repeatedly
+emphasized that it would violate the Due Process Clause . . . to bind litigants to a judgment rendered in an earlier litigation to which they were not parties and in which they were not adequately represented.
+Kourtis, 419 F.3d at 994 (citations and quotations omitted; alteration in original).
+Sumida did not adequately represent MPS’ interest in the Sumida litigation. O2 Micro’s arguments otherwise are unavailing. As MPS points out, MPS and O2 Micro are competitors. Sumida is not a
+competitor of O2 Micro; rather, it is O2 Micro’s customer. While O2 Micro’s action against Sumida was pending, Sumida presented O2 Micro with the “Best Value Partner” award “given to companies that provide advanced
+technology to customers, helping them meet their request of time to market with delivery that is always on time, and excellent
+
+
+
+10
+
+
+
+
+
+
+
+
+
+technical support.” Brigham Dec., Ex. 48. Sumida owns 60,000 shares of O2 Micro’s stock. MPS currently has an action pending before this Court
+against Sumida, accusing it of breaching the agreement under which MPS was supposed to have control over O2 Micro’s suit against Sumida.
+Furthermore, as explained in Wilson Sporting Goods Co. v. Geoffrey & Assoc., 1989 U.S. Dist. LEXIS 16932 (D. S.C.), “preclusion should be denied in cases where the plaintiff could have easily joined the parties in an
+earlier action.” Here, O2 Micro could have joined MPS in its Texas suit against Sumida, but it chose not to do so.
+Because there was
+no adequate representation and because O2 Micro could have easily joined MPS in the Sumida action, the decision in the Sumida litigation has no preclusive effect on MPS. MPS is not collaterally estopped from litigating the validity of claims
+1, 2, 9, 12 and 18 and infringement of claims 1, 2, 9 and 18 of the ‘722 patent. Nor are ASMC, ASUSTeK and Compal liable for infringing claims 1, 2, 9 and 18 of the ‘722 patent based on the jury’s verdict in the Sumida
+litigation.
+C. Defendants’ Motions for Summary Judgment
+Defendants bring numerous motions for summary judgment. Some are brought by all Defendants, others are brought only by one or two Defendants: all Defendants move for summary judgment based on their proposed claim
+constructions concerning open-loop control; all Defendants move for summary judgment that claims 12 and 14 of the ‘722 patent are not infringed and that claim 12 is not valid; all Defendants move for summary judgment that O2 Micro has no
+evidence of damages; ASUSTeK and Compal move for
+
+
+
+11
+
+
+
+
+
+
+
+
+
+summary judgment that O2 Micro is collaterally estopped from asserting the ‘615 patent and that claim 24 of the ‘129 patent is invalid; ASMC moves
+for summary judgment that it does not contributorily infringe; and ASMC, ASUSTeK and Compal move for summary judgment of no collateral estoppel concerning the ‘722 patent.
+1. Open-loop control
+Defendants contend
+that O2 Micro presents no evidence of open-loop control in Defendants’ accused products and, therefore, that they do not infringe. They further contend that, if the Court rejects their proposed claim construction, requiring closed-loop and
+open-loop control, O2 Micro’s claims are, as a matter of law, invalid.
+a. Infringement
+The Federal Circuit instructs, “An infringement analysis is a two-step process in which the court first determines, as a matter of law, the correct
+claim scope, and then compares the properly-construed claim to the accused device to determine, as a matter of fact, whether all of the claim limitations are present, either literally or by a substantial equivalent, in the accused device.”
+Johnson Worldwide Assoc., Inc. v. Zebco Corp., 175 F.3d 985, 988 (Fed. Cir. 1999). The basis of Defendants’ non-infringement position is that their accused products do not incorporate a control network that provides both open-loop and
+closed-loop control. As discussed above, however, the Court rejected Defendants’ proposed claim construction. Therefore, the Court cannot rule, as a matter of law, that Defendants’ products do not infringe because the products lack an
+open-control loop.
+
+
+12
+
+
+
+
+
+
+
+
+b. Doctrine of Equivalents
+Defendants assert that O2 Micro is estopped from asserting that they infringe under the doctrine of equivalents. Under prosecution history estoppel, where an amendment is made to secure a patent and the amendment
+narrows the scope of the patent, a presumption arises that infringement under the doctrine of equivalents is no longer available for the amended element. Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki, 535 U.S. 722, 736 (2002). The
+presumption can be overcome if the equivalent was unforeseeable at the time of the application, the rationale underlying the amendment bears no more than a tangential relation to the equivalent in question, or there was some other reason suggesting
+that the patentee could not reasonably be expected to have described the “‘insubstantial substitute’” in question. Ranbaxy Pharm. Inc. v. Apotex, Inc., 350 F.3d 1235, 1241 (Fed. Cir. 2003) (quoting Festo Corp., 525
+U.S. at 740-41).
+As Defendants note, here, O2 Micro originally sought broad claims covering full-bridge inverters that provided power
+regulation based upon feedback from a load. The patent examiner rejected those claims. Rather than argue for allowance of its original claims, O2 Micro amended its claims. Therefore, Defendants argue that the prosecution history estoppel doctrine
+prevents O2 Micro from asserting infringement under the doctrine of equivalents.
+
+
+13
+
+
+
+
+
+
+
+
+O2 Micro responds that Defendants speak in generalities. It notes that Defendants point to no particular
+claim limitation that was amended to narrow its scope to overcome a prior art rejection. Although Defendants discuss the “only if” limitation in other sections of their motion, they do not show that the “only if” limitation was
+added to narrow any claim in response to the patent examiner’s objection and to secure the patent. O2 Micro further argues that there is a triable issue of fact as to whether it can overcome the Festo presumption, noting that in O2
+Micro International Ltd. v. Beyond Innovation Technology, Case No. 2:04¬cv-32 TJW (E.D. Tex.), the court ruled that the claim amendment relating to the “only if” limitation was only tangentially related to that equivalent and
+that O2 Micro was not precluded from asserting the doctrine of equivalents to cover that equivalent.
+Defendants fail to address any of the
+points O2 Micro raises. Instead, in their reply, they note that O2 Micro does not dispute that it originally submitted broad claims, which were rejected, and that it added the “only if” and “first state/second state” limitations
+to its claim to overcome the patent examiner’s rejections. But, as O2 Micro points out, Defendants did not clearly state in their moving papers that they were seeking to bar O2 Micro from asserting infringement under the doctrine of equivalents
+with respect to the “only if” and “first state/second state” limitations. Furthermore, there is a disputed issue of fact as to whether O2 Micro’s amendment bears only a tangential relationship to the equivalents at issue.
+Therefore, the Court denies summary judgment that O2 Micro is precluded from asserting the doctrine of equivalents.
+
+
+14
+
+
+
+
+
+
+
+
+c. Invalidity
+Defendants argue that, as a matter of law, the claims containing “only if” and “first state/second state” limitations are invalid, unless they are construed as Defendants propose. A patent is
+presumed to be valid. 35 U.S.C. § 282. Therefore, the party alleging that a patent is invalid bears the burden of proof, id., and must overcome this statutory presumption of validity by proving invalidity through clear and convincing
+evidence. Ultra-Tex Surfaces, Inc. v. Hill Bros. Chem. Co., 204 F.3d 1360, 1367 (Fed. Cir. 2000).
+“A patent is invalid for
+anticipation when the same device or method, having all of the elements contained in the claim limitations, is described in single prior art reference.” Crown Operations Int’l, Ltd. v. Solutia Inc., 289 F.3d 1367, 1375 (Fed. Cir.
+2002); see also Scripps Clinic & Research Fdn. v. Genentech, Inc., 927 F.2d 1565, 1576 (Fed. Cir. 1991) (“Invalidity for anticipation requires that all of the elements and limitations of the claim are found within a single prior
+art reference.”). “An anticipating reference must describe the patented subject matter with sufficient clarity and detail to establish that the subject matter existed in the prior art and that such existence would be recognized by persons
+of ordinary skill in the field of invention.” Crown Operations, 289 F.3d at 1375.
+A patent is invalid for obviousness if the differences
+between it and the prior art “are such that the subject matter
+
+
+
+15
+
+
+
+
+
+
+
+
+
+as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art.” 35 U.S.C. § 103(a). To
+determine if a patent is invalid for obviousness, the court must consider the scope and content of the prior art, the difference between the patented invention and the prior art, and the level of skill in the art. Graham v. John Deere Co.,
+383 U.S. 1, 17 (1966); see also Crown Operations, 289 F.3d at 1375. “Determinations of obviousness cannot be based on the hindsight combination of components selectively culled from the prior art to fit the parameters of the patented
+invention.” ATD Corp. v. Lydall, Inc., 159 F.3d 534, 546 (Fed. Cir. 1998).
+Defendants contend that, if O2 Micro successfully
+argues that its claims reciting the “only if” limitation cover any full-bridge inverter that provides open-lamp protection based upon feedback received from a CCFL load, then those claims would be invalid in view of U.S. Patent
+No. 5,420,799 (the Payne ‘799 patent) and other prior art references. They further contend that, if the “first state/second state” limitation is construed in a manner allowing coverage of inverters providing open-lamp protection
+based upon detected lamp current, then those claims are not valid. Defendants do not, however, explain how the claims are invalid, nor do they address any of the claim language at issue; they merely cite to their invalidity claim charts.
+
+The Court finds that Defendants have not made an adequate showing or met their burden of proving invalidity, as a matter of law, by clear and
+convincing evidence. There are disputed issues of fact regarding the validity of the claims and, therefore, the Court denies summary judgment that the claims are invalid.
+
+
+16
+
+
+
+
+
+
+
+
+2. Claims 12 and 14 of the ‘722 patent
+Defendants argue that claims 12 and 14 of the ‘722 patent are not infringed and, furthermore, that claim 12 is
+invalid in view of Frank Goodenough’s article entitled DC-to-AC Invert Ups CCFL Lumens Per Watt, published in July, 1995.3
+a. Infringement
+Defendants contend that O2 Micro’s expert, Dr. V. Thomas Rhyne, acknowledged that Defendants’ accused products do not employ phase-modulation and do not adjust the “phase overlap” of any
+pulse; therefore, Defendants’ products cannot literally infringe claims 12 and 14 of the ‘722 patent. Defendants further contend that they cannot infringe claim 12 by the doctrine of equivalents due to prosecution history estoppel.
+
+O2 Micro notes, however, the term “phase-modulation” does not appear in the final transcript of Dr. Rhyne’s deposition
+testimony. It accuses Defendants of citing Dr. Rhyne’s deposition out of context, contending that he is talking about “phase shifting,” not “phase overlap.” O2 Micro notes that,
+
+
+
+3
+Claim 12 requires, in part, "a feedback control loop circuit receiving a feedback signal indicative of
+power being supplied to said load and adapted to generate a second pulse signal for controlling the conduction state of a different one of said first pair of switches, said second pulse signal having a phase overlap with said first pulse signal to
+deliver power to said load only if said feedback signal is above a predetermined threshold." Claim 14 is dependant upon claim 12 and consists of "[a]n inverter as claimed in claim 12, wherein if said feedback signal is below said predetermined
+threshold, said feedback loop generating said second pulse signal to have a minimum phase overlap with said first pulse signal to reduce power delivered to said load to a predetermined minimum amount."
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+although Defendants state that O2 Micro is not entitled to prove infringement by the doctrine of equivalents, they fail to identify any amendment that
+narrowed the scope of a claim in response to the patent examiner’s objection.
+The Court finds that there is a disputed issue of fact
+as to whether Dr. Rhyne’s testimony at issue concerned phase shifting or phase overlap. Therefore, summary judgment that claims 12 and 14 of the ‘722 patent are not infringed is not warranted; nor is O2 Micro, as a matter of law,
+barred from showing that Defendants infringe based on the doctrine of equivalents.
+b. Invalidity
+Defendants contend that O2 Micro, in its responses to their request for admissions (RFA), admitted that the Goodenough reference discloses each of the
+elements of claim 12. O2 Micro disagrees, arguing that its responses do not mirror the elements of claim 12. It notes that RFA 88 omits a limitation of the element it purportedly mirrors. Specifically, it omits the portion of the element requiring
+the claimed feedback signal to be “indicative of power being supplied to said load.” RFA 88 uses the term “a feedback signal,” instead of “said feedback signal,” and thereby omits the requirement tying the “only
+if” and “predetermined threshold” limitations to the claimed feedback signal.
+Defendants respond that O2 Micro quibbles
+with the language of the admissions, but fails to come forth with any evidence in its opposition. O2 Micro, however, is not required to submit evidence. Instead, it can point out that Defendants fail to
+
+
+
+18
+
+
+
+
+
+
+
+
+
+meet their initial burden; that is what O2 Micro does. Therefore, summary judgment of invalidity of claim 12 is not appropriate.
+3. O2 Micro’s evidence of damage
+Defendants contend that the report by O2 Micro’s damages expert, Walter Bratic, is not “the product of reliable principles and methods” and would not serve to “assist the trier of fact to understand the evidence or to
+determine a fact in issue,” and, therefore, the Court should preclude O2 Micro from presenting any testimony from Mr. Bratic. Fed. R. Evid. 702; Daubert v. Merrell Dow Pharm., Inc., 509 U.S. 579, 591-94 (1993). Because O2
+Micro’s damages case is based entirely upon Mr. Bratic’s report, Defendants argue that they are entitled to summary adjudication that O2 Micro has no evidence of damages.
+A reasonable royalty analysis, like the one Mr. Bratic provides, “necessarily involves an element of approximation and uncertainty.”
+Unisplay S.A. v. Am. Elec. Sign Co., 69 F.3d 512, 517 (Fed. Cir. 1995). An expert determines a reasonable royalty based upon hypothetical negotiations and numerous factors, some of which are prescribed in Georgia-Pacific Corp. v. United
+States Plywood Corp., 318 F. Supp. 1116, 1120 (S.D.N.Y. 1970), modified and aff’d, 446 F.2d 295 (2d Cir. 1971). Nonetheless, an expert report on damages, including a reasonable royalty analysis, may not rely on unreasonable
+inferences or resort to “mere speculation or guess.” Central Soya Co. v. Geo. A. Hormel & Co., 723 F.2d 1573, 1576 (Fed. Cir. 1983). The patent owner bears the burden of proving the amount of its damages, whether a
+reasonable royalty or lost profits. Oiness v. Walgreen Co., 88 F.3d 1025, 1029 (Fed. Cir. 1996).
+
+
+19
+
+
+
+
+
+
+
+
+Mr. Bratic’s report states that the appropriate reasonable royalty rate for MPS’ alleged
+infringement is a percentage “of the average retail price of a notebook computer.” Using this approach, Mr. Bratic found that the appropriate reasonable royalty is $149 million, even though MPS’ total sales of accused products is
+$77.9 million and not all of the accused products are used in notebook computers. This approach has several flaws.
+First, as noted above,
+it ignores that not all of MPS’ allegedly infringing chips are used in notebook computers; some are used in LCD monitors and others are used in handheld personal data assistants. O2 Micro responds that MPS has neither cited nor produced any
+records that would allow Mr. Bratic to calculate a reasonable royalty for non-notebook uses of the infringing chips. However, O2 Micro, as the patent holder, bears the burden of proving its damages. If MPS refused to produce information that
+Mr. Bratic required to determine the reasonable royalty, then O2 Micro needed to get that information, if necessary through a motion to compel. O2 Micro fails to show any effort it took to get all the information necessary for its expert to
+provide a reasonable royalty calculation that does not rely on unreasonable inferences or speculation.
+Second, O2 Micro’s reasonable
+royalty calculation is based on Mr. Bratic’s determination that $3.04, the premium that Dell allegedly paid for O2 Micro’s OZ960A inverter controller in
+
+
+
+20
+
+
+
+
+
+
+
+
+
+1999, represents a starting point in determining the royalty rate. In his report, Mr. Bratic acknowledges that this controller did not utilize the
+patented technology. Defendants note that, under a reasonable royalty theory, the hypothetical licensee would pay only for the value of the patented invention. Riles v. Shell Exploration and Prod. Co., 298 F.3d 1302, 1312 (Fed. Cir. 2002). 02
+Micro responds that the alleged price paid for its OZ960A inverter controller is relevant because that inverter controller, like the patented technology, included open lamp protection. It explains that O2 Micro’s other inverter controller, the
+OZ962 product, lacked the open lamp protection. Therefore, O2 Micro argues that the price paid for its OZ960A inverter controller reflects the value of the open lamp protection.
+The cited evidence, however, in particular Dr. Yung-Lin Lin’s deposition testimony does not support O2 Micro’s response or
+Mr. Bratic’s report. Dr. Lin testifies, as O2 Micro’s Rule 30(b)(6) witness, that both the OZ962 and the OZ960A controllers had internal open-lamp and short-circuit protection: “I want to clarify this. I say that internal
+open-lamp and short-circuit protection in OZ962, that function is very similar to OZ962A’s internal circuit design.” Brigham Supp. Dec., Ex. 2, 96:11-13. He testified that he doubted that the OZ962 product was ever offered to Dell. O2
+Micro’s sales records show that from June 1 to November 30, 1998, the average sales price, $1.89, for the alleged “inferior” OZ962 product was fourteen cents more than the average sales prices for the “superior”
+OZ960A product.
+
+
+21
+
+
+
+
+
+
+
+
+Third, as Defendants point out, Mr. Bratic’s report does not account for the law of supply and
+demand. Mr. Bratic hypothesizes a royalty that would triple the average selling price for MPS’ accused products, but he makes no allowance for the impact that increased prices would have had on demand. The Federal Circuit states, “All
+markets must respect the law of demand. According to the law of demand, consumers will almost always purchase fewer units of a product at a higher price than at a lower price, possibly substituting other products.” Crystal Semiconductor
+Corp. v. TriTech Microelectronics Intern., Inc., 246 F.3d 1336, 1359 (Fed. Cir. 2001) (citing Paul A. Samuelson, Economics 53-55 (11th ed. 1980)). O2 Micro attempts to distinguish this case, noting that the plaintiff there sought lost
+profits, not a reasonable royalty. That difference, however, is inconsequential.
+O2 Micro complains that Defendants’ motion is a
+Daubert motion, couched as a motion for summary judgment. It cites Sharp Corp. v. AU Optronics Corp., 2005 WL 1457747 (N.D. Cal.), where the court denied summary judgment, concluding that “defendants have failed to offer evidence,
+from an economist or otherwise, to support their argument that the methodology employed by plaintiff’s expert . . . is not reliable.” See also Monster Cable Products, Inc. v. Quest Group, 2005 WL 1875466, n.3 (N.D. Cal.) (concluding
+that unsupported Daubert challenge was “not appropriate on a motion for summary judgment”). Defendants’ motion is a Daubert motion, but their motion is not unsupported, as were the Daubert challenges in Sharp
+Corp. and Monster Cable Products. Defendants have not offered evidence
+
+
+
+22
+
+
+
+
+
+
+
+
+
+from an economist or other expert, but they do point to flaws in Mr. Bratic’s report that, when combined, are serious enough to render it
+unreliable and inadmissible. As a result, O2 Micro has not met its burden of proving damages. The Court grants summary judgment in favor of Defendants that O2 Micro has presented no evidence of damages.
+4. Collateral estoppel and the ‘615 patent
+ASUSTeK and Compal argue that they are entitled to summary judgment of non-infringement of the ‘615 patent based on this Court’s previous finding, in Case No. 00-4071 (consolidated with Case No. 01-3995), that MPS’
+inverter controller, incorporated into ASUSTeK and Compal products, does not infringe the ‘615 patent.
+As discussed above, a federal
+court decision has preclusive effect where “(1) the issue necessarily decided at the previous proceeding is identical to the one which is sought to be relitigated; (2) the first proceeding ended with a final judgment on the merits; and
+(3) the party against whom collateral estoppel is asserted was a party or in privity with a party at the first proceeding.” Kourtis, 419 F.3d at 994. Unlike O2 Micro’s motion for summary judgment based on estoppel, discussed
+above, here, the third-prong is not disputed: O2 Micro was a party to the prior litigation involving the ‘615 patent. What is disputed is whether there was a final judgment on the merits and whether it would be inequitable to preclude O2 Micro
+from bringing its claims against ASUSTeK and Compal.
+In Case No. 00-4071, the Court granted MPS’ motion for summary judgment of
+non-infringement of the ‘615 patent because
+
+
+
+23
+
+
+
+
+
+
+
+
+
+O2 Micro did not meet its burden of producing evidence that MPS met the “only if” limitations of the ‘615 patent. O2 Micro contends that
+collateral estoppel should not attach to this prior summary judgment because O2 Micro was precluded from a substantive ruling on the merits of its allegations and, therefore, there was no final judgment on the identical issue of whether MPS’
+products infringed the asserted ‘615 patent claims. According to O2 Micro, the Court’s decision rested on a procedural basis which was tantamount to a discovery sanction: the Court did not allow O2 Micro belatedly to supplement its
+infringement contentions. But, as noted above, the Court’s decision was based on failure of proof. The Federal Circuit recently affirmed this decision. 02 Micro Int’l, Ltd. v. Monolithic Power Sys., 467 F.3d 1355 (Fed. Cir. 2006).
+
+O2 Micro cites Jumpsport Inc. v. Hedstrom Corp., 2004 WL 2203556 (N.D. Cal.), and, as noted above, argues that fairness and equity
+would not be served by applying collateral estoppel here. But its reliance on Jumpsport is unavailing. Jumpsport held that res judicata did not bar a patentee from asserting a new claim involving different accused products. Here, the
+same products are involved. O2 Micro’s reliance on fairness and equity is similarly unavailing. It had a fair opportunity to litigate the issue of MPS’ infringement of the ‘615 patent, and it lost.
+Therefore, the Court concludes that ASUSTeK and Compal are entitled to summary judgment of non-infringement of the ‘615 patent as a result of this
+Court’s previous finding that the MPS product they use does not infringe the ‘615 patent.
+
+
+24
+
+
+
+
+
+
+
+
+5. Claim 24 of the ‘129 patent
+ASUSTeK and Compal argue that claim 24 of the ‘129 patent is invalid because it is not supported by the patent’s specification. O2 Micro
+responds that this motion should be denied as moot. It notes that it has dismissed with prejudice the first count of its third amended complaint for infringement of the ‘129 patent and, as a result, the ‘129 patent is no longer at issue.
+ASUSTeK and Compal do not address the mootness issue.
+The Court concludes that this issue is now moot and, therefore, denies ASUSTeK and
+Compal’s motion for summary judgment of invalidity of claim 24 of the ‘129 patent.
+6. Contributory infringement
+O2 Micro’s claim against ASMC is for contributory infringement. See 35 U.S.C. § 271(c) .4 ASMC contends that this claim fails, as a matter of law, because it lacks the requisite knowledge.
+To succeed on its claim of contributory infringement against ASMC, O2 Micro, in addition to showing an act of direct infringement, must show that ASMC
+“‘knew that the combination for which its components were especially made was both patented
+
+
+
+4
+Section 271(c) provides: Whoever offers to sell or sells within the United States or imports into
+the United States a component of a patented machine, manufacture, combination or composition, or a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made
+or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+and infringing.’” Cross Med. Products, Inc. v. Medtronic Sofamor Danek, Inc., 424 F.3d 1293, 1312 (Fed. Cir. 2005) (quoting Golden
+Blount, Inc. v. Robert H. Peterson Co., 365 F.3d 1054, 1061 (Fed. Cir. 2004)); see also Cybiotronics, Ltd. v. Golden Source Elecs. Ltd., 130 F. Supp. 2d 1152, 1166 (C.D. Cal. 2001) (“the ‘knowing’ requirement is explicit in
+Section 271(c), such that actual knowledge of the patent and the infringement is requisite to a claim of contributory infringement”). As explained in Dynamis, Inc. v. Leepoxy Plastics, Inc., 831 F. Supp. 651, 655 (N.D. Ind. 1993),
+“the focus in a contributory infringement claim is on whether the accused infringer knows that the intended use of the product will infringe a known patent.”
+ASMC explains that it is a foundry that contracts with semiconductor companies, such as MPS, to manufacture semiconductor wafers to be used in a wide assortment of products. It fabricates semiconductor wafers for MPS
+in accordance with design and process specifications that are provided by MPS. Like other foundries, ASMC does not know the end-products for the wafers it makes; it manufactures semiconductor wafers for MPS without knowledge of the MPS product into
+which its wafers will ultimately be incorporated. Thus, ASMC contends that it does not have the requisite knowledge, because it does not know that the combination for which its components were especially made was both patented and infringing.
+
+O2 Micro does not proffer evidence that ASMC had actual knowledge of the patents and potential infringement prior to
+
+
+
+26
+
+
+
+
+
+
+
+
+
+being served on December 6, 2004.5 Relying on Cybiotronics, O2 Micro contends, however, that summary judgment should be denied because ASMC has been on notice since that date and yet it continues to produce the infringing products. In Cybiotronics, the
+court found that, absent proof of earlier knowledge, actual knowledge of a patent accrues on the date when the defendant was served. 130 F. Supp. 2d at 1166. But, as ASMC notes, the court granted the defendant’s summary judgment motion in part,
+holding that no liability could accrue based on any conduct that occurred before December 22, 1999, the day that the plaintiff was served and, thus, had actual knowledge. Id. at 1166, 1177. It was not disputed that, after it was served
+with the complaint, the defendant had actual knowledge that the combination for which its components were especially made was both patented and infringing. Summary judgment was denied for that period.
+ASMC contends that it cannot be liable, even after being served with O2 Micro’s complaint, because, although it now knows of the patent, it still
+lacks the requisite knowledge that it contributes to infringement. It asserts that it does not manufacture wafers “knowing the same to be especially made or especially adapted for use in an infringement of such patent,”
+
+
+
+5
+In a footnote, O2 Micro argues that the evidence shows that ASMC knew or should have known of the
+patents as early as November, 2001. Constructive notice of the patents and infringement can be sufficient to satisfy the knowledge element of section 271(c). See Philips Elec. N. Am. Corp. v. Remote Solution Co., Ltd., 411 F. Supp. 2d 479,
+483 (D. Del. 2006). But, even drawing all inferences in its favor, O2 Micro fails to show that ASMC learned of the patents through other sources or that it had constructive knowledge.
+
+
+
+
+27
+
+
+
+
+
+
+
+
+
+as required by section 271(c). Its sales manager states, “ASMC still does not know the actual product or the product numbers for the specific MPS
+products that ultimately incorporate these wafers, including whether these processed wafers are used by MPS in the manufacture of inverter controllers.” Zhou Jiangyun Dec., ¶ 18. MPS’ employees remain the only people who know which
+ASMC wafers relate to the accused inverter controllers. According to ASMC, this is not, as O2 Micro contends, “feigned ignorance”; rather, this is the way that foundries operate.
+Although ASMC does not know exactly which wafer is especially made for use in a product that allegedly infringes O2 Micro’s patents, it has known,
+since it was served, that at least some wafers that it makes for MPS are made for use in an allegedly infringing product. That knowledge is sufficient to hold it liable under section 271(c). ASMC knows that the combination for which its components
+are especially made is allegedly both patented and infringing. Therefore, the Court grants ASMC’s motion in part, finding that, as a matter of law, ASMC cannot be liable for any conduct that occurred before December 6, 2004; ASMC, however,
+may be liable for conduct occurring after that date.
+7. Collateral estoppel and the ‘722 patent
+In addition to opposing O2 Micro’s motion for summary judgment, ASMC, ASUSTeK and Compal affirmatively move for summary judgment that they are not
+collaterally estopped from challenging the infringement and validity of the ‘722 patent. O2 Micro responds that Defendants misread its motion for summary judgment because it does not assert collateral estoppel against
+
+
+
+28
+
+
+
+
+
+
+
+
+
+ASMC, ASUSTeK and Compal; instead, its motion against these Defendants is based on joint and several liability for MPS’ infringement. O2 Micro does not
+dispute that collateral estoppel cannot prevent these Defendants from defending themselves against O2 Micro’s claims. Therefore, the Court grants ASMC, ASUSTeK and Compal summary judgment that they are not collaterally estopped from challenging
+the infringement and validity of the ‘722 patent.
+CONCLUSION
+For the foregoing reasons, the Court construes the disputed terms and phrases as they have previously been construed. The Court DENIES O2 Micro’s
+Motion for Summary Judgment Based on Collateral Estoppel (Docket No. 316). Defendants’ Motion for Summary Judgment (Docket No. 363) is GRANTED IN PART AND DENIED IN PART. Specifically, the Court DENIES summary judgment that any claim
+at issue is not infringed or is not invalid and GRANTS summary judgment in favor of Defendants that O2 Micro has presented no evidence of damages. ASUSTeK and Compal’s motion for summary judgment of invalidity of claim 24 of the ‘129
+patent is DENIED as moot; their motion for summary judgment of non-infringement of the ‘615 patent, however, is GRANTED. The Court concludes that, as a matter of law, ASMC cannot be liable for conduct that occurred before December 6, 2004;
+ASMC, however, may be liable for conduct occurring after that date. In addition, the Court GRANTS ASMC, ASUSTeK and Compal summary
+
+
+
+29
+
+
+
+
+
+
+
+
+
+judgment that they are not collaterally estopped from challenging the infringement and validity of the ‘722 patent.6
+IT IS SO ORDERED.
+
+
+
+
+Dated: 2/8/07
+/s/ CLAUDIA WILKEN
+
+CLAUDIA WILKEN
+United States District
+Judge
+
+
+
+
+6
+O2 Micro’s motion for leave to file a supplemental brief in opposition to Defendants’ motions
+for summary judgment (Docket No. 630) is DENIED. All parties submitted objections to other parties’ evidence. To the extent that the Court relied upon evidence to which there is an objection, the parties’ objections are overruled. To
+the extent that the Court did not rely on such evidence, the parties’ objections are overruled as moot. The Court has not relied on any inadmissible evidence in deciding this motion.
+
+
+
+
+30
+
+

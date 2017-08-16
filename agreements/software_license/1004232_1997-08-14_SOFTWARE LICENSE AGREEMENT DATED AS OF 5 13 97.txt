@@ -1,0 +1,509 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.6
+
+
+
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Agreement is made and entered into as of May 13, 1997 by and between
+CyberCash, Inc., a corporation organized under the laws of Delaware
+("CyberCash"); and CyberCash K.K., a corporation organized under the laws of
+Japan ("CCKK").
+
+In consideration of the mutual promises set forth herein, CyberCash and CCKK
+hereby agree as follows:
+
+1.       DEFINITIONS.
+
+a. In addition to the capitalized terms defined elsewhere in this
+Agreement, the following capitalized terms shall have the following
+meanings when used in this Agreement.
+
+b. "Completion" has the meaning set forth in Section 4.a.
+
+c. "Gateway Software" means the Gateway software developed and
+operated by CyberCash for processing credit, coin, and check
+transactions in the United States.
+
+d. "Original Software" means the Gateway Software, Wallet Software,
+and Merchant Software, currently being used in the operation of the
+CyberCash services in the United States.
+
+e. "Local Gateway" means the Gateway Software, in object code form, as
+adapted and customized by CyberCash for CCKK hereunder, to handle
+transactions denominated in Yen with financial institutions located
+in Japan.
+
+f. "Local Software" means the Local Gateway Software, the Local Wallet
+Software, and the Local Merchant Software, in object code form.
+
+g. "Merchant Software" means the client software used by merchants in
+the operation of the CyberCash services in the United States.
+
+h. "Project Plan" has the meaning set forth in Section 4.a hereof.
+
+i. "Wallet Software" means the client software used by consumers in
+the operation of the CyberCash services in the United States.
+
+2.       PURPOSE OF AGREEMENT.
+
+The purposes of this Agreement shall be to enable CCKK to: (i) prepare
+specifications for the Local Software localized for the Japanese
+market; (ii) finance the development of the Local Software; (iii)
+operate the Local Software and distribute the software necessary for
+processing in the Japanese market credit transactions, CyberCoin
+transactions, and electronic check transactions denominated in Yen
+involving Japanese financial institutions; and (iv) engage in other
+business activities in connection with the foregoing.
+
+3.       DEVELOPMENT OF LOCAL SOFTWARE.
+
+a. Subject to the terms and conditions hereof, CyberCash shall develop
+for CCKK: (i) the Local Software developed for use in Japan; and
+(ii) upgrades of the Local Software.
+
+
+<PAGE>   2
+CyberCash shall also provide CCKK with maintenance and support
+service for the use of the Local Software and its upgrades.
+
+b. Subject to the terms and conditions hereof, CCKK shall pay to
+CyberCash:
+
+(i)   CyberCash's fully burdened costs for the performance of the
+development work specified in Section 4, plus $100,000, but
+not to exceed a total of US$1,100,000; and
+
+(ii)  CyberCash's fully-burdened costs (including out-of-pocket
+expenses) for the incremental development work necessary to
+adapt any upgrades or modifications to its Original Software
+and to install such upgrades or modifications in Japan;
+
+(iii) After CCKK has completed an initial public offering, a fair
+share of CyberCash's development costs for modifying and
+upgrading its technology.
+
+c. With respect to the sum specified in paragraph 3b(i) CCKK shall
+make an initial payment of US$600,000. CyberCash shall furnish CCKK
+with monthly statements setting forth the progress of the work and
+the cost of the time and materials incurred. After the sum of the
+statements exceeds US$600,000, CCKK shall pay the outstanding
+balance within 15 days of presentation.
+
+4.       SPECIFICATION OF LOCAL SOFTWARE.
+
+a. The parties hereto shall cooperate in the preparation of a project
+plan, to be completed not later than July 15, 1997, for the
+development and completion of the Local Software (the "Project
+Plan"). The Project Plan shall, provide for a schedule for the
+development of the Local Software. The parties hereto agree to use
+their best efforts to carry out all necessary activities required
+to meet the objectives of the Project Plan.
+
+b. CyberCash will use its best efforts to develop by July 15, 1997,
+proposed specifications for the Local Software. The parties shall
+make their best efforts to reach a prompt agreement on final
+specifications within 30 days of the date the specifications are
+first proposed. The Local Software shall be compliant with the
+latest version of the SET Protocol available.
+
+c. If CCKK requests modifications to the Local Software that are not
+contemplated in the specifications, CyberCash shall use reasonable
+efforts to accommodate such request.
+
+d. CyberCash shall use its best efforts to complete installation and
+acceptance testing of the Local Software pursuant to the Project
+Plan; however, CyberCash shall have no obligation to commence
+development work on the Local Software until the specifications are
+finalized.
+
+5.       OWNERSHIP OF LOCAL SOFTWARE.
+
+Upon completion of the Local Software, all rights in and to the Local
+Software shall vest in CCKK, and CCKK shall have the exclusive right
+to (i) operate the Local Software for processing transactions in Japan
+involving Japanese financial institutions and merchants and (ii) keep
+and maintain a back-up copy of the object code of the Local Software.
+After the Completion, CyberCash shall have the rights to copy,
+distribute, sub-license and modify the Local Software,
+
+2
+<PAGE>   3
+
+but only to the extent necessary for the performance of its
+obligations hereunder. Except as expressly provided herein, CyberCash
+shall not assert or claim any intellectual property rights or moral
+rights in or to any part of the Local Software. This agreement conveys
+to CCKK no rights to the Original Software or any modifications or
+derivative works thereof other than the Local Software.
+
+6.       USE OF LOCAL SOFTWARE.
+
+a. CyberCash shall make its reasonably best efforts to obtain any
+licenses or permits necessary to enable CCKK to use the Local
+Software, including (i) the acquisition on behalf of CCKK of
+sublicenses of any software constituting a part of either of the
+Local Software, without any cost to CCKK and (ii) the compliance
+with any process to be taken under the applicable regulations in
+the United States. If CyberCash is unable to obtain a license or
+permit necessary for CCKK to use the Local Software without
+additional cost, CCKK shall be responsible for paying any such
+cost. A list of the third party licenses necessary to the Local
+Software is attached as Exhibit A.
+
+b. CyberCash shall grant CCKK a license to use in Japan the CyberCash
+name and all trademarks and service marks of CyberCash associated
+with the Local Software, free of charge. CCKK will agree to comply
+with reasonable rules established by CyberCash regarding the use of
+CyberCash's trademarks and service marks.
+
+c. CyberCash shall authorize CCKK to access any other Gateways that
+CyberCash currently, or in the future, operates or licenses as part
+of its global Internet payments system for the purpose of
+processing transactions involving a party outside of Japan or
+involving currencies other than yen, subject to the terms and
+conditions that CyberCash reasonably establishes for connections to
+other Gateways, including compliance with its global system
+operating rules and connectivity standards and the payment of
+standard transaction processing fees.
+
+7.       UPGRADES
+
+a. On and after the Completion, CyberCash shall continue to develop,
+on behalf of CCKK, upgrades to the Local Software, which
+functionally correspond to those made to the Original Software or
+which CCKK from time to time reasonably determines necessary to its
+use of the Local Software in the Japanese market. CCKK shall
+provide and maintain adequate hardware and other resources for
+software upgrades and testing. Upon completion of each upgrade to
+the Local Software, such completed upgrade shall be considered to
+be a part of the Local Software as defined in Section 1.f hereof.
+
+b. As soon as possible after SET Protocol version 1.0 is available,
+necessary revision shall be made to the Local Software so that it
+is made compliant therewith.
+
+c. CCKK shall pay CyberCash its fully-burdened incremental costs of
+developing such upgrades as provided in paragraph 3b(ii), above in
+accordance with the agreement of the parties.
+
+3
+<PAGE>   4
+
+8.       MAINTENANCE
+
+a. On and after the Completion, CyberCash shall provide CCKK with
+services of maintenance releases, remote support and software
+defect corrections for the Local Software (the "Maintenance and
+Support Services"). CyberCash shall retain the right, in assigning
+a software correction, to a release and the priority of a reported
+software defect. Upon completion of each maintenance release or
+software defect correction for the Local Software, such completed
+maintenance release or software defect correction shall be
+considered to be a part of the Local Software as defined in Section
+1.f hereof.
+
+b. CCKK shall reimburse CyberCash for its fully-burdened costs of
+providing Maintenance and Support Services (which shall not exceed
+US$250,000 per year) in accordance with the agreement of the
+parties.
+
+c. CyberCash shall provide Maintenance and Support Services to CCKK in
+accordance with the terms of a Support Services and Maintenance
+Agreement to be executed by CyberCash and CCKK before the
+Completion, which shall be based on the principles set out in 8.a
+and 8.b above.
+
+9.       TRAINING OF EMPLOYEES.
+
+CyberCash shall provide initial training for personnel employed by
+CCKK in the operation and maintenance of the Local Software in
+accordance with the training schedule established in the Project Plan.
+The training shall be provided at CyberCash's facilities and shall be
+available to personnel possessing minimum qualifications specified by
+CyberCash. CCKK shall pay the travel and living expenses of the
+trainees, and CyberCash shall be responsible for the remaining costs
+of training.
+
+10.      REPRESENTATIONS AND WARRANTIES BY CYBERCASH.
+
+a. CyberCash hereby represents and warrants as follows:
+
+i)   CyberCash is a corporate entity duly organized and existing in
+good standing under the laws of the State of Delaware, and has
+the full and complete corporate power and authority to execute
+and deliver, and perform its obligations under, this Agreement;
+
+ii)  the execution and delivery by CyberCash of, and the performance
+by CyberCash of its obligations under, this Agreement have been
+duly authorized by all necessary corporate action;
+
+iii)  the execution and delivery by CyberCash of, and the
+performance by CyberCash of its obligations under, this
+Agreement (i) do not require any approval of its shareholders
+or the approval or consent of any holder of any indebtedness
+or obligations of CyberCash; (ii) except for any necessary
+export or import licenses, do not require any consent,
+approval, order or authorization of, or registration with, or
+the giving of prior notice to, any governmental authority with
+respect to the execution and delivery of this Agreement or the
+validity and enforceability thereof or the satisfaction of all
+obligations hereunder; (iv) do not contravene any applicable
+law or violate the articles of incorporation or by-laws
+
+
+
+
+
+4
+<PAGE>   5
+
+of CyberCash; and (v) do not result in any breach of, or
+constitute a default under, any agreement to which CyberCash
+is a party or by which it may be bound or affected;
+
+iv)   this Agreement shall constitute the legal, valid and binding
+obligations of CyberCash, enforceable against it in accordance
+with its terms.
+
+v)    no part of the Local Software, the Original Software, or
+CyberCash's service marks and trademarks now infringe or,
+during the term of this Agreement, shall infringe on any
+intellectual rights of a third party;
+
+vi)   there are no outstanding claims or pending lawsuits on the
+date of this Agreement in connection with any aspect of the
+Original Software or CyberCash's service marks and trademarks.
+
+b. CyberCash shall indemnify and hold CCKK harmless from and against
+any damages, liabilities, costs and expenses incurred by CCKK in
+connection with CyberCash's breach of the representations provided
+in this Section 10.
+
+11.      CONFIDENTIALITY.
+
+a. Confidential Information. The parties acknowledge that they, their
+subsidiaries and affiliated companies are the owners of valuable
+trade secrets and other confidential information and that they
+license Confidential Information (as defined below) from others.
+
+b. Non-Disclosure. All confidential information disclosed by one party
+to the other party in connection with this Agreement (the
+"Confidential Information") shall remain the property of and be
+deemed proprietary to the disclosing party. The receiving party
+agrees to receive Confidential Information in strict confidence, to
+hold Confidential Information in trust for the disclosing party and
+to use Confidential Information solely and exclusively in
+accordance with the terms of this Agreement in order to carry out
+the purposes. Notwithstanding the preceding no party to this
+Agreement shall be liable for disclosure or use of Confidential
+Information if the Confidential Information was properly in the
+public domain at the time it was disclosed or is publicly released
+in response to a subpoena, court order or other legal process under
+circumstances in which a protective order or confidentiality
+agreement has been requested by rejected by the appropriate
+judicial or other lawful authority.
+
+c. Injunctive Relief. The parties hereto acknowledge that their
+remedies under this Agreement or otherwise available at law in the
+event of a disclosure of any Confidential Information or any
+default or threatened default by either party in the performance of
+its obligations under this Section 11 will be inadequate and agree
+that the terms of this Section 11 shall be enforceable by a decree
+for the specific performance thereof by the defaulting party, or by
+an injunction against any violation of its terms, or otherwise. The
+parties hereto further acknowledge and agree that the covenants
+contained herein are necessary for the protection of legitimate
+business interests of both parties, their subsidiaries and/or
+affiliated companies and are reasonable in scope and content.
+
+5
+<PAGE>   6
+
+12.      NON-COMPETITION
+
+The parties hereto acknowledge and recognize the highly competitive
+nature of the business of CCKK and accordingly, to the extent
+permitted under any applicable law, agree that neither party hereof
+shall, directly or indirectly, from the date hereof until one (1) year
+after termination hereof, (i) induce employees of the other party to
+terminate their employment or to engage in any business directly
+competing with the other party, or (ii) induce any customer of the
+other party to terminate its relationship with the other party. or
+(iii) engage in the business of providing Internet payment services in
+Japan in competition with CCKK.
+
+13.      TERM/TERMINATION.
+
+a. This Agreement shall become effective as of the date first above
+written and shall continue in full force and effect for an
+indefinite term thereafter, unless this Agreement is sooner
+terminated pursuant to this Section 13.
+
+b. Either party hereto may terminate this Agreement by giving written
+notice to the other party, upon the occurrence of any of the
+following events:
+
+(i)   If any note or check issued by the other party is dishonored;
+
+(ii)  If the other party receives a petition for attachment,
+provisional attachment, provisional disposition or other
+execution or is subject to any disposition for failure to pay
+taxes
+
+(iii) If a petition for bankruptcy, composition, company
+reorganization, company liquidation, or special liquidation
+is filed in respect to either party:
+
+(iv)  If either party causes damage to the other party due to a
+willful act or gross negligence in connection with the
+performance of its obligations under this Agreement;
+provided, however, that in such event only the damaged party
+may terminate this Agreement; and
+
+(v)   If the other party's actions or inactions materially breach
+this Agreement.
+
+Notwithstanding the foregoing, this Agreement may be terminated by
+written agreement of the parties hereto at any time.
+
+c. In the event that this Agreement is terminated pursuant to this
+Section 13, this Agreement shall terminate without any liability or
+further obligation of any party to another, except for any breach
+of this Agreement prior to termination.
+
+d. Sections 5, 10 and 11 shall survive any expiration or termination
+of this Agreement.
+
+14.      FURTHER ACTS
+
+The parties hereto shall take whatever actions or steps are necessary
+to carry out and cause the performance of the various terms of this
+Agreement.
+
+6
+<PAGE>   7
+
+15.      DISPUTE RESOLUTION.
+
+Disputes arising under this Agreement shall be resolved by arbitration
+pursuant to the rules of the American Arbitration Association or such
+other arbitral body as the parties shall select by mutual agreement.
+This Agreement shall be interpreted in accordance with the laws of the
+Commonwealth of Virginia, without regard to its rules governing choice
+of law.
+
+16.      MISCELLANEOUS PROVISIONS.
+
+a. Notices. All notices, consents, requests and other communications
+hereunder shall be in writing and shall be deemed to have been duly
+given when (a) delivered by hand, (b) sent by telecopier (with
+receipt confirmed), provided that a copy is sent in the manner
+provided in clause (c), or (c) when received by the addressee, if
+sent by DHL, Federal Express, Airborne Express or other generally
+recognized international express delivery service (receipt
+requested), in each case to the appropriate addresses and
+telecopier numbers set forth below (or to such other addresses and
+telecopier numbers as a party may designate as to itself by notice
+to the other parties):
+
+(i)  If to CCKK:
+
+SoftBank Corp.
+3-42-3 Nihonbashi-Hamacho
+Chuo-ku
+Tokyo  103 Japan
+Telecopier No.: 81-3-5641-3402
+Attention:  Yoshitaka Kitao, Executive Vice President
+
+(ii) If to CyberCash:
+
+Reston Parkway, Suite 430
+Reston, Virginia 22091
+Telecopier No.: (703)264-5928
+Attention: Bruce Wilson
+with a copy to the General Counsel
+
+b. Headings. The headings in this Agreement are for convenience of
+reference only and shall not be given any effect in the
+interpretation of the Agreement.
+
+c. Counterparts. This Agreement may be executed in two or more
+counterparts, each of which shall be considered an original, but
+all of which together shall constitute the same instrument.
+
+d. Assignment. All of the terms and provisions of this Agreement shall
+be binding upon and inure to the benefit of and be enforceable by
+the parties hereto and their respective successors and permitted
+assigns. This Agreement shall not be assignable or transferable by
+either party hereto without prior written consent of the other
+party hereto.
+
+e. Entire Agreement; Amendment. This Agreement sets forth the entire
+understanding between the parties relating to the subject matter
+contained herein and merges all prior
+
+
+7
+<PAGE>   8
+
+agreements and understandings between them. No amendment to this
+Agreement shall be effective unless it is in writing and executed
+by the parties hereto.
+
+f. Severability. Any term or provision of this Agreement which is
+invalid or unenforceable will be ineffective to the extent of such
+invalidity or unenforceability without rendering invalid or
+unenforceable the remaining rights of the person intended to be
+benefited by such provision or any other provisions of this
+Agreement.
+
+g. No Waiver. The failure of a party to insist upon strict adherence
+to any term of this Agreement on any occasion shall not be
+considered a waiver or deprive that party of the right thereafter
+to insist upon strict adherence to that term or any other term of
+this Agreement. Any waiver must be in writing.
+
+h. Incorporation. References herein to "this Agreement" and the words
+"herein," "hereof" and words of similar import refer to this
+Agreement, and Appendix 1 hereto, as an entirety.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed, as of the date first above written.
+
+
+
+CYBERCASH, INC.
+
+
+
+By:  /s/ Bruce G. Wilson
+Name:    Bruce G. Wilson
+
+Title:  Executive Vice President
+
+
+
+CYBERCASH K.K.
+
+
+
+By:  /s/ Yoshitaka Kitao
+Name:    Yoshitaka Kitao
+
+Title: Director
+
+
+
+8
+

@@ -1,0 +1,795 @@
+
+
+
+
+
+
+
+
+
+
+<PAGE>   1
+EXHIBIT 10.28
+
+US/INTELICOM INC.
+SOFTWARE LICENSE AGREEMENT
+
+THIS AGREEMENT, made and entered into as of the seventh day of April,
+1998, by and between US/INTELICOM, Inc. (hereinafter referred to as
+"US/INTELICOM") and Quintel Cellular, LLC (hereinafter referred to as the
+"Licensee").
+
+RECITALS:
+
+A. US/INTELICOM is engaged in developing and licensing application
+software for cellular telephones to produce prepaid cellular telephones
+(hereinafter referred to as the "Phone" or "Phones"), as well as the development
+of programs, systems and services intended to support such prepaid cellular
+telephones (hereinafter referred to as the "Business").
+
+B. US/INTELICOM has the exclusive right, title and interest in and to
+said application software for prepaid cellular telephones (hereinafter referred
+to as the "Software").
+
+C. US/INTELICOM has agreed with Licensee to provide the Software to
+Licensee for installation of the Software on the Phones and to sell, lease and
+distribute the Phones to Licensee's customers, subject to the terms and
+conditions of this Agreement.
+
+D. The Licensee is engaged in the marketing, sale, lease and
+distribution of prepaid cellular telephones.
+
+E. The Licensee desires to sell and market Phones installed with the
+Software, on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of mutual covenants and agreements set
+forth herein and other good and valuable consideration, the receipt, sufficiency
+and adequacy of which the parties conclusively acknowledge, the parties agree as
+follows:
+
+1.       Grant of License.
+
+US/INTELICOM hereby grants to Licensee, a limited, worldwide,
+nontransferable, nonexclusive, conditional right and license to use the Software
+solely with the Phones and to reproduce the Software in connection with such
+use, and Licensee hereby accepts said right, license and privilege, in
+accordance with the terms of this Agreement. US/INTELICOM agrees to provide the
+Software in executable form and any specifications and instructions required to
+install the Software on the Phones to enable Licensee to sell, lease and
+distribute prepaid cellular telephones to Licensee's customers, which customers
+shall have the perpetual right to use the software in connection with their use
+of their Phones.
+
+
+
+Page 1 of 15                      Confidential
+<PAGE>   2
+
+2.       Term of License.
+
+The term of this license shall be for an initial period of
+forty-eight (48) months ("initial term"), commencing on the date of execution of
+this Agreement. This license shall thereafter automatically renew on the
+anniversary of this execution date for additional terms of twelve (12) months
+("subsequent terms"), unless Licensee sends written notification to US/INTELICOM
+of Licensee's intention not to renew. Such notification must be received by
+US/INTELICOM not less than ninety (90) days preceding the automatic annual
+renewal.
+
+3.       Fees.
+
+As consideration for the rights granted and services provided
+hereunder, Licensee shall remit fees to US/INTELICOM according to the fee
+schedule and conditions described in the attached Addendum A, which is hereby
+included within and made an integral part of this agreement. All fees,
+reimbursements, and other financial figures referenced in this Agreement are
+expressed in United States dollars.
+
+(a)      The fee amounts described in Schedule A shall remain
+constant throughout the initial term of this
+Agreement.
+
+(b)      These fees shall be subject to a modification during
+each subsequent term. At each subsequent renewal of
+this Agreement, the fee amounts shall be modified by
+the change in the Consumer Price Index (CPI) over the
+preceding calendar year (the "preceding year"). This
+change shall not exceed five percent (5%) for any
+year. Should Licensee have sold or leased a minimum
+of two hundred thousand (200,000) Phones containing
+the Software during a "preceding year", the fee
+modification for the ensuing subsequent term will be
+permanently waived.
+
+4.       Use of License.
+
+During the term of this Agreement, Licensee covenants and
+agrees to:
+
+(a)      use the Software only for the Phones covered under
+the terms of this License;
+
+(b)      adhere precisely to any instructions and policies
+furnished by US/INTELICOM regarding the use of the
+Software, which instructions and policies may be
+updated by US/INTELICOM from time to time consistent
+with the terms of this License;
+
+(c)      comply with all applicable local and federal laws and
+regulations governing Licensee's use, sale or rental
+of the Software with respect
+
+
+
+Page 2 of 15                      Confidential
+<PAGE>   3
+
+to the Phones;
+
+(d)      inform US/INTELICOM immediately if any third party
+claims any infringement on any of US/INTELICOM's
+proprietary rights or interest by the use of the
+Software; and
+
+(e)      refrain from modifying, translating, reproducing,
+reverse engineering, disseminating, distributing or
+determining the source code of the Software or any
+enhancements or modifications thereto except as
+provided in this Agreement. However, Licensee shall
+be permitted to disseminate and distribute the
+Software to its agents, employees and independent
+contractors solely in connection with the sale and/or
+lease of the Phones by Licensee.
+
+5.       Assignment.
+
+Licensee's rights and interest under this Agreement shall not
+be subject to assignment or transfer in any manner whatsoever without the prior
+express written consent of US/INTELICOM, which shall not be unreasonably
+withheld, and which consent shall be granted if the within license is conveyed
+in connection with Licensee's sale of substantially all of its assets. If
+Licensee is a corporation, partnership or limited liability company, the
+transfer (in one or more transactions) of equity interests in Licensee which
+possess a majority of the voting power in Licensee shall not constitute an
+assignment for the purposes of this Agreement.
+
+6.       Representations and Warranties.
+
+(a)      Licensee warrants, represents and agrees that:
+
+(i)      it has the authority to enter into and to
+consummate the transactions contemplated
+hereby, and the Licensee is not under any
+restriction or obligation which will impair
+its full performance under this Agreement;
+
+(ii)     neither the execution of this Agreement nor
+the performance of the obligations of the
+Licensee require the consent, waiver or
+approval of any party, or create a breach
+of, violate or conflict with any contract,
+agreement or other instrument or any
+judgement or order to which the Licensee is
+a party or otherwise subject; and
+
+(iii)    this Agreement, when duly executed, will
+constitute the legal, valid and binding
+obligation of the Licensee in accordance
+with the terms of this Agreement.
+
+
+
+
+Page 3 of 15                      Confidential
+<PAGE>   4
+(b) US/INTELICOM warrants, represents and agrees that:
+
+(i)      the Software, all upgrades and versions now
+existing or hereafter developed and all
+rights thereto are owned by US/INTELICOM and
+are free and clear of any and all security
+interests and other liens and encumbrances;
+
+(ii)     it has the authority to enter into and to
+consummate the transactions contemplated
+hereby, and US/INTELICOM is not under any
+restriction or obligation which will impair
+its full performance under this Agreement;
+
+(iii)    the Software and its use by Licensee
+pursuant to this Agreement do not violate
+the copyright, patent, trade secret or other
+proprietary rights of any third party;
+
+(iv)     neither the execution of this Agreement nor
+the performance of the obligations of
+US/INTELICOM require the consent, waiver or
+approval of any party, or create a breach
+of, violate or conflict with any contract,
+agreement or other instrument or any
+judgment or order to which US/INTELICOM is a
+party or otherwise subject; and
+
+(v)      this Agreement, when duly executed, will
+constitute the legal, valid and binding
+obligation of US/INTELICOM in accordance
+with the terms of this Agreement.
+
+(c)      In addition, US/INTELICOM warrants that the Software
+is free of defects in material and workmanship and
+the Software will operate correctly and for the
+purpose intended on the Phones for a period of twelve
+(12) months of normal use from the date of delivery
+to Licensee's customers of the Software on any Phone.
+EXCEPT FOR THE FOREGOING, THE SOFTWARE IS PROVIDED
+"AS IS" WITHOUT WARRANTY BY US/INTELICOM, INCLUDING
+WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7.       Termination.
+
+(a)      US/INTELICOM shall have the right to terminate this
+Agreement immediately upon written notice to Licensee
+in the event of any one or more of the following:
+
+(i)      Licensee does not sell or lease a minimum of
+five thousand
+
+Page 4 of 15                      Confidential
+<PAGE>   5
+
+
+(5,000) Phones containing the Software in
+any twelve (12) month period following the
+sale or lease of the 100,000 Phones
+containing the Software as described in
+Addendum B, Prepayment of License Fees.
+
+(ii)     the breach by Licensee of any other term,
+covenant or condition of this Agreement in
+the event that Licensee fails to cure such
+breach within (30) days after receipt of
+written notice from US/INTELICOM specifying
+such breach; or
+
+(iii)    If there is a final adjudication that
+Licensee has materially failed to comply
+with any statute, requirement, rule,
+regulation, order or decree, of any federal,
+state, municipal or other governmental
+authority relating to the marketing, sale or
+lease of prepaid cellular telephones.
+
+(b)      Upon any termination of this Agreement or the expiry
+of the term of this Agreement, Licensee shall
+immediately cease to use any and all versions,
+components and aspects of the Software, and shall
+immediately return to US/INTELICOM all tangible and
+electronic representations or reproductions in
+Licensee's possession or which Licensee has received
+or acquired, provided, however, that Licensee shall
+be permitted to (1) sell any Phones in its possession
+or on order based on Purchase Orders issued at the
+time of such termination, unless such sale would
+violate any applicable law, regulation or court order
+and (2) provide continued support of Phones
+previously sold by Licensee under this Agreement.
+
+(c)      In the event of termination hereunder, any unused
+portion of the Prepayment of License Fees described
+in Addendum B shall be payable to Licensee. In such
+event, the parties shall retain all such rights and
+remedies as provided by law.
+
+8.       Relationship of Parties and Indemnification.
+
+(a)      Licensee is not, and shall not represent or hold
+itself out as, an agent, legal representative, joint
+venturer, partner, employee or servant of
+US/INTELICOM for any purpose whatsoever. Licensee is
+an independent contractor and is not authorized to
+make any contract, agreement, commitment, warranty or
+representation on behalf of US/INTELICOM, or to
+create any obligation, express or implied, on behalf
+of US/INTELICOM. Licensee hereby agrees to indemnify
+and hold harmless US/INTELICOM from and
+against any loss, claims, demands, actions, causes of
+action, costs and expenses, including without
+limitation all reasonable attorney's fees, expenses
+of
+
+
+Page 5 of 1                       Confidential
+<PAGE>   6
+
+litigation, court costs and damages, arising from
+or incurred in connection with either a breach by
+Licensee of any term, condition, warranty, or
+covenant set forth in this Agreement or the
+performance, or failure to perform, services to any
+customer of Licensee or US/INTELICOM, or the
+collection of fees for services rendered by Licensee.
+
+(b)      US/INTELICOM hereby agrees to indemnify and hold
+harmless Licensee from and against any loss, costs,
+claims or judgments, including without limitation
+attorney's fees and costs, incurred by Licensee as a
+result of any third party claiming infringement on
+the Software, or US/INTELICOM's breach of the License
+or express warranty.
+
+(c)      Additional Terms and Conditions
+
+US/INTELICOM and Licensee agree to the terms and
+conditions, if any, described in the attached
+Addendum B, which is hereby included within and made
+an integral part of this agreement.
+
+9.       Covenants Against Disclosure of Trade Secrets and Confidential
+Information.
+
+(a)      Licensee and US/INTELICOM acknowledge that in the
+course of this license, they will become acquainted
+with each other's proprietary and confidential
+information concerning the Software and the Business,
+including "Trade Secrets" and "Confidential
+Information", as defined below. Both parties further
+acknowledge that they each expend substantial
+resources in time and money in the development of
+their software, marketing, sales strategies,
+programs, and in developing relationships with
+customers.
+
+(b)      As used herein, the term "Trade Secrets" shall mean
+any and all information of either party, including
+without limitation, the Software, and other technical
+and non-technical data, formulas, patterns,
+compilations, programs, devices, methods, techniques,
+drawings, processes, financial data, financial plans,
+product plans, or lists of actual or potential
+customers or suppliers, which (i) derive economic
+value, actual or potential, from not being generally
+known to, and not being readily ascertainable by
+proper means by, other persons who can obtain
+economic value from their disclosure or use; and (ii)
+are the subject of efforts that are reasonable under
+the circumstances to maintain their secrecy. "Trade
+Secrets" excludes however, information in the public
+domain or readily ascertainable from third parties.
+
+Page 6 of 15                      Confidential
+<PAGE>   7
+
+(c)      As used herein, the term "Confidential Information"
+shall mean proprietary and confidential information
+or data, other than Trade Secrets, which is valuable
+to, and related to the Software and the Business and
+the details of which are generally unknown to the
+competitors of either party. Confidential Information
+shall include the following information, without
+limitation, to the extent such information is not
+already included in the definition of Trade Secrets
+either at the time of the execution of this Agreement
+or any time thereafter: (i) confidential financial,
+business, marketing programs, strategies, and
+services of either party; and (ii) such other
+materials and items as the parties may designate,
+mark or otherwise identify as confidential from time
+to time. Any such information shall cease to be
+Confidential Information for the purposes of this
+Agreement at such time as that specific information
+becomes generally known to the public unless such
+disclosure is in violation of this Agreement or
+another agreement of a similar purpose between
+US/INTELICOM or Licensee and any third party.
+
+(d)      Licensee and US/INTELICOM hereby covenant and agree
+that they shall not at any time, directly or
+indirectly, misappropriate, take, use, divulge or
+disclose any of the Trade Secrets of the other party
+to any person, company, firm or entity for so long as
+an item which is a Trade Secret remains a trade
+secret under applicable law.
+
+(e)      Licensee and US/INTELICOM hereby covenant and agree
+that during the tem of this Agreement and for a
+period of thirty-six (36) months after the
+termination of this engagement for any reason, they
+shall not misappropriate, take, use, divulge or
+disclose any of the Confidential Information of the
+other party.
+
+(f)      Licensee and US/INTELICOM further covenant and agree
+that all the Trade Secrets and Confidential
+Information owned by each party shall remain the
+property of that party and that, upon any termination
+of this Agreement for any reason, each party shall
+immediately return to the other party any tangible or
+electronic representations or reproductions of any
+Trade Secret or Confidential Information in their
+possession or which they have received or acquired.
+
+(g)      Licensee and US/INTELICOM acknowledge the
+confidential status of the Trade Secrets and the
+Confidential Information.
+
+11.      Enforcement.
+
+(a)      Licensee and US/INTELICOM acknowledge and agree that
+(i) the foregoing covenants set forth in Section 10
+above are an essential part
+
+Page 7 of 15                      Confidential
+<PAGE>   8
+
+
+of this Agreement; (ii) the terms of the covenants
+are reasonable; (iii) any breach of a covenant would
+result in immediate and irreparable harm to the other
+party; and (iv) such damages would be difficult to
+ascertain and would not be entirely measurable in
+money damages. Therefore, Licensee and US/INTELICOM
+agree that, in the event of a breach or threatened
+breach of a covenant, either party shall be entitled
+to an injunction or other equitable relief to
+restrain any breach or threatened breach of a
+covenant, in addition to the right of either party to
+an award of damages or other relief that the parties
+may have under the law, including without limitation
+reasonable attorney's fees and expenses incurred by
+the other party in enforcing any claim hereunder,
+regardless of any claim that either party may have or
+assert against the other party.
+
+(b)      Licensee and US/INTELICOM agree that the covenants
+and agreements contained in this Agreement are
+separate, severable and independent of each other, as
+each term and condition is based on viable and
+independent consideration and is of great importance
+to each party and should be enforceable as if each
+were made the subject of a separate agreement between
+US/INTELICOM and Licensee. Therefore, should any
+court of competent jurisdiction declare any covenant
+or provision of this Agreement invalid or
+unenforceable for any reason, the remaining covenant
+and other terms this Agreement shall continue in full
+force and effect as if this Agreement had been
+executed initially without the covenant or provision.
+
+12.      Force Majeure.
+
+If the performance of all or any part of this Agreement by
+US/INTELICOM or the Licensee is prevented or delayed by acts of civil or
+military authority, flood, fire, epidemic, war or riot, which cannot be averted
+or overcome by diligence (hereinafter referred to as a "Force Majeure Event"),
+the party affected shall be excused from such performance, to the extent that
+party is necessarily prevented or delayed thereby, only during the continuance
+of any such Force Majeure Event; provided, however, that if such delay in
+performance extends for more than thirty (30) days, the other party, at its
+discretion, upon giving written notice, may terminate this Agreement.
+
+13.      Miscellaneous.
+
+(a)      This Agreement shall be binding upon and inure to the
+benefit of the parties and their respective
+successors and assigns.
+
+(b)      This Agreement constitutes the entire agreement and
+understanding of the parties with respect to the
+subject matter of this Agreement. No revision,
+modification or change in this Agreement whatsoever
+
+
+Page 8 of 15                      Confidential
+<PAGE>   9
+
+shall be claimed or become valid unless the same is
+in writing and executed by the parties.
+
+(c)      The failure of a party to insist, in one or more
+instances, on the performance by the other in strict
+compliance with the terms and conditions of this
+Agreement, shall not be deemed to be a waiver or
+relinquishment of any right granted hereunder or of
+any term or condition of this Agreement unless such
+waiver is in writing and executed by the parties.
+
+(d)      Any notice or other communication required or
+permitted hereunder shall be in writing and delivered
+personally or by registered mail, return receipt
+requested, with sufficient postage, to the best
+available address of the party to be notified, and
+shall be deemed to be effective on the earlier of
+actual receipt of four (4) days after postmarking by
+the U.S. Postal Service.
+
+(e)      The obligations of the parties created by the
+provisions of this Agreement shall survive any
+termination of this Agreement.
+
+(f)      The headings or captions used in this Agreement are
+inserted for convenience or reference purposes only
+and shall neither constitute a part hereof nor effect
+the interpretation of any provision of this
+Agreement.
+
+(g)      This Agreement is for the benefit of only the parties
+hereto and no person, firm or entity that is not a
+party to this Agreement shall have any rights or
+claims under or by virtue of this Agreement.
+
+(h)      As used herein, the singular shall include the plural
+and the neuter gender shall include the masculine or
+the feminine as the context requires.
+
+(i)      In the event of adjudication, this Agreement shall be
+governed by the laws of the State of the Plaintiff.
+
+
+Page 9 of 15                      Confidential
+<PAGE>   10
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed, on the date first set forth above.
+
+
+US/INTELICOM                            Licensee
+
+by: /s/ Michael A. Sauter                     by:
+
+
+Michael A. Sauter
+Print Name                                    Print Name
+
+President
+Title                                         Title
+
+4-7-98
+Date                                          Date
+
+
+
+Page 10 of 15                      Confidential
+<PAGE>   11
+
+
+
+
+
+ADDENDUM A
+
+FEES
+
+SOFTWARE LICENSE FEE
+
+Licensee agrees to pay to US/INTELICOM a software license fee of twelve ($12.00)
+per Phone on which the Software is loaded, and sold or leased by Licensee.
+
+
+PIN UPDATE FEE
+
+The "PIN update" method of adding additional prepaid cellular airtime to a Phone
+involves entering a unique 10 or 12 digit number directly into the Phone via the
+keypad. Such PINs can be divided into two separate types:
+
+a)       Mass Production PINs - Licensee creates collections of PINs as
+part of a mass PIN production process. As a rule, such PINs are
+then packaged, distributed and sold via a variety of retail
+channels.
+
+b)       On-demand PINs - Licensee creates individual PINs on an ad hoc
+basis that are then supplied to the customer over the telephone.
+Licensee may create and supply as many on-demand PINs as
+indicated.
+
+Licensee agrees to also pay to US/INTELICOM a fee of two dollars ($2.00) per PIN
+code generated for use in adding additional units of airtime to Licensee's
+Phones. Mass Production PINs are restricted to a maximum of 120 units each.
+
+
+REAL TIME PREPAID FEE
+
+The "Real Time PrePaid (RTPP)" method of adding additional prepaid cellular
+airtime to a Phone does NOT require the use of a PIN code. Under this method,
+the Phone will automatically place a call to Licensee's computer system and
+request Licensee's permission to add a specified amount of airtime to the Phone.
+Licensee's computer system will either approve or deny this request.
+
+Licencee agrees to pay to US/INTELICOM an ongoing fee of two dollars ($2.00) per
+Real Time PrePaid (RTPP) addition of units of airtime to Licensee's Phones.
+
+
+PROMOTIONAL DISCOUNTS
+
+US/INTELICOM agrees to offer a promotional discount of its fees for certain of
+Licensee's Phones.
+
+
+Page 11 of 15                      Confidential
+<PAGE>   12
+
+
+- -        To be eligible for this promotional discount, a Phone must "qualify" by
+being sold or leased by Licensee to a customer directly acquired by
+Licensee in the normal course of Licensee's telemarketing, direct
+marketing and telesales business.
+
+- -        Any Phone sold or leased by Licensee that uses a Mass Production PIN in
+adding additional units or airtime usage will not qualify for
+promotional discount.
+
+- -        Promotional discounts shall be used to offset all license fees due
+hereunder.
+
+US/INTELICOM agrees to the following promotional discounts:
+
+1.       Nine dollars ($9.00) to be applied against its Software License
+fee for each qualified Uniden PCD2000 and each qualified Kodenshi
+T-100 Phone containing the Software sold or leased by Licensee.
+
+2.       Seven dollars ($7.00) to be applied against its Software License
+fee for any other qualified prepaid Phone sold or leased by
+Licensee.
+
+3.       Two dollars ($2.00) to be applied against each Real Time PrePaid
+(RTPP) fee incurred by Licensee in adding additional airtime to
+qualified Phones of Licensee.
+
+4.       Two dollars ($2.00) to be applied against each PIN Update fee
+incurred by Licensee in adding additional airtime to qualified
+Phones of Licensee via On-demand PINs.
+
+
+
+Page 12 of 15                      Confidential
+<PAGE>   13
+
+ADDENDUM B
+
+OTHER TERMS AND CONDITIONS
+
+CONFIDENTIALITY
+
+Licensee understands and agrees that the unauthorized disclosure of certain
+details contained within this License Agreement could cause irreparable harm to
+US/INTELICOM. Licensee therefore agrees to treat this License Agreement as
+confidential and will not disclose any details of this License Agreement to any
+third party without the expressed written permission of US/INTELICOM, except
+that Licensee shall be free to make such disclosures as is necessary to fulfill
+legal obligations.
+
+
+SOFTWARE SOURCE NON-DISCLOSURE
+
+Licensee and US/INTELICOM agree to treat as confidential and not disclose the
+fact that Licensee is acquiring its prepaid Software from US/INTELICOM, except
+that Licensee shall be free to make such disclosures as is necessary to fulfill
+legal obligations. US/INTELICOM may, however, request from Licensee a disclosure
+of relevant facts and opinions to specified individuals and/or organizations in
+order to assist US/INTELICOM's sales and marketing efforts. Such a request for
+disclosure may be declined by Licensee if it feels there is a reasonable chance
+that such disclosure would have a materially negative impact on its own sales
+and marketing effort. Unless specifically authorized in writing, Licensee agrees
+not to use the US/INTELICOM name, logo or other identification of US/INTELICOM
+in any of its sales, marketing, promotional, product, or technical information,
+whether printed, verbal, or provided via any other media.
+
+
+COMPUTING FACILITIES
+
+US/INTELICOM agrees to install certain computer programs relating to the support
+of its prepaid cellular Software onto computer systems by Licensee. Licensee
+acknowledges that it has requested such programs be installed on Licensee's
+computer systems, and Licensee agrees to bear all costs associated with
+providing and maintaining these systems subject to Licensee's prior written
+approval and authorization for such systems. Licensee agrees to provide
+US/INTELICOM with continuous and appropriate Internet access to such systems for
+billing, monitoring, updating, and other purposes. Licensee agrees to compensate
+US/INTELICOM for any out-of-pocket expenses incurred in supporting Licensee's
+systems, including any related travel and accommodation expenses.
+
+
+PAYMENT TERMS
+
+Licensee agrees to remit payment to US/INTELICOM for all fees and other charges
+described
+
+
+
+Page 13 of 15                      Confidential
+<PAGE>   14
+
+herein within fifteen (15) days following initial receipt of invoices detailing
+such fees and other charges, subject to offsets for promotional discounts that
+Licensee is entitled to receive hereunder.
+
+
+PREPAYMENT OF LICENSE FEES
+
+Licensee agrees to remit to US/INTELICOM a nonrefundable prepayment of Software
+License fees within three (3) business days following the date of execution of
+this Agreement. The amount of this prepayment is agreed to be three hundred
+thousand dollars ($300,000.00), which sum shall offset and be applied against
+any License fees, less any applicable promotional discounts, otherwise due from
+Licensee hereunder.
+
+
+PURCHASE OF CELLULAR TELEPHONES
+
+In the event that Licensee enters into a business arrangement in which it
+acquires the right to purchase cellular telephones and other cellular
+accessories, US/INTELICOM shall have the right to acquire such equipment, either
+directly or for another business entity not engaged in direct response
+marketing, under the same pricing and terms as Licensee, subject to availability
+and vendor approval. It is explicitly understood and agreed that the price for
+such equipment will be the lowest price available under Licensee's arrangement
+and will be net of any and all discounts, rebates and other incentives.
+
+
+CONVERSIONS OF PREPAID SOFTWARE
+
+In the event that Licensee shall request that US/INTELICOM convert its prepaid
+cellular software so that the application can be made available on a specified
+cellular phone, US/INTELICOM agrees to use its best reasonable efforts to effect
+such a conversion in a mutually acceptable timeframe. Licensee understands and
+agrees that US/INTELICOM shall have the right to reject a software conversion
+request from Licensee in the event that US/INTELICOM determines that the
+specified cellular phone does not adequately meet the minimum technical and
+operational standards determined by US/INTELICOM. Licensee agrees to reimburse
+US/INTELICOM for the actual cost of any such conversion request received from
+Licensee, based upon a cost schedule approved by Licensee.
+
+RESTRICTIVE COVENANT
+
+US/INTELICOM agrees not to compete with Licensee by engaging in the sale of
+prepaid cellular phones directly to end-user customers through direct response
+marketing for as long as this Agreement is active.
+
+
+Page 14 of 15                      Confidential
+<PAGE>   15
+
+
+MAINTENANCE AND SUPPORT
+
+Licensee acknowledges and agrees that it is both desirable and necessary for
+US/INTELICOM to provide ongoing professional services to Licensee for
+installation assistance, operational support and continued maintenance of
+software installed and running on computer hardware and cellular telephones
+controlled and/or sold by Licensee.
+
+US/INTELICOM agrees to provide reasonable support and maintenance services to
+Licensee under a Full Time Equivalent ("FTE") arrangement. US/INTELICOM agrees
+to initially provide Licensee with one (1) FTE of appropriate professional
+services. A Full Time Equivalent is any combination of support and maintenance
+time provided by Licensee by US/INTELICOM personnel. Any FTE is limited to one
+hundred and sixty-seven (167) hours of professional time per month.
+
+Licensee agrees to pay to US/INTELICOM a monthly fee of ten thousand dollars
+($10,000.00) per FTE of maintenance and support (the "FTE fee"). Licensee also
+agrees to reimburse US/INTELICOM for all out-of-pocket expenses incurred in
+providing support and maintenance services.
+
+This monthly maintenance and support arrangement will have an initial term of
+six (6) months. The arrangement will then automatically renew for an additional
+twelve (12) months at the above rates and conditions unless written notification
+to US/INTELICOM of Licensee's intent to cancel the arrangement is received no
+later than September 1, 1998. Unless Licensee elects to cancel this arrangement
+at the end of the first six months, the "initial term" of the arrangement will
+be through September 30, 1999.
+
+Following the initial term, this arrangement will automatically renew for an
+additional twelve (12) months ("subsequent renewals") beginning each September
+1st (the "renewal date") unless written notification to US/INTELICOM of
+Licensee's intent to cancel the arrangement is received no later than sixty (60)
+days prior to the renewal date. Each subsequent renewal will include an annual
+ten percent (10%) increase in the monthly FTE fee.
+
+Licensee may elect to increase the number of FTEs available for the support and
+maintenance of Licensee's business by sending a written request to US/INTELICOM.
+US/INTELICOM agrees to utilize its best reasonable efforts to provide such
+additional FTEs upon such terms as the parties agree at that time.
+
+
+Page 15 of 15                      Confidential
+

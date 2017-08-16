@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.39
+SOFTWARE LICENSE AGREEMENT
+
+AVID TECHNOLOGY,  INC. ("AVID") OR ITS AUTHORIZED DISTRIBUTOR OR RESELLER AS THE
+CASE MAY BE (AVID OR SUCH  DISTRIBUTOR  OR  RESELLER  IS  SOMETIMES  HEREINAFTER
+REFERRED TO AS  "LICENSOR")  IS WILLING TO LICENSE  THIS  SOFTWARE  TO YOU,  THE
+LICENSEE,  ONLY UPON THE CONDITION  THAT YOU ACCEPT THE TERMS  CONTAINED IN THIS
+LICENSE.  BY CLICKING ON THE "ACCEPT" BUTTON,  YOU ARE CONSENTING TO BE BOUND BY
+ALL THE TERMS AND CONDITIONS CONTAINED IN THIS AGREEMENT. IF YOU DO NOT AGREE TO
+ALL THESE TERMS,  THEN  LICENSOR IS UNWILLING TO LICENSE THE SOFTWARE TO YOU, IN
+WHICH  EVENT YOU SHOULD  CLICK THE "DO NOT ACCEPT"  BUTTON AND THE  INSTALLATION
+WILL NOT PROCEED.  IF YOU DO NOT ACCEPT YOU MAY RETURN THE SOFTWARE WITHIN SEVEN
+DAYS OF THE DATE OF PURCHASE TO THE PLACE YOU OBTAINED IT FOR A FULL REFUND.
+
+1.  DEFINITIONS (as used in this Agreement):
+(a) "SOFTWARE" means all software,  in object code only, provided by Licensor to
+you  hereunder,  together  with all  firmware,  technology  contained in circuit
+boards, and all Avid-authorized updates,  replacements or modifications provided
+to you.
+
+(b)  "HARDWARE"  means any  computer  and/or  other  equipment  which is sold by
+Licensor to you in  conjunction  with the  Software.  The  Hardware  may contain
+refurbished parts.
+
+(c)  "DOCUMENTATION"  means the user  guides,  reference  manuals,  installation
+materials  and other  written  materials  relating to the System which  Licensor
+provides to you
+
+(d) "SYSTEM"  means a system  furnished  by Licensor  and  comprised of Hardware
+and/or Software and related Documentation.
+
+2.  LIMITED USE LICENSE
+(a) Subject to the terms and conditions  contained in this  Agreement,  Licensor
+grants,  and you accept, a non-exclusive,  non-transferable  (except as provided
+below) license and right (i) to use the Software only on and in connection  with
+the Hardware at your site, and (ii) to use the  Documentation,  in each case for
+your  internal  purposes  only.  You may not use the Software  separate from the
+Hardware,  or any  replacement  Hardware,  and you may not  make  copies  of the
+Software or  Documentation,  except  that you may make one copy of the  Software
+solely for back-up purposes.  Additionally, you may not distribute copies of the
+Software  or the  Documentation  to others nor may you modify or  translate  the
+Software or  Documentation.  You may not transfer the Software or this  license,
+except in compliance with Avid's license transfer procedures,  which among other
+things require the  transferee  prior to such transfer to agree in writing to be
+bound by your obligations hereunder. Notwithstanding the foregoing, you may rent
+the System to a third party for a temporary,  defined period  provided:  (i) you
+may  not  rent  the  Software  separate  from  the  Hardware;  (ii)  you  remain
+responsible for all of your  obligations  hereunder;  (iii) you ensure that each
+such third party complies with all obligations  hereunder;  (iv) you notify Avid
+on request of the location of the System; and (v) you indemnify, defend and hold
+Licensor  (if not  Avid)  and Avid  harmless  from and  against  any  claims  or
+liabilities that may arise from your rental of the System.
+
+(b) You will  take  all  reasonable  steps to  safeguard  the  Software  and the
+Documentation  and to ensure  that no  unauthorized  persons  have access to the
+Software  or the  Documentation,  and that no  persons  authorized  to have such
+access  shall take any action  which would be  prohibited  by this  Agreement if
+taken by you.  You will not attempt to reverse  engineer or reverse  compile the
+Software,  in whole or in part,  except  that if the  country  in which  you are
+located requires  Licensor to allow you to reverse engineer the Software you may
+do so only for the specific  purposes  for which  Licensor is required by law to
+allow you to reverse engineer. You will include and will not alter or remove any
+copyright,   patent,  trade  secret,  proprietary  and/or  other  legal  notices
+contained on or in the System, including the Software or the Documentation.  The
+existence  of any such  notices on or in the System shall not be construed as an
+admission that publication has occurred.
+
+(c) The Software may have  "authorization  keys" which shall be provided to you.
+An  authorization  key is a unique series of data elements  which enables you to
+use the Software.  Such keys are confidential and  non-transferable  and must be
+destroyed by you upon termination of the license.
+
+(d) If you are renting the System from the  licensee  who  purchased  the System
+from  Licensor,  you  shall be bound by all the  terms  and  conditions  of this
+Agreement  to the same  extent as the such  licensee;  provided,  however,  that
+Licensor makes no warranties to you under Section 6 below,  and you shall not be
+entitled to any Software maintenance and support, if any, provided by Avid under
+Section 7 below.
+
+3.  TITLE
+This license is not a sale of the Software or any copy.  Avid retains  title and
+ownership of the Software and the documentation,  including patents, copyrights,
+trademarks,  trade secrets and other proprietary rights applicable thereto,  and
+all copies,  regardless  of the form or media on or in which the original or any
+copy may exist.  Except as stated herein,  this Agreement does not grant you any
+rights to patents,  copyrights, trade secrets, trademarks or any other rights in
+respect of Software, Hardware and Documentation.
+
+4.  CONFIDENTIALITY
+You acknowledge that the System contains  proprietary and confidential  property
+of Avid and/or Avid's licensors (collectively,  "Confidential Information"). You
+will not disclose,  provide or otherwise  make  available any such  Confidential
+Information to any person other than your employees and/or  consultants who need
+to have  access  thereto  to  carry  out  their  duties  and who  are  bound  by
+appropriate confidentiality or nondisclosure agreements.
+
+5.  GOVERNMENT END USERS
+U.S.  GOVERNMENT  RESTRICTED RIGHTS. The System was developed at private expense
+and with no government funds. If any Software or Documentation is acquired by or
+on behalf of a unit or agency of the U.S. Government, the Government agrees that
+such Software or Documentation is "commercial  computer software" or "commercial
+computer  software  documentation"  and that,  absent a written agreement to the
+contrary, the Government's rights with respect to such Software or Documentation
+are  limited  by the  terms  of the  this  License  Agreement,  pursuant  to FAR
+ss.12.212(a)  and/or  DFARS  ss.227.7202-1(a),  as  applicable.  The Software is
+proprietary  data,  all rights of which are reserved under the copyright laws of
+the United States.
+
+6.  WARRANTY
+(a) Licensor  warrants solely to you that the System will function in accordance
+with  Avid's  published  specifications  for  the  period(s)  set  forth  in the
+applicable warranty policy in effect at the time of purchase. This warranty does
+not apply to  expendable  components,  such as,  but not  limited  to,  computer
+diskettes and tapes.  Licensor does not warrant that your use of the System will
+be uninterrupted or error-free.
+
+(b) If Licensor determines that the System, or the component parts thereof,  for
+which you have requested warranty service are not eligible for warranty service,
+you will pay or reimburse Licensor for all reasonable costs of investigating and
+responding  to such request at  Licensor's  then  prevailing  time and materials
+rates.  If Licensor  provides  repair service or replacement  parts that are not
+covered by the  warranty  provided  in this  Section,  you will pay  Licensor at
+Licensor's then prevailing time and materials rates.
+
+(c) Licensor shall have no obligation to provide warranty or maintenance service
+in respect of claims resulting, in whole or in part, from (i) catastrophe, fault
+or negligence,  (ii) improper or unauthorized use or repair of the System, (iii)
+use of any  System  in a manner  for  which  it was not  designed,  (iv)  causes
+external to the System such as, but not  limited to,  power  failure or electric
+power surges, or (v) use of the System in combination with equipment or software
+not supplied or approved by Avid.
+
+(d)  Notwithstanding the above, no warranty shall apply to Hardware and Software
+which is designated as "limited  release" or  "pre-release"  or otherwise as not
+being  subject to warranty.  All such  Hardware and Software is provided "AS IS"
+AND WITH ALL FAULTS.
+
+EXCEPT AS STATED ABOVE, LICENSOR (IF NOT AVID) AND AVID DISCLAIM ALL WARRANTIES,
+WHETHER  EXPRESS OR IMPLIED,  WRITTEN OR ORAL, WITH RESPECT TO THE SYSTEM OR ANY
+COMPONENT PARTS THEREOF,  INCLUDING ANY IMPLIED WARRANTY OF  MERCHANTABILITY  OR
+FITNESS FOR A PARTICULAR PURPOSE.
+
+7.  SOFTWARE MAINTENANCE (Applicable only if Avid provides maintenance)
+Software  maintenance  charges and options are specified in the Avid Maintenance
+Option/Price  List effective from time to time and are subject to change by Avid
+on 30 days'  notice.  In the  event  you  purchase  Software  maintenance,  such
+maintenance  shall be subject to the terms and conditions  effective on the date
+of such purchase,  and Avid shall provide the following,  plus options,  if any,
+which you purchase, effective immediately upon expiry of the applicable warranty
+period.
+
+(a) You will  receive  one copy of  maintenance  releases  to the  Software  and
+Documentation  as they are generally made  available at no additional  charge to
+Avid  customers  which have  purchased  Avid software  maintenance.  Maintenance
+releases may contain minor functional enhancements and corrections.
+
+(b) Avid will use  reasonable  efforts,  including by means of a  workaround  or
+telephone hot-line support,  to cause Software not covered by Avid's warranty to
+perform  substantially  in  accordance  with  specifications  after  having been
+notified by you of non-performance.
+
+(c)  Avid  will  provide  maintenance  only on the  then  most  current  and one
+immediately  prior  version  of  the  Software.  Avid's  obligation  to  provide
+maintenance shall be conditioned on your: using only Avid-approved  products and
+maintaining the correct  operating  environment in accordance with  requirements
+stipulated in the  applicable  System  specifications;  designating  one of your
+employees at each site to be Avid's  single  service  contact and allowing  Avid
+reasonable  access to the System and necessary  data;  promptly  installing  all
+changes  and/or  updates  furnished by or on behalf of Avid;  notifying  Avid in
+writing prior to relocating  the System to a permitted  location  other than the
+site at which the System is then-currently  installed;  and being current in all
+payments to Avid.
+
+(d) In the event you  request a field visit to perform  maintenance  or warranty
+services,  you agree to pay Avid its then-current  charges associated with field
+visits.
+
+8.  LIMITATION OF LIABILITY
+THE MAXIMUM LIABILITY OF LICENSOR AND/OR AVID (AND ITS LICENSORS) ARISING OUT OF
+THE  SALE/LICENSE  OF THE  SYSTEM  OR  THE  USE  THEREOF  OR  THE  PROVISION  OF
+MAINTENANCE, WHETHER BASED UPON WARRANTY, CONTRACT, TORT OR OTHERWISE, SHALL NOT
+EXCEED THE ACTUAL PAYMENTS RECEIVED BY IT.
+
+9.  EXCLUSION OF DAMAGES
+IN NO EVENT  SHALL  LICENSOR  AND/OR  AVID (AND ITS  LICENSORS)  BE  LIABLE  FOR
+SPECIAL,  INCIDENTAL,  PUNITIVE,  INDIRECT,  ECONOMIC OR CONSEQUENTIAL  DAMAGES,
+INCLUDING,  BUT NOT LIMITED  TO, LOSS OF DATA OR LOSS OF USE DAMAGES  (INCLUDING
+WITHOUT LIMITATION  "DOWNTIME") AND LOST PROFITS,  ARISING HEREUNDER OR FROM THE
+SALE OF SYSTEM OR THE LICENSE OF THE  SOFTWARE AND  DOCUMENTATION  OR THE USE OF
+ANY OF THEM OR THE PROVISION OF MAINTENANCE.
+
+10. TERM
+This license is effective until terminated. You may terminate the license at any
+time by returning the Software and all Documentation to Licensor and by removing
+the Software and all copies  thereof from the memory of any computer  into which
+the Software has been  transferred.  If you fail to perform any of your material
+obligations hereunder, Licensor will offer you 15 days' opportunity to cure such
+nonperformance.  Upon expiry of such period  without  the  nonperformance  being
+cured,  Licensor may by  immediate  written  notice  terminate  this  Agreement,
+including the license of the Software and the  Documentation.  Within seven days
+of Licensor's  termination  of this  Agreement,  you will return to Licensor the
+original and all copies of the Software and the Documentation.  Any Software you
+are  required  to return  hereunder  includes  circuit  boards  containing  Avid
+proprietary software, firmware or other technology.
+
+11. EXPORT
+You agree that neither the Software nor any direct  product  thereof is being or
+will be shipped,  transferred  or reexported,  directly or indirectly,  into any
+country  prohibited  by the  United  States  Export  Administration  Act and the
+regulations thereunder or will be used for any purposes prohibited by the Act.
+
+12. GENERAL
+(a) If Avid is not the Licensor  under this  Agreement,  the parties  agree that
+Avid is an intended  third party  beneficiary  of this Agreement and may enforce
+the provisions hereof.
+
+(b) This Agreement  supersedes all prior agreements and  understandings  between
+the parties  related to the subject matter herein and is intended by the parties
+to be the complete and exclusive statement of the terms of their Agreement.  Any
+proposed  variations  from or  additions  to  this  Agreement  contained  in any
+purchase order or other  communication which you submit to Licensor will be null
+and  void  unless  agreed  to in  writing  by an  authorized  representative  of
+Licensor.
+
+(c) The remedies  contained  herein are  cumulative and in addition to any other
+remedies at law or equity.  Licensor's failure to enforce, or waiver of a breach
+of, any  provision  hereof shall not  constitute a waiver of any other breach of
+such provision.  You acknowledge  that a breach by you of Section 2 or 4 of this
+Agreement would  constitute  irreparable  harm to Avid for which a remedy at law
+would be inadequate and therefore consent to being enjoined from any such breach
+without requiring Licensor or Avid to post a bond.
+
+(d)  Licensor  shall  not  be  considered  in  default  in  performance  of  its
+obligations hereunder if performance of such obligations is prevented or delayed
+by  acts  of God or  government,  war,  riots,  acts of  civil  disorder,  labor
+disputes,  failure  or  delay of  transportation  or  telecommunications,  or by
+vendors  or  subcontractors,  or any other  similar  cause or causes  beyond its
+reasonable control.
+
+(e) The terms and conditions of this Agreement will be held as  confidential  by
+both parties hereto, provided, however, that Licensor and Avid may cite that you
+are a user of the System.
+
+(f) The System is manufactured for standard commercial uses and are not intended
+to be sold or licensed for use in critical safety systems or nuclear facilities.
+
+(g)  This  Agreement  shall  be  governed  by the  laws of the  Commonwealth  of
+Massachusetts, U.S.A., without regard to conflict of laws rules that would cause
+the laws of any other jurisdiction to apply.
+
+Copyright  (C)  1998,  Avid  Technology,  Inc.  and its  licensors.  All  rights
+reserved.
+

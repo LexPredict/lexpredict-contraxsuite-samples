@@ -1,0 +1,675 @@
+
+
+
+
+
+
+
+Second Amended and Restated Software License Agreement
+
+
+
+Exhibit 10.9
+SECOND AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT
+This Second Amended and Restated Software
+License Agreement (this “Agreement”) is made and entered into as of February 13, 2007 (“Effective Date”) by and among American Multi-Cinema, Inc., a Missouri corporation
+(“AMC”), Regal CineMedia Corporation, a Virginia corporation (“Regal”), Cinemark USA, Inc., a Texas corporation (“Cinemark”), Digital Cinema Implementation Partners, LLC
+(“DCIP”) and National CineMedia, LLC (the “Company”), and amends and restates in its entirety the Amended and Restated Software License Agreement by and among AMC, Regal, Cinemark, and the Company
+dated as of July 15, 2005 (the “First Amended and Restated Agreement”), which in turn amended and restated in its entirety the Software License Agreement by and among AMC, Regal, and the Company dated as of
+March 29, 2005 (the “Original Agreement”). AMC, Regal and Cinemark are at times collectively referred to herein as the “Exhibitors,” and together with DCIP and the Company, are at times together
+referred to herein as the “Parties,” or individually (and without distinction) as a “Party.”
+RECITALS
+WHEREAS, Regal and AMC (as successor-in-interest to National Cinema Network, Inc.), entered into
+that certain Contribution and Unit Holders Agreement dated as of March 29, 2005 (the “Contribution and Unit Holders Agreement”), pursuant to which they or their Affiliates formed the Company and contributed to the
+Company certain assets;
+WHEREAS, in connection with the contribution of such assets to the Company, and pursuant to the Original
+Agreement and the First Amended and Restated Agreement, Regal and AMC licensed to the Company certain computer software and related rights ancillary to the use of such computer software;
+WHEREAS, Cinemark Media, Inc., a Delaware corporation (“Cinemark Media”), and the Company have entered into that certain
+Contribution Agreement, dated July 15, 2005 (the “Contribution Agreement”), pursuant to which Cinemark Media has agreed to contribute cash to the Company and the Company has agreed to issue certain Units to Cinemark
+Media;
+WHEREAS, AMC, Regal CineMedia Holdings, LLC, an Affiliate of Regal, and Cinemark Media have formed DCIP as a joint venture
+in order to develop and implement the delivery of Digital Cinema Services;
+WHEREAS, prior to the formation of DCIP, NCM had begun
+to develop, pursuant to the Original Agreement, certain computer software for the purposes of delivery of Digital Cinema Services on behalf of AMC, Regal, Cinemark, and/or their respective Affiliates; and
+WHEREAS, Regal, AMC, Cinemark and the Company desire to amend the First Amended and Restated Agreement to accommodate and address certain
+amendments made to the Operating Agreement and Exhibitor Services Agreements.
+
+
+
+
+
+
+
+AGREEMENT
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the Parties hereto
+agree as follows:
+1. Definitions. Capitalized terms not otherwise defined herein will have the meaning given those terms in the Contribution
+and Unit Holders Agreement. In addition, the following terms, as used in this Agreement, will have the following meanings:
+1.1
+“Administrative Agent” means Lehman Commercial Paper Inc., as administrative agent under the Company Credit Agreement and any successors and assignees in accordance with the terms of the Company Credit Agreement.
+
+1.2 “AMC Original Technology” means the AMC original technology identified in Exhibit 1.1 hereto,
+including all Object Code thereto and, with the exception of the DTDS Software, all Source Code thereto, and further including all patent rights, copyrights and trade secrets of AMC or any AMC Affiliate applicable to the foregoing (including for the
+avoidance of doubt, all patent and other registrations issuing on the Technology listed in Exhibit 1.1).
+1.3 “Bankruptcy
+Code” means Title 11 of the United States Code (11 U.S.C. §101 et seq.), as amended from time to time.
+1.4
+“Company Credit Agreement” means the Credit Agreement dated as of February 13, 2007 among Company, the several lenders from time to time parties thereto, JPMorgan Chase Bank, N.A., as syndication agent, Credit Suisse
+(USA) LLC and Morgan Stanley Senior Funding, Inc., as co-documentation agents and the Administrative Agent, as amended, modified or supplemented from time to time and any extension, refunding, refinancing or replacement (in whole or in part)
+thereof.
+1.5 “Company Technology” means all Original Technology and Developments licensed to the Company by
+the Exhibitors pursuant to the terms hereof and any Developments of the Company.
+1.6 “Developments”
+means any derivative works, improvements and other modifications to the Original Technology, including all Object Code thereto and, with the exception of the DTDS Software, all Source Code thereto, and further including all patent rights, copyrights
+and trade secrets applicable to the foregoing. The term “Developments” shall also include (i) derivative works, improvements and other modifications to Developments to the Original Technology, (ii) any other Technology (whether
+or not derived from or otherwise related to the Original Technology), including computer software, owned or licensed (except to the extent such license prohibits Company’s sublicense in accordance with the terms and conditions of this
+Agreement) by the Company on or before the Effective Date, and (iii) any Original Technology, to the extent necessary to use Developments and to the extent Company is authorized to distribute such Original Technology pursuant to the terms and
+conditions of this Agreement.
+
+
+
+
+
+
+
+
+
+
+1.7 “Digital Cinema Services” means services related to the digital
+playback and display of feature films at a level of quality commensurate with that of 35 mm film release prints that includes high-resolution film scanners, digital image compression, high-speed data networking and storage, and advanced digital
+projection.
+1.8 “DTDS Software” means the AMC Digital Theatre Distribution System software for in-theatre
+content management.
+1.9 “Exhibitor Services Agreement” means, with respect to any Exhibitor, that certain
+Exhibitor Services Agreement between the Company and such Exhibitor or such Exhibitor’s Affiliate pursuant to which the Company provides services (including without limitation the Advertising Services, the Digital Programming Services, and the
+Meeting Services, each as defined therein).
+1.10 “In-Theatre DCS Software” means the in-theatre portion of
+the Regal proprietary Digital Content Software (DCS).
+1.11 “Object Code” means computer programs in machine
+readable, object code format.
+1.12 “Operating Agreement” means that certain Third Amended and Restated
+Limited Liability Company Operating Agreement of National CineMedia, LLC of even date herewith.
+1.13 “Original
+Technology” shall mean the AMC Original Technology and the Regal Original Technology.
+1.14 “Permitted
+Transfer” means:
+(a) by operation of law or otherwise, the direct or indirect change in control, merger, consolidation or
+acquisition of all or substantially all of the assets of a Party, or the assignment of this Agreement by an Exhibitor or DCIP to an Affiliate (for purposes of this Section 1.14, as defined in the Exhibitor Services Agreement),
+(b) with respect to the rights and obligations of Company under this Agreement, (i) the grant of a security interest by Company in this Agreement
+and all rights and obligations of Company hereunder to the Administrative Agent, on behalf of the Secured Parties, pursuant to the Security Documents, (ii) the assignment or other transfer of such rights and obligations to the Administrative
+Agent (on behalf of the Secured Parties) or other third party upon the exercise of remedies in accordance with the Company Credit Agreement and the Security Documents and (iii) in the event that the Administrative Agent is the initial assignee
+or transferee under the preceding clause (ii), the subsequent assignment or other transfer of such rights and obligations by the Administrative Agent on behalf of the Secured Parties to a third party, or
+
+
+
+
+
+
+
+
+
+
+(c) in the event that Company becomes a debtor in a case under the Bankruptcy Code, the assumption and/or
+assignment by Company of this Agreement under section 365 of the Bankruptcy Code, notwithstanding the provisions of section 365(c) thereof.
+1.15 “Regal Original Technology” means the Regal original technology identified in Exhibit 1.15 hereto, including all Object Code and all Source Code thereto, and further including all patent rights,
+copyrights and trade secrets of Regal or any Regal Affiliate applicable to the foregoing (including for the avoidance of doubt, all patents and other registrations issuing on the Technology listed in Exhibit 1.15).
+1.16 “Secured Parties” means the “Secured Parties” (or any analogous concept) as defined in the Company Credit
+Agreement.
+1.17 “Security Documents” means the “Security Documents” as defined in the Company
+Credit Agreement and any amendment, modification, supplement or replacement of such Security Documents.
+1.18 “Source
+Code” shall mean the representation of software in a form amenable to human understanding in a higher level computer programming language, together with all developer comments and other programmer documentation.
+1.19 “Technology” means copyrights, patents, patent applications and trade secrets.
+1.20 “Territory” means the 50 states of the United States of America and the District of Columbia.
+2. License.
+2.1 Original Technology.
+Except for the Source Code to the Original Technology, which is covered in Section 2.2 herein, Regal and AMC each hereby grants to the Company a perpetual, royalty free license in the Territory to use, make, have made, copy, perform, display,
+and create derivative works of such Exhibitor’s Original Technology, but only in connection with providing the services that are included within the Service, as that term is defined in the Exhibitor Services Agreement, in the Territory (the
+“Field of Use”). Except as may be provided in Section 2.4, below, the license shall be exclusive, even as to the Exhibitors, in the Field of Use. Regal and AMC each remains free to fully exploit its Original Technology and
+Developments outside of the Field of Use. The Object Code of the Original Technology may be sublicensed by the Company in the Territory solely as required to permit receipt by the Exhibitors or other movie exhibitors and their affiliates, as
+applicable, of services included within the Service, as defined. The Parties agree that ownership of the Original Technology, and, subject to Section 9, Regal and AMC’s Developments thereto, is retained by Regal and AMC, respectively.
+
+2.2 Source Code to Original Technology and Developments. Regal and AMC each hereby grants to the Company a perpetual,
+royalty free license in the Territory and solely in the Field of Use to use, make, have made, copy and create derivative works of the Source Code to its Original Technology and Developments that are licensed hereby, provided, however,
+that
+
+
+
+
+
+
+
+
+
+
+
+
+except as provided in Section 8, below, the Source Code of each of Regal’s and AMC’s Original Technology and its Developments thereto will be
+treated as Confidential Information and will not be disclosed to the other Exhibitors or to any third party. Except as provided in Sections 2.4 and 9, below, this license shall be exclusive, even as to Regal and AMC, in the Field of Use. Regal and
+AMC each remains free to fully exploit the Source Code to its Original Technology and Developments outside of the Field of Use. If appropriate, Source Code can be put into escrow for the benefit of an Exhibitor or other authorized licensee or
+sublicensee of the Company subject to the approval of the escrow agreement by the Party which owns the Source Code in question.
+2.3
+Patents. Patents and patent applications of Regal and AMC which are covered by the definition of Original Technology will be treated for purposes of this Agreement like the rest of the Original Technology.
+2.4 Company Technology. Subject to Section 8, each Exhibitor has the right to use the Company Technology within the Field of Use
+solely as provided by Section 7.01 of the respective Exhibitor’s Exhibitor Services Agreement. Each Exhibitor agrees that in connection with its use of the Company Technology as permitted under its Exhibitor Services Agreement, it will
+not, nor will it permit, cause, or authorize any other person or entity to re-engineer, reverse engineer, decompile, or disassemble the Original Technology or Developments to the in-theatre portion of the software of any other Exhibitor or create or
+recreate the Source Code for the in-theatre portion of any other Exhibitor’s Original Software or Developments.
+3. Developments.
+Notwithstanding any provision in this Agreement to the contrary, each Party hereto shall have the right and shall be free to develop, modify and make improvements to any of the Technology: (a) licensed to such Party pursuant to Sections 2
+and 3 of this Agreement or (b) owned by such Party as set forth in Section 9 of this Agreement. The ownership of all such Developments will be as set forth in Section 9 hereof.
+3.1 License by the Company.
+3.1.1 License to Exhibitors. As soon as practicable following the Effective Date, the Company will notify the Exhibitors in writing of all Company Developments in existence as of the Effective Date. The Company hereby grants to each
+Exhibitor a perpetual, exclusive, worldwide, royalty free license to use, make, have made, copy, perform, and create derivative works of all Developments of the Company in existence as of the Effective Date only outside of the Field of Use (but
+excluding Digital Cinema Services) solely for the Exhibitor’s internal business purposes. The foregoing license includes the right to have independent contractors, including without limitation DCIP, prepare derivative works and modifications to
+the Developments. This license shall be exclusive, even as to Company, outside the Field of Use (but excluding Digital Cinema Services). Notwithstanding the preceding sentence, the Company has no obligation to provide AMC or Cinemark, and the
+license set forth in the preceding sentence expressly excludes, any Developments consisting of Source Code for improvements to the In-Theatre DCS Software. The Company shall deliver to each Exhibitor any Development licensed under this
+Section 3.1.1, in both object code and Source Code format, as soon as
+
+
+
+
+
+
+
+
+
+
+
+
+practicable after the Effective Date. Within a reasonable period of time not to exceed thirty (30) days following the Effective Date, representatives
+designated by the Company and each of the Exhibitors shall meet to agree in good faith upon a plan and schedule for the transfer and delivery of the Developments licensed under this Section 3.1.1. Any Source Code licensed by the Company
+pursuant to this Section 3.1.1 will be treated by the Exhibitor as Confidential Information, but may be disclosed to persons who have a need for such Source Code for purposes of advancing the business of the Exhibitors outside of the Field of
+Use (but excluding Digital Cinema Services) and who are legally bound in advance to treat such Source Code as Confidential Information. Upon request of an Exhibitor, Source Code can be put into escrow for the benefit and at the expense of the
+Exhibitor subject to the reasonable approval of the escrow agreement by Company.
+3.1.2 License to DCIP. The Company will reasonably
+promptly notify DCIP in writing of any Company Development if the Development may have application to the delivery of Digital Cinema Services. The Company hereby grants to DCIP a perpetual, exclusive, worldwide, royalty free license to use, make,
+have made, copy, perform, and create derivative works of and sub-license any such Developments of the Company, in both object code and Source Code format, only for Digital Cinema Services. This license shall be exclusive, even as to Company, for
+Digital Cinema Services. Company shall deliver to DCIP any Development licensed under this Section 3.1.2, in both object code and Source Code format, (a) no later than thirty (30) days after Company’s good faith determination
+that such Development may have application to Digital Cinema Services, and (b) at any time upon DCIP’s request. Any Source Code licensed by the Company pursuant to this Section 3.1.2, will (i) not be disclosed in any manner by or
+on behalf of DCIP to any Exhibitor under any circumstances, and (ii) in all other circumstances be treated by DCIP as Confidential Information. For purposes of clarification, the foregoing does not restrict DCIP from disclosing the following to
+the Exhibitors as Confidential Information, (1) information regarding the design or operation of the Developments licensed to DCIP under this Section 3.1.2, or (2) the Source Code to any DCIP developments based on the Source Code
+licensed by Company pursuant to this Section 3.1.2, provided, however, that in each of (1) and (2) the unmodified Source Code licensed by Company pursuant to this Section 3.1.2 is not disclosed to the Exhibitors.
+Upon request of DCIP, Source Code can be put into escrow for the benefit and at the expense of DCIP subject to the reasonable approval of the escrow agreement by Company.
+3.2 License by the Exhibitors. While each Exhibitor has granted the Company the exclusive right to create derivative works of the Original Technology within the Field of Use (except as may be
+provided in Section 9), each Exhibitor will as soon as practicable following the Effective Date notify the Company in writing of any Exhibitor Development in existence as of the Effective Date if such Development may have application in the
+Field of Use. Except for Source Code, which is covered in Section 2.2 herein, each Exhibitor hereby grants to the Company a perpetual, exclusive, royalty free license in the Territory to use, make, have made, copy, perform, display, create
+derivative works of and sub-license any such Developments of such Exhibitor, but only in the Field of Use. Except as may be provided in Section 2.4, the
+
+
+
+
+
+
+
+
+
+
+
+
+license shall be exclusive, even as to the Exhibitors, in the Field of Use. AMC has no obligation to provide the Company with Developments consisting of
+Source Code for improvements to its DTDS Software. Each of the Exhibitors shall deliver to the Company any Development licensed under Section 2.2 in Source Code format and this Section 3.2 in object code format only as soon as practicable
+after the Effective Date. Within a reasonable period of time not to exceed thirty (30) days following the Effective Date, representatives designated by the Company and each of the Exhibitors shall meet to agree in good faith upon a plan and
+schedule for the transfer and delivery of the Developments licensed under this Section 3.2.
+3.3 License by DCIP. DCIP
+will reasonably promptly notify the Company in writing of any DCIP Development if the Development may have application in the Field of Use. DCIP hereby grants to the Company a perpetual, exclusive, royalty free license in the Territory to use, make,
+have made, copy, perform, display, create derivative works of and sub-license any such Developments of DCIP, in both object code and Source Code format, but only in the Field of Use. Except as may be provided in Section 2.4, the license shall
+be exclusive, even as to DCIP, in the Field of Use. DCIP shall deliver to the Company any Development licensed under this Section 3.3, in both object code and Source Code format, (a) no later than thirty (30) days after DCIP’s
+good faith determination that such Development may have application in the Field of Use, and (b) at any time upon the Company’s request.
+4.
+License Fee. In addition to the mutual grants of rights exchanged under this Agreement, no additional consideration is due under this Agreement. The Parties agree that no sales or use taxes will be due in connection with this
+Agreement; provided, however, in the event such taxes are due, the Company will be responsible for paying them.
+5. Representations And
+Warranties; Disclaimer. Each Party represents and warrants to the other that: (a) it has full power to enter into this Agreement, to carry out its obligations under this Agreement and to grant the rights and licenses granted under this
+Agreement; and (b) its compliance with the terms and conditions of this Agreement will not violate laws or regulations applicable to such Party or any third party agreements to which it is a party. EXCEPT FOR THE WARRANTIES EXPRESSLY PROVIDED
+FOR IN THIS AGREEMENT, EACH PARTY HEREBY DISCLAIMS UNDER THIS AGREEMENT ALL IMPLIED WARRANTIES, INCLUDING THE WARRANTIES OF TITLE, MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+6. Confidentiality. Confidential Information of one Party that is disclosed to or observed by other Parties pursuant to this Agreement will be governed by
+the provisions of Section 10.3 of the Operating Agreement, except as otherwise expressly permitted in Section 3.1.1 and 8.1. For purposes of this Agreement the provisions of Section 10.3 of the Operating Agreement will survive and
+bind each Party for a period of 3 years after any expiration of such Party’s rights under this Agreement.
+7. Noncompetition.
+
+7.1 Covenants. Throughout the term of this Agreement and notwithstanding the termination of any Exhibitor’s Exhibitor
+Services Agreement (the “Noncompetition Period”), (a)
+
+
+
+
+
+
+
+
+
+
+
+
+Company shall not, directly or indirectly, as an owner, shareholder, joint venturer, advisor, consultant or otherwise, engage in any activity that competes
+with or is enhanced by DCIP’s business or activities within Digital Cinema Services without the prior written consent of DCIP, which DCIP may withhold in its absolute discretion, and (b) DCIP shall not, directly or indirectly, as an owner,
+shareholder, joint venturer, advisor, consultant or otherwise, engage in any activity that competes with or is enhanced by Company’s business or activities within the Field of Use without the prior written consent of Company, which Company may
+withhold in its absolute discretion.
+7.2 Acknowledgments. Company and DCIP (the “Noncompetition Parties”) each
+acknowledge that the foregoing restriction on competition is fair and reasonable under the circumstances and necessary in order to protect and preserve the business interests of each Noncompetition Party. Company also acknowledges that as a result
+of its engagement with DCIP, Company will have access to information and materials that would be valuable or useful to Digital Cinema Services. DCIP likewise acknowledges that as a result of its engagement with Company, DCIP will have access to
+information and materials that would be valuable or useful in the Field of Use. Each Noncompetition Party therefore acknowledges that the foregoing restrictions on its future business activities are fair and reasonable.
+7.3 Remedies. Each Noncompetition Party acknowledges, covenants and agrees that (a) irreparable loss and damage will be
+suffered by the protected Noncompetition Party if the obligated Noncompetition Party should breach or violate any of the covenants and agreements contained in this Section 7, and (b) in addition to any other remedies available to the
+protected Noncompetition Party, the protected Noncompetition Party shall be entitled to injunctive relief against the obligated Noncompetition Party to prevent a breach or contemplated breach by the obligated Noncompetition Party of any of the
+covenants or agreements contained herein without the requirement of posting a bond.
+8. Rights upon Termination of an Exhibitor Services
+Agreement.
+8.1 Termination for Material Breach by the Company. As soon as practicable prior to the termination of an
+Exhibitor’s Exhibitor Services Agreement other than as a result of a material breach by such Exhibitor pursuant to either of subsections 9.02 (a) or (b) of such Exhibitor Services Agreement, (i) a copy of the Company Technology
+in existence as of the Effective Date will be distributed to the Exhibitor; (ii) the Company’s license of that Exhibitor’s Original Technology and that Exhibitor’s Developments pursuant to the terms of this Agreement shall
+automatically convert to a non-exclusive license without the requirement of further action by any Party; and (iii) the Exhibitor shall have the perpetual, non-exclusive, worldwide, royalty free right and license to use, make, have made, copy,
+perform, display and create derivative works of the Company Technology in existence as of the Effective Date, subject to the restrictions herein. With the exception of the Exhibitor’s Original Technology and Developments, the use of which shall
+be unrestricted after the termination of the Exhibitor’s Exhibitor Services Agreement (1) the Exhibitor shall be permitted to use the Company Technology distributed pursuant to this Section 8.1 only for its internal business purposes
+in its
+
+
+
+
+
+
+
+
+
+
+
+
+own Theatres; and (2) the Source Code included in the Company Technology distributed pursuant to this Section 8.1 will be maintained by the
+Exhibitor as Confidential Information, but may be disclosed to persons who have a need for such Source Code for purposes of advancing the internal business of the Exhibitors and who are legally bound in advance to treat such Source Code as
+Confidential Information.
+8.2 In-Theatre DCS Software. Notwithstanding anything herein to the contrary, upon any termination
+as provided in this Article 8, or other distribution of Company Technology as may be permitted hereunder, the Company shall have no right or obligation to provide to AMC or Cinemark, and AMC and Cinemark shall not receive access or any rights to,
+any Source Code for the In-Theatre DCS Software, or any Developments consisting of Source Code for improvements to the In-Theatre DCS Software.
+9.
+Ownership.
+9.1 Original Technology. Except for the rights expressly granted to Company under this
+Agreement, each Exhibitor will retain all right, title and interest in and to the Original Technology of that Exhibitor, including all worldwide Technology and intellectual property and proprietary rights therein and related thereto.
+9.2 Exhibitor Developments. Except for the rights expressly granted under this Agreement, each Exhibitor will retain all right, title and
+interest in and to any Developments authored, conceived of and reduced to practice, or otherwise developed solely by that Exhibitor, including all worldwide Technology and intellectual property and proprietary rights therein and related thereto, and
+such Developments shall be made available to Company pursuant to the license set forth in Section 3.2 hereof.
+9.3 DCIP
+Developments. Except for the rights expressly granted under this Agreement, DCIP will retain all right, title and interest in and to any Developments authored, conceived of and reduced to practice, or otherwise developed by DCIP, including
+all worldwide Technology and intellectual property and proprietary rights therein and related thereto, and such Developments shall be made available to Company pursuant to the license set forth in Section 3.3 hereof.
+9.4 Company Developments. Except for the rights expressly granted under this Agreement, Company will retain all right, title and interest
+in and to any Developments authored, conceived of and reduced to practice, or otherwise developed by Company, including all worldwide Technology and intellectual property and proprietary rights therein and related thereto, and such Developments
+shall be made available to the Exhibitors and DCIP pursuant to the license set forth in Section 3.1 hereof. Notwithstanding the foregoing, ownership of Developments authored, conceived of and reduced to practice, or otherwise developed by
+Company in connection or collaboration with any Exhibitors shall be negotiated by the relevant Parties in good faith on case-by-case basis.
+9.5 Other Joint Developments. To the extent not addressed in the Operating Agreement, an Exhibitor Services Agreement, or any other agreement existing between the
+
+
+
+
+
+
+
+
+
+
+
+
+Parties, the Parties contemplate that the ownership of any new Technology developments not related to the Original Technology developed under this Agreement
+will be determined in accordance with a separate written agreement relating to the development of that Technology, provided that if no such separate agreement is signed between the Parties, the ownership of any such Technology will be determined in
+accordance with applicable intellectual property laws. In the event that Parties who jointly own Technology agree to file a patent application or copyright registration in connection therewith, each such Party will be responsible for an equal share
+of the costs associated with such filing. Such Parties will agree on which Party shall be responsible for filing and maintaining the resulting intellectual property rights. If all Parties who jointly own the Technology in question are not able to
+agree on whether to file the application or registration, the other applicable Parties may proceed, and the non-proceeding Party will cooperate as reasonably requested in connection therewith at the expense of the Party or Parties that are
+proceeding with the application or registration, and the Parties who are proceeding will own any resulting patent or copyright. If the Parties who jointly own Technology determine that a third party may be infringing upon any of that Technology,
+they shall notify the other Parties and shall discuss the possibility of acting together to halt such infringement. If the parties cannot agree within three months of such notice to take any action to halt such infringement, then the Party or
+Parties who are interested in acting may take independent action without the participation of the other Party. In such case, the non-acting Parties will provide all reasonable assistance requested by the acting Party in halting the infringement,
+including, for example, becoming a party to any litigation action if such is required for the action to proceed. The proceeding Parties shall share equally in any financial return from such action without an obligation to share with the
+non-participating Party.
+10. Limitation on Liability. EXCEPT FOR A BREACH OF ANY PARTY’S CONFIDENTIALITY OBLIGATIONS, THE GROSS
+NEGLIGENCE OR WILLFUL MISCONDUCT OF ANY PARTY, OR AN INFRINGEMENT OR MISAPPROPRIATION OF ANY PARTY’S INTELLECTUAL PROPERTY RIGHTS, NO PARTY TO THIS AGREEMENT WILL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE,
+EXEMPLARY OR SPECIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+11. General Terms.
+
+11.1 Entire Agreement and Amendment. This Agreement supersedes all prior agreements, oral and written, between the parties
+with respect to its subject matter and constitutes a complete and exclusive statement of the terms of the agreement between the parties with respect to its subject matter. This Agreement may not be amended except by a written agreement executed by
+the party to be charged with the amendment.
+11.2 Effect of Related Agreements on DCIP. DCIP agrees to be bound
+(a) by the meaning given to the term “Service” in the Exhibitor Services Agreement, (b) as a “Member” for purposes of Section 10.3 of the Operating Agreement, as provided in Section 6 hereof, and (c) by
+the provisions of Section 10.10 of the Operating Agreement, as provided in Section 11.7 hereof.
+
+
+
+
+
+
+
+
+
+
+11.3 Waiver; Remedies. The waiver or failure of a Party to exercise in any respect any
+right provided hereunder shall not be deemed a waiver of such right in the future or a waiver of any other rights established under this Agreement. All remedies available to any Party hereto for breach of this Agreement are cumulative and may be
+exercised concurrently or separately, and the exercise of any one remedy shall not be deemed an election of such remedy to the exclusion of other remedies.
+11.4 Assignment. No Party may assign or transfer, by operation of law or otherwise, any of its rights or obligations under this Agreement to any third party without all other Parties’ prior written
+consent. Any Party may fulfill its obligations hereunder by using third-party vendors or subcontractors; provided, however, that such Party shall remain fully and primarily responsible to ensure that such obligations are satisfied. A
+Permitted Transfer and, to the extent not deemed a Permitted Transfer, any assignment or transfer by DCIP to an Exhibitor or by any Exhibitor to DCIP, including without limitation an assignment or transfer in the event of a dissolution or winding up
+of DCIP or any of the Exhibitors, shall not be deemed an assignment or transfer for purposes of this Agreement; provided, however, that regardless of whether such assignment or transfer is deemed a Permitted Transfer, any assignment or
+transfer by DCIP to an Exhibitor under this Agreement shall be subject to continued compliance by the Exhibitor with the provisions of this Agreement applicable to DCIP prior to such transfer. Any Permitted Transfer by assignment to an Affiliate of
+an Exhibitor shall be (i) conditioned upon (A) the transferee entering into an Assignment and Assumption, (B) the Exhibitor agreeing in writing to remain bound by the obligations under this Agreement, and (ii) effective only so
+long as the Affiliate remains an Affiliate of transferee. Any attempted assignment in violation of this Section shall be void. The Company, DCIP and each Exhibitor acknowledges and agrees that in the event of the sale of all or substantially all of
+its assets, the failure to include (by operation of law or otherwise) the assignment of its interest in this Agreement in respect of such assets as part of the sale shall constitute a material breach of this Agreement. Notwithstanding the foregoing,
+this Agreement shall not be assignable by a Party unless the assignee expressly assumes in writing all of the obligations of the assignor hereunder. Any attempted assignment in violation of this section shall be void.
+11.5 Severability. If any provision of this Agreement is held invalid or unenforceable by any court of competent jurisdiction, the other
+provisions of this Agreement will remain in full force and effect. Any provision of this Agreement held invalid or unenforceable only in part or degree will remain in full force and effect to the extent not held invalid or unenforceable.
+
+11.6 Section Headings, Construction. The headings of Sections in this Agreement are provided for convenience only and will not affect
+its construction or interpretation. All references to “Section” or “Sections” refer to the corresponding Section or Sections of this Agreement.
+11.7 Governing Law, Dispute Resolution. Any dispute arising under this Agreement shall be subject to the provisions of Section 10.10 of the Operating Agreement with respect to governing law and
+dispute resolution, which provisions are hereby fully incorporated
+
+
+
+
+
+
+
+
+
+
+
+
+herein and made a part hereof; provided, however, that the Parties further agree that the United Nations Convention on Contracts for the
+International Sale of Goods shall not apply to this Agreement and is hereby disclaimed by the Parties.
+11.8
+Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed to be an original copy of this Agreement and all of which, when taken together, will be deemed to constitute one and the
+same agreement.
+11.9 Independent Contractors. Each of Regal, AMC, Cinemark, DCIP and the Company shall act solely as
+an independent contractor, and nothing herein shall at any time be construed to create the relationship of employer and employee, partnership, principal and agent, broker or finder, or joint venturers as among Regal, AMC, Cinemark, DCIP and the
+Company. No Party shall have any right or authority, and shall not attempt, to enter into any contract, commitment or agreement or incur any debt or liability of any nature, in the name of or on behalf of any other party.
+11.10 Bankruptcy. The Parties acknowledge and agree that the license rights granted in this Agreement, including specifically but
+without limitation the rights to use, modify, and create derivative works of Source Code, are intended to survive and continue unimpaired by the insolvency or bankruptcy of the licensor, and that this Agreement shall be deemed to be, for purposes of
+the Bankruptcy Code, a license to “intellectual property” as such term is used in Sections 365(n) and 101(35A) thereof.
+11.11
+Survival. This Agreement shall survive the liquidation or dissolution of the Company. The rights granted pursuant to this Agreement, including without limitation the license rights granted in Sections 2 and 3 above, are intended to be
+perpetual and irrevocable.
+[Signature Page to Follow]
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the undersigned have caused this Agreement to be executed by their respective
+officers or representatives thereunto duly authorized as of the date first above written.
+
+
+
+NATIONAL CINEMEDIA, LLC
+By:	 	NATIONAL CINEMEDIA, INC.,
+its Manager
+
+By:	 	 /s/ Gary W. Ferrera
+
+Name:	 	Gary W. Ferrera
+Title:	 	Executive Vice President and Chief Financial Officer
+
+
+
+
+
+REGAL CINEMEDIA CORPORATION
+
+By:	 	 /s/ Michael L. Campbell
+
+Name:	 	Michael L. Campbell
+Title:	 	Chief Executive Officer
+
+
+
+
+
+AMERICAN MULTI-CINEMA, INC.
+
+By:	 	 /s/ Craig R. Ramsey
+
+Name:	 	Craig R. Ramsey
+Title:	 	Executive Vice President and Chief Financial Officer
+
+
+
+
+
+CINEMARK USA, INC.
+
+By:	 	 /s/ Michael Cavalier
+
+Name:	 	Michael Cavalier
+Title:	 	Senior Vice President–General Counsel
+
+
+
+
+
+DIGITAL CINEMA IMPLEMENTATION
+PARTNERS, LLC
+
+
+By:
+
+Name:
+Title:
+
+
+SIGNATURE PAGE TO SECOND
+AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENTs
+
+
+
+
+
+
+
+EXHIBIT 1.1
+AMC ORIGINAL TECHNOLOGY
+
+
+
+Software
+Description
+
+Digital Theatre Distribution System (DTDS)
+Application software for in theatre content management.
+
+HAL
+Application software for contract management.
+
+Digital Slot Guide (DSG)
+Application software for trafficking of digital products.
+
+NCN System
+Application software for contract management and trafficking of Slides and MovieTunes.
+
+Patent Application
+Application No. US 2004/0216163 A1, Whitcomb, Pub. Date: Oct. 28, 2004
+
+
+
+
+
+
+
+
+EXHIBIT 1.15
+REGAL ORIGINAL TECHNOLOGY
+The Digital Content System (DCS) includes software to ingest, schedule, deliver, and play
+digital content on a network of remote displays, as well as tools to support and administer such a network system.
+The DCS consists of the following
+components:
+
+
+
+Subsystems
+Software Components
+Description
+
+
+Sales
+Support
+- Proposal Maker
+- Contract
+Management
+Application software which provides a user interface and sales tool to create customer proposals and convert them to contracts.
+
+Delivery	  	 Content Distribution
+- Commgr
+
+- ComSrv
+- MulticastMgr
+- Content Management System (CMS)
+Application software which:
+- Delivers physical content
+files from a central location to   the local system
+- Delivers physical content files to the local playback   nodes within a local
+system.
+
+
+Schedule & Data Synchronization
+Commgr
+- ComSrv
+XMLTransfer
+- TDPackager
+- ContentSvr
+
+Application software which:
+- Packages and delivers a
+subset of the scheduling data   pertinent to a particular theatre.
+- Receives synchronization data from the various sites and   updates
+the central database.
+- Packages and delivers audit and status data from the   local database to the central system.
+- Receives audit data from the local playback nodes and   updates the local database
+
+
+Delivery Preparation
+Content Queuing
+AdPrep,
+- MulticastPrep
+- Multicast
+Monitor
+Application software which reads the central schedule data, determines which media files need to be updated on which local systems, and places each necessary media file in the central queue for
+distribution.
+
+Playlist Generation
+AdPrep
+Application software which reads the central scheduled and default contract data, and creates a play-list for each distinct playback system on the network
+
+Content Library
+
+Job Tracking	  	A repository of digital media items, and tools to ingest, find and manage those items
+
+Content Scheduling
+Inventory Sales
+Scheduling
+- Site Selection
+Application software which manages the amount and location of sellable inventory (play-list slots) for all sellable end-points on the network.
+
+Contract Fulfillment
+Scheduling
+
+- Site Selection
+- Job
+Tracking
+Application software which associates a contract with a piece of content stored in the content library
+
+
+
+
+
+
+
+
+
+
+Network Operations	  	 Problem Ticketing
+– Trouble
+Ticket
+Application software which allows NOC personnel to track issues that are tied to site locations and/or specific end-nodes on the network
+
+Asset Management
+– Inventory Tracker
+Application software which allows Operations to track the physical equipment that exists at each site location.
+
+Delivery System Administration
+– Delivery
+A set of maintenance and administration tools that allows Operations to configure and manage the delivery system
+
+Network and System Maintenance
+– Site/Unit Maintenance
+
+A set of maintenance tools that allows Operations to edit data related to the
+locations and end-points of the system
+
+
+System Monitoring and Automated Remote Troubleshooting (SMART)
+
+A set of tools to:
+– Monitor the health of the DCS network, and execute self diagnostics at the TMS level
+– Troubleshoot a specific site to determine why it is not operating as expected or desired. .
+
+
+External Interface
+Point of Sale System
+– TDPackager
+Application software which extracts information from the POS system within a theatre.
+
+Satellite
+– Multicast Manager
+Application software which effects an interface with the satellite network provider receiver
+
+
+Player
+Application software which plays digital media files in the order specified by the play-list.
+
+Content Playback
+Content Reception
+– Datasrv
+Application software which effects all data communications with a central server or a local server. It also manages delivered media files and prepares them for use by the
+Player.
+
+PATENT FILINGS
+US Patent and Trademark Office
+
+
+
+Patent Name
+Docket No.	  	Date
+Filed	  	Application
+Serial No.
+System and Method for Scheduling In-Theatre Advertising
+REGA0001	  	3/11/03	  	10/386,366
+
+System and Method for Scheduling Digital Content
+REGA0001CON	  	6/10/03	  	10/458,034
+
+Digital Projector Automation
+REGA0002	  	6/10/03	  	10/458,589
+
+System and Method for Selling Presentation Times for Digital Media Stream
+REGA0003	  	8/14/03	  	10/641,173
+
+
+
+
+
+
+
+
+International Filings under the Patent Cooperation Treaty
+
+
+
+Patent Name
+Date
+Filed
+Application No.
+System and Method for Scheduling In-Theatre Advertising and System and Method for Scheduling Digital Content	  	12/12/03	  	PCT/US03/39762
+WO2004/081903
+
+Digital Projector Automation	  	3/5/04	  	PCT/US04/06993
+WO2005/006154
+
+
